@@ -1,0 +1,519 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27287699</article-id><article-id pub-id-type="pmc">4937273</article-id><article-id pub-id-type="doi">10.1161/JAHA.116.003323</article-id><article-id pub-id-type="publisher-id">JAH31560</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Coronary Heart Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Relationship Between Low&#x02010;Density Lipoprotein Cholesterol, Free Proprotein Convertase Subtilisin/Kexin Type 9, and Alirocumab Levels After Different Lipid&#x02010;Lowering Strategies</article-title><alt-title alt-title-type="left-running-head">Rey et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah31560-cr-0001" contrib-type="author"><name><surname>Rey</surname><given-names>Jacques</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah31560-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31560-cr-0002" contrib-type="author" corresp="yes"><name><surname>Poitiers</surname><given-names>Franck</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="jah31560-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31560-cr-0003" contrib-type="author"><name><surname>Paehler</surname><given-names>Tobias</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah31560-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31560-cr-0004" contrib-type="author"><name><surname>Brunet</surname><given-names>Aur&#x000e9;lie</given-names></name><degrees>PharmD</degrees><xref ref-type="aff" rid="jah31560-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31560-cr-0005" contrib-type="author"><name><surname>DiCioccio</surname><given-names>A. Thomas</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah31560-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah31560-cr-0006" contrib-type="author"><name><surname>Cannon</surname><given-names>Christopher P.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31560-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jah31560-cr-0007" contrib-type="author"><name><surname>Surks</surname><given-names>Howard K.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31560-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jah31560-cr-0008" contrib-type="author"><name><surname>Pinquier</surname><given-names>Jean&#x02010;Louis</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31560-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31560-cr-0009" contrib-type="author"><name><surname>Hanotin</surname><given-names>Corinne</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31560-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah31560-cr-0010" contrib-type="author"><name><surname>Sasiela</surname><given-names>William J.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah31560-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="jah31560-aff-0001"><label><sup>1</sup></label><institution>Sanofi</institution><named-content content-type="city">Paris</named-content><country country="FR">France</country></aff><aff id="jah31560-aff-0002"><label><sup>2</sup></label><institution>Sanofi</institution><named-content content-type="city">Frankfurt</named-content><country country="DE">Germany</country></aff><aff id="jah31560-aff-0003"><label><sup>3</sup></label><institution>Sanofi</institution><named-content content-type="city">Montpellier</named-content><country country="FR">France</country></aff><aff id="jah31560-aff-0004"><label><sup>4</sup></label><institution>Regeneron Pharmaceuticals, Inc</institution><named-content content-type="city">Tarrytown</named-content><named-content content-type="country-part">NY</named-content></aff><aff id="jah31560-aff-0005"><label><sup>5</sup></label><institution>Harvard Clinical Research Institute</institution><named-content content-type="city">Boston</named-content><named-content content-type="country-part">MA</named-content></aff><aff id="jah31560-aff-0006"><label><sup>6</sup></label><institution>Sanofi</institution><named-content content-type="city">Bridgewater</named-content><named-content content-type="country-part">NJ</named-content></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Franck Poitiers, MSc, 1, avenue Pierre Brossolette, Chilly&#x02010;Mazarin Cedex, 91385 France. E&#x02010;mail: <email>franck.poitiers@sanofi.com</email></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>6</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>6</month><year>2016</year></pub-date><volume>5</volume><issue>6</issue><issue-id pub-id-type="doi">10.1002/jah3.2016.5.issue-6</issue-id><elocation-id>e003323</elocation-id><history><date date-type="received"><day>04</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>07</day><month>5</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-5-e003323.pdf"/><abstract id="jah31560-abs-0001"><sec id="jah31560-sec-0001"><title>Background</title><p>Alirocumab undergoes target&#x02010;mediated clearance via binding of proprotein convertase subtilisin/kexin type 9 (<styled-content style="fixed-case">PCSK</styled-content>9). Statins increase <styled-content style="fixed-case">PCSK</styled-content>9 levels; the effects of nonstatin lipid&#x02010;lowering therapies are unclear. Every&#x02010;4&#x02010;weeks dosing of alirocumab may be appropriate for some patients in absence of background statin but is not yet approved.</p></sec><sec id="jah31560-sec-0002"><title>Methods and Results</title><p>Low&#x02010;density lipoprotein cholesterol (<styled-content style="fixed-case">LDL</styled-content>&#x02010;C), <styled-content style="fixed-case">PCSK</styled-content>9, and alirocumab levels were assessed in subjects (<styled-content style="fixed-case">LDL</styled-content>&#x02010;C &#x0003e;130&#x000a0;mg/dL, n=24/group) after a 4&#x02010;week run&#x02010;in taking oral ezetimibe, fenofibrate, or ezetimibe placebo, when alirocumab 150&#x000a0;mg every 4 weeks (days 1, 29, and 57) was added. Maximal mean <styled-content style="fixed-case">LDL</styled-content>&#x02010;C reductions from day &#x02212;1 baseline (prealirocumab) occurred on day 71 in all groups: alirocumab plus placebo, 47.4%; alirocumab plus ezetimibe, 56.6%; and alirocumab plus fenofibrate, 54.3%. <styled-content style="fixed-case">LDL</styled-content>&#x02010;C reductions were sustained through day 85 with alirocumab plus placebo (47.0%); the duration of effect was slightly diminished at day 85 versus day 71 with ezetimibe (49.6%) or fenofibrate combinations (43.2%). Free <styled-content style="fixed-case">PCSK</styled-content>9 concentrations were lowest at day 71 in all groups, then increased over time; by day 85, free <styled-content style="fixed-case">PCSK</styled-content>9 concentrations were higher, and alirocumab levels lower, with alirocumab plus fenofibrate, and to a lesser extent alirocumab plus ezetimibe, versus alirocumab plus placebo.</p></sec><sec id="jah31560-sec-0003"><title>Conclusions</title><p>Alirocumab 150&#x000a0;mg every 4 weeks produced maximal <styled-content style="fixed-case">LDL</styled-content>&#x02010;C reductions of 47% in combination with placebo and 54% to 57% in combination with ezetimibe or fenofibrate. The oral lipid&#x02010;lowering therapies appear to increase <styled-content style="fixed-case">PCSK</styled-content>9 levels, leading to increased alirocumab clearance. Although the duration of effect was modestly diminished with alirocumab plus ezetimibe/fenofibrate versus placebo, the effect was less than observed in trials with background statins, and it would not preclude the use of alirocumab every 4 weeks in patients taking these nonstatin lipid&#x02010;lowering therapies concomitantly.</p></sec><sec id="jah31560-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="http://www.Clinicaltrials.gov">http://www.Clinicaltrials.gov</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>01723735.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah31560-kwd-0001">cholesterol</kwd><kwd id="jah31560-kwd-0002">hypercholesterolemia</kwd><kwd id="jah31560-kwd-0003">lipids</kwd><kwd id="jah31560-kwd-0004">pharmacokinetics</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Lipids and Cholesterol</kwd></kwd-group><funding-group><award-group><funding-source>Sanofi</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Regeneron Pharmaceuticals, Inc.</funding-source></award-group></funding-group><counts><page-count count="13"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah31560</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.1 mode:remove_FC converted:28.06.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah31560-cit-1001">(<source>J Am Heart Assoc</source>. <year>2016</year>;<volume>5</volume>:e003323 doi: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.116.003323">10.1161/JAHA.116.003323</ext-link>)</mixed-citation>
+</p></notes></front><body><sec id="jah31560-sec-0005"><title>Introduction</title><p>Proprotein convertase subtilisin/kexin type 9 (PCSK9) binds the low&#x02010;density lipoprotein receptor (LDLR) on&#x000a0;hepatocytes.<xref rid="jah31560-bib-0001" ref-type="ref">1</xref> Monoclonal antibodies to PCSK9 block its effect on the LDLR and reduce low&#x02010;density lipoprotein&#x000a0;cholesterol (LDL&#x02010;C) levels. Such antibodies undergo target&#x02010;mediated clearance by binding to PCSK9. Although statins reduce LDL&#x02010;C, they also increase PCSK9 levels.<xref rid="jah31560-bib-0002" ref-type="ref">2</xref> This may limit the extent of LDL&#x02010;C reduction possible with statins as well as affecting clearance of PCSK9 antibodies when added to statins.</p><p>Addition of the PCSK9 antibody alirocumab to statin therapy produces sustained LDL&#x02010;C reductions when dosed every 2&#x000a0;weeks (Q2W).<xref rid="jah31560-bib-0003" ref-type="ref">3</xref>, <xref rid="jah31560-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31560-bib-0005" ref-type="ref">5</xref>, <xref rid="jah31560-bib-0006" ref-type="ref">6</xref> However, when alirocumab was dosed every 4&#x000a0;weeks (Q4W) in combination with statin, reductions were not fully sustained over the dosing interval.<xref rid="jah31560-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31560-bib-0006" ref-type="ref">6</xref> This may be because of a statin&#x02010;induced increase in PCSK9 levels and target&#x02010;mediated clearance of alirocumab. A single 150&#x02010;mg dose of alirocumab without background statin appeared to give a more stable reduction over 4&#x000a0;weeks.<xref rid="jah31560-bib-0007" ref-type="ref">7</xref> However, multiple dosings of alirocumab Q4W without background statins have not been investigated. Moreover, little is known about potential effects on LDL&#x02010;C and PCSK9 from combining alirocumab with nonstatin lipid&#x02010;lowering therapies (LLTs) such as ezetimibe and fenofibrate.</p><p>Ezetimibe inhibits the digestive absorption of cholesterol and related plant sterols and is primarily used for reducing LDL&#x02010;C as an adjunct to statin.<xref rid="jah31560-bib-0008" ref-type="ref">8</xref> Fenofibrate, an activator of peroxisome proliferator&#x02010;activated receptor &#x003b1;, increases lipolysis and clearance of triglyceride&#x02010;rich lipoproteins; although fenofibrate reduces LDL&#x02010;C (in the context of lower baseline triglycerides), it also has a marked effect on triglycerides.<xref rid="jah31560-bib-0009" ref-type="ref">9</xref> The effect of ezetimibe and fenofibrate on PCSK9 is unclear. Animal studies suggest that ezetimibe increases PCSK9 levels,<xref rid="jah31560-bib-0010" ref-type="ref">10</xref>, <xref rid="jah31560-bib-0011" ref-type="ref">11</xref> but no effect was seen in humans.<xref rid="jah31560-bib-0012" ref-type="ref">12</xref> The change in PCSK9 levels with fibrates varies widely among reports.<xref rid="jah31560-bib-0013" ref-type="ref">13</xref>
+</p><p>This study assessed the pharmacokinetic and pharmacodynamic profile and circulating PCSK9 levels when alirocumab 150&#x000a0;mg is administered Q4W with placebo or in combination with ezetimibe or fenofibrate.</p></sec><sec id="jah31560-sec-0006"><title>Materials and Methods</title><p>This randomized partial&#x02010;blinded study (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">clinicaltrials.gov</ext-link> identifier: NCT01723735) was conducted in 2 centers in France in 3 parallel groups. The study protocol was approved by the appropriate institutional review boards and was performed in accordance with the ethical principles of the Declaration of Helsinki and in compliance with good clinical practice. All subjects provided written informed consent.</p><sec id="jah31560-sec-0007"><title>Subjects</title><p>Male or female subjects were eligible if they were aged 18 to&#x000a0;65&#x000a0;years with a body mass index between 18.0 and 30.0&#x000a0;kg/m<sup>2</sup> and had LDL&#x02010;C levels &#x0003e;130&#x000a0;mg/dL at screening. Subjects were certified as healthy on the basis of a comprehensive clinical assessment (detailed medical history and complete physical examination) and were not taking any LLTs at the time of enrolment. Any previous LLT had been discontinued at least 4&#x000a0;weeks before screening. Subjects were excluded if they had any clinically significant medical history or if they had taken any medication within the 2&#x000a0;weeks before the study start (with the exception of hormonal contraception or menopausal hormone replacement therapy).</p></sec><sec id="jah31560-sec-0008"><title>Study Design</title><p>After the screening, subjects were randomized into 3 groups, entered a 28&#x02010;day initial therapy run&#x02010;in period, and received once&#x02010;daily oral doses of either ezetimibe placebo, ezetimibe 10&#x000a0;mg, or fenofibrate 160&#x000a0;mg (Figure&#x000a0;<xref rid="jah31560-fig-0001" ref-type="fig">1</xref>). Subjects with LDL&#x02010;C levels &#x02265;100&#x000a0;mg/dL at the end of the run&#x02010;in period then entered the alirocumab treatment period, during which they received alirocumab 150&#x000a0;mg Q4W subcutaneously on days 1, 29, and 57, in addition to continuing initial oral therapy. Subjects were instructed to keep to their usual diet throughout the study. The oral ezetimibe placebo matched the ezetimibe tablets; fenofibrate treatment was unblinded because placebo fenofibrate was not available for use in the study. The run&#x02010;in period was included to allow steady state of both LLT compounds to be reached and full lipid&#x02010;lowering effect to be achieved,<xref rid="jah31560-bib-0014" ref-type="ref">14</xref> as well as to assess their effect on PCSK9 concentrations before alirocumab was administered.</p><fig fig-type="Figure" xml:lang="en" id="jah31560-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study design. *Placebo for ezetimibe. Red arrows indicate time of alirocumab injections. At the bottom left of the figure, <styled-content style="fixed-case">PK</styled-content> refers to free <styled-content style="fixed-case">PCSK</styled-content>9 and total alirocumab. D indicates study day; <styled-content style="fixed-case">EZE</styled-content>, ezetimibe; <styled-content style="fixed-case">FENO</styled-content>, fenofibrate; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin type 9; <styled-content style="fixed-case">PO</styled-content>, oral administration; Q4W, every 4&#x000a0;weeks; <styled-content style="fixed-case">QD</styled-content>, every day; R, randomization; <styled-content style="fixed-case">SC</styled-content>, subcutaneous administration.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-5-e003323-g001"/></fig></sec><sec id="jah31560-sec-0009"><title>End Points</title><p>The primary end point was the mean percent change in LDL&#x02010;C from day &#x02212;29 (the day before the initial therapy run&#x02010;in). However, because this study was intended to specifically assess the effect of alirocumab, an additional baseline of day &#x02212;1 (the day before first administration of alirocumab) was considered at the time of the statistical analysis plan. This additional baseline therefore accounted for changes in lipid profiles during the initial therapy run&#x02010;in period with ezetimibe and fenofibrate alone and allowed assessment of the specific effect of alirocumab on LDL&#x02010;C in combination with placebo (ie, as monotherapy) or in combination with the LLTs. The primary analysis was considered to be percent change from baseline to day 71. Two time points were used as baseline as shown in Figure&#x000a0;<xref rid="jah31560-fig-0001" ref-type="fig">1</xref>.</p><p>Secondary end points included the percent change in secondary lipid parameters, including total cholesterol, non&#x02013;high&#x02010;density lipoprotein cholesterol (non&#x02013;HDL&#x02010;C), apolipoprotein B, lipoprotein(a), triglycerides, HDL&#x02010;C, and apolipoprotein A1 and changes in free and total PCSK9 levels and total alirocumab levels.</p><p>Pharmacokinetic parameters calculated for alirocumab included maximum serum concentration (C<sub>max</sub>) following the third injection and the area under the serum concentration&#x02013;versus&#x02013;time curve from day 57 to day 85 (AUC<sub>D57&#x02013;85</sub>; ie, the 28&#x02010;day period after the last alirocumab dose).</p><p>Safety, including adverse events (AEs), vital signs, electrocardiogram, and laboratory assessments, was also evaluated.</p></sec><sec id="jah31560-sec-0010"><title>Laboratory Assessments</title><p>Blood samples were taken in the morning after a 10&#x02010;hour overnight fast and before study drug administration. Sampling times are shown on Figure&#x000a0;<xref rid="jah31560-fig-0001" ref-type="fig">1</xref>; note that no measurements were taken after the second alirocumab injection (indicated by a dotted line on the results figures). Total cholesterol, HDL&#x02010;C, and triglycerides were directly measured at local laboratories; apolipoprotein B, apolipoprotein A1, and lipoprotein(a) were directly measured at a central laboratory. LDL&#x02010;C was calculated by using the Friedewald formula (LDL&#x02010;C=total cholesterol&#x02212;HDL&#x02010;C&#x02212;[triglycerides/5]).</p><p>Free and total PCSK9 levels and total alirocumab levels in serum were determined by using specific validated enzyme&#x02010;linked immunosorbent assays (Regeneron Pharmaceuticals). The lower limits of detection were 31.2&#x000a0;ng/mL for free PCSK9, 156&#x000a0;ng/mL for total PCSK9, and 78&#x000a0;ng/mL for alirocumab; values below these levels are set to 0 for presentation of results.</p></sec><sec id="jah31560-sec-0011"><title>Statistical Methods</title><p>Enrollment of 72 subjects into the alirocumab treatment phase was planned to ensure &#x02265;60 subjects (20 per group) could be included in the primary analysis. This sample size was calculated to give a maximal imprecision of &#x02264;18.7% in terms of 95% CIs, for the relative change of LDL&#x02010;C means between alirocumab plus ezetimibe or alirocumab plus fenofibrate versus alirocumab plus placebo, with 90% assurance, assuming an SD of 25% based on previous trial results.<xref rid="jah31560-bib-0007" ref-type="ref">7</xref> The study was not powered for statistical comparisons of changes in secondary end points.</p><p>The percent change from baseline in LDL&#x02010;C was analyzed by using a linear mixed&#x02010;effects model. This model had fixed terms for treatment (alirocumab 150&#x000a0;mg Q4W plus ezetimibe, alirocumab 150&#x000a0;mg Q4W plus fenofibrate, or alirocumab 150&#x000a0;mg Q4W plus placebo), sex, study site, day, and treatment &#x000d7; day interaction term and with &#x0201c;subject (treatment&#x000d7;sex)&#x0201d; as a random effect. A variance component structure was used for the variance&#x02013;covariance matrix of the random effects. The variance component structure was defined as:<disp-formula id="jah31560-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:msubsup><mml:mi mathvariant="italic">&#x003c3;</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mo>=</mml:mo><mml:msubsup><mml:mi mathvariant="italic">&#x003c3;</mml:mi><mml:mrow><mml:mi>k</mml:mi></mml:mrow><mml:mn>2</mml:mn></mml:msubsup><mml:mspace width="4pt"/><mml:mn>1</mml:mn><mml:mrow><mml:mo stretchy="false">(</mml:mo><mml:mtext>i=j</mml:mtext><mml:mo stretchy="false">)</mml:mo></mml:mrow><mml:mspace width="0.333333em"/><mml:mtext>and i corresponds to the</mml:mtext><mml:mspace width="0.166667em"/><mml:mspace width="0.166667em"/><mml:mi>k</mml:mi><mml:mtext>th effect</mml:mtext></mml:mrow></mml:math></disp-formula>
+</p><p>Other parameters such as age were not included in the model, because differences between groups were not significant. Estimates and 95% CIs were determined at each time point for the difference between means of alirocumab plus ezetimibe or fenofibrate combinations versus alirocumab plus placebo. This analysis was conducted by using day &#x02212;29 as baseline and was repeated with day &#x02212;1 as baseline. Secondary lipid parameters were assessed in a similar way, and <italic>P</italic>&#x02010;values are given for descriptive purposes only. Because all analyses were considered as fully exploratory, multiplicity was not considered.</p><p>Changes in free and total PCSK9 levels were summarized by using descriptive statistics. Estimates (and 90% CIs) of geometric mean ratios of alirocumab plus ezetimibe versus alirocumab plus placebo, or alirocumab plus fenofibrate versus alirocumab plus placebo, were calculated by using a linear fixed&#x02010;effects model.</p><p>Pharmacokinetic parameters were summarized by using descriptive statistics. The effect on alirocumab serum levels of coadministering alirocumab with ezetimibe or with fenofibrate versus alirocumab plus placebo was assessed by using a linear fixed&#x02010;effects model with fixed terms for treatment, sex, and study site and with log of weight as covariate. Estimates and 90% CIs for the ratios of geometric means of C<sub>max</sub> and AUC values between each treatment group were determined.</p><p>Safety data were summarized by using descriptive statistics. Statistical analyses were conducted with use of SAS Proc Mixed (SAS Institute).</p></sec></sec><sec id="jah31560-sec-0012"><title>Results</title><p>One hundred sixty&#x02010;seven subjects were screened, and 79 subjects were randomized and entered the run&#x02010;in period. Of these 79 subjects, 72 (24 per group) qualified to enter the alirocumab treatment period and 7 were excluded: 4 because their LDL&#x02010;C was &#x0003c;100&#x000a0;mg/dL by the end of the run&#x02010;in period, 2 because of AEs (increased alanine transaminase levels while receiving fenofibrate), and 1 withdrew for personal reasons. Baseline characteristics for the 72 subjects who commenced alirocumab treatment and were included in the primary analysis are shown in Table&#x000a0;<xref rid="jah31560-tbl-0001" ref-type="table-wrap">1</xref>.</p><table-wrap id="jah31560-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Subject Characteristics at Main Baseline (Day &#x02212;29)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Treatment Group</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Placebo (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Ezetimibe (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Fenofibrate (n=24)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y</td><td align="left" rowspan="1" colspan="1">48.5 (12.8)</td><td align="left" rowspan="1" colspan="1">49.5 (10.7)</td><td align="left" rowspan="1" colspan="1">54.6 (7.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Male, n (%)</td><td align="left" rowspan="1" colspan="1">11 (45.8)</td><td align="left" rowspan="1" colspan="1">11 (45.8)</td><td align="left" rowspan="1" colspan="1">10 (41.7)</td></tr><tr><td align="left" colspan="4" rowspan="1">Race, n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Caucasian/white</td><td align="left" rowspan="1" colspan="1">23 (95.8)</td><td align="left" rowspan="1" colspan="1">21 (87.5)</td><td align="left" rowspan="1" colspan="1">24 (100)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black</td><td align="left" rowspan="1" colspan="1">1 (4.2)</td><td align="left" rowspan="1" colspan="1">3 (12.5)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">23.9 (2.0)</td><td align="left" rowspan="1" colspan="1">25.5 (2.7)</td><td align="left" rowspan="1" colspan="1">24.7 (2.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Calculated LDL&#x02010;C, mg/dL</td><td align="left" rowspan="1" colspan="1">183.3 (38.7)</td><td align="left" rowspan="1" colspan="1">181.7 (37.1)</td><td align="left" rowspan="1" colspan="1">180.6 (31.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total cholesterol, mg/dL</td><td align="left" rowspan="1" colspan="1">264.5 (43.7)</td><td align="left" rowspan="1" colspan="1">260.6 (40.6)</td><td align="left" rowspan="1" colspan="1">263.7 (40.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Apolipoprotein B, g/L</td><td align="left" rowspan="1" colspan="1">1.28 (0.21)</td><td align="left" rowspan="1" colspan="1">1.28 (0.22)</td><td align="left" rowspan="1" colspan="1">1.28 (0.17)</td></tr><tr><td align="left" rowspan="1" colspan="1">Non&#x02013;HDL&#x02010;C, mg/dL</td><td align="left" rowspan="1" colspan="1">198.4 (40.6)</td><td align="left" rowspan="1" colspan="1">200.3 (39.8)</td><td align="left" rowspan="1" colspan="1">199.5 (31.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">HDL&#x02010;C, mg/dL</td><td align="left" rowspan="1" colspan="1">65.7 (12.4)</td><td align="left" rowspan="1" colspan="1">60.3 (13.1)</td><td align="left" rowspan="1" colspan="1">64.2 (15.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Apolipoprotein A1, g/L</td><td align="left" rowspan="1" colspan="1">1.58 (0.16)</td><td align="left" rowspan="1" colspan="1">1.55 (0.21)</td><td align="left" rowspan="1" colspan="1">1.57 (0.20)</td></tr><tr><td align="left" rowspan="1" colspan="1">Triglycerides (mg/dL), median (range)</td><td align="left" rowspan="1" colspan="1">78.8 (44.3&#x02013;177.1)</td><td align="left" rowspan="1" colspan="1">95.7 (35.4&#x02013;168.3)</td><td align="left" rowspan="1" colspan="1">94.8 (53.1&#x02013;194.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lipoprotein(a) (g/L), median (range)</td><td align="left" rowspan="1" colspan="1">0.27 (0.0&#x02013;1.6)</td><td align="left" rowspan="1" colspan="1">0.33 (0.0&#x02013;1.6)</td><td align="left" rowspan="1" colspan="1">0.17 (0.0&#x02013;1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Free PCSK9, ng/mL</td><td align="left" rowspan="1" colspan="1">146.5 (54.3)</td><td align="left" rowspan="1" colspan="1">150.7 (48.5)</td><td align="left" rowspan="1" colspan="1">152.1 (54.1)</td></tr></tbody></table><table-wrap-foot><fn id="jah31560-note-0001"><p>Values are mean (SD) unless otherwise stated. HDL&#x02010;C indicates high&#x02010;density lipoprotein cholesterol; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; PCSK9, proprotein convertase subtilisin/kexin type 9; Q4W, every 4&#x000a0;weeks.</p></fn></table-wrap-foot></table-wrap><sec id="jah31560-sec-0013"><title>Effects on LDL&#x02010;C</title><p>During the course of the 28&#x02010;day initial therapy run&#x02010;in, LDL&#x02010;C levels were reduced by a mean (SEM) of 19.8% (2.1%) with ezetimibe and 25.9% (3.2%) with fenofibrate from day &#x02212;29 baseline values; mean change in the placebo group was +1.6% (3.0%) (Figure&#x000a0;<xref rid="jah31560-fig-0002" ref-type="fig">2</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="jah31560-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Time&#x02010;courses of mean <styled-content style="fixed-case">LDL</styled-content>&#x02010;C percent change from main (day &#x02212;29) baseline (A) and additional (day &#x02212;1) baseline (B). Dotted lines between days 29 and 57 indicate no measurement taken for this period. Triangles below the <italic>x</italic>&#x02010;axis indicate timing of alirocumab injections. <styled-content style="fixed-case">EZE</styled-content> indicates ezetimibe; <styled-content style="fixed-case">FENO</styled-content>, fenofibrate; <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, low&#x02010;density lipoprotein cholesterol; Q4W, every 4&#x000a0;weeks. A, Differences in mean <styled-content style="fixed-case">LDL</styled-content>&#x02010;C percentage reductions from pre&#x02013;run&#x02010;in baseline values (day &#x02212;29) were statistically significant between alirocumab+ezetimibe vs alirocumab+placebo at all time points, and between alirocumab+fenofibrate vs alirocumab+placebo at all time points except day 99 (<italic>P</italic>&#x0003c;0.05). B, Differences in mean <styled-content style="fixed-case">LDL</styled-content>&#x02010;C percent reductions from prealirocumab baseline values (day &#x02212;1) were statistically significant between alirocumab+ezetimibe vs alirocumab+placebo on days 8, 15, 22, 64, 71, and 120, and between alirocumab+fenofibrate vs alirocumab+placebo on days 8, 15, and 29 (<italic>P</italic>&#x0003c;0.05).</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-5-e003323-g002"/></fig><p>After the initiation of alirocumab Q4W, the greatest mean percent reduction in LDL&#x02010;C levels was observed in all groups on day 71 (Figure&#x000a0;<xref rid="jah31560-fig-0002" ref-type="fig">2</xref>; Table&#x000a0;<xref rid="jah31560-tbl-0002" ref-type="table-wrap">2</xref>). Coadministration of alirocumab with ezetimibe or fenofibrate produced significantly greater mean LDL&#x02010;C reductions from the main (day &#x02212;29) baseline (ie, pre&#x02013;run&#x02010;in) versus alirocumab plus placebo at almost every time point (<italic>P</italic>&#x0003c;0.05; primary analysis; Figure&#x000a0;<xref rid="jah31560-fig-0002" ref-type="fig">2</xref>A). These data represent the combined effect of alirocumab and the concomitant lipid therapy from the original (pre&#x02013;run&#x02010;in) LDL&#x02010;C baseline level.</p><table-wrap id="jah31560-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Percentage Change in Lipid Parameters From the Main Baseline (Day &#x02212;29) and the Additional Baseline (Day &#x02212;1) to Day 71 (14 Days After the Third Alirocumab Dose)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Treatment Group</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">% Change From Day &#x02212;29 to 71 (Only Placebo, Ezetimibe or Fenofibrate Were Given From Days &#x02212;29 to &#x02212;1)</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">% Change From Day &#x02212;1 to Day 71 (First Alirocumab Injection Administered on Day 1; Placebo/Ezetimibe/Fenofibrate Treatment Continued)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Placebo (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Ezetimibe (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Fenofibrate (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Placebo (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Ezetimibe (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Fenofibrate (n=24)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">LDL&#x02010;C</td><td align="left" rowspan="1" colspan="1">&#x02212;48.2 (2.3)</td><td align="left" rowspan="1" colspan="1">&#x02212;65.3 (2.0)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;66.8 (2.7)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;47.4 (3.2)</td><td align="left" rowspan="1" colspan="1">&#x02212;56.6 (2.5)<xref ref-type="fn" rid="jah31560-note-0003">*</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;54.3 (3.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total cholesterol</td><td align="left" rowspan="1" colspan="1">&#x02212;31.6 (1.4)</td><td align="left" rowspan="1" colspan="1">&#x02212;45.7 (1.5)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;46.1 (1.9)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;31.5 (2.6)</td><td align="left" rowspan="1" colspan="1">&#x02212;36.5 (1.4)</td><td align="left" rowspan="1" colspan="1">&#x02212;32.4 (2.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Non&#x02013;HDL&#x02010;C</td><td align="left" rowspan="1" colspan="1">&#x02212;43.0 (1.7)</td><td align="left" rowspan="1" colspan="1">&#x02212;60.6 (1.9)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;64.4 (2.5)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;43.0 (2.7)</td><td align="left" rowspan="1" colspan="1">&#x02212;51.9 (2.1)<xref ref-type="fn" rid="jah31560-note-0003">*</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;50.5 (3.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Apo B</td><td align="left" rowspan="1" colspan="1">&#x02212;39.1 (1.5)</td><td align="left" rowspan="1" colspan="1">&#x02212;53.5 (1.8)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;58.3 (2.1)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;38.4 (2.4)</td><td align="left" rowspan="1" colspan="1">&#x02212;44.9 (2.0)</td><td align="left" rowspan="1" colspan="1">&#x02212;44.6 (2.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">HDL&#x02010;C</td><td align="left" rowspan="1" colspan="1">3.3 (3.4)</td><td align="left" rowspan="1" colspan="1">5.4 (3.2)</td><td align="left" rowspan="1" colspan="1">12.3 (3.1)<xref ref-type="fn" rid="jah31560-note-0003">*</xref>
+</td><td align="left" rowspan="1" colspan="1">3.6 (2.9)</td><td align="left" rowspan="1" colspan="1">6.4 (3.1)</td><td align="left" rowspan="1" colspan="1">8.7 (3.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">ApoA1</td><td align="left" rowspan="1" colspan="1">1.9 (6.3)</td><td align="left" rowspan="1" colspan="1">1.2 (9.0)</td><td align="left" rowspan="1" colspan="1">3.4 (7.3)</td><td align="left" rowspan="1" colspan="1">1.4 (10.1)</td><td align="left" rowspan="1" colspan="1">1.0 (6.9)</td><td align="left" rowspan="1" colspan="1">2.9 (8.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Triglycerides, median (range)</td><td align="left" rowspan="1" colspan="1">5.7 (&#x02212;48.5 to 266.7)</td><td align="left" rowspan="1" colspan="1">&#x02212;13.8 (&#x02212;53.4 to 53.5)<xref ref-type="fn" rid="jah31560-note-0003">*</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;36.0 (&#x02212;57.9 to 11.3)<xref ref-type="fn" rid="jah31560-note-0003">&#x02020;</xref>
+</td><td align="left" rowspan="1" colspan="1">&#x02212;3.9 (&#x02212;41.3 to 77.6)</td><td align="left" rowspan="1" colspan="1">&#x02212;16.5 (&#x02212;37.2 to 24.2)</td><td align="left" rowspan="1" colspan="1">&#x02212;3.5 (&#x02212;58.0 to 74.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Lp(a), median (range)</td><td align="left" rowspan="1" colspan="1">&#x02212;20.3 (&#x02212;63.2 to 33.3)</td><td align="left" rowspan="1" colspan="1">&#x02212;27.0 (&#x02212;71.4 to 35.8)</td><td align="left" rowspan="1" colspan="1">&#x02212;19.9 (&#x02212;57.6 to 38.3)</td><td align="left" rowspan="1" colspan="1">&#x02212;11.7 (&#x02212;58.8 to 160.9)</td><td align="left" rowspan="1" colspan="1">&#x02212;9.2 (&#x02212;67.0 to 66.7)</td><td align="left" rowspan="1" colspan="1">&#x02212;20.4 (&#x02212;56.8 to 17.7)<xref ref-type="fn" rid="jah31560-note-0003">*</xref>
+</td></tr></tbody></table><table-wrap-foot><fn id="jah31560-note-0002"><p>Values are mean (SEM) unless otherwise stated. Apo indicates apolipoprotein; HDL&#x02010;C, high&#x02010;density lipoprotein cholesterol; LDL&#x02010;C, low&#x02010;density lipoprotein cholesterol; Lp(a), lipoprotein(a); Q4W, every 4&#x000a0;weeks.</p></fn><fn id="jah31560-note-0003"><p>
+<italic>P</italic>&#x02010;values are linked to tests of the means. *<italic>P</italic>&#x0003c;0.05, <sup>&#x02020;</sup>
+<italic>P</italic>&#x0003c;0.0001 vs alirocumab+placebo.</p></fn></table-wrap-foot></table-wrap><p>The analysis with use of the day &#x02212;1 baseline (ie, prealirocumab) allows for examination of the specific effects of alirocumab. Mean (SEM) percentage LDL&#x02010;C reductions with alirocumab plus placebo showed little change during the 28&#x02010;day period after the third dose: day 57, 44.4% (2.8%); day 71, 47.4% (3.2%); and day 85, 47.0% (2.7%) (Figure&#x000a0;<xref rid="jah31560-fig-0002" ref-type="fig">2</xref>B), suggesting a sustained effect over the Q4W dosing interval. Mean (SEM) LDL&#x02010;C reductions from day &#x02212;1 to day 71 were greater with alirocumab plus ezetimibe versus with alirocumab plus placebo (56.6% [2.5%] versus 47.4% [3.2%], <italic>P</italic>&#x0003c;0.05); corresponding reductions with alirocumab plus fenofibrate (54.3% [3.5%]) were not significantly different from those with alirocumab plus placebo (<italic>P</italic>=0.11; Figure&#x000a0;<xref rid="jah31560-fig-0002" ref-type="fig">2</xref>B, Table&#x000a0;<xref rid="jah31560-tbl-0002" ref-type="table-wrap">2</xref>). In comparison with alirocumab plus placebo, for the alirocumab&#x02013;LLT combinations, the LDL&#x02010;C reduction from day &#x02212;1 to day 85 was smaller than the reduction to day 71 (49.6% [1.6%] versus 56.6% [2.5%] with&#x000a0;ezetimibe and 43.2% [3.8%] versus 54.3% [3.5%] with fenofibrate). This suggests a modest attenuation of the LDL&#x02010;C&#x02013;lowering effect with the alirocumab&#x02013;LLT combinations during the Q4W dosing interval compared with the placebo combination (Figure&#x000a0;<xref rid="jah31560-fig-0002" ref-type="fig">2</xref>B).</p></sec><sec id="jah31560-sec-0014"><title>Effects on PCSK9 and Relationship With LDL&#x02010;C</title><p>PCSK9 is described here as either free PCSK9, representing unbound PCSK9 available to interact with the LDLR, or total PCSK9, representing all circulating PCSK9 including inactive alirocumab&#x02010;bound PCSK9.</p><p>Mean baseline free PCSK9 concentrations were similar across all groups at the start of the initial therapy run&#x02010;in period (day &#x02212;29; 147&#x02013;152&#x000a0;ng/mL). By the end of the run&#x02010;in and before the first alirocumab dose (day 1), mean free PCSK9 concentrations were 119&#x000a0;ng/mL with placebo, 142&#x000a0;ng/mL with ezetimibe (24% greater than placebo; 90% CI 4&#x02013;47%), and 217&#x000a0;ng/mL with fenofibrate (92% greater than placebo; 90% CI 62&#x02013;128%; Figure&#x000a0;<xref rid="jah31560-fig-0003" ref-type="fig">3</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="jah31560-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Mean free <styled-content style="fixed-case">PCSK</styled-content>9 levels in all 3 treatment groups (A), and free <styled-content style="fixed-case">PCSK</styled-content>9 levels compared with percentage changes in <styled-content style="fixed-case">LDL</styled-content>&#x02010;C from the main baseline (day &#x02212;29) for alirocumab plus placebo (B), plus ezetimibe (C), and plus fenofibrate (D). Dotted lines between days 29 and 57 indicate no measurement taken for this period. <styled-content style="fixed-case">EZE</styled-content> indicates ezetimibe; <styled-content style="fixed-case">FENO</styled-content>, fenofibrate; <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, low&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin 9; Q4W, every 4&#x000a0;weeks.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-5-e003323-g003"/></fig><p>Free PCSK9 was reduced to undetectable or very low concentrations (0&#x02013;5&#x000a0;ng/mL) by day 71 in all groups; then concentrations gradually increased over days 71 to 85 (Figure&#x000a0;<xref rid="jah31560-fig-0003" ref-type="fig">3</xref>A). In the group receiving alirocumab plus placebo, mean free PCSK9 remained low (17&#x000a0;ng/mL) at day 85, consistent with the relatively stable LDL&#x02010;C reductions in this group (Figure&#x000a0;<xref rid="jah31560-fig-0003" ref-type="fig">3</xref>B). In comparison, mean free PCSK9 concentrations were higher at day 85 with ezetimibe (60&#x000a0;ng/mL) and fenofibrate (102&#x000a0;ng/mL), corresponding with the modest attenuation of the LDL&#x02010;C&#x02013;lowering effect observed when alirocumab was administered with the LLTs (Figure&#x000a0;<xref rid="jah31560-fig-0003" ref-type="fig">3</xref>C and <xref rid="jah31560-fig-0003" ref-type="fig">3</xref>D).</p><p>Total PCSK9 concentrations increased from baseline in all groups after the first alirocumab dose (Figure&#x000a0;<xref rid="jah31560-fig-0004" ref-type="fig">4</xref>). Overall, mean total PCSK9 concentrations were highest in the group receiving fenofibrate (Figure&#x000a0;<xref rid="jah31560-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah31560-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Total <styled-content style="fixed-case">PCSK</styled-content>9 concentrations and <styled-content style="fixed-case">LDL</styled-content>&#x02010;C percentage changes from the additional baseline (day &#x02212;1). The continuous line indicates total <styled-content style="fixed-case">PCSK</styled-content>9, dashed line indicates <styled-content style="fixed-case">LDL</styled-content>&#x02010;C. Dotted lines between days 29 and 57 indicate no measurement taken for this period. Triangles below the <italic>x</italic>&#x02010;axis indicate timing of alirocumab injections. EOS indicates end of study; EZE, ezetimibe; <styled-content style="fixed-case">FENO</styled-content>, fenofibrate; <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, low&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin 9.</p></caption><graphic id="nlm-graphic-7" xlink:href="JAH3-5-e003323-g004"/></fig></sec><sec id="jah31560-sec-0015"><title>Effects on Alirocumab (Pharmacokinetics)</title><p>When comparing alirocumab plus ezetimibe versus alirocumab plus placebo, total alirocumab C<sub>max</sub> values did not differ statistically (mean [SD] C<sub>max</sub>, 21.9 [8.9] versus 24.3 [8.6] mg/L; point estimate: 0.92 [90% CI 0.78&#x02013;1.09]), with a nonsignificant trend toward lower AUC<sub>D57&#x02013;85</sub> in the alirocumab plus ezetimibe treatment group (364 [143] versus 445 [189] mg&#x000b7;day/L; point estimate: 0.85 [0.70&#x02013;1.03]), suggesting slightly faster clearance of alirocumab in this group.</p><p>Both alirocumab C<sub>max</sub> and AUC<sub>D57&#x02013;85</sub> were reduced with alirocumab plus fenofibrate versus alirocumab plus placebo (C<sub>max</sub>, 17.1 [6.7] versus 24.3 [8.6] mg/L; AUC<sub>D57&#x02013;85</sub>, 292 [138] versus 445 [189] mg&#x000b7;day/L; point estimates: 0.71 [0.60&#x02013;0.84] and 0.64 [0.53&#x02013;0.77], respectively) indicating a greater rate of clearance for alirocumab when combined with fenofibrate.</p></sec><sec id="jah31560-sec-0016"><title>Relationship Between LDL&#x02010;C, PCSK9, and Alirocumab Concentrations</title><p>Figure&#x000a0;<xref rid="jah31560-fig-0005" ref-type="fig">5</xref> compares LDL&#x02010;C reductions and concentrations of free and total PCSK9 and of alirocumab for days 57 to 85 (the 4&#x02010;week period after the third alirocumab dose). Maximal LDL&#x02010;C reductions for the LLT combinations were greater than those for alirocumab plus placebo, although PCSK9 levels and the alirocumab clearance rate were increased with the LLTs, and the duration of efficacy was slightly reduced with the LLTs (Figure&#x000a0;<xref rid="jah31560-fig-0005" ref-type="fig">5</xref>). Comparison of mean free PCSK9 concentrations and total alirocumab levels suggests that if free PCSK9 remains lower than 40 to 50&#x000a0;ng/mL and alirocumab levels remain above 9 to 10&#x000a0;mg/L, then the LDL&#x02010;C&#x02013;lowering effect of alirocumab is stable.</p><fig fig-type="Figure" xml:lang="en" id="jah31560-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Mean percentage change in <styled-content style="fixed-case">LDL</styled-content>&#x02010;C from the additional baseline (day &#x02212;1) (A) and concentrations of free <styled-content style="fixed-case">PCSK</styled-content>9 (B), total <styled-content style="fixed-case">PCSK</styled-content>9 (C), and total alirocumab (D) for days 57 to 85. <styled-content style="fixed-case">EZE</styled-content> indicates ezetimibe; <styled-content style="fixed-case">FENO</styled-content>, fenofibrate; <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, low&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin 9.</p></caption><graphic id="nlm-graphic-9" xlink:href="JAH3-5-e003323-g005"/></fig><p>The temporal relationships between free and total PCSK9 concentrations, alirocumab levels, and LDL&#x02010;C are plotted in Figure&#x000a0;<xref rid="jah31560-fig-0006" ref-type="fig">6</xref>. A lag (hysteresis effect) was observed between the time when free PCSK9 concentrations reached the lowest point and when maximal reductions in LDL&#x02010;C levels were observed (Figure&#x000a0;<xref rid="jah31560-fig-0006" ref-type="fig">6</xref>B).</p><fig fig-type="Figure" xml:lang="en" id="jah31560-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>Hysteresis plots comparing changes over time in <styled-content style="fixed-case">LDL</styled-content>&#x02010;C vs alirocumab (A) and vs free <styled-content style="fixed-case">PCSK</styled-content>9 (B), free <styled-content style="fixed-case">PCSK</styled-content>9 vs alirocumab (C), total <styled-content style="fixed-case">PCSK</styled-content>9 vs alirocumab (D) and <styled-content style="fixed-case">LDL</styled-content>&#x02010;C vs total <styled-content style="fixed-case">PCSK</styled-content>9 (E). Study variables are plotted on <italic>x</italic> and <italic>y</italic> axes with data points representing sample time points (day 0&#x02013;28 following administration of alirocumab). In the key in (A) &#x0201c;<styled-content style="fixed-case">PKD</styled-content>12910&#x0201d; refers to the current study; (A) also includes data from alirocumab Phase I study 1001 for comparison. D indicates study day relative to administration of alirocumab; <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, low&#x02010;density lipoprotein cholesterol; non&#x02010;<styled-content style="fixed-case">FH</styled-content>, non&#x02010;familial hypercholesterolemia; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin 9; Q4W, every 4&#x000a0;weeks; <styled-content style="fixed-case">SC</styled-content>, subcutaneous.</p></caption><graphic id="nlm-graphic-11" xlink:href="JAH3-5-e003323-g006"/></fig></sec><sec id="jah31560-sec-0017"><title>Effects on Other Lipids and Lipoproteins</title><p>Effects on other lipids and lipoproteins are summarized in Table&#x000a0;<xref rid="jah31560-tbl-0002" ref-type="table-wrap">2</xref>. Similar to the effects on LDL&#x02010;C, reductions in total cholesterol, apolipoprotein B, non&#x02013;HDL&#x02010;C, and triglycerides (from day &#x02212;29 to day 71) were greater when alirocumab was coadministered with the LLTs compared with placebo. The fenofibrate combination, but not the ezetimibe combination, resulted in larger increases in HDL&#x02010;C compared with alirocumab plus placebo, reflecting the independent effects of fenofibrate on raising HDL&#x02010;C that are not seen with ezetimibe.</p></sec><sec id="jah31560-sec-0018"><title>Safety</title><p>Treatment&#x02010;emergent AEs are summarized in Table&#x000a0;<xref rid="jah31560-tbl-0003" ref-type="table-wrap">3</xref>. There were no serious AEs and no subjects discontinued because of AEs. No AEs were considered by the investigator to be related to the study treatments. There were no clinically significant changes in vital signs or electrocardiograms or in hematologic or biochemical parameters.</p><table-wrap id="jah31560-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Safety Summary From the Main Baseline (Day &#x02212;29) to End of Study at Day 120 (All Randomized Patients)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Treatment Group</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Placebo (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Ezetimibe (n=24)</th><th align="left" valign="top" rowspan="1" colspan="1">Alirocumab 150&#x000a0;mg Q4W+Fenofibrate (n=24)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Subjects with any TEAEs, n (%)</td><td align="left" rowspan="1" colspan="1">12 (50.0)</td><td align="left" rowspan="1" colspan="1">14 (58.3)</td><td align="left" rowspan="1" colspan="1">12 (50.0)</td></tr><tr><td align="left" colspan="4" rowspan="1">Most frequent TEAEs (recorded in &#x02265;2&#x000a0;subjects in any group), n (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Headache</td><td align="left" rowspan="1" colspan="1">3 (12.5)</td><td align="left" rowspan="1" colspan="1">5 (20.8)</td><td align="left" rowspan="1" colspan="1">2 (8.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nasopharyngitis</td><td align="left" rowspan="1" colspan="1">3 (12.5)</td><td align="left" rowspan="1" colspan="1">4 (16.7)</td><td align="left" rowspan="1" colspan="1">4 (16.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Influenza</td><td align="left" rowspan="1" colspan="1">2 (8.3)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (4.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Gastroenteritis viral</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">2 (8.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Influenza&#x02010;like illness</td><td align="left" rowspan="1" colspan="1">1 (4.2)</td><td align="left" rowspan="1" colspan="1">3 (12.5)</td><td align="left" rowspan="1" colspan="1">1 (4.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Abdominal pain</td><td align="left" rowspan="1" colspan="1">2 (8.3)</td><td align="left" rowspan="1" colspan="1">1 (4.2)</td><td align="left" rowspan="1" colspan="1">1 (4.2)</td></tr></tbody></table><table-wrap-foot><fn id="jah31560-note-0004"><p>Q4W indicates every 4&#x000a0;weeks; TEAE, treatment&#x02010;emergent adverse event.</p></fn></table-wrap-foot></table-wrap></sec></sec><sec id="jah31560-sec-0019"><title>Discussion</title><p>This study was designed to explore changes in LDL&#x02010;C, PCSK9, and alirocumab concentrations when alirocumab was administered Q4W without background statins, either with placebo or in combination with nonstatin LLTs (ezetimibe and fenofibrate). LDL&#x02010;C reductions were maintained duringthe 4&#x02010;week dosing interval with alirocumab 150&#x000a0;mg Q4W plus placebo. Maximal LDL&#x02010;C reductions for the LLT combinations (65.3% and 66.8% with ezetimibe and fenofibrate, respectively) were greater those than for alirocumab plus placebo (48.2% versus day &#x02212;29). In contrast, PCSK9 levels and the alirocumab clearance rate were increased and the duration of efficacy was slightly reduced with the LLTs. These findings are summarized in Figure&#x000a0;<xref rid="jah31560-fig-0007" ref-type="fig">7</xref>. This contrasts with results from previous studies in which alirocumab was dosed Q4W on background statins, showing a notably reduced duration of effect compared with Q2W dosing.<xref rid="jah31560-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31560-bib-0006" ref-type="ref">6</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="jah31560-fig-0007" orientation="portrait" position="float"><label>Figure 7</label><caption><p>Relationship between <styled-content style="fixed-case">LDL</styled-content>&#x02010;C, free <styled-content style="fixed-case">PCSK</styled-content>9, and alirocumab levels when alirocumab 150&#x000a0;mg Q4W is administered in combination with ezetimibe or fenofibrate without background statin. <styled-content style="fixed-case">LDL</styled-content>&#x02010;C indicates low&#x02010;density lipoprotein cholesterol; <styled-content style="fixed-case">LLT</styled-content>, lipid&#x02010;lowering therapy; <styled-content style="fixed-case">PCSK</styled-content>9, proprotein convertase subtilisin/kexin 9.</p></caption><graphic id="nlm-graphic-13" xlink:href="JAH3-5-e003323-g007"/></fig><p>Treatment with ezetimibe or fenofibrate during the course of a 28&#x02010;day run&#x02010;in resulted in reductions in LDL&#x02010;C of 19.8% and 25.9%, respectively, and caused increases in free PCSK9 levels of 24% and 92% (versus placebo). Although free PCSK9 concentrations before the third alirocumab dose were higher with fenofibrate cotherapy (versus ezetimibe or placebo co&#x02010;therapy), at day 71 they were reduced to similar levels in all groups. At the same time, total PCSK9 concentrations were highest with fenofibrate cotherapy. By comparing free and total PSCK9 concentrations, we speculate that total PCSK9 mainly represents inactivated PCSK9 complexed to alirocumab. Following the last alirocumab dose and up to end of study, a more rapid rate of return of free PCSK9 was observed with fenofibrate versus either ezetimibe or placebo.</p><p>We hypothesize that the increases in PCSK9 levels with the LLTs are the result of increased PCSK9 production, with fenofibrate resulting in a greater increase in PCSK9 production compared with ezetimibe. Further, the actual increase in PCSK9 production would be underestimated by simply measuring free PCSK9 levels, because some are eliminated from the system as a result of the interaction of PCSK9 with the LDLR. Because alirocumab can be thought of as a trap for newly produced PCSK9, we propose that the difference in peak total PCSK9 values after alirocumab administration may serve as a better indicator of the effect on PCSK9 production. It has been proposed that the effect of fenofibrate on PCSK9 is indirect,<xref rid="jah31560-bib-0013" ref-type="ref">13</xref>, <xref rid="jah31560-bib-0015" ref-type="ref">15</xref> rather than a direct effect on gene transcription as is observed with statins.<xref rid="jah31560-bib-0002" ref-type="ref">2</xref> There is some evidence from animal studies that ezetimibe upregulates the <italic>PCSK9</italic> and <italic>LDLR</italic> genes<xref rid="jah31560-bib-0011" ref-type="ref">11</xref>; however, a previous study in humans did not find an effect of ezetimibe on PCSK9.<xref rid="jah31560-bib-0012" ref-type="ref">12</xref> Increases in PCSK9 concentrations of 13% to 41% (versus placebo) have been reported after treatment with simvastatin or atorvastatin.<xref rid="jah31560-bib-0015" ref-type="ref">15</xref> These increases will, however, underestimate the actual increased PCSK9 production for reasons noted earlier, because statins also induce an increase in LDLR levels.</p><p>Monoclonal antibodies that bind PCSK9 undergo target&#x02010;mediated clearance.<xref rid="jah31560-bib-0016" ref-type="ref">16</xref> Therefore, we hypothesize that the increased rate of clearance of total alirocumab with the LLT combinations versus the placebo combination resulted from the increased PCSK9 concentrations (and thus increased target&#x02010;mediated clearance). Measurement of total alirocumab concentrations will underestimate clearance of the biologically active drug (&#x0201c;free&#x0201d; alirocumab&#x02014;ie, that which is not bound to PCSK9). Based on the binding stoichiometry of PCSK9 to alirocumab (2:1) in the target&#x02010;mediated phase and on the total and free PCSK9 concentrations, we estimate that the proportion of total alirocumab present as free alirocumab becomes negligible toward the end of the dosing interval when free PCSK9 is again detectable and begins to increase. However, this will need to be confirmed in future studies.</p><p>The modest attenuation of LDL&#x02010;C&#x02013;lowering efficacy during the Q4W dosing interval with the alirocumab&#x02013;LLT combinations versus alirocumab plus placebo can be explained by the increased PCSK9 concentrations and clearance of alirocumab with these combinations. Results from the current study suggest that if free PCSK9 concentrations remain lower than 40 to 50&#x000a0;ng/mL and alirocumab levels remain above 9 to 10&#x000a0;mg/L, then the LDL&#x02010;C&#x02013;lowering effect of alirocumab is stable.</p><p>Based on the results from the current study and previous work,<xref rid="jah31560-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31560-bib-0006" ref-type="ref">6</xref> we hypothesize that there is a gradient in terms of the magnitude of peak LDL&#x02010;C reductions and duration of effect after alirocumab administration, from alirocumab added to statins, to coadministration with fenofibrate and ezetimibe, and finally as monotherapy (ie, alirocumab plus placebo in the current study). This gradient reflects the extent of PCSK9 induction by each LLT that is coadministered with alirocumab. In a reciprocal manner, we also hypothesize that by raising PCSK9 levels, the LLTs (statin, ezetimibe, or fenofibrate) may exert a self&#x02010;imposed limit on the maximal LDL&#x02010;C reduction possible. Adding alirocumab to the LLT and thus bringing down PCSK9 levels may blunt the limitation in LDL&#x02010;C reduction, leading to an additive LDL&#x02010;C&#x02013;lowering effect.</p><p>With regard to safety, alirocumab in combination with placebo, ezetimibe, or fenofibrate was generally well tolerated, with no serious AEs throughout the study. There was a similar incidence of AEs reported in each group, and none of the reported AEs were considered by the investigator to be related to the study drugs. However, this was a small study and not powered for safety. Safety findings will be extended with data from the large cardiovascular outcomes study.<xref rid="jah31560-bib-0017" ref-type="ref">17</xref>
+</p><p>Observational studies suggest that a large proportion of patients do not tolerate statins.<xref rid="jah31560-bib-0018" ref-type="ref">18</xref> Ezetimibe and fenofibrate are often used as alternative drugs for these patients. The present study indicates that alirocumab 150&#x000a0;mg Q4W&#x02014;representing a single, once&#x02010;monthly injection&#x02014;could be an option for such patients not currently receiving a statin. The results from the present study informed the designs of the phase 3 alirocumab trials ODYSSEY CHOICE I and CHOICE II (<ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov">clinicaltrials.gov</ext-link> identifiers: NCT01926782 and NCT02023879, respectively). In CHOICE I, alirocumab 300&#x000a0;mg Q4W is administered either with or without a concomitant statin; in CHOICE II, alirocumab 150&#x000a0;mg Q4W is administered without a statin. Both studies allow for a dose regimen change to 150&#x000a0;mg every 2 weeks if LDL&#x02010;C targets are not reached after 8&#x000a0;weeks of treatment.</p></sec><sec id="jah31560-sec-0020"><title>Conclusions</title><p>Alirocumab 150&#x000a0;mg Q4W produced robust LDL&#x02010;C reductions when administered either with placebo or in combination with ezetimibe or fenofibrate. Maximal LDL&#x02010;C reductions were greater when in combination with the LLTs. The oral LLTs appear to increase free PCSK9 levels, leading to increased clearance of alirocumab; thus, LDL&#x02010;C reductions with the LLT combinations were slightly less sustained between injections versus the placebo combination. However, the slight loss of duration of efficacy was not as pronounced as seen in trials performed with Q4W dosing with background statin treatment. Therefore, alirocumab 150&#x000a0;mg Q4W may provide an additional treatment option when used as monotherapy or when administered on a background of ezetimibe or fenofibrate therapy in patients in need of LDL&#x02010;C lowering. The ODYSSEY CHOICE studies are investigating the efficacy and safety of alirocumab Q4W dosing.</p></sec><sec id="jah31560-sec-0022"><title>Sources of Funding</title><p>This work was funded by Sanofi and Regeneron Pharmaceuticals, Inc.</p></sec><sec id="jah31560-sec-0023"><title>Disclosures</title><p>Jacques Rey and Jean&#x02010;Louis Pinquier were both employees of and stockholders in Sanofi during conduct of this study. Franck Poitiers, Tobias Paehler, Aur&#x000e9;lie Brunet, Howard Surks, and Corinne Hanotin are all employees of and stockholders in Sanofi. A. Thomas DiCioccio and William Sasiela are employees of and stockholders in Regeneron Pharmaceuticals. Christopher Cannon has received grants from Accumetrics, Arisaph, AstraZeneca, Boehringer&#x02010;Ingelheim, CSL Behring, Essentialis, GlaxoSmithKline, Janssen, Merck, Regeneron, Sanofi, and Takeda and consultant/advisory board fees from Bristol&#x02010;Myers Squibb, Lipimedix, and Pfizer.</p></sec></body><back><ack id="jah31560-sec-0021"><title>Acknowledgments</title><p>The study was conducted at 2 centers: Biotrial, Rennes, France, under the direction of Dr H. Charfi, MD (coordinating principal investigator) (laboratory: centre Eug&#x000e8;ne Marquis, Rennes), and Biotrial, Rueil&#x02010;Malmaison, France, under the direction of Dr P. Kousignian, MD (principal investigator) (laboratory: SELARL Biosmose IDF, Rueil). The clinical study director was Jacques Rey, PhD. The medical officer was Dr Jean&#x02010;Louis Pinquier, MD. Franck Poitiers, MSc, was the biostatistician. Tobias Paehler, PhD, and Aur&#x000e9;lie Brunet, PharmD, were the pharmacokineticists. All authors were involved in interpretation of the data, critically revising the manuscript, and approving the final manuscript. Medical writing support was provided by Rob Campbell, PhD, of Prime Medica Ltd (Knutsford, Cheshire, UK), funded by Sanofi and Regeneron.</p></ack><ref-list content-type="cited-references" id="jah31560-bibl-0001"><title>References</title><ref id="jah31560-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah31560-cit-0001">
+<string-name>
+<surname>Seidah</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Awan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Chretien</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mbikay</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>PCSK9: a key modulator of cardiovascular health</article-title>. <source>Circ Res</source>. <year>2014</year>;<volume>114</volume>:<fpage>1022</fpage>&#x02013;<lpage>1036</lpage>.<pub-id pub-id-type="pmid">24625727</pub-id></mixed-citation></ref><ref id="jah31560-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah31560-cit-0002">
+<string-name>
+<surname>Guo</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>PCSK9 and lipid lowering drugs</article-title>. <source>Clin Chim Acta</source>. <year>2014</year>;<volume>437</volume>:<fpage>66</fpage>&#x02013;<lpage>71</lpage>.<pub-id pub-id-type="pmid">25036764</pub-id></mixed-citation></ref><ref id="jah31560-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah31560-cit-0003">
+<string-name>
+<surname>Cannon</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Cariou</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Blom</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>McKenney</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chaudhari</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Colhoun</surname>
+<given-names>HM</given-names>
+</string-name>; <collab collab-type="authors">ODYSSEY COMBO II Investigators</collab>
+. <article-title>Efficacy and safety of alirocumab in high cardiovascular risk patients with inadequately controlled hypercholesterolaemia on maximally tolerated doses of statins: the ODYSSEY COMBO II randomized controlled trial</article-title>. <source>Eur Heart J</source>. <year>2015</year>;<volume>36</volume>:<fpage>1186</fpage>&#x02013;<lpage>1194</lpage>.<pub-id pub-id-type="pmid">25687353</pub-id></mixed-citation></ref><ref id="jah31560-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah31560-cit-0004">
+<string-name>
+<surname>McKenney</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Koren</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Kereiakes</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Hanotin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ferrand</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>Safety and efficacy of a monoclonal antibody to proprotein convertase subtilisin/kexin type 9 serine protease, SAR236553/REGN727, in patients with primary hypercholesterolemia receiving ongoing stable atorvastatin therapy</article-title>. <source>J Am Coll Cardiol</source>. <year>2012</year>;<volume>59</volume>:<fpage>2344</fpage>&#x02013;<lpage>2353</lpage>.<pub-id pub-id-type="pmid">22463922</pub-id></mixed-citation></ref><ref id="jah31560-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah31560-cit-0005">
+<string-name>
+<surname>Robinson</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Farnier</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Krempf</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Luc</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Averna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Stroes</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Langslet</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Raal</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>El Shahawy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Koren</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Lepor</surname>
+<given-names>NE</given-names>
+</string-name>, <string-name>
+<surname>Lorenzato</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Chaudhari</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Kastelein</surname>
+<given-names>JJ</given-names>
+</string-name>; <collab collab-type="authors">Investigators OLT</collab>
+. <article-title>Efficacy and safety of alirocumab in reducing lipids and cardiovascular events</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>372</volume>:<fpage>1489</fpage>&#x02013;<lpage>1499</lpage>.<pub-id pub-id-type="pmid">25773378</pub-id></mixed-citation></ref><ref id="jah31560-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah31560-cit-0006">
+<string-name>
+<surname>Stein</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Gipe</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bergeron</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gaudet</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Weiss</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dufour</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Effect of a monoclonal antibody to PCSK9, REGN727/SAR236553, to reduce low&#x02010;density lipoprotein cholesterol in patients with heterozygous familial hypercholesterolaemia on stable statin dose with or without ezetimibe therapy: a phase 2 randomised controlled trial</article-title>. <source>Lancet</source>. <year>2012</year>;<volume>380</volume>:<fpage>29</fpage>&#x02013;<lpage>36</lpage>.<pub-id pub-id-type="pmid">22633824</pub-id></mixed-citation></ref><ref id="jah31560-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah31560-cit-0007">
+<string-name>
+<surname>Stein</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Mellis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yancopoulos</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Stahl</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Logan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Lisbon</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Gutierrez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Webb</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Du</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kranz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gasparino</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Swergold</surname>
+<given-names>GD</given-names>
+</string-name>. <article-title>Effect of a monoclonal antibody to PCSK9 on LDL cholesterol</article-title>. <source>N Engl J Med</source>. <year>2012</year>;<volume>366</volume>:<fpage>1108</fpage>&#x02013;<lpage>1118</lpage>.<pub-id pub-id-type="pmid">22435370</pub-id></mixed-citation></ref><ref id="jah31560-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="jah31560-cit-0008">
+<collab collab-type="authors">Merck Sharp &#x00026; Dohme Limited</collab>
+. <article-title>Ezetrol 10&#x000a0;mg tablets</article-title>. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.medicines.org.uk/emc/medicine/12091/SPC/Ezetro">https://www.medicines.org.uk/emc/medicine/12091/SPC/Ezetrol+10mg+Tablets/</ext-link>. Accessed January 4, 2016.</mixed-citation></ref><ref id="jah31560-bib-0009"><label>9</label><mixed-citation publication-type="miscellaneous" id="jah31560-cit-0009">
+<collab collab-type="authors">Genus Pharmaceuticals</collab>
+. <article-title>Fenofibrate 160 mg tablets</article-title>. Available at: <ext-link ext-link-type="uri" xlink:href="https://www.medicines.org.uk/emc/medicine/28612">https://www.medicines.org.uk/emc/medicine/28612</ext-link>. Accessed January 4, 2016.</mixed-citation></ref><ref id="jah31560-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah31560-cit-0010">
+<string-name>
+<surname>Ason</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tep</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>HR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tetzloff</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Galinski</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Soriano</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Dubinina</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Stefanni</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Tadin&#x02010;Strapps</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bartz</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Hubbard</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Ranalletta</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sachs</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Flanagan</surname>
+<given-names>WM</given-names>
+</string-name>, <string-name>
+<surname>Strack</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kuklin</surname>
+<given-names>NA</given-names>
+</string-name>. <article-title>Improved efficacy for ezetimibe and rosuvastatin by attenuating the induction of PCSK9</article-title>. <source>J Lipid Res</source>. <year>2011</year>;<volume>52</volume>:<fpage>679</fpage>&#x02013;<lpage>687</lpage>.<pub-id pub-id-type="pmid">21262787</pub-id></mixed-citation></ref><ref id="jah31560-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah31560-cit-0011">
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>RX</given-names>
+</string-name>, <string-name>
+<surname>Sun</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Impact of currently prescribed lipid&#x02010;lowering drugs on plasma PCSK9 concentration: single or in combination study in rats</article-title>. <source>Lipids Health Dis</source>. <year>2014</year>;<volume>13</volume>:<fpage>35</fpage>.<pub-id pub-id-type="pmid">24533584</pub-id></mixed-citation></ref><ref id="jah31560-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah31560-cit-0012">
+<string-name>
+<surname>Berthold</surname>
+<given-names>HK</given-names>
+</string-name>, <string-name>
+<surname>Seidah</surname>
+<given-names>NG</given-names>
+</string-name>, <string-name>
+<surname>Benjannet</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Gouni&#x02010;Berthold</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Evidence from a randomized trial that simvastatin, but not ezetimibe, upregulates circulating PCSK9 levels</article-title>. <source>PLoS One</source>. <year>2013</year>;<volume>8</volume>:<fpage>e60095</fpage>.<pub-id pub-id-type="pmid">23544125</pub-id></mixed-citation></ref><ref id="jah31560-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah31560-cit-0013">
+<string-name>
+<surname>Sahebkar</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Circulating levels of proprotein convertase subtilisin kexin type 9 are elevated by fibrate therapy: a systematic review and meta&#x02010;analysis of clinical trials</article-title>. <source>Cardiol Rev</source>. <year>2014</year>;<volume>22</volume>:<fpage>306</fpage>&#x02013;<lpage>312</lpage>.<pub-id pub-id-type="pmid">24614537</pub-id></mixed-citation></ref><ref id="jah31560-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah31560-cit-0014">
+<string-name>
+<surname>Gustavson</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Schweitzer</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Burt</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Achari</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rieser</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Edeki</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Chira</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yannicelli</surname>
+<given-names>HD</given-names>
+</string-name>, <string-name>
+<surname>Kelly</surname>
+<given-names>MT</given-names>
+</string-name>. <article-title>Evaluation of the potential for pharmacokinetic interaction between fenofibrate and ezetimibe: a phase I, open&#x02010;label, multiple&#x02010;dose, three&#x02010;period crossover study in healthy subjects</article-title>. <source>Clin Ther</source>. <year>2006</year>;<volume>28</volume>:<fpage>373</fpage>&#x02013;<lpage>387</lpage>.<pub-id pub-id-type="pmid">16750452</pub-id></mixed-citation></ref><ref id="jah31560-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah31560-cit-0015">
+<string-name>
+<surname>Khera</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Qamar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Reilly</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Dunbar</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Rader</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Effects of niacin, statin, and fenofibrate on circulating proprotein convertase subtilisin/kexin type 9 levels in patients with dyslipidemia</article-title>. <source>Am J Cardiol</source>. <year>2015</year>;<volume>115</volume>:<fpage>178</fpage>&#x02013;<lpage>182</lpage>.<pub-id pub-id-type="pmid">25432415</pub-id></mixed-citation></ref><ref id="jah31560-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah31560-cit-0016">
+<string-name>
+<surname>Chaparro&#x02010;Riggers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liang</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>DeVay</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Bai</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sutton</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Geng</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lindquist</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Casas</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Boustany</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Chabot</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Gomes</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Garzone</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Strop</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shelton</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Pons</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rajpal</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Increasing serum half&#x02010;life and extending cholesterol lowering in&#x000a0;vivo by engineering antibody with pH&#x02010;sensitive binding to PCSK9</article-title>. <source>J Biol Chem</source>. <year>2012</year>;<volume>287</volume>:<fpage>11090</fpage>&#x02013;<lpage>11097</lpage>.<pub-id pub-id-type="pmid">22294692</pub-id></mixed-citation></ref><ref id="jah31560-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah31560-cit-0017">
+<string-name>
+<surname>Schwartz</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Bessac</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Berdan</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Bittner</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Hanotin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Harrington</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Jukema</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Moryusef</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pordy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Roe</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Rorick</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sasiela</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Shirodaria</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Szarek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tamby</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Tricoci</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>White</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Zeiher</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>. <article-title>Effect of alirocumab, a monoclonal antibody to PCSK9, on long&#x02010;term cardiovascular outcomes following acute coronary syndromes: rationale and design of the ODYSSEY outcomes trial</article-title>. <source>Am Heart J</source>. <year>2014</year>;<volume>168</volume>:<fpage>682</fpage>&#x02013;<lpage>689</lpage>.<pub-id pub-id-type="pmid">25440796</pub-id></mixed-citation></ref><ref id="jah31560-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah31560-cit-0018">
+<string-name>
+<surname>Bruckert</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hayem</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Dejager</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yau</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Begaud</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Mild to moderate muscular symptoms with high&#x02010;dosage statin therapy in hyperlipidemic patients&#x02014;the PRIMO study</article-title>. <source>Cardiovasc Drugs Ther</source>. <year>2005</year>;<volume>19</volume>:<fpage>403</fpage>&#x02013;<lpage>414</lpage>.<pub-id pub-id-type="pmid">16453090</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,372 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Phys Ther</journal-id><journal-id journal-id-type="iso-abbrev">Braz J Phys Ther</journal-id><journal-title-group><journal-title>Brazilian Journal of Physical Therapy</journal-title></journal-title-group><issn pub-type="ppub">1413-3555</issn><issn pub-type="epub">1809-9246</issn><publisher><publisher-name>Associa&#x000e7;&#x000e3;o Brasileira de Pesquisa e
+P&#x000f3;s-Gradua&#x000e7;&#x000e3;o em Fisioterapia</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">24271093</article-id><article-id pub-id-type="pmc">4207147</article-id><article-id pub-id-type="doi">10.1590/S1413-35552012005000120</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Physical therapy for airway clearance improves cardiac autonomic
+modulation in children with acute bronchiolitis</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Jacinto</surname><given-names>Cynthia P.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Gastaldi</surname><given-names>Ada C.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Aguiar</surname><given-names>Daniela Y.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Maida</surname><given-names>Karina D.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Souza</surname><given-names>Hugo C. D.</given-names></name><xref ref-type="corresp" rid="c01"/></contrib><aff>Department of Biomechanics, Medicine and Rehabilitation, School of Medicine of
+Ribeir&#x000e3;o Preto, Universidade de S&#x000e3;o Paulo (USP), Ribeir&#x000e3;o
+Preto, SP, Brazil</aff></contrib-group><author-notes><corresp id="c01"><bold>Correspondence: Hugo C. D. Souza</bold>, Universidade de
+S&#x000e3;o Paulo, Faculdade de Medicina de Ribeir&#x000e3;o Preto, Departamento
+de Biomec&#x000e2;nica, Medicina e Reabilita&#x000e7;&#x000e3;o, Av. Bandeirantes,
+3900, CEP 14049-900, Ribeir&#x000e3;o Preto, SP, Brasil. e-mail:
+<email>hugocds@fmrp.usp.br</email></corresp></author-notes><pub-date pub-type="ppub"><season>Nov-Dec</season><year>2013</year></pub-date><volume>17</volume><issue>6</issue><fpage>533</fpage><lpage>540</lpage><history><date date-type="received"><day>03</day><month>8</month><year>2012</year></date><date date-type="rev-recd"><day>07</day><month>1</month><year>2013</year></date><date date-type="accepted"><day>28</day><month>5</month><year>2013</year></date></history><permissions><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc/3.0/"><license-p>This is an Open Access article distributed under the terms of the
+Creative Commons Attribution Non-Commercial License which permits
+unrestricted non-commercial use, distribution, and reproduction in any
+medium, provided the original work is properly cited. </license-p></license></permissions><abstract><sec><title>Background</title><p>The effects of physical therapy on heart rate variability (HRV), especially
+in children, are still inconclusive. </p></sec><sec><title>Objective</title><p>We investigated the effects of conventional physical therapy (CPT) for airway
+clearance and nasotracheal suction on the HRV of pediatric patients with
+acute bronchiolitis. </p></sec><sec><title>Method</title><p>24 children were divided into two groups: control group (CG, n=12) without
+respiratory diseases and acute bronchiolitis group (BG, n=12). The heart
+rate was recorded in the BG at four different moments: basal recording (30
+minutes), 5 minutes after the CPT (10 minutes), 5 minutes after nasotracheal
+suction (10 minutes), and 40 minutes after nasotracheal suction (30
+minutes). The CG was subjected to the same protocol, except for nasotracheal
+suction. To assess the HRV, we used spectrum analysis, which decomposes the
+heart rate oscillations into frequency bands: low frequency
+(LF=0.04-0.15Hz), which corresponds mainly to sympathetic modulation; and
+high frequency (HF=0.15-1.2Hz), corresponding to vagal modulation. </p></sec><sec><title>Results</title><p>Under baseline conditions, the BG showed higher values in LF oscillations,
+lower values in HF oscillations, and increased LF/HF ratio when compared to
+the CG. After CPT, the values for HRV in the BG were similar to those
+observed in the CG during basal recording. Five minutes after nasotracheal
+suction, the BG showed a decrease in LF and HF oscillations; however, after
+40 minutes, the values were similar to those observed after application of
+CPT. </p></sec><sec><title>Conclusions</title><p>The CPT and nasotracheal suction, both used for airway clearance, promote
+improvement in autonomic modulation of HRV in children with acute
+bronchiolitis.</p></sec></abstract><kwd-group><kwd>physical therapy</kwd><kwd>cardiac autonomic modulation</kwd><kwd>respiratory diseases</kwd><kwd>pediatric patients</kwd></kwd-group></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Respiratory affections are the main factors of morbidity and mortality in children
+given that newborns have peculiar aspects involving the respiratory system that can
+easily lead to respiratory failure<sup><xref rid="r01" ref-type="bibr">1</xref></sup> and acute viral bronchiolitis is a respiratory infection
+frequently seen in children younger than 2 years old. The objective of the use of
+respiratory physical therapy in these children is to assist in the removal of
+secretions and, consequently, improve oxygenation. Because these pediatric patients
+may not cooperate, we can use passive techniques, such as percussion, vibration, and
+postural drainage also known as conventional physical therapy (CPT), prolonged slow
+expiration (PSE), and expiratory flow increase technique followed (or not) by
+nasotracheal suction. However, the results for efficacy and side effects are
+controversial<sup><xref rid="r02" ref-type="bibr">2</xref>-<xref rid="r04" ref-type="bibr">4</xref></sup>.</p><p>In fact, the objective of respiratory physical therapy is a decrease in the length of
+hospital stay, thus decreasing hospital-related physical, psychological, and social
+stress<sup><xref rid="r05" ref-type="bibr">5</xref></sup>. Pediatric
+inpatients may present significant alterations in cardiovascular autonomic control,
+since constant oscillations in the cardiac and hemodynamic parameters are observed.
+However, there are very few studies correlating heart rate variability (HRV) and
+respiratory pathological conditions in pediatric inpatients either before or after
+respiratory physical therapy procedures, such as application of CPT.</p><p>The study of HRV is a method allowing non-invasive and selective evaluation of the
+changes in cardiac autonomic modulation. HRV oscillations in the low frequency band
+(LF: 0.04&#x000e2;&#x020ac;"0.15Hz) in awake humans have been associated with sympathetic and
+parasympathetic modulation, whereas oscillations in the high frequency band (HF:
+0.15&#x000e2;&#x020ac;"0.5Hz) have been associated only with parasympathetic (vagal)
+modulation<sup><xref rid="r06" ref-type="bibr">6</xref></sup>.</p><p>The use of HRV analysis in several clinical situations has provided important
+information and serves as an evaluation instrument for a better understanding of the
+influence of the autonomic nervous system in various physiopathological
+conditions<sup><xref rid="r06" ref-type="bibr">6</xref></sup>. With regard
+to the applicability of HRV analysis in pediatric populations, it is known that the
+maturity progression of the sympathetic and vagal divisions is accompanied by a
+growing increase in autonomic modulation over the pre- and post-natal
+periods<sup><xref rid="r07" ref-type="bibr">7</xref></sup>. In turn, a few
+studies have addressed the association between pathological pediatric conditions and
+changes in the cardiac autonomic modulation, consequently, HRV.</p><p>In light of these facts, our hypothesis is that pediatric inpatients with acute
+bronchiolitis may have impairments in HRV, and respiratory physical therapy can play
+a positive role in improving the cardiac autonomic parameters. In this sense, it is
+possible that HRV analysis, a relatively simple and non-invasive instrument, can
+reflect the effects of respiratory physical therapy on autonomic modulation.
+Therefore, the objective of the present study was to assess the effects of
+respiratory conventional physical therapy (CPT) and nasotracheal suction on
+autonomic modulation in pediatric inpatients with acute viral bronchiolitis.</p></sec><sec sec-type="methods"><title>Method</title><p>This is an interventional controlled study that included 24 term-born children into
+two groups: control group (CG), consisting of children with normal respiratory
+condition (N=12; 7 females and 5 males), and bronchiolitis group (BG), consisting of
+hospitalized children with acute viral bronchiolitis (N=12; 7 females and 5 males)
+and mean hospital stay length of 13&#x000b1;2 days. The age ranged from 2 to 11
+months (with a mean age of 6&#x000b1;2 months).</p><p>Both groups were submitted to a physical therapy treatment protocol and measurements,
+and the multidisciplinary medical team was instructed on the collection procedures.
+The children's caregivers were also informed about the procedures and the objective
+of this study, with all of them signing an informed consent approved by the Research
+Ethics Committee of the Clinical Hospital of the School of Medicine of
+Ribeir&#x000e3;o Preto, Universidade de S&#x000e3;o Paulo (USP), Ribeir&#x000e3;o
+Preto, SP, Brazil (No.13464/2006).</p><p>Personal and clinical data were obtained from medical records. Heart rate (HR),
+respiratory rate (RR), and oxygen saturation (SpO<sub>2</sub>) were measured by one
+of the investigators (Cynthia Pelegrino Jacinto, CJP). The following exclusion
+criteria were adopted in the present study: age above 12 months, presence of
+cardiovascular disease or chronic respiratory disease, prescription of vasoactive
+drugs or sedatives, invasive mechanical ventilation, and children on contact
+isolation.</p></sec><sec><title>Experimental protocol</title><p><italic>Physical therapy techniques</italic>: Respiratory physical therapy using CPT
+was applied by the same physical therapist and conducted according to auscultation,
+patient tolerance, and clinical evaluation. The CPT protocol included thoracic
+percussion, manual vibration, postural drainage, and cough stimulation. In the BG,
+CPT was followed by nasotracheal suction, if necessary. The CG received the same
+physical therapy treatment, except nasotracheal suction, which was not performed due
+to ethical reasons.</p><p><italic>Heart Rate Recording: </italic>The collection procedure from the CG and BG
+was performed using a heart rate monitor (Polar<sup>&#x000ae;</sup> - model S810i)
+that received the heart rate (HR) signals on a beat-by-beat basis by means of a
+transmission belt made of elastic material (3 cm width) containing embedded
+electrodes connected to a frequency transmitter. The transmission belt was
+positioned around the child's chest next to the xiphoid process without causing pain
+or discomfort. HR was recorded with the children in dorsal decubitus at 30-degree
+elevation at four different moments in sequence: basal recording for 30 minutes
+before performing the respiratory CPT; 5 minutes after CPT (10 minutes); 5 minutes
+after nasotracheal suction (10 minutes); and 40 minutes after nasotracheal suction
+(30 minutes).</p><p><italic>Analysis of the Heart Rate Variability. </italic>The HRV analysis was
+performed using interval time series on a beat-by-beat basis obtained from the
+frequency records, transferred to computer through an interface (Polar IR
+Interface<sup>TM</sup>) using specific software (Polar Precision Performance
+SW<sup>&#x000ae;</sup>). The resulting time series were divided into continuous
+segments of 200 beats per minute, with 50% superposition between the adjacent
+segments. After calculating means and variance for each segment, these values were
+submitted to spectral analysis through the autoregressive method as described in the
+literature<sup><xref rid="r08" ref-type="bibr">8</xref>,<xref rid="r06" ref-type="bibr">6</xref></sup>. The oscillatory components
+existing in the stationary segments of the beat-by-beat interval time series were
+modeled by using the Levinson-Durbin recursion, and the method was chosen according
+to Akaike's criteria<sup><xref rid="r08" ref-type="bibr">8</xref></sup>. This
+procedure allows the frequency axis and power of each relevant oscillatory component
+in the time series to be automatically quantified. The oscillatory components were
+classified as follows: very-low frequency (VLF: 0.001 to 0.04 Hz), low frequency
+(LF: 0.04 to 0.15 Hz), and high frequency (HF: 0.15 to 1.2 Hz). LF and HF
+oscillation power was also expressed in normalized units, which was obtained by
+calculating the ratio between band power (LF or HF) and total power after
+subtracting the VLF component. The normalization procedure was performed in order to
+minimize the total power variations in the absolute values of LF and HF
+components<sup><xref rid="r08" ref-type="bibr">8</xref>,<xref rid="r06" ref-type="bibr">6</xref></sup>. In addition, the LF/HF ratio was
+calculated to establish an index for assessment of cardiac autonomic modulation.</p></sec><sec><title>Statistical analysis</title><p>The sample size calculation was performed using the "GraphPad StatMate 1.01",
+confidence level of 95%, Power 80% using the LF variable in normalized units. A
+sample of 12 children was suggested. All statistical tests were performed with
+SigmaStat 3.5 software (Systat Software Inc., San Jose, CA, USA). The Shapiro-Wilk
+normality test was used, and the data are expressed as mean &#x000b1; standard
+deviation of the mean (SD). A one-way ANOVA followed by the Student-Newman-Keuls
+multiple comparison test was performed to evaluate the effects of respiratory CPT
+and nasotracheal suction on the HRV of the CG vs. BG. Student's t test was used for
+the comparisons between groups before respiratory ACT. The differences were
+considered significant at P&#x0003c;0.05.</p></sec><sec sec-type="results"><title>Results</title><p><xref ref-type="table" rid="t01">Table 1</xref> shows mean values for HR, RR, and
+SpO<sub>2</sub> at baseline and after respiratory CPT application. The results
+showed that the BG had higher HR and lower SpO<sub>2</sub> than the CG before
+respiratory CPT. However, after the respiratory CPT the values were similar.</p><table-wrap id="t01" orientation="portrait" position="float"><label>Table 1</label><caption><p>Values for heart rate (HR), respiratory rate (RR), and oxygen saturation
+(SpO2) obtained from the control group (CG) and the bronchiolitis group (BG)
+before (pre) and after (post) respiratory conventional physical therapy
+(CPT).</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">
+</th><th colspan="2" rowspan="1"> Control Group</th><th colspan="2" rowspan="1"> Bronchiolitis Group</th></tr><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1"> Pre-CPT</th><th rowspan="1" colspan="1"> Post-CPT</th><th rowspan="1" colspan="1"> Pre-CPT</th><th rowspan="1" colspan="1"> Post-CPT</th></tr></thead><tbody><tr><td align="center" rowspan="1" colspan="1">HR</td><td align="center" rowspan="1" colspan="1">143&#x000b1;9</td><td align="center" rowspan="1" colspan="1">142&#x000b1;8</td><td align="center" rowspan="1" colspan="1">153&#x000b1;14<sup><xref ref-type="table-fn" rid="tfn01t01">*</xref><xref ref-type="table-fn" rid="tfn02t01">+</xref></sup></td><td align="center" rowspan="1" colspan="1">149&#x000b1;10</td></tr><tr><td align="center" rowspan="1" colspan="1">RR</td><td align="center" rowspan="1" colspan="1">42&#x000b1;5</td><td align="center" rowspan="1" colspan="1">38&#x000b1;6</td><td align="center" rowspan="1" colspan="1">44&#x000b1;6</td><td align="center" rowspan="1" colspan="1">39&#x000b1;7</td></tr><tr><td align="center" rowspan="1" colspan="1">SpO<sub>2</sub></td><td align="center" rowspan="1" colspan="1">98&#x000b1;2</td><td align="center" rowspan="1" colspan="1">97&#x000b1;2</td><td align="center" rowspan="1" colspan="1">95&#x000b1;3<sup><xref ref-type="table-fn" rid="tfn01t01">*</xref></sup></td><td align="center" rowspan="1" colspan="1">96&#x000b1;2</td></tr></tbody></table><table-wrap-foot><fn><p>All values expressed as mean&#x000b1;SD. </p></fn><fn id="tfn01t01"><label>*</label><p>P&#x0003c;0.05 vs. CG before conventional physical therapy (pre-CPT);</p></fn><fn id="tfn02t01"><label>+</label><p>P&#x0003c;0.05 vs. CG after conventional physical therapy (post-CPT).</p></fn></table-wrap-foot></table-wrap><p><xref ref-type="table" rid="t02">Table 2</xref> shows the baseline values of the HRV
+in the frequency domain evaluated by spectral analysis before and after the
+respiratory CPT. The BG showed lower RRi values before the respiratory CPT, greater
+sympathetic autonomic influence, and lower vagal influence characterized by major
+oscillations in the LF band and minor oscillations in the HF band in absolute and
+normalized units when compared to the CG. Consequently, the BG showed a higher LF/HF
+ratio compared to the CG indicating an exaggerated predominance of cardiac
+sympathetic modulation in relation to the CG. However, after respiratory CPT, the BG
+had values similar to the CG suggesting an improvement in cardiac autonomic
+modulation.</p><table-wrap id="t02" orientation="portrait" position="float"><label>Table 2</label><caption><p>Spectral parameters of R-R intervals (RRi) calculated using spectral analysis
+(autoregressive method) before (pre) and after (post) conventional physical
+therapy (CPT) for the control group (CG) and the bronchiolitis group
+(BG).</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">
+</th><th colspan="2" rowspan="1"> Control Group (CG)</th><th colspan="2" rowspan="1"> Bronchiolitis Group (BG)</th></tr><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1"> Pre-CPT</th><th rowspan="1" colspan="1"> Post-CPT</th><th rowspan="1" colspan="1"> Pre-CPT</th><th rowspan="1" colspan="1"> Post-CPT</th></tr></thead><tbody><tr><td colspan="2" rowspan="1">
+<bold>Baseline values</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> RRi, ms</td><td align="center" rowspan="1" colspan="1">421&#x000b1;28</td><td align="center" rowspan="1" colspan="1">424&#x000b1;25</td><td align="center" rowspan="1" colspan="1">395&#x000b1;35<sup><xref ref-type="table-fn" rid="tfn01t02">*</xref><xref ref-type="table-fn" rid="tfn02t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">405&#x000b1;29</td></tr><tr><td colspan="2" rowspan="1">
+<bold>Spectral parameters</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> Variance, ms<sup>2</sup></td><td align="center" rowspan="1" colspan="1">293&#x000b1;28</td><td align="center" rowspan="1" colspan="1">319&#x000b1;26</td><td align="center" rowspan="1" colspan="1">361&#x000b1;21<sup><xref ref-type="table-fn" rid="tfn01t02">*</xref><xref ref-type="table-fn" rid="tfn02t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">316&#x000b1;35<sup><xref ref-type="table-fn" rid="tfn03t02">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> LF, ms<sup>2</sup></td><td align="center" rowspan="1" colspan="1">189&#x000b1;20</td><td align="center" rowspan="1" colspan="1">206&#x000b1;16</td><td align="center" rowspan="1" colspan="1">228&#x000b1;33<sup><xref ref-type="table-fn" rid="tfn01t02">*</xref></sup></td><td align="center" rowspan="1" colspan="1">187&#x000b1;18<sup><xref ref-type="table-fn" rid="tfn03t02">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> LF, nu</td><td align="center" rowspan="1" colspan="1">81&#x000b1;4</td><td align="center" rowspan="1" colspan="1">79&#x000b1;5</td><td align="center" rowspan="1" colspan="1">88&#x000b1;3<sup><xref ref-type="table-fn" rid="tfn01t02">*</xref><xref ref-type="table-fn" rid="tfn02t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">79&#x000b1;4<sup><xref ref-type="table-fn" rid="tfn03t02">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> HF, ms<sup>2</sup></td><td align="center" rowspan="1" colspan="1">46&#x000b1;9</td><td align="center" rowspan="1" colspan="1">53&#x000b1;14</td><td align="center" rowspan="1" colspan="1">30&#x000b1;7<sup><xref ref-type="table-fn" rid="tfn01t02">*</xref><xref ref-type="table-fn" rid="tfn02t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">49&#x000b1;10<sup><xref ref-type="table-fn" rid="tfn03t02">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> HF, nu</td><td align="center" rowspan="1" colspan="1">19&#x000b1;4</td><td align="center" rowspan="1" colspan="1">21&#x000b1;5</td><td align="center" rowspan="1" colspan="1">12&#x000b1;3<sup><xref ref-type="table-fn" rid="tfn01t02">*</xref><xref ref-type="table-fn" rid="tfn02t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">22&#x000b1;4<sup><xref ref-type="table-fn" rid="tfn03t02">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> LF/HF</td><td align="center" rowspan="1" colspan="1">4.3&#x000b1;1.2</td><td align="center" rowspan="1" colspan="1">4.2&#x000b1;1.3</td><td align="center" rowspan="1" colspan="1">8.1&#x000b1;2.4<sup><xref ref-type="table-fn" rid="tfn01t02">*</xref><xref ref-type="table-fn" rid="tfn02t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">4.0&#x000b1;1.1<sup><xref ref-type="table-fn" rid="tfn03t02">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td></tr></tbody></table><table-wrap-foot><fn><p>All values expressed as mean&#x000b1;SD. RRi: R-R interval; LF: low
+frequency; HF: high frequency; and nu, normalized units.</p></fn><fn id="tfn01t02"><label>*</label><p>P&#x0003c;0.05 vs. CG before conventional physical therapy (pre-CPT)</p></fn><fn id="tfn02t02"><label>+</label><p>P&#x0003c;0.05 vs. CG after conventional physical therapy (post-CPT)</p></fn><fn id="tfn03t02"><label>#</label><p>P&#x0003c;0.05 vs. BG before conventional physical therapy (pre-CPT)</p></fn></table-wrap-foot></table-wrap><p><xref ref-type="table" rid="t03">Table 3</xref> shows the behavior of HRV at four
+different sequential moments: basal recording (30 minutes pre-CPT); 5 minutes after
+CPT application (10-minute record post-CPT); 5 minutes after nasotracheal suction
+(10-minute record); and 40 minutes after nasotracheal suction (30-minute record).
+Following the application of respiratory CPT, there was a decrease in LF
+oscillations and an increase in HF oscillations compared to baseline values in
+absolute and normalized units as shown previously (<xref ref-type="table" rid="t02">Table 2</xref>). In turn, 5 minutes after nasotracheal suction, there were
+reductions in overall variance and in LF and HF oscillations (compared to those
+values after CPT) in absolute and normalized units resulting in a significant
+increase in the LF/HF ratio. On the other hand, 40 minutes after nasotracheal
+suction (final record), variability patterns similar to those observed after
+respiratory CPT (post-CPT) application were observed.</p><table-wrap id="t03" orientation="portrait" position="float"><label>Table 3</label><caption><p>Spectral parameters of RR intervals (RRi) for the bronchiolitis group (BG) at
+four different sequential moments: before conventional physical therapy
+(pre-CPT), after CPT (post-CPT), 5 minutes after nasotracheal suction
+(5'post-NS), and 40 minutes after nasotracheal suction (40' post-NS).</p></caption><table frame="hsides" rules="groups"><thead><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">
+</td><th colspan="4" rowspan="1"> Bronchiolitis Group</th></tr><tr><th rowspan="1" colspan="1"/><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1"> pre-CPT</th><th rowspan="1" colspan="1"> post-CPT</th><th rowspan="1" colspan="1"> 5'post-NS</th><th rowspan="1" colspan="1"> 40'post-NS</th></tr></thead><tbody><tr><td colspan="2" rowspan="1">
+<bold>Baseline values</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> RRi, sec</td><td align="center" rowspan="1" colspan="1">395&#x000b1;35</td><td align="center" rowspan="1" colspan="1">405&#x000b1;29</td><td align="center" rowspan="1" colspan="1">389&#x000b1;20</td><td align="center" rowspan="1" colspan="1">393&#x000b1;30</td></tr><tr><td colspan="2" rowspan="1">
+<bold>Spectral Parameters</bold>
+</td><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/><td align="center" rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> Variance, ms<sup>2</sup></td><td align="center" rowspan="1" colspan="1">361&#x000b1;21</td><td align="center" rowspan="1" colspan="1">316&#x000b1;35<xref ref-type="table-fn" rid="tfn01t03">*</xref></td><td align="center" rowspan="1" colspan="1">132&#x000b1;34<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn01t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">280&#x000b1;51<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn03t03">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> LF, ms<sup>2</sup></td><td align="center" rowspan="1" colspan="1">228&#x000b1;33</td><td align="center" rowspan="1" colspan="1">187&#x000b1;18<xref ref-type="table-fn" rid="tfn01t03">*</xref></td><td align="center" rowspan="1" colspan="1">96&#x000b1;28<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn01t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">169&#x000b1;38<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn03t03">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> LF, nu</td><td align="center" rowspan="1" colspan="1">88&#x000b1;3</td><td align="center" rowspan="1" colspan="1">79&#x000b1;4<xref ref-type="table-fn" rid="tfn01t03">*</xref></td><td align="center" rowspan="1" colspan="1">89&#x000b1;4<sup><xref ref-type="table-fn" rid="tfn01t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">74&#x000b1;10<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn03t03">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> HF, ms<sup>2</sup></td><td align="center" rowspan="1" colspan="1">30&#x000b1;7</td><td align="center" rowspan="1" colspan="1">49&#x000b1;10<xref ref-type="table-fn" rid="tfn01t03">*</xref></td><td align="center" rowspan="1" colspan="1">12&#x000b1;4<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn01t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">56&#x000b1;19<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn03t03">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> HF, nu</td><td align="center" rowspan="1" colspan="1">12&#x000b1;3</td><td align="center" rowspan="1" colspan="1">21&#x000b1;4<xref ref-type="table-fn" rid="tfn01t03">*</xref></td><td align="center" rowspan="1" colspan="1">11&#x000b1;4<sup><xref ref-type="table-fn" rid="tfn01t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">26&#x000b1;12<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn03t03">#</xref></sup></td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1"> LF/HF</td><td align="center" rowspan="1" colspan="1">8.1&#x000b1;2.4</td><td align="center" rowspan="1" colspan="1">4.0&#x000b1;1.1<xref ref-type="table-fn" rid="tfn01t03">*</xref></td><td align="center" rowspan="1" colspan="1">9.3&#x000b1;4.4<sup><xref ref-type="table-fn" rid="tfn01t02">+</xref></sup></td><td align="center" rowspan="1" colspan="1">3.5&#x000b1;1.3<sup><xref ref-type="table-fn" rid="tfn01t03">*</xref><xref ref-type="table-fn" rid="tfn03t03">#</xref></sup></td></tr></tbody></table><table-wrap-foot><fn><p>All values expressed as mean&#x000b1;SD. RRi: R-R interval; LF: low
+frequency; HF: high frequency; and nu, normalized units.</p></fn><fn id="tfn01t03"><label>*</label><p>P&#x0003c;0.05 vs. before conventional physical therapy (pre-CPT)</p></fn><fn id="tfn02t03"><label>+</label><p>P&#x0003c;0.05 vs. after conventional physical therapy (post-CPT)</p></fn><fn id="tfn03t03"><label>#</label><p>P&#x0003c;0.05 vs. 5 minutes after nasotracheal suction (5' post-NS)</p></fn></table-wrap-foot></table-wrap></sec><sec sec-type="discussion"><title>Discussion</title><p>HRV analysis has been studied by several researchers in the last decades. This
+interest has increased because HRV analysis allows non-invasive and selective
+evaluation of the influence of the autonomic nervous system on the cardiovascular
+system. The results of this growing research on HRV, mainly the clinical studies,
+have demonstrated that such an assessment can be used as a hemodynamic and metabolic
+marker, as well as a predictive index for cardiovascular events<sup><xref rid="r06" ref-type="bibr">6</xref></sup>.</p><p>In pediatric patients, the clinical use of HRV was first described in the 1960s when
+a study demonstrated that fetal distress was preceded by alterations in the
+inter-beat intervals long before any heart rate change<sup><xref rid="r09" ref-type="bibr">9</xref></sup>, but not until the 1980s did the advent of computer
+techniques allow the concept of HRV analysis to be employed for evaluation of
+cardiovascular autonomic control<sup><xref rid="r10" ref-type="bibr">10</xref></sup>.</p><p>Several linear and non-linear methods have been applied to HRV analysis. However,
+spectral analysis is the most common linear method used in the frequency domain,
+decomposing the crucial oscillatory components into their occurrence frequencies,
+which allows investigation of the influence of autonomic, sympathetic (LF), and
+parasympathetic (HF) components on the HR modulation. Therefore, this method can be
+applied to individuals of all ages<sup><xref rid="r11" ref-type="bibr">11</xref></sup>.</p><p>With regard to the influence of cardiac autonomic components on cardiovascular
+control during fetal development and in newborns, it is know that the maturation of
+neuro-cardiac control increases cardio-regulatory influence on HR variability,
+mainly through the baroreflex system<sup><xref rid="r12" ref-type="bibr">12</xref></sup>. This neural cardiac maturation, which occurs between the
+31<sup>st</sup> and the 38<sup>th</sup> week of gestation, is accompanied by a
+reduction in fetal HR. In this sense, the reduction in HR and HRV is due to a
+decrease in the randomized oscillatory components and to variability patterns
+coherent with the cardiac autonomic drive<sup><xref rid="r12" ref-type="bibr">12</xref>,<xref rid="r13" ref-type="bibr">13</xref></sup>. The importance
+of this maturation process on the cardiac autonomic regulation became evident in a
+study showing the correlation between deficient cardio-vagal development and sudden
+infant death syndrome<sup><xref rid="r14" ref-type="bibr">14</xref></sup>.</p><p>In contrast, the homeostasis of cardiac autonomic regulation, maintained by defined
+autonomic modulation patterns, can be affected by different pathological
+situations<sup><xref rid="r06" ref-type="bibr">6</xref></sup>. In this
+sense, the hypothesis raised by the present study was based on the fact that
+respiratory affections (acute viral bronchiolitis) in pediatric patients could
+provoke HRV changes resulting from the impairment of cardiac autonomic modulation
+and that respiratory physical therapy might promote beneficial systemic effects by
+restoring a more coherent autonomic influence in relation to the normality
+patterns.</p><p>In fact, respiratory physical therapy is mainly aimed at acting on physical and
+social factors affecting a given acute or chronic respiratory pathological
+condition. In the daily routine, the integration of a physical therapist into the
+multidisciplinary team speeds recovery, thus reducing the length of hospital stay.
+However, although respiratory physical therapy is crucial for improving the
+ventilatory pattern, the lack of instruments does not allow a more precise
+assessment of the therapy-induced systemic effects on both the cardiovascular
+autonomic system and homeostasis, and there are very few studies correlating
+pediatric respiratory pathological conditions with HRV behavior. In general, these
+studies were based on short-term records in which the HRV was associated with
+inducing tests only (respiratory procedures, postural tests, etc.)<sup><xref rid="r15" ref-type="bibr">15</xref></sup>.</p><p>Accordingly, our results have shown that at baseline, that is, prior to respiratory
+CPT, the pediatric inpatients typically presented with increased LF and decreased HF
+oscillations. Despite the lack of similar studies on the pediatric population with
+acute viral bronchiolitis, these findings are corroborated by results obtained from
+adults, such as patients with COPD who showed changes in sympathetic cardiac
+autonomic modulation<sup><xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref></sup>. Additionally, our results have
+also shown that CPT intervention restored the autonomic modulation patterns of HRV
+in these hospitalized children by improving the cardiac autonomic balance, which was
+confirmed by the reduction in the LF/HF ratio. This fact was observed after
+application of CPT and 40 minutes after nasotracheal suction. The improvement in
+autonomic modulation in both situations was supposedly due to the movement of
+secretions and improved respiratory function despite no significant changes in any
+respiratory parameter, such as respiratory rate and oxygen saturation. In the first
+case, the combination of CPT and cough stimulation may have improved respiratory
+function and, consequently, influenced the pattern of cardiac autonomic modulation.
+In turn, immediately after nasotracheal suction, there was a reduction in LF and HF
+oscillations in absolute and normalized units, possibly due to the intense stress
+caused by the procedure. Interestingly, this reduction in LF oscillations soon after
+the nasotracheal suction seems to be a paradox because of the aggressive nature of
+this procedure, which could increase the influence of sympathetic modulation and
+consequently the LF oscillations as well. However, the decrease in LF oscillations
+may be due to the sympathetic over-activity resulting from this extremely stressing
+intervention. This has also been observed in other situations, such as intense
+physical exercise<sup><xref rid="r18" ref-type="bibr">18</xref></sup>or severe heart
+failure<sup><xref rid="r19" ref-type="bibr">19</xref></sup>. In these
+situations, when the physiological mechanisms are at maximum capacity in order to
+maintain homeostasis, the cardiovascular system may not keep its variability. In
+fact, the cause for reduction in LF and HF oscillations 5 minutes after nasotracheal
+suction is unknown, but sympathetic over-activity may be involved.</p><p>Indeed, other studies support this idea by demonstrating that hospitalized patients
+can exhibit symptoms such as agitation, dyspnea, cyanosis, and tachycardia, but
+despite the risks inherent to this procedure, the hypersecretive patients benefit
+from this technique<sup><xref rid="r20" ref-type="bibr">20</xref></sup>. As
+described above, the pattern of cardiac autonomic modulation was restored 40 minutes
+after nasotracheal suction, which was characterized by values of LF and HF
+oscillations similar to those observed following CPT application in experimental and
+control groups. In fact, several studies have demonstrated that the changes in HRV
+quickly return to baseline values following transitory perturbations induced by
+maneuvers such as mild exercise, administration of rapid action vasoconstrictors,
+and transitory coronary occlusion, whereas only more intense stimuli such as heavy
+exercise and administration of long-term action drugs result in a longer interval
+prior to the return to baseline values<sup><xref rid="r06" ref-type="bibr">6</xref></sup>. Therefore, our results showed that respiratory CPT followed (or
+not) by nasotracheal suction significantly improves the pattern of cardiac autonomic
+modulation, thus restoring values similar to those of control children with no
+respiratory affection.</p><p>Moreover, although our findings point to an improvement in autonomic parameters
+evaluated in pediatric patients with viral bronchiolitis, the application of
+respiratory CPT in this situation has been widely questioned and is the subject of
+discussion in the literature. In fact, the purpose of the use of respiratory
+physical therapy in infants with acute viral bronchiolitis is helping to remove
+secretions and improve oxygenation indices. However, there are arguments against
+respiratory physical therapy as part of routine care of these patients according to
+the level of bronchiolitis caused by respiratory distress, the absence of
+substantial proven benefits, and possible adverse effects<sup><xref rid="r21" ref-type="bibr">21</xref></sup>.</p><p>Accordingly, two review studies 2,3 that aimed to examine the efficacy of respiratory
+physical therapy in children under 24 months old, with acute bronchiolitis,
+concluded that there is not sufficiently evidence who show the benefits of physical
+therapy in reducing the length of hospital stay, but also concludes that the studies
+were insufficient to define the indication and contraindication of respiratory
+physical therapy. Meanwhile, a recent review of Postiaux et al.<sup><xref rid="r04" ref-type="bibr">4</xref></sup> showed better results with
+conventional and new therapy techniques, especially prolonged slow expiration (PSE).
+However, this study concludes that further research is required to better define the
+indications and contraindications to CPT in patients with bronchiolitis.</p><p>A previous study<sup><xref rid="r22" ref-type="bibr">22</xref></sup> that compared a
+control group with two groups submitted to CPT and expiratory flow increase
+technique showed lower HR values in both treatment groups, with no adverse effects
+attributed to CPT. Additionally, other studies have evaluated the effect of the
+expiratory flow increase technique in infants with bronchiolitis, two of which were
+multicenter studies<sup><xref rid="r23" ref-type="bibr">23</xref>,<xref rid="r24" ref-type="bibr">24</xref></sup> that did not find differences in
+length of hospital stay. In the first<sup><xref rid="r23" ref-type="bibr">23</xref></sup>, there was a higher frequency of discomfort in the intervention
+group and, in the second<sup><xref rid="r25" ref-type="bibr">25</xref></sup>, there
+was a better clinical score in the intervention group with expiratory flow increase
+technique and PSE.</p><p>The PSE technique has also been used by other authors<sup><xref rid="r26" ref-type="bibr">26</xref>-<xref rid="r28" ref-type="bibr">28</xref></sup>. In one
+study, there was a lower clinical score, respiratory rate and HR for the group
+treated with CPT and prolonged slow expiration technique, as well as a shorter
+hospital stay (although not statistically significant) for the group submitted to
+PSE<sup><xref rid="r26" ref-type="bibr">26</xref></sup>. Another study
+showed shorter time evolution and reduction in hours on oxygen support in the group
+using vibration with PSE compared to controls<sup><xref rid="r27" ref-type="bibr">27</xref></sup>. Additionally, the results of other authors also
+demonstrated a better clinical score and a reduction in chest retractions in the
+groups treated with CPT and PSE, with improvement in oxygen saturation and
+bronchospasm in the group submitted only to PSE.</p><p>Finally, the results of these studies clearly show the need for other evaluation
+parameters more sensitive to changes promoted by respiratory physical therapy. As
+far as we know, this is the first study that used HRV analysis in these conditions.
+Accordingly, our results showed an improvement in the autonomic parameters evaluated
+by spectral analysis of the HRV. These findings may be related to the primary
+objective of the treatment of these children, which is to reduce the discomfort
+caused by airway secretions and reduce stress related to ventilation.</p><p>In sum, the respiratory physical therapy by means of CPT and nasotracheal suction,
+both used for airway clearance, promote improvement in autonomic modulation of HRV
+in children with acute viral bronchiolitis, suggesting that HRV analysis can be used
+as an indirect marker of the clinical status of patients undergoing such an
+intervention.</p></sec><sec><title>Study limitations</title><p>Some limitations regarding this study should be considered, such as long-term
+evaluation of the patient undergoing respiratory physical therapy and application of
+other interventions aimed at better interpreting the results obtained from HRV
+analysis (e.g.: serum dosages of catecholamine and cortisol). The choice of
+experimental design in which the respiratory physical therapy procedures were
+stratified to involve CPT and nasotracheal suction is justified by the fact that
+both interventions demonstrate different hemodynamic and cardiovascular parameters.
+Within this context, the analysis of cardiac autonomic modulation during different
+moments of the respiratory physical therapy has allowed us to score the HRV behavior
+in different procedures, thus providing another useful instrument for quantifying
+the risk-benefit of techniques applied to hospitalized children.</p></sec><sec><title>Clinical implications</title><p>The search for and use of new tools and evaluation parameters that do not promote
+adverse effects or compromise the patient's condition should be encouraged. In this
+sense, the analysis of HRV, a noninvasive and painless method, can provide valuable
+information about the patient's clinical status and systemic effects on the
+cardiovascular system, both before and after physical therapy intervention.</p></sec></body><back><ref-list><title>References</title><ref id="r01"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Latzin</surname><given-names>P</given-names></name><name><surname>Frey</surname><given-names>U</given-names></name><name><surname>Roiha</surname><given-names>HL</given-names></name><name><surname>Baldwin</surname><given-names>DN</given-names></name><name><surname>Regamey</surname><given-names>N</given-names></name><name><surname>Strippoli</surname><given-names>MP</given-names></name><etal>et al</etal></person-group><article-title>Swiss Paediatric Respiratory Research Group. Prospectively
+assessed incidence, severity, and determinants of respiratory symptoms in
+the first year of life</article-title><source>Pediatr Pulmonol</source><year>2007</year><volume>42</volume><fpage>41</fpage><lpage>50</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/ppul.20542">http://dx.doi.org/10.1002/ppul.20542</ext-link><pub-id pub-id-type="pmid">17123315</pub-id></element-citation></ref><ref id="r02"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Perrotta</surname><given-names>C</given-names></name><name><surname>Ortiz</surname><given-names>Z</given-names></name><name><surname>Roque</surname><given-names>M</given-names></name></person-group><article-title>Chest physiotherapy for acute bronchiolitis in paediatric
+patients between 0 and 24 months old</article-title><source>Cochrane Database Syst Rev</source><day>24</day><month>1</month><year>2007</year><volume>1</volume><fpage>CD004873</fpage><pub-id pub-id-type="pmid">17253527</pub-id></element-citation></ref><ref id="r03"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Roqu&#x000e9; i Figuls</surname><given-names>M</given-names></name><name><surname>Gin&#x000e9;-Garriga</surname><given-names>M</given-names></name><name><surname>Granados Rugeles</surname><given-names>C</given-names></name><name><surname>Perrotta</surname><given-names>C</given-names></name></person-group><article-title>Chest physiotherapy for acute bronchiolitis in paediatric
+patients between 0 and 24 months old</article-title><source>Cochrane Database Syst Rev</source><day>15</day><month>2</month><year>2012</year><volume>2</volume><fpage>CD004873</fpage><pub-id pub-id-type="pmid">22336805</pub-id></element-citation></ref><ref id="r04"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Postiaux</surname><given-names>G</given-names></name><name><surname>Zwaenepoel</surname><given-names>B</given-names></name><name><surname>Louis</surname><given-names>J</given-names></name></person-group><article-title>Chest Physical Therapy in Acute Viral Bronchiolitis: an updated
+review</article-title><source>Respir Care</source><month>9</month><year>2013</year><volume>58</volume><issue>9</issue><fpage>1541</fpage><lpage>1545</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4187/respcare.01890">http://dx.doi.org/10.4187/respcare.01890</ext-link><pub-id pub-id-type="pmid">23287014</pub-id></element-citation></ref><ref id="r05"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Oberwaldner</surname><given-names>B</given-names></name></person-group><article-title>Physiotherapy for airway clearance in paediatrics</article-title><source>Eur Respir J</source><year>2000</year><volume>15</volume><fpage>196</fpage><lpage>204</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1183/09031936.00.15119600">http://dx.doi.org/10.1183/09031936.00.15119600</ext-link><pub-id pub-id-type="pmid">10678646</pub-id></element-citation></ref><ref id="r06"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><collab> Task Force of the European Society of Cardiology, North American
+Society of Pacing and Electrophysiology</collab></person-group><article-title>Heart rate variability: standards of measurements, physiological
+interpretation, and clinical use</article-title><source>Circulation</source><year>1996</year><volume>93</volume><fpage>1043</fpage><lpage>1065</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1161/01.CIR.93.5.1043">http://dx.doi.org/10.1161/01.CIR.93.5.1043</ext-link><pub-id pub-id-type="pmid">8598068</pub-id></element-citation></ref><ref id="r07"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Winsley</surname><given-names>RJ</given-names></name><name><surname>Armstrong</surname><given-names>N</given-names></name><name><surname>Bywater</surname><given-names>K</given-names></name><name><surname>Fawkner</surname><given-names>SG</given-names></name></person-group><article-title>Reliability of heart rate variability measures at rest and during
+light exercise in children</article-title><source>Br J Sports Med</source><year>2003</year><volume>37</volume><fpage>550</fpage><lpage>552</lpage><!--<pub-id pub-id-type="pmcid">PMC1724706</pub-id>--><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1136/bjsm.37.6.550">http://dx.doi.org/10.1136/bjsm.37.6.550</ext-link><pub-id pub-id-type="pmid">14665601</pub-id></element-citation></ref><ref id="r08"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Malliani</surname><given-names>A</given-names></name><name><surname>Pagani</surname><given-names>M</given-names></name><name><surname>Lombardi</surname><given-names>F</given-names></name><name><surname>Cerutti</surname><given-names>S</given-names></name></person-group><article-title>Cardiovascular neural regulation explored in the frequency
+domain</article-title><source>Circulation</source><year>1991</year><volume>84</volume><fpage>482</fpage><lpage>492</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1161/01.CIR.84.2.482">http://dx.doi.org/10.1161/01.CIR.84.2.482</ext-link><pub-id pub-id-type="pmid">1860193</pub-id></element-citation></ref><ref id="r09"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hon</surname><given-names>EH</given-names></name><name><surname>Lee</surname><given-names>ST</given-names></name></person-group><article-title>Eletronic evaluations of the fetal heart rate patterns preceding
+fetal death, futher observations</article-title><source>Am J Obstet Gynec</source><year>1965</year><volume>87</volume><fpage>814</fpage><lpage>826</lpage><pub-id pub-id-type="pmid">14085784</pub-id></element-citation></ref><ref id="r10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Akselrold</surname><given-names>S</given-names></name><name><surname>Gordon</surname><given-names>D</given-names></name><name><surname>Ubel</surname><given-names>FA</given-names></name><name><surname>Shannon</surname><given-names>DC</given-names></name><name><surname>Berger</surname><given-names>AC</given-names></name><name><surname>Cohen</surname><given-names>RJ</given-names></name></person-group><article-title>Power spectrum analysis of heart rate fluctuation: a quantitative
+probe of beat-to-beat cardiovascular control</article-title><source>Science</source><year>1981</year><volume>213</volume><fpage>220</fpage><lpage>222</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1126/science.6166045">http://dx.doi.org/10.1126/science.6166045</ext-link><pub-id pub-id-type="pmid">6166045</pub-id></element-citation></ref><ref id="r11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rajendra Acharya</surname><given-names>U</given-names></name><name><surname>Paul Joseph</surname><given-names>K</given-names></name><name><surname>Kannathal</surname><given-names>N</given-names></name><name><surname>Lim</surname><given-names>CM</given-names></name><name><surname>Suri</surname><given-names>JS</given-names></name></person-group><article-title>Heart rate variability: a review</article-title><source>Med Biol Eng Comput</source><year>2006</year><volume>44</volume><fpage>1031</fpage><lpage>1051</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s11517-006-0119-0">http://dx.doi.org/10.1007/s11517-006-0119-0</ext-link><pub-id pub-id-type="pmid">17111118</pub-id></element-citation></ref><ref id="r12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Mazursky</surname><given-names>JE</given-names></name><name><surname>Birkett</surname><given-names>CL</given-names></name><name><surname>Bedell</surname><given-names>KA</given-names></name><name><surname>Ben-Haim</surname><given-names>AS</given-names></name><name><surname>Segar</surname><given-names>JL</given-names></name></person-group><article-title>Development of baroreflex influences on heart rate variability in
+preterm infants</article-title><source>Early Hum Dev</source><year>1998</year><volume>53</volume><fpage>37</fpage><lpage>52</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/S0378-3782(98)00038-3">http://dx.doi.org/10.1016/S0378-3782(98)00038-3</ext-link><pub-id pub-id-type="pmid">10193925</pub-id></element-citation></ref><ref id="r13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sahnir</surname><given-names>R</given-names></name><name><surname>Schulze</surname><given-names>KF</given-names></name><name><surname>Kashyap</surname><given-names>S</given-names></name><name><surname>Ohira-Kist</surname><given-names>K</given-names></name><name><surname>Fifer</surname><given-names>WP</given-names></name><name><surname>Myers</surname><given-names>MM</given-names></name></person-group><article-title>Maturation changes in heart rate and heart rate variability in
+low birth weight infants</article-title><source>Dev Psychobiol</source><year>2000</year><volume>37</volume><fpage>73</fpage><lpage>81</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1002/1098-2302(200009)37:2&#x0003c;73::AID-DEV2&#x0003e;3.0.CO;2-C">http://dx.doi.org/10.1002/1098-2302(200009)37:2&#x0003c;73::AID-DEV2&#x0003e;3.0.CO;2-C</ext-link><pub-id pub-id-type="pmid">10954832</pub-id></element-citation></ref><ref id="r14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Southall</surname><given-names>DP</given-names></name><name><surname>Scherchtman</surname><given-names>VL</given-names></name><name><surname>Raetz</surname><given-names>SL</given-names></name><name><surname>Garfinkel</surname><given-names>A</given-names></name><name><surname>Wilson</surname><given-names>AJ</given-names></name><name><surname>Harper</surname><given-names>RM</given-names></name></person-group><article-title>Dynamic analysis of cardiac R-R intervals in normal infants and
+in infants who subsequently succumbed to the sudden infant death
+syndrome</article-title><source>Pediatr Res</source><year>1992</year><volume>31</volume><fpage>606</fpage><lpage>612</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1203/00006450-199206000-00014">http://dx.doi.org/10.1203/00006450-199206000-00014</ext-link><pub-id pub-id-type="pmid">1635823</pub-id></element-citation></ref><ref id="r15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Massin</surname><given-names>M</given-names></name><name><surname>Von Bernuth</surname><given-names>G</given-names></name></person-group><article-title>Normal ranges of heart rate variability during infancy and
+childhood</article-title><source>Pedriatr Cardiol</source><year>1997</year><volume>18</volume><fpage>297</fpage><lpage>302</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s002469900178">http://dx.doi.org/10.1007/s002469900178</ext-link></element-citation></ref><ref id="r16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pantoni</surname><given-names>BF</given-names></name><name><surname>Reis</surname><given-names>MS</given-names></name><name><surname>Martins</surname><given-names>EB</given-names></name><name><surname>Catai</surname><given-names>AM</given-names></name><name><surname>Costa</surname><given-names>D</given-names></name><name><surname>Borghi-Silva</surname><given-names>A</given-names></name></person-group><article-title>Study on autonomic heart rate modulation at rest among elderly
+patients with chronic obstructive pulmonary disease</article-title><source>Rev Bras Fisioter</source><year>2007</year><volume>11</volume><fpage>35</fpage><lpage>41</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/S1413-35552007000100007">http://dx.doi.org/10.1590/S1413-35552007000100007</ext-link></element-citation></ref><ref id="r17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Stein</surname><given-names>PK</given-names></name><name><surname>Nelson</surname><given-names>P</given-names></name><name><surname>Rottman</surname><given-names>JN</given-names></name><name><surname>Howard</surname><given-names>D</given-names></name><name><surname>Ward</surname><given-names>SM</given-names></name><name><surname>Kleiger</surname><given-names>RE</given-names></name><etal>et al</etal></person-group><article-title>Heart rate variability reflects severity of COPD in PiZ
+alpha1-antitrypsin deficiency</article-title><source>Chest</source><year>1998</year><volume>113</volume><fpage>327</fpage><lpage>333</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1378/chest.113.2.327">http://dx.doi.org/10.1378/chest.113.2.327</ext-link><pub-id pub-id-type="pmid">9498947</pub-id></element-citation></ref><ref id="r18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Arai</surname><given-names>Y</given-names></name><name><surname>Saul</surname><given-names>JP</given-names></name><name><surname>Albrecht</surname><given-names>P</given-names></name><name><surname>Hartley</surname><given-names>LH</given-names></name><name><surname>Lilly</surname><given-names>LS</given-names></name><name><surname>Cohen</surname><given-names>RJ</given-names></name><etal>et al</etal></person-group><article-title>Modulation of cardiac autonomic activity during and immediately
+after exercise</article-title><source>Am J Physiol</source><year>1989</year><volume>256</volume><issue>1</issue><issue-part>Pt 2</issue-part><fpage>H132</fpage><lpage>H141</lpage><pub-id pub-id-type="pmid">2643348</pub-id></element-citation></ref><ref id="r19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Van de Borne</surname><given-names>P</given-names></name><name><surname>Montano</surname><given-names>N</given-names></name><name><surname>Pagani</surname><given-names>M</given-names></name><name><surname>Oren</surname><given-names>R</given-names></name><name><surname>Somers</surname><given-names>VK</given-names></name></person-group><article-title>Absence of low-frequency variability of sympathetic nerve
+activity in severe heart failure</article-title><source>Circulation</source><year>1997</year><volume>95</volume><fpage>1449</fpage><lpage>1454</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1161/01.CIR.95.6.1449">http://dx.doi.org/10.1161/01.CIR.95.6.1449</ext-link><pub-id pub-id-type="pmid">9118512</pub-id></element-citation></ref><ref id="r20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Morrow</surname><given-names>BM</given-names></name><name><surname>Argent</surname><given-names>AC</given-names></name></person-group><article-title>A comprehensive review of pediatric endotracheal suctioning:
+Effects, indications, and clinical practice</article-title><source>Pediatr Crit Care Med</source><year>2008</year><volume>9</volume><fpage>465</fpage><lpage>477</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1097/PCC.0b013e31818499cc">http://dx.doi.org/10.1097/PCC.0b013e31818499cc</ext-link><pub-id pub-id-type="pmid">18679146</pub-id></element-citation></ref><ref id="r21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><collab> American Academy of Pediatrics Subcommittee on Diagnosis and
+Management of Bronchiolitis</collab></person-group><article-title xml:lang="pt"> Diagnosis and management of
+bronchiolitis</article-title><source>Pediatrics</source><year>2006</year><volume>118</volume><fpage>1774</fpage><lpage>1793</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1542/peds.2006-2223">http://dx.doi.org/10.1542/peds.2006-2223</ext-link><pub-id pub-id-type="pmid">17015575</pub-id></element-citation></ref><ref id="r22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pupin</surname><given-names>MK</given-names></name><name><surname>Riccetto</surname><given-names>AG</given-names></name><name><surname>Ribeiro</surname><given-names>JD</given-names></name><name><surname>Baracat</surname><given-names>EC</given-names></name></person-group><article-title xml:lang="pt"> Comparison of the effects that two different
+respiratory physical therapy techniques have on cardiorespiratory parameters
+in infants with acute viral bronchiolitis</article-title><source>J Bras Pneumol</source><year>2009</year><volume>35</volume><fpage>860</fpage><lpage>867</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/S1806-37132009000900007">http://dx.doi.org/10.1590/S1806-37132009000900007</ext-link><pub-id pub-id-type="pmid">19820812</pub-id></element-citation></ref><ref id="r23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gajdos</surname><given-names>V</given-names></name><name><surname>Katsahian</surname><given-names>S</given-names></name><name><surname>Beydon</surname><given-names>N</given-names></name><name><surname>Abadie</surname><given-names>V</given-names></name><name><surname>De Pontual</surname><given-names>L</given-names></name><name><surname>Larrar</surname><given-names>S</given-names></name><etal>et al</etal></person-group><article-title>Effectiveness of chest physiotherapy in infants hospitalized with
+acute bronchiolitis: a multicenter, randomized, controlled
+trial</article-title><source>PLoS Med</source><year>2010</year><volume>28;7</volume><issue>9</issue><elocation-id/></element-citation></ref><ref id="r24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bailleux</surname><given-names>S</given-names></name><name><surname>Lopes</surname><given-names>D</given-names></name><name><surname>Geoffroy</surname><given-names>A</given-names></name><name><surname>Josse</surname><given-names>N</given-names></name><name><surname>Labrune</surname><given-names>P</given-names></name><name><surname>Gajdos</surname><given-names>V</given-names></name></person-group><article-title>What evidence for chest physiotherapy in infants hospitalized for
+acute viral bronchiolitis?</article-title><source>Arch Pediatr</source><year>2011</year><volume>18</volume><fpage>472</fpage><lpage>475</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.arcped.2011.01.028">http://dx.doi.org/10.1016/j.arcped.2011.01.028</ext-link><pub-id pub-id-type="pmid">21392951</pub-id></element-citation></ref><ref id="r25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rochat</surname><given-names>I</given-names></name><name><surname>Leis</surname><given-names>P</given-names></name><name><surname>Bouchardy</surname><given-names>M</given-names></name><name><surname>Oberli</surname><given-names>C</given-names></name><name><surname>Sourial</surname><given-names>H</given-names></name><name><surname>Friedli-Burri</surname><given-names>M</given-names></name><etal>et al</etal></person-group><article-title>Chest physiotherapy using passive expiratory techniques does not
+reduce bronchiolitis severity: a randomised controlled trial</article-title><source>Eur J Pediatr</source><year>2011</year><volume>171</volume><fpage>457</fpage><lpage>462</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1007/s00431-011-1562-y">http://dx.doi.org/10.1007/s00431-011-1562-y</ext-link><pub-id pub-id-type="pmid">21927808</pub-id></element-citation></ref><ref id="r26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Postiaux</surname><given-names>G</given-names></name><name><surname>Louis</surname><given-names>J</given-names></name><name><surname>Labasse</surname><given-names>HC</given-names></name><name><surname>Gerroldt</surname><given-names>J</given-names></name><name><surname>Kotik</surname><given-names>AC</given-names></name><name><surname>Lemuhot</surname><given-names>A</given-names></name><etal>et al</etal></person-group><article-title>Evaluation of an alternative chest physiotherapy method in
+infants with respiratory syncytial virus bronchiolitis</article-title><source>Respir Care</source><year>2011</year><volume>56</volume><fpage>989</fpage><lpage>994</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.4187/respcare.00721">http://dx.doi.org/10.4187/respcare.00721</ext-link><pub-id pub-id-type="pmid">21352671</pub-id></element-citation></ref><ref id="r27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>S&#x000e1;nchez Bayle</surname><given-names>M</given-names></name><name><surname>Mart&#x000ed;n Mart&#x000ed;n</surname><given-names>R</given-names></name><name><surname>Cano Fern&#x000e1;ndez</surname><given-names>J</given-names></name><name><surname>Mart&#x000ed;nez S&#x000e1;nchez</surname><given-names>G</given-names></name><name><surname>G&#x000f3;mez Mart&#x000ed;n</surname><given-names>J</given-names></name><name><surname>Yep Chullen</surname><given-names>G</given-names></name><etal>et al</etal></person-group><article-title>Chest physiotherapy and bronchiolitis in the hospitalised infant.
+Double-blind clinical trial</article-title><source>An Pediatr (Barc)</source><year>2012</year><volume>77</volume><fpage>5</fpage><lpage>11</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1016/j.anpedi.2011.11.026">http://dx.doi.org/10.1016/j.anpedi.2011.11.026</ext-link><pub-id pub-id-type="pmid">22281403</pub-id></element-citation></ref><ref id="r28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Gomes</surname><given-names>EL</given-names></name><name><surname>Postiaux</surname><given-names>G</given-names></name><name><surname>Medeiros</surname><given-names>DR</given-names></name><name><surname>Monteiro</surname><given-names>KK</given-names></name><name><surname>Sampaio</surname><given-names>LM</given-names></name><name><surname>Costa</surname><given-names>D</given-names></name></person-group><article-title>Chest physical therapy is effective in reducing the clinical
+score in bronchiolitis: randomized controlled trial</article-title><source>Rev Bras Fisioter</source><year>2012</year><volume>16</volume><fpage>241</fpage><lpage>247</lpage><ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1590/S1413-35552012005000018">http://dx.doi.org/10.1590/S1413-35552012005000018</ext-link><pub-id pub-id-type="pmid">22499404</pub-id></element-citation></ref></ref-list></back></article>

@@ -1,0 +1,592 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Psychol Med</journal-id><journal-id journal-id-type="iso-abbrev">Psychol Med</journal-id><journal-id journal-id-type="publisher-id">PSM</journal-id><journal-title-group><journal-title>Psychological Medicine</journal-title></journal-title-group><issn pub-type="ppub">0033-2917</issn><issn pub-type="epub">1469-8978</issn><publisher><publisher-name>Cambridge University Press</publisher-name><publisher-loc>Cambridge, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25065692</article-id><article-id pub-id-type="pmc">4131263</article-id><article-id pub-id-type="doi">10.1017/S0033291714000221</article-id><article-id pub-id-type="pii">S0033291714000221</article-id><article-id pub-id-type="publisher-id">00022</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Allowing for non-adherence to treatment in a randomized controlled trial of
+two antidepressants (citalopram <italic>versus</italic> reboxetine): an example from the
+GENPOD trial</article-title><alt-title alt-title-type="left-running">N. J. Wiles et al.</alt-title><alt-title alt-title-type="right-running">Allowing for non-adherence to
+treatment</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Wiles</surname><given-names>N. J.</given-names></name><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="cor1">*</xref></contrib><contrib contrib-type="author"><name><surname>Fischer</surname><given-names>K.</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name><surname>Cowen</surname><given-names>P.</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name><surname>Nutt</surname><given-names>D.</given-names></name><xref ref-type="aff" rid="aff4">4</xref></contrib><contrib contrib-type="author"><name><surname>Peters</surname><given-names>T. J.</given-names></name><xref ref-type="aff" rid="aff5">5</xref></contrib><contrib contrib-type="author"><name><surname>Lewis</surname><given-names>G.</given-names></name><xref ref-type="aff" rid="aff6">6</xref></contrib><contrib contrib-type="author"><name><surname>White</surname><given-names>I. R.</given-names></name><xref ref-type="aff" rid="aff7">7</xref></contrib></contrib-group><aff id="aff1"><label>1</label><addr-line>School of Social and Community Medicine</addr-line>,
+<institution>University of Bristol</institution>, <country>UK</country></aff><aff id="aff2"><label>2</label><addr-line>Estonian Genome Centre</addr-line>,
+<institution>University of Tartu</institution>, <country>Estonia</country></aff><aff id="aff3"><label>3</label><addr-line>Department of Psychiatry</addr-line>,
+<institution>University of Oxford</institution>, <country>UK</country></aff><aff id="aff4"><label>4</label><addr-line>Department of Neuropsychopharmacology</addr-line>,
+<institution>Imperial College London</institution>, <country>UK</country></aff><aff id="aff5"><label>5</label><addr-line>School of Clinical Sciences</addr-line>,
+<institution>University of Bristol</institution>, <country>UK</country></aff><aff id="aff6"><label>6</label><addr-line>Mental Health Sciences Unit</addr-line>,
+<institution>University College London</institution>, <country>UK</country></aff><aff id="aff7"><label>7</label><institution>MRC Biostatistics Unit</institution>,
+<addr-line>Cambridge</addr-line>, <country>UK</country></aff><author-notes><corresp id="cor1"><label>*</label><addr-line>Address for correspondence: N. J. Wiles,
+Ph.D., Centre for Academic Mental Health, School of Social and Community
+Medicine</addr-line>, <institution>University of Bristol</institution>,
+<addr-line>Oakfield House, Oakfield Grove, Clifton, Bristol BS8 2BN</addr-line>,
+<country>UK</country>. (Email: <email>nicola.wiles@bristol.ac.uk</email>)</corresp></author-notes><pub-date pub-type="ppub"><month>10</month><year>2014</year></pub-date><pub-date pub-type="epub"><day>03</day><month>3</month><year>2014</year></pub-date><volume>44</volume><issue>13</issue><fpage>2855</fpage><lpage>2866</lpage><history><date date-type="received"><day>27</day><month>11</month><year>2012</year></date><date date-type="rev-recd"><day>17</day><month>12</month><year>2013</year></date><date date-type="accepted"><day>16</day><month>1</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9; Cambridge University Press 2014</copyright-statement><copyright-year>2014</copyright-year><copyright-holder>Cambridge University Press</copyright-holder><license license-type="open-access"><license-p><!--CREATIVE COMMONS-->The online version of this article is published within an Open Access
+environment subject to the conditions of the Creative Commons Attribution licence
+<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</ext-link></license-p></license></permissions><self-uri xlink:title="pdf" xlink:type="simple" xlink:href="S0033291714000221a.pdf"/><abstract abstract-type="normal"><sec id="sec_a1"><title>Background</title><p>Meta-analyses suggest that reboxetine may be less effective than other antidepressants.
+Such comparisons may be biased by lower adherence to reboxetine and subsequent handling
+of missing outcome data. This study illustrates how to adjust for differential
+non-adherence and hence derive an unbiased estimate of the efficacy of reboxetine
+compared with citalopram in primary care patients with depression.</p></sec><sec id="sec_a2" sec-type="methods"><title>Method</title><p>A structural mean modelling (SMM) approach was used to generate adherence-adjusted
+estimates of the efficacy of reboxetine compared with citalopram using GENetic and
+clinical Predictors Of treatment response in Depression (GENPOD) trial data.
+Intention-to-treat (ITT) analyses were performed to compare estimates of effectiveness
+with results from previous meta-analyses.</p></sec><sec id="sec_a3" sec-type="results"><title>Results</title><p>At 6 weeks, 92% of those randomized to citalopram were still taking their medication,
+compared with 72% of those randomized to reboxetine. In ITT analysis, there was only
+weak evidence that those on reboxetine had a slightly worse outcome than those on
+citalopram [adjusted difference in mean Beck Depression Inventory (BDI) scores: 1.19,
+95% confidence interval (CI) &#x02013;0.52 to 2.90, <italic>p</italic>&#x000a0;=&#x000a0;0.17]. There was no
+evidence of a difference in efficacy when differential non-adherence was accounted for
+using the SMM approach for mean BDI (&#x02013;0.29, 95% CI &#x02013;3.04 to 2.46,
+<italic>p</italic>&#x000a0;=&#x000a0;0.84) or the other mental health outcomes.</p></sec><sec id="sec_a4" sec-type="conclusion"><title>Conclusions</title><p>There was no evidence of a difference in the efficacy of reboxetine and citalopram when
+these drugs are taken and tolerated by depressed patients. The SMM approach can be
+implemented in standard statistical software to adjust for differential non-adherence
+and generate unbiased estimates of treatment efficacy for comparisons of two (or more)
+active interventions.</p></sec></abstract><kwd-group><title>Key words</title><kwd>Adherence</kwd><kwd>antidepressant</kwd><kwd>depression</kwd><kwd>primary care</kwd><kwd>treatment outcome</kwd></kwd-group><counts><table-count count="4"/><ref-count count="29"/><page-count count="12"/></counts></article-meta></front><body><sec sec-type="intro" id="sec1"><title>Introduction</title><p>Antidepressants are often prescribed in primary care as the first-line treatment for
+depression. In England in 2011, 46 million prescriptions for antidepressants were issued at
+a cost of &#x000a3;270 million (HSCIC, <xref rid="ref11" ref-type="bibr">2012</xref>). Selective
+serotonin reuptake inhibitors (SSRIs) are the most commonly prescribed (54% of prescriptions
+in 2011), with tricyclic antidepressants (TCAs) accounting for a further 29% of
+prescriptions issued (HSCIC, <xref rid="ref11" ref-type="bibr">2012</xref>).</p><p>Data on the comparative effectiveness of the various antidepressants suggest that there is
+little difference between different antidepressants (Freemantle <italic>et al.</italic>
+<xref rid="ref8" ref-type="bibr">2000</xref>; Cipriani <italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>). Two meta-analyses suggest that reboxetine may
+be less effective (Cipriani <italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>; Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>) but others have reported no such differences
+(Papakostas <italic>et al.</italic>
+<xref rid="ref20" ref-type="bibr">2008</xref>).</p><p>Reboxetine is a selective noradrenaline reuptake inhibitor (NaRI), and is the only drug of
+this class of antidepressants currently licensed in the UK. It is prescribed infrequently
+(0.1% of total prescriptions for antidepressants in 2011) (HSCIC, <xref rid="ref11" ref-type="bibr">2012</xref>). Notably, meta-analyses have highlighted a lower adherence to
+treatment with reboxetine compared with other antidepressants (Cipriani <italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>; Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>). This differential non-adherence poses
+problems when examining the results of randomized controlled trials (RCTs) comparing two
+active treatments because commonly used methods to handle missing data may lead to biased
+estimates of effectiveness. In the meta-analysis by Cipriani <italic>et al.</italic> (<xref rid="ref3" ref-type="bibr">2009</xref>), it was assumed that those patients who were
+missing outcome data had not responded to treatment. However, as reboxetine was less well
+tolerated than SSRIs, this imputation has the potential to introduce bias such that the
+outcome for those on reboxetine may seem less favourable. Similarly, meta-analysis of trials
+that have used a last observation carried forward (LOCF) approach to handling missing
+outcome data (Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>) may be biased in a similar direction. However,
+neither study explored the potential for bias based on their approach to dealing with
+missing data.</p><p>Importantly, these meta-analyses have focused on treatment effectiveness, that is the
+average outcome of the &#x02018;offer&#x02019; of treatment obtained from intention-to-treat (ITT) analyses,
+irrespective of adherence to the allocated treatment. However, once it has been established
+that a medication can be tolerated by a patient, clinicians are often interested in knowing
+the benefit conferred by that drug when taken as prescribed. There is therefore clinical
+utility in estimating the efficacy of the drug under &#x02018;ideal conditions&#x02019; (Last, <xref rid="ref15" ref-type="bibr">1995</xref>), which includes full adherence to treatment.
+Estimates of treatment efficacy from &#x02018;per-protocol&#x02019; analyses may be biased (Fleming, <xref rid="ref7" ref-type="bibr">2008</xref>), and are further complicated in trials of two (or
+more) active interventions when there is differential adherence to the allocated treatments.
+A structural mean modelling (SMM) approach to deal with the issue of non-adherence in trials
+of two active treatments has been proposed by Fischer <italic>et al.</italic> (<xref rid="ref6" ref-type="bibr">2011</xref>).</p><p>The current study had two aims. First, to test whether two commonly used approaches to
+dealing with missing data introduce bias in estimates of effectiveness derived in the
+presence of differential non-adherence between treatment arms. Second, to use data from the
+GENetic and clinical Predictors Of treatment response in Depression (GENPOD) trial (Lewis
+<italic>et al.</italic>
+<xref rid="ref17" ref-type="bibr">2011</xref>; Wiles <italic>et al.</italic>
+<xref rid="ref28" ref-type="bibr">2012</xref>) to illustrate how to adjust for differential
+non-adherence in an RCT of two active interventions and hence to derive an unbiased estimate
+of the efficacy of reboxetine compared with citalopram in the treatment of primary care
+patients with a new episode of depression.</p></sec><sec sec-type="methods" id="sec2"><title>Method</title><sec id="sec2-1"><title>The GENPOD trial</title><p>The GENPOD trial (Thomas <italic>et al.</italic>
+<xref rid="ref25" ref-type="bibr">2008</xref>) was designed to test two primary hypotheses
+regarding (1) genetic and (2) clinical predictors of response to antidepressant
+medication. There was no evidence that the genetic serotonin polymorphism 5-HTTLPR (Lewis
+<italic>et al.</italic>
+<xref rid="ref17" ref-type="bibr">2011</xref>) or severity of depression (Wiles <italic>et
+al.</italic>
+<xref rid="ref28" ref-type="bibr">2012</xref>) was associated with response to
+antidepressant medication. Secondary analysis of these trial data can provide information
+on the comparative efficacy of an SSRI (citalopram) and an NaRI (reboxetine).</p></sec><sec id="sec2-2" sec-type="subjects"><title>Participants</title><p>Following agreement that an antidepressant should be prescribed, general practitioners
+(GPs) referred patients to the research team. Those eligible were aged 18&#x02013;74 years, had a
+Beck Depression Inventory (BDI; Beck <italic>et al.</italic>
+<xref rid="ref2" ref-type="bibr">1996</xref>) score of &#x02a7e;15 and met ICD-10 criteria for a
+depressive episode (F32) using the computerized Clinical Interview Schedule&#x000a0;&#x02013;&#x000a0;Revised
+(CIS-R; Lewis <italic>et al.</italic>
+<xref rid="ref18" ref-type="bibr">1992</xref>; Lewis, <xref rid="ref16" ref-type="bibr">1994</xref>). Those who gave written informed consent were randomized to receive either
+the SSRI citalopram (20&#x000a0;mg daily) or the NaRI reboxetine (4&#x000a0;mg twice daily).</p><p>Patients with psychosis, bipolar disorder or major substance or alcohol abuse problems
+were excluded, as were those who had taken antidepressants in the 2 weeks prior to
+baseline or who could not complete self-administered questionnaires.</p></sec><sec id="sec2-3"><title>Baseline measures</title><p>In addition to age, gender, BDI score and CIS-R score, the following data were recorded
+at baseline: ethnicity, marital status, employment status, financial strain [based on
+questions from the Breadline Britain survey (Gordon <italic>et al.</italic>
+<xref rid="ref9" ref-type="bibr">2000</xref>) and a single question asking about how they
+were managing financially (five response options)], details of home ownership (home owner,
+tenant, other), whether they had any longstanding illness, disability or infirmity, total
+number of physical symptoms (based on a list of 28 symptoms), history of depression
+(self/family) and prior treatment for depression, personality&#x000a0;&#x02013;&#x000a0;conscientiousness [Big
+Five Inventory (BFI); John <italic>et al.</italic>
+<xref rid="ref13" ref-type="bibr">1991</xref>], Hospital Anxiety and Depression Scale
+(HADS; Zigmond &#x00026; Snaith, <xref rid="ref29" ref-type="bibr">1983</xref>) score,
+life events, social support, alcohol use (Alcohol Use Disorders Identification Test for
+Primary Care, AUDIT-PC; Piccinelli <italic>et al.</italic>
+<xref rid="ref21" ref-type="bibr">1997</xref>), and scores on the 12-item Short Form
+Health Survey (SF-12) mental and physical subscales (Jenkinson &#x00026; Layte, <xref rid="ref12" ref-type="bibr">1997</xref>).</p></sec><sec id="sec2-4"><title>Randomization procedure</title><p>Randomization was conducted by means of a computer-generated code, administered centrally
+and communicated by telephone and hence concealed from the recruiting researcher.
+Allocation was stratified by severity of overall symptoms (CIS-R score &#x0003c;&#x000a0;28 or &#x02a7e;28)
+and centre. The researcher gave the allocated medication to the participant. Neither
+patients nor researchers were blind to treatment allocation.</p></sec><sec id="sec2-5"><title>Allocated treatments</title><p>Patients randomized to citalopram were prescribed 20&#x000a0;mg daily. Citalopram taken at this
+dose has been shown to occupy about 80% of serotonin transporter reuptake sites, which is
+reported to be the level of occupancy needed to produce reliable antidepressant effects
+(Meyer <italic>et al.</italic>
+<xref rid="ref19" ref-type="bibr">2001</xref>).</p><p>Those randomized to reboxetine were advised to start on 2&#x000a0;mg twice daily and increase to
+4&#x000a0;mg twice daily after 4 days. This stepped approach to starting reboxetine treatment was
+used on the advice of psychopharmacologists to minimize problems with lack of tolerance of
+this drug. Acute doses of 4&#x000a0;mg of reboxetine increase cortisol levels indicative of
+increased noradrenergic function (Hill <italic>et al.</italic>
+<xref rid="ref10" ref-type="bibr">2003</xref>) and this dose of drug also produces
+peripheral autonomic effects consistent with noradrenaline reuptake blockade (Szabadi
+<italic>et al.</italic>
+<xref rid="ref24" ref-type="bibr">1998</xref>). GPs could increase the dose of either
+allocated treatment if deemed clinically appropriate.</p></sec><sec id="sec2-6"><title>Measures of treatment adherence</title><p>Participants were asked about their use of antidepressant medication in the follow-up
+questionnaires (six closed response options: I have not taken any of my tablets; I have
+taken hardly any of my tablets; I have taken less than half of my tablets; I have taken
+more than half of my tablets; I have taken nearly all my tablets; I have taken my tablets
+every day).</p></sec><sec id="sec2-7"><title>Outcome measures</title><p>Self-reported outcome data were collected 6 and 12 weeks after randomization. For the
+purpose of this study, which demonstrates the approach to adjusting for differential
+non-adherence between the two treatments, we used the 6-week outcome data. The (original)
+primary outcome was the total BDI score at 6 weeks. Secondary outcomes were the HADS total
+and subscale scores and the SF-12 mental and physical subscale scores.</p></sec><sec id="sec2-8"><title>Dataset</title><p>The 6-week follow-up was completed by 91% of participants (<italic>n</italic>&#x000a0;=&#x000a0;546)
+[citalopram: 274/298 (92%) and reboxetine: 272/303 (90%)]. Younger individuals, those with
+more life events and less social support were more likely to have missing data (Lewis
+<italic>et al.</italic>
+<xref rid="ref17" ref-type="bibr">2011</xref>). Adjustment for these variables made no
+difference to the main trial findings (Lewis <italic>et al.</italic>
+<xref rid="ref17" ref-type="bibr">2011</xref>) and there was no evidence that these
+factors were associated with adherence to medication (data not shown). Therefore, for the
+present analyses, the dataset comprised the 546 participants with 6-week follow-up data
+(complete cases).</p></sec><sec id="sec2-9"><title>Statistical analysis</title><p>All analyses were conducted in Stata version 11.1 (Stata Corporation, USA). To compare
+the data from the GENPOD trial with the previous literature on the comparative
+effectiveness of antidepressants (Papakostas <italic>et al.</italic>
+<xref rid="ref20" ref-type="bibr">2008</xref>; Cipriani <italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>; Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>), we first conducted analyses on the
+effectiveness of reboxetine <italic>versus</italic> citalopram according to the ITT
+principle. We then examined the effect of two approaches to handling missing data that
+have been used in the previous meta-analyses to illustrate the potential for bias in such
+estimates of effectiveness in the presence of differential non-adherence. Finally, we
+focused on the application of the novel SMM approach to estimating treatment efficacy in
+the presence of differential non-adherence.</p></sec><sec id="sec2-10"><title>Estimates of effectiveness</title><p>The primary comparative ITT analysis compared the BDI score at 6 weeks between the two
+groups as randomized, with adjustment for baseline BDI score and the stratification
+variables. To estimate treatment effectiveness, data from all participants followed up at
+6 weeks were included in these analyses, irrespective of adherence to the allocated
+medication.</p></sec><sec id="sec2-11"><title>Effect of imputing missing outcomes as &#x02018;non-recovery&#x02019; or using an LOCF approach to
+handling missing outcome data on estimates of effectiveness</title><p>Previous studies comparing outcomes for those taking citalopram and reboxetine (Cipriani
+<italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>; Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>) analysed data on an ITT basis but either:
+(1) assumed that those who were missing outcome data (which frequently equates to all
+those who had stopped the trial medication in psychopharmacology trials) had not responded
+to treatment (Cipriani <italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>) or (2) summarized data from publications
+that used an LOCF approach to handle missing data (Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>). The effect of these two different
+approaches to handling missing data was examined by artificially constraining the GENPOD
+dataset such that only those who had continued to take their medication at 6 weeks were
+regarded as having outcome data.</p></sec><sec id="sec2-12"><title>Adherence-adjusted efficacy estimates</title><p>The final set of analyses generated unbiased estimates of treatment efficacy in the
+presence of differential non-adherence between treatment arms. The SMM method assumes that
+the mean outcomes in the two arms would be equal in the absence of treatment, and that
+each treatment has a (separate) linear causal effect on outcome. To estimate the two
+causal effects of treatment, the approach developed by Fischer <italic>et al.</italic>
+(<xref rid="ref6" ref-type="bibr">2011</xref>) relies on identifying baseline variables
+that predict adherence differently in the two arms (i.e. they interact with a randomized
+group in a model for adherence) but that do not predict the causal effect of treatment
+(i.e. they do not interact with treatment in a causal model for clinical outcome).
+Baseline variables that predict adherence and/or outcome (as main effects) are also useful
+in improving precision. The following procedure was used to identify these baseline
+variables.</p><sec id="sec2-12-1"><label>
+(1)
+</label><title>Identifying predictors of outcome</title><p>All baseline variables that were possible predictors of outcome [age, gender,
+ethnicity, marital status, employment status, housing status, financial strain, history
+of depression (self/family), prior treatment for depression, longstanding illness,
+disability/infirmity, social support, life events, alcohol score, BDI score, HADS
+total/anxiety/depression subscale scores, SF-12 mental and physical subscale scores, and
+number of physical symptoms] were examined in univariable linear regression models with
+the BDI score at 6 weeks as a continuous outcome. Those variables that were identified
+as predictors of outcome at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.20 were entered into a
+multivariable model. The most parsimonious model was identified using backwards
+selection and the likelihood ratio test until all remaining variables were retained at
+<italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.10. Any variables not selected in the initial phase
+(univariable model: <italic>p</italic> &#x02a7e;0.20) were included in the final multivariable
+model one by one and retained if <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.10. This modelling
+process was repeated for each of the additional outcomes (HADS total and subscale scores
+and SF-12 mental and physical subscale scores). All models were adjusted for
+stratification variables and treatment allocation to improve precision.</p><p>This liberal modelling approach ensured that all potentially influential variables were
+included. Omission of a potentially important predictor of outcome from the SMM model
+would result in a loss of precision.</p></sec><sec id="sec2-12-2"><label>
+(2)
+</label><title>Identifying predictors of adherence</title><p>GENPOD relied upon self-reported use of antidepressant medication. A quantitative
+measure of adherence is required for the SMM approach. Therefore, a pragmatic decision
+was made to rescale the six response options using increments of 0.2 to generate an
+adherence score scaled from zero to one, where zero represented total non-adherence and
+one indicated &#x02018;perfect&#x02019; adherence. This rescaling of the adherence measure assumed that
+a 0.2 point increase in adherence had the same meaning across the scale.</p><p>The following baseline variables were possible predictors of adherence:
+sociodemographic factors (age, gender, ethnicity, marital status, employment status,
+housing status, financial strain), social support, history of depression
+(self/family)/prior treatment for depression, longstanding illness/disability/infirmity,
+personality&#x000a0;&#x02013;&#x000a0;conscientiousness, life events, alcohol use, SF-12 physical subscale
+score, and eight physical symptoms (rapid heartbeat, agitation, dry mouth, sweating,
+constipation, diarrhoea, daytime drowsiness, and hot flushes). The total number of
+physical symptoms at baseline was excluded from the list because it was thought that
+individual physical symptoms may be more relevant to the question of adherence. For
+example, if someone was already experiencing a dry mouth, taking a drug likely to affect
+this may differentially affect adherence. The possible predictors of adherence were
+initially examined in univariable linear regression models with adherence score as the
+outcome, with adjustment for treatment allocation and predictors of outcome (identified
+using the process described earlier). All variables that were identified as predictors
+of adherence (either as a main effect or an interaction with treatment allocation in the
+univariable models at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.20) were entered into a
+multivariable model with the variable specified in the appropriate form (main effect or
+main effect and interaction). Interactions were evaluated one at a time using the
+likelihood ratio test. Those variables for which the main effect or interaction was
+significant at <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.10 were retained in the final multivariable
+model.</p><p>In GENPOD, the primary hypotheses were about differential response to antidepressant
+treatment dependent on severity of depression and genotype. To be consistent with this
+hypothesis, it was deemed inappropriate to examine severity as a predictor of adherence
+to medication because severity may have predicted the effect of treatment other than
+through adherence. Therefore, all measures of severity of depressive symptoms (CIS-R,
+BDI, HADS and SF-12 mental subscale score) were excluded from the list of potential
+predictors of adherence.</p></sec><sec id="sec2-12-3"><label>
+(3)
+</label><title>Generating adherence-adjusted estimates</title><p>The SMM approach (Fischer <italic>et al.</italic>
+<xref rid="ref6" ref-type="bibr">2011</xref>) was implemented using an instrumental
+variable (IV) model approach in Stata [ivregress command: two-stage least-squares (2sls)
+approach] for each of the outcomes (BDI, HADS and SF-12 mental and physical subscale
+scores). Each model was specified in the following format:<disp-formula><graphic xlink:href="S0033291714000221_eqnU1.jpg" mime-subtype="gif" position="float" mimetype="image" orientation="portrait"/></disp-formula>where <italic>y</italic>&#x000a0;=&#x000a0;outcome, <italic>x</italic>1&#x000a0;=&#x000a0;list of
+predictors of outcome (identified in stage 1), <italic>x</italic>2&#x000a0;=&#x000a0;list of predictors
+of adherence (identified in stage 2), <italic>x</italic>3&#x000a0;=&#x000a0;stratification variables
+(centre and CIS-R severity stratum), c1&#x000a0;=&#x000a0;adherence score for those randomized to
+treatment group 1 (citalopram), c2&#x000a0;=&#x000a0;adherence score for those randomized to treatment
+group 2 (reboxetine), r&#x000a0;=&#x000a0;treatment allocation, and * denotes an interaction, e.g.
+r*<italic>x</italic>1=&#x000a0;interaction between treatment allocation and predictors of
+outcome.</p><p>The SMM method requires identification of baseline variables that predict adherence
+differentially in the two arms (Fischer <italic>et al.</italic>
+<xref rid="ref6" ref-type="bibr">2011</xref>). These variables were included in
+<italic>x</italic>2 and not in <italic>x</italic>1, so the interaction
+r*<italic>x</italic>2 was an essential part of the model specification whereas the
+interaction r*<italic>x</italic>1 is unlikely to be important and could be omitted.
+Variables that may modify the causal effect of treatment should not be included in
+<italic>x</italic>1 or <italic>x</italic>2.</p><p>Taking outcome as BDI score at 6 weeks as an example, the IV model estimated the causal
+effects of full adherence to the two treatments (citalopram and reboxetine); that is,
+the difference in mean BDI scores for full adherence with the treatment compared to no
+adherence with any treatment. The difference between the two treatments was then tested
+formally using the lincom command (lincom c2&#x000a0;&#x02013;&#x000a0;c1), which estimates an
+adherence-adjusted difference in mean BDI scores between the two treatment groups and
+its 95% confidence interval (CI).</p><p>Sensitivity analyses were conducted removing predictors of adherence from the list of
+<italic>x</italic>2 variables one by one to examine the robustness of the findings
+from the SMM IV approach for each of the outcomes.</p></sec></sec></sec><sec sec-type="results" id="sec3"><title>Results</title><sec id="sec3-1"><title>Trial participation and follow-up</title><p>The Consolidated Standards Of Reporting Trials (CONSORT) flowchart and baseline
+comparability of the randomized groups have been published previously (Lewis <italic>et
+al.</italic>
+<xref rid="ref17" ref-type="bibr">2011</xref>). In total, 601 participants were randomized
+to receive either citalopram (<italic>n</italic>&#x000a0;=&#x000a0;298) or reboxetine
+(<italic>n</italic>&#x000a0;=&#x000a0;303). The mean age of participants was 38.8 years
+(<sc>s.d.</sc>&#x000a0;=&#x000a0;12.4) and 68% (<italic>n</italic>&#x000a0;=&#x000a0;408) were female. More than 90% of
+participants had moderate (<italic>n</italic>&#x000a0;=&#x000a0;305) or severe depression
+(<italic>n</italic>&#x000a0;=&#x000a0;245) according to ICD-10 criteria. The 6-week follow-up was
+completed by 91% (<italic>n</italic>&#x000a0;=&#x000a0;546) of participants (citalopram:
+<italic>n</italic>&#x000a0;=&#x000a0;274 and reboxetine: <italic>n</italic>&#x000a0;=&#x000a0;272).</p></sec><sec id="sec3-2"><title>Adherence to, and dose of, medication</title><p>Of those randomized to citalopram, 90% (<italic>n</italic>&#x000a0;=&#x000a0;246) were still taking their
+medication at the time of the 6-week follow-up, compared with 72%
+(<italic>n</italic>&#x000a0;=&#x000a0;195) of those randomized to reboxetine (difference: 18.4%, 95% CI
+12.0&#x02013;24.8, <italic>p</italic>&#x000a0;&#x0003c;&#x000a0;0.001). At the 6-week follow-up, 149 (55%) of those
+randomized to receive citalopram reported having taken their tablets &#x02018;every day&#x02019;, 90 (33%)
+had taken &#x02018;nearly all&#x02019; their tablets, and 34 (12%) had taken &#x02018;less than half&#x02019;, &#x02018;hardly
+any&#x02019; or none of their tablets. The comparable figures for those randomized to receive
+reboxetine were 113 (42%), 89 (33%) and 70 (26%). As reported previously (Lewis <italic>et
+al.</italic>
+<xref rid="ref17" ref-type="bibr">2011</xref>), the dose of the allocated medication was
+increased by the GP only for a minority of participants [citalopram:
+<italic>n</italic>&#x000a0;=&#x000a0;55 (20%); reboxetine: <italic>n</italic>&#x000a0;=&#x000a0;13 (5%)] during the
+trial.</p></sec><sec id="sec3-3"><title>Estimates of effectiveness</title><p>Among the 546 participants who completed the 6-week follow-up, their mean BDI score at
+baseline was 33.6 (<sc>s.d.</sc>&#x000a0;=&#x000a0;9.7). The corresponding figures by trial arm are given
+in <xref ref-type="table" rid="tab01">Table 1</xref>. In an ITT analysis (<xref ref-type="table" rid="tab02">Table 2</xref>), there was only weak evidence to suggest
+that those randomized to reboxetine had a worse outcome. On average, those on reboxetine
+scored one point higher on the BDI, although the 95% CI included no difference between
+groups. The results of the effectiveness analyses for the other mental health outcome
+measures (HADS total and anxiety/depression subscales; SF-12 mental subscale) were
+consistent with this (<xref ref-type="table" rid="tab02">Table 2</xref>). Hence, those
+randomized to receive reboxetine had, on average, a higher score on the HADS (total and
+subscales) and a lower score on the SF-12 mental subscale, indicative of a worse outcome.
+Indeed, for the SF-12 mental health subscale, those randomized to reboxetine had a mean
+score that was, on average, two points lower compared to those randomized to receive
+citalopram. The CI surrounding this estimate excluded the possibility of no difference.
+There was little evidence for any difference in outcome in terms of physical health (SF-12
+physical subscale score) between those randomized to receive reboxetine compared to
+citalopram (<xref ref-type="table" rid="tab02">Table 2</xref>). <table-wrap id="tab01" orientation="portrait" position="float"><label>Table 1.</label><caption><p>Baseline and 6-week follow-up scores on the outcome measures according to allocated
+treatment group, in those who completed the 6-week follow-up</p></caption><alternatives><graphic xlink:href="S0033291714000221_tab1"/><table frame="hsides" rules="groups"><col align="left" width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><thead><tr><th rowspan="2" valign="bottom" colspan="1">Outcome</th><th rowspan="2" valign="bottom" colspan="1">Time point</th><th colspan="2" align="left" rowspan="1">Citalopram
+(<italic>n</italic>&#x000a0;=&#x000a0;274)<xref ref-type="table-fn" rid="tfn1_2">
+<sup>a</sup>
+</xref></th><th colspan="2" align="left" rowspan="1">Reboxetine
+(<italic>n</italic>&#x000a0;=&#x000a0;272)</th></tr><tr><th align="left" rowspan="1" colspan="1">Mean</th><th align="left" rowspan="1" colspan="1">
+<sc>s.d.</sc>
+</th><th align="left" rowspan="1" colspan="1">Mean</th><th align="left" rowspan="1" colspan="1">
+<sc>s.d.</sc>
+</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">BDI</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">34.2</td><td rowspan="1" colspan="1">9.3</td><td rowspan="1" colspan="1">33.1</td><td rowspan="1" colspan="1">10.0</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 weeks</td><td rowspan="1" colspan="1">18.9</td><td rowspan="1" colspan="1">10.8</td><td rowspan="1" colspan="1">19.6</td><td rowspan="1" colspan="1">11.1</td></tr><tr><td rowspan="1" colspan="1">HADS Total</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">26.1</td><td rowspan="1" colspan="1">6.0</td><td rowspan="1" colspan="1">25.5</td><td rowspan="1" colspan="1">6.4</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 weeks</td><td rowspan="1" colspan="1">17.2</td><td rowspan="1" colspan="1">8.3</td><td rowspan="1" colspan="1">18.0</td><td rowspan="1" colspan="1">8.4</td></tr><tr><td rowspan="1" colspan="1">HADS Anxiety</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">13.3</td><td rowspan="1" colspan="1">3.4</td><td rowspan="1" colspan="1">13.1</td><td rowspan="1" colspan="1">3.8</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 weeks</td><td rowspan="1" colspan="1">9.3</td><td rowspan="1" colspan="1">4.2</td><td rowspan="1" colspan="1">9.7</td><td rowspan="1" colspan="1">4.4</td></tr><tr><td rowspan="1" colspan="1">HADS Depression</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">12.8</td><td rowspan="1" colspan="1">3.8</td><td rowspan="1" colspan="1">12.4</td><td rowspan="1" colspan="1">4.1</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 weeks</td><td rowspan="1" colspan="1">7.9</td><td rowspan="1" colspan="1">4.9</td><td rowspan="1" colspan="1">8.3</td><td rowspan="1" colspan="1">5.0</td></tr><tr><td rowspan="1" colspan="1">SF-12 Mental</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">23.9</td><td rowspan="1" colspan="1">7.6</td><td rowspan="1" colspan="1">24.3</td><td rowspan="1" colspan="1">7.8</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 weeks</td><td rowspan="1" colspan="1">39.2</td><td rowspan="1" colspan="1">11.9</td><td rowspan="1" colspan="1">37.2</td><td rowspan="1" colspan="1">12.4</td></tr><tr><td rowspan="1" colspan="1">SF-12 Physical</td><td rowspan="1" colspan="1">Baseline</td><td rowspan="1" colspan="1">47.2</td><td rowspan="1" colspan="1">11.5</td><td rowspan="1" colspan="1">47.4</td><td rowspan="1" colspan="1">11.1</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">6 weeks</td><td rowspan="1" colspan="1">48.2</td><td rowspan="1" colspan="1">10.6</td><td rowspan="1" colspan="1">47.8</td><td rowspan="1" colspan="1">10.2</td></tr></tbody></table></alternatives><table-wrap-foot><fn><p>BDI, Beck Depression Inventory; HADS, Hospital Anxiety and Depression Scale;
+SF-12, 12-item Short-Form Health Survey; <sc>s.d.</sc>, standard deviation.</p></fn><fn id="tfn1_2"><label>a</label><p><italic>n</italic>&#x000a0;=&#x000a0;273 for SF-12 scores.</p></fn></table-wrap-foot></table-wrap>
+<table-wrap id="tab02" orientation="portrait" position="float"><label>Table 2.</label><caption><p>Differences in outcomes at 6 weeks from analysis of treatment effectiveness and
+estimates of efficacy from SMM models that account for differential non-adherence to
+allocated treatment</p></caption><alternatives><graphic xlink:href="S0033291714000221_tab2"/><table frame="hsides" rules="groups"><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1"/><th colspan="4" align="left" rowspan="1">Estimates of effectiveness from
+analyses conducted according to the ITT principle</th><th colspan="4" align="left" rowspan="1">Adherence-adjusted efficacy
+estimates</th></tr><tr><th align="left" rowspan="1" colspan="1">Outcome</th><th align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th align="left" rowspan="1" colspan="1">Adjusted difference in means<xref ref-type="table-fn" rid="tfn2_2">
+<sup>a</sup>
+</xref></th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1"><italic>p</italic> value</th><th align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th align="left" rowspan="1" colspan="1">Adjusted difference in means<xref ref-type="table-fn" rid="tfn2_2">
+<sup>a</sup>
+</xref></th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1"><italic>p</italic> value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">BDI</td><td rowspan="1" colspan="1">546</td><td rowspan="1" colspan="1">1.19</td><td rowspan="1" colspan="1">&#x02212;0.52 to 2.90</td><td rowspan="1" colspan="1">0.17</td><td rowspan="1" colspan="1">541</td><td rowspan="1" colspan="1">&#x02212;0.29</td><td rowspan="1" colspan="1">&#x02212;3.04 to 2.46</td><td rowspan="1" colspan="1">0.84</td></tr><tr><td rowspan="1" colspan="1">HADS Total</td><td rowspan="1" colspan="1">546</td><td rowspan="1" colspan="1">1.16</td><td rowspan="1" colspan="1">&#x02212;0.16 to 2.47</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">1.23</td><td rowspan="1" colspan="1">&#x02212;0.71 to 3.17</td><td rowspan="1" colspan="1">0.22</td></tr><tr><td rowspan="1" colspan="1">HADS Anxiety</td><td rowspan="1" colspan="1">546</td><td rowspan="1" colspan="1">0.56</td><td rowspan="1" colspan="1">&#x02212;0.09 to 1.21</td><td rowspan="1" colspan="1">0.09</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">&#x02212;0.43 to 1.57</td><td rowspan="1" colspan="1">0.27</td></tr><tr><td rowspan="1" colspan="1">HADS Depression</td><td rowspan="1" colspan="1">546</td><td rowspan="1" colspan="1">0.60</td><td rowspan="1" colspan="1">&#x02212;0.17 to 1.37</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">&#x02212;0.50 to 1.74</td><td rowspan="1" colspan="1">0.28</td></tr><tr><td rowspan="1" colspan="1">SF-12 Mental</td><td rowspan="1" colspan="1">545</td><td rowspan="1" colspan="1">&#x02212;2.22</td><td rowspan="1" colspan="1">&#x02212;4.21 to &#x02013;0.22</td><td rowspan="1" colspan="1">0.03</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;2.53</td><td rowspan="1" colspan="1">&#x02212;5.55 to 0.50</td><td rowspan="1" colspan="1">0.10</td></tr><tr><td rowspan="1" colspan="1">SF-12 Physical</td><td rowspan="1" colspan="1">545</td><td rowspan="1" colspan="1">&#x02212;0.54</td><td rowspan="1" colspan="1">&#x02212;1.86 to 0.77</td><td rowspan="1" colspan="1">0.42</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;0.61</td><td rowspan="1" colspan="1">&#x02212;2.52 to 1.31</td><td rowspan="1" colspan="1">0.53</td></tr></tbody></table></alternatives><table-wrap-foot><fn><p>ITT, Intention-to-treat; BDI, Beck Depression Inventory; HADS, Hospital Anxiety
+and Depression Scale; SF-12, 12-item Short-Form Health Survey; CI, confidence
+interval.</p></fn><fn id="tfn2_2"><label>a</label><p>Adjusted for centre, baseline severity strata (Clinical Interview
+Schedule&#x000a0;&#x02013;&#x000a0;Revised, CIS-R) and baseline score for outcome measure.</p></fn><fn><p>Difference is reboxetine minus citalopram. A positive difference for BDI and HADS
+(and a negative difference for SF-12 outcomes) indicates that those on reboxetine
+have a worse outcome than those on citalopram.</p></fn></table-wrap-foot></table-wrap></p></sec><sec id="sec3-4"><title>Effect of imputing missing outcomes as &#x02018;non-recovery&#x02019; or using an LOCF approach to
+handling missing outcome data on estimates of effectiveness</title><p>There was little evidence of a difference in the binary outcome of &#x02018;recovery&#x02019; (BDI
+score&#x000a0;&#x0003c;&#x000a0;10 at 6 weeks) using observed data collected (irrespective of adherence to
+allocated medication) for 91% of GENPOD participants at 6 weeks when data were analysed
+using an ITT approach (<xref ref-type="table" rid="tab03">Table 3</xref>). <table-wrap id="tab03" orientation="portrait" position="float"><label>Table 3.</label><caption><p>Examining the effect of different approaches to handling missing outcome data on
+the difference between treatment groups (estimates of effectiveness) in the presence
+of differential adherence to treatment</p></caption><alternatives><graphic xlink:href="S0033291714000221_tab3"/><table frame="hsides" rules="groups"><col align="left" width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><thead><tr><th rowspan="2" valign="bottom" colspan="1">Outcome</th><th rowspan="2" valign="bottom" colspan="1">Analysis</th><th colspan="2" align="left" rowspan="1">Citalopram</th><th colspan="2" align="left" rowspan="1">Reboxetine</th><th rowspan="2" valign="bottom" colspan="1" align="left">Difference between
+groups OR (95% CI)<xref ref-type="table-fn" rid="tfn3_2">
+<sup>a</sup>
+</xref></th><th rowspan="2" valign="bottom" colspan="1"><italic>p</italic> value</th></tr><tr><th align="left" rowspan="1" colspan="1">
+<italic>N</italic>
+</th><th align="left" rowspan="1" colspan="1"><italic>n</italic> (%)</th><th align="left" rowspan="1" colspan="1">
+<italic>N</italic>
+</th><th align="left" rowspan="1" colspan="1"><italic>n</italic> (%)</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">&#x02018;Recovery&#x02019; (BDI score&#x000a0;&#x0003c;&#x000a0;10)</td><td rowspan="1" colspan="1">ITT on observed data (<italic>n</italic>&#x000a0;=&#x000a0;546)</td><td rowspan="1" colspan="1">274</td><td rowspan="1" colspan="1">60 (21.9)</td><td rowspan="1" colspan="1">272</td><td rowspan="1" colspan="1">61 (22.4)</td><td rowspan="1" colspan="1">0.95 (0.62 to 1.44)</td><td rowspan="1" colspan="1">0.79</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Using observed outcome data for those who were
+continuing to take their allocated medication at 6 weeks and assuming that
+those who had stopped their allocated medication had not recovered
+(<italic>n</italic>&#x000a0;=&#x000a0;546)</td><td rowspan="1" colspan="1">274</td><td rowspan="1" colspan="1">55 (20.1)</td><td rowspan="1" colspan="1">272</td><td rowspan="1" colspan="1">44 (16.2)</td><td rowspan="1" colspan="1">0.70 (0.45 to 1.10)</td><td rowspan="1" colspan="1">0.12</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">As above and assuming those with missing outcome
+data were also non-responders (<italic>n</italic>&#x000a0;=&#x000a0;601)</td><td rowspan="1" colspan="1">298</td><td rowspan="1" colspan="1">55 (18.5)</td><td rowspan="1" colspan="1">303</td><td rowspan="1" colspan="1">44.9 (14.5)</td><td rowspan="1" colspan="1">0.70 (0.45 to 1.09)</td><td rowspan="1" colspan="1">0.11</td></tr><tr><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1"/><th align="left" rowspan="1" colspan="1">
+<italic>N</italic>
+</th><th align="left" rowspan="1" colspan="1">Mean (<sc>s.d.</sc>)</th><th align="left" rowspan="1" colspan="1">
+<italic>N</italic>
+</th><th align="left" rowspan="1" colspan="1">Mean (<sc>s.d.</sc>)</th><th align="left" rowspan="1" colspan="1">Difference in means (95% CI)<xref ref-type="table-fn" rid="tfn3_2">
+<sup>a</sup>
+</xref></th><th align="left" rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">BDI score</td><td rowspan="1" colspan="1">ITT on observed data (<italic>n</italic>&#x000a0;=&#x000a0;546)</td><td rowspan="1" colspan="1">274</td><td rowspan="1" colspan="1">18.9 (10.8)</td><td rowspan="1" colspan="1">272</td><td rowspan="1" colspan="1">19.6 (11.1)</td><td rowspan="1" colspan="1">1.19 (&#x02212;0.52 to 2.90)</td><td rowspan="1" colspan="1">0.17</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Using observed outcome data for those who were
+continuing to take their allocated medication at 6 weeks and using an LOCF
+approach to carry forward the baseline BDI score for those who had stopped
+their allocated medication (<italic>n</italic>&#x000a0;=&#x000a0;546)</td><td rowspan="1" colspan="1">274</td><td rowspan="1" colspan="1">20.2 (11.8)</td><td rowspan="1" colspan="1">272</td><td rowspan="1" colspan="1">22.6 (12.0)</td><td rowspan="1" colspan="1">3.01 (1.18 to 4.85)</td><td rowspan="1" colspan="1">0.001</td></tr></tbody></table></alternatives><table-wrap-foot><fn><p>BDI, Beck Depression Inventory; ITT, intention-to-treat; LOCF, last observation
+carried forward; OR, odds ratio; CI, confidence interval; <sc>s.d.</sc>, standard
+deviation.</p></fn><fn id="tfn3_2"><label>a</label><p>Adjusted for centre, baseline severity strata (Clinical Interview
+Schedule&#x000a0;&#x02013;&#x000a0;Revised, CIS-R) and baseline BDI score.</p></fn><fn><p>Difference is reboxetine minus citalopram. An OR&#x000a0;&#x0003c;&#x000a0;1 for &#x02018;recovery&#x02019; or a
+positive difference for differences in BDI scores indicates that those on
+reboxetine have a worse outcome compared to those on citalopram.</p></fn></table-wrap-foot></table-wrap></p><p>Applying the assumption that those who stopped their medication had a poor outcome to the
+GENPOD data demonstrated that differential adherence to medication between arms introduced
+bias such that the outcome for those randomized to reboxetine appeared worse [odds ratio
+(OR) for response 0.70, 95% CI 0.45&#x02013;1.10)]. Additional imputation of a poor outcome for
+those individuals not followed up at 6 weeks had little effect (<xref ref-type="table" rid="tab03">Table 3</xref>).</p><p>Similarly, using an LOCF approach to impute missing outcome data for those who had
+stopped their medication at 6 weeks suggested that, on average, the outcome for those
+randomized to reboxetine was three points higher on the BDI (more depressed) compared with
+those randomized to citalopram. Analysis of the observed outcome data at 6 weeks provided
+only weak evidence for a difference in outcome between the groups (<xref ref-type="table" rid="tab03">Table 3</xref>).</p></sec><sec id="sec3-5"><title>Adherence-adjusted efficacy estimates</title><p>The analyses identified several predictors of outcome and adherence within the GENPOD
+dataset (see the online Appendix). As expected, for all outcomes, the strongest predictor
+of outcome was the baseline measurement. In terms of predictors of adherence, those from a
+non-white ethnic background were less likely to adhere to medication, whereas those who
+reported a rapid heartbeat were more likely to adhere to medication. Interactions with
+treatment allocation were found for three variables: marital status, prior history of
+depression and the personality trait of conscientiousness. Those who were married, those
+with a previous history of depression and those who were more conscientious were less
+likely to adhere to reboxetine. The full specification of the IV models that generated the
+adherence-adjusted estimates can be found in the online Appendix.</p><p>The adherence-adjusted differences in mean outcomes between the treatment groups are
+presented in <xref ref-type="table" rid="tab02">Table 2</xref>. There was weak evidence
+that reboxetine was less efficacious than citalopram in terms of outcome on the SF-12
+mental subscale, although the CI included the possibility of no difference. However, there
+was no evidence of a difference in efficacy between the two treatments based on the other
+outcomes including the BDI.</p></sec><sec id="sec3-6"><title>Sensitivity analyses for the adherence-adjusted efficacy estimates</title><p>The results of the sensitivity analyses examining the effect of removing predictors of
+adherence from the final SMM IV models for all outcomes are summarized in <xref ref-type="table" rid="tab04">Table 4</xref>. Although the adjusted difference in means
+between treatment groups varied according to the list of predictors of adherence included
+in the SMM model (for some outcomes more than others), the estimates were broadly
+consistent when the CIs were compared. <table-wrap id="tab04" orientation="portrait" position="float"><label>Table 4.</label><caption><p>Sensitivity analyses around adherence-adjusted instrumental variable (IV) efficacy
+estimates of the mean difference in outcome between treatment groups</p></caption><alternatives><graphic xlink:href="S0033291714000221_tab4"/><table frame="hsides" rules="groups"><col align="left" width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><col align="left" width="1*" span="1"/><col align="char" char="." width="1*" span="1"/><thead><tr><th align="left" rowspan="1" colspan="1">Outcome &#x02329;Y&#x0232a;</th><th align="left" rowspan="1" colspan="1">Method</th><th align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th align="left" rowspan="1" colspan="1">Adjusted difference<xref ref-type="table-fn" rid="tfn4_2">
+<sup>a</sup>
+</xref> in mean &#x02329;Y&#x0232a; score at 6 weeks</th><th align="left" rowspan="1" colspan="1">95% CI</th><th align="left" rowspan="1" colspan="1"><italic>p</italic> value</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">BDI</td><td rowspan="1" colspan="1">&#x02018;Adherence-adjusted&#x02019; efficacy estimate</td><td rowspan="1" colspan="1">541</td><td rowspan="1" colspan="1">&#x02212;0.29</td><td rowspan="1" colspan="1">&#x02212;3.04 to 2.46</td><td rowspan="1" colspan="1">0.84</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">
+<bold>Excluding predictors of adherence from list of <italic>x</italic>2's one
+by one</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1">541</td><td rowspan="1" colspan="1">&#x02212;0.24</td><td rowspan="1" colspan="1">&#x02212;3.03 to 2.54</td><td rowspan="1" colspan="1">0.87</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rapid heart beat</td><td rowspan="1" colspan="1">541</td><td rowspan="1" colspan="1">&#x02212;0.17</td><td rowspan="1" colspan="1">&#x02212;2.94 to 2.60</td><td rowspan="1" colspan="1">0.90</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1">541</td><td rowspan="1" colspan="1">&#x02212;0.77</td><td rowspan="1" colspan="1">&#x02212;3.88 to 2.33</td><td rowspan="1" colspan="1">0.62</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">History of depression</td><td rowspan="1" colspan="1">541</td><td rowspan="1" colspan="1">&#x02212;0.46</td><td rowspan="1" colspan="1">&#x02212;3.34 to 2.42</td><td rowspan="1" colspan="1">0.76</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BFI conscientiousness score</td><td rowspan="1" colspan="1">541</td><td rowspan="1" colspan="1">0.29</td><td rowspan="1" colspan="1">&#x02212;2.59 to 3.16</td><td rowspan="1" colspan="1">0.84</td></tr><tr><td rowspan="1" colspan="1">HADS Total</td><td rowspan="1" colspan="1">&#x02018;Adherence-adjusted&#x02019; efficacy estimate</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">1.23</td><td rowspan="1" colspan="1">&#x02212;0.71 to 3.17</td><td rowspan="1" colspan="1">0.22</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">
+<bold>Excluding predictors of adherence from list of <italic>x</italic>2's one
+by one</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">1.34</td><td rowspan="1" colspan="1">&#x02212;0.64 to 3.31</td><td rowspan="1" colspan="1">0.18</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rapid heart beat</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">1.13</td><td rowspan="1" colspan="1">&#x02212;0.82 to 3.08</td><td rowspan="1" colspan="1">0.26</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.94</td><td rowspan="1" colspan="1">&#x02212;1.17 to 3.04</td><td rowspan="1" colspan="1">0.38</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">History of depression</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">1.32</td><td rowspan="1" colspan="1">&#x02212;0.67 to 3.32</td><td rowspan="1" colspan="1">0.19</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BFI conscientiousness score</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">1.29</td><td rowspan="1" colspan="1">&#x02212;0.76 to 3.34</td><td rowspan="1" colspan="1">0.22</td></tr><tr><td rowspan="1" colspan="1">HADS Anxiety</td><td rowspan="1" colspan="1">&#x02018;Adherence-adjusted&#x02019; efficacy estimate</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">&#x02212;0.43 to 1.57</td><td rowspan="1" colspan="1">0.27</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">
+<bold>Excluding predictors of adherence from list of <italic>x</italic>2's one
+by one</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.66</td><td rowspan="1" colspan="1">&#x02212;0.35 to 1.68</td><td rowspan="1" colspan="1">0.20</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rapid heart beat</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.52</td><td rowspan="1" colspan="1">&#x02212;0.48 to 1.52</td><td rowspan="1" colspan="1">0.31</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.49</td><td rowspan="1" colspan="1">&#x02212;0.58 to 1.56</td><td rowspan="1" colspan="1">0.37</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">History of depression</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.57</td><td rowspan="1" colspan="1">&#x02212;0.47 to 1.60</td><td rowspan="1" colspan="1">0.28</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BFI conscientiousness score</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.55</td><td rowspan="1" colspan="1">&#x02212;0.50 to 1.60</td><td rowspan="1" colspan="1">0.31</td></tr><tr><td rowspan="1" colspan="1">HADS Depression</td><td rowspan="1" colspan="1">&#x02018;Adherence-adjusted&#x02019; efficacy estimate</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.62</td><td rowspan="1" colspan="1">&#x02212;0.50 to 1.74</td><td rowspan="1" colspan="1">0.28</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">
+<bold>Excluding predictors of adherence from list of <italic>x</italic>2's one
+by one</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.63</td><td rowspan="1" colspan="1">&#x02212;0.50 to 1.76</td><td rowspan="1" colspan="1">0.28</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rapid heart beat</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.56</td><td rowspan="1" colspan="1">&#x02212;0.57 to 1.69</td><td rowspan="1" colspan="1">0.33</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.43</td><td rowspan="1" colspan="1">&#x02212;0.77 to 1.63</td><td rowspan="1" colspan="1">0.48</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">History of depression</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.72</td><td rowspan="1" colspan="1">&#x02212;0.44 to 1.87</td><td rowspan="1" colspan="1">0.22</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BFI conscientiousness score</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.64</td><td rowspan="1" colspan="1">&#x02212;0.54 to 1.83</td><td rowspan="1" colspan="1">0.29</td></tr><tr><td rowspan="1" colspan="1">SF-12 Mental</td><td rowspan="1" colspan="1">&#x02018;Adherence-adjusted&#x02019; efficacy estimate</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;2.53</td><td rowspan="1" colspan="1">&#x02212;5.55 to 0.50</td><td rowspan="1" colspan="1">0.10</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">
+<bold>Excluding predictors of adherence from list of <italic>x</italic>2's one
+by one</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;2.80</td><td rowspan="1" colspan="1">&#x02212;5.89 to 0.29</td><td rowspan="1" colspan="1">0.08</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rapid heart beat</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;2.29</td><td rowspan="1" colspan="1">&#x02212;5.32 to 0.75</td><td rowspan="1" colspan="1">0.14</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;2.85</td><td rowspan="1" colspan="1">&#x02212;6.11 to 0.41</td><td rowspan="1" colspan="1">0.09</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">History of depression</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;2.97</td><td rowspan="1" colspan="1">&#x02212;6.10 to 0.17</td><td rowspan="1" colspan="1">0.06</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BFI conscientiousness score</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;2.01</td><td rowspan="1" colspan="1">&#x02212;5.21 to 1.19</td><td rowspan="1" colspan="1">0.22</td></tr><tr><td rowspan="1" colspan="1">SF-12 Physical</td><td rowspan="1" colspan="1">&#x02018;Adherence-adjusted&#x02019; efficacy estimate</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;0.61</td><td rowspan="1" colspan="1">&#x02212;2.52 to 1.31</td><td rowspan="1" colspan="1">0.53</td></tr><tr><td rowspan="1" colspan="1"/><td colspan="3" align="left" rowspan="1">
+<bold>Excluding predictors of adherence from list of <italic>x</italic>2's one
+by one</bold>
+</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Ethnicity</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;0.83</td><td rowspan="1" colspan="1">&#x02212;2.80 to 1.13</td><td rowspan="1" colspan="1">0.41</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Rapid heart beat</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;0.65</td><td rowspan="1" colspan="1">&#x02212;2.57 to 1.27</td><td rowspan="1" colspan="1">0.51</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">Marital status</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">0.13</td><td rowspan="1" colspan="1">&#x02212;1.95 to 2.21</td><td rowspan="1" colspan="1">0.90</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">History of depression</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;0.96</td><td rowspan="1" colspan="1">&#x02212;2.97 to 1.05</td><td rowspan="1" colspan="1">0.35</td></tr><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1">BFI conscientiousness score</td><td rowspan="1" colspan="1">543</td><td rowspan="1" colspan="1">&#x02212;0.82</td><td rowspan="1" colspan="1">&#x02212;2.84 to 1.20</td><td rowspan="1" colspan="1">0.43</td></tr></tbody></table></alternatives><table-wrap-foot><fn><p>BDI, Beck Depression Inventory; HADS, Hospital Anxiety and Depression Scale;
+SF-12, 12-item Short-Form Health Survey; BFI, Big Five Inventory; CI, confidence
+interval.</p></fn><fn id="tfn4_2"><label>a</label><p>Adjusted for centre, baseline severity strata (Clinical Interview
+Schedule&#x000a0;&#x02013;&#x000a0;Revised, CIS-R) and baseline score for outcome measure.</p></fn></table-wrap-foot></table-wrap></p><p>There was no evidence to support an interaction between severity of depression (or
+genotype) and response to antidepressant in the GENPOD trial (Lewis <italic>et al.</italic>
+<xref rid="ref17" ref-type="bibr">2011</xref>; Wiles <italic>et al.</italic>
+<xref rid="ref28" ref-type="bibr">2012</xref>). Therefore, excluding severity as a
+predictor of adherence may be questioned. However, there was no evidence for an
+interaction between severity of depression and adherence to medication (for test of
+equality of coefficients: interaction between severity and adherence to
+citalopram/reboxetine, <italic>p</italic>&#x000a0;=&#x000a0;0.27).</p></sec></sec><sec sec-type="discussion" id="sec4"><title>Discussion</title><p>We have demonstrated how to implement the SMM approach described by Fischer <italic>et
+al</italic>. (<xref rid="ref6" ref-type="bibr">2011</xref>) in a standard statistical
+software package to obtain an unbiased estimate of treatment efficacy for a trial comparing
+two active treatments. Analysis was straightforward once suitable covariates for the SMM
+approach were identified. Data from the GENPOD trial of the two antidepressants citalopram
+and reboxetine were used as an exemplar.</p><p>The results of an effectiveness analysis (conducted according to the ITT principle) found
+only weak evidence that those randomized to reboxetine had a slightly worse outcome than
+those randomized to citalopram in terms of depressive symptoms (on the BDI/HADS). This is in
+contrast to previous meta-analyses (Cipriani <italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>; Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>) that suggested that reboxetine was less
+effective than other antidepressants.</p><p>It is common practice in psychopharmacology trials for participants who stop taking their
+allocated medication not to be followed up. Outcomes are then imputed by assuming that those
+who stopped their allocated medication had a poor outcome or by carrying forward an earlier
+observation (LOCF). When we applied these approaches to the GENPOD data, by artificially
+assuming that outcomes were observed only for those who continued on their medication, we
+found stronger evidence of a poor outcome for those randomized to reboxetine compared with
+the results of analyses using all observed data. This clearly demonstrates that these common
+approaches to handling missing data may generate biased estimates of effectiveness when
+there is differential non-adherence between treatment arms.</p><p>Using the SMM approach to account for differential non-adherence to treatment between trial
+arms, we found no evidence of a difference in efficacy in terms of depressive symptoms (BDI)
+between reboxetine and citalopram at 6 weeks. The adherence-adjusted estimate (based on the
+difference in causal effects for full adherence to the treatment) was close to the null.
+There was weak evidence for a difference in efficacy between treatment with reboxetine and
+citalopram for the SF-12 mental subscale. In discussing these differences, it is important
+to consider whether these are clinically relevant. Although there is no consensus regarding
+a &#x02018;minimum clinically important difference&#x02019; on these outcome scales, a change of
+0.33&#x000a0;s<sc>.d.</sc> is often used as the target difference in primary care depression
+trials (Baxter <italic>et al.</italic>
+<xref rid="ref1" ref-type="bibr">2010</xref>). Hence, we would regard a three-point change
+in BDI score, a two-point change in HADS score (one point on subscales) and a three- to
+four-point change in SF12 scores to be clinically important. The differences and CIs
+observed in terms of estimates of efficacy from analyses using the SMM approach are smaller
+than these and, except for the results for the SF-12 mental subscale, we can therefore
+exclude the possibility of a clinically important difference between citalopram and
+reboxetine in those who can tolerate the medications.</p><sec id="sec4-1"><title>Strengths and limitations</title><p>The SMM approach used depends on finding baseline covariates that predict adherence
+differently in the two randomized groups but that may be assumed not to modify the causal
+effect of treatment. Bias would occur if the latter assumption failed. In addition, it is
+assumed that the average outcome does not depend on treatment assignment (the &#x02018;exclusion
+restriction&#x02019;). In a non-blinded trial such as GENPOD, there is a theoretical possibility
+that this assumption could be violated given prior beliefs about the treatment. However,
+there is little evidence to suggest that patients had different expectations of outcome
+for the two antidepressants.</p><p>Predictors of adherence were removed from the final SMM IV models one at a time to
+examine the robustness of the findings. The results of these sensitivity analyses show
+that the estimates were broadly consistent with the final SMM model incorporating all
+predictors of adherence.</p><p>GENPOD relied upon a self-report measure of adherence to medication. Use of electronic
+monitoring bottles would provide a more accurate measure of adherence. Such data would
+also provide a continuous adherence score as required for application of the SMM
+methodology. We rescaled the self-report adherence data to generate a continuous measure
+of adherence to apply this methodology, albeit therefore introducing some modelling
+assumptions. At the same time, there was no reason for participants to be motivated to
+mislead the researchers about their use of medication and we therefore have no reason to
+suppose that this measure was biased.</p><p>In total, 601 participants were recruited into the GENPOD trial, making this one of the
+largest primary care depression trials conducted. Nonetheless, despite its large size, it
+is of note that estimates obtained from models based on instrumental variables methods
+remain imprecise.</p></sec><sec id="sec4-2"><title>Comparisons with existing literature for comparative effectiveness of antidepressants</title><p>Meta-analyses have suggested that reboxetine may be less effective than other
+antidepressants (Cipriani <italic>et al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>; Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>). However, in effectiveness analyses of data
+from the GENPOD trial, we found only weak evidence of very small differences in mental
+health outcomes (that were unlikely to be clinically significant) at 6 weeks for those
+randomized to reboxetine compared with citalopram. Both meta-analyses (Cipriani <italic>et
+al.</italic>
+<xref rid="ref3" ref-type="bibr">2009</xref>; Eyding <italic>et al.</italic>
+<xref rid="ref5" ref-type="bibr">2010</xref>) reported that patients randomized to
+reboxetine were more likely to discontinue treatment compared with those randomized to
+SSRIs, which is consistent with the findings from GENPOD. However, as we have
+demonstrated, the assumption that individuals with missing outcome data have not responded
+to treatment may introduce bias in estimates of effectiveness, such that those on
+reboxetine seem to do worse. It is therefore important to continue to follow-up trial
+participants to collect outcome data even if they stop taking the trial medication.</p></sec><sec id="sec4-3"><title>Extensions to the SMM methodology</title><p>We have described the SMM approach for estimating efficacy for a singly-measured
+quantitative outcome. For a repeated-measured quantitative outcome, a structural nested
+mean model could be used (Robins, <xref rid="ref22" ref-type="bibr">1994</xref>). For a
+binary outcome, the SMM approach can be used to estimate risk differences, but if interest
+lies in risk ratios or ORs then a multiplicative SMM or a generalized SMM is needed
+(Vansteelandt &#x00026; Goetghebeur, <xref rid="ref26" ref-type="bibr">2003</xref>). For
+time-to-event outcomes, rank-preserving structural nested failure time models could be
+used (Robins &#x00026; Tsiatis, <xref rid="ref23" ref-type="bibr">1991</xref>).</p><p>The methods we have described are especially appropriate for equivalence and
+non-inferiority trials because ITT analysis is known to be anti-conservative in such
+trials (Jones <italic>et al.</italic>
+<xref rid="ref14" ref-type="bibr">1996</xref>) whereas per-protocol analyses are
+potentially biased (Fleming, <xref rid="ref7" ref-type="bibr">2008</xref>). An alternative
+approach to handling non-adherence is the complier average causal effect (CACE; Dunn
+<italic>et al.</italic>
+<xref rid="ref4" ref-type="bibr">2003</xref>) model, but this is not well defined in
+trials comparing two active treatments and also requires adherence to be binary.
+Dichotomizing a continuous adherence measure is usually undesirable (White <italic>et al.</italic>
+<xref rid="ref27" ref-type="bibr">2011</xref>).</p></sec><sec id="sec4-4"><title>Implications and further research</title><p>It is common practice in RCTs of pharmacological interventions for participants not to be
+followed up if they stop taking the trial medication. Such a policy is at odds with
+conducting primary trial analyses according to the principle of ITT, and assumptions that
+are then made regarding missing data frequently bias estimates of effectiveness.</p><p>Differential non-adherence between treatment arms presents a particular challenge for
+trialists. However, as illustrated, it is possible to implement the analytical methods
+described (Fischer <italic>et al.</italic>
+<xref rid="ref6" ref-type="bibr">2011</xref>) in a standard statistical software package
+to take account of non-adherence to treatment when comparing two (or more) active
+interventions. Such methods will generate an unbiased estimate of the difference in
+treatment efficacy that is of value to the clinician in terms of describing the likely
+outcomes when drugs are both taken, and tolerated, by patients.</p></sec></sec><sec sec-type="supplementary-material"><title>Supplementary Material</title><supplementary-material content-type="local-data"><label>Supplementary Material</label><caption><p>Supplementary information supplied by authors.</p></caption><media xlink:href="S0033291714000221sup001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ack"><title>Acknowledgements</title><p>The GENPOD study was supported by the Mental Health Research Network and the Medical
+Research Council (MRC grant ref. G0200243). We are grateful for the support of the patients
+who agreed to participate and their general practitioners. We thank the people who
+contributed towards the GENPOD fieldwork, including the following: the late H. Lester, L.
+Webber, M. Turnbull, L. Paterson, B. Newton, A. Smith, N. Morris, L. Franks, J. Farrimond,
+N. Filer, C. Jarrett, A. Hill, J. Mulligan, V. Mason, D. Tallon and L. Thomas. We are
+grateful to colleagues who have been involved with the GENPOD study as co-applicants but who
+have not participated in drafting this manuscript: D. Sharp and M. O'Donovan. K.F. was
+supported by the Estonian Science Foundation (grant no. ETF9353). I.R.W. was supported by
+the MRC (Unit Programme no. U105260558).</p></ack><sec id="sec5"><title>Supplementary material</title><p>For supplementary material accompanying this paper visit <uri xlink:type="simple" xlink:href="http://dx.doi.org/10.1017/S0033291714000221">http://dx.doi.org/10.1017/S0033291714000221</uri>.</p></sec><sec id="sec6"><title>Declaration of Interest</title><p>P.C. has been a paid member of advisory boards of Eli Lilly, Servier, Wyeth and Xytis and
+has been a paid lecturer for Eli Lilly, Servier and Glaxo Smith Kline. He has provided
+expert advice for solicitors representing Glaxo Smith Kline. D.J.N. has acted as consultant
+and speaker for both Lundbeck and Pfizer.</p></sec><ref-list id="reflist1"><title>References</title><ref id="ref1"><mixed-citation publication-type="journal"><name><surname>Baxter</surname><given-names>H</given-names></name>, <name><surname>Winder</surname><given-names>R</given-names></name>, <name><surname>Chalder</surname><given-names>M</given-names></name>, <name><surname>Wright</surname><given-names>C</given-names></name>, <name><surname>Sherlock</surname><given-names>S</given-names></name>, <name><surname>Haase</surname><given-names>AM</given-names></name>, <name><surname>Wiles</surname><given-names>NJ</given-names></name>, <name><surname>Montgomery</surname><given-names>AA</given-names></name>, <name><surname>Taylor</surname><given-names>AH</given-names></name>, <name><surname>Fox</surname><given-names>KR</given-names></name>, <name><surname>Lawlor</surname><given-names>DA</given-names></name>, <name><surname>Peters</surname><given-names>TJ</given-names></name>, <name><surname>Sharp</surname><given-names>D</given-names></name>, <name><surname>Campbell</surname><given-names>J</given-names></name>, <name><surname>Lewis</surname><given-names>G</given-names></name> (<year>2010</year>). <article-title>Physical activity as a treatment for
+depression: the TREAD randomized controlled trial protocol</article-title>.
+<source>Trials</source><volume>11</volume>, <fpage>105</fpage><pub-id pub-id-type="pmid">21073712</pub-id></mixed-citation></ref><ref id="ref2"><mixed-citation publication-type="book"><name><surname>Beck</surname><given-names>A</given-names></name>, <name><surname>Steer</surname><given-names>RA</given-names></name>, <name><surname>Brown</surname><given-names>GK</given-names></name> (<year>1996</year>). <source>Manual for the Beck Depression Inventory &#x02013;Second
+Edition</source>. <publisher-name>The Psychological Corporation</publisher-name>:
+<publisher-loc>San Antonio, TX</publisher-loc></mixed-citation></ref><ref id="ref3"><mixed-citation publication-type="journal"><name><surname>Cipriani</surname><given-names>A</given-names></name>, <name><surname>Furukawa</surname><given-names>TA</given-names></name>, <name><surname>Salanti</surname><given-names>G</given-names></name>, <name><surname>Geddes</surname><given-names>JR</given-names></name>, <name><surname>Higgins</surname><given-names>JPT</given-names></name>, <name><surname>Churchill</surname><given-names>R</given-names></name>, <name><surname>Watanabe</surname><given-names>N</given-names></name>, <name><surname>Nakagawa</surname><given-names>A</given-names></name>, <name><surname>Omori</surname><given-names>IM</given-names></name>, <name><surname>McGuire</surname><given-names>H</given-names></name>, <name><surname>Tansella</surname><given-names>M</given-names></name>, <name><surname>Barbui</surname><given-names>C</given-names></name> (<year>2009</year>). <article-title>Comparative efficacy and acceptability of 12
+new-generation antidepressants: a multiple-treatments meta-analysis</article-title>.
+<source>Lancet</source><volume>373</volume>, <fpage>746</fpage>&#x02013;<lpage>758</lpage><pub-id pub-id-type="pmid">19185342</pub-id></mixed-citation></ref><ref id="ref4"><mixed-citation publication-type="journal"><name><surname>Dunn</surname><given-names>G</given-names></name>, <name><surname>Maracy</surname><given-names>M</given-names></name>, <name><surname>Dowrick</surname><given-names>C</given-names></name>, <name><surname>Ayuso-Mateos</surname><given-names>JL</given-names></name>, <name><surname>Dalgard</surname><given-names>OS</given-names></name>, <name><surname>Page</surname><given-names>H</given-names></name>, <name><surname>Lehtinen</surname><given-names>V</given-names></name>, <name><surname>Casey</surname><given-names>P</given-names></name>, <name><surname>Wilkinson</surname><given-names>C</given-names></name>, <name><surname>V&#x000e1;zquez-Barquero</surname><given-names>JL</given-names></name>, <name><surname>Wilkinson</surname><given-names>G</given-names></name>; <collab>ODIN group</collab> (<year>2003</year>). <article-title>Estimating
+psychological treatment effects from a randomised controlled trial with both
+non-compliance and loss to follow-up</article-title>. <source>British Journal of
+Psychiatry</source><volume>183</volume>, <fpage>323</fpage>&#x02013;<lpage>331</lpage><pub-id pub-id-type="pmid">14519610</pub-id></mixed-citation></ref><ref id="ref5"><mixed-citation publication-type="journal"><name><surname>Eyding</surname><given-names>D</given-names></name>, <name><surname>Leigemann</surname><given-names>M</given-names></name>, <name><surname>Grouven</surname><given-names>U</given-names></name>, <name><surname>Harter</surname><given-names>M</given-names></name>, <name><surname>Kromp</surname><given-names>M</given-names></name>, <name><surname>Kaiser</surname><given-names>T</given-names></name>, <name><surname>Kerekes</surname><given-names>MF</given-names></name>, <name><surname>Gerken</surname><given-names>M</given-names></name>, <name><surname>Wieseler</surname><given-names>B</given-names></name> (<year>2010</year>). <article-title>Reboxetine for acute treatment of major
+depression: systematic review and meta-analysis of published and unpublished placebo and
+selective serotonin reuptake inhibitor controlled trials</article-title>.
+<source>British Medical Journal</source><volume>341</volume>, <fpage>c4737</fpage><pub-id pub-id-type="pmid">20940209</pub-id></mixed-citation></ref><ref id="ref6"><mixed-citation publication-type="journal"><name><surname>Fischer</surname><given-names>K</given-names></name>, <name><surname>Goetghebeur</surname><given-names>E</given-names></name>, <name><surname>Vrijens</surname><given-names>B</given-names></name>, <name><surname>White</surname><given-names>IR</given-names></name> (<year>2011</year>). <article-title>A structural mean model to allow for
+noncompliance in a randomized trial comparing 2 active treatments</article-title>.
+<source>Biostatistics</source><volume>12</volume>, <fpage>247</fpage>&#x02013;<lpage>257</lpage><pub-id pub-id-type="pmid">20805286</pub-id></mixed-citation></ref><ref id="ref7"><mixed-citation publication-type="journal"><name><surname>Fleming</surname><given-names>TR</given-names></name> (<year>2008</year>). <article-title>Current issues in non-inferiority
+trials</article-title>. <source>Statistics in Medicine</source><volume>27</volume>, <fpage>317</fpage>&#x02013;<lpage>332</lpage><pub-id pub-id-type="pmid">17340597</pub-id></mixed-citation></ref><ref id="ref8"><mixed-citation publication-type="journal"><name><surname>Freemantle</surname><given-names>N</given-names></name>, <name><surname>Anderson</surname><given-names>IM</given-names></name>, <name><surname>Young</surname><given-names>P</given-names></name> (<year>2000</year>). <article-title>Predictive value of pharmacological activity
+for the relative efficacy of antidepressant drugs</article-title>. <source>British
+Journal of Psychiatry</source><volume>177</volume>, <fpage>292</fpage>&#x02013;<lpage>302</lpage><pub-id pub-id-type="pmid">11116769</pub-id></mixed-citation></ref><ref id="ref9"><mixed-citation publication-type="book"><name><surname>Gordon</surname><given-names>D</given-names></name>, <name><surname>Levitas</surname><given-names>R</given-names></name>, <name><surname>Pantazis</surname><given-names>C</given-names></name>, <name><surname>Payne</surname><given-names>S</given-names></name>, <name><surname>Townsend</surname><given-names>P</given-names></name>, <name><surname>Adelman</surname><given-names>L</given-names></name>, <name><surname>Ashworth</surname><given-names>K</given-names></name>, <name><surname>Middleton</surname><given-names>S</given-names></name>, <name><surname>Bradshaw</surname><given-names>J</given-names></name>, <name><surname>Williams</surname><given-names>J</given-names></name> (<year>2000</year>). <source>Poverty and Social Exclusion Survey of Britain
+Questionnaire</source>. <publisher-name>Joseph Rowntree Foundation</publisher-name>:
+<publisher-loc>York</publisher-loc></mixed-citation></ref><ref id="ref10"><mixed-citation publication-type="journal"><name><surname>Hill</surname><given-names>SA</given-names></name>, <name><surname>Taylor</surname><given-names>MJ</given-names></name>, <name><surname>Harmer</surname><given-names>CJ</given-names></name>, <name><surname>Cowen</surname><given-names>PJ</given-names></name> (<year>2003</year>). <article-title>Acute reboxetine administration increases
+plasma and salivary cortisol</article-title>. <source>Journal of Psychopharmacology</source><volume>17</volume>, <fpage>273</fpage>&#x02013;<lpage>275</lpage><pub-id pub-id-type="pmid">14513918</pub-id></mixed-citation></ref><ref id="ref11"><mixed-citation publication-type="book"><collab>HSCIC</collab> (<year>2012</year>).
+<source>Prescription Cost Analysis&#x000a0;&#x02013;&#x000a0;England, 2011</source>. <publisher-name>Health and
+Social Care Information Centre</publisher-name>:
+<publisher-loc>London</publisher-loc></mixed-citation></ref><ref id="ref12"><mixed-citation publication-type="journal"><name><surname>Jenkinson</surname><given-names>C</given-names></name>, <name><surname>Layte</surname><given-names>R</given-names></name> (<year>1997</year>). <article-title>Development and testing of the UK SF-12 (short
+form health survey)</article-title>. <source>Journal of Health Services Research and
+Policy</source><volume>2</volume>, <fpage>14</fpage>&#x02013;<lpage>18</lpage><pub-id pub-id-type="pmid">10180648</pub-id></mixed-citation></ref><ref id="ref13"><mixed-citation publication-type="book"><name><surname>John</surname><given-names>OP</given-names></name>, <name><surname>Donahue</surname><given-names>EM</given-names></name>, <name><surname>Kentle</surname><given-names>RL</given-names></name> (<year>1991</year>). <source>The &#x02018;Big Five&#x02019; Inventory&#x000a0;&#x02013;&#x000a0;versions 4a and
+54</source>. <publisher-name>Institute of Personality and Social Research, University of
+California, Berkeley</publisher-name>: <publisher-loc>Berkeley,
+CA</publisher-loc></mixed-citation></ref><ref id="ref14"><mixed-citation publication-type="journal"><name><surname>Jones</surname><given-names>B</given-names></name>, <name><surname>Jarvis</surname><given-names>P</given-names></name>, <name><surname>Lewis</surname><given-names>J</given-names></name>, <name><surname>Ebbutt</surname><given-names>A</given-names></name> (<year>1996</year>). <article-title>Trials to assess equivalence: the importance
+of rigorous methods</article-title>. <source>British Medical Journal</source><volume>313</volume>, <fpage>36</fpage>&#x02013;<lpage>39</lpage><pub-id pub-id-type="pmid">8664772</pub-id></mixed-citation></ref><ref id="ref15"><mixed-citation publication-type="book"><name><surname>Last</surname><given-names>JM</given-names></name> (<year>1995</year>). <source>A Dictionary of Epidemiology</source>.
+<publisher-name>Oxford University Press</publisher-name>:
+<publisher-loc>Oxford</publisher-loc></mixed-citation></ref><ref id="ref16"><mixed-citation publication-type="journal"><name><surname>Lewis</surname><given-names>G</given-names></name> (<year>1994</year>). <article-title>Assessing psychiatric disorder with a human
+interviewer or a computer</article-title>. <source>Journal of Epidemiology and Community
+Health</source><volume>48</volume>, <fpage>207</fpage>&#x02013;<lpage>210</lpage><pub-id pub-id-type="pmid">8189180</pub-id></mixed-citation></ref><ref id="ref17"><mixed-citation publication-type="journal"><name><surname>Lewis</surname><given-names>G</given-names></name>, <name><surname>Mulligan</surname><given-names>J</given-names></name>, <name><surname>Wiles</surname><given-names>N</given-names></name>, <name><surname>Cowen</surname><given-names>PJ</given-names></name>, <name><surname>Craddock</surname><given-names>N</given-names></name>, <name><surname>Ikeda</surname><given-names>M</given-names></name>, <name><surname>Grozeva</surname><given-names>D</given-names></name>, <name><surname>Mason</surname><given-names>V</given-names></name>, <name><surname>Nutt</surname><given-names>DJ</given-names></name>, <name><surname>Sharp</surname><given-names>D</given-names></name>, <name><surname>Tallon</surname><given-names>D</given-names></name>, <name><surname>Thomas</surname><given-names>L</given-names></name>, <name><surname>O'Donovan</surname><given-names>M</given-names></name>, <name><surname>Peters</surname><given-names>TJ</given-names></name> (<year>2011</year>). <article-title>The 5HT transporter polymorphism and response
+to antidepresants: a randomized controlled trial</article-title>. <source>British
+Journal of Psychiatry</source><volume>198</volume>, <fpage>464</fpage>&#x02013;<lpage>471</lpage><pub-id pub-id-type="pmid">21263010</pub-id></mixed-citation></ref><ref id="ref18"><mixed-citation publication-type="journal"><name><surname>Lewis</surname><given-names>G</given-names></name>, <name><surname>Pelosi</surname><given-names>AJ</given-names></name>, <name><surname>Araya</surname><given-names>R</given-names></name>, <name><surname>Dunn</surname><given-names>G</given-names></name> (<year>1992</year>). <article-title>Measuring psychiatric disorder in the
+community: a standardized assessment for use by lay interviewers</article-title>.
+<source>Psychological Medicine</source><volume>22</volume>, <fpage>465</fpage>&#x02013;<lpage>486</lpage><pub-id pub-id-type="pmid">1615114</pub-id></mixed-citation></ref><ref id="ref19"><mixed-citation publication-type="journal"><name><surname>Meyer</surname><given-names>JH</given-names></name>, <name><surname>Wilson</surname><given-names>AA</given-names></name>, <name><surname>Ginovart</surname><given-names>N</given-names></name>, <name><surname>Goulding</surname><given-names>V</given-names></name>, <name><surname>Hussey</surname><given-names>D</given-names></name>, <name><surname>Hood</surname><given-names>K</given-names></name>, <name><surname>Houle</surname><given-names>S</given-names></name> (<year>2001</year>). <article-title>Occupancy of serotonin transporters by
+paroxetine and citalopram during treatment of depression: a [<sup>11</sup>C]DASB PET
+imaging study</article-title>. <source>American Journal of Psychiatry</source><volume>158</volume>, <fpage>1843</fpage>&#x02013;<lpage>1849</lpage><pub-id pub-id-type="pmid">11691690</pub-id></mixed-citation></ref><ref id="ref20"><mixed-citation publication-type="journal"><name><surname>Papakostas</surname><given-names>GI</given-names></name>, <name><surname>Nelson</surname><given-names>JC</given-names></name>, <name><surname>Kasper</surname><given-names>S</given-names></name>, <name><surname>Moller</surname><given-names>H-J</given-names></name> (<year>2008</year>). <article-title>A meta-analysis of clinical trials comparing
+reboxetine, a norepinephrine reuptake inhibitor, with selective serotonin reuptake
+inhibitors for the treatment of major depressive disorder</article-title>.
+<source>European Neuropsychopharmacology</source><volume>18</volume>, <fpage>122</fpage>&#x02013;<lpage>127</lpage><pub-id pub-id-type="pmid">17719752</pub-id></mixed-citation></ref><ref id="ref21"><mixed-citation publication-type="journal"><name><surname>Piccinelli</surname><given-names>M</given-names></name>, <name><surname>Tessari</surname><given-names>E</given-names></name>, <name><surname>Bortolomasi</surname><given-names>M</given-names></name>, <name><surname>Piasere</surname><given-names>O</given-names></name>, <name><surname>Semenzin</surname><given-names>M</given-names></name>, <name><surname>Garzotto</surname><given-names>N</given-names></name>, <name><surname>Tansella</surname><given-names>M</given-names></name> (<year>1997</year>). <article-title>Efficacy of the alcohol use disorders
+identification test as a screening tool for hazardous alcohol intake and related
+disorders in primary care: a validity study</article-title>. <source>British Medical
+Journal</source><volume>314</volume>, <fpage>420</fpage>&#x02013;<lpage>424</lpage><pub-id pub-id-type="pmid">9040389</pub-id></mixed-citation></ref><ref id="ref22"><mixed-citation publication-type="journal"><name><surname>Robins</surname><given-names>JM</given-names></name> (<year>1994</year>). <article-title>Correcting for non-compliance in randomized
+trials using structural nested mean models</article-title>. <source>Communications in
+Statistics&#x000a0;&#x02013;&#x000a0;Theory and Methods</source><volume>23</volume>, <fpage>2379</fpage>&#x02013;<lpage>2412</lpage></mixed-citation></ref><ref id="ref23"><mixed-citation publication-type="journal"><name><surname>Robins</surname><given-names>JM</given-names></name>, <name><surname>Tsiatis</surname><given-names>AA</given-names></name> (<year>1991</year>). <article-title>Correcting for non-compliance in randomized
+trials using rank preserving structural failure time models</article-title>.
+<source>Communications in Statistics&#x000a0;&#x02013;&#x000a0;Theory and Methods</source><volume>20</volume>, <fpage>2609</fpage>&#x02013;<lpage>2631</lpage></mixed-citation></ref><ref id="ref24"><mixed-citation publication-type="journal"><name><surname>Szabadi</surname><given-names>E</given-names></name>, <name><surname>Bradshaw</surname><given-names>CM</given-names></name>, <name><surname>Boston</surname><given-names>PF</given-names></name>, <name><surname>Langley</surname><given-names>RW</given-names></name> (<year>1998</year>). <article-title>The human pharmacology of
+reboxetine</article-title>. <source>Human Psychopharmacology</source><volume>13</volume>, <fpage>S3</fpage>&#x02013;<lpage>S12</lpage></mixed-citation></ref><ref id="ref25"><mixed-citation publication-type="journal"><name><surname>Thomas</surname><given-names>L</given-names></name>, <name><surname>Mulligan</surname><given-names>J</given-names></name>, <name><surname>Mason</surname><given-names>V</given-names></name>, <name><surname>Tallon</surname><given-names>D</given-names></name>, <name><surname>Wiles</surname><given-names>N</given-names></name>, <name><surname>Cowen</surname><given-names>PJ</given-names></name>, <name><surname>Nutt</surname><given-names>DJ</given-names></name>, <name><surname>O'Donovan</surname><given-names>M</given-names></name>, <name><surname>Sharp</surname><given-names>D</given-names></name>, <name><surname>Peters</surname><given-names>T</given-names></name>, <name><surname>Lewis</surname><given-names>G</given-names></name> (<year>2008</year>). <article-title>Genetic and clinical predictors of treatment
+response in depression: the GENPOD randomized trial protocol</article-title>.
+<source>Trials</source><volume>9</volume>, <fpage>29</fpage><pub-id pub-id-type="pmid">18498636</pub-id></mixed-citation></ref><ref id="ref26"><mixed-citation publication-type="journal"><name><surname>Vansteelandt</surname><given-names>S</given-names></name>, <name><surname>Goetghebeur</surname><given-names>E</given-names></name> (<year>2003</year>). <article-title>Causal inference with generalized structural
+mean models</article-title>. <source>Journal of the Royal Statistical Society: Series B
+(Statistical Methodology)</source><volume>65</volume>, <fpage>817</fpage>&#x02013;<lpage>835</lpage></mixed-citation></ref><ref id="ref27"><mixed-citation publication-type="journal"><name><surname>White</surname><given-names>IR</given-names></name>, <name><surname>Kalaitzaki</surname><given-names>R</given-names></name>, <name><surname>Thompson</surname><given-names>SG</given-names></name> (<year>2011</year>). <article-title>Allowing for missing outcome data and
+incomplete uptake of randomized interventions, with application to an internet-based
+alcohol trial</article-title>. <source>Statistics in Medicine</source><volume>30</volume>, <fpage>3192</fpage>&#x02013;<lpage>3207</lpage><pub-id pub-id-type="pmid">21948462</pub-id></mixed-citation></ref><ref id="ref28"><mixed-citation publication-type="journal"><name><surname>Wiles</surname><given-names>NJ</given-names></name>, <name><surname>Mulligan</surname><given-names>J</given-names></name>, <name><surname>Peters</surname><given-names>TJ</given-names></name>, <name><surname>Cowen</surname><given-names>PJ</given-names></name>, <name><surname>Mason</surname><given-names>V</given-names></name>, <name><surname>Nutt</surname><given-names>DJ</given-names></name>, <name><surname>Sharp</surname><given-names>D</given-names></name>, <name><surname>Tallon</surname><given-names>D</given-names></name>, <name><surname>Thomas</surname><given-names>L</given-names></name>, <name><surname>O'Donovan</surname><given-names>M</given-names></name>, <name><surname>Lewis</surname><given-names>G</given-names></name> (<year>2012</year>). <article-title>Severity of depression and response to
+antidepressants: the GENPOD randomised controlled trial</article-title>. <source>British
+Journal of Psychiatry</source><volume>200</volume>, <fpage>130</fpage>&#x02013;<lpage>136</lpage><pub-id pub-id-type="pmid">22194183</pub-id></mixed-citation></ref><ref id="ref29"><mixed-citation publication-type="journal"><name><surname>Zigmond</surname><given-names>AS</given-names></name>, <name><surname>Snaith</surname><given-names>RP</given-names></name> (<year>1983</year>). <article-title>The hospital anxiety and depression
+scale</article-title>. <source>Acta Psychiatrica Scandinavica</source><volume>67</volume>, <fpage>361</fpage>&#x02013;<lpage>370</lpage><pub-id pub-id-type="pmid">6880820</pub-id></mixed-citation></ref></ref-list></back></article>

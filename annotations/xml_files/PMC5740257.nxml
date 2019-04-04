@@ -1,0 +1,644 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="iso-abbrev">Ann Clin Transl Neurol</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2328-9503</journal-id><journal-id journal-id-type="publisher-id">ACN3</journal-id><journal-title-group><journal-title>Annals of Clinical and Translational Neurology</journal-title></journal-title-group><issn pub-type="epub">2328-9503</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29296616</article-id><article-id pub-id-type="pmc">5740257</article-id><article-id pub-id-type="doi">10.1002/acn3.494</article-id><article-id pub-id-type="publisher-id">ACN3494</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Paper</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Papers</subject></subj-group></article-categories><title-group><article-title>Everolimus for treatment of tuberous sclerosis complex&#x02010;associated neuropsychiatric disorders</article-title><alt-title alt-title-type="left-running-head">D. A. Krueger <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="acn3494-cr-0001" contrib-type="author" corresp="yes"><name><surname>Krueger</surname><given-names>Darcy A.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-7250-7391</contrib-id><address><email>krueger_darcy@cchmc.org</email></address><xref ref-type="aff" rid="acn3494-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acn3494-cr-0002" contrib-type="author"><name><surname>Sadhwani</surname><given-names>Anjali</given-names></name><xref ref-type="aff" rid="acn3494-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="acn3494-cr-0003" contrib-type="author"><name><surname>Byars</surname><given-names>Anna W.</given-names></name><xref ref-type="aff" rid="acn3494-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acn3494-cr-0004" contrib-type="author"><name><surname>de Vries</surname><given-names>Petrus J.</given-names></name><xref ref-type="aff" rid="acn3494-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="acn3494-cr-0005" contrib-type="author"><name><surname>Franz</surname><given-names>David N.</given-names></name><xref ref-type="aff" rid="acn3494-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="acn3494-cr-0006" contrib-type="author"><name><surname>Whittemore</surname><given-names>Vicky H.</given-names></name><xref ref-type="aff" rid="acn3494-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="acn3494-cr-0007" contrib-type="author"><name><surname>Filip&#x02010;Dhima</surname><given-names>Rajna</given-names></name><xref ref-type="aff" rid="acn3494-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="acn3494-cr-0008" contrib-type="author"><name><surname>Murray</surname><given-names>Donna</given-names></name><xref ref-type="aff" rid="acn3494-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="acn3494-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="acn3494-cr-0009" contrib-type="author"><name><surname>Kapur</surname><given-names>Kush</given-names></name><xref ref-type="aff" rid="acn3494-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="acn3494-cr-0010" contrib-type="author"><name><surname>Sahin</surname><given-names>Mustafa</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0001-7044-2953</contrib-id><xref ref-type="aff" rid="acn3494-aff-0006">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="acn3494-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Division of Neurology</named-content>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>Cincinnati Children's Hospital Medical Center</institution>
+<institution>University of Cincinnati</institution>
+<named-content content-type="city">Cincinnati</named-content>
+<named-content content-type="country-part">Ohio</named-content>
+</aff><aff id="acn3494-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Psychiatry</named-content>
+<institution>Boston Children's Hospital and Harvard Medical School</institution>
+<named-content content-type="city">Boston</named-content>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="acn3494-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Division of Child &#x00026; Adolescent Psychiatry</named-content>
+<institution>University of Cape Town</institution>
+<named-content content-type="city">Cape Town</named-content>
+<country country="ZA">South Africa</country>
+</aff><aff id="acn3494-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">National Institute of Neurological Disorders and Stroke</named-content>
+<institution>National Institutes of Health</institution>
+<named-content content-type="city">Bethesda</named-content>
+<named-content content-type="country-part">Maryland</named-content>
+</aff><aff id="acn3494-aff-0005">
+<label><sup>5</sup></label>
+<institution>Autism Speaks</institution>
+<named-content content-type="city">Boston</named-content>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="acn3494-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Department of Neurology</named-content>
+<institution>Boston Children's Hospital</institution>
+<institution>Harvard Medical School</institution>
+<named-content content-type="city">Boston</named-content>
+<named-content content-type="country-part">Massachusetts</named-content>
+</aff><aff id="acn3494-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Division of Developmental &#x00026; Behavioral Pediatrics</named-content>
+<named-content content-type="organisation-division">Department of Pediatrics</named-content>
+<institution>Cincinnati Children's Hospital Medical Center</institution>
+<institution>University of Cincinnati</institution>
+<named-content content-type="city">Cincinnati</named-content>
+<named-content content-type="country-part">Ohio</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Darcy A. Krueger, Division of Neurology ML #2015, Cincinnati Children's Hospital Medical Center, 3333 Burnet Ave.Cincinnati, OH 45229. Tel: 513 636 4222; Fax: 513 636 1888; E&#x02010;mail: <email>krueger_darcy@cchmc.org</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>12</day><month>11</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>12</month><year>2017</year></pub-date><volume>4</volume><issue>12</issue><issue-id pub-id-type="doi">10.1002/acn3.2017.4.issue-12</issue-id><fpage>877</fpage><lpage>887</lpage><history><date date-type="received"><day>22</day><month>8</month><year>2017</year></date><date date-type="rev-recd"><day>26</day><month>9</month><year>2017</year></date><date date-type="accepted"><day>28</day><month>9</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 American Neurological Association <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>Annals of Clinical and Translational Neurology</italic> published by Wiley Periodicals, Inc on behalf of American Neurological Association.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ACN3-4-877.pdf"/><abstract id="acn3494-abs-0001"><title>Abstract</title><sec id="acn3494-sec-0001"><title>Objective</title><p>To evaluate if short&#x02010;term treatment with everolimus was safe and could improve neurocognition and behavior in children with <styled-content style="fixed-case">TSC</styled-content>.</p></sec><sec id="acn3494-sec-0002"><title>Methods</title><p>This was a prospective, double&#x02010;blind randomized, placebo&#x02010;controlled two&#x02010;center phase <styled-content style="fixed-case">II</styled-content> study. Participants diagnosed with <styled-content style="fixed-case">TSC</styled-content> and age 6&#x02013;21&#x000a0;years were treated with 4.5&#x000a0;mg/m<sup>2</sup> per day of oral everolimus (<italic>n</italic>&#x000a0;=&#x000a0;32) or matching placebo (<italic>n</italic>&#x000a0;=&#x000a0;15) taken once daily for 6&#x000a0;months. For efficacy, a comprehensive neurocognitive and behavioral evaluation battery was performed at baseline, 3&#x000a0;months, and 6&#x000a0;months. For safety, adverse events recorded continuously via patient diary were categorized and graded per <styled-content style="fixed-case">NCI</styled-content> Common Toxicity Criteria for Adverse Events, version 3.0 (<styled-content style="fixed-case">CTCAE</styled-content> 3.0). Analyses were performed on the intention&#x02010;to&#x02010;treat population (<italic>n</italic>&#x000a0;=&#x000a0;47).</p></sec><sec id="acn3494-sec-0003"><title>Results</title><p>Nearly all assessment measures failed to demonstrate significant differences between the two groups at the end of 6&#x000a0;months. Only one measure each of executive function (Cambridge Neuropsychological Test Automated Battery Stockings of Cambridge) favoring placebo (<italic>P</italic>&#x000a0;=&#x000a0;0.025) and social cognition (Social Responsiveness Scale Social Cognition Subscale) favoring everolimus (<italic>P</italic>&#x000a0;=&#x000a0;0.011) was observed. A total of 473 adverse events (<styled-content style="fixed-case">AE</styled-content>) were reported. The average number of total <styled-content style="fixed-case">AE</styled-content> per subject was similar for both placebo and everolimus. Most were mild or moderate in severity and serious <styled-content style="fixed-case">AE</styled-content> were rare.</p></sec><sec id="acn3494-sec-0004"><title>Interpretation</title><p>While safe, oral everolimus administered once daily for 6&#x000a0;months did not significantly improve neurocognitive functioning or behavior in children with <styled-content style="fixed-case">TSC</styled-content>.</p></sec></abstract><funding-group><award-group><funding-source>Novartis Pharmaceuticals</funding-source></award-group><award-group><funding-source>Autism Speaks</funding-source><award-id>5735</award-id></award-group><award-group><funding-source>Tuberous Sclerosis Alliance</funding-source></award-group><funding-statement>This work was funded by <funding-source>Novartis Pharmaceuticals</funding-source> grant ; <funding-source>Autism Speaks</funding-source> grant <award-id>5735</award-id>; <funding-source>Tuberous Sclerosis Alliance</funding-source> grant . </funding-statement></funding-group><counts><fig-count count="2"/><table-count count="4"/><page-count count="11"/><word-count count="8193"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>acn3494</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>December 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.2.8 mode:remove_FC converted:22.12.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="acn3494-ntgp-0001"><fn id="acn3494-note-1001"><p>Statistical Analysis conducted by Dr. Kush Kapur, PhD, Boston Children's Hospital</p></fn></fn-group></notes></front><body><sec id="acn3494-sec-0005"><title>Introduction</title><p>Tuberous Sclerosis Complex (TSC) is a genetic disorder that occurs due to mutations in either <italic>TSC1</italic> or <italic>TSC2</italic> leading to hyper&#x02010;activation of the mechanistic target of rapamycin (mTOR) pathway.<xref rid="acn3494-bib-0001" ref-type="ref">1</xref>, <xref rid="acn3494-bib-0002" ref-type="ref">2</xref> TSC affects all organ systems, but involvement of the central nervous system presents early and is associated with significant morbidity including subependymal giant cell astrocytoma (SEGA), epilepsy, and TSC&#x02010;associated neuropsychiatric disorders (TAND). TAND spectrum is broad consisting of cognitive, behavioral and psychiatric conditions such as autism, intellectual disability, mood disorders, and specific neuropsychological deficits.<xref rid="acn3494-bib-0003" ref-type="ref">3</xref>, <xref rid="acn3494-bib-0004" ref-type="ref">4</xref>, <xref rid="acn3494-bib-0005" ref-type="ref">5</xref> These neuropsychiatric disorders result in the greatest burden of care and treatment in TSC.<xref rid="acn3494-bib-0005" ref-type="ref">5</xref>, <xref rid="acn3494-bib-0006" ref-type="ref">6</xref>
+</p><p>In recent years, mTOR inhibitors have been approved by the Food and Drug Administration (FDA) and European Medicines Agency (EMA) for treatment of SEGA, renal angiomyolipomas, and lymphangioleiomyomatosis (LAM). Most recently, everolimus has been shown effective as adjunctive treatment of focal seizures in TSC.<xref rid="acn3494-bib-0007" ref-type="ref">7</xref>, <xref rid="acn3494-bib-0008" ref-type="ref">8</xref> Studies have shown that over&#x02010;activation of the mTOR pathway in neurons result in aberrant axonal and dendritic connectivity, enlarged cell size, increased cellular stress, reduced myelination and synaptic dysfunction.<xref rid="acn3494-bib-0009" ref-type="ref">9</xref>, <xref rid="acn3494-bib-0010" ref-type="ref">10</xref>, <xref rid="acn3494-bib-0011" ref-type="ref">11</xref>, <xref rid="acn3494-bib-0012" ref-type="ref">12</xref>, <xref rid="acn3494-bib-0013" ref-type="ref">13</xref> In animal models, mTOR inhibitors such as sirolimus (rapamycin) and everolimus improved synaptic function, myelination, and behavioral deficits including learning, memory, and autistic&#x02010;like features.<xref rid="acn3494-bib-0014" ref-type="ref">14</xref>, <xref rid="acn3494-bib-0015" ref-type="ref">15</xref>, <xref rid="acn3494-bib-0016" ref-type="ref">16</xref>, <xref rid="acn3494-bib-0017" ref-type="ref">17</xref>, <xref rid="acn3494-bib-0018" ref-type="ref">18</xref>, <xref rid="acn3494-bib-0019" ref-type="ref">19</xref> For example, just 5&#x000a0;days of sirolimus treatment improved long&#x02010;term potentiation and hippocampal learning in a <italic>TSC2+/&#x02212;</italic> mouse model.<xref rid="acn3494-bib-0019" ref-type="ref">19</xref> A conditional knockout of Tsc1 in cerebellar Purkinje cells alone led to social interaction and reversal learning deficits, which also improved with sirolimus treatment.<xref rid="acn3494-bib-0015" ref-type="ref">15</xref> However, concerns have also arisen about the potential for mTOR inhibitors to interfere with competing processes that are essential to normal human growth and development in younger individuals, despite the observed neurocognitive gains in preclinical models.<xref rid="acn3494-bib-0020" ref-type="ref">20</xref>, <xref rid="acn3494-bib-0021" ref-type="ref">21</xref>, <xref rid="acn3494-bib-0022" ref-type="ref">22</xref>, <xref rid="acn3494-bib-0023" ref-type="ref">23</xref>
+</p><p>An early&#x02010;phase clinical trial of sirolimus in individuals with angiomyolipomas associated with TSC and/or sporadic LAM examined memory and executive skills in adults with TSC.<xref rid="acn3494-bib-0024" ref-type="ref">24</xref> Immediate recall memory and executive function improved with treatment, whereas other neuropsychological measures showed reduction in some participants. No control group was included and to date, no placebo&#x02010;controlled human clinical trials have directly and prospectively evaluated neurocognitive effects of mTOR inhibitors. Here, we asked firstly, whether the mTOR inhibitor everolimus would be safe in children with TSC in terms of neurocognition, and secondly, whether we could identify any specific components of TAND that showed improvement on everolimus. We selected neurocognitive measures that were quantifiable, using standardized instruments, including computer&#x02010;based testing. We were deliberately signal&#x02010;seeking and therefore included measures across a broad range of TAND domains that in prior preclinical<xref rid="acn3494-bib-0015" ref-type="ref">15</xref>, <xref rid="acn3494-bib-0019" ref-type="ref">19</xref> and clinical studies<xref rid="acn3494-bib-0007" ref-type="ref">7</xref>, <xref rid="acn3494-bib-0024" ref-type="ref">24</xref> of TSC have suggested treatment with mTOR inhibitors to be beneficial.</p></sec><sec id="acn3494-sec-0006"><title>Patients and Methods</title><sec id="acn3494-sec-0007"><title>Participants</title><p>Participants were enrolled at Boston Children's Hospital (BCH) and Cincinnati Children's Hospital Medical Center (CCHMC) between 2011 and 2014. Participants had to have an established diagnosis of TSC,<xref rid="acn3494-bib-0025" ref-type="ref">25</xref> and be aged 6&#x02013;21&#x000a0;years, and medically stable. Previous treatment with an mTOR inhibitor was not allowed, and no changes in antiepileptic medications except dose adjustments within the previous 6&#x000a0;months of enrollment were permitted. To complete as much of the assessment battery as possible and avoid assessment limitations of previous studies,<xref rid="acn3494-bib-0026" ref-type="ref">26</xref> in addition to minimum of being 6&#x000a0;years of age, participants were required to have English as their primary language and a baseline Verbal, Performance or Overall IQ&#x000a0;&#x02265;&#x000a0;60. The study protocol was approved by the Internal Review Boards at both institutions and listed on <italic>clinicaltrials.gov</italic> (NCT01289912). Individual informed consent/assent was obtained before enrollment.</p></sec><sec id="acn3494-sec-0008"><title>Study design and randomization</title><p>This was a prospective, double&#x02010;blind randomized, placebo&#x02010;controlled two&#x02010;center phase II study. Participants were treated with 4.5&#x000a0;mg/m<sup>2</sup> per day of oral everolimus or matching placebo taken once daily for 6&#x000a0;months.</p><p>Randomization was 2:1 everolimus versus matching placebo, using the SciRan (Scientific Randomization) program developed at BCH. Randomization was stratified by age and IQ with two levels for each factor. All study staff were blinded to randomization assignment, except for one physician at BCH to whom treatment assignment and serum trough levels were available to make protocol&#x02010;defined dose&#x02010;adjustment recommendations aimed at achieving serum trough levels between 5 and 15&#x000a0;mcg/mL. The unblinded physician otherwise had no direct access to participants, clinical data, or assessment results.</p></sec><sec id="acn3494-sec-0009"><title>Study procedures and outcome measures</title><p>Nine study visits occurred during the 6&#x02010;month period starting with screening and baseline visit. Neuropsychological testing took place at baseline, 3&#x000a0;months and 6&#x000a0;months. An additional telephone follow&#x02010;up was scheduled 28&#x000a0;days after the last dose to assess for unresolved or new adverse events (AEs). A Data and Safety Monitoring Board (DSMB) monitored the safety of participants.</p><p>For safety, adverse events were categorized and graded per National Cancer Institute Common Toxicity Criteria for Adverse Events (CTCAE), version 3.0. Relationship to study drug, duration, and clinician action taken also were captured. For impact on neurocognition including safety and efficacy, TAND domains were measured by well&#x02010;validated, standardized, assessment tools that used direct testing and parent/caregiver report rating scales. Global intellectual ability was assessed using the Wechsler Abbreviated Scale of Intelligence (WASI);<xref rid="acn3494-bib-0027" ref-type="ref">27</xref> language using the Expressive Vocabulary Test 2 (EVT2)<xref rid="acn3494-bib-0028" ref-type="ref">28</xref> and Peabody Picture&#x000a0;Vocabulary Test 4 (PPVT4);<xref rid="acn3494-bib-0029" ref-type="ref">29</xref> learning and memory using Cambridge Neuropsychological Test Automated Battery (CANTAB)<xref rid="acn3494-bib-0030" ref-type="ref">30</xref> and Wide Range Assessment of Memory and Learning 2 (WRAML2);<xref rid="acn3494-bib-0031" ref-type="ref">31</xref> attention using CANTAB and WRAML2; executive function using CANTAB; and processing speed using CANTAB and grooved pegboard.<xref rid="acn3494-bib-0032" ref-type="ref">32</xref> Parent rating scales included the Vineland Adaptive Behavioral Scales&#x02010;II (VABS2);<xref rid="acn3494-bib-0033" ref-type="ref">33</xref> Behavior Rating Inventory of Executive Function (BRIEF),<xref rid="acn3494-bib-0034" ref-type="ref">34</xref> Behavior Assessment System for Children 2 (BASC2),<xref rid="acn3494-bib-0035" ref-type="ref">35</xref> Strengths and Difficulties Questionnaire (SDQ),<xref rid="acn3494-bib-0036" ref-type="ref">36</xref> and Social Responsiveness Scale (SRS).<xref rid="acn3494-bib-0037" ref-type="ref">37</xref> Academic skills were measured by Reading and Math subtests of the Wide Range Achievement Test&#x02010;4 (WRAT4).<xref rid="acn3494-bib-0038" ref-type="ref">38</xref> To ensure intersite reliability on neuropsychological and other psychometric assessments, a baseline face&#x02010;to&#x02010;face meeting was held with all study neuropsychologists, psychometrists, and neuropsychiatrist, and followed up with regular teleconferences throughout the trial.</p></sec><sec id="acn3494-sec-0010"><title>Statistical analysis</title><p>The study was designed to detect an effect size of at least 0.87SD with 80% power while maintaining Type I error rate of 5% using 2:1 allocation, comparing everolimus in individuals with TSC to placebo. The treatment effect size of 0.87SD was based on observed changes in multiple TAND&#x02010;associated neurocognitive and behavioral domains following everolimus treatment in a similarly aged pediatric TSC population with epilepsy.<xref rid="acn3494-bib-0007" ref-type="ref">7</xref> Assuming a dropout rate of 10%, the target enrollment was 55 patients. Actual enrollment was less (52 subjects) at time of study conclusion. Multiple reasons that were not mutually exclusive account for the smaller population size, including prior or current treatment with mTOR inhibitors as part of previous or ongoing clinical trials targeting epilepsy and SEGA in TSC,<xref rid="acn3494-bib-0007" ref-type="ref">7</xref>, <xref rid="acn3494-bib-0008" ref-type="ref">8</xref>, <xref rid="acn3494-bib-0039" ref-type="ref">39</xref>, <xref rid="acn3494-bib-0040" ref-type="ref">40</xref> FDA approval of everolimus to treat SEGA in 2010 made mTOR inhibitors commercially available to TSC patients, and multiple potential enrollees failed to meet minimum IQ inclusion criteria.</p><p>Demographic and baseline characteristics of the randomized study groups were compared, using chi&#x02010;square tests for categorical variables and t&#x02010;tests for continuous variables. Outcome measures were analyzed using a linear mixed&#x02010;effects model that evaluated between&#x02010;subject variability and within&#x02010;subject correlations. The slope parameter corresponding to interaction of group indicator and time summarized the difference in rate of change per 3&#x02010;month interval. For multiple comparisons, we used the Benjamini&#x02013;Hochberg false discovery rate procedure.<xref rid="acn3494-bib-0041" ref-type="ref">41</xref> Missing observations were assumed obsolete and missing at random,<xref rid="acn3494-bib-0042" ref-type="ref">42</xref>, <xref rid="acn3494-bib-0043" ref-type="ref">43</xref>, <xref rid="acn3494-bib-0044" ref-type="ref">44</xref> as maximum likelihood estimation for the linear mixed&#x02010;effects model provides unbiased estimates. Final model selection was performed using Akaike Information criterion (AIC). Variance covariance parameters of random&#x02010;effects were chosen using the Likelihood ratio tests (LRTs) in the nested models. Group comparisons were examined using age (&#x02264;10,&#x0003e;10&#x000a0;years) and IQ (&#x02264;80, &#x0003e;80) stratification cut&#x02010;offs to determine an equal number of sample sizes in placebo group within each stratum. Analyses were conducted using SAS Version 9.4 (SAS Institute, Cary, NC, USA).</p></sec></sec><sec id="acn3494-sec-0011"><title>Results</title><sec id="acn3494-sec-0012"><title>Baseline characteristics</title><p>Of the 52 participants enrolled (Fig.&#x000a0;<xref rid="acn3494-fig-0001" ref-type="fig">1</xref>), 47 were randomized to receive everolimus (<italic>n</italic>&#x000a0;=&#x000a0;32) or placebo (<italic>n</italic>&#x000a0;=&#x000a0;15). Three participants did not meet baseline IQ inclusion criteria, one was unable to complete baseline neurocognitive testing, and one was newly diagnosed with SEGA and started clinically indicated treatment with everolimus. Forty&#x02010;two of the 47 randomized (89%) completed the study. Demographic and baseline TSC characteristics differed only in hypomelanotic macules (Table&#x000a0;<xref rid="acn3494-tbl-0001" ref-type="table-wrap">1</xref>). Detailed neurological and physical examinations identified two subjects in the placebo group with reported abnormal genitourinary examinations. Comprehensive laboratory assessment found a few minor statistically significant, but clinically insignificant, differences in hematocrit (&#x02206;2.1%, <italic>P</italic>&#x000a0;=&#x000a0;0.03), eosinophil count (&#x02206; 1.8%, <italic>P</italic>&#x000a0;=&#x000a0;0.04), and basophil count (&#x02206; 0.3%, <italic>P</italic>&#x000a0;=&#x000a0;0.01).</p><fig fig-type="Figure" xml:lang="en" id="acn3494-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Patient flow diagram.</p></caption><graphic id="nlm-graphic-1" xlink:href="ACN3-4-877-g001"/></fig><table-wrap id="acn3494-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline patient demographics and clinical characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="center" valign="top" rowspan="1" colspan="1">PLACEBO (<italic>n</italic>&#x000a0;=&#x000a0;15)</th><th align="center" valign="top" rowspan="1" colspan="1">EVEROLIMUS (<italic>n</italic>&#x000a0;=&#x000a0;32)</th><th align="center" valign="top" rowspan="1" colspan="1">TOTAL (<italic>n</italic>&#x000a0;=&#x000a0;47)</th><th align="center" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, years (SD)</td><td align="char" char=" " rowspan="1" colspan="1">11.47 (5.30)</td><td align="char" char=" " rowspan="1" colspan="1">13.25 (5.06)</td><td align="char" char=" " rowspan="1" colspan="1">12.68 (5.15)</td><td align="char" char=" " rowspan="1" colspan="1">0.27</td></tr><tr><td align="left" colspan="4" rowspan="1">Gender</td><td align="center" rowspan="1" colspan="1">0.83</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char=" " rowspan="1" colspan="1">8 (53.3%)</td><td align="char" char=" " rowspan="1" colspan="1">16 (50.0%)</td><td align="char" char=" " rowspan="1" colspan="1">24 (51.1%)</td><td align="center" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char=" " rowspan="1" colspan="1">7 (46.7%)</td><td align="char" char=" " rowspan="1" colspan="1">16 (50.0%)</td><td align="char" char=" " rowspan="1" colspan="1">23 (48.9%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">Race</td><td align="center" rowspan="1" colspan="1">0.34</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td><td align="char" char=" " rowspan="1" colspan="1">12 (80.0%)</td><td align="char" char=" " rowspan="1" colspan="1">26 (83.9%)</td><td align="char" char=" " rowspan="1" colspan="1">38 (82.6%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black/African American</td><td align="char" char=" " rowspan="1" colspan="1">0 (0.0%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (9.7%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (6.5%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asian</td><td align="char" char=" " rowspan="1" colspan="1">2 (13.3%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (3.2%)</td><td align="char" char=" " rowspan="1" colspan="1">3 (6.5%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Other</td><td align="char" char=" " rowspan="1" colspan="1">1 (6.7%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (3.2%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (4.3%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="5" rowspan="1">Clinical Features</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Autism Spectrum Disorder (ASD)</td><td align="char" char=" " rowspan="1" colspan="1">3 (20.0%)</td><td align="char" char=" " rowspan="1" colspan="1">13 (40.6%)</td><td align="char" char=" " rowspan="1" colspan="1">16 (34.0%)</td><td align="char" char=" " rowspan="1" colspan="1">0.50</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Epilepsy</td><td align="char" char=" " rowspan="1" colspan="1">10 (66.7%)</td><td align="char" char=" " rowspan="1" colspan="1">25 (78.1%)</td><td align="char" char=" " rowspan="1" colspan="1">35 (74.5%)</td><td align="char" char=" " rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subependymal Nodules (SEN)</td><td align="char" char=" " rowspan="1" colspan="1">14 (93.3%)</td><td align="char" char=" " rowspan="1" colspan="1">31 (100%)</td><td align="char" char=" " rowspan="1" colspan="1">45 (97.8%)</td><td align="char" char=" " rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Subependymal Giant Cell Astrocytoma (SEGA)</td><td align="char" char=" " rowspan="1" colspan="1">3 (20.0%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (16.1%)</td><td align="char" char=" " rowspan="1" colspan="1">8 (17.4%)</td><td align="char" char=" " rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hypomelanotic Macules<xref ref-type="fn" rid="acn3494-note-0004">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">13 (86.7%)</td><td align="char" char=" " rowspan="1" colspan="1">32 (100%)</td><td align="char" char=" " rowspan="1" colspan="1">45 (95.7%)</td><td align="char" char=" " rowspan="1" colspan="1">0.04</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Shagreen Patch</td><td align="char" char=" " rowspan="1" colspan="1">4 (26.7%)</td><td align="char" char=" " rowspan="1" colspan="1">17 (53.1%)</td><td align="char" char=" " rowspan="1" colspan="1">21 (44.7%)</td><td align="char" char=" " rowspan="1" colspan="1">0.09</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Facial Angiofibromas</td><td align="char" char=" " rowspan="1" colspan="1">10 (66.7%)</td><td align="char" char=" " rowspan="1" colspan="1">26 (83.1%)</td><td align="char" char=" " rowspan="1" colspan="1">36 (76.6%)</td><td align="char" char=" " rowspan="1" colspan="1">0.27</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Retinal Nodular Hamartomas</td><td align="char" char=" " rowspan="1" colspan="1">2 (13.3%)</td><td align="char" char=" " rowspan="1" colspan="1">10 (31.3%)</td><td align="char" char=" " rowspan="1" colspan="1">12 (25.5%)</td><td align="char" char=" " rowspan="1" colspan="1">0.19</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Renal Angiomyolipoma</td><td align="char" char=" " rowspan="1" colspan="1">8 (53.3%)</td><td align="char" char=" " rowspan="1" colspan="1">16 (51.6%)</td><td align="char" char=" " rowspan="1" colspan="1">24 (52.2%)</td><td align="char" char=" " rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" colspan="5" rowspan="1">Vitals</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Weight, kg (SD)</td><td align="char" char=" " rowspan="1" colspan="1">39.01 (24.38)</td><td align="char" char=" " rowspan="1" colspan="1">48.62 (25.68)</td><td align="char" char=" " rowspan="1" colspan="1">45.55 (25.41)</td><td align="char" char=" " rowspan="1" colspan="1">0.23</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Height, cm (SD)</td><td align="char" char=" " rowspan="1" colspan="1">138.21 (21.12)</td><td align="char" char=" " rowspan="1" colspan="1">146.74 (19.73)</td><td align="char" char=" " rowspan="1" colspan="1">144.01 (20.35)</td><td align="char" char=" " rowspan="1" colspan="1">0.18</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Systolic BP, mmHg (SD)</td><td align="char" char=" " rowspan="1" colspan="1">107.73 (8.11)</td><td align="char" char=" " rowspan="1" colspan="1">110.69 (10.97)</td><td align="char" char=" " rowspan="1" colspan="1">109.74 (10.15)</td><td align="char" char=" " rowspan="1" colspan="1">0.36</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diastolic BP. mmHg (SD)</td><td align="char" char=" " rowspan="1" colspan="1">63.93 (11.08)</td><td align="char" char=" " rowspan="1" colspan="1">64.34 (8.50)</td><td align="char" char=" " rowspan="1" colspan="1">64.21 (9.28)</td><td align="char" char=" " rowspan="1" colspan="1">0.89</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Body Surface Area, m^2 (SD)</td><td align="char" char=" " rowspan="1" colspan="1">1.19 (0.44)</td><td align="char" char=" " rowspan="1" colspan="1">1.37 (0.42)</td><td align="char" char=" " rowspan="1" colspan="1">1.32 (0.43)</td><td align="char" char=" " rowspan="1" colspan="1">0.19</td></tr></tbody></table><table-wrap-foot><fn id="acn3494-note-0003"><p>Continuous variables rows include sample mean (standard deviation), <italic>P</italic>&#x02010;value is based on 2&#x02010;sample <italic>t</italic>&#x02010;test. Categorical variables include frequency (percentage across categories), <italic>P</italic>&#x02010;value is based on chi&#x02010;square test.</p></fn><fn id="acn3494-note-0004"><label>a</label><p>Indicates significant difference (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) between placebo and everolimus groups at baseline.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Epilepsy is common in TSC and closely associated with TAND outcomes.<xref rid="acn3494-bib-0045" ref-type="ref">45</xref>, <xref rid="acn3494-bib-0046" ref-type="ref">46</xref> As expected, a history of epilepsy was common for both groups at baseline (Table&#x000a0;<xref rid="acn3494-tbl-0001" ref-type="table-wrap">1</xref>). The decision to exclude participants with baseline IQ &#x0003c;60 enabled comprehensive testing and resulted in fewer with uncontrolled epilepsy and breakthrough seizures. Seventy&#x02010;nine percent reported no seizures and only 10% (<italic>n</italic>&#x000a0;=&#x000a0;5; 1 placebo, 4 everolimus) reported &#x0003e; 2 seizures over the 6&#x000a0;month treatment period. No participant developed new seizures during the study.</p><p>Global intellectual ability (IQ) was assessed at baseline only, as part of the screening process to ensure subject eligibility. Full Scale IQ showed a wide range (55&#x02013;122) and without detectable difference between placebo and treatment groups (<italic>P</italic>&#x000a0;=&#x000a0;0.80) (Table&#x000a0;<xref rid="acn3494-tbl-0002" ref-type="table-wrap">2</xref>). Most participants were in the Low Average range (average: 80.1, IQR: 67.3&#x02013;90.3). No significant baseline differences were identified in language, learning and memory, attention and executive function, socialization and behavior, motor skills, or academic skills.</p><table-wrap id="acn3494-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Neurocognitive and behavioral assessment results at baseline and after treatment with everolimus for 6&#x000a0;months</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">&#x000a0;</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Baseline</th><th align="center" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">6&#x000a0;months</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">Placebo (<italic>n</italic>&#x000a0;=&#x000a0;15)</th><th align="center" valign="top" rowspan="1" colspan="1">Everolimus (<italic>n</italic>&#x000a0;=&#x000a0;32)</th><th align="center" valign="top" rowspan="1" colspan="1">Placebo (<italic>n</italic>&#x000a0;=&#x000a0;13)</th><th align="center" valign="top" rowspan="1" colspan="1">Everolimus (<italic>n</italic>&#x000a0;=&#x000a0;29)</th></tr></thead><tbody><tr><td align="left" colspan="6" rowspan="1">Intellectual function</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Full scale IQ (WASI)</td><td align="char" char=" " rowspan="1" colspan="1">80.93 (11.35)</td><td align="char" char=" " rowspan="1" colspan="1">76.69 (17.09)</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">n.a.</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Verbal IQ (WASI)</td><td align="char" char=" " rowspan="1" colspan="1">80.80 (11.07)</td><td align="char" char=" " rowspan="1" colspan="1">83.13 (16.52)</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">n.a.</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Performance IQ (WASI)</td><td align="char" char=" " rowspan="1" colspan="1">84.47 (12.64)</td><td align="char" char=" " rowspan="1" colspan="1">79.56 (16.98)</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="center" rowspan="1" colspan="1">&#x02013;</td><td align="left" rowspan="1" colspan="1">n.a.</td></tr><tr><td align="left" colspan="6" rowspan="1">Language</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Receptive (PPTV4)</td><td align="char" char=" " rowspan="1" colspan="1">86.00 (17.78)</td><td align="char" char=" " rowspan="1" colspan="1">81.06 (23.96)</td><td align="char" char=" " rowspan="1" colspan="1">88.54 (17.21)</td><td align="char" char=" " rowspan="1" colspan="1">82.50 (22.32)</td><td align="left" rowspan="1" colspan="1">0.609</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Expressive (EVT2)</td><td align="char" char=" " rowspan="1" colspan="1">85.47 (12.22)</td><td align="char" char=" " rowspan="1" colspan="1">90.00 (21.15)</td><td align="char" char=" " rowspan="1" colspan="1">89.15 (16.08)</td><td align="char" char=" " rowspan="1" colspan="1">82.55 (21.22)</td><td align="left" rowspan="1" colspan="1">0.870</td></tr><tr><td align="left" colspan="6" rowspan="1">Learning and memory</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Verbal Learning (WRAML2)</td><td align="char" char=" " rowspan="1" colspan="1">8.00 (2.00)</td><td align="char" char=" " rowspan="1" colspan="1">7.14 (3.16)</td><td align="char" char=" " rowspan="1" colspan="1">8.46 (2.44)</td><td align="char" char=" " rowspan="1" colspan="1">7.85 (2.92)</td><td align="left" rowspan="1" colspan="1">0.990</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Verbal Recall (WRAML2)</td><td align="char" char=" " rowspan="1" colspan="1">7.07 (2.94)</td><td align="char" char=" " rowspan="1" colspan="1">7.52 (2.53)</td><td align="char" char=" " rowspan="1" colspan="1">8.23 (3.49)</td><td align="char" char=" " rowspan="1" colspan="1">8.08 (2.77)</td><td align="left" rowspan="1" colspan="1">0.674</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pattern Recognition Memory (CANTAB)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.48 (1.90)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.23 (2.11)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.91 (1.60)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.09 (1.79)</td><td align="left" rowspan="1" colspan="1">0.901</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Spatial Recognition Memory (CANTAB)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.33 (1.40)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.24 (1.33)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.62 (1.58)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.19 (1.56)</td><td align="left" rowspan="1" colspan="1">0.402</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Spatial Span (CANTAB)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.32 (1.18)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.02 (1.20)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.29 (1.41)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.32 (1.37)</td><td align="left" rowspan="1" colspan="1">0.585</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Spatial Working Memory (CANTAB)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.66 (0.79)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.67 (1.57)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.73 (0.97)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.27 (2.87)</td><td align="left" rowspan="1" colspan="1">0.582</td></tr><tr><td align="left" colspan="6" rowspan="1">Attention and executive function</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Reaction Time (CANTAB)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.24 (3.63)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.15 (2.22)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.88 (1.38)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.91 (3.84)</td><td align="left" rowspan="1" colspan="1">0.385</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Rapid Visual Processing (CANTAB)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.96 (2.59)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.41 (2.80)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.97 (2.71)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.20 (2.15)</td><td align="left" rowspan="1" colspan="1">0.963</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Stockings of Cambridge (CANTAB)<xref ref-type="fn" rid="acn3494-note-0006">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.38 (1.32)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.89 (1.47)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.58 (1.11)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.84 (1.32)</td><td align="left" rowspan="1" colspan="1">0.025</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Intraextra Dimensional Set Shift (CANTAB)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.02 (1.65)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.48 (2.05)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.05 (1.64)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.24 (3.32)</td><td align="left" rowspan="1" colspan="1">0.951</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Global Executive Composite (BRIEF)</td><td align="char" char=" " rowspan="1" colspan="1">70.50 (15.13)</td><td align="char" char=" " rowspan="1" colspan="1">69.48 (12.98)</td><td align="char" char=" " rowspan="1" colspan="1">62.25 (12.53)</td><td align="char" char=" " rowspan="1" colspan="1">64.68 (10.88)</td><td align="left" rowspan="1" colspan="1">0.370</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Behavioral Regulation Index (BRIEF)</td><td align="char" char=" " rowspan="1" colspan="1">70.93 (16.89)</td><td align="char" char=" " rowspan="1" colspan="1">66.53 (14.50)</td><td align="char" char=" " rowspan="1" colspan="1">60.83 (12.41)</td><td align="char" char=" " rowspan="1" colspan="1">62.57 (12.00)</td><td align="left" rowspan="1" colspan="1">0.180</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Metacognition Index (BRIEF)</td><td align="char" char=" " rowspan="1" colspan="1">68.07 (14.52)</td><td align="char" char=" " rowspan="1" colspan="1">68.93 (12.12)</td><td align="char" char=" " rowspan="1" colspan="1">61.83 (12.97)</td><td align="char" char=" " rowspan="1" colspan="1">64.57 (10.65)</td><td align="left" rowspan="1" colspan="1">0.508</td></tr><tr><td align="left" colspan="6" rowspan="1">Socialization and behavior</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total Social Responsiveness (SRS)</td><td align="char" char=" " rowspan="1" colspan="1">77.14 (17.50)</td><td align="char" char=" " rowspan="1" colspan="1">76.43 (18.62)</td><td align="char" char=" " rowspan="1" colspan="1">80.62 (22.83)</td><td align="char" char=" " rowspan="1" colspan="1">75.69 (19.27)</td><td align="left" rowspan="1" colspan="1">0.160</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Social Awareness (SRS)</td><td align="char" char=" " rowspan="1" colspan="1">67.40 (14.69)</td><td align="char" char=" " rowspan="1" colspan="1">62.90 (15.32)</td><td align="char" char=" " rowspan="1" colspan="1">67.38 (15.51)</td><td align="char" char=" " rowspan="1" colspan="1">64.86 (17.19)</td><td align="left" rowspan="1" colspan="1">0.773</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Social Cognition (SRS)<xref ref-type="fn" rid="acn3494-note-0006">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">76.43 (19.59)</td><td align="char" char=" " rowspan="1" colspan="1">75.70 (18.77)</td><td align="char" char=" " rowspan="1" colspan="1">81.15 (18.86)</td><td align="char" char=" " rowspan="1" colspan="1">76.17 (18.98)</td><td align="left" rowspan="1" colspan="1">0.011</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Social Communication (SRS)</td><td align="char" char=" " rowspan="1" colspan="1">74.36 (16.75)</td><td align="char" char=" " rowspan="1" colspan="1">72.23 (17.18)</td><td align="char" char=" " rowspan="1" colspan="1">76.85 (21.55)</td><td align="char" char=" " rowspan="1" colspan="1">71.69 (17.98)</td><td align="left" rowspan="1" colspan="1">0.106</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Social Motivation (SRS)</td><td align="char" char=" " rowspan="1" colspan="1">69.80 (16.60)</td><td align="char" char=" " rowspan="1" colspan="1">69.60 (14.76)</td><td align="char" char=" " rowspan="1" colspan="1">72.77 (20.77)</td><td align="char" char=" " rowspan="1" colspan="1">67.24 (16.37)</td><td align="left" rowspan="1" colspan="1">0.386</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Autism Mannerisms (SRS)</td><td align="char" char=" " rowspan="1" colspan="1">76.71 (17.32)</td><td align="char" char=" " rowspan="1" colspan="1">80.03 (20.24)</td><td align="char" char=" " rowspan="1" colspan="1">79.77 (24.50)</td><td align="char" char=" " rowspan="1" colspan="1">78.66 (20.16)</td><td align="left" rowspan="1" colspan="1">0.812</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Externalizing Problems (BASC2)</td><td align="char" char=" " rowspan="1" colspan="1">57.36 (15.58)</td><td align="char" char=" " rowspan="1" colspan="1">53.24 (9.85)</td><td align="char" char=" " rowspan="1" colspan="1">52.62 (9.26)</td><td align="char" char=" " rowspan="1" colspan="1">52.34 (8.59)</td><td align="left" rowspan="1" colspan="1">0.920</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Internalizing Problems (BASC2)</td><td align="char" char=" " rowspan="1" colspan="1">58.43 (18.34)</td><td align="char" char=" " rowspan="1" colspan="1">51.55 (12.09)</td><td align="char" char=" " rowspan="1" colspan="1">56.00 (19.37)</td><td align="char" char=" " rowspan="1" colspan="1">51.45 (14.42)</td><td align="left" rowspan="1" colspan="1">0.569</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Behavioral Symptoms Index (BASC2)</td><td align="char" char=" " rowspan="1" colspan="1">62.29 (12.61)</td><td align="char" char=" " rowspan="1" colspan="1">58.97 (10.87)</td><td align="char" char=" " rowspan="1" colspan="1">57.54 (10.02)</td><td align="char" char=" " rowspan="1" colspan="1">55.41 (11.26)</td><td align="left" rowspan="1" colspan="1">0.836</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Adaptive Skills (BASC2)</td><td align="char" char=" " rowspan="1" colspan="1">38.79 (13.16)</td><td align="char" char=" " rowspan="1" colspan="1">36.72 (10.22)</td><td align="char" char=" " rowspan="1" colspan="1">42.08 (13.27)</td><td align="char" char=" " rowspan="1" colspan="1">40.00 (12.02)</td><td align="left" rowspan="1" colspan="1">0.744</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Adaptive Behavior Composite (VABS2)</td><td align="char" char=" " rowspan="1" colspan="1">78.79 (19.69)</td><td align="char" char=" " rowspan="1" colspan="1">72.06 (13.90)</td><td align="char" char=" " rowspan="1" colspan="1">79.00 (15.26)</td><td align="char" char=" " rowspan="1" colspan="1">74.72 (14.57)</td><td align="left" rowspan="1" colspan="1">0.685</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Communication (VABS2)</td><td align="char" char=" " rowspan="1" colspan="1">81.27 (21.87)</td><td align="char" char=" " rowspan="1" colspan="1">73.68 (15.45)</td><td align="char" char=" " rowspan="1" colspan="1">81.77 (16.66)</td><td align="char" char=" " rowspan="1" colspan="1">76.79 (14.76)</td><td align="left" rowspan="1" colspan="1">0.930</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Socialization (VABS2)</td><td align="char" char=" " rowspan="1" colspan="1">79.07 (19.67)</td><td align="char" char=" " rowspan="1" colspan="1">74.10 (15.46)</td><td align="char" char=" " rowspan="1" colspan="1">80.38 (17.78)</td><td align="char" char=" " rowspan="1" colspan="1">76.86 (16.40)</td><td align="left" rowspan="1" colspan="1">0.931</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Daily Living Skills (VABS2)</td><td align="char" char=" " rowspan="1" colspan="1">78.80 (19.50)</td><td align="char" char=" " rowspan="1" colspan="1">74.68 (15.69)</td><td align="char" char=" " rowspan="1" colspan="1">81.69 (14.74)</td><td align="char" char=" " rowspan="1" colspan="1">76.41 (17.37)</td><td align="left" rowspan="1" colspan="1">0.572</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Motor Skills (VABS2)</td><td align="char" char=" " rowspan="1" colspan="1">89.87 (18.26)</td><td align="char" char=" " rowspan="1" colspan="1">78.83 (21.68)</td><td align="char" char=" " rowspan="1" colspan="1">92.69 (18.65)</td><td align="char" char=" " rowspan="1" colspan="1">87.79 (18.12)</td><td align="left" rowspan="1" colspan="1">0.899</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total Difficulties Scale (SDQ)</td><td align="char" char=" " rowspan="1" colspan="1">16.00 (6.93)</td><td align="char" char=" " rowspan="1" colspan="1">15.46 (5.61)</td><td align="char" char=" " rowspan="1" colspan="1">14.42 (5.09)</td><td align="char" char=" " rowspan="1" colspan="1">13.20 (5.90)</td><td align="left" rowspan="1" colspan="1">0.336</td></tr><tr><td align="left" colspan="6" rowspan="1">Motor skills</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dominant Hand Speed (Pegboard)</td><td align="char" char=" " rowspan="1" colspan="1">101.33 (54.27)</td><td align="char" char=" " rowspan="1" colspan="1">103.06 (41.18)</td><td align="char" char=" " rowspan="1" colspan="1">89.83 (24.99)</td><td align="char" char=" " rowspan="1" colspan="1">97.25 (39.02)</td><td align="left" rowspan="1" colspan="1">0.284</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nondominant Hand Speed (Pegboard)</td><td align="char" char=" " rowspan="1" colspan="1">105.27 (37.10)</td><td align="char" char=" " rowspan="1" colspan="1">119.30 (44.19)</td><td align="char" char=" " rowspan="1" colspan="1">92.15 (34.26)</td><td align="char" char=" " rowspan="1" colspan="1">112.78 (50.89)</td><td align="left" rowspan="1" colspan="1">0.203</td></tr><tr><td align="left" colspan="6" rowspan="1">Academic skills</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Word Reading (WRAT4)</td><td align="char" char=" " rowspan="1" colspan="1">86.80 (16.79)</td><td align="char" char=" " rowspan="1" colspan="1">84.28 (20.07)</td><td align="char" char=" " rowspan="1" colspan="1">91.15 (20.76)</td><td align="char" char=" " rowspan="1" colspan="1">84.45 (20.45)</td><td align="left" rowspan="1" colspan="1">0.317</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Math Computation (WRAT4)</td><td align="char" char=" " rowspan="1" colspan="1">76.00 (15.64)</td><td align="char" char=" " rowspan="1" colspan="1">74.60 (17.99)</td><td align="char" char=" " rowspan="1" colspan="1">77.31 (16.93)</td><td align="char" char=" " rowspan="1" colspan="1">73.81 (16.01)</td><td align="left" rowspan="1" colspan="1">0.444</td></tr></tbody></table><table-wrap-foot><fn id="acn3494-note-0005"><p>Shown is mean&#x000a0;&#x000b1;&#x000a0;standard deviation (S.D.) for each group at each time point. <italic>P</italic>&#x02010;values are based on Wald test statistic, using mixed&#x02010;effect models.</p></fn><fn id="acn3494-note-0006"><label>a</label><p>Indicates significant difference (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05) between placebo and everolimus groups after 6&#x000a0;months treatment.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="acn3494-sec-0013"><title>Everolimus effect on TAND features</title><p>In examining change scores from baseline for multiple neurocognitive and behavioral domains, nearly all assessment measures failed to demonstrate significant differences between the two groups at the end of 6&#x000a0;months (Table&#x000a0;<xref rid="acn3494-tbl-0002" ref-type="table-wrap">2</xref>). When comparing treatment to placebo, only the CANTAB Stockings of Cambridge (SOC) (objective performance measure of executive function) and SRS Social Cognition (parent rating of social behavior) were significant. Placebo was associated with more favorable outcome on SOC than everolimus. Analysis of individual responses revealed that most individuals in the everolimus group and all in the placebo group improved compared to baseline on the SOC. However, individuals who increased the average number of errors compared to baseline were all in the everolimus group (Fig.&#x000a0;<xref rid="acn3494-fig-0002" ref-type="fig">2</xref>A). For the SRS, those in the everolimus group were more likely to be reported by caregivers to improve social cognition versus the placebo group (Fig.&#x000a0;<xref rid="acn3494-fig-0002" ref-type="fig">2</xref>B). In addition, the social communication domain of the SRS demonstrated a quadratic trend at 3&#x000a0;months but this was not maintained at 6&#x000a0;months.</p><fig fig-type="Figure" xml:lang="en" id="acn3494-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Individual Treatment Response for <styled-content style="fixed-case">CANTAB</styled-content> Stockings of Cambridge (A) and <styled-content style="fixed-case">SRS</styled-content> Social Cognition (B). Waterfall plots show percentage change in average number of errors on the <styled-content style="fixed-case">SOC</styled-content> (A) and <styled-content style="fixed-case">SRS</styled-content> T&#x02010;score (B) after 6&#x000a0;months treatment with everolimus (blue) or placebo (red), compared to baseline, for each participant completing both assessments.</p></caption><graphic id="nlm-graphic-3" xlink:href="ACN3-4-877-g002"/></fig><p>Given the wide range of intellectual ability seen at baseline, we explored if baseline intellectual ability predicted treatment response. To separate the groups, we divided the sample by baseline IQ (&#x02264; or &#x0003e;80). Most domains were not significantly different (Tables <xref rid="acn3494-sup-0001" ref-type="supplementary-material">S1&#x02013;S2</xref>). In the more severely affected group (IQ&#x000a0;&#x02264;&#x000a0;80), placebo performed better than everolimus on BRIEF Behavioral Regulation and Metacognition subdomains (executive function), WRAT4 Word Reading (academic performance), BASC Externalizing Problems. Conversely, the VABS2 Daily Living Skills subdomain (socialization and behavior), the everolimus group performed better than the placebo group. In those more mildly affected (IQ&#x000a0;&#x0003e;&#x000a0;80), we observed no changes in executive function or academic performance although multiple subdomains of socialization and behavior showed change in relation to everolimus treatment, including the SRS Social Cognition, BASC2 Externalizing Problems, and SDQ Total Difficulties scores. Quadratic analysis again identified a trend for improvements at 3&#x000a0;months that worsened by 6&#x000a0;months for SRS Social Cognition and Social Communication.</p><p>We also evaluated age as an independent factor to determine if younger children (age &#x0003c;10&#x000a0;years), for whom neuroplasticity might be assumed to be more prominent and differentially impact treatment response. Most subdomains did not show any age&#x02010;dependent treatment&#x02010;related differences (Tables <xref rid="acn3494-sup-0001" ref-type="supplementary-material">S3&#x02013;S4</xref>). SRS Social Cognition was significant in the younger cohort but favored placebo rather than everolimus, as did SRS Social Awareness and BRIEF Behavioral Regulation in the older subgroup. The SRS Total Social Responsiveness Scale showed quadratic trend improvements at 3&#x000a0;months but not 6&#x000a0;months.</p></sec><sec id="acn3494-sec-0014"><title>Everolimus safety</title><p>Over 6&#x000a0;months of treatment and 1&#x000a0;month of posttreatment follow&#x02010;up, a total of 473 AEs were reported (Table&#x000a0;<xref rid="acn3494-tbl-0003" ref-type="table-wrap">3</xref>). The average number of AE per subject in each group was nearly identical (9.8 placebo vs. 10.2 everolimus). The majority of AE were mild or moderate (CTCAE3.0 Grade 1 or 2), accounting for 97% of all AE. More severe grade 3 or 4 AE were more likely to occur in the everolimus group, reported by 10 of 32 subjects vs. 1 of 15 subjects in the placebo group (<italic>P</italic>&#x000a0;=&#x000a0;0.02). Treatment&#x02010;related grade 3/4 AE included fever/infections (<italic>n</italic>&#x000a0;=&#x000a0;8), aphthous ulcers (<italic>n</italic>&#x000a0;=&#x000a0;3), and seizure (<italic>n</italic>&#x000a0;=&#x000a0;1). Grade 3/4 AE unrelated to treatment were behavior changes (<italic>n</italic>&#x000a0;=&#x000a0;4) and syncope (<italic>n</italic>&#x000a0;=&#x000a0;2).</p><table-wrap id="acn3494-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Summary of adverse events</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">Placebo (<italic>n</italic>&#x000a0;=&#x000a0;15)</th><th align="center" valign="top" rowspan="1" colspan="1">Everolimus (<italic>n</italic>&#x000a0;=&#x000a0;32)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total AE</td><td align="char" char=" " rowspan="1" colspan="1">147</td><td align="char" char=" " rowspan="1" colspan="1">326</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Serious AE</td><td align="char" char=" " rowspan="1" colspan="1">0 (0%)</td><td align="char" char=" " rowspan="1" colspan="1">7 (2%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nonserious AE</td><td align="char" char=" " rowspan="1" colspan="1">147 (100%)</td><td align="char" char=" " rowspan="1" colspan="1">319 (98%)</td></tr><tr><td align="left" colspan="3" rowspan="1">AE Severity</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 1</td><td align="char" char=" " rowspan="1" colspan="1">131 (89%)</td><td align="char" char=" " rowspan="1" colspan="1">250 (77%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 2</td><td align="char" char=" " rowspan="1" colspan="1">15 (10%)</td><td align="char" char=" " rowspan="1" colspan="1">59 (18%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 3</td><td align="char" char=" " rowspan="1" colspan="1">1 (1%)</td><td align="char" char=" " rowspan="1" colspan="1">15 (5%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Grade 4</td><td align="char" char=" " rowspan="1" colspan="1">0 (0%)</td><td align="char" char=" " rowspan="1" colspan="1">2 (1%)</td></tr><tr><td align="left" colspan="3" rowspan="1">Relationship to study drug</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Suspected</td><td align="char" char=" " rowspan="1" colspan="1">62 (42%)</td><td align="char" char=" " rowspan="1" colspan="1">161 (49%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not Suspected</td><td align="char" char=" " rowspan="1" colspan="1">85 (58%)</td><td align="char" char=" " rowspan="1" colspan="1">165 (51%)</td></tr><tr><td align="left" colspan="3" rowspan="1">Action Taken</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">None</td><td align="char" char=" " rowspan="1" colspan="1">97 (66%)</td><td align="char" char=" " rowspan="1" colspan="1">162 (50%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dose Held or Adjusted</td><td align="char" char=" " rowspan="1" colspan="1">4 (3%)</td><td align="char" char=" " rowspan="1" colspan="1">22 (7%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Discontinued Treatment</td><td align="char" char=" " rowspan="1" colspan="1">0 (0%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Concomitant Medication Given</td><td align="char" char=" " rowspan="1" colspan="1">41 (28%)</td><td align="char" char=" " rowspan="1" colspan="1">135 (41%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nondrug Therapy Given</td><td align="char" char=" " rowspan="1" colspan="1">4 (3%)</td><td align="char" char=" " rowspan="1" colspan="1">1 (0%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hospitalization</td><td align="char" char=" " rowspan="1" colspan="1">0 (0%)</td><td align="char" char=" " rowspan="1" colspan="1">5 (2%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Not Specified</td><td align="char" char=" " rowspan="1" colspan="1">1 (1%)</td><td align="char" char=" " rowspan="1" colspan="1">0 (0%)</td></tr></tbody></table><table-wrap-foot><fn id="acn3494-note-0007"><p>Shown is frequency (percentage across categories), separated by treatment arm.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Regardless of treatment arm or AE grade, AE were just as likely to be attributed to study medication as not and in most instances, and required no action by managing clinicians. Gastrointestinal complaints, primarily stomatitis/aphthous ulcers, were the most common AE (28% overall) (Table&#x000a0;<xref rid="acn3494-tbl-0004" ref-type="table-wrap">4</xref>), although the frequency between treatment and placebo groups was not significant for gastrointestinal complaints in general (<italic>P</italic>&#x000a0;=&#x000a0;0.80) nor stomatitis/aphthous ulcers (<italic>P</italic>&#x000a0;=&#x000a0;0.25). Infections (primarily URI) and neurological complaints (headache) were the only other AE accounting for more than 10% of all reported AE. The only category to demonstrate significant difference between groups was respiratory AE (cough), which was significantly higher in the placebo group compared to everolimus group (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.001).</p><table-wrap id="acn3494-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Adverse event categories</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">&#x000a0;</th><th align="center" valign="top" rowspan="1" colspan="1">Placebo (<italic>n</italic>&#x000a0;=&#x000a0;15) (%)</th><th align="center" valign="top" rowspan="1" colspan="1">Everolimus (<italic>n</italic>&#x000a0;=&#x000a0;32) (%)</th></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1">AE Category</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cardiac</td><td align="center" rowspan="1" colspan="1">0 (0)</td><td align="center" rowspan="1" colspan="1">1 (0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Dermatologic</td><td align="center" rowspan="1" colspan="1">12 (8)</td><td align="center" rowspan="1" colspan="1">21 (6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Gastrointestinal</td><td align="center" rowspan="1" colspan="1">40 (27)</td><td align="center" rowspan="1" colspan="1">92 (28)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">General</td><td align="center" rowspan="1" colspan="1">6 (4)</td><td align="center" rowspan="1" colspan="1">18 (6)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Genitourinary</td><td align="center" rowspan="1" colspan="1">2 (1)</td><td align="center" rowspan="1" colspan="1">6 (2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Hematologic</td><td align="center" rowspan="1" colspan="1">7 (5)</td><td align="center" rowspan="1" colspan="1">11 (3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Infectious</td><td align="center" rowspan="1" colspan="1">28 (19)</td><td align="center" rowspan="1" colspan="1">73 (22)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Metabolic</td><td align="center" rowspan="1" colspan="1">1 (1)</td><td align="center" rowspan="1" colspan="1">1 (0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Musculoskeletal</td><td align="center" rowspan="1" colspan="1">6 (4)</td><td align="center" rowspan="1" colspan="1">13 (4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Neurologic</td><td align="center" rowspan="1" colspan="1">29 (20)</td><td align="center" rowspan="1" colspan="1">70 (21)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Psychiatric</td><td align="center" rowspan="1" colspan="1">3 (2)</td><td align="center" rowspan="1" colspan="1">12 (4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Respiratory</td><td align="center" rowspan="1" colspan="1">13 (9)</td><td align="center" rowspan="1" colspan="1">7 (2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unspecified</td><td align="center" rowspan="1" colspan="1">0 (0)</td><td align="center" rowspan="1" colspan="1">1 (0)</td></tr></tbody></table><table-wrap-foot><fn id="acn3494-note-0008"><p>Shown is frequency (percentage across categories), separated by treatment arm.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Serious AE (SAE) were infrequent (Table&#x000a0;<xref rid="acn3494-tbl-0003" ref-type="table-wrap">3</xref>), consisting of 7 hospitalizations in 3 subjects from the everolimus treatment group only. The first SAE was due to pneumonia that resolved with antibiotic treatment. However, the participant subsequently elected to discontinue treatment. The other SAE consisted of hospitalizations for pyelonephritis and behavioral/personality changes, and in each case treatment with study drug was resumed after resolution of the SAE. Of note, the behavior/personality changes were not suspected to be treatment&#x02010;related as the participant had prior history of psychiatric illness with psychiatric hospitalizations that preceded study participation.</p></sec></sec><sec id="acn3494-sec-0015"><title>Discussion</title><p>We performed the first placebo&#x02010;controlled clinical trial that directly and prospectively evaluated the impact of mTOR inhibitors on TAND in children with TSC. The major finding of this trial is that treatment with mTOR inhibitors does not interfere with normal behavior and development in this population. Given that everolimus is FDA&#x02010;approved for SEGA and renal angiomyolipomas, it is reassuring that there are no suggestions of deleterious effects in neuropsychological, academic skills and adaptive behavior over the short term. Safety in this regard over the long term (&#x0003e;6&#x000a0;months treatment duration) still needs to be verified. Everolimus generally was well&#x02010;tolerated with only one subject discontinuing treatment due to safety concerns of the parent. Overall frequency of AE was identical in the placebo and everolimus groups, and the types of AE encountered were consistent with those previously reported in human everolimus clinical trials for SEGA, epilepsy, and angiomyolipoma in individuals with TSC.<xref rid="acn3494-bib-0008" ref-type="ref">8</xref>, <xref rid="acn3494-bib-0047" ref-type="ref">47</xref>, <xref rid="acn3494-bib-0048" ref-type="ref">48</xref> We did find that grade 3/4 AE and SAE were more common in the everolimus group compared to placebo. While many of these were judged to be disease&#x02010;related rather than treatment&#x02010;related, this observation highlights continued need to demonstrate clear benefit for everolimus treatment of TAND that justifies potential risks.</p><p>We were disappointed to find no significant difference in most neuropsychological measures (memory, attention, executive function, behavior) in individuals with TSC treated with everolimus versus placebo. This is the first instance in which mTOR inhibition has not clearly improved clinical manifestations of TSC despite convincing preclinical evidence in TSC animal models that supports the use of mTOR inhibitors for neurocognitive improvement,<xref rid="acn3494-bib-0014" ref-type="ref">14</xref>, <xref rid="acn3494-bib-0015" ref-type="ref">15</xref>, <xref rid="acn3494-bib-0016" ref-type="ref">16</xref>, <xref rid="acn3494-bib-0017" ref-type="ref">17</xref>, <xref rid="acn3494-bib-0018" ref-type="ref">18</xref>, <xref rid="acn3494-bib-0019" ref-type="ref">19</xref> There were some trends suggesting improvement in children in the everolimus group compared to placebo in standardized parental ratings of behavior versus direct measurements of neuropsychological skills. Older children and adolescents in the treatment group demonstrated some reported improvement in social skills over the 6&#x02010;month trial whereas younger children showed decreased symptoms of depressed mood, but these effects were not statistically significant. We suspect age may prove key for mTOR&#x02010;targeted treatment to change TAND outcomes in TSC, given that TAND symptoms and features initially present within the first 12&#x02013;24&#x000a0;months of life.<xref rid="acn3494-bib-0045" ref-type="ref">45</xref>, <xref rid="acn3494-bib-0049" ref-type="ref">49</xref>, <xref rid="acn3494-bib-0050" ref-type="ref">50</xref> Onset of epilepsy occurs during the same time period and has been closely correlated with TSC neurocognitive and neurodevelopmental outcomes.<xref rid="acn3494-bib-0045" ref-type="ref">45</xref>, <xref rid="acn3494-bib-0046" ref-type="ref">46</xref> Aggressive even presymptomatic treatment of epilepsy in TSC infants and toddlers has been reported to improve long&#x02010;term neuropsychological outcomes.<xref rid="acn3494-bib-0051" ref-type="ref">51</xref> While evaluating everolimus effect on TAND features in this younger age group would have been ideal, our study limited enrollment to 6&#x000a0;years and older, as TAND assessment tools for younger children lack needed precision compared to standardized and validated instruments available to assess and characterize older children. Furthermore, the safety of everolimus in TSC under the age of 2&#x000a0;years has yet to be established. Overcoming these obstacles to assess everolimus in this younger age group and in individuals with coexistent epilepsy might reveal more profound effects on TAND than we were able to observe in this study.</p><p>Our trial highlights limitations in obtaining and interpreting accurate assessments of mTOR&#x02010;associated changes in neuropsychological and behavior domains of TAND for children with TSC. Detailed TAND characterization in TSC children has been reported only in small cohorts, using a wide variety of assessment tools, age ranges, and populations.<xref rid="acn3494-bib-0049" ref-type="ref">49</xref>, <xref rid="acn3494-bib-0052" ref-type="ref">52</xref>, <xref rid="acn3494-bib-0053" ref-type="ref">53</xref>, <xref rid="acn3494-bib-0054" ref-type="ref">54</xref>, <xref rid="acn3494-bib-0055" ref-type="ref">55</xref>, <xref rid="acn3494-bib-0056" ref-type="ref">56</xref> Prior attempts to measure TAND&#x02010;related outcomes in human TSC clinical trials with mTOR inhibitors have taken different approaches to overcome these obstacles. Krueger et&#x000a0;al. (2010) treated 22 children with TSC diagnosed with SEGA with everolimus for 6&#x000a0;months.<xref rid="acn3494-bib-0026" ref-type="ref">26</xref> Four participants were cognitively and behaviorally impaired to an extent that standardized assessment was not possible. Few participants in the study could complete the comprehensive testing battery and no changes were found. Davies et&#x000a0;al. (2011) took a similar approach in 8 adults with TSC with angiomyolipoma or LAM treated with sirolimus, all of whom completed testing.<xref rid="acn3494-bib-0024" ref-type="ref">24</xref> Results were mixed, immediate recall memory and executive function were improved though immediate recognition memory worsened. In a more recent study using everolimus to treat individuals with TSC and refractory epilepsy, a simpler approach relying exclusively on broad&#x02010;based parental surveys and questionnaires was used to ensure all participants would be able to complete all measures.<xref rid="acn3494-bib-0007" ref-type="ref">7</xref> Parents reported subjective improvement in attention, adaptive social behavior, conduct problems, insecurity/anxiety, and quality of life following treatment after 3&#x000a0;months.</p><p>The lack of uniform improvement in cognition across our study participants is likely multifactorial. Despite our attempts to minimize heterogeneity, TSC symptoms are further compounded by comorbid medical conditions and medications.<xref rid="acn3494-bib-0004" ref-type="ref">4</xref> For example, poorer neurocognitive function and neurodevelopmental outcomes are closely associated with epilepsy in TSC, especially when seizures are not fully controlled.<xref rid="acn3494-bib-0045" ref-type="ref">45</xref>, <xref rid="acn3494-bib-0046" ref-type="ref">46</xref>, <xref rid="acn3494-bib-0057" ref-type="ref">57</xref> Although the prevalence of epilepsy in our cohort was representative of that reported for the overall TSC population,<xref rid="acn3494-bib-0046" ref-type="ref">46</xref> the inclusion criteria limiting to participants with a minimum IQ selected for individuals whose seizures generally were well&#x02010;controlled. Thus, any secondary neurocognitive and behavioral improvements as a result of improved seizure control could not be assessed. Concurrent antiepileptic drugs (AEDs) could also negatively impact neurocognitive function independent of underlying disease or mTOR&#x02010;mediated effects. AEDs can affect everolimus through enzyme induction of the P450 system in the liver, although this was mitigated by dosing according to serum trough levels versus a standardized dosing scheme based on age or body size.</p><p>The constellation and severity of other TAND features may have additionally obscured group differences in such a small sample. Using statistical means to address these limitations by stratifying age and IQ, we found domains with differences between placebo and treatment groups. Future studies will be needed to target&#x02010;specific behavior and neuropsychological domains in these restricted populations based on a narrower age range, specific TAND phenotypes, symptom severity, or concurrent medications. Additionally, a significant placebo effect was evident in our study, which is common in similar clinical trials for other neurodevelopmental disorders and obscures smaller but genuine treatment&#x02010;related changes. These limitations can be overcome not only with improved outcome measures that emphasize objective assessment over subjective reporting, but also development and inclusion of well&#x02010;validated biomarkers and larger sample sizes.</p><p>We followed everolimus dosing and treatment guidelines reflected in clinical trials using current FDA&#x02010;approved treatment of SEGA in children with TSC.<xref rid="acn3494-bib-0026" ref-type="ref">26</xref>, <xref rid="acn3494-bib-0039" ref-type="ref">39</xref> Earlier trials suggested benefit might be achievable in this dosing range and duration of treatment.<xref rid="acn3494-bib-0007" ref-type="ref">7</xref>, <xref rid="acn3494-bib-0026" ref-type="ref">26</xref> However, optimal dosing and treatment duration have yet to be established for neurocognitive and behavioral change, and we may have not allowed sufficient time or achieved adequate dosing levels for neurocognitive benefit to occur. It also is possible that everolimus treatment is not sufficient to improve neurocognitive skills unless it is combined with a behavioral intervention. Such combination studies are being conducted in other neurodevelopmental disorders and may also be a model for children with TSC.</p></sec><sec id="acn3494-sec-0017"><title>Author Contributions</title><p>Darcy A. Krueger, MD, PhD: study concept and design, acquisition of data, analysis and interpretation of data, and drafting and revision of manuscript for intellectual content. Anjali Sadhwani, PhD: acquisition of data, analysis and interpretation of data, and drafting and revision of manuscript for intellectual content. Anna W. Byars, PhD: acquisition of data, analysis and interpretation of data, and drafting and revision of manuscript for intellectual content. Petrus J de Vries, MBChB, MRC, Psych, PhD: study concept and design, analysis and interpretation of data, and revision of manuscript for intellectual content. David Neal Franz, MD: study concept and design, acquisition of data, revision of manuscript for intellectual content. Vicky H. Whittemore, PhD: study concept and design, revision of manuscript for intellectual content. Rajna Filip&#x02010;Dhima: analysis and interpretation of data, revision of manuscript for intellectual content. Donna Murray, PhD, CCC&#x02010;SLP: study concept and design, analysis and interpretation of data, and revision of manuscript for intellectual content. Kush Kapur, PhD: analysis and interpretation of data, and revision of manuscript for intellectual content. Mustafa Sahin, MD, PhD: study concept and design, acquisition of data, analysis and interpretation of data, and drafting and revision of manuscript for intellectual content.</p></sec><sec id="acn3494-sec-0018"><title>Conflict of Interest</title><p>Darcy A. Krueger, MD, PhD: Dr. Krueger has received consulting and speaking fees and travel expenses from Novartis and additional research support from the National Institute of Neurological Disorders and Stroke of the NIH (U01&#x02010;NS082320, U54&#x02010;NS092090, P20&#x02010;NS080199), the Tuberous Sclerosis Alliance, the Van Andel Research Institute, Novartis, and Upsher&#x02010;Smith Pharmaceuticals. In addition, he serves on the professional advisory board and international relations committee for the Tuberous Sclerosis Alliance and the editorial board of <italic>Pediatric Neurology</italic>. Anjali Sadhwani, PhD: Dr. Sadhwani reports no disclosures. Anna W. Byars, PhD: Dr. Byars has received additional research support from the National Institute of Neurological Disordders and Stroke of the NIH (U01&#x02010;NS082320) and serves on the Professional Advisory Board of the Tuberous Sclerosis Alliance. Petrus J de Vries, MBChB, MRC, Psych, PhD: Dr. de Vries has received consulting and speaking fees and travel expenses from Novartis and additional research support from the University of Cape Town, National Research Foundation, and the Struengmann Fund. Vicky H. Whittemore, PhD: Dr. Whittemore is an employee of the National Institute for Neurological Disorders and Stroke of the National Institutes of Health.Donna Murray, PhD, CCC&#x02010;SLP: Dr. Murray is an employee of the Autism Speaks Foundation. Kush Kapur, PhD: Dr. Kapur reports no disclosures. Mustafa Sahin, MD, PhD: Dr. Sahin is supported by the NIH (U01 NS082320) and the Developmental Synaptopathies Consortium (U54 NS092090), which is part of the NCATS Rare Diseases Clinical Research Network (RDCRN). His lab receives research funding from Roche, Pfizer, Novartis and LAM Therapeutics, and he has served on the Scientific Advisory Board of Sage Therapeutics. In addition, he serves on the Professional Advisory Board of the Tuberous Sclerosis Alliance and is an Associate Editor of <italic>Pediatric Neurology</italic>.</p></sec><sec id="acn3494-sec-0019"><title>Clinical Trials Registry</title><p>Clinicaltrials.Gov Identifier: NCT01289912</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="acn3494-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1</bold>. IQ Stratification (Full Scale IQ&#x000a0;&#x02264;&#x000a0;80) subgroup analysis of neurocognitive and behavioral assessment results at baseline and after treatment with everolimus for 6&#x000a0;months.</p><p>
+<bold>Table&#x000a0;S2</bold>. IQ Stratification (Full Scale IQ&#x000a0;&#x0003e;&#x000a0;80) subgroup analysis of neurocognitive and behavioral assessment results at baseline and after treatment with everolimus for 6&#x000a0;months.</p><p>
+<bold>Table&#x000a0;S3</bold>. Age stratification (Age&#x000a0;&#x02264;&#x000a0;10 Years) subgroup analysis of neurocognitive and behavioral assessment results at baseline and after treatment with everolimus for 6&#x000a0;months.</p><p>
+<bold>Table&#x000a0;S4</bold>. Age stratification (Age&#x000a0;&#x0003e;&#x000a0;10 Years) subgroup analysis of neurocognitive and behavioral assessment results at baseline and after treatment with everolimus for 6&#x000a0;months.</p></caption><media xlink:href="ACN3-4-877-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="acn3494-sec-0016"><title>Acknowledgment</title><p>The authors acknowledge the generous and essential contributions of the children and families who participated in this study. The study was funded by financial support of Novartis Pharmaceuticals, Autism Speaks (Grant #5735) and Tuberous Sclerosis Alliance.</p></ack><ref-list content-type="cited-references" id="acn3494-bibl-0001"><title>References</title><ref id="acn3494-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="acn3494-cit-0001">
+<string-name>
+<surname>Laplante</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sabatini</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>mTOR signaling in growth control and disease</article-title>. <source>Cell</source>
+<year>2012</year>;<volume>149</volume>:<fpage>274</fpage>&#x02013;<lpage>293</lpage>.<pub-id pub-id-type="pmid">22500797</pub-id></mixed-citation></ref><ref id="acn3494-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="acn3494-cit-0002">
+<string-name>
+<surname>Lipton</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name>
+<surname>Sahin</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The neurology of mTOR</article-title>. <source>Neuron</source>
+<year>2014</year>;<volume>84</volume>:<fpage>275</fpage>&#x02013;<lpage>291</lpage>.<pub-id pub-id-type="pmid">25374355</pub-id></mixed-citation></ref><ref id="acn3494-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="acn3494-cit-0003">
+<string-name>
+<surname>Curatolo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Bombardieri</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jozwiak</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Tuberous sclerosis</article-title>. <source>The Lancet</source>
+<year>2008</year>;<volume>372</volume>:<fpage>657</fpage>&#x02013;<lpage>668</lpage>.</mixed-citation></ref><ref id="acn3494-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="acn3494-cit-0004">
+<string-name>
+<surname>de Vries</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Whittemore</surname>
+<given-names>VH</given-names>
+</string-name>, <string-name>
+<surname>Leclezio</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Tuberous sclerosis associated neuropsychiatric disorders (TAND) and the TAND checklist</article-title>. <source>Pediatr Neurol</source>
+<year>2015</year>;<volume>52</volume>:<fpage>25</fpage>&#x02013;<lpage>35</lpage>.<pub-id pub-id-type="pmid">25532776</pub-id></mixed-citation></ref><ref id="acn3494-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="acn3494-cit-0005">
+<string-name>
+<surname>Curatolo</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Moavero</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>de Vries</surname>
+<given-names>PJ</given-names>
+</string-name>. <article-title>Neurological and neuropsychiatric aspects of tuberous sclerosis complex</article-title>. <source>Lancet Neurol</source>
+<year>2015</year>;<volume>14</volume>:<fpage>733</fpage>&#x02013;<lpage>745</lpage>.<pub-id pub-id-type="pmid">26067126</pub-id></mixed-citation></ref><ref id="acn3494-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="acn3494-cit-0006">
+<string-name>
+<surname>Hunt</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Tuberous sclerosis: a survey of 97 cases. III: family aspects</article-title>. <source>Dev Med Child Neurol</source>
+<year>1983</year>;<volume>25</volume>:<fpage>353</fpage>&#x02013;<lpage>357</lpage>.<pub-id pub-id-type="pmid">6192027</pub-id></mixed-citation></ref><ref id="acn3494-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="acn3494-cit-0007">
+<string-name>
+<surname>Krueger</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Wilfong</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Holland&#x02010;Bouley</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Everolimus treatment of refractory epilepsy in tuberous sclerosis complex</article-title>. <source>Ann Neurol</source>
+<year>2013</year>;<volume>74</volume>:<fpage>679</fpage>&#x02013;<lpage>687</lpage>.<pub-id pub-id-type="pmid">23798472</pub-id></mixed-citation></ref><ref id="acn3494-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="acn3494-cit-0008">
+<string-name>
+<surname>French</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Lawson</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Yapici</surname>
+<given-names>Z</given-names>
+</string-name>, et&#x000a0;al. <article-title>Adjunctive everolimus therapy for treatment&#x02010;resistant focal&#x02010;onset seizures associated with tuberous sclerosis (EXIST&#x02010;3): a phase 3, randomised, double&#x02010;blind, placebo&#x02010;controlled study</article-title>. <source>Lancet</source>
+<year>2016</year>;<volume>388</volume>:<fpage>2153</fpage>&#x02013;<lpage>2163</lpage>.<pub-id pub-id-type="pmid">27613521</pub-id></mixed-citation></ref><ref id="acn3494-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="acn3494-cit-0009">
+<string-name>
+<surname>Meikle</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pollizzi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Egnor</surname>
+<given-names>A</given-names>
+</string-name>, et&#x000a0;al. <article-title>Response of a neuronal model of tuberous sclerosis to mammalian target of rapamycin (mTOR) inhibitors: effects on mTORC1 and Akt signaling lead to improved survival and function</article-title>. <source>J Neurosci</source>
+<year>2008</year>;<volume>28</volume>:<fpage>5422</fpage>&#x02013;<lpage>5432</lpage>.<pub-id pub-id-type="pmid">18495876</pub-id></mixed-citation></ref><ref id="acn3494-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="acn3494-cit-0010">
+<string-name>
+<surname>Tavazoie</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Alvarez</surname>
+<given-names>VA</given-names>
+</string-name>, <string-name>
+<surname>Ridenour</surname>
+<given-names>DA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Regulation of neuronal morphology and function by the tumor suppressors Tsc1 and Tsc2</article-title>. <source>Nat Neurosci</source>
+<year>2005</year>;<volume>8</volume>:<fpage>1727</fpage>&#x02013;<lpage>1734</lpage>.<pub-id pub-id-type="pmid">16286931</pub-id></mixed-citation></ref><ref id="acn3494-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="acn3494-cit-0011">
+<string-name>
+<surname>Wong</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Dendritic spine pathology in epilepsy: Cause or consequence?</article-title>
+<source>Neuroscience</source>
+<year>2013</year>;<volume>251</volume>:<fpage>141</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">22522469</pub-id></mixed-citation></ref><ref id="acn3494-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="acn3494-cit-0012">
+<string-name>
+<surname>Goorden</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>van Woerden</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>van der Weerd</surname>
+<given-names>L</given-names>
+</string-name>, et&#x000a0;al. <article-title>Cognitive deficits in Tsc1&#x000a0;+&#x000a0;/&#x02010; mice in the absence of cerebral lesions and seizures</article-title>. <source>Ann Neurol</source>
+<year>2007</year>;<volume>62</volume>:<fpage>648</fpage>&#x02013;<lpage>655</lpage>.<pub-id pub-id-type="pmid">18067135</pub-id></mixed-citation></ref><ref id="acn3494-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="acn3494-cit-0013">
+<string-name>
+<surname>Waltereit</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Welzl</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Dichgans</surname>
+<given-names>J</given-names>
+</string-name>, et&#x000a0;al. <article-title>Enhanced episodic&#x02010;like memory and kindling epilepsy in a rat model of tuberous sclerosis</article-title>. <source>J Neurochem</source>
+<year>2006</year>;<volume>96</volume>:<fpage>407</fpage>&#x02013;<lpage>413</lpage>.<pub-id pub-id-type="pmid">16300636</pub-id></mixed-citation></ref><ref id="acn3494-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="acn3494-cit-0014">
+<string-name>
+<surname>Zeng</surname>
+<given-names>LH</given-names>
+</string-name>, <string-name>
+<surname>Xu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gutmann</surname>
+<given-names>DH</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Rapamycin prevents epilepsy in a mouse model of tuberous sclerosis complex</article-title>. <source>Ann Neurol</source>
+<year>2008</year>;<volume>63</volume>:<fpage>444</fpage>&#x02013;<lpage>453</lpage>.<pub-id pub-id-type="pmid">18389497</pub-id></mixed-citation></ref><ref id="acn3494-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="acn3494-cit-0015">
+<string-name>
+<surname>Tsai</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Hull</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chu</surname>
+<given-names>Y</given-names>
+</string-name>, et&#x000a0;al. <article-title>Autistic&#x02010;like behaviour and cerebellar dysfunction in Purkinje cell Tsc1 mutant mice</article-title>. <source>Nature</source>
+<year>2012</year>;<volume>488</volume>:<fpage>647</fpage>&#x02013;<lpage>651</lpage>.<pub-id pub-id-type="pmid">22763451</pub-id></mixed-citation></ref><ref id="acn3494-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="acn3494-cit-0016">
+<string-name>
+<surname>Reith</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>McKenna</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>H</given-names>
+</string-name>, et&#x000a0;al. <article-title>Loss of Tsc2 in Purkinje cells is associated with autistic&#x02010;like behavior in a mouse model of tuberous sclerosis complex</article-title>. <source>Neurobiol Dis</source>
+<year>2013</year>;<volume>51</volume>:<fpage>93</fpage>&#x02013;<lpage>103</lpage>.<pub-id pub-id-type="pmid">23123587</pub-id></mixed-citation></ref><ref id="acn3494-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="acn3494-cit-0017">
+<string-name>
+<surname>Normand</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Crandall</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Thorn</surname>
+<given-names>CA</given-names>
+</string-name>, et&#x000a0;al. <article-title>Temporal and mosaic Tsc1 deletion in the developing thalamus disrupts thalamocortical circuitry, neural function, and behavior</article-title>. <source>Neuron</source>
+<year>2013</year>;<volume>78</volume>:<fpage>895</fpage>&#x02013;<lpage>909</lpage>.<pub-id pub-id-type="pmid">23664552</pub-id></mixed-citation></ref><ref id="acn3494-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="acn3494-cit-0018">
+<string-name>
+<surname>Carson</surname>
+<given-names>RP</given-names>
+</string-name>, <string-name>
+<surname>Van Nielen</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Winzenburger</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Ess</surname>
+<given-names>KC</given-names>
+</string-name>. <article-title>Neuronal and glia abnormalities in Tsc1&#x02010;deficient forebrain and partial rescue by rapamycin</article-title>. <source>Neurobiol Dis</source>
+<year>2012</year>;<volume>45</volume>:<fpage>369</fpage>&#x02013;<lpage>380</lpage>.<pub-id pub-id-type="pmid">21907282</pub-id></mixed-citation></ref><ref id="acn3494-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="acn3494-cit-0019">
+<string-name>
+<surname>Ehninger</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Han</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Shilyansky</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Reversal of learning deficits in a Tsc2&#x000a0;+&#x000a0;/&#x02010; mouse model of tuberous sclerosis</article-title>. <source>Nat Med</source>
+<year>2008</year>;<volume>14</volume>:<fpage>843</fpage>&#x02013;<lpage>848</lpage>.<pub-id pub-id-type="pmid">18568033</pub-id></mixed-citation></ref><ref id="acn3494-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="acn3494-cit-0020">
+<string-name>
+<surname>Gong</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Abbassi</surname>
+<given-names>NR</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>SJ</given-names>
+</string-name>. <article-title>Roles of glutamate receptors and the mammalian target of rapamycin (mTOR) signaling pathway in activity&#x02010;dependent dendritic protein synthesis in hippocampal neurons</article-title>. <source>J Biol Chem</source>
+<year>2006</year>;<volume>281</volume>:<fpage>18802</fpage>&#x02013;<lpage>18815</lpage>.<pub-id pub-id-type="pmid">16651266</pub-id></mixed-citation></ref><ref id="acn3494-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="acn3494-cit-0021">
+<string-name>
+<surname>Sui</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>BM</given-names>
+</string-name>. <article-title>Role of the phosphoinositide 3&#x02010;kinase&#x02010;Akt&#x02010;mammalian target of the rapamycin signaling pathway in long&#x02010;term potentiation and trace fear conditioning memory in rat medial prefrontal cortex</article-title>. <source>Learning Mem</source> (Cold Spring Harbor, NY). <year>2008</year>;<volume>15</volume>:<fpage>762</fpage>&#x02013;<lpage>776</lpage>.</mixed-citation></ref><ref id="acn3494-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="acn3494-cit-0022">
+<string-name>
+<surname>Stoica</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Huang</surname>
+<given-names>W</given-names>
+</string-name>, et&#x000a0;al. <article-title>Selective pharmacogenetic inhibition of mammalian target of Rapamycin complex I (mTORC1) blocks long&#x02010;term synaptic plasticity and memory storage</article-title>. <source>Proc Natl Acad Sci USA</source>
+<year>2011</year>;<volume>108</volume>:<fpage>3791</fpage>&#x02013;<lpage>3796</lpage>.<pub-id pub-id-type="pmid">21307309</pub-id></mixed-citation></ref><ref id="acn3494-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="acn3494-cit-0023">
+<string-name>
+<surname>Deli</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Schipany</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Rosner</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Blocking mTORC1 activity by rapamycin leads to impairment of spatial memory retrieval but not acquisition in C57BL/6J mice</article-title>. <source>Behav Brain Res</source>
+<year>2012</year>;<volume>229</volume>:<fpage>320</fpage>&#x02013;<lpage>324</lpage>.<pub-id pub-id-type="pmid">22306200</pub-id></mixed-citation></ref><ref id="acn3494-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="acn3494-cit-0024">
+<string-name>
+<surname>Davies</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>De Vries</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>SR</given-names>
+</string-name>, et&#x000a0;al. <article-title>Sirolimus therapy for angiomyolipoma in tuberous sclerosis and sporadic lymphangioleiomyomatosis: A phase 2 trial</article-title>. <source>Clin Cancer Res</source>
+<year>2011</year>;<volume>17</volume>:<fpage>4071</fpage>&#x02013;<lpage>4081</lpage>.<pub-id pub-id-type="pmid">21525172</pub-id></mixed-citation></ref><ref id="acn3494-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="acn3494-cit-0025">
+<string-name>
+<surname>Northrup</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Krueger</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Tuberous sclerosis complex diagnostic criteria update: recommendations of the 2012 international tuberous sclerosis complex consensus conference</article-title>. <source>Pediatr Neurol</source>
+<year>2013</year>;<volume>49</volume>:<fpage>243</fpage>&#x02013;<lpage>254</lpage>.<pub-id pub-id-type="pmid">24053982</pub-id></mixed-citation></ref><ref id="acn3494-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="acn3494-cit-0026">
+<string-name>
+<surname>Krueger</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Care</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Holland</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Everolimus for subependymal giant&#x02010;cell astrocytomas in tuberous sclerosis</article-title>. <source>N Engl J Med</source>
+<year>2010</year>;<volume>363</volume>:<fpage>1801</fpage>&#x02013;<lpage>1811</lpage>.<pub-id pub-id-type="pmid">21047224</pub-id></mixed-citation></ref><ref id="acn3494-bib-0027"><label>27</label><mixed-citation publication-type="book" id="acn3494-cit-0027">
+<string-name>
+<surname>Wechsler</surname>
+<given-names>DW</given-names>
+</string-name>. <source>Abbreviated scale of intelligence</source>. <publisher-loc>San Antonio, TX</publisher-loc>: <publisher-name>Harcourt, Assessment</publisher-name>, <year>1999</year>.</mixed-citation></ref><ref id="acn3494-bib-0028"><label>28</label><mixed-citation publication-type="book" id="acn3494-cit-0028">
+<string-name>
+<surname>Williams</surname>
+<given-names>K</given-names>
+</string-name>. <source>Expressive vocabulary test &#x02010; 2 (EVT&#x02010;2)</source>. <publisher-loc>Circle Pines, MN</publisher-loc>: <publisher-name>American Guidance Service, Inc.</publisher-name>, <year>2007</year>.</mixed-citation></ref><ref id="acn3494-bib-0029"><label>29</label><mixed-citation publication-type="book" id="acn3494-cit-0029">
+<string-name>
+<surname>Dunn</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dunn</surname>
+<given-names>L</given-names>
+</string-name>. <source>Pebody picture vocabulary test &#x02010; 4 (PPVT&#x02010;4)</source>. <publisher-loc>Minneapolis, MN</publisher-loc>: <publisher-name>Pearson Assessments</publisher-name>, <year>2007</year>.</mixed-citation></ref><ref id="acn3494-bib-0030"><label>30</label><mixed-citation publication-type="miscellaneous" id="acn3494-cit-0030">
+<collab collab-type="authors">Cambridge Cognition Ltd</collab>
+. CANTAB [Cognitive assessment software]. Cambridge, UK. 2017. Available at: <ext-link ext-link-type="uri" xlink:href="http://www.cambridgecognition.com/cantab/">http://www.cambridgecognition.com/cantab/</ext-link> (Last accessed 10 14 2017)</mixed-citation></ref><ref id="acn3494-bib-0031"><label>31</label><mixed-citation publication-type="book" id="acn3494-cit-0031">
+<string-name>
+<surname>Adams</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sheslow</surname>
+<given-names>D</given-names>
+</string-name>. <source>WRAML2: wide range assessment of memory and learning</source>, <edition>2nd ed</edition>
+<publisher-loc>WIlmington, DE</publisher-loc>: <publisher-name>Wide Range, Inc.</publisher-name>, <year>2003</year>.</mixed-citation></ref><ref id="acn3494-bib-0032"><label>32</label><mixed-citation publication-type="book" id="acn3494-cit-0032">
+<string-name>
+<surname>Merker</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Podell</surname>
+<given-names>K</given-names>
+</string-name>. <chapter-title>Grooved pegboard test</chapter-title> In: <person-group person-group-type="editor"><name><surname>Kreutzer</surname><given-names>J</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>DeLuca</surname><given-names>J</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Caplan</surname><given-names>B</given-names></name></person-group>, eds. <source>Encyclopedia of clinical neuropsychology</source>. <publisher-loc>New York, NY</publisher-loc>: <publisher-name>Springer New York</publisher-name>, <year>2011</year>:<fpage>1176</fpage>&#x02013;<lpage>1178</lpage>.</mixed-citation></ref><ref id="acn3494-bib-0033"><label>33</label><mixed-citation publication-type="book" id="acn3494-cit-0033">
+<string-name>
+<surname>Sparrow</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Cicchetti</surname>
+<given-names>DV</given-names>
+</string-name>, <string-name>
+<surname>Balla</surname>
+<given-names>DA</given-names>
+</string-name>. <source>Vineland adaptive behavior scales: second edition (Vineland II), survey interview form/caregiver rating form</source>. <publisher-loc>Livonia, MN</publisher-loc>: <publisher-name>Pearson Assessments</publisher-name>, <year>2005</year>.</mixed-citation></ref><ref id="acn3494-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="acn3494-cit-0034">
+<string-name>
+<surname>Gioia</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Isquith</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Kenworthy</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Barton</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Profiles of everyday executive function in acquired and developmental disorders</article-title>. <source>Child Neuropsychol</source>
+<year>2002</year>;<volume>8</volume>:<fpage>121</fpage>&#x02013;<lpage>137</lpage>.<pub-id pub-id-type="pmid">12638065</pub-id></mixed-citation></ref><ref id="acn3494-bib-0035"><label>35</label><mixed-citation publication-type="book" id="acn3494-cit-0035">
+<string-name>
+<surname>Reynolds</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kamphaus</surname>
+<given-names>R</given-names>
+</string-name>. <source>Behavior assessment system for children, Second Edition (BASC&#x02010;2)</source>. <publisher-loc>Minneapolis, MN</publisher-loc>: <publisher-name>Pearson Assessments</publisher-name>, <year>2008</year>.</mixed-citation></ref><ref id="acn3494-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="acn3494-cit-0036">
+<string-name>
+<surname>Goodman</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The extended version of the strengths and difficulties questionnaire as a guide to child psychiatric caseness and consequent burden</article-title>. <source>J Child Psychol Psychiatry</source>
+<year>1999</year>;<volume>40</volume>:<fpage>791</fpage>&#x02013;<lpage>799</lpage>.<pub-id pub-id-type="pmid">10433412</pub-id></mixed-citation></ref><ref id="acn3494-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="acn3494-cit-0037">
+<string-name>
+<surname>Constantino</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Todd</surname>
+<given-names>RD</given-names>
+</string-name>, et&#x000a0;al. <article-title>Validation of a brief quantitative measure of autistic traits: comparison of the social responsiveness scale with the autism diagnostic interview&#x02010;revised</article-title>. <source>J Autism Dev Disord</source>
+<year>2003</year>;<volume>33</volume>:<fpage>427</fpage>&#x02013;<lpage>433</lpage>.<pub-id pub-id-type="pmid">12959421</pub-id></mixed-citation></ref><ref id="acn3494-bib-0038"><label>38</label><mixed-citation publication-type="book" id="acn3494-cit-0038">
+<string-name>
+<surname>Wilkinson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Robertson</surname>
+<given-names>G</given-names>
+</string-name>. <source>Wide range achievement test 4</source>. <publisher-loc>Lutz, FL</publisher-loc>: <publisher-name>Psychological Assessment Resources</publisher-name>, <year>2006</year>.</mixed-citation></ref><ref id="acn3494-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="acn3494-cit-0039">
+<string-name>
+<surname>Franz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Belousova</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sparagana</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>Efficacy and safety of everolimus for subependymal giant cell astrocytomas associated with tuberous sclerosis complex (EXIST&#x02010;1): a multicentre, randomised, placebo&#x02010;controlled phase 3 trial</article-title>. <source>Lancet</source>
+<year>2012</year>;<volume>381</volume>:<fpage>125</fpage>&#x02013;<lpage>132</lpage>.<pub-id pub-id-type="pmid">23158522</pub-id></mixed-citation></ref><ref id="acn3494-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="acn3494-cit-0040">
+<string-name>
+<surname>Krueger</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Care</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Agricola</surname>
+<given-names>K</given-names>
+</string-name>, et&#x000a0;al. <article-title>Everolimus long&#x02010;term safety and efficacy in subependymal giant cell astrocytoma</article-title>. <source>Neurology</source>
+<year>2013</year>;<volume>80</volume>:<fpage>574</fpage>&#x02013;<lpage>580</lpage>.<pub-id pub-id-type="pmid">23325902</pub-id></mixed-citation></ref><ref id="acn3494-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="acn3494-cit-0041">
+<string-name>
+<surname>Benjamini</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Hochberg</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>. <source>J R Statis Soc B.</source>
+<year>1995</year>;<volume>57</volume>:<fpage>289</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="acn3494-bib-0042"><label>42</label><mixed-citation publication-type="book" id="acn3494-cit-0042">
+<string-name>
+<surname>Fitzmaurice</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Laird</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Ware</surname>
+<given-names>JH</given-names>
+</string-name>. <source>Applied longitudinal analysis</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Wiley</publisher-name>, <year>2004</year>.</mixed-citation></ref><ref id="acn3494-bib-0043"><label>43</label><mixed-citation publication-type="book" id="acn3494-cit-0043">
+<string-name>
+<surname>Hedeker</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gibbons</surname>
+<given-names>RD</given-names>
+</string-name>. <source>Longitudinal data analysis</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Wiley</publisher-name>, <year>2006</year>.</mixed-citation></ref><ref id="acn3494-bib-0044"><label>44</label><mixed-citation publication-type="book" id="acn3494-cit-0044">
+<string-name>
+<surname>Little</surname>
+<given-names>RJA</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>
+<given-names>DB</given-names>
+</string-name>. <source>Statistical analysis with missing data</source>. <publisher-loc>New York</publisher-loc>: <publisher-name>Wiley</publisher-name>, <year>2002</year>.</mixed-citation></ref><ref id="acn3494-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="acn3494-cit-0045">
+<string-name>
+<surname>Capal</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Bernardino&#x02010;Cuesta</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Horn</surname>
+<given-names>PS</given-names>
+</string-name>, et&#x000a0;al. <article-title>Influence of seizures on early development in tuberous sclerosis complex</article-title>. <source>Epilepsy Behav</source>. <year>2017</year>;<volume>70</volume>(<issue>Pt A</issue>):<fpage>245</fpage>&#x02013;<lpage>252</lpage>.<pub-id pub-id-type="pmid">28457992</pub-id></mixed-citation></ref><ref id="acn3494-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="acn3494-cit-0046">
+<string-name>
+<surname>Chu&#x02010;Shore</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Major</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Camposano</surname>
+<given-names>S</given-names>
+</string-name>, et&#x000a0;al. <article-title>The natural history of epilepsy in tuberous sclerosis complex</article-title>. <source>Epilepsia</source>
+<year>2010</year>;<volume>51</volume>:<fpage>1236</fpage>&#x02013;<lpage>1241</lpage>.<pub-id pub-id-type="pmid">20041940</pub-id></mixed-citation></ref><ref id="acn3494-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="acn3494-cit-0047">
+<string-name>
+<surname>Bissler</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Kingswood</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Radzikowska</surname>
+<given-names>E</given-names>
+</string-name>, et&#x000a0;al. <article-title>Everolimus for angiomyolipoma associated with tuberous sclerosis complex or sporadic lymphangioleiomyomatosis (EXIST&#x02010;2): a multicentre, randomised, double&#x02010;blind, placebo&#x02010;controlled trial</article-title>. <source>Lancet</source>
+<year>2013</year>;<volume>381</volume>:<fpage>817</fpage>&#x02013;<lpage>824</lpage>.<pub-id pub-id-type="pmid">23312829</pub-id></mixed-citation></ref><ref id="acn3494-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="acn3494-cit-0048">
+<string-name>
+<surname>Franz</surname>
+<given-names>DN</given-names>
+</string-name>, <string-name>
+<surname>Agricola</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Tudor</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Krueger</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Everolimus for tumor recurrence after surgical resection for subependymal giant cell astrocytoma associated with tuberous sclerosis complex</article-title>. <source>J Child Neurol</source>
+<year>2013</year>;<volume>28</volume>:<fpage>602</fpage>&#x02013;<lpage>607</lpage>.<pub-id pub-id-type="pmid">22805244</pub-id></mixed-citation></ref><ref id="acn3494-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="acn3494-cit-0049">
+<string-name>
+<surname>Jeste</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sahin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bolton</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>Characterization of autism in young children with tuberous sclerosis complex</article-title>. <source>J Child Neurol</source>
+<year>2008</year>;<volume>23</volume>:<fpage>520</fpage>&#x02013;<lpage>525</lpage>.<pub-id pub-id-type="pmid">18160549</pub-id></mixed-citation></ref><ref id="acn3494-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="acn3494-cit-0050">
+<string-name>
+<surname>Jeste</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Varcin</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Hellemann</surname>
+<given-names>GS</given-names>
+</string-name>, et&#x000a0;al. <article-title>Symptom profiles of autism spectrum disorder in tuberous sclerosis complex</article-title>. <source>Neurology</source>
+<year>2016</year>;<volume>87</volume>:<fpage>766</fpage>&#x02013;<lpage>772</lpage>.<pub-id pub-id-type="pmid">27440144</pub-id></mixed-citation></ref><ref id="acn3494-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="acn3494-cit-0051">
+<string-name>
+<surname>J&#x000f3;&#x0017a;wiak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kotulska</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Doma&#x00144;ska&#x02010;Pakie&#x00142;a</surname>
+<given-names>D</given-names>
+</string-name>, et&#x000a0;al. <article-title>Antiepileptic treatment before the onset of seizures reduces epilepsy severity and risk of mental retardation in infants with tuberous sclerosis complex</article-title>. <source>Eur J Paediatr Neurol</source>
+<year>2011</year>;<volume>15</volume>:<fpage>424</fpage>&#x02013;<lpage>431</lpage>.<pub-id pub-id-type="pmid">21507691</pub-id></mixed-citation></ref><ref id="acn3494-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="acn3494-cit-0052">
+<string-name>
+<surname>Kingswood</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bolton</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Crawford</surname>
+<given-names>P</given-names>
+</string-name>, et&#x000a0;al. <article-title>The clinical profile of tuberous sclerosis complex (TSC) in the United Kingdom: a retrospective cohort study in the clinical practice research datalink (CPRD)</article-title>. <source>Eur J Paediatr Neurol.</source>
+<year>2015</year>;<volume>20</volume>:<fpage>296</fpage>&#x02013;<lpage>308</lpage>.<pub-id pub-id-type="pmid">26706603</pub-id></mixed-citation></ref><ref id="acn3494-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="acn3494-cit-0053">
+<string-name>
+<surname>Yates</surname>
+<given-names>JRW</given-names>
+</string-name>, <string-name>
+<surname>MacLean</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>
+<given-names>JNP</given-names>
+</string-name>, et&#x000a0;al. <article-title>The tuberous sclerosis 2000 study: presentation initial assessments and implications for diagnosis and management</article-title>. <source>Arch Dis Child</source>
+<year>2011</year>;<volume>96</volume>:<fpage>1020</fpage>&#x02013;<lpage>1025</lpage>.<pub-id pub-id-type="pmid">21813552</pub-id></mixed-citation></ref><ref id="acn3494-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="acn3494-cit-0054">
+<string-name>
+<surname>Humphrey</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>MacLean</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ploubidis</surname>
+<given-names>GB</given-names>
+</string-name>, et&#x000a0;al. <article-title>Intellectual development before and after the onset of infantile spasms: a controlled prospective longitudinal study in tuberous sclerosis</article-title>. <source>Epilepsia</source>
+<year>2014</year>;<volume>55</volume>:<fpage>108</fpage>&#x02013;<lpage>116</lpage>.<pub-id pub-id-type="pmid">24417555</pub-id></mixed-citation></ref><ref id="acn3494-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="acn3494-cit-0055">
+<string-name>
+<surname>Bolton</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Clifford</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tye</surname>
+<given-names>C</given-names>
+</string-name>, et&#x000a0;al. <article-title>Intellectual abilities in tuberous sclerosis complex: risk factors and correlates from the Tuberous Sclerosis 2000 Study</article-title>. <source>Psychol Med</source>
+<year>2015</year>;<volume>45</volume>:<fpage>2321</fpage>&#x02013;<lpage>2331</lpage>.<pub-id pub-id-type="pmid">25827976</pub-id></mixed-citation></ref><ref id="acn3494-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="acn3494-cit-0056">
+<string-name>
+<surname>Jeste</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vogel&#x02010;Farley</surname>
+<given-names>V</given-names>
+</string-name>, et&#x000a0;al. <article-title>Atypical face processing in children with tuberous sclerosis complex</article-title>. <source>J Child Neurol</source>
+<year>2013</year>;<volume>28</volume>:<fpage>1569</fpage>&#x02013;<lpage>1576</lpage>.<pub-id pub-id-type="pmid">23143725</pub-id></mixed-citation></ref><ref id="acn3494-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="acn3494-cit-0057">
+<string-name>
+<surname>Wu</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Goyal</surname>
+<given-names>M</given-names>
+</string-name>, et&#x000a0;al. <article-title>Clinical electroencephalographic biomarker for impending epilepsy in asymptomatic tuberous sclerosis complex infants</article-title>. <source>Pediatr Neurol</source>
+<year>2016</year>;<volume>54</volume>:<fpage>29</fpage>&#x02013;<lpage>34</lpage>.<pub-id pub-id-type="pmid">26498039</pub-id></mixed-citation></ref></ref-list></back></article>

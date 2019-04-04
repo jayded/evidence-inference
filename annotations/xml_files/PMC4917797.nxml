@@ -1,0 +1,672 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="iso-abbrev">Br J Clin Pharmacol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2125</journal-id><journal-id journal-id-type="publisher-id">BCP</journal-id><journal-title-group><journal-title>British Journal of Clinical Pharmacology</journal-title></journal-title-group><issn pub-type="ppub">0306-5251</issn><issn pub-type="epub">1365-2125</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26972584</article-id><article-id pub-id-type="pmc">4917797</article-id><article-id pub-id-type="doi">10.1111/bcp.12929</article-id><article-id pub-id-type="publisher-id">BCP12929</article-id><article-id pub-id-type="other">MP-00531-15.R3</article-id><article-categories><subj-group subj-group-type="overline"><subject>Pharmacokinetics</subject></subj-group><subj-group subj-group-type="heading"><subject>Pharmacokinetics</subject></subj-group></article-categories><title-group><article-title>A randomized phase l pharmacokinetic study comparing SB4 and etanercept reference product (Enbrel&#x000ae;) in healthy subjects</article-title><alt-title alt-title-type="right-running-head">Comparative PK study of SB4 with etanercept reference product (Enbrel&#x000ae;)</alt-title><alt-title alt-title-type="left-running-head">Y. Lee et al.</alt-title></title-group><contrib-group><contrib id="bcp12929-cr-0001" contrib-type="author" corresp="yes"><name><surname>Lee</surname><given-names>Yoon Jung</given-names></name><xref ref-type="aff" rid="bcp12929-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bcp12929-cr-0002" contrib-type="author"><name><surname>Shin</surname><given-names>Donghoon</given-names></name><xref ref-type="aff" rid="bcp12929-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bcp12929-cr-0003" contrib-type="author"><name><surname>Kim</surname><given-names>Youngdoe</given-names></name><xref ref-type="aff" rid="bcp12929-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bcp12929-cr-0004" contrib-type="author"><name><surname>Kang</surname><given-names>Jungwon</given-names></name><xref ref-type="aff" rid="bcp12929-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="bcp12929-cr-0005" contrib-type="author"><name><surname>Gauliard</surname><given-names>Anke</given-names></name><xref ref-type="aff" rid="bcp12929-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="bcp12929-cr-0006" contrib-type="author"><name><surname>Fuhr</surname><given-names>Rainard</given-names></name><xref ref-type="aff" rid="bcp12929-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="bcp12929-aff-0001" content-type="private-address"><label><sup>1</sup></label><institution>Samsung Bioepis Co., Ltd.</institution><named-content content-type="city">Incheon</named-content><country country="KR">Republic of Korea</country></aff><aff id="bcp12929-aff-0002" content-type="private-address"><label><sup>2</sup></label><institution>PAREXEL International Early Phase Clinical Unit</institution><named-content content-type="city">Berlin</named-content><country country="DE">Germany</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Correspondence<break/>
+Dr Yoon Jung Lee, Samsung Bioepis Co., Ltd., Incheon, Republic of Korea.; Tel.: + 82 3 2455 6709; Fax: + 82 3 2455 6799; E&#x02010;mail: <email>yj.lee11@samsung.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>02</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>7</month><year>2016</year></pub-date><pub-date pub-type="pmc-release"><day>02</day><month>5</month><year>2016</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the <pub-date pub-type="epub"/>. --><volume>82</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/bcp.v82.1</issue-id><fpage>64</fpage><lpage>73</lpage><history><date date-type="received"><day>01</day><month>9</month><year>2015</year></date><date date-type="rev-recd"><day>24</day><month>2</month><year>2016</year></date><date date-type="accepted"><day>07</day><month>3</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 The British Pharmacological Society <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 Samsung Bioepis Co., Ltd. British Journal of Clinical Pharmacology published by John Wiley &#x00026; Sons Ltd on behalf of British Pharmacological Society.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BCP-82-64.pdf"/><abstract><sec id="bcp12929-sec-0001"><title>Aims</title><p>SB4 has been developed as a biosimilar of etanercept. The primary objective of the present study was to demonstrate the pharmacokinetic (PK) equivalence between SB4 and European Union &#x02010;sourced etanercept (EU&#x02010;ETN), SB4 and United States&#x02010;sourced etanercept (US&#x02010;ETN), and EU&#x02010;ETN and US&#x02010;ETN. The safety and immunogenicity were also compared between the treatments.</p></sec><sec id="bcp12929-sec-0002"><title>Methods</title><p>This was a single&#x02010;blind, three&#x02010;part, crossover study in 138 healthy male subjects. In each part, 46 subjects were randomized at a 1:1 ratio to receive a single 50 mg subcutaneous dose of the treatments (part A: SB4 or EU&#x02010;ETN; part B: SB4 or US&#x02010;ETN; and part C: EU&#x02010;ETN or US&#x02010;ETN) in period 1, followed by the crossover treatment in period 2 according to their assigned sequences. PK equivalence between the treatments was determined using the standard equivalence margin of 80&#x02013;125%.</p></sec><sec id="bcp12929-sec-0003"><title>Results</title><p>The geometric least squares means ratios of AUC<sub>inf</sub>, AUC<sub>last</sub> and C<sub>max</sub> were 99.04%, 98.62% and 103.71% (part A: SB4 <italic>vs</italic>. EU&#x02010;ETN); 101.09%, 100.96% and 104.36% (part B: SB4 <italic>vs</italic>. US&#x02010;ETN); and 100.51%, 101.27% and 103.29% (part C: EU&#x02010;ETN <italic>vs</italic>. US&#x02010;ETN), respectively, and the corresponding 90% confidence intervals were completely contained within the limits of 80&#x02013;125 %. The incidence of treatment&#x02010;emergent adverse events was comparable, and the incidence of the antidrug antibodies was lower in SB4 compared with the reference products.</p></sec><sec id="bcp12929-sec-0004"><title>Conclusions</title><p>The present study demonstrated PK equivalence between SB4 and EU&#x02010;ETN, SB4 and US&#x02010;ETN, and EU&#x02010;ETN and US&#x02010;ETN in healthy male subjects. SB4 was well tolerated, with a lower immunogenicity profile and similar safety profile compared with those of the reference products.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="bcp12929-kwd-0001">biosimilar</kwd><kwd id="bcp12929-kwd-0002">etanercept</kwd><kwd id="bcp12929-kwd-0003">immunogenicity</kwd><kwd id="bcp12929-kwd-0004">pharmacokinetics</kwd><kwd id="bcp12929-kwd-0005">safety</kwd><kwd id="bcp12929-kwd-0006">SB4</kwd></kwd-group><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>bcp12929</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.5 mode:remove_FC converted:21.10.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="bcp12929-cit-0000">
+<string-name>
+<surname>Lee</surname>, <given-names>Y. J.</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<surname>Kang</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>Gauliard</surname>, <given-names>A.</given-names>
+</string-name>, and <string-name>
+<surname>Fuhr</surname>, <given-names>R.</given-names>
+</string-name> (<year>2016</year>) <article-title>A randomized phase l pharmacokinetic study comparing SB4 and etanercept reference product (Enbrel&#x000ae;) in healthy subjects</article-title>. <source>Br J Clin Pharmacol</source>, <volume>82</volume>: <fpage>64</fpage>&#x02013;<lpage>73</lpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.1111/bcp.12929">10.1111/bcp.12929</ext-link>.<pub-id pub-id-type="pmid">26972584</pub-id></mixed-citation>
+</p></notes></front><body><sec id="bcp12929-sec-0005"><title>What is Already Known about this Subject</title><p>
+<list list-type="bullet"><list-item id="bcp12929-li-0001"><p>A biosimilar is a biological medicine that is highly similar to another biological medicine that has already been authorized for use.</p></list-item><list-item id="bcp12929-li-0002"><p>Etanercept (Enbrel&#x000ae;) is a biological product originally approved for the treatment of rheumatoid arthritis, and biosimilar products to etanercept are in development by several pharmaceutical companies.</p></list-item><list-item id="bcp12929-li-0003"><p>A comparative PK study is an essential part of, and the first step to, a biosimilar clinical development programme.</p></list-item></list>
+</p></sec><sec id="bcp12929-sec-0006"><title>What this Study Adds</title><p>
+<list list-type="bullet"><list-item id="bcp12929-li-0004"><p>SB4 has been developed as a biosimilar to etanercept by Samsung Bioepis Co., Ltd.</p></list-item><list-item id="bcp12929-li-0005"><p>SB4 was shown to be equivalent to the reference products (EU&#x02010;sourced etanercept and US&#x02010;sourced etanercept), in terms of PK after single&#x02010;dose administration in healthy subjects.</p></list-item><list-item id="bcp12929-li-0006"><p>SB4 was well tolerated, with a lower immunogenicity profile and similar safety profile compared with those of the reference products.</p></list-item></list>
+</p></sec><sec id="bcp12929-sec-0007"><title>Introduction</title><p>Etanercept (ETN; Enbrel&#x000ae;, Pfizer, New York, NY, USA) is a recombinant human tumour necrosis factor (TNF) receptor (TNFR) p75Fc fusion protein <xref rid="bcp12929-bib-0001" ref-type="ref">1</xref>. It has been widely used in clinical practice for approximately 15 years, with a well characterized pharmacological, efficacy and safety profile&#x000a0;<xref rid="bcp12929-bib-0002" ref-type="ref">2</xref>, <xref rid="bcp12929-bib-0003" ref-type="ref">3</xref>, <xref rid="bcp12929-bib-0004" ref-type="ref">4</xref>, <xref rid="bcp12929-bib-0005" ref-type="ref">5</xref>, <xref rid="bcp12929-bib-0006" ref-type="ref">6</xref>, <xref rid="bcp12929-bib-0007" ref-type="ref">7</xref>. Originally licensed for use in moderate&#x02010;to&#x02010;severe rheumatoid arthritis (RA), the therapeutic indications have been extended stepwise and now comprise the treatment of patients with polyarticular juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, psoriasis and paediatric psoriasis. Recently, ETN has also been approved for use in nonradiographic axial spondyloarthritis by the European Medicines Agency (EMA) <xref rid="bcp12929-bib-0008" ref-type="ref">8</xref>.</p><p>A biosimilar is a biological medicinal product that is highly similar to an already authorized original biological medicinal product (reference medicinal product) in terms of quality, safety and efficacy, based on a comprehensive comparability exercise <xref rid="bcp12929-bib-0009" ref-type="ref">9</xref>, <xref rid="bcp12929-bib-0010" ref-type="ref">10</xref>, <xref rid="bcp12929-bib-0011" ref-type="ref">11</xref>. According to biosimilar guidelines from the EMA and the US Food and Drug Administration (FDA), nonclinical studies to evaluate the structural characteristics, physicochemical properties, <italic>in vitro</italic> biological activities and <italic>in vivo</italic> behaviour are required before initiating clinical studies to compare the efficacy, safety and pharmacokinetics (PK) of the biosimilar with those of the reference product, to demonstrate biosimilarity <xref rid="bcp12929-bib-0009" ref-type="ref">9</xref>, <xref rid="bcp12929-bib-0011" ref-type="ref">11</xref>.</p><p>SB4 has been developed as a biosimilar to ETN by Samsung Bioepis Co., Ltd, Incheon, Republic of Korea. An extensive characterization of structural, physiochemical and biological attributes of SB4 and ETN was conducted using 61 analytical methods. The similarity of quality between SB4 and ETN was evaluated based on the similarity range (mean &#x000b1; <italic>k</italic>SD) that had been set with ETN or a head&#x02010;to&#x02010;head comparison of analytical data. The characterization studies included an extensive comparison of primary, secondary and tertiary structure, purity and process&#x02010;related impurities; glycan content and identity; and biological activities based on the mechanism of action. These extensive characterization studies showed that SB4 has an identical primary amino acid sequence to ETN. In addition, SB4 and ETN showed similar binding activities to TNF (TNF&#x02010;&#x003b1; and lymphotoxin &#x003b1;3) and similar potency, assessed by the TNF&#x02010;&#x003b1; neutralization assay using the nuclear factor&#x02010;&#x003ba;B reporter gene. On the other hand, the proportion of high molecular weight and misfolded species was lower in SB4 than in ETN; however, these species are believed to be inactive, and being usually in the form of aggregates, potentially cause unfavorable effects. In the case of the N&#x02010;/O&#x02010;glycosylation site, three N&#x02010;glycosylation and 13 potential O&#x02010;glycosylation sites of SB4 were identical to those of ETN, and these identical glycosylation sites rendered total sialic acid content highly similar to that of ETN. Some minor differences in the relative content of N&#x02010;glycan species and charge heterogeneity were detected in SB4 compared with ETN but they were not considered as significant for the biological function of ETN based on the demonstration of comparable TNF&#x02010;&#x003b1; binding activity and TNF&#x02010;&#x003b1; neutralization activity to ETN (Cho et al., manuscript submitted) <xref rid="bcp12929-bib-0012" ref-type="ref">12</xref>. In addition, nonclinical studies, including a pharmacodynamic comparison study in collagen antibody&#x02010;induced arthritic mice and a four&#x02010;week repeated toxicity study in cynomolgus monkeys, showed that SB4 and ETN had similar behaviour <italic>in vivo</italic>
+<xref rid="bcp12929-bib-0012" ref-type="ref">12</xref>.</p><p>Based on quality and nonclinical studies, clinical studies were conducted to demonstrate PK and therapeutic equivalence between SB4 and ETN. SB4 has been recently granted marketing authorization in the European Union (EU) under the trade name Benepali&#x000ae; and in the Republic of Korea under the trade name Brenzys&#x000ae;. The present article provides the results of the first clinical study of SB4 designed to demonstrate the PK equivalence of SB4 and its reference products in healthy male subjects.</p></sec><sec id="bcp12929-sec-0008"><title>Methods</title><sec id="bcp12929-sec-0009"><title>Study design</title><p>The study comprised three parts (parts A, B and C), in which each part had a randomized, single&#x02010;blind, two&#x02010;period, two&#x02010;sequence, single&#x02010;dose, crossover study design (Figure&#x000a0;<xref rid="bcp12929-fig-0001" ref-type="fig">1</xref>). There was a 28&#x02010;day washout period between drug administration in periods 1 and 2. The primary objective of the present study was to demonstrate PK equivalence between SB4 and EU&#x02010;ETN (part A), between SB4 and US&#x02010;ETN (part B) and between EU&#x02010;ETN and US&#x02010;ETN (part C). The secondary objectives were to compare safety, tolerability and immunogenicity between the two treatments in each part.</p><fig fig-type="Figure" xml:lang="en" id="bcp12929-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Three&#x02010;part, two&#x02010;period, two&#x02010;sequence, single&#x02010;dose, crossover study design. In each of parts A, B and C, 46 healthy male subjects were randomized 1:1 to receive a single 50 mg subcutaneous dose of the treatments [part A: SB4 or EU&#x02010;ETN; part B: SB4 or US&#x02010;ETN; part C: EU&#x02010;ETN or US&#x02010;ETN) in period 1, followed by the crossover treatment in period 2, according to their assigned sequences. The study treatments were separated by a 28&#x02010;day washout period. PK, pharmacokinetic</p></caption><graphic id="nlm-graphic-1" xlink:href="BCP-82-64-g001"/></fig><p>The subjects had to be between the ages of 18 and 55 years and to have a body mass index (BMI) between 20.0 and 29.9 kg m<sup>&#x02013;2</sup>. Subjects were required to have normal screening results for vital signs, physical examinations, clinical laboratory tests and 12&#x02010;lead electrocardiograms (ECGs). Subjects with a history and/or current presence of clinically significant atopic allergies, hypersensitivity or allergic reactions to ETN, or with either active or latent tuberculosis (TB) [assessed using the QuantiFERON&#x000ae;&#x02010;TB Gold test (QIAGEN, Venlo, the Netherlands)] and/or a history of TB, and those with any other clinically significant disease were excluded from the study. Subjects with a previous exposure to ETN were also excluded.</p><p>Subjects who met all of the inclusion/exclusion criteria were hospitalized in the PAREXEL Early Phase Clinical Unit (Berlin, Germany) on the day before the drug was administered in period 1 and received one of investigational drugs subcutaneously in the periumbilical area, according to their sequence. The subjects were discharged on the sixth day after drug administration and required to visit the Clinical Unit subsequently to assess the PK, safety and immunogenicity up to 21 days after drug administration. During the second period, subjects received the other drug, according to their sequence. The schedule of the activities was the same as in period 1.</p><p>A sample size of 32 completing subjects in each part of the study would provide at least 90% power to detect a 20% difference in PK between the test and reference drug. This assumed an intrasubject coefficient of variation (CV) of 25% based upon previously generated PK data&#x000a0;<xref rid="bcp12929-bib-0013" ref-type="ref">13</xref>. Thus, to allow for the possibility of all randomized subjects not completing the whole study period, a sample size of 38 subjects was chosen, to ensure that we could measure PK parameters for at least 32 subjects, for both periods.</p><p>The study was conducted in compliance with Good Clinical Practice and the Declaration of Helsinki. The study protocol and its amendments were approved by the Independent Ethics Committee of Berlin. All of the participants provided written informed consent prior to any study&#x02010;related procedures. The study was registered at <ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">ClinicalTrials.gov</ext-link> (NCT01865552).</p></sec><sec id="bcp12929-sec-0010"><title>Pharmacokinetic evaluations</title><p>Blood samples for PK analysis were collected predose and at 6, 12, 24, 36, 48, 60, 72, 84, 96, 120, 144, 168, 216, 312 and 480 h after each treatment. The serum concentration was measured by a validated enzyme&#x02010;linked immunosorbent assay that detects SB4 and reference products in the serum using mouse monoclonal human TNFRII/TNFRSF1B antibody and goat polyclonal human TNFRII/TNFRSF1B biotinylated antibody (R&#x00026;D Systems, Minneapolis, MN, USA). The lower limit of quantification of the assay was 0.02 &#x003bc;g ml<sup>&#x02013;1</sup>. The interbatch assay accuracy was expressed as the percentage relative error for a quality control sample (%) and ranged from &#x02212;12.4% to 11.1%. The interbatch assay precision was expressed as the relative standard deviation (%) and ranged from 6.7% to 19.8%.</p><p>The concentration&#x02013;time data were analysed with a noncompartmental method, using WinNonlin&#x000ae; 6.2 (Pharsight Corp., Mountain View, CA, USA). The maximum concentration (<italic>C</italic>
+<sub>max</sub>) and time to <italic>C</italic>
+<sub>max</sub> (<italic>T</italic>
+<sub>max</sub>) were obtained directly from the observed values. The terminal elimination rate constant (&#x003bb;z) was estimated in the terminal phase by linear regression after log<sub>e</sub>&#x02010;transformation of the concentrations. The terminal half&#x02010;life was calculated as ln(2)/&#x003bb;z. The linear up/log down trapezoidal rule was used to obtain the area under the concentration&#x02013;time curve from time zero to the last quantifiable concentration (AUC<sub>last</sub>). AUC extrapolated to infinity (AUC<sub>inf</sub>) was calculated as AUC<sub>last</sub> + <italic>C</italic>
+<sub>last</sub>/&#x003bb;z, where <italic>C</italic>
+<sub>last</sub> is the last quantifiable concentration. Apparent clearance (CL/F) was calculated as the dose/AUC<sub>inf</sub>, and the apparent volume of distribution (<italic>V</italic>z/<italic>F</italic>) was estimated as CL/<italic>F</italic>/&#x003bb;z.</p><p>The statistical analysis of the log<sub>e</sub>&#x02010;transformed primary PK parameters (AUC<sub>inf,</sub> AUC<sub>last</sub> and <italic>C</italic>
+<sub>max</sub>) was conducted using analysis of variance (ANOVA), with SAS 9.2 (Statistical Analysis System, SAS&#x02010;Institute, Cary, NC, USA). Sequence, subject, period and treatment were included in the ANOVA model as fixed effects and the subject effect nested within the sequence was tested as a random effect. The differences in least squares means (LSMeans) of the log<sub>e</sub>&#x02010;transformed primary PK parameters between SB4 and EU&#x02010;ETN, SB4 and US&#x02010;ETN, and EU&#x02010;ETN and US&#x02010;ETN, and the corresponding 90% confidence intervals (CIs) were determined. Back transformation provided the ratio of geometric means and the related 90% CIs for the original parameters. PK equivalence was demonstrated if the 90% CI for the ratio of geometric LSMeans of the pairwise comparison was within the predefined equivalence margin of 80&#x02013;125% <xref rid="bcp12929-bib-0014" ref-type="ref">14</xref>, <xref rid="bcp12929-bib-0015" ref-type="ref">15</xref>.</p></sec><sec id="bcp12929-sec-0011"><title>Safety evaluations</title><p>All adverse events (AEs) recorded during the course of the study were coded according to the Medical Dictionary for Regulatory Activities (Version 15.1). The safety assessments included clinical laboratory tests, 12&#x02010;lead ECGs, vital signs and physical examinations.</p></sec><sec id="bcp12929-sec-0012"><title>Immunogenicity evaluations</title><p>Blood samples for detecting antidrug antibodies (ADA) and the neutralizing antibodies (NAb) were collected only at predose in period 1 (day 1, baseline) and predose in period 2 (day 29) to investigate the development of ADA against the first treatment administered in period 1. As it may have been difficult to identify which product caused an ADA detected after period 2, no additional blood samples were collected during the study. The samples were analysed by Covance Laboratories Ltd (Harrogate, UK).</p><p>The samples for immunogenicity evaluation were analysed following an approach using validated tiered electrochemiluminescent (ECL) immunoassays; these involved an initial screen, in which samples were assessed for the presence of ADA, followed by a confirmation assay, which determined whether a positive sample in screening reacted specifically with the free drug. The ECL method is a bridging ligand binding assay, using labelled versions of SB4, to minimize bioanalytical bias associated with interassay variability and the possibility of inconsistent false&#x02010;positive/false&#x02010;negative results due to the labelling of multiple antigens (to minimize preparing biotinylated and ruthenylated forms of both SB4 and ETN) and to detect ADAs to the neo&#x02010;epitope of SB4.</p><p>A validated cell&#x02010;based assay was used to determine whether ADA&#x02010;positive samples had a neutralizing activity.</p></sec></sec><sec id="bcp12929-sec-0013"><title>Results</title><sec id="bcp12929-sec-0014"><title>Subject disposition</title><p>A total of 138 male subjects were enrolled in the study. The average age, height, weight and BMI of the subjects were similar across the three parts of the study. The majority of the subjects were white (Table&#x000a0;<xref rid="bcp12929-tbl-0001" ref-type="table-wrap">1</xref>). The demographics were also comparable between the sequences in each part (Table&#x000a0;<xref rid="bcp12929-supitem-0001" ref-type="supplementary-material">S1</xref>).</p><table-wrap id="bcp12929-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Demographic characteristics of the subjects (mean &#x000b1; SD)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Part A</th><th align="left" valign="bottom" rowspan="1" colspan="1">Part B</th><th align="left" valign="bottom" rowspan="1" colspan="1">Part C</th><th align="left" valign="bottom" rowspan="1" colspan="1">Total</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Subjects (<italic>n</italic>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">46</td><td align="left" valign="top" rowspan="1" colspan="1">46</td><td align="left" valign="top" rowspan="1" colspan="1">46</td><td align="left" valign="top" rowspan="1" colspan="1">138</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Age (years)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">39 &#x000b1; 10.2</td><td align="left" valign="top" rowspan="1" colspan="1">40 &#x000b1; 9.5</td><td align="left" valign="top" rowspan="1" colspan="1">41 &#x000b1; 9.9</td><td align="left" valign="top" rowspan="1" colspan="1">40 &#x000b1; 9.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Race (<italic>n</italic>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>White</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">46</td><td align="left" valign="top" rowspan="1" colspan="1">45</td><td align="left" valign="top" rowspan="1" colspan="1">44</td><td align="left" valign="top" rowspan="1" colspan="1">135</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Black or African American</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>Other</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Height (cm)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">181 &#x000b1; 6</td><td align="left" valign="top" rowspan="1" colspan="1">178 &#x000b1; 7</td><td align="left" valign="top" rowspan="1" colspan="1">179 &#x000b1; 7</td><td align="left" valign="top" rowspan="1" colspan="1">179 &#x000b1; 7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Weight (kg)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">79.5 &#x000b1; 8.5</td><td align="left" valign="top" rowspan="1" colspan="1">77.8 &#x000b1; 7.3</td><td align="left" valign="top" rowspan="1" colspan="1">78.7 &#x000b1; 7.8</td><td align="left" valign="top" rowspan="1" colspan="1">78.7 &#x000b1; 7.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>BMI (kg m<sup>&#x02013;2</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">24.4 &#x000b1; 2.3</td><td align="left" valign="top" rowspan="1" colspan="1">24.5 &#x000b1; 2.3</td><td align="left" valign="top" rowspan="1" colspan="1">24.6 &#x000b1; 2.2</td><td align="left" valign="top" rowspan="1" colspan="1">24.5 &#x000b1; 2.3</td></tr></tbody></table><table-wrap-foot><fn id="bcp12929-note-0001"><p>SD, standard deviation; BMI, body mass index</p></fn></table-wrap-foot></table-wrap><p>Of the 138 subjects, six subjects discontinued the study before the start of period 2 (part A: one subject; part B: one subject; part C: four subjects). Among them, only two subjects discontinued the study because of treatment&#x02010;emergent AEs (TEAEs) related to the treatments in part C: one reported oral herpes of moderate severity after EU&#x02010;ETN administration, and the other had a clinically significant increase in alanine transaminase (ALT) after EU&#x02010;ETN administration. The other four subjects discontinued owing to TEAEs not related to the treatments (nasopharyngitis, a tooth abscess and a ligament rupture) or subject noncompliance (because the subject consumed excessive quantities of alcohol during the study). There was no subject discontinuation during period 2 (Figure&#x000a0;<xref rid="bcp12929-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bcp12929-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Summary of subject disposition. All enrolled subjects were included in the safety analysis. Among them, subjects who completed both period 1 and period 2 were included in the PK analysis. ALT, alanine transaminase</p></caption><graphic id="nlm-graphic-3" xlink:href="BCP-82-64-g002"/></fig></sec><sec id="bcp12929-sec-0015"><title>PK results</title><p>Of the 132 subjects who completed the study, three individuals in part A and one in part B were excluded from the PK analysis owing to baseline concentrations of greater than 5% of <italic>C</italic>
+<sub>max</sub> in period 2 following the guidelines of bioequivalence studies <xref rid="bcp12929-bib-0014" ref-type="ref">14</xref>, <xref rid="bcp12929-bib-0016" ref-type="ref">16</xref>. The exclusion of these subjects was expected to have no significant impact on the results because individual PK parameters were distributed around their median values in period 2.</p><p>The mean serum concentration&#x02013;time profiles were superimposable between the two treatments in each part of the study (Figure&#x000a0;<xref rid="bcp12929-fig-0003" ref-type="fig">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="bcp12929-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Mean (SD) serum concentration of etanercept after single 50 mg subcutaneous dose of (A) SB4 or EU&#x02010;ETN in part A; (B) SB4 or US&#x02010;ETN in part B; and (C) EU&#x02010;ETN <italic>vs.</italic> US&#x02010;ETN in part C. SD, standard deviation</p></caption><graphic id="nlm-graphic-5" xlink:href="BCP-82-64-g003"/></fig><p>The mean values of the PK parameters, including AUC<sub>inf</sub>, AUC<sub>last</sub>, <italic>C</italic>
+<sub>max</sub>, <italic>T</italic>
+<sub>max</sub>, <italic>V</italic>z/<italic>F</italic>, half&#x02010;life and CL/<italic>F</italic>, were similar between the two treatments in each part (Table&#x000a0;<xref rid="bcp12929-tbl-0002" ref-type="table-wrap">2</xref>). The geometric LSMeans ratios (90% CI) for AUC<sub>inf</sub>, AUC<sub>last</sub> and <italic>C</italic>
+<sub>max</sub> were 99.04% (94.71&#x02013;103.58%), 98.62% (94.17&#x02013;103.28%) and 103.71% (98.46&#x02013;109.25%) between SB4 and EU&#x02010;ETN in part A; 101.09% (95.75&#x02013;106.73%), 100.96% (95.37&#x02013;106.87%) and 104.36% (97.74&#x02013;111.41%) between SB4 and US&#x02010;ETN in part B; and 100.51% (91.48&#x02013;110.42%), 101.27% (92.34&#x02013;111.06%) and 103.29% (94.70&#x02013;112.66%) between EU&#x02010;ETN and US&#x02010;ETN in part C. The corresponding 90% CIs were completely contained within the equivalence margin of 80&#x02013;125% (Table&#x000a0;<xref rid="bcp12929-tbl-0003" ref-type="table-wrap">3</xref>).</p><table-wrap id="bcp12929-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Summary statistics of the pharmacokinetic parameters (mean &#x000b1; SD)</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Part A</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Part B</th><th colspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1">Part C</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">SB4</th><th align="left" valign="bottom" rowspan="1" colspan="1">EU&#x02010;ETN</th><th align="left" valign="bottom" rowspan="1" colspan="1">SB4</th><th align="left" valign="bottom" rowspan="1" colspan="1">US&#x02010;ETN</th><th align="left" valign="bottom" rowspan="1" colspan="1">EU&#x02010;ETN</th><th align="left" valign="bottom" rowspan="1" colspan="1">US&#x02010;ETN</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Subject (<italic>n</italic>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">42</td><td align="left" valign="top" rowspan="1" colspan="1">42</td><td align="left" valign="top" rowspan="1" colspan="1">44</td><td align="left" valign="top" rowspan="1" colspan="1">44</td><td align="left" valign="top" rowspan="1" colspan="1">42</td><td align="left" valign="top" rowspan="1" colspan="1">42</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>inf</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">769 &#x000b1; 244</td><td align="left" valign="top" rowspan="1" colspan="1">772 &#x000b1; 226</td><td align="left" valign="top" rowspan="1" colspan="1">835 &#x000b1; 243</td><td align="left" valign="top" rowspan="1" colspan="1">810 &#x000b1; 196</td><td align="left" valign="top" rowspan="1" colspan="1">790 &#x000b1; 274</td><td align="left" valign="top" rowspan="1" colspan="1">768 &#x000b1; 238</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>last</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">728 &#x000b1; 235</td><td align="left" valign="top" rowspan="1" colspan="1">734 &#x000b1; 220</td><td align="left" valign="top" rowspan="1" colspan="1">789 &#x000b1; 232</td><td align="left" valign="top" rowspan="1" colspan="1">765 &#x000b1; 185</td><td align="left" valign="top" rowspan="1" colspan="1">752 &#x000b1; 259</td><td align="left" valign="top" rowspan="1" colspan="1">728 &#x000b1; 230</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>C</italic><sub>max</sub></bold>
+<bold>(&#x003bc;g ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">3.61 &#x000b1; 1.43</td><td align="left" valign="top" rowspan="1" colspan="1">3.44 &#x000b1; 1.24</td><td align="left" valign="top" rowspan="1" colspan="1">3.87 &#x000b1; 1.33</td><td align="left" valign="top" rowspan="1" colspan="1">3.61 &#x000b1; 1.03</td><td align="left" valign="top" rowspan="1" colspan="1">3.72 &#x000b1; 1.54</td><td align="left" valign="top" rowspan="1" colspan="1">3.58 &#x000b1; 1.48</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>T</italic><sub>max</sub> (h)<sup>&#x02020;</sup></bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">72 (36&#x02013;146)</td><td align="left" valign="top" rowspan="1" colspan="1">72 (36&#x02013;144)</td><td align="left" valign="top" rowspan="1" colspan="1">72 (24&#x02013;144)</td><td align="left" valign="top" rowspan="1" colspan="1">60 (36&#x02013;120)</td><td align="left" valign="top" rowspan="1" colspan="1">60 (24&#x02013;144)</td><td align="left" valign="top" rowspan="1" colspan="1">60 (24&#x02013;120)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>V</italic>z/<italic>F</italic> (l)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">11.2 &#x000b1; 4.7</td><td align="left" valign="top" rowspan="1" colspan="1">10.5 &#x000b1; 4.7</td><td align="left" valign="top" rowspan="1" colspan="1">10.3 &#x000b1; 4.7</td><td align="left" valign="top" rowspan="1" colspan="1">9.6 &#x000b1; 2.9</td><td align="left" valign="top" rowspan="1" colspan="1">10.1 &#x000b1; 4.9</td><td align="left" valign="top" rowspan="1" colspan="1">10.5 &#x000b1; 4.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>t</italic><sub>&#x000bd;</sub> (h)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">106 &#x000b1; 12</td><td align="left" valign="top" rowspan="1" colspan="1">100 &#x000b1; 16</td><td align="left" valign="top" rowspan="1" colspan="1">106 &#x000b1; 9</td><td align="left" valign="top" rowspan="1" colspan="1">101 &#x000b1; 17</td><td align="left" valign="top" rowspan="1" colspan="1">95 &#x000b1; 18</td><td align="left" valign="top" rowspan="1" colspan="1">100 &#x000b1; 19</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>CL/<italic>F</italic> (ml h<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">72.9 &#x000b1; 27.5</td><td align="left" valign="top" rowspan="1" colspan="1">71.5 &#x000b1; 24.8</td><td align="left" valign="top" rowspan="1" colspan="1">67.0 &#x000b1; 27.8</td><td align="left" valign="top" rowspan="1" colspan="1">65.7 &#x000b1; 17.6</td><td align="left" valign="top" rowspan="1" colspan="1">77.3 &#x000b1; 54.1</td><td align="left" valign="top" rowspan="1" colspan="1">71.3 &#x000b1; 22.4</td></tr></tbody></table><table-wrap-foot><fn id="bcp12929-note-0002"><p>Four subjects (three subjects in part A and one subject in part B) were excluded owing to a carry&#x02010;over effect. AUC<sub>inf</sub>, area under the concentration&#x02013;time curve from time zero extrapolated to infinity; AUC<sub>last</sub>, area under the concentration&#x02013;time curve from time zero to the last quantifiable concentration; <italic>C</italic>
+<sub>max</sub>, maximum concentration; <italic>T</italic>
+<sub>max</sub>, time to reach C<sub>max</sub>;CL/<italic>F</italic>, apparent clearance; <italic>t</italic>
+<sub>&#x000bd;</sub>, terminal half&#x02010;life; US&#x02010;ETN, <italic>V</italic>z/<italic>F</italic>, apparent volume of distribution; SD, standard deviation. <sup>&#x02020;</sup>Median (Min&#x02010;Max).</p></fn></table-wrap-foot></table-wrap><table-wrap id="bcp12929-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Statistical comparison of primary pharmacokinetic parameters between the test and reference products</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Treatment</th><th align="left" valign="bottom" rowspan="1" colspan="1">Geometric LSMeans</th><th align="left" valign="bottom" rowspan="1" colspan="1">Ratio (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Intra&#x02010;CV (%)</th><th align="left" valign="bottom" rowspan="1" colspan="1">90% CI (%) (lower; upper)</th></tr></thead><tbody valign="top"><tr><td colspan="6" align="left" valign="top" rowspan="1">
+<bold>Part A: SB4 <italic>vs</italic>. EU&#x02010;ETN (<italic>n</italic> = 42)</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>inf</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">SB4</td><td align="left" valign="top" rowspan="1" colspan="1">729</td><td align="left" valign="top" rowspan="1" colspan="1">99.04</td><td align="left" valign="top" rowspan="1" colspan="1">12.22</td><td align="left" valign="top" rowspan="1" colspan="1">94.71; 103.58</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">736</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>last</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">SB4</td><td align="left" valign="top" rowspan="1" colspan="1">689</td><td align="left" valign="top" rowspan="1" colspan="1">98.62</td><td align="left" valign="top" rowspan="1" colspan="1">12.60</td><td align="left" valign="top" rowspan="1" colspan="1">94.17; 103.28</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">698</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>C</italic><sub>max</sub></bold>
+<bold>(&#x003bc;g ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">SB4</td><td align="left" valign="top" rowspan="1" colspan="1">3.32</td><td align="left" valign="top" rowspan="1" colspan="1">103.71</td><td align="left" valign="top" rowspan="1" colspan="1">14.21</td><td align="left" valign="top" rowspan="1" colspan="1">98.46; 109.25</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">3.20</td></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">
+<bold>Part B: SB4 <italic>vs</italic>. US&#x02010;ETN (<italic>n</italic> = 44)</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>inf</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">SB4</td><td align="left" valign="top" rowspan="1" colspan="1">794</td><td align="left" valign="top" rowspan="1" colspan="1">101.09</td><td align="left" valign="top" rowspan="1" colspan="1">15.22</td><td align="left" valign="top" rowspan="1" colspan="1">95.75; 106.73</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">US&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">786</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>last</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">SB4</td><td align="left" valign="top" rowspan="1" colspan="1">750</td><td align="left" valign="top" rowspan="1" colspan="1">100.96</td><td align="left" valign="top" rowspan="1" colspan="1">15.97</td><td align="left" valign="top" rowspan="1" colspan="1">95.37; 106.87</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">US&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">742</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>C</italic><sub>max</sub></bold>
+<bold>(&#x003bc;g ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">SB4</td><td align="left" valign="top" rowspan="1" colspan="1">3.61</td><td align="left" valign="top" rowspan="1" colspan="1">104.36</td><td align="left" valign="top" rowspan="1" colspan="1">18.41</td><td align="left" valign="top" rowspan="1" colspan="1">97.74; 111.41</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">US&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">3.46</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td colspan="6" align="left" valign="top" rowspan="1">
+<bold>Part C: EU&#x02010;ETN <italic>vs</italic>. US&#x02010;ETN (<italic>n</italic> = 42)</bold>
+</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>inf</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">735</td><td align="left" valign="top" rowspan="1" colspan="1">100.51</td><td align="left" valign="top" rowspan="1" colspan="1">26.00</td><td align="left" valign="top" rowspan="1" colspan="1">91.48; 110.42</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">US&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">732</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold>AUC<sub>last</sub></bold>
+<bold>(&#x003bc;g h ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">701</td><td align="left" valign="top" rowspan="1" colspan="1">101.27</td><td align="left" valign="top" rowspan="1" colspan="1">25.49</td><td align="left" valign="top" rowspan="1" colspan="1">92.34; 111.06</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">US&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">692</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">
+<bold><italic>C</italic><sub>max</sub></bold>
+<bold>(&#x003bc;g ml<sup>&#x02013;1</sup>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">EU&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">3.41</td><td align="left" valign="top" rowspan="1" colspan="1">103.29</td><td align="left" valign="top" rowspan="1" colspan="1">23.94</td><td align="left" valign="top" rowspan="1" colspan="1">94.70; 112.66</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">US&#x02010;ETN</td><td align="left" valign="top" rowspan="1" colspan="1">3.30</td></tr></tbody></table><table-wrap-foot><fn id="bcp12929-note-0003"><p>Four subjects (three subjects in part A and one subject in part B) were excluded owing to carry&#x02010;over effect. AUC<sub>inf</sub>, area under the concentration&#x02013;time curve from time zero extrapolated to infinity; AUC<sub>last</sub>, area under the concentration&#x02013;time curve from time zero to the last quantifiable concentration; CI, confidence interval; <italic>C</italic>
+<sub>max</sub>, maximum concentration; LSMeans, least squares means; Intra&#x02010;CV, intrasubject coefficient of variation.</p></fn></table-wrap-foot></table-wrap></sec><sec id="bcp12929-sec-0016"><title>Safety results</title><p>Data from all 138 subjects enrolled in the study were evaluated for safety. TEAEs, regardless of causality, were reported from 41 (44.6%), 33 (35.9%) and 34 (37.0%) subjects treated by SB4, EU&#x02010;ETN, and US&#x02010;ETN, respectively (Table&#x000a0;<xref rid="bcp12929-tbl-0004" ref-type="table-wrap">4</xref>). In each part, the proportions of subjects who experienced the TEAEs were also comparable between the treatments (Table S2). The majority of the TEAEs reported were mild or moderate in severity, except for two cases of severe diarrhoea after EU&#x02010;ETN administration and a severe ligament rupture after US&#x02010;ETN administration. Those severe TEAEs were considered by the investigator to be unrelated to the treatment.</p><table-wrap id="bcp12929-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Treatment&#x02010;emergent adverse events, regardless of causality, that occurred in &#x02265;5% of subjects in any treatment</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">SB4</th><th align="left" valign="bottom" rowspan="1" colspan="1">EU&#x02010;ETN</th><th align="left" valign="bottom" rowspan="1" colspan="1">US&#x02010;ETN</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Subjects (<italic>n</italic>)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">92</td><td align="left" valign="top" rowspan="1" colspan="1">92</td><td align="left" valign="top" rowspan="1" colspan="1">92</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Subjects with any TEAEs, <italic>n</italic> (%)</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">41 (44.6)</td><td align="left" valign="top" rowspan="1" colspan="1">33 (35.9)</td><td align="left" valign="top" rowspan="1" colspan="1">34 (37.0)</td></tr><tr><td colspan="4" align="left" valign="top" rowspan="1">
+<bold>Infections and infestations, <italic>n</italic> (%)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Nasopharyngitis</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">7 (7.6)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (4.3)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (3.3)</td></tr><tr><td colspan="4" align="left" valign="top" rowspan="1">
+<bold>Nervous system disorders, <italic>n</italic> (%)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Dizziness</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">1 (1.1)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (3.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Headache</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">7 (7.6)</td><td align="left" valign="top" rowspan="1" colspan="1">6 (6.5)</td><td align="left" valign="top" rowspan="1" colspan="1">7 (7.6)</td></tr><tr><td colspan="4" align="left" valign="top" rowspan="1">
+<bold>General disorders and administration site conditions, <italic>n</italic> (%)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Injection site reaction</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">5 (5.4)</td><td align="left" valign="top" rowspan="1" colspan="1">4 (4.3)</td><td align="left" valign="top" rowspan="1" colspan="1">6 (6.5)</td></tr><tr><td colspan="4" align="left" valign="top" rowspan="1">
+<bold>Musculoskeletal and connective tissue disorders, <italic>n</italic> (%)</bold>
+</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<bold>Back pain</bold>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2 (2.2)</td><td align="left" valign="top" rowspan="1" colspan="1">0 (0.0)</td><td align="left" valign="top" rowspan="1" colspan="1">3 (3.3)</td></tr></tbody></table><table-wrap-foot><fn id="bcp12929-note-0004"><p>SB4, summary for subjects receiving SB4 from part A and part B; EU&#x02010;ETN, summary for subjects receiving EU&#x02010;ETN from part A and part C; US&#x02010;ETN, summary for subjects receiving US&#x02010;ETN from part B and part C; TEAE, treatment&#x02010;emergent adverse event. Dizziness and back pain occurred more frequent than 5% in one of the three study parts (see also Table S2).</p></fn></table-wrap-foot></table-wrap><p>The number of subjects who experienced TEAEs related to SB4 treatment was 29 (31.5%), to EU&#x02010;ETN treatment was 25 (27.2%) and to US&#x02010;ETN treatment was 27 (29.3%). The most common treatment&#x02013;related TEAE across the treatments (17 subjects) was headache. There were no serious AEs (SAEs) or deaths reported during the study.</p><p>Vital signs, physical examination, clinical laboratory tests and 12&#x02010;lead ECG results did not show significant changes over time that might be considered related to the treatments.</p></sec><sec id="bcp12929-sec-0017"><title>Immunogenicity results</title><p>In part A, three subjects were confirmed to be positive for ADA after EU&#x02010;ETN administration. Among them, only one subject had a positive result for NAb. In part B, four subjects were confirmed positive for ADA after US&#x02010;ETN administration, and none of the subjects had a positive result for NAb. In part C, four subjects were confirmed positive for ADA after EU&#x02010;ETN administration, and six subjects after US&#x02010;ETN administration. None of the subjects in part C had a positive result for NAb.</p></sec></sec><sec id="bcp12929-sec-0018"><title>Discussion</title><p>Comparative PK studies are considered to be essential for demonstrating biosimilarity between the biosimilar and the reference product. The study design depends on various factors, including the clinical context, safety and PK characteristics of the product. Generally, from a PK perspective, a single&#x02010;dose crossover study with full characterization of the PK profile in a sufficiently sensitive and homogeneous population is recommended <xref rid="bcp12929-bib-0009" ref-type="ref">9</xref>.</p><p>The present study was a single&#x02010;dose, three&#x02010;part, 2 &#x000d7; 2 crossover study to compare three products in healthy male subjects. The crossover design allowed each subject to receive both treatments, so that a comparison between the two treatments could be made on the same subject. This crossover design therefore required fewer subjects than a parallel study design to prove PK equivalence. Although the Williams design, which consists of three treatments and three periods (3 &#x000d7; 3) in six sequences, is an ideal choice when there are more than two treatments in a bioequivalence study <xref rid="bcp12929-bib-0017" ref-type="ref">17</xref>, the design may not be appropriate for biological products because of their relatively longer half&#x02010;life compared with chemical products. The half&#x02010;life of ETN has been reported as approximately 70 h, with range from 7 h to 300 h <xref rid="bcp12929-bib-0008" ref-type="ref">8</xref>. Usually, the length of the washout period between the drug administrations should be more than five half&#x02010;lives of the drug. The maintenance of subject compliance with the protocol&#x02010;specified controlled conditions (e.g. schedule of in&#x02010;house and ambulant visit, and restrictions on alcohol and physical exercise) became more difficult with increased study duration <xref rid="bcp12929-bib-0018" ref-type="ref">18</xref>. Thus, three 2 &#x000d7; 2 crossover studies were more appropriate than one 3 &#x000d7; 3 crossover study to compare three biological products in a pairwise manner. Healthy male subjects were considered to be a more homogeneous population than RA patients with various disease&#x02010;related factors and taking concomitant medications that might influence the PK profiles of the products. This selected population was expected to reduce variability that was unrelated to differences between the products, thereby simplifying the interpretation of PK equivalence. This study design and target population were consulted with both the EMA and FDA prior to the start of the study.</p><p>The PK results of the present study can be extrapolated to the female population because no clinically relevant difference in the CL of ETN was found between men and women in a population modelling study <xref rid="bcp12929-bib-0019" ref-type="ref">19</xref>. The treatment dose (50 mg) used in the present study is the highest labelled dose recommended in the respective guideline <xref rid="bcp12929-bib-0014" ref-type="ref">14</xref>. Dose proportionality of ETN for 10 mg, 25 mg, and 50 mg doses has been shown in healthy volunteers <xref rid="bcp12929-bib-0020" ref-type="ref">20</xref>. Comparable exposure between 25 mg twice weekly and 50 mg once weekly dosing was also demonstrated after a single dose and at steady state <xref rid="bcp12929-bib-0013" ref-type="ref">13</xref>, <xref rid="bcp12929-bib-0021" ref-type="ref">21</xref>, <xref rid="bcp12929-bib-0022" ref-type="ref">22</xref>. Therefore, similar PK profiles were expected between SB4 and ETN with a different dosing schedule.</p><p>SB4 and the two reference products exhibited similar PK profiles, showing slow absorption from the site of subcutaneous injection (average range of <italic>T</italic>
+<sub>max</sub>: 70&#x02013;75 h) and slow elimination (average range of half&#x02010;life: 95&#x02013;106 h), which is in line with known PK characteristics of ETN <xref rid="bcp12929-bib-0023" ref-type="ref">23</xref>, <xref rid="bcp12929-bib-0024" ref-type="ref">24</xref>. PK equivalence in terms of AUC<sub>inf</sub>, AUC<sub>last</sub>, and <italic>C</italic>
+<sub>max</sub> was successfully demonstrated for all pairwise comparisons in parts A, B and C. The intrasubject variability, which is product dependent, in PK parameters was 12&#x02013;14% between SB4 and EU&#x02010;ETN, 15&#x02013;18% between SB4 and US&#x02010;ETN, and 24&#x02013;26% between EU&#x02010;ETN and US&#x02010;ETN (Table&#x000a0;<xref rid="bcp12929-tbl-0003" ref-type="table-wrap">3</xref>). These data imply that the differences in PK between SB4 and either of the two reference products are smaller than those between the EU&#x02010;sourced and US&#x02010;sourced reference products.</p><p>In the present study, there was one test product, SB4, and two reference products, EU&#x02010;ETN and US&#x02010;ETN. The regulatory agencies require data that directly compare the proposed product with the regulatory approved or licensed reference product <xref rid="bcp12929-bib-0009" ref-type="ref">9</xref>, <xref rid="bcp12929-bib-0011" ref-type="ref">11</xref>. The comparisons between SB4 and EU&#x02010;ETN from part A and between SB4 and US&#x02010;ETN in part B were carried out to meet the EMA and FDA requirements, respectively. Additionally, the comparison between EU&#x02010;ETN and US&#x02010;ETN in part C was evaluated to provide scientific justification for the use of EU&#x02010;ETN, which is not licensed in the USA as the active comparator in the clinical phase III study. These three pairwise comparisons between the products were conducted directly in each separate study. Ring <italic>et al</italic>. proposed indirect comparison analysis using the bridging method to determine the bioequivalence of formulations not tested within the same clinical trial <xref rid="bcp12929-bib-0025" ref-type="ref">25</xref>. In fact, this method provides similar 90% CIs for all comparisons with the results presented in Table&#x000a0;<xref rid="bcp12929-tbl-0003" ref-type="table-wrap">3</xref> (see also Table S3).</p><p>All three treatments were generally well tolerated, with no SAEs or deaths reported during the study. The majority of the TEAEs were well distributed between the treatments. The most common TEAE across all treatments was headache, which was consistent with previously reported comparative PK studies in healthy subjects <xref rid="bcp12929-bib-0013" ref-type="ref">13</xref>, <xref rid="bcp12929-bib-0023" ref-type="ref">23</xref>. Five subjects discontinued the study owing to TEAEs. Among them, two subjects experienced TEAEs related to the treatments. One of these reported moderate oral herpes on day 23 after EU&#x02010;ETN administration in period 1. The oral herpes was resolved 14 days after onset of the TEAE without any rescue medication. The other subject reported a clinically significant increase in ALT values to 160.7 U l<sup>&#x02013;1</sup> (normal range: 0&#x02013;50 U l<sup>&#x02013;1</sup>) on day 21 after EU&#x02010;ETN administration in period 1. This increase in ALT returned to the normal value (40 U l<sup>&#x02013;1</sup>) 12 days later. Infections are very common adverse events after using ETN <xref rid="bcp12929-bib-0008" ref-type="ref">8</xref>. However, nasopharyngitis and tooth abscess were assessed by investigator to be unrelated to the treatment. Nasopharyngitis was reported on day 26 by a subject receiving SB4 in period 1. The subject experienced an elevated C&#x02010;reactive protein level of 12.17 mg l<sup>&#x02013;1</sup> (normal range 0&#x02013;5 mg l<sup>&#x02013;1</sup>). Although the investigator considered that the AE was not related to the treatment, the subject was discontinued as his C&#x02010;reactive protein level did not meet the predefined criteria for the second dose. The tooth abscess was reported by a subject receiving US&#x02010;ETN. The subject experienced inflammatory facial swelling and was withdrawn from the study according to predefined subject dropout criteria. He had undergone tooth implant surgery on the left side of the jaw about 2 months earlier but had not provided this history at screening. The investigator considered that the event was not caused by the treatment but by his medical history. The ligament rupture was reported by a subject receiving US&#x02010;ETN. He had played soccer during the washout period and experienced torsion of the knee. He had had to start heparin therapy and use a crutch owing to his injury. The investigator considered that the event was not related to the treatment, and that his further participation in the study was not appropriate.</p><p>Immunogenicity was evaluated predose and at day 29 after the first treatment. No subjects who received SB4 developed ADA but 15.6% of subjects who received EU&#x02010;ETN (<italic>P</italic> = 0.006 for SB4 <italic>vs</italic>. EU&#x02010;ETN) and 22.7% of subjects who received US&#x02010;ETN (<italic>P</italic> &#x0003c; 0.001 for SB4 <italic>vs</italic>. US&#x02010;ETN) developed ADA across the parts. Although a single&#x02010;dose study in a limited number of healthy subjects was not enough to evaluate the immunogenicity between SB4 and ETN, the low incidence of ADA following administration of SB4 was consistent with the long&#x02010;term immunogenicity results in RA patients, in whom the incidence of ADA following multiple doses was 0.7% in the SB4 treatment group and 13.1% in ETN treatment group over a 24&#x02010;week period (<italic>P</italic> &#x0003c; 0.001) <xref rid="bcp12929-bib-0026" ref-type="ref">26</xref>. There are product&#x02010;specific factors that known to affect immunogenicity, such as product origin (foreign or human), product aggregates, impurities, glycosylation, formulation and the container closure system <xref rid="bcp12929-bib-0027" ref-type="ref">27</xref>, <xref rid="bcp12929-bib-0028" ref-type="ref">28</xref>, <xref rid="bcp12929-bib-0029" ref-type="ref">29</xref>, <xref rid="bcp12929-bib-0030" ref-type="ref">30</xref>, <xref rid="bcp12929-bib-0031" ref-type="ref">31</xref>, <xref rid="bcp12929-bib-0032" ref-type="ref">32</xref>, <xref rid="bcp12929-bib-0033" ref-type="ref">33</xref>. Among these, factors contributing to the lower immunogenicity profile of SB4 compared with ETN should be investigated in future studies. Additional subgroup analysis of PK using ANOVA, and of the type and frequency of AEs reported in a subset of subjects with negative ADA results showed that there was no marked impact of immunogenicity on PK and safety in the present study (data not shown).</p><p>The present clinical phase I study demonstrated PK equivalence between SB4 and ETN in healthy male subjects. In addition, SB4 was well tolerated, with a lower immunogenicity profile. The safety profile of SB4 was comparable with that of ETN. The clinical phase III study to demonstrate similarity in efficacy, safety, immunogenicity and PK between SB4 and ETN in RA patients was also completed successfully <xref rid="bcp12929-bib-0026" ref-type="ref">26</xref>. Based on the results of the data in healthy male subjects and RA patients, SB4 has been approved as the first ETN biosimilar in the EU</p></sec><sec id="bcp12929-sec-0019"><title>Competing Interests</title><p>All of the authors have completed the Unified Competing Interest form at <ext-link ext-link-type="uri" xlink:href="http://www.icmje.org/coi_disclosure.pdf">http://www.icmje.org/coi_disclosure.pdf</ext-link> (available on request from the corresponding author) and declare that this study was funded by Samsung Bioepis Co., Ltd., Incheon, Republic of Korea. All of the authors are employees of either Samsung Bioepis or of an organization contracted by Samsung Bioepis for the present study. There are no other relationships or activities that could appear to influence the submitted work.</p></sec><sec id="bcp12929-sec-0020"><title>Contributors</title><p>YL and DS designed the research study; RF and AG were investigators in the clinical trial; YK and JK analysed the data; YL wrote the paper</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>
+<bold>Table S1</bold> Demographic characteristics of the subjects (Mean&#x000b1;SD)</p><p>
+<bold>Table S2</bold> Treatment&#x02010;emergent adverse events regardless of the causality that occurred in &#x02265; 5% of subjects in any treatment in each part</p><p>
+<bold>Table S3</bold> Indirect comparison of primary PK parameters between the test and reference products</p></supplementary-material><supplementary-material content-type="local-data" id="bcp12929-supitem-0001"><caption><p>Supporting info item</p></caption><media xlink:href="BCP-82-64-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bcp12929-supitem-0002"><caption><p>Supporting info item</p></caption><media xlink:href="BCP-82-64-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="bcp12929-supitem-0003"><caption><p>Supporting info item</p></caption><media xlink:href="BCP-82-64-s003.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ref-list id="bcp12929-bibl-0001" content-type="cited-references"><title>References</title><ref id="bcp12929-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="bcp12929-cit-0002">
+<string-name>
+<surname>Mohler</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Torrance</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Goodwin</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Stremler</surname>
+<given-names>KE</given-names>
+</string-name>, <string-name>
+<surname>Fung</surname>
+<given-names>VP</given-names>
+</string-name>, <string-name>
+<surname>Madani</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Widmer</surname>
+<given-names>MB</given-names>
+</string-name>. <article-title>Soluble tumor necrosis factor (TNF) receptors are effective therapeutic agents in lethal endotoxemia and function simultaneously as both TNF carriers and TNF antagonists</article-title>. <source>J Immunol</source>
+<year>1993</year>; <volume>151</volume>: <fpage>1548</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">8393046</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="bcp12929-cit-0003">
+<string-name>
+<surname>Moreland</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Baumgartner</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Schiff</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Tindall</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Fleischmann</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Ettlinger</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Koopman</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Mohler</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Widmer</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Blosch</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Treatment of rheumatoid arthritis with a recombinant human tumor necrosis factor receptor (p75)&#x02010;Fc fusion protein</article-title>. <source>N Engl J Med</source>
+<year>1997</year>; <volume>337</volume>: <fpage>141</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">9219699</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="bcp12929-cit-0004">
+<string-name>
+<surname>Moreland</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Schiff</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Baumgartner</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Tindall</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Fleischmann</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Bulpitt</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Keystone</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Furst</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Mease</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Ruderman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Horwitz</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Arkfeld</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Garrison</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Burge</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Blosch</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Lange</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>McDonnell</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Weinblatt</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Etanercept therapy in rheumatoid arthritis. A randomized, controlled trial</article-title>. <source>Ann Intern Med</source>
+<year>1999</year>; <volume>130</volume>: <fpage>478</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">10075615</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="bcp12929-cit-0005">
+<string-name>
+<surname>Weinblatt</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Kremer</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Bankhurst</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Bulpitt</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Fleischmann</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>RI</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>CG</given-names>
+</string-name>, <string-name>
+<surname>Lange</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Burge</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>A trial of etanercept, a recombinant tumor necrosis factor receptor: Fc fusion protein, in patients with rheumatoid arthritis receiving methotrexate</article-title>. <source>N Engl J Med</source>
+<year>1999</year>; <volume>340</volume>: <fpage>253</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">9920948</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="bcp12929-cit-0006">
+<string-name>
+<surname>Mease</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Goffe</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Metz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>VanderStoep</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Finck</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Burge</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Etanercept in the treatment of psoriatic arthritis and psoriasis: a randomised trial</article-title>. <source>Lancet</source>
+<year>2000</year>; <volume>356</volume>: <fpage>385</fpage>&#x02013;<lpage>90</lpage>.<pub-id pub-id-type="pmid">10972371</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="bcp12929-cit-0007">
+<string-name>
+<surname>Korth&#x02010;Bradley</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Hanna</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Simcoe</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Lebsack</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>The pharmacokinetics of etanercept in healthy volunteers</article-title>. <source>Ann Pharmacother</source>
+<year>2000</year>; <volume>34</volume>: <fpage>161</fpage>&#x02013;<lpage>4</lpage>.<pub-id pub-id-type="pmid">10676822</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="bcp12929-cit-0008">
+<string-name>
+<surname>Nestorov</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Zitnik</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>DeVries</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nakanishi</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Banfield</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Pharmacokinetics of subcutaneously administered etanercept in subjects with psoriasis</article-title>. <source>Br J Clin Pharmacol</source>
+<year>2006</year>; <volume>62</volume>: <fpage>435</fpage>&#x02013;<lpage>45</lpage>.<pub-id pub-id-type="pmid">16995864</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="bcp12929-cit-0009">
+<collab collab-type="authors">ENBREL&#x000ae;[etanercept]</collab>
+. <article-title>Summary of product characteristics</article-title>, <year>2014</year>.</mixed-citation></ref><ref id="bcp12929-bib-0009"><label>9</label><mixed-citation publication-type="book" id="bcp12929-cit-0010">
+<collab collab-type="authors">Committee for Medicinal Products for Human Use (CHMP)</collab>
+. <source>Guideline on similar biological medicinal products containing monoclonal antibodies &#x02013; non clinical and clinical issues</source>. <publisher-name>European Medicines Agency</publisher-name>, <year>2012</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2012/06/WC500128686.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2012/06/WC500128686.pdf</ext-link>
+</mixed-citation></ref><ref id="bcp12929-bib-0010"><label>10</label><mixed-citation publication-type="book" id="bcp12929-cit-0011">
+<collab collab-type="authors">Committee for Medicinal Products for Human Use (CHMP)</collab>
+. <source>Guideline on similar biological medicinal product</source>. <publisher-name>European Medicines Agency</publisher-name>, <year>2005</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/09/WC500003517.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/09/WC500003517.pdf</ext-link>
+</mixed-citation></ref><ref id="bcp12929-bib-0011"><label>11</label><mixed-citation publication-type="book" id="bcp12929-cit-0012">
+<collab collab-type="authors">Food and Drug Administration Center for Drug Evaluation and Research</collab>
+. <source>Guidance for industry: scientific considerations in demonstrating biosimilarity to a reference product</source>. <publisher-name>U.S. Department of Health and Human Services</publisher-name>, <year>2015</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.fda.gov/downloads/DrugsGuidanceComplianceRegulatoryInformation/Guidances/UCM291128.pdf">http://www.fda.gov/downloads/DrugsGuidanceComplianceRegulatoryInformation/Guidances/UCM291128.pdf</ext-link>
+</mixed-citation></ref><ref id="bcp12929-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="bcp12929-cit-0014">
+<article-title>Committee for Medicinal Products for Human Use (CHMP)</article-title>. Benepali: Assessment report. <year>2015</year> Available at <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/004007/WC500200380.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_&#x02010;_Public_assessment_report/human/004007/WC500200380.pdf</ext-link>
+</mixed-citation></ref><ref id="bcp12929-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="bcp12929-cit-0015">
+<string-name>
+<surname>Sullivan</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Ni</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sheelo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Salfi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Peloso</surname>
+<given-names>PM</given-names>
+</string-name>. <article-title>Bioequivalence of liquid and reconstituted lyophilized etanercept subcutaneous injections</article-title>. <source>J Clin Pharmacol</source>
+<year>2006</year>; <volume>46</volume>: <fpage>654</fpage>&#x02013;<lpage>61</lpage>.<pub-id pub-id-type="pmid">16707412</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0014"><label>14</label><mixed-citation publication-type="book" id="bcp12929-cit-0016">
+<collab collab-type="authors">Committee for Medicinal Products for Human Use (CHMP)</collab>
+. <source>Guideline on the investigation of bioequivalence</source>. <publisher-name>European Medicines Agency</publisher-name>, <year>2010</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2010/01/WC500070039.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2010/01/WC500070039.pdf</ext-link>
+</mixed-citation></ref><ref id="bcp12929-bib-0015"><label>15</label><mixed-citation publication-type="book" id="bcp12929-cit-0017">
+<collab collab-type="authors">Food and Drug Administration Center for Drug Evaluation and Research</collab>
+. <source>Guidance for industry: statistical approaches to establishing bioequivalence</source>. <publisher-name>US Department of Health and Human Services</publisher-name>, <year>2001</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.fda.gov/downloads/Drugs/.../Guidances/ucm070244.pdf">http://www.fda.gov/downloads/Drugs/.../Guidances/ucm070244.pdf</ext-link>
+</mixed-citation></ref><ref id="bcp12929-bib-0016"><label>16</label><mixed-citation publication-type="book" id="bcp12929-cit-0018">
+<collab collab-type="authors">Food and Drug Administration Center for Drug Evaluation and Research</collab>
+. <source>Guidance for industry: bioavailability and bioequivalence studies submitted in NDAs or INDs &#x02013; general considerations</source>. <publisher-name>US Department of Health and Human Service</publisher-name>, <year>2014</year>
+<ext-link ext-link-type="uri" xlink:href="http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm389370.pdf">http://www.fda.gov/downloads/drugs/guidancecomplianceregulatoryinformation/guidances/ucm389370.pdf</ext-link>
+</mixed-citation></ref><ref id="bcp12929-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="bcp12929-cit-0019">
+<string-name>
+<surname>William</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Experimental designs balanced for the estimation of residual effects of treatments</article-title>. <source>Aust J Chem</source>
+<year>1949</year>; <volume>2</volume>: <fpage>149</fpage>&#x02013;<lpage>68</lpage>.</mixed-citation></ref><ref id="bcp12929-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="bcp12929-cit-0020">
+<string-name>
+<surname>Marzo</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Open questions on bioequivalence: some problems and some solutions</article-title>. <source>Pharmacol Res</source>
+<year>1999</year>; <volume>40</volume>: <fpage>357</fpage>&#x02013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">10527649</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="bcp12929-cit-0021">
+<string-name>
+<surname>Zhou</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Clinical pharmacokinetics of etanercept: a fully humanized soluble recombinant tumor necrosis factor receptor fusion protein</article-title>. <source>J Clin Pharmacol</source>
+<year>2005</year>; <volume>45</volume>: <fpage>490</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">15831771</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="bcp12929-cit-0022">
+<string-name>
+<surname>Kawai</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sekino</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yamashita</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tsuchiwata</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Korth&#x02010;Bradley</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>The comparability of etanercept pharmacokinetics in healthy Japanese and American subjects</article-title>. <source>J Clin Pharmacol</source>
+<year>2006</year>; <volume>46</volume>: <fpage>418</fpage>&#x02013;<lpage>23</lpage>.<pub-id pub-id-type="pmid">16554449</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="bcp12929-cit-0023">
+<string-name>
+<surname>Keystone</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Schiff</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Kremer</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Kafka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lovy</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>DeVries</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Burge</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Once&#x02010;weekly administration of 50 mg etanercept in patients with active rheumatoid arthritis: results of a multicenter, randomized, double&#x02010;blind, placebo&#x02010;controlled trial</article-title>. <source>Arthritis Rheum</source>
+<year>2004</year>; <volume>50</volume>: <fpage>353</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">14872476</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="bcp12929-cit-0024">
+<string-name>
+<surname>Elewski</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Leonardi</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gottlieb</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Strober</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Simiens</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Dunn</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jahreis</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Comparison of clinical and pharmacokinetic profiles of etanercept 25 mg twice weekly and 50 mg once weekly in patients with psoriasis</article-title>. <source>Br J Dermatol</source>
+<year>2007</year>; <volume>156</volume>: <fpage>138</fpage>&#x02013;<lpage>42</lpage>.<pub-id pub-id-type="pmid">17199580</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="bcp12929-cit-0025">
+<string-name>
+<surname>Gu</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>KS</given-names>
+</string-name>. <article-title>Comparative pharmacokinetics and tolerability of branded etanercept (25 mg) and its biosimilar (25 mg): a randomized, open&#x02010;label, single&#x02010;dose, two&#x02010;sequence, crossover study in healthy Korean male volunteers</article-title>. <source>Clin Ther</source>
+<year>2011</year>; <volume>33</volume>: <fpage>2029</fpage>&#x02013;<lpage>37</lpage>.<pub-id pub-id-type="pmid">22088414</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="bcp12929-cit-0026">
+<string-name>
+<surname>Yi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Yoon</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>JY</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Shin</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>KS</given-names>
+</string-name>. <article-title>Comparative pharmacokinetics of HD203, a biosimilar of etanercept, with marketed etanercept (Enbrel&#x000ae;): a double&#x02010;blind, single&#x02010;dose, crossover study in healthy volunteers</article-title>. <source>BioDrugs</source>
+<year>2012</year>; <volume>26</volume>: <fpage>177</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">22515513</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="bcp12929-cit-0027">
+<string-name>
+<surname>Ring</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Morris</surname>
+<given-names>TB</given-names>
+</string-name>, <string-name>
+<surname>Hohl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Schall</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Indirect bioequivalence assessment using network meta&#x02010;analyses</article-title>. <source>Eur J Clin Pharmacol</source>
+<year>2014</year>; <volume>70</volume>: <fpage>947</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">24838637</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="bcp12929-cit-0028">
+<string-name>
+<surname>Emery</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vencovsk&#x000fd;</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sylwestrzak</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Leszczy&#x00144;ski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Porawska</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Baranauskaite</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tseluyko</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Zhdan</surname>
+<given-names>VM</given-names>
+</string-name>, <string-name>
+<surname>Stasiuk</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Milasiene</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Rodriguez</surname>
+<given-names>AAB</given-names>
+</string-name>, <string-name>
+<surname>Cheong</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Ghil</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>A phase III randomised, double&#x02010;blind, parallel&#x02010;group study comparing SB4 with etanercept reference product in patients with active rheumatoid arthritis despite methotrexate therapy</article-title>. <source>Ann Rheum Dis</source>
+<year>2015</year>; (epub ahead of print).</mixed-citation></ref><ref id="bcp12929-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="bcp12929-cit-0029">
+<string-name>
+<surname>Singh</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Impact of product&#x02010;related factors on immunogenicity of biotherapeutics</article-title>. <source>J Pharm Sci</source>
+<year>2011</year>; <volume>100</volume>: <fpage>354</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">20740683</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="bcp12929-cit-0030">
+<string-name>
+<surname>Hermeling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Crommelin</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Schellekens</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jiskoot</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>Structure&#x02013;immunogenicity relationships of therapeutic proteins</article-title>. <source>Pharm Res</source>
+<year>2004</year>; <volume>21</volume>: <fpage>897</fpage>&#x02013;<lpage>903</lpage>.<pub-id pub-id-type="pmid">15212151</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="bcp12929-cit-0031">
+<string-name>
+<surname>Rosenberg</surname>
+<given-names>AS</given-names>
+</string-name>. <article-title>Effects of protein aggregates: an immunologic perspective</article-title>. <source>AAPS J</source>
+<year>2006</year>; <volume>8</volume>: <fpage>E501</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">17025268</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="bcp12929-cit-0032">
+<string-name>
+<surname>Noguchi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Mukuria</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Naiki</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Immunogenicity of N&#x02010;glycolylneuraminic acid&#x02010;containing carbohydrate chains of recombinant human erythropoietin expressed in Chinese hamster ovary cells</article-title>. <source>J Biochem</source>
+<year>1995</year>; <volume>117</volume>: <fpage>59</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">7539788</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="bcp12929-cit-0033">
+<string-name>
+<surname>Sheeley</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Merrill</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Taylor</surname>
+<given-names>LC</given-names>
+</string-name>. <article-title>Characterization of monoclonal antibody glycosylation: comparison of expression systems and identification of terminal alpha&#x02010;linked galactose</article-title>. <source>Anal Biochem</source>
+<year>1997</year>; <volume>247</volume>: <fpage>102</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">9126378</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="bcp12929-cit-0034">
+<string-name>
+<surname>Qian</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yang</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Daus</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Crowley</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Q</given-names>
+</string-name>. <article-title>Structural characterization of N&#x02010;linked oligosaccharides on monoclonal antibody cetuximab by the combination of orthogonal matrix&#x02010;assisted laser desorption/ionization hybrid quadrupole&#x02013;quadrupole time&#x02010;of&#x02010;flight tandem mass spectrometry and sequential enzymatic digestion</article-title>. <source>Anal Biochem</source>
+<year>2007</year>; <volume>364</volume>: <fpage>8</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">17362871</pub-id></mixed-citation></ref><ref id="bcp12929-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="bcp12929-cit-0035">
+<string-name>
+<surname>Flynn</surname>
+<given-names>GC</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>YD</given-names>
+</string-name>, <string-name>
+<surname>Shah</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Naturally occurring glycan forms of human immunoglobulins G1 and G2</article-title>. <source>Mol Immunol</source>
+<year>2010</year>; <volume>47</volume>: <fpage>2074</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">20444501</pub-id></mixed-citation></ref></ref-list></back></article>

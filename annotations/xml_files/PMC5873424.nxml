@@ -1,0 +1,597 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Geriatr Psychiatry</journal-id><journal-id journal-id-type="iso-abbrev">Int J Geriatr Psychiatry</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1099-1166</journal-id><journal-id journal-id-type="publisher-id">GPS</journal-id><journal-title-group><journal-title>International Journal of Geriatric Psychiatry</journal-title></journal-title-group><issn pub-type="ppub">0885-6230</issn><issn pub-type="epub">1099-1166</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29282768</article-id><article-id pub-id-type="pmc">5873424</article-id><article-id pub-id-type="doi">10.1002/gps.4839</article-id><article-id pub-id-type="publisher-id">GPS4839</article-id><article-id pub-id-type="other">GPS-17-0343.R1</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject></subj-group></article-categories><title-group><article-title>Effects of pain treatment on sleep in nursing home patients with dementia and depression: A multicenter placebo&#x02010;controlled randomized clinical trial</article-title><alt-title alt-title-type="left-running-head">Blytt et al.</alt-title></title-group><contrib-group><contrib id="gps4839-cr-0001" contrib-type="author" corresp="yes"><name><surname>Blytt</surname><given-names>Kjersti Marie</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-3074-7343</contrib-id><address><email>kjersti.blytt@uib.no</email></address><xref ref-type="aff" rid="gps4839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="gps4839-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="gps4839-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="gps4839-cr-0002" contrib-type="author"><name><surname>Bjorvatn</surname><given-names>Bj&#x000f8;rn</given-names></name><xref ref-type="aff" rid="gps4839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="gps4839-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="gps4839-cr-0003" contrib-type="author"><name><surname>Husebo</surname><given-names>Bettina</given-names></name><xref ref-type="aff" rid="gps4839-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="gps4839-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="gps4839-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="gps4839-cr-0004" contrib-type="author"><name><surname>Flo</surname><given-names>Elisabeth</given-names></name><xref ref-type="aff" rid="gps4839-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="gps4839-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Global Public Health and Primary Care</named-content>
+<institution>University of Bergen</institution>
+<named-content content-type="city">Bergen</named-content>
+<country country="NO">Norway</country>
+</aff><aff id="gps4839-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Centre for Elderly and Nursing Home Medicine</named-content>
+<institution>University of Bergen</institution>
+<named-content content-type="city">Bergen</named-content>
+<country country="NO">Norway</country>
+</aff><aff id="gps4839-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Norwegian Competence Centre for Sleep Disorders</named-content>
+<institution>Haukeland University Hospital</institution>
+<named-content content-type="city">Bergen</named-content>
+<country country="NO">Norway</country>
+</aff><aff id="gps4839-aff-0004" content-type="private-address">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Department of Nursing Home Medicine</named-content>
+<institution>Municipality of Bergen</institution>
+<named-content content-type="city">Bergen</named-content>
+<country country="NO">Norway</country>
+</aff><aff id="gps4839-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Faculty of Psychology, Department of Clinical Psychology</named-content>
+<institution>University of Bergen</institution>
+<named-content content-type="city">Bergen</named-content>
+<country country="NO">Norway</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Kjersti Marie Blytt, Haukeland University Hospital, PO Box 1400, 5021 Bergen, Norway.<break/>
+Email: <email>kjersti.blytt@uib.no</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>28</day><month>12</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2018</year></pub-date><volume>33</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/gps.v33.4</issue-id><fpage>663</fpage><lpage>670</lpage><history><date date-type="received"><day>20</day><month>8</month><year>2017</year></date><date date-type="accepted"><day>21</day><month>11</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 John Wiley & Sons, Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. <italic>International Journal of Geriatric Psychiatry</italic> Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:GPS-33-663.pdf"/><abstract><sec id="gps4839-sec-0001"><title>Objective</title><p>To investigate the effects of pain treatment on sleep in nursing home (NH) patients with dementia and depression.</p></sec><sec id="gps4839-sec-0002"><title>Methods</title><p>A multicenter, 2&#x02010;armed, double&#x02010;blinded, placebo&#x02010;controlled, randomized clinical trial conducted between August 2014 and September 2016. One hundred six long&#x02010;term patients from 47 NHs in Norway with dementia and depression according to the <styled-content style="italic-in-any-context">Mini&#x02010;Mental State Examination</styled-content> and the <styled-content style="italic-in-any-context">Cornell Scale for Depression in Dementia</styled-content> were included. Patients received stepwise pain treatment in which those who did not use analgesics were randomized to receive either paracetamol (3&#x000a0;g/day) or placebo tablets; those who already used pain treatment were allocated to buprenorphine transdermal system (max. 10&#x000a0;&#x003bc;g/h/7&#x000a0;days) or placebo transdermal patches. Sleep was assessed continuously for 14&#x000a0;days by actigraphy, 1&#x000a0;week of baseline measurement, and 1&#x000a0;week of ongoing treatment. The following sleep parameters were evaluated: total sleep time, sleep efficiency (SE), sleep onset latency (SOL), wake after sleep onset, early morning awakening (EMA), and number of wake bouts.</p></sec><sec id="gps4839-sec-0003"><title>Results</title><p>In the intervention group (paracetamol/buprenorphine), SE (70%&#x02010;72%), SOL (32&#x02010;24&#x000a0;min), and EMA (50&#x02010;40&#x000a0;min) improved compared with the control group (SE, 70%&#x02010;67%; SOL, 47&#x02010;60&#x000a0;min; EMA, 31&#x02010;35&#x000a0;min). Treatment effects were significant (<styled-content style="italic-in-any-context">P</styled-content>&#x000a0;&#x0003c;&#x000a0;.01, <styled-content style="italic-in-any-context">P</styled-content>&#x000a0;&#x0003c;&#x000a0;.05, and <styled-content style="italic-in-any-context">P</styled-content>&#x000a0;&#x0003c;&#x000a0;.05, respectively).</p></sec><sec id="gps4839-sec-0004"><title>Conclusion</title><p>Compared with placebo, pain treatment improved sleep as measured with actigraphy. This implies that sleep, pain, and depression in NH patients should be critically evaluated and that pain treatment should be considered to be a potentially beneficial treatment.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="gps4839-kwd-0001">actigraphy</kwd><kwd id="gps4839-kwd-0002">dementia</kwd><kwd id="gps4839-kwd-0003">depression</kwd><kwd id="gps4839-kwd-0004">nursing home</kwd><kwd id="gps4839-kwd-0005">pain treatment</kwd><kwd id="gps4839-kwd-0006">sleep</kwd></kwd-group><funding-group><award-group><funding-source>Western Norway Regional Health Authority</funding-source></award-group><award-group><funding-source>Research Council of Norway</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="5"/><page-count count="8"/><word-count count="3633"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>gps4839</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.3 mode:remove_FC converted:28.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="gps4839-cit-0001">
+<string-name>
+<surname>Blytt</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Bjorvatn</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Husebo</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Flo</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Effects of pain treatment on sleep in nursing home patients with dementia and depression: A multicenter placebo&#x02010;controlled randomized clinical trial</article-title>. <source>Int J Geriatr Psychiatry</source>. <year>2018</year>;<volume>33</volume>:<fpage>663</fpage>&#x02013;<lpage>670</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1002/gps.4839">https://doi.org/10.1002/gps.4839</ext-link>
+<pub-id pub-id-type="pmid">29282768</pub-id></mixed-citation>
+</p></notes></front><body><sec id="gps4839-sec-0007"><label>1</label><title>INTRODUCTION</title><p>Approximately 60% of nursing home (NH) patients experience nightime sleep disturbances,<xref rid="gps4839-bib-0001" ref-type="ref">1</xref>, <xref rid="gps4839-bib-0002" ref-type="ref">2</xref> and 50 to 80% of NH patients have dementia.<xref rid="gps4839-bib-0003" ref-type="ref">3</xref>, <xref rid="gps4839-bib-0004" ref-type="ref">4</xref>, <xref rid="gps4839-bib-0005" ref-type="ref">5</xref> Previous studies have reported that NH patients with dementia have more disturbed nightime sleep compared with NH patients without dementia.<xref rid="gps4839-bib-0006" ref-type="ref">6</xref> The capacity to maintain either sleep or wakefulness is further impaired as dementia progresses.<xref rid="gps4839-bib-0006" ref-type="ref">6</xref> Sleep disturbances among NH patients can be attributed to medical disorders, polypharmacy,<xref rid="gps4839-bib-0007" ref-type="ref">7</xref> pain,<xref rid="gps4839-bib-0008" ref-type="ref">8</xref>, <xref rid="gps4839-bib-0009" ref-type="ref">9</xref> and depression.<xref rid="gps4839-bib-0002" ref-type="ref">2</xref>, <xref rid="gps4839-bib-0010" ref-type="ref">10</xref> Sleep disturbances in this population may have serious consequences, as they increase the risk of falls<xref rid="gps4839-bib-0011" ref-type="ref">11</xref> and hip fractures,<xref rid="gps4839-bib-0012" ref-type="ref">12</xref>, <xref rid="gps4839-bib-0013" ref-type="ref">13</xref> decrease survival,<xref rid="gps4839-bib-0014" ref-type="ref">14</xref> and impair daytime functioning (eg, reduced memory, concentration, reaction time, and loss of autonomy).<xref rid="gps4839-bib-0015" ref-type="ref">15</xref>
+</p><p>Studies indicate that approximately 20 to 30% of NH patients have depression.<xref rid="gps4839-bib-0016" ref-type="ref">16</xref> The close interrelation between pain and depression is often referred to as the pain&#x02010;depression dyad.<xref rid="gps4839-bib-0017" ref-type="ref">17</xref> This implies that both conditions share common signal pathways and neurotransmitters and that they are responsive to comparable treatments.<xref rid="gps4839-bib-0017" ref-type="ref">17</xref> Depression is also associated with sleep disturbances, especially among people with cognitive impairment.<xref rid="gps4839-bib-0018" ref-type="ref">18</xref>, <xref rid="gps4839-bib-0019" ref-type="ref">19</xref> Previous research suggests overlapping neural networks for depression, sleep disturbance, and dementia.<xref rid="gps4839-bib-0020" ref-type="ref">20</xref> Among various neuropsychiatric symptoms, sleep and depressive symptoms are often considered to coincide as a &#x0201c;mood&#x02010;cluster.&#x0201d;<xref rid="gps4839-bib-0021" ref-type="ref">21</xref>
+</p><p>Pain represents an important cause of poor sleep for people with and without dementia.<xref rid="gps4839-bib-0022" ref-type="ref">22</xref> Previous studies indicate that there is a bidirectional relationship between pain and sleep disturbances.<xref rid="gps4839-bib-0023" ref-type="ref">23</xref> Approximately 60% of NH patients experience pain every day.<xref rid="gps4839-bib-0024" ref-type="ref">24</xref> The prevalence may vary, however, as pain can be difficult to evaluate in people with dementia, who have reduced ability to describe their symptoms. It is therefore important that NH staff seek to identify pain through appropriate methods<xref rid="gps4839-bib-0025" ref-type="ref">25</xref> and exclude pain as a factor contributing to sleep disturbances before prescribing sleep medications. Overall, the presence of pain, dementia, and depression, together with sleep disturbances, may lead to a downward spiral regarding health and well&#x02010;being.<xref rid="gps4839-bib-0015" ref-type="ref">15</xref>, <xref rid="gps4839-bib-0019" ref-type="ref">19</xref>
+</p><p>In a cluster&#x02010;randomized clinical trial conducted by Husebo et al,<xref rid="gps4839-bib-0026" ref-type="ref">26</xref> a stepwise protocol of treating pain was found to improve mood, sleep, and depression in people with dementia and agitation. The study did, however, not include objective sleep measurements and was not placebo&#x02010;controlled. Consequently, the aim of the present study was to investigate the effect of pain treatment on sleep in NH patients with dementia and depression in a placebo&#x02010;controlled randomized clinical trial with objective sleep measurements.</p><p>We hypothesized that pain treatment would improve total sleep time (TST), sleep efficiency (SE), sleep onset latency (SOL), waking after sleep onset, early morning awakening (EMA), and number of bouts awake. In addition, we conducted several subgroup analyses. In 1 subgroup analysis, the aim was to investigate the effects of pain treatment on different sleep outcomes for patients with poor sleep at baseline, defined as SE&#x000a0;&#x0003c;&#x000a0;85%. In a second analysis, the aim was to investigate if pain treatment improved sleep more in patients who were in pain at baseline, defined as Mobilization&#x02010;Observation&#x02010;Behaviour&#x02010;Intensity&#x02010;Dementia&#x02010;2 Pain Scale (MOBID&#x02010;2) score&#x000a0;&#x02265;&#x000a0;3. In a final analysis, we aimed to investigate if there were any differences within the active treatment group, ie, between patients receiving active buprenorphine and active placebo, respectively.</p><sec sec-type="opening-section" id="gps4839-sec-0005"><boxed-text position="float" content-type="box" id="gps4839-blk-0001" orientation="portrait"><caption><title>Key points</title></caption><p>
+<list list-type="bullet" id="gps4839-list-0001"><list-item id="gps4839-li-0001"><p>Sleep disturbances are very common among people with dementia.</p></list-item><list-item id="gps4839-li-0002"><p>Compared with placebo, pain treatment improved sleep in NH patients with dementia and depression, as measured by actigraphy.</p></list-item><list-item id="gps4839-li-0003"><p>Sleep, pain, and depression in NH patients should be evaluated systematically, and pain treatment should be considered as a potentially beneficial treatment.</p></list-item></list>
+</p></boxed-text></sec></sec><sec id="gps4839-sec-0008"><label>2</label><title>METHODS</title><p>This study used data collected in the period from 1&#x000a0;week before the intervention until 1&#x000a0;week after the intervention. The study is part of a 13&#x02010;week, multicenter, parallel&#x02010;group, double&#x02010;blind, placebo&#x02010;controlled randomized trial: &#x0201c;Efficacy of Pain Treatment on Depression in Patients with Dementia&#x02014;A Randomized Clinical Trial of Efficacy: DEP.PAIN.DEM.&#x0201d; The study was conducted in Norway from August 2014 to September 2016.</p><p>The NHs were located in 11 municipalities in both urban and rural areas and both larger and smaller Norwegian towns. Data collection was conducted by 2 researchers, who recruited NHs through direct contact with NH management. Inclusion and exclusion criteria are listed in Table&#x000a0;<xref rid="gps4839-tbl-0001" ref-type="table-wrap">1</xref>. At the participating NHs, the researchers were granted access to patient medical records to perform prescreening. In cases where no recent (&#x0003c;14&#x000a0;days old) blood analyses (electrolytes, hemoglobin, serum creatinine, and serum alanine aminotransferase) were available, new analyses were requisitioned. Patients who were not excluded in the medical record review were screened for depression by using the Cornell Scale for Depression in Dementia (CSDD)<xref rid="gps4839-bib-0027" ref-type="ref">27</xref> and for dementia by using the Mini&#x02010;Mental State Examination (MMSE).<xref rid="gps4839-bib-0028" ref-type="ref">28</xref> If the inclusion criteria (CSDD&#x000a0;&#x02265;&#x000a0;8 and MMSE&#x000a0;&#x0003c;&#x000a0;20) were fulfilled, the patient was reassessed after written consent had been given. A drop from &#x02265;8 to &#x02265;6 in CSDD was permitted between screening and baseline. If a patient fulfilled all of the inclusion criteria and none of the exclusion criteria, and inclusion and study treatment were approved by the physician responsible for the patient, the patient was enrolled in the study (see the flow chart in Figure&#x000a0;<xref rid="gps4839-fig-0001" ref-type="fig">1</xref> for an overview of enrolment and reasons for exclusion).</p><table-wrap id="gps4839-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Inclusion and exclusion criteria in the actigraphy subproject</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Inclusion Criteria</th><th align="left" valign="bottom" rowspan="1" colspan="1">Age&#x000a0;&#x02265;&#x000a0;60&#x000a0;years</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Long&#x02010;term nursing home placement with &#x0003e;4&#x02010;week stay</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Dementia (MMSE&#x000a0;&#x02264;&#x000a0;20)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Depression (CSDD&#x000a0;&#x02265;&#x000a0;8, &#x0003e;3&#x02010;week duration)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Exclusion criteria</td><td align="left" valign="top" rowspan="1" colspan="1">Life expectancy&#x000a0;&#x0003c;&#x000a0;6&#x000a0;months</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Severe medical disease that could interfere with study participation</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Severe liver and/or renal impairment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Anemia (Hb&#x000a0;&#x0003c;&#x000a0;8.5&#x000a0;mmol/L) or electrolyte imbalance (Na+ and K+)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Suicide risk (any attempts during the last year)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">History of severe psychiatric disease prior to dementia onset</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Severe aggression (NPI&#x02010;NH aggression item score&#x000a0;&#x02265;&#x000a0;8, with aggression as the predominant symptom)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Severe pain (MOBID&#x02010;2&#x000a0;&#x02265;&#x000a0;7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Uncontrolled epilepsy</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Contraindication or clinically significant drug interaction to the assigned study treatment</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Change in psychotropic drugs</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Regular use of any opioid analgesic other than, or exceeding, buprenorphine 5&#x000a0;mcg/h</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Did not want to wear an actigraph</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Immobile patients (paralysis, or otherwise bedridden)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Patients with involuntary movement (eg, Parkinson disease)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">Less than 5 nights of actigraphy recordings</td></tr></tbody></table><table-wrap-foot><fn id="gps4839-note-0001"><p>Abbreviations: CSDD indicates Cornell Scale for Depression in Dementia; MMSE, Mini&#x02010;Mental State Examination; MOBID&#x02010;2, Mobilization&#x02010;Observation&#x02010;Behaviour&#x02010;Intensity&#x02010;Dementia&#x02010;2 Pain Scale; NPI&#x02010;NH, Neuropsychiatric Inventory&#x02010;Nursing Home Version.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="gps4839-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Flow chart screening and inclusion</p></caption><graphic id="nlm-graphic-1" xlink:href="GPS-33-663-g001"/></fig><p>A fixed&#x02010;dose regimen was used in the study period. The patients were offered a 1&#x02010;g tablet/placebo at breakfast, lunch, and supper (8&#x000a0;a.m. noon and 6&#x000a0;p.m.). The patients received a stepwise pain treatment, in which those who were taking paracetamol &#x02264;1&#x000a0;g/day prior to inclusion were allocated to paracetamol tablets/placebo tablets. The study treatment was prescribed in addition to the basic dose. Patients who were taking nonopioid analgesics/paracetamol &#x0003e;1&#x000a0;g/day, and/or NSAID/buprenorphine, but had difficulty with swallowing tablets were assigned to the buprenorphine/placebo transdermal system. In line with the administrative guidelines, the buprenorphine transdermal patch/placebo patch was changed on a fixed day every week. For patients who were taking buprenorphine transdermal 5&#x000a0;&#x003bc;g/h prior to inclusion, the study treatment was given as an additional 5&#x02010;&#x003bc;g/h transdermal patch (active or placebo). After inclusion, all patients continued their usual medical treatment (including any regular or &#x0201c;as needed&#x0201d; [PRN] analgesic). To ensure stability and control in the study, the clinicians were advised to keep doses of psychotropic and analgesic drugs unchanged during the study period. If any clinical changes occurred, eg, new conditions or injuries, they were to be treated adequately. All withdrawals and reasons were registered.</p><p>All sleep&#x02010;related outcomes were assessed with Actiwatch Spectrum (Philips Respironics). Activity was registered continuously for 14 consecutive days, during which the intervention started on day 8. Data were thus recorded for all sleep parameters for duration of 1&#x000a0;week before and 1&#x000a0;week after the study treatment commenced. The actigraphs were placed on the dominant/mobile wrist. To enable better scoring of the patients' actual time spent in bed, the NH staff were instructed (verbally and written) to register bedtimes and rising times by pushing the event button on the actigraph (light off/lights on).</p><p>The Actiware 6 (Respironics) was used for sleep scoring. Sensitivity was set to medium, and sleep/waking status was determined for each 1&#x02010;minute epoch. A trained technician scored all the activity protocols. A standardized hierarchical approach was used to set rest intervals for the actigraphy data, using (1) event markers when possible, or (2) light and activity data, or (3) light or activity data. Alternatives 2 and 3 were only implemented if there was a clear differentiation between active and rest periods; if not, the actigraphy protocol was excluded.</p><p>Depression was assessed by using the validated CSDD. The CSDD consists of 19 items measuring 5 domains of depression (mood, behavioral disturbances, physical signs, cyclic functions, and ideational disturbances). A cut&#x02010;off point of 8/9 has demonstrated the best accuracy for diagnosing depression according to the International Statistical Classification of Diseases and Related Health Problems 10th Edition criteria.<xref rid="gps4839-bib-0027" ref-type="ref">27</xref> The assessment was conducted by using only information provided by NH staff members who knew the resident very well.</p><p>Pain was assessed by the MOBID&#x02010;2, a validated staff&#x02010;administered instrument for measuring pain in people with advanced dementia.<xref rid="gps4839-bib-0025" ref-type="ref">25</xref> The instrument provides a total score based on all of the observations ranging from 0 to 10, where 10 represents the worst possible pain.<xref rid="gps4839-bib-0025" ref-type="ref">25</xref> A score of &#x02265;3 has been used as a cut&#x02010;off to indicate clinically relevant pain.<xref rid="gps4839-bib-0025" ref-type="ref">25</xref>
+</p><p>Cognitive function was assessed by using the validated MMSE.<xref rid="gps4839-bib-0028" ref-type="ref">28</xref> The MMSE is a brief, cognitive screening test with a 30&#x02010;point scale that consists of 20 tasks and was developed to distinguish potential dementia from normal functioning.<xref rid="gps4839-bib-0029" ref-type="ref">29</xref> Five patients started the MMSE screening and scored very poorly and subsequently withdrew from the MMSE screening. This led to missing data. For these patients, cognitive function was assessed by proxy through conversations with primary doctors and nurses as an alternative to MMSE screening.</p><p>The patients were randomly allocated to each arm in a 1:1 ratio, using computer&#x02010;generated random numbers. The randomization list was produced by a statistician, without any involvement of the research team. There was no use of stratification factors. The research team was provided with a blinded, sequential list of pack identification numbers, and the patients were consecutively assigned to the next pack number in the list upon inclusion. The study was double&#x02010;blinded, and all researchers, patients, and NH staff were masked regarding the group allocation.</p><p>Descriptive statistics were calculated for all relevant variables. Comparisons of sleep parameters pre&#x02010; and posttreatments were performed as a mixed within&#x02010;between subjects ANOVA (placebo versus active treatment and pretreatment versus posttreatment). Differences between pre&#x02010; and posttreatments within each treatment group were assessed with paired <italic>t</italic> tests for each of the experimental groups separately. Furthermore, we conducted additional 2&#x000a0;&#x000d7;&#x000a0;2 mixed within&#x02010;between subjects ANOVA analyses. One of these analyses investigated patients who had sleep disturbances at baseline, defined as SE&#x000a0;&#x0003c;&#x000a0;85%,<xref rid="gps4839-bib-0030" ref-type="ref">30</xref> and compared the effect of active and placebo treatments for those patients. A second analysis compared the effect of the treatments for a subgroup of patients whose MOBID&#x02010;2 score was &#x02265;3, ie, patients who had pain at baseline. The last analysis investigated patients in the active treatment group and thus compared the effect of active buprenorphine to that of active paracetamol. The statistical analyses were conducted by using IBM SPSS Statistics 22.</p><p>Each patient's medical decision&#x02010;making capacity was discussed with the patient's primary nurse at the NH. Attempts were made to adjust the information for patients who had reduced capacity to give consent (MMSE score from 16 to 19).<xref rid="gps4839-bib-0031" ref-type="ref">31</xref> In addition, the researchers contacted all of the eligible patients' legal guardians. If the legal guardians gave presumed consent on behalf of the patient, they received written and oral information together with a consent form that they signed and mailed back. The study was approved by the Regional Ethics Committee (REC&#x02010;West 2013/1474). The study's clinical trial number is NCT02267057.</p></sec><sec id="gps4839-sec-0009"><label>3</label><title>RESULTS</title><p>In total, 2323 patients were screened for eligibility, of whom 162 were eligible to participate as part of the broader study. The final sample of the actigraphy subproject included 106 participants (see Figure&#x000a0;<xref rid="gps4839-fig-0001" ref-type="fig">1</xref>). Of the 106 patients, 49 were randomly assigned to the placebo group and 57 to the active treatment group. In the active treatment group, 2 patients dropped out due to their reaction to the treatment. In the total sample of patients with actigraphs, the mean age was 85.5&#x000a0;years (SD&#x000a0;=&#x000a0;7.3), 76% were female, the mean CSDD score was 11.2 (SD&#x000a0;=&#x000a0;3.7), the mean MMSE score was 7.6 (SD&#x000a0;=&#x000a0;6.0), the mean MOBID&#x02010;2 score was 2.8 (SD&#x000a0;=&#x000a0;2.1), and 54.7% had a MOBID&#x02010;2 score&#x000a0;&#x02265;&#x000a0;3. Sleep characteristics pre&#x02010; and posttreatments for patients in both experimental groups, as well as the interaction effect for each sleep outcome, are shown in Table&#x000a0;<xref rid="gps4839-tbl-0002" ref-type="table-wrap">2</xref>.</p><table-wrap id="gps4839-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Within&#x02010; and between&#x02010;group effects of the placebo and active treatments on different sleep outcomes</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1"/><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Placebo Group (n&#x000a0;=&#x000a0;49)</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Active Group (n&#x000a0;=&#x000a0;55)</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Interaction Effect<xref ref-type="fn" rid="gps4839-note-0005">c</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0006">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0007">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0003">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0004">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0006">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0007">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0003">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0004">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">TST (min)</td><td align="left" valign="top" rowspan="1" colspan="1">509.9 (113.6)&#x02010;498.8 (126.5)</td><td align="left" valign="top" rowspan="1" colspan="1">.164</td><td align="left" valign="top" rowspan="1" colspan="1">0.20</td><td align="left" valign="top" rowspan="1" colspan="1">515.6 (136.7)&#x02010;526.9 (119.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.235</td><td align="left" valign="top" rowspan="1" colspan="1">0.16</td><td align="left" valign="top" rowspan="1" colspan="1">3.25</td><td align="left" valign="top" rowspan="1" colspan="1">.074</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SE (%)</td><td align="left" valign="top" rowspan="1" colspan="1">70.0 (13.1)&#x02010;67.5 (14.8)</td><td align="left" valign="top" rowspan="1" colspan="1">.036</td><td align="left" valign="top" rowspan="1" colspan="1">0.31</td><td align="left" valign="top" rowspan="1" colspan="1">69.9 (14.8)&#x02010;72.2 (12.5)</td><td align="left" valign="top" rowspan="1" colspan="1">.039</td><td align="left" valign="top" rowspan="1" colspan="1">0.29</td><td align="left" valign="top" rowspan="1" colspan="1">9.11</td><td align="left" valign="top" rowspan="1" colspan="1">.003</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SOL (min)</td><td align="left" valign="top" rowspan="1" colspan="1">47.0 (44.5)&#x02010;59.6 (80.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.187</td><td align="left" valign="top" rowspan="1" colspan="1">0.19</td><td align="left" valign="top" rowspan="1" colspan="1">31.7 (35.2)&#x02010;24.6 (28.2)</td><td align="left" valign="top" rowspan="1" colspan="1">.079</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td><td align="left" valign="top" rowspan="1" colspan="1">4.03</td><td align="left" valign="top" rowspan="1" colspan="1">.047</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">WASO (min)</td><td align="left" valign="top" rowspan="1" colspan="1">140.6 (68.3)&#x02010;143.3 (68.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.610</td><td align="left" valign="top" rowspan="1" colspan="1">0.07</td><td align="left" valign="top" rowspan="1" colspan="1">136.0 (66.7)&#x02010;134.5 (58.2)</td><td align="left" valign="top" rowspan="1" colspan="1">.800</td><td align="left" valign="top" rowspan="1" colspan="1">0.03</td><td align="left" valign="top" rowspan="1" colspan="1">0.27</td><td align="left" valign="top" rowspan="1" colspan="1">.604</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EMA (min)</td><td align="left" valign="top" rowspan="1" colspan="1">30.7 (38.9)&#x02010;35.2 (35.5)</td><td align="left" valign="top" rowspan="1" colspan="1">.268</td><td align="left" valign="top" rowspan="1" colspan="1">0.16</td><td align="left" valign="top" rowspan="1" colspan="1">50.1 (61.1)&#x02010;40.5 (37.5)</td><td align="left" valign="top" rowspan="1" colspan="1">.082</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td><td align="left" valign="top" rowspan="1" colspan="1">4.20</td><td align="left" valign="top" rowspan="1" colspan="1">.043</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NoW (no.)</td><td align="left" valign="top" rowspan="1" colspan="1">31.2 (11.6)&#x02010;30.3 (11.8)</td><td align="left" valign="top" rowspan="1" colspan="1">.404</td><td align="left" valign="top" rowspan="1" colspan="1">0.12</td><td align="left" valign="top" rowspan="1" colspan="1">30.0 (11.9)&#x02010;29.4 (13.5)</td><td align="left" valign="top" rowspan="1" colspan="1">.551</td><td align="left" valign="top" rowspan="1" colspan="1">0.08</td><td align="left" valign="top" rowspan="1" colspan="1">0.05</td><td align="left" valign="top" rowspan="1" colspan="1">.831</td></tr></tbody></table><table-wrap-foot><fn id="gps4839-note-0002"><p>
+<italic>Notes</italic>: TST indicates total sleep time; SE, sleep efficiency; SOL, sleep onset latency; WASO, waking after sleep onset; EMA, early morning awakening; NoW, number of bouts awake.</p></fn><fn id="gps4839-note-0003"><label>a</label><p>Paired <italic>t</italic> test, comparing values before and after the intervention (separate tests for the placebo group and the active group).</p></fn><fn id="gps4839-note-0004"><label>b</label><p>Effect size (Cohen's <italic>d</italic>) for paired values.</p></fn><fn id="gps4839-note-0005"><label>c</label><p>A mixed within&#x02010;between subjects 2&#x000a0;&#x000d7;&#x000a0;2 ANOVA comparing the placebo and active treatments.</p></fn><fn id="gps4839-note-0006"><label>*</label><p>
+Pre&#x000a0;=&#x000a0;&#x02212;7 to 0&#x000a0;days (baseline).</p></fn><fn id="gps4839-note-0007"><label>**</label><p>
+Post&#x000a0;=&#x000a0;1 to 7&#x000a0;days active/placebo treatment.</p></fn></table-wrap-foot></table-wrap><p>In the total sample (n&#x000a0;=&#x000a0;106), SE, SOL, and EMA all improved for the active treatment group compared with the placebo group (see Table&#x000a0;<xref rid="gps4839-tbl-0002" ref-type="table-wrap">2</xref>). The analysis of the treatment for the subgroup of patients with preexisting sleep disturbances (SE&#x000a0;&#x0003c;&#x000a0;85%) identified at baseline (n&#x000a0;=&#x000a0;89) confirmed the main effects (see Table&#x000a0;<xref rid="gps4839-tbl-0003" ref-type="table-wrap">3</xref>). In addition, TST improved significantly for the active treatment group compared with the placebo group (see Table&#x000a0;<xref rid="gps4839-tbl-0003" ref-type="table-wrap">3</xref>). Interestingly, when analyzing the effect of treatment for the subgroup of patients who experienced pain at baseline (n&#x000a0;=&#x000a0;46), we found no significant differences between active and placebo treatment for any of the sleep outcomes (see Table&#x000a0;<xref rid="gps4839-tbl-0004" ref-type="table-wrap">4</xref>). In a final analysis, we investigated if there were any differences within the active treatment group (see Table&#x000a0;<xref rid="gps4839-tbl-0005" ref-type="table-wrap">5</xref>). We found a significant increase in TST for patients who received active buprenorphine compared with those who received active paracetamol (see Table&#x000a0;<xref rid="gps4839-tbl-0005" ref-type="table-wrap">5</xref>).</p><table-wrap id="gps4839-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Effects of the placebo and active treatments on different sleep outcomes for patients with SE&#x000a0;&#x0003c;&#x000a0;85%</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1"/><th colspan="8" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Group With SE Below 85% (n&#x000a0;=&#x000a0;89)</th></tr><tr style="border-bottom:solid 1px #000000"><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Placebo Group (n&#x000a0;=&#x000a0;44)</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Active Group (n&#x000a0;=&#x000a0;45)</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Interaction Effect<xref ref-type="fn" rid="gps4839-note-0011">c</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0012">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0013">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0009">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0010">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0012">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0013">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0009">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0010">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">TST (min)</td><td align="left" valign="top" rowspan="1" colspan="1">488.8 (97.6)&#x02010;475.3 (108.1)</td><td align="left" valign="top" rowspan="1" colspan="1">.107</td><td align="left" valign="top" rowspan="1" colspan="1">0.25</td><td align="left" valign="top" rowspan="1" colspan="1">477.7 (114.6)&#x02010;497.6 (103.9)</td><td align="left" valign="top" rowspan="1" colspan="1">.065</td><td align="char" valign="top" rowspan="1" colspan="1">0.28</td><td align="char" valign="top" rowspan="1" colspan="1">6.25</td><td align="left" valign="top" rowspan="1" colspan="1">.014</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SE (%)</td><td align="left" valign="top" rowspan="1" colspan="1">67.5 (11.3)&#x02010;64.9 (13.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.049</td><td align="left" valign="top" rowspan="1" colspan="1">0.30</td><td align="left" valign="top" rowspan="1" colspan="1">65.4 (12.4)&#x02010;69.0 (10.8)</td><td align="left" valign="top" rowspan="1" colspan="1">.005</td><td align="char" valign="top" rowspan="1" colspan="1">0.44</td><td align="char" valign="top" rowspan="1" colspan="1">12.18</td><td align="left" valign="top" rowspan="1" colspan="1">.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SOL (min)</td><td align="left" valign="top" rowspan="1" colspan="1">51.9 (44.4)&#x02010;66.0 (82.4)</td><td align="left" valign="top" rowspan="1" colspan="1">.182</td><td align="left" valign="top" rowspan="1" colspan="1">0.20</td><td align="left" valign="top" rowspan="1" colspan="1">37.3 (36.5)&#x02010;28.2 (29.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.063</td><td align="char" valign="top" rowspan="1" colspan="1">0.28</td><td align="char" valign="top" rowspan="1" colspan="1">4.17</td><td align="left" valign="top" rowspan="1" colspan="1">.044</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">WASO (min)</td><td align="left" valign="top" rowspan="1" colspan="1">150.7 (63.9)&#x02010;153.5 (63.5)</td><td align="left" valign="top" rowspan="1" colspan="1">.635</td><td align="left" valign="top" rowspan="1" colspan="1">0.07</td><td align="left" valign="top" rowspan="1" colspan="1">154.4 (58.3)&#x02010;148.7 (50.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.432</td><td align="char" valign="top" rowspan="1" colspan="1">0.12</td><td align="char" valign="top" rowspan="1" colspan="1">0.83</td><td align="left" valign="top" rowspan="1" colspan="1">.363</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EMA (min)</td><td align="left" valign="top" rowspan="1" colspan="1">33.7 (40.0)&#x02010;37.2 (36.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.418</td><td align="left" valign="top" rowspan="1" colspan="1">0.12</td><td align="left" valign="top" rowspan="1" colspan="1">58.5 (64.5)&#x02010;45.6 (39.1)</td><td align="left" valign="top" rowspan="1" colspan="1">.049</td><td align="char" valign="top" rowspan="1" colspan="1">0.30</td><td align="char" valign="top" rowspan="1" colspan="1">4.51</td><td align="left" valign="top" rowspan="1" colspan="1">.036</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NoW (no.)</td><td align="left" valign="top" rowspan="1" colspan="1">31.7 (11.6)&#x02010;30.5 (11.4)</td><td align="left" valign="top" rowspan="1" colspan="1">.339</td><td align="left" valign="top" rowspan="1" colspan="1">0.15</td><td align="left" valign="top" rowspan="1" colspan="1">32.5 (10.6)&#x02010;31.5 (12.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.365</td><td align="char" valign="top" rowspan="1" colspan="1">0.14</td><td align="char" valign="top" rowspan="1" colspan="1">0.00</td><td align="left" valign="top" rowspan="1" colspan="1">.957</td></tr></tbody></table><table-wrap-foot><fn id="gps4839-note-0008"><p>
+<italic>Notes</italic>: TST indicates total sleep time; SE, sleep efficiency; SOL, sleep onset latency; WASO, waking after sleep onset; EMA, early morning awakening; NoW, number of bouts awake.</p></fn><fn id="gps4839-note-0009"><label>a</label><p>Paired <italic>t</italic> test, comparing values before and after the intervention (separate tests for the placebo group and the active group).</p></fn><fn id="gps4839-note-0010"><label>b</label><p>Effect size (Cohen's <italic>d</italic>) for paired values.</p></fn><fn id="gps4839-note-0011"><label>c</label><p>A mixed within&#x02010;between subjects 2&#x000a0;&#x000d7;&#x000a0;2 ANOVA comparing the buprenorphine and paracetamol groups for the patients with poor sleep efficiency.</p></fn><fn id="gps4839-note-0012"><label>*</label><p>
+Pre&#x000a0;=&#x000a0;&#x02212;7 to 0&#x000a0;days (baseline).</p></fn><fn id="gps4839-note-0013"><label>**</label><p>
+Post&#x000a0;=&#x000a0;1 to 7&#x000a0;days active/placebo treatment.</p></fn></table-wrap-foot></table-wrap><table-wrap id="gps4839-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Effects of the placebo and active treatments on different sleep outcomes for patients with pain (MOBID&#x02010;2&#x000a0;&#x02265;&#x000a0;3) at baseline</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="char" char="." span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1"/><th colspan="8" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Group With Pain (n&#x000a0;=&#x000a0;46)</th></tr><tr style="border-bottom:solid 1px #000000"><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Placebo Group (n&#x000a0;=&#x000a0;25)</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Active Group (n&#x000a0;=&#x000a0;21)</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Interaction Effect<xref ref-type="fn" rid="gps4839-note-0017">c</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0018">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0019">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0015">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0016">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0018">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0019">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0015">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0016">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">TST (min)</td><td align="left" valign="top" rowspan="1" colspan="1">518.3 (126.0)&#x02010;523.8 (130.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.528</td><td align="left" valign="top" rowspan="1" colspan="1">0.13</td><td align="left" valign="top" rowspan="1" colspan="1">554.4 (141.8)&#x02010;565.2 (127.8)</td><td align="left" valign="top" rowspan="1" colspan="1">.223</td><td align="left" valign="top" rowspan="1" colspan="1">0.27</td><td align="char" valign="top" rowspan="1" colspan="1">0.18</td><td align="left" valign="top" rowspan="1" colspan="1">.667</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SE (%)</td><td align="left" valign="top" rowspan="1" colspan="1">70.3 (14.9)&#x02010;69.4 (14.4)</td><td align="left" valign="top" rowspan="1" colspan="1">.330</td><td align="left" valign="top" rowspan="1" colspan="1">0.20</td><td align="left" valign="top" rowspan="1" colspan="1">74.1 (14.5)&#x02010;75.7 (13.6)</td><td align="left" valign="top" rowspan="1" colspan="1">.122</td><td align="left" valign="top" rowspan="1" colspan="1">0.35</td><td align="char" valign="top" rowspan="1" colspan="1">3.56</td><td align="left" valign="top" rowspan="1" colspan="1">.066</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SOL (min)</td><td align="left" valign="top" rowspan="1" colspan="1">42.5 (44.7)&#x02010;49.5 (66.9)</td><td align="left" valign="top" rowspan="1" colspan="1">.413</td><td align="left" valign="top" rowspan="1" colspan="1">0.17</td><td align="left" valign="top" rowspan="1" colspan="1">25.1 (26.5)&#x02010;23.0 (24.9)</td><td align="left" valign="top" rowspan="1" colspan="1">.611</td><td align="left" valign="top" rowspan="1" colspan="1">0.11</td><td align="char" valign="top" rowspan="1" colspan="1">0.84</td><td align="left" valign="top" rowspan="1" colspan="1">.362</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">WASO (min)</td><td align="left" valign="top" rowspan="1" colspan="1">137.7 (67.1)&#x02010;140.4 (75.0)</td><td align="left" valign="top" rowspan="1" colspan="1">.737</td><td align="left" valign="top" rowspan="1" colspan="1">0.07</td><td align="left" valign="top" rowspan="1" colspan="1">128.2 (73.5)&#x02010;124.7 (70.4)</td><td align="left" valign="top" rowspan="1" colspan="1">.683</td><td align="left" valign="top" rowspan="1" colspan="1">0.09</td><td align="char" valign="top" rowspan="1" colspan="1">0.28</td><td align="left" valign="top" rowspan="1" colspan="1">.595</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EMA (min)</td><td align="left" valign="top" rowspan="1" colspan="1">37.3 (51.4)&#x02010;36.7 (39.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.906</td><td align="left" valign="top" rowspan="1" colspan="1">0.02</td><td align="left" valign="top" rowspan="1" colspan="1">34.0 (36.4)&#x02010;29.9 (30.2)</td><td align="left" valign="top" rowspan="1" colspan="1">.276</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td><td align="char" valign="top" rowspan="1" colspan="1">0.34</td><td align="left" valign="top" rowspan="1" colspan="1">.559</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NoW (no.)</td><td align="left" valign="top" rowspan="1" colspan="1">31.3 (12.7)&#x02010;30.1 (13.3)</td><td align="left" valign="top" rowspan="1" colspan="1">.407</td><td align="left" valign="top" rowspan="1" colspan="1">0.17</td><td align="left" valign="top" rowspan="1" colspan="1">29.7 (14.2)&#x02010;30.5 (15.6)</td><td align="left" valign="top" rowspan="1" colspan="1">.623</td><td align="left" valign="top" rowspan="1" colspan="1">0.11</td><td align="char" valign="top" rowspan="1" colspan="1">0.88</td><td align="left" valign="top" rowspan="1" colspan="1">.351</td></tr></tbody></table><table-wrap-foot><fn id="gps4839-note-0014"><p>
+<italic>Notes</italic>: TST indicates total sleep time; SE, sleep efficiency; SOL, sleep onset latency; WASO, waking after sleep onset; EMA, early morning awakening; NoW, number of bouts awake.</p></fn><fn id="gps4839-note-0015"><label>a</label><p>Paired <italic>t</italic> test, comparing values before and after the intervention (separate tests for the placebo group and the active group).</p></fn><fn id="gps4839-note-0016"><label>b</label><p>Effect size (Cohen's <italic>d</italic>) for paired values.</p></fn><fn id="gps4839-note-0017"><label>c</label><p>A mixed within&#x02010;between subjects 2&#x000a0;&#x000d7;&#x000a0;2 ANOVA comparing the placebo and active treatments for the patients with pain (MOBID&#x02010;2 score&#x000a0;&#x02265;&#x000a0;3).</p></fn><fn id="gps4839-note-0018"><label>*</label><p>
+Pre&#x000a0;=&#x000a0;&#x02212;7 to 0&#x000a0;days (baseline).</p></fn><fn id="gps4839-note-0019"><label>**</label><p>
+Post&#x000a0;=&#x000a0;1 to 7&#x000a0;days active/placebo treatment.</p></fn></table-wrap-foot></table-wrap><table-wrap id="gps4839-tbl-0005" xml:lang="en" orientation="portrait" position="float"><label>Table 5</label><caption><p>Effects of the placebo and active treatments on different sleep outcomes for patients given active buprenorphine and paracetamol</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th rowspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" colspan="1"/><th colspan="8" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Group With Active Treatment (n&#x000a0;=&#x000a0;55)</th></tr><tr style="border-bottom:solid 1px #000000"><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Paracetamol Group (n&#x000a0;=&#x000a0;25)</th><th colspan="3" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Buprenorphine Group (n&#x000a0;=&#x000a0;30)</th><th colspan="2" style="border-bottom:solid 1px #000000" align="left" valign="bottom" rowspan="1">Interaction Effect<xref ref-type="fn" rid="gps4839-note-0023">c</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0024">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0025">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0021">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0022">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (SD) Pre<xref ref-type="fn" rid="gps4839-note-0024">*</xref>&#x02010;Post<xref ref-type="fn" rid="gps4839-note-0025">**</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="gps4839-note-0021">a</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">Effect Size<xref ref-type="fn" rid="gps4839-note-0022">b</xref>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>F</italic> Value</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">TST (min)</td><td align="left" valign="top" rowspan="1" colspan="1">531.5 (145.5)&#x02010;518.3 (131.4)</td><td align="left" valign="top" rowspan="1" colspan="1">.233</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td><td align="left" valign="top" rowspan="1" colspan="1">502.3 (129.9)&#x02010;534.0 (110.9)</td><td align="left" valign="top" rowspan="1" colspan="1">.029</td><td align="left" valign="top" rowspan="1" colspan="1">0.42</td><td align="left" valign="top" rowspan="1" colspan="1">6.176</td><td align="left" valign="top" rowspan="1" colspan="1">.016</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SE (%)</td><td align="left" valign="top" rowspan="1" colspan="1">72.2 (14.1)&#x02010;72.4 (12.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.854</td><td align="left" valign="top" rowspan="1" colspan="1">0.04</td><td align="left" valign="top" rowspan="1" colspan="1">68.0 (15.4)&#x02010;72.1 (12.6)</td><td align="left" valign="top" rowspan="1" colspan="1">.027</td><td align="left" valign="top" rowspan="1" colspan="1">0.42</td><td align="left" valign="top" rowspan="1" colspan="1">3.252</td><td align="left" valign="top" rowspan="1" colspan="1">.077</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">SOL (min)</td><td align="left" valign="top" rowspan="1" colspan="1">34.0 (35.5)&#x02010;29.0 (33.5)</td><td align="left" valign="top" rowspan="1" colspan="1">.238</td><td align="left" valign="top" rowspan="1" colspan="1">0.24</td><td align="left" valign="top" rowspan="1" colspan="1">29.8 (35.4)&#x02010;20.9 (22.8)</td><td align="left" valign="top" rowspan="1" colspan="1">.181</td><td align="left" valign="top" rowspan="1" colspan="1">0.25</td><td align="left" valign="top" rowspan="1" colspan="1">0.241</td><td align="left" valign="top" rowspan="1" colspan="1">.626</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">WASO (min)</td><td align="left" valign="top" rowspan="1" colspan="1">121.3 (63.8)&#x02010;123.6 (52.8)</td><td align="left" valign="top" rowspan="1" colspan="1">.762</td><td align="left" valign="top" rowspan="1" colspan="1">0.06</td><td align="left" valign="top" rowspan="1" colspan="1">148.3 (67.7)&#x02010;143.5 (61.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.610</td><td align="left" valign="top" rowspan="1" colspan="1">0.09</td><td align="left" valign="top" rowspan="1" colspan="1">0.333</td><td align="left" valign="top" rowspan="1" colspan="1">.566</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">EMA (min)</td><td align="left" valign="top" rowspan="1" colspan="1">42.9 (47.4)&#x02010;39.7 (39.7)</td><td align="left" valign="top" rowspan="1" colspan="1">.562</td><td align="left" valign="top" rowspan="1" colspan="1">0.12</td><td align="left" valign="top" rowspan="1" colspan="1">56.1 (70.8)&#x02010;41.2 (36.2)</td><td align="left" valign="top" rowspan="1" colspan="1">.101</td><td align="left" valign="top" rowspan="1" colspan="1">0.31</td><td align="left" valign="top" rowspan="1" colspan="1">1.173</td><td align="left" valign="top" rowspan="1" colspan="1">.284</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">NoW (no.)</td><td align="left" valign="top" rowspan="1" colspan="1">28.5 (11.8)&#x02010;28.4 (13.6)</td><td align="left" valign="top" rowspan="1" colspan="1">.969</td><td align="left" valign="top" rowspan="1" colspan="1">0.01</td><td align="left" valign="top" rowspan="1" colspan="1">31.3 (12.1)&#x02010;30.2 (13.6)</td><td align="left" valign="top" rowspan="1" colspan="1">.464</td><td align="left" valign="top" rowspan="1" colspan="1">0.14</td><td align="left" valign="top" rowspan="1" colspan="1">0.244</td><td align="left" valign="top" rowspan="1" colspan="1">.624</td></tr></tbody></table><table-wrap-foot><fn id="gps4839-note-0020"><p>
+<italic>Notes</italic>: TST indicates total sleep time; SE, sleep efficiency; SOL, sleep onset latency; WASO, waking after sleep onset; EMA, early morning awakening; NoW, number of bouts awake.</p></fn><fn id="gps4839-note-0021"><label>a</label><p>Paired <italic>t</italic> test, comparing values before and after the intervention (separate tests for the buprenorphine group and the paracetamol group).</p></fn><fn id="gps4839-note-0022"><label>b</label><p>Effect size (Cohen's <italic>d</italic>) for paired values.</p></fn><fn id="gps4839-note-0023"><label>c</label><p>A mixed within&#x02010;between subjects 2&#x000a0;&#x000d7;&#x000a0;2 ANOVA comparing the buprenorphine and paracetamol groups for the patients who received active treatment.</p></fn><fn id="gps4839-note-0024"><label>*</label><p>
+Pre&#x000a0;=&#x000a0;&#x02212;7 to 0&#x000a0;days (baseline).</p></fn><fn id="gps4839-note-0025"><label>**</label><p>
+Post&#x000a0;=&#x000a0;1 to 7&#x000a0;days active/placebo treatment.</p></fn></table-wrap-foot></table-wrap></sec><sec id="gps4839-sec-0010"><label>4</label><title>DISCUSSION</title><p>The results of the present study gave partial support to our hypotheses. The study demonstrated that active pain treatment for people with dementia and depression improved 3 central sleep parameters: SE, SOL, and EMA. When we analyzed the subgroup with poor sleep at baseline, the results were further strengthened, with an additional improvement in TST. Moreover, the group of patients who received the active buprenorphine transdermal patch had significantly longer TST compared with the active paracetamol group. However, being in pain at baseline was not associated with improved sleep after active treatment.</p><p>To the best of our knowledge, this is the first placebo&#x02010;controlled randomized clinical trial to investigate the efficacy of pain treatment on sleep among NH patients with dementia and depression. The study is of key importance for clinicians, because it provides new insight into the complex and poorly understood relationship among pain, depression, and sleep. There is a great need for such insight, because sleep disturbances are endemic among NH patients, and knowledge regarding potential treatment is essential.</p><p>Even though the underlying mechanisms of the results are unknown and the clinical value of the treatment effect is uncertain, the results indicate that pain treatment may contribute to improved sleep among some NH patients with dementia and depression. As described above, there were patients already receiving pain medication (paracetamol) prior to inclusion. However, our results suggest that some of the patients might not be adequately treated, with paracetamol alone or only with a low dose. Therefore, these patients may experience beneficial effects of stronger medication (eg, buprenorphine) or an increased dose of already prescribed medication.</p><p>Interestingly, when we conducted subgroup analyses of the patients with sleep disturbances (defined as SE&#x000a0;&#x0003c;&#x000a0;85%), we found significant improvement in TST in addition to SE, SOL, and EMA, indicating that the group of patients with poor sleep might derive greater benefit from pain treatment. Husebo et al<xref rid="gps4839-bib-0032" ref-type="ref">32</xref> found that a systematic approach to pain management significantly reduced agitation among people with dementia and agitation. In a different study, also conducted by Husebo et al,<xref rid="gps4839-bib-0026" ref-type="ref">26</xref> the results showed that mood symptoms, including depression and sleep disturbances, improved with pain treatment in the same patient group. This was partly attributed to potentially untreated pain.<xref rid="gps4839-bib-0026" ref-type="ref">26</xref>, <xref rid="gps4839-bib-0032" ref-type="ref">32</xref> Interestingly, in the present study, we found no improvements in sleep in the subgroup of patients in pain at baseline. Thus, the results do not support that the underlying mechanism is untreated pain. It should be noted that the subgroup analysis only included 21 patients with active treatment and pain according to MOBID&#x02010;2. The lack of significant differences could therefore be due to the low sample size. It is noteworthy, however, that Zanocchi et al<xref rid="gps4839-bib-0033" ref-type="ref">33</xref> found no association between sleep problems and the presence of pain, although pain intensity was associated with patients' sleep disturbances.</p><p>Furthermore, the results showed that TST increased significantly among patients who received active buprenorphine compared with patients who received active paracetamol. Because sedation is a frequently reported opioid&#x02010;associated side effect, which is more likely to occur at the onset of therapy or with dose increase,<xref rid="gps4839-bib-0034" ref-type="ref">34</xref> this may suggest an opioid&#x02010;associated sedation effect. Actigraphy only records movement, and a total lack of movement would therefore be assessed as sleep. It is not possible to examine the question of whether there is a sedation effect further with this study design.</p><p>In the present study, the NH patients wore the actigraph on the dominant or mobile wrist. This choice was made because many NH patients have limited mobility, due to medical conditions (eg, stroke or paralysis) or general fragility and inactivity. Therefore, potential activity would more likely to occur first in the dominant or mobile wrist. This implies that wearing the actigraph on the dominant wrist increases the probability of activity to be registered. There are no standards regarding the placement (dominant/nondominant wrist) of the actigraph.<xref rid="gps4839-bib-0035" ref-type="ref">35</xref> However, in prior studies on persons with dementia, the dominant wrist is most commonly used. For instance, Camargos et al<xref rid="gps4839-bib-0035" ref-type="ref">35</xref> recommended using the dominant or mobile wrist. It would, however, be valuable to assess the potential differences between measurements on the nondominant versus the dominant wrist in future research.</p><p>The results should be interpreted with caution because the study design does not allow us to assess if the improvement is of subjective value for the patient. Further research is necessary to investigate this more extensively. However, the results of this study suggest that clinicians should evaluate pain, sleep, and depression by using proper assessment tools and, based on such evaluation, consider pain treatment as potentially beneficial for patients with sleep disturbances.</p></sec><sec id="gps4839-sec-0011"><label>5</label><title>LIMITATIONS</title><p>Our study has some limitations. The use of multiple sleep&#x02010;related outcome measures is a potential study limitation, which can potentially lead to type I errors. We do not correct for multiple comparisons in our study. However, a simple Bonferroni correction would be overly conservative and would increase the risk of type II errors.<xref rid="gps4839-bib-0036" ref-type="ref">36</xref> Therefore, we urge the reader to take the lack of such correction into account in the interpretation of the findings of the study.</p><p>In actigraphy recordings, immobility of the participants marks the beginning of the sleep period. Sleep onset latency has been particularly difficult to ascertain with actigraphy, because patients may just be lying still in bed and it can be recorded as sleep.<xref rid="gps4839-bib-0037" ref-type="ref">37</xref> In addition, previous studies show that actigraphy is less precise in differentiating between sleep and wakefulness when SE is reduced.<xref rid="gps4839-bib-0037" ref-type="ref">37</xref>, <xref rid="gps4839-bib-0038" ref-type="ref">38</xref>, <xref rid="gps4839-bib-0039" ref-type="ref">39</xref> Both of these factors may lead to an overestimation of sleep.</p><p>The comprehensive combination of inclusion and exclusion criteria made it difficult to recruit patients to the study. Of the 2323 patients screened for potential eligibility, a total of 895 did not have depression according to CSDD. In addition, there has been a change in the prescription of pain medication for NH patients during the last decade that influenced inclusion. Sandvik et al<xref rid="gps4839-bib-0040" ref-type="ref">40</xref> found that analgesic drug prescription at NHs increased significantly from 2000 to 2011, and in particular the use of paracetamol and strong opioids. This impeded the inclusion of patients in the study, as a high number of patients were already taking high doses of opioids (n&#x000a0;=&#x000a0;562) and could not be included. This may have excluded some people with depression or sleep problems, who could have benefited from the study intervention. This renders the generalizability of our study questionable because our sample may not be representative for the general NH population.</p><p>Furthermore, the subgroup analysis is based on a low number of respondents, which implies that we cannot exclude type 2 errors. Another central limitation in the study is that it does not include pain assessment during the week after the intervention. As a consequence, we do not know how pain progressed after the intervention. Future research should include a larger sample of patients with pain at baseline to account for a large attrition rate and follow&#x02010;up with pain assessments after the intervention is given. A further limitation of our study was that we did not conduct a priori power analyses, which would have been beneficial for assessing if the statistical tests have sufficient power. However, our sample is similar to or larger than samples in comparable studies. The reader should, however, interpret the findings with caution, in particular for the subgroup analyses with lower sample sizes.</p></sec><sec id="gps4839-sec-0012"><label>6</label><title>CONCLUSION</title><p>Compared with placebo, pain treatment improved actigraphy&#x02010;measured sleep in NH patients with dementia and depression. This implies that sleep, pain, and depression in NH patients should be evaluated critically and that pain treatment should be considered as a potentially beneficial treatment for residents with poor sleep. Future research should focus on the underlying mechanisms and explore the subjective value of such treatment for the NH patient.</p></sec><sec id="gps4839-sec-0014"><title>CONFLICT OF INTEREST</title><p>Mundipharma International supplied the study medication, but the company did not influence the study design, data collection, analyses and interpretation of data, or final publication.</p></sec></body><back><ack id="gps4839-sec-0013"><title>ACKNOWLEDGEMENTS</title><p>We thank the patients, their relatives, and the NH staff for their willingness and motivation, which made this work possible. EF is granted by the Research Council of Norway. KMB is granted by the Western Norway Regional Health Authority. BSH would like to thank the G.C. Rieber Foundation and the Norwegian Directorate of Health for supporting our work at the Centre for Elderly and Nursing Home Medicine, University of Bergen, Norway. We would also like to thank Mundipharma International for supplying the buprenorphine transdermal and placebo patches with randomization lists and Kragero Tablet Production A/S and Anne Hovstad for production of the paracetamol and placebo tablets. We also thank Magne Solheim for generating the paracetamol/placebo randomization lists. KMB had full access to all the data in the study and takes responsibility for the integrity of the data and the accuracy of the data analyses.</p></ack><ref-list id="gps4839-bibl-0001" content-type="cited-references"><title>REFERENCES</title><ref id="gps4839-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="gps4839-cit-0002">
+<string-name>
+<surname>Neikrug</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Ancoli&#x02010;Israel</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Sleep disturbances in nursing homes</article-title>. <source>J Nutr Health Aging</source>. <year>2010</year>;<volume>14</volume>(<issue>3</issue>):<fpage>207</fpage>
+<pub-id pub-id-type="pmid">20191255</pub-id></mixed-citation></ref><ref id="gps4839-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="gps4839-cit-0003">
+<string-name>
+<surname>Ownby</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Peruyera</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Acevedo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Loewenstein</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Sevush</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Subtypes of sleep problems in patients with Alzheimer disease</article-title>. <source>Am J Geriatr Psychiatry</source>. <year>2014</year>;<volume>22</volume>(<issue>2</issue>):<fpage>148</fpage>&#x02010;<lpage>156</lpage>.<pub-id pub-id-type="pmid">23567445</pub-id></mixed-citation></ref><ref id="gps4839-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="gps4839-cit-0004">
+<string-name>
+<surname>Seitz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Purandare</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Conn</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Prevalence of psychiatric disorders among older adults in long&#x02010;term care homes: a systematic review</article-title>. <source>Int Psychogeriatr</source>. <year>2010</year>;<volume>22</volume>(<issue>07</issue>):<fpage>1025</fpage>&#x02010;<lpage>1039</lpage>.<pub-id pub-id-type="pmid">20522279</pub-id></mixed-citation></ref><ref id="gps4839-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="gps4839-cit-0005">
+<string-name>
+<surname>Blytt</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Selbaek</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Drageset</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Natvig</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name>
+<surname>Husebo</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Comorbid dementia and cancer in patients of nursing homes: secondary analyses of a cross&#x02010;sectional study</article-title>. <source>Cancer Nurs</source>. In press</mixed-citation></ref><ref id="gps4839-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="gps4839-cit-0006">
+<string-name>
+<surname>Selb&#x000e6;k</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kirkevold</surname>
+<given-names>&#x000d8;</given-names>
+</string-name>, <string-name>
+<surname>Engedal</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>The prevalence of psychiatric symptoms and behavioural disturbances and the use of psychotropic drugs in Norwegian nursing homes</article-title>. <source>Int J Geriatr Psychiatry</source>. <year>2007</year>;<volume>22</volume>(<issue>9</issue>):<fpage>843</fpage>&#x02010;<lpage>849</lpage>.<pub-id pub-id-type="pmid">17193341</pub-id></mixed-citation></ref><ref id="gps4839-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="gps4839-cit-0007">
+<string-name>
+<surname>Pat&#x02010;Horenczyk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Klauber</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Shochat</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ancoli&#x02010;Israel</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Hourly profiles of sleep and wakefulness in severely versus mild&#x02010;moderately demented nursing home patients</article-title>. <source>Aging Clin Exp Res</source>. <year>1998</year>;<volume>10</volume>(<issue>4</issue>):<fpage>308</fpage>&#x02010;<lpage>315</lpage>.</mixed-citation></ref><ref id="gps4839-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="gps4839-cit-0008">
+<string-name>
+<surname>Jokanovic</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Tan</surname>
+<given-names>EC</given-names>
+</string-name>, <string-name>
+<surname>Dooley</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Kirkpatrick</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Bell</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Prevalence and factors associated with polypharmacy in long&#x02010;term care facilities: a systematic review</article-title>. <source>J Am Med Dir Assoc</source>. <year>2015</year>;<volume>16</volume>(<issue>6</issue>):535.e1&#x02010;12. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1016/j.jamda.2015.03.003">https://doi.org/10.1016/j.jamda.2015.03.003</ext-link>.</mixed-citation></ref><ref id="gps4839-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="gps4839-cit-0009">
+<string-name>
+<surname>Flo</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bjorvatn</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Corbett</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pallesen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Husebo</surname>
+<given-names>BS</given-names>
+</string-name>. <article-title>Joint occurrence of pain and sleep disturbances in people with dementia. A systematic review</article-title>. <source>Curr Alzheimer Res</source>. <year>2017</year>;<volume>14</volume>(<issue>5</issue>):<fpage>538</fpage>&#x02010;<lpage>545</lpage>.<pub-id pub-id-type="pmid">27335036</pub-id></mixed-citation></ref><ref id="gps4839-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="gps4839-cit-0010">
+<string-name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Hayman</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Shmerling</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Bean</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Leveille</surname>
+<given-names>SG</given-names>
+</string-name>. <article-title>Characteristics of chronic pain associated with sleep difficulty in older adults: the Maintenance of Balance, Independent Living, Intellect, and Zest in the Elderly (MOBILIZE) Boston study</article-title>. <source>J Am Geriatr Soc</source>. <year>2011</year>;<volume>59</volume>:<fpage>1385</fpage>&#x02010;<lpage>1392</lpage>.<pub-id pub-id-type="pmid">21806564</pub-id></mixed-citation></ref><ref id="gps4839-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="gps4839-cit-0011">
+<string-name>
+<surname>Giron</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Forsell</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Bernsten</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Thorslund</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Winblad</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fastbom</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Sleep problems in a very old population: drug use and clinical correlates</article-title>. <source>Biol Scien Med Scien</source>. <year>2002</year>;<volume>57</volume>:<fpage>M236</fpage>&#x02010;<lpage>M240</lpage>.</mixed-citation></ref><ref id="gps4839-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="gps4839-cit-0012">
+<string-name>
+<surname>Stone</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Schneider</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Blackwell</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Impaired sleep increases the risk of falls in older woman: a prospective actigraphy study</article-title>. <source>Sleep</source>. <year>2004</year>;<volume>27</volume>:<fpage>A125</fpage>
+</mixed-citation></ref><ref id="gps4839-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="gps4839-cit-0013">
+<string-name>
+<surname>Widera</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>What's to blame for falls and fractures? Poor sleep or the sleeping medication? Comment on &#x0201c;Nonbenzodiazepine sleep medication use and hip fractures in nursing home patients&#x0201d;</article-title>. <source>JAMA Intern Med</source>. <year>2013</year>;<volume>173</volume>(<issue>9</issue>):<fpage>761</fpage>&#x02010;<lpage>762</lpage>.<pub-id pub-id-type="pmid">23459766</pub-id></mixed-citation></ref><ref id="gps4839-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="gps4839-cit-0014">
+<string-name>
+<surname>Morley</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Frailty, falls, and fractures</article-title>. <source>J Am Med Dir Assoc</source>. <year>2013</year>;<volume>14</volume>:<fpage>149</fpage>&#x02010;<lpage>151</lpage>.<pub-id pub-id-type="pmid">23375679</pub-id></mixed-citation></ref><ref id="gps4839-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="gps4839-cit-0015">
+<string-name>
+<surname>Dew</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Hoch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Buysse</surname>
+<given-names>DJ</given-names>
+</string-name>, et al. <article-title>Healthy older adults' sleep predicts all&#x02010;cause mortality at 4 to 19&#x000a0;years of follow&#x02010;up</article-title>. <source>Psychosom Med</source>. <year>2003</year>;<volume>65</volume>(<issue>1</issue>):<fpage>63</fpage>&#x02010;<lpage>73</lpage>.<pub-id pub-id-type="pmid">12554816</pub-id></mixed-citation></ref><ref id="gps4839-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="gps4839-cit-0016">
+<string-name>
+<surname>Cricco</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Simonsick</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Foley</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>The impact of insomnia on cognitive functioning in older adults</article-title>. <source>J Am Geriatr Soc</source>. <year>2001</year>;<volume>49</volume>(<issue>9</issue>):<fpage>1185</fpage>&#x02010;<lpage>1189</lpage>.<pub-id pub-id-type="pmid">11559377</pub-id></mixed-citation></ref><ref id="gps4839-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="gps4839-cit-0017">
+<string-name>
+<surname>Enache</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Winblad</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Depression in dementia: epidemiology, mechanisms, and treatment</article-title>. <source>Curr Opin Psychiatry</source>. <year>2011</year>;<volume>24</volume>:<fpage>461</fpage>&#x02010;<lpage>472</lpage>.<pub-id pub-id-type="pmid">21926624</pub-id></mixed-citation></ref><ref id="gps4839-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="gps4839-cit-0018">
+<string-name>
+<surname>Chopra</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Arora</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>An intricate relationship between pain and depression: clinical correlates, coactivation factors and therapeutic targets</article-title>. <source>Expert Opin Ther Targets</source>. <year>2014</year>;<volume>18</volume>(<issue>2</issue>):<fpage>159</fpage>&#x02010;<lpage>176</lpage>.<pub-id pub-id-type="pmid">24295272</pub-id></mixed-citation></ref><ref id="gps4839-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="gps4839-cit-0019">
+<string-name>
+<surname>Potter</surname>
+<given-names>GG</given-names>
+</string-name>, <string-name>
+<surname>Steffens</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>Contribution of depression to cognitive impairment and dementia in older adults</article-title>. <source>Neurologist</source>. <year>2007</year>;<volume>13</volume>(<issue>3</issue>):<fpage>105</fpage>&#x02010;<lpage>117</lpage>.<pub-id pub-id-type="pmid">17495754</pub-id></mixed-citation></ref><ref id="gps4839-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="gps4839-cit-0020">
+<string-name>
+<surname>Ancoli&#x02010;Israel</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cooke</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>Prevalence and comorbidity of insomnia and effect on functioning in elderly populations</article-title>. <source>J Am Geriatr Soc</source>. <year>2005</year>;<volume>53</volume>(<issue>S7</issue>):<fpage>S264</fpage>&#x02010;<lpage>S271</lpage>.<pub-id pub-id-type="pmid">15982375</pub-id></mixed-citation></ref><ref id="gps4839-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="gps4839-cit-0021">
+<string-name>
+<surname>Buysse</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Reynolds</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Hoch</surname>
+<given-names>CC</given-names>
+</string-name>, et al. <article-title>Rapid eye movement sleep deprivation in elderly patients with concurrent symptoms of depression and dementia</article-title>. <source>J Neuropsychiatry Clin Neurosci</source>. <year>1991</year>;<volume>4</volume>(<issue>3</issue>):<fpage>249</fpage>&#x02010;<lpage>256</lpage>.</mixed-citation></ref><ref id="gps4839-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="gps4839-cit-0022">
+<string-name>
+<surname>Aalten</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>de Vugt</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Lousberg</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Behavioral problems in dementia: a factor analysis of the neuropsychiatric inventory</article-title>. <source>Dement Geriatr Cogn Dis</source>. <year>2003</year>;<volume>15</volume>(<issue>2</issue>):<fpage>99</fpage>&#x02010;<lpage>105</lpage>.</mixed-citation></ref><ref id="gps4839-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="gps4839-cit-0023">
+<string-name>
+<surname>Morley</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Sleep and the nursing home</article-title>. <source>J Am Med Dir Assoc</source>. <year>2015</year>;<volume>16</volume>:<fpage>539</fpage>&#x02010;<lpage>543</lpage>.<pub-id pub-id-type="pmid">26094153</pub-id></mixed-citation></ref><ref id="gps4839-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="gps4839-cit-0024">
+<string-name>
+<surname>Sivertsen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Lallukka</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Petrie</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Steingr&#x000ed;msd&#x000f3;ttir</surname>
+<given-names>&#x000d3;A</given-names>
+</string-name>, <string-name>
+<surname>Stubhaug</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Nielsen</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Sleep and pain sensitivity in adults</article-title>. <source>Pain</source>. <year>2015</year>;<volume>156</volume>(<issue>8</issue>):<fpage>1433</fpage>&#x02010;<lpage>1439</lpage>.<pub-id pub-id-type="pmid">25915149</pub-id></mixed-citation></ref><ref id="gps4839-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="gps4839-cit-0025">
+<string-name>
+<surname>Husebo</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Strand</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name>
+<surname>Moe&#x02010;Nilssen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Husebo</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Ljunggren</surname>
+<given-names>AE</given-names>
+</string-name>. <article-title>Pain in older persons with severe dementia. Psychometric properties of the Mobilization&#x02010;Observation&#x02010;Behaviour&#x02010;Intensity&#x02010;Dementia (MOBID&#x02010;2) Pain Scale in a clinical setting</article-title>. <source>Scand J Caring Sci</source>. <year>2010</year>;<volume>24</volume>(<issue>2</issue>):<fpage>380</fpage>&#x02010;<lpage>391</lpage>.<pub-id pub-id-type="pmid">20210897</pub-id></mixed-citation></ref><ref id="gps4839-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="gps4839-cit-0026">
+<string-name>
+<surname>Husebo</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Strand</surname>
+<given-names>LI</given-names>
+</string-name>, <string-name>
+<surname>Moe&#x02010;Nilssen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Husebo</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Snow</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Ljunggren</surname>
+<given-names>AE</given-names>
+</string-name>. <article-title>Mobilization&#x02010;Observation&#x02010;Behavior&#x02010;Intensity&#x02010;Dementia Pain Scale (MOBID): development and validation of a nurse&#x02010;administered pain assessment tool for use in dementia</article-title>. <source>J Pain Symptom Manage</source>. <year>2007</year>;<volume>34</volume>(<issue>1</issue>):<fpage>67</fpage>&#x02010;<lpage>80</lpage>.<pub-id pub-id-type="pmid">17509814</pub-id></mixed-citation></ref><ref id="gps4839-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="gps4839-cit-0027">
+<string-name>
+<surname>Husebo</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Ballard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fritze</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sandvik</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Efficacy of pain treatment on mood syndrome in patients with dementia: a randomized clinical trial</article-title>. <source>Int J Geriatr Psychiatry</source>. <year>2013</year>;<volume>29</volume>(<issue>8</issue>):<fpage>828</fpage>&#x02010;<lpage>836</lpage>.<pub-id pub-id-type="pmid">24806873</pub-id></mixed-citation></ref><ref id="gps4839-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="gps4839-cit-0028">
+<string-name>
+<surname>Barca</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Engedal</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Selb&#x000e6;k</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>A reliability and validity study of the Cornell scale among elderly inpatients, using various clinical criteria</article-title>. <source>Dement Geriatr Cogn Dis</source>. <year>2010</year>;<volume>29</volume>(<issue>5</issue>):<fpage>438</fpage>&#x02010;<lpage>447</lpage>.</mixed-citation></ref><ref id="gps4839-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="gps4839-cit-0029">
+<string-name>
+<surname>Tombaugh</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>McIntyre</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>The Mini&#x02010;Mental State Examination: a comprehensive review</article-title>. <source>J Am Geriatr Soc</source>. <year>1992</year>;<volume>40</volume>(<issue>9</issue>):<fpage>922</fpage>&#x02010;<lpage>935</lpage>.<pub-id pub-id-type="pmid">1512391</pub-id></mixed-citation></ref><ref id="gps4839-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="gps4839-cit-0030">
+<string-name>
+<surname>Kukull</surname>
+<given-names>WA</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>
+<given-names>EB</given-names>
+</string-name>, <string-name>
+<surname>Teri</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bowen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>McCormick</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Pfanschmidt</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>The Mini&#x02010;Mental State Examination score and the clinical diagnosis of dementia</article-title>. <source>J Clin Epidemiol</source>. <year>1994</year>;<volume>47</volume>(<issue>9</issue>):<fpage>1061</fpage>&#x02010;<lpage>1067</lpage>.<pub-id pub-id-type="pmid">7730909</pub-id></mixed-citation></ref><ref id="gps4839-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="gps4839-cit-0031">
+<string-name>
+<surname>Lacks</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Morin</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Recent advances in the assessment and treatment of insomnia</article-title>. <source>J Consult Clin Psychol</source>. <year>1992</year>;<volume>60</volume>:<fpage>586</fpage>
+<pub-id pub-id-type="pmid">1506506</pub-id></mixed-citation></ref><ref id="gps4839-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="gps4839-cit-0032">
+<string-name>
+<surname>Sessums</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Zembrzuska</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Jackson</surname>
+<given-names>JL</given-names>
+</string-name>. <article-title>Does this patient have medical decision&#x02010;making capacity?</article-title>
+<source>JAMA</source>. <year>2011</year>;<volume>306</volume>(<issue>4</issue>):<fpage>420</fpage>&#x02010;<lpage>427</lpage>.<pub-id pub-id-type="pmid">21791691</pub-id></mixed-citation></ref><ref id="gps4839-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="gps4839-cit-0033">
+<string-name>
+<surname>Husebo</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Ballard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Sandvik</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nilsen</surname>
+<given-names>OB</given-names>
+</string-name>, <string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Efficacy of treating pain to reduce behavioural disturbances in patients of nursing homes with dementia: cluster randomised clinical trial</article-title>. <source>BMJ</source>. <year>2011</year>;<volume>343</volume>:<fpage>d4065</fpage>
+<pub-id pub-id-type="pmid">21765198</pub-id></mixed-citation></ref><ref id="gps4839-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="gps4839-cit-0034">
+<string-name>
+<surname>Zanocchi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Maero</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Nicola</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Chronic pain in a sample of nursing home residents: prevalence, characteristics, influence on quality of life (QoL)</article-title>. <source>Arch Gerontol Geriatr</source>. <year>2008</year>;<volume>47</volume>:<fpage>121</fpage>&#x02010;<lpage>128</lpage>.<pub-id pub-id-type="pmid">18006088</pub-id></mixed-citation></ref><ref id="gps4839-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="gps4839-cit-0035">
+<string-name>
+<surname>McNicol</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Horowicz&#x02010;Mehler</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Fisk</surname>
+<given-names>RA</given-names>
+</string-name>, et al. <article-title>Management of opioid side effects in cancer&#x02010;related and chronic noncancer pain: a systematic review</article-title>. <source>J Pain</source>. <year>2003</year>;<volume>4</volume>(<issue>5</issue>):<fpage>231</fpage>&#x02010;<lpage>256</lpage>.<pub-id pub-id-type="pmid">14622694</pub-id></mixed-citation></ref><ref id="gps4839-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="gps4839-cit-0036">
+<string-name>
+<surname>Camargos</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Louzada</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>N&#x000f3;brega</surname>
+<given-names>OT</given-names>
+</string-name>. <article-title>Wrist actigraphy for measuring sleep in intervention studies with Alzheimer's disease patients: application, usefulness, and challenges</article-title>. <source>Sleep Med Rev</source>. <year>2013</year>;<volume>17</volume>(<issue>6</issue>):<fpage>475</fpage>&#x02010;<lpage>488</lpage>.<pub-id pub-id-type="pmid">23669093</pub-id></mixed-citation></ref><ref id="gps4839-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="gps4839-cit-0037">
+<string-name>
+<surname>Feise</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Do multiple outcome measures require p&#x02010;value adjustment?</article-title>
+<source>BMC Med Res Methodol</source>. <year>2002</year>;<volume>2</volume>(<issue>1</issue>):<fpage>8</fpage>
+<pub-id pub-id-type="pmid">12069695</pub-id></mixed-citation></ref><ref id="gps4839-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="gps4839-cit-0038">
+<string-name>
+<surname>Marino</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Rueschman</surname>
+<given-names>MN</given-names>
+</string-name>, et al. <article-title>Measuring sleep: accuracy, sensitivity, and specificity of wrist actigraphy compared to polysomnography</article-title>. <source>Sleep</source>. <year>2013</year>;<volume>36</volume>(<issue>11</issue>):<fpage>1747</fpage>&#x02010;<lpage>1755</lpage>.<pub-id pub-id-type="pmid">24179309</pub-id></mixed-citation></ref><ref id="gps4839-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="gps4839-cit-0039">
+<string-name>
+<surname>Kushida</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gadkary</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Guilleminault</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Carrillo</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Dement</surname>
+<given-names>WC</given-names>
+</string-name>. <article-title>Comparison of actigraphic, polysomnographic, and subjective assessment of sleep parameters in sleep&#x02010;disordered patients</article-title>. <source>Sleep Med</source>. <year>2001</year>;<volume>2</volume>(<issue>5</issue>):<fpage>389</fpage>&#x02010;<lpage>396</lpage>.<pub-id pub-id-type="pmid">14592388</pub-id></mixed-citation></ref><ref id="gps4839-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="gps4839-cit-0040">
+<string-name>
+<surname>Sivertsen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Omvik</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Havik</surname>
+<given-names>OE</given-names>
+</string-name>, et al. <article-title>A comparison of actigraphy and polysomnography in older adults</article-title>. <source>Sleep</source>. <year>2006</year>;<volume>29</volume>(<issue>10</issue>):<fpage>1353</fpage>&#x02010;<lpage>1358</lpage>.<pub-id pub-id-type="pmid">17068990</pub-id></mixed-citation></ref><ref id="gps4839-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="gps4839-cit-0041">
+<string-name>
+<surname>Sandvik</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Selbaek</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kirkevold</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Husebo</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Aarsland</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Analgesic prescribing patterns in Norwegian nursing homes from 2000 to 2011: trend analyses of four data samples</article-title>. <source>Age Ageing</source>. <year>2016</year>;<volume>45</volume>:<fpage>54</fpage>&#x02010;<lpage>60</lpage>.<pub-id pub-id-type="pmid">26764395</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,913 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Cachexia Sarcopenia Muscle</journal-id><journal-id journal-id-type="iso-abbrev">J Cachexia Sarcopenia Muscle</journal-id><journal-id journal-id-type="doi">10.1007/13539.2190-6009</journal-id><journal-id journal-id-type="publisher-id">JCSM</journal-id><journal-title-group><journal-title>Journal of Cachexia, Sarcopenia and Muscle</journal-title></journal-title-group><issn pub-type="ppub">2190-5991</issn><issn pub-type="epub">2190-6009</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28052593</article-id><article-id pub-id-type="pmc">5476852</article-id><article-id pub-id-type="doi">10.1002/jcsm.12172</article-id><article-id pub-id-type="publisher-id">JCSM12172</article-id><article-id pub-id-type="other">JCSM-D-16-00142</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Panoramic ultrasound: a novel and valid tool for monitoring change in muscle mass</article-title><alt-title alt-title-type="right-running-head">Panoramic ultrasound</alt-title><alt-title alt-title-type="left-running-head">J.M. Scott <italic>et al.</italic></alt-title></title-group><contrib-group><contrib id="jcsm12172-cr-0001" contrib-type="author" corresp="yes"><name><surname>Scott</surname><given-names>Jessica M.</given-names></name><address><email>jessica.m.scott@nasa.gov</email></address><xref ref-type="aff" rid="jcsm12172-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0002" contrib-type="author"><name><surname>Martin</surname><given-names>David S.</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0003" contrib-type="author"><name><surname>Ploutz&#x02010;Snyder</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0004" contrib-type="author"><name><surname>Matz</surname><given-names>Timothy</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0005" contrib-type="author"><name><surname>Caine</surname><given-names>Timothy</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0006" contrib-type="author"><name><surname>Downs</surname><given-names>Meghan</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0007" contrib-type="author"><name><surname>Hackney</surname><given-names>Kyle</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0008" contrib-type="author"><name><surname>Buxton</surname><given-names>Roxanne</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0009" contrib-type="author"><name><surname>Ryder</surname><given-names>Jeffrey W.</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcsm12172-cr-0010" contrib-type="author"><name><surname>Ploutz&#x02010;Snyder</surname><given-names>Lori</given-names></name><xref ref-type="aff" rid="jcsm12172-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jcsm12172-aff-0001"><label><sup>1</sup></label><institution>Universities Space Research Association</institution><named-content content-type="city">Houston</named-content><named-content content-type="country-part">TX</named-content><country country="US">USA</country></aff><aff id="jcsm12172-aff-0002"><label><sup>2</sup></label><institution>KBRwyle</institution><named-content content-type="city">Houston</named-content><named-content content-type="country-part">TX</named-content><country country="US">USA</country></aff><aff id="jcsm12172-aff-0003"><label><sup>3</sup></label><institution>MEI Technologies</institution><named-content content-type="city">Houston</named-content><named-content content-type="country-part">TX</named-content><country country="US">USA</country></aff><aff id="jcsm12172-aff-0004"><label><sup>4</sup></label><institution>University of Houston</institution><named-content content-type="city">Houston</named-content><named-content content-type="country-part">TX</named-content><country country="US">USA</country></aff><aff id="jcsm12172-aff-0005"><label><sup>5</sup></label><institution>North Dakota State University</institution><named-content content-type="city">Fargo</named-content><named-content content-type="country-part">ND</named-content><country country="US">USA</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence to: Jessica Scott, PhD, Exercise Physiology and Countermeasures, Mail Code SK, NASA Johnson Space Center, 2101 NASA Parkway, Houston, TX 77058, USA. Phone: 281&#x02010;483&#x02010;8398, Fax: 281&#x02010;483&#x02010;4181, Email:</italic><email>jessica.m.scott@nasa.gov</email></corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>1</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>6</month><year>2017</year></pub-date><volume>8</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/jcsm.v8.3</issue-id><fpage>475</fpage><lpage>481</lpage><history><date date-type="received"><day>20</day><month>6</month><year>2016</year></date><date date-type="rev-recd"><day>20</day><month>9</month><year>2016</year></date><date date-type="accepted"><day>02</day><month>11</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 The Authors. Published by John Wiley & Sons Ltd. on behalf of the Society on Sarcopenia, Cachexia and Wasting Disorders. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Journal of Cachexia, Sarcopenia and Muscle published by John Wiley &#x00026; Sons Ltd on behalf of the Society on Sarcopenia, Cachexia and Wasting Disorders</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JCSM-8-475.pdf"/><abstract><title>Abstract</title><sec id="jcsm12172-sec-0001"><title>Background</title><p>The strong link between reduced muscle mass and morbidity and mortality highlights the urgent need for simple techniques that can monitor change in skeletal muscle cross&#x02010;sectional area (CSA). Our objective was to examine the validity of panoramic ultrasound to detect change in quadriceps and gastrocnemius size in comparison with magnetic resonance imaging (MRI) in subjects randomized to 70&#x02009;days of bed rest (BR) with or without exercise.</p></sec><sec id="jcsm12172-sec-0002"><title>Methods</title><p>Panoramic ultrasound and MRI images of the quadriceps and gastrocnemius muscles were acquired on the right leg of 27 subjects (26 male, 1 female; age: 34.6&#x02009;&#x000b1;&#x02009;7.8&#x02009;years; body mass: 77.5&#x02009;&#x000b1;&#x02009;10.0&#x02009;kg; body mass index: 24.2&#x02009;&#x000b1;&#x02009;2.8&#x02009;kg/m<sup>2</sup>; height: 179.1&#x02009;&#x000b1;&#x02009;6.9&#x02009;cm) before (BR&#x02010;6), during (BR3, 7, 11, 15, 22, 29, 36, 53, 69), and after (BR+3, +6, +10) BR. Validity of panoramic ultrasound to detect change in muscle CSA was assessed by Bland&#x02013;Altman plots, Lin's concordance correlation coefficient (CCC), sensitivity, specificity, positive predictive value, and negative predictive value.</p></sec><sec id="jcsm12172-sec-0003"><title>Results</title><p>Six hundred ninety&#x02010;eight panoramic ultrasound CSA and 698 MRI CSA measurements were assessed. Concordance between ultrasound and MRI was excellent in the quadriceps (CCC: 0.78; <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0001), whereas there was poor concordance in the gastrocnemius (CCC: 0.37; <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0006). Compared with MRI, panoramic ultrasound demonstrated high accuracy in detecting quadriceps atrophy and hypertrophy (sensitivity: 73.7%; specificity: 74.2%) and gastrocnemius atrophy (sensitivity: 83.1%) and low accuracy in detecting gastrocnemius hypertrophy (specificity: 33.0%).</p></sec><sec id="jcsm12172-sec-0004"><title>Conclusions</title><p>Panoramic ultrasound imaging is a valid tool for monitoring quadriceps muscle atrophy and hypertrophy and for detecting gastrocnemius atrophy.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcsm12172-kwd-0001">Panoramic ultrasound</kwd><kwd id="jcsm12172-kwd-0002">Magnetic resonance imaging</kwd><kwd id="jcsm12172-kwd-0003">Hypertrophy</kwd><kwd id="jcsm12172-kwd-0004">Atrophy</kwd><kwd id="jcsm12172-kwd-0005">Disuse</kwd></kwd-group><counts><fig-count count="3"/><table-count count="1"/><page-count count="7"/><word-count count="3227"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jcsm12172</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>June 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.1 mode:remove_FC converted:20.06.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcsm12172-cit-0000">
+<string-name>
+<surname>Scott</surname>, <given-names>J. M.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>D. S.</given-names>
+</string-name>, <string-name>
+<surname>Ploutz&#x02010;Snyder</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Matz</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Caine</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Downs</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Hackney</surname>, <given-names>K.</given-names>
+</string-name>, <string-name>
+<surname>Buxton</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Ryder</surname>, <given-names>J. W.</given-names>
+</string-name>, and <string-name>
+<surname>Ploutz&#x02010;Snyder</surname>, <given-names>L.</given-names>
+</string-name> (<year>2017</year>) <article-title>Panoramic ultrasound: a novel and valid tool for monitoring change in muscle mass</article-title>. <source>Journal of Cachexia, Sarcopenia and Muscle</source>, <volume>8</volume>: <fpage>475</fpage>&#x02013;<lpage>481</lpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.1002/jcsm.12172">10.1002/jcsm.12172</ext-link>.</mixed-citation>
+</p></notes></front><body><sec id="jcsm12172-sec-0005"><title>Introduction</title><p>Muscle mass loss affects patients with chronic diseases such as cancer, heart failure, and chronic obstructive pulmonary disease and millions of apparently healthy adults over the age of 70.<xref rid="jcsm12172-bib-0001" ref-type="ref">1</xref>, <xref rid="jcsm12172-bib-0002" ref-type="ref">2</xref>, <xref rid="jcsm12172-bib-0003" ref-type="ref">3</xref>, <xref rid="jcsm12172-bib-0004" ref-type="ref">4</xref>, <xref rid="jcsm12172-bib-0005" ref-type="ref">5</xref>, <xref rid="jcsm12172-bib-0006" ref-type="ref">6</xref>, <xref rid="jcsm12172-bib-0007" ref-type="ref">7</xref> Moreover, muscle atrophy can develop independent of disease and aging through immobilization and reduced physical activity.<xref rid="jcsm12172-bib-0008" ref-type="ref">8</xref> Assessment of muscle cross&#x02010;sectional area (CSA) is used clinically to assess lean tissue mass<xref rid="jcsm12172-bib-0009" ref-type="ref">9</xref> and has been shown to independently predict survival, the risk of treatment failure, hospital re&#x02010;admission, and cancer therapy&#x02010;induced toxicity.<xref rid="jcsm12172-bib-0002" ref-type="ref">2</xref>, <xref rid="jcsm12172-bib-0003" ref-type="ref">3</xref>, <xref rid="jcsm12172-bib-0010" ref-type="ref">10</xref> Importantly, recent findings suggest that skeletal muscle measurements assessing change in muscle size over time may improve prognostication over a single time point assessment.<xref rid="jcsm12172-bib-0011" ref-type="ref">11</xref>, <xref rid="jcsm12172-bib-0012" ref-type="ref">12</xref>, <xref rid="jcsm12172-bib-0013" ref-type="ref">13</xref> The strong association between reduced muscle size and morbidity and mortality, together with the urgent need for interventions that can increase muscle size, creates a compelling rationale to examine simple techniques that can monitor bidirectional change in skeletal muscle CSA.</p><p>Current muscle mass screening and monitoring guidelines recommend the use of computerized axial tomography (CT) or magnetic resonance imaging (MRI).<xref rid="jcsm12172-bib-0014" ref-type="ref">14</xref>, <xref rid="jcsm12172-bib-0015" ref-type="ref">15</xref> Evaluation of muscle CSA with these tools requires specialized equipment and is time&#x02010;consuming and expensive, and repeated measurements with CT are not considered safe given the high radiation dose.<xref rid="jcsm12172-bib-0016" ref-type="ref">16</xref> Accordingly, complementary tools are required to efficiently monitor change in muscle CSA. Ultrasonography, like MRI, makes clear distinctions between muscle and subcutaneous fat tissues and is a technique that is safe (no ionizing radiation) and portable.<xref rid="jcsm12172-bib-0017" ref-type="ref">17</xref>, <xref rid="jcsm12172-bib-0018" ref-type="ref">18</xref> To date, although conventional ultrasound has been used to assess the thickness of small individual muscles,<xref rid="jcsm12172-bib-0019" ref-type="ref">19</xref>, <xref rid="jcsm12172-bib-0020" ref-type="ref">20</xref>, <xref rid="jcsm12172-bib-0021" ref-type="ref">21</xref> to accurately characterize and monitor change in muscle size, it is imperative to quantify the entire muscle CSA.<xref rid="jcsm12172-bib-0022" ref-type="ref">22</xref>, <xref rid="jcsm12172-bib-0023" ref-type="ref">23</xref>
+</p><p>Advances in ultrasound technology and the development of panoramic scanning allow quick and automatic construction of cross&#x02010;sectional images of muscles. Our group recently reported that panoramic ultrasound images can be reliably assessed for individual thigh and calf muscle groups and that compared with MRI, panoramic ultrasound is a valid technique to evaluate muscle CSA.<xref rid="jcsm12172-bib-0024" ref-type="ref">24</xref> However, whether panoramic ultrasound could be used to quantify muscle atrophy and/or hypertrophy is unknown. Therefore, as a prespecified substudy of a randomized trial investigating the efficacy of exercise training to mitigate bed rest (BR)&#x02010;induced deconditioning, we examined the validity of panoramic ultrasound to detect changes in quadriceps and gastrocnemius CSA in comparison with MRI in subjects undergoing 70&#x02009;days of BR with or without exercise.</p></sec><sec id="jcsm12172-sec-0006"><title>Methods</title><sec id="jcsm12172-sec-0007"><title>Subjects</title><p>Twenty&#x02010;seven subjects (26 male, 1 female; age: 34.6&#x02009;&#x000b1;&#x02009;7.8&#x02009;years; body mass: 77.5&#x02009;&#x000b1;&#x02009;10.0&#x02009;kg; body mass index (BMI): 24.2&#x02009;&#x000b1;&#x02009;2.8&#x02009;kg/m<sup>2</sup>; height: 179.1&#x02009;&#x000b1;&#x02009;6.9&#x02009;cm) completed 70&#x02009;days of BR. In brief, subjects were recruited and screened according to standard National Aeronautic and Space Administration Flight Analogs Project procedures.<xref rid="jcsm12172-bib-0025" ref-type="ref">25</xref> Briefly, subjects with a history of cardiovascular disease, a BMI outside of 21&#x02013;30, or musculoskeletal injury that could affect exercise performance or expose the subject to an increased risk of injury were excluded from the study. To simulate spaceflight, subjects were confined to 6&#x000b0; head down tilt BR for the entire 70&#x02009;days,<xref rid="jcsm12172-bib-0026" ref-type="ref">26</xref>, <xref rid="jcsm12172-bib-0027" ref-type="ref">27</xref> including personal hygiene activities. Diets were eucaloric and strictly controlled (55% carbohydrate, 30% fat, and 15% protein). Eighteen subjects were randomly assigned to exercise training, and nine remained sedentary. All study procedures were reviewed and approved by National Aeronautic and Space Administration Johnson Space Center and University of Texas Medical Branch institutional review boards. All subjects signed a written informed consent prior to the initiation of any study&#x02010;related procedures.</p></sec><sec id="jcsm12172-sec-0008"><title>General procedures</title><p>Both MRI and ultrasound images were acquired on the right leg in the morning before (BR&#x02010;6), during (BR3, 7, 11, 15, 22, 29, 36, 53, 69), and after (BR+3, +6, +10) BR. The quadriceps including vastus medialis, vastus intermedius, vastus lateralis, and rectus femoris and gastrocnemius including medial gastrocnemius and lateral gastrocnemius were assessed (<italic>Figure</italic>
+<xref rid="jcsm12172-fig-0001" ref-type="fig">1</xref>A&#x02013;1C). During both ultrasound and MRI scanning, subjects lay in a relaxed and identical position with feet strapped into a MRI&#x02010;compatible footplate.<xref rid="jcsm12172-bib-0028" ref-type="ref">28</xref> For the purposes of this investigation to compare MRI and ultrasound images, oil&#x02010;filled capsules visible on MRI images were taped to the skin at each ultrasound template slice.</p><fig fig-type="Figure" xml:lang="en" id="jcsm12172-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Sample ultrasound muscle images of one slice of (A) quadriceps, (B) gastrocnemius, and (C) ultrasound template set&#x02010;up. Images were acquired in one motion in order to capture all quadriceps muscles [vastus medialis (VM), rectus femoris (RF), vastus lateralis (VL), vastus intermedius (VI)] and both gastrocnemius muscles [gastrocnemius medialis (GM), gastrocnemius lateralis (GL)]. The femur (F) is also visible in the thigh.</p></caption><graphic id="nlm-graphic-1" xlink:href="JCSM-8-475-g001"/></fig></sec><sec id="jcsm12172-sec-0009"><title>Image acquisition</title><p>As previously described, B&#x02010;mode axial&#x02010;plane ultrasound (iE33, Phillips, USA) images were acquired with a 9&#x02009;MHz linear array probe (60&#x02009;mm width) in panoramic mode by a trained sonographer.<xref rid="jcsm12172-bib-0024" ref-type="ref">24</xref> Depending on subject leg length, one of three thighs and one of three calf templates were used (small, medium, or large). Templates consisted of five to eight 2&#x02009;cm slices with a 1&#x02009;cm gap between slices with four straps to fix the template in place and slid easily onto subjects' legs.<xref rid="jcsm12172-bib-0024" ref-type="ref">24</xref> To ensure that the ultrasound template placement was the same at each time point, the distance from the footplate to the ultrasound template was measured during the first session and reproduced at subsequent sessions. A consistent, minimal pressure was applied with the probe to the skin to avoid compression of the muscle, and transmission gel was applied to improve acoustic coupling. No visually identifiable muscle compression could be detected on the scans. Total scanning time to acquire upper and lower leg images was approximately 40&#x02009;min.</p><p>Axial spin&#x02010;echo T2&#x02010;weighted MRI images were acquired from the level of the ankle mortise to the iliac crest while subjects lay supine in a 3T scanner (Signa Horizon LX, General Electric, USA). Images of the upper and lower leg were collected by using a repetition time of 2000&#x02009;ms, echo time of 51&#x02009;ms, slice thickness of 10&#x02009;mm, and a gap between slices of 10&#x02009;mm. A matrix size of 512&#x02009;&#x000d7;&#x02009;512 was used for all scans, and the field of view was varied to maximize in&#x02010;plane resolution for each scan.</p></sec><sec id="jcsm12172-sec-0010"><title>Image analysis</title><p>MRI and ultrasound images from all subjects (ultrasound: <sc>matlab</sc>, Mathworks, USA; MRI: <sc>imagej</sc>, National Institutes of Health, USA, version 1.42) were manually traced as previously described.<xref rid="jcsm12172-bib-0018" ref-type="ref">18</xref>, <xref rid="jcsm12172-bib-0024" ref-type="ref">24</xref>, <xref rid="jcsm12172-bib-0029" ref-type="ref">29</xref> This is a highly reliable technique with inter&#x02010;experimenter reliability (coefficient of variation) of 2.4 to 4.1% and intraclass correlation coefficient of 0.963 to 0.991 for panoramic ultrasound and inter&#x02010;experimenter coefficient of variation of 2.8 to 3.8% and intraclass correlation coefficient of 0.946 to 0.986 for MRI.<xref rid="jcsm12172-bib-0024" ref-type="ref">24</xref> The average of analysed slices was used to calculate CSA.<xref rid="jcsm12172-bib-0024" ref-type="ref">24</xref>, <xref rid="jcsm12172-bib-0029" ref-type="ref">29</xref>
+</p></sec></sec><sec id="jcsm12172-sec-0011"><title>Statistical analysis</title><p>All statistical analyses were performed by using by <sc>stata, ic</sc> software (v 14.1, StataCorp LP, College Station, TX) setting two&#x02010;tailed alpha to reject the null hypothesis at 0.05. Our purpose was to compare the validity of panoramic ultrasound vs. the reference MRI for detecting change in muscle CSA; therefore, subjects' pre&#x02010;BR (BR&#x02010;6) ultrasound and MRI data were subtracted from each longitudinal measure collected during (BR3, 7, 11, 15, 22, 29, 36, 53, 69) and after (BR+3, +6, +10) BR for these analyses. Data from the two groups were combined for these analyses, thereby increasing the variability of change among the entire subject pool.</p><p>We present the results of 95% limits of agreement in Bland&#x02013;Altman plots by using bootstrapped standard error estimates to accommodate the multiple measurements within subjects. Bland&#x02013;Altman plots display the difference between MRI and ultrasound CSA measures along the <italic>Y</italic>&#x02010;axis vs. the range of the average of MRI and ultrasound observations along the <italic>X</italic>&#x02010;axis, with the average and 95% limits of agreement.<xref rid="jcsm12172-bib-0030" ref-type="ref">30</xref> The concordance in absolute change in CSA from BR&#x02010;3 measured by ultrasound and MRI was assessed by Lin's concordance correlation coefficient (CCC),<xref rid="jcsm12172-bib-0031" ref-type="ref">31</xref> also with bootstrapped standard errors to adjust for the longitudinal experimental design. A CCC value of 1 indicates perfect agreement; values &#x0003c;0.5 were considered to be poor agreement, values between 0.5 and 0.7 to be moderate agreement, and values &#x0003e;0.7 to be excellent agreement.<xref rid="jcsm12172-bib-0032" ref-type="ref">32</xref> Additionally, MRI and ultrasound change scores were dichotomized into atrophy or hypertrophy, enabling us to examine accuracy of ultrasound in assessing directional change compared with the clinical reference of MRI. Sensitivity was defined as the percent of true muscle atrophy observations (per MRI reference) that ultrasound identified; specificity was defined as the percent of true muscle hypertrophy observations that ultrasound identified. Positive predictive value was defined as the number of true atrophy (per MRI reference) cases divided by the number of ultrasound&#x02010;estimated atrophy cases, which includes true atrophy and falsely estimated atrophy observations. Negative predictive value was defined as the ratio of true hypertrophy cases divided by ultrasound&#x02010;estimated hypertrophy cases, which includes true hypertrophy and falsely estimated hypertrophy observations.</p></sec><sec id="jcsm12172-sec-0012"><title>Results</title><p>All ultrasound and MRI images were of high quality and were included in the analysis. Two subjects did not complete BR+10 testing, and one subject did not complete BR+6, resulting in analysis of 698 ultrasound CSA measurements and 698 MRI CSA measurements. Bland&#x02013;Altman analyses indicated that ultrasound and MRI measuring techniques were in close agreement for the quadriceps and gastrocnemius (<italic>Figure</italic>
+<xref rid="jcsm12172-fig-0002" ref-type="fig">2</xref>A and 2B). The mean&#x02010;of&#x02010;all difference lines were near 0, indicating no systematic deviation between the measured values of the two techniques. Furthermore, the limits of agreement indicated that 95% of all measured differences lie within 5&#x02009;cm<sup>2</sup> for the quadriceps and 3&#x02009;cm<sup>2</sup> for the gastrocnemius. There was excellent agreement between ultrasound and MRI in the quadriceps (CCC: 0.78; <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0001; <italic>Figure</italic>
+<xref rid="jcsm12172-fig-0003" ref-type="fig">3</xref>A). In contrast, there was poor agreement between ultrasound and MRI in the gastrocnemius (CCC: 0.37; <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.0006) (<italic>Figure</italic>
+<xref rid="jcsm12172-fig-0003" ref-type="fig">3</xref>B). Ultrasound demonstrated high sensitivity and specificity in the quadriceps and high sensitivity and low specificity in the gastrocnemius (<italic>Table</italic>
+<xref rid="jcsm12172-tbl-0001" ref-type="table-wrap">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jcsm12172-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Bland&#x02013;Altman plot of the difference between MRI and ultrasound measures of (A) quadriceps and (B) gastrocnemius.</p></caption><graphic id="nlm-graphic-3" xlink:href="JCSM-8-475-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="jcsm12172-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Concordance plot of the difference between MRI and ultrasound measures of (A) quadriceps and (B) gastrocnemius.</p></caption><graphic id="nlm-graphic-5" xlink:href="JCSM-8-475-g003"/></fig><table-wrap id="jcsm12172-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Sensitivity, specificity, positive predictive value, and negative predictive value of panoramic ultrasound</p></caption><table frame="hsides" rules="groups"><col width="1*" span="1"/><col width="1*" span="1"/><col width="1*" span="1"/><col width="1*" span="1"/><col width="1*" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">Sensitivity</th><th align="center" valign="bottom" rowspan="1" colspan="1">Specificity</th><th align="center" valign="bottom" rowspan="1" colspan="1">PPV</th><th align="center" valign="bottom" rowspan="1" colspan="1">NPV</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Quadriceps</td><td align="char" char="." valign="top" rowspan="1" colspan="1">73.7%</td><td align="char" char="." valign="top" rowspan="1" colspan="1">74.2%</td><td align="char" char="." valign="top" rowspan="1" colspan="1">66.7%</td><td align="char" char="." valign="top" rowspan="1" colspan="1">80.0%</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Gastrocnemius</td><td align="char" char="." valign="top" rowspan="1" colspan="1">83.1%</td><td align="char" char="." valign="top" rowspan="1" colspan="1">33.0%</td><td align="char" char="." valign="top" rowspan="1" colspan="1">72.5%</td><td align="char" char="." valign="top" rowspan="1" colspan="1">47.9%</td></tr></tbody></table><table-wrap-foot><fn id="jcsm12172-note-0001"><p>PPV, positive predictive value; NPV, negative predictive value.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jcsm12172-sec-0013"><title>Discussion</title><p>The principal new findings from this study are that panoramic ultrasound imaging is a valid tool for monitoring quadriceps muscle atrophy and hypertrophy and that panoramic imaging can be used to detect gastrocnemius atrophy. This promising tool provides, for the first time, a low&#x02010;cost, radiation&#x02010;free, and portable approach to monitoring change in leg muscle size.</p><p>Data from a growing number of studies indicate that assessing change in muscle mass may improve prognostication over a single time point assessment.<xref rid="jcsm12172-bib-0011" ref-type="ref">11</xref>, <xref rid="jcsm12172-bib-0012" ref-type="ref">12</xref>, <xref rid="jcsm12172-bib-0013" ref-type="ref">13</xref> For example, in 123 patients with ovarian cancer, Rutten <italic>et al.</italic>
+<xref rid="jcsm12172-bib-0033" ref-type="ref">33</xref> reported that a decrease in skeletal muscle mass during neoadjuvant chemotherapy was an important prognostic factor for overall survival (hazard ratio: 1.77, 95% CI: 1.02&#x02013;3.09, <italic>P</italic>&#x02009;=&#x02009;0.043), whereas a single time point assessment revealing low muscle mass did not predict overall survival. Similarly, median overall survival was significantly associated with change in muscle CSA (<italic>P</italic>&#x02009;=&#x02009;0.04), but not muscle CSA at baseline (<italic>P</italic>&#x02009;=&#x02009;0.49), in 35 patients with non&#x02010;small cell lung cancer.<xref rid="jcsm12172-bib-0013" ref-type="ref">13</xref> Thus, monitoring skeletal muscle CSA over time may be critical for improving prognostication and enabling the implementation of appropriately timed nutrition,<xref rid="jcsm12172-bib-0034" ref-type="ref">34</xref> exercise,<xref rid="jcsm12172-bib-0035" ref-type="ref">35</xref> and/or pharmacological<xref rid="jcsm12172-bib-0036" ref-type="ref">36</xref> interventions.</p><p>Evaluation of muscle CSA with current imaging techniques (i.e. dual&#x02010;energy X&#x02010;ray absorptiometry, MRI, CT) is time&#x02010;consuming, expensive, may involve exposure to low&#x02010;dose radiation, and requires large, specialized equipment.<xref rid="jcsm12172-bib-0016" ref-type="ref">16</xref> Moreover, although CT scans are often readily available for patients with cancer, the widely applied analysis of one slice at the third lumbar vertebra<xref rid="jcsm12172-bib-0016" ref-type="ref">16</xref>, <xref rid="jcsm12172-bib-0037" ref-type="ref">37</xref> may only have utility for large group comparisons<xref rid="jcsm12172-bib-0037" ref-type="ref">37</xref> and has limited applicability to functional muscle groups.<xref rid="jcsm12172-bib-0038" ref-type="ref">38</xref> Quadriceps muscle size, strength, and endurance are recognized as underlying much of the decreased exercise capacity and increased risk of morbidity and mortality in patient populations.<xref rid="jcsm12172-bib-0039" ref-type="ref">39</xref> The role of the quadriceps has also been well characterized with respect to performance of tasks of everyday living, and functionally relevant thresholds have been developed.<xref rid="jcsm12172-bib-0040" ref-type="ref">40</xref> Calf muscle size and function are also important contributors to balance, and low calf muscle size and strength are associated with disabling falls.<xref rid="jcsm12172-bib-0041" ref-type="ref">41</xref> Accordingly, quantifying change in leg muscle CSA by using a simple technique may have significant clinical utility.</p><p>Recent findings from our group,<xref rid="jcsm12172-bib-0024" ref-type="ref">24</xref> and others,<xref rid="jcsm12172-bib-0018" ref-type="ref">18</xref>, <xref rid="jcsm12172-bib-0023" ref-type="ref">23</xref>, <xref rid="jcsm12172-bib-0042" ref-type="ref">42</xref> indicate that panoramic ultrasound is a promising method to measure leg muscle CSA. Of import, all studies to date have evaluated the validity of panoramic ultrasound at one time point<xref rid="jcsm12172-bib-0023" ref-type="ref">23</xref> or assessed hypertrophy with exercise training in a single muscle.<xref rid="jcsm12172-bib-0042" ref-type="ref">42</xref> In the current study, we developed a procedure whereby repeated panoramic ultrasound measurements of quadriceps and gastrocnemius muscles could be acquired, a far more relevant measurement for both clinical and research settings.<xref rid="jcsm12172-bib-0016" ref-type="ref">16</xref> In particular, we utilized leg templates to (i) ensure precise ultrasound probe placement; (ii) assist the sonographer with maintaining a continuous medial to lateral motion thus limiting acquisition errors; (iii) acquire multiple CSA slices across the leg to decrease measurement error<xref rid="jcsm12172-bib-0043" ref-type="ref">43</xref>; and (4) allow comparison of scans over time.</p><p>Findings from the present investigation indicate that there is high concordance between MRI and panoramic ultrasound for quadriceps muscles, a finding that was not extended to the gastrocnemius. This disparity may, in part, be due to the smaller muscle size in the gastrocnemius than in the quadriceps, where a change in the smaller muscle results in a greater relative difference. We meticulously measured ultrasound template placement and acquired MRI images at anatomical landmarks; however, a 1&#x02009;mm error in placement could result in large variances in distal gastrocnemius muscle CSA. Additionally, the distal quadriceps slices were approximately 50&#x02009;cm<sup>2</sup>, and previous research has shown that the larger surface of the thigh may allow for more accurate and repeatable muscle scanning.<xref rid="jcsm12172-bib-0023" ref-type="ref">23</xref> We also examined the ability of ultrasound as a diagnostic tool to detect muscle atrophy and hypertrophy where they are defined simply as a muscle decreasing or increasing in size without regards to the magnitude of change. The calf measurement was sensitive with an 83% likelihood of correctly identifying atrophy and lower accuracy (33%) in identifying hypertrophy. For the quadriceps, a different pattern was observed: Ultrasound showed both a specificity and sensitivity of 74% suggesting that it is equally useful in identifying atrophy and hypertrophy. Thus, panoramic ultrasound is a valid and accurate tool for monitoring quadriceps muscle atrophy and hypertrophy, and it can accurately identify gastrocnemius atrophy.</p></sec><sec id="jcsm12172-sec-0014"><title>Limitations</title><p>The limitations of our study require consideration. First, our study population consisted of healthy subjects ranging from small muscle CSA to large muscle CSA; however, the ultrasound field of view in patients with a high BMI (&#x0003e;30&#x02009;kg/m<sup>2</sup>) may not be sufficient to accurately quantify leg muscle CSA. Previous studies have shown that a high amount of subcutaneous adipose tissue limits border definition.<xref rid="jcsm12172-bib-0044" ref-type="ref">44</xref>, <xref rid="jcsm12172-bib-0045" ref-type="ref">45</xref> Second, whether lower body muscle CSA assessed by ultrasound correlates to the clinical standard of whole body muscle mass or clinical outcomes is unknown. Prospective trials investigating the relationship between lower body muscle CSA and total body muscle mass across the age continuum and in clinical settings are needed. Third, the feasibility of acquiring muscle CSA in the clinical setting is unknown. However, the ultrasound templates were designed to easily don and remove, and acquisition time could be reduced by acquiring CSA of only the upper or lower leg to accommodate patient comfort. Moreover, given the importance of lower leg muscle for activities of daily living,<xref rid="jcsm12172-bib-0039" ref-type="ref">39</xref>, <xref rid="jcsm12172-bib-0040" ref-type="ref">40</xref> future research should assess whether a single slice of the mid&#x02010;quadriceps could provide incremental prognostic information beyond a single slice at the third lumbar vertebra from CT imaging. Fourth, among the compartments that can be distinguished with ultrasound are muscle and subcutaneous adipose tissue. We did not assess subcutaneous adipose tissue; future studies are required to examine the validity and reliability of analyzing subcutaneous adipose tissue with ultrasound. Finally, we assessed muscle quantity, whereas the functional capabilities of muscle are a reflection of both quantity and quality. Muscle quality may be altered as a result of muscular infiltration of non&#x02010;contractile elements such as intramuscular adipose and fibrous tissue.<xref rid="jcsm12172-bib-0046" ref-type="ref">46</xref> Several investigations have found that evaluation of muscle quality by using ultrasound echogenicity may reflect increased adipose and/or fibrous tissue within muscle<xref rid="jcsm12172-bib-0047" ref-type="ref">47</xref> and that echogenicity is related to muscle strength.<xref rid="jcsm12172-bib-0048" ref-type="ref">48</xref>, <xref rid="jcsm12172-bib-0049" ref-type="ref">49</xref> It is foreseeable that images obtained from panoramic imaging could be used to evaluate both muscle quantity and quality. Accordingly, a novel area for future work is to examine the feasibility and clinical utility of combining panoramic imaging and evaluation of echo intensity.</p></sec><sec id="jcsm12172-sec-0015"><title>Conclusions and implications for practice and research</title><p>Loss of muscle mass is a major contributor to the morbidity and mortality of numerous patient populations.<xref rid="jcsm12172-bib-0001" ref-type="ref">1</xref> As such, techniques that can monitor change in skeletal muscle size are of utmost importance. Our findings have several important implications for application and future research. First, ultrasound is a safe (no ionizing radiation) and portable technique that can be used at the bedside and in remote environments. To this end, panoramic ultrasound is currently being used to monitor leg muscle size in astronauts during long duration spaceflight, an environment where extensive muscle atrophy may occur.<xref rid="jcsm12172-bib-0050" ref-type="ref">50</xref> Second, acquisition of panoramic images is a straightforward technique that could be used at primary care centres. After several ultrasound training sessions on the ground, astronauts are adept at acquiring panoramic images in microgravity. Third, our results indicate that panoramic ultrasound imaging is a valid and feasible tool for assessing change in upper leg muscle size and that ultrasound can detect calf muscle atrophy. Additional research is required to assess applicability and feasibility of panoramic ultrasound in clinical populations. To this end, external and prospective validation of these findings in other cohorts is imperative in order to assess the utility of panoramic ultrasound to reflect whole body mass, detect change in muscle size for risk stratification, and for the design and optimization of interventions.</p></sec><sec id="jcsm12172-sec-0017"><title>Conflict of interest</title><p>None declared.</p></sec></body><back><ack id="jcsm12172-sec-0016"><title>Acknowledgements</title><p>This study was supported by the Human Research Program of the National Aeronautics and Space Administration. We thank the Flight Analogs Project for the excellent organization and coordination of the bed rest study, as well as the subjects who enthusiastically participated in the study. This work is dedicated to the memory of Timothy Caine, who enthusiastically devoted countless hours to developing the panoramic ultrasound technique. The authors certify that they comply with the ethical guidelines for authorship and publishing of the Journal of Cachexia, Sarcopenia, and Muscle.<xref rid="jcsm12172-bib-0051" ref-type="ref">51</xref>
+</p></ack><ref-list content-type="cited-references" id="jcsm12172-bibl-0001"><title>References</title><ref id="jcsm12172-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0001">
+<string-name>
+<surname>Morley</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>von Haehling</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Prevalence, incidence, and clinical impact of sarcopenia: facts, numbers, and epidemiology&#x02010;update 2014</article-title>. <source>J Cachexia Sarcopenia Muscle</source>
+<year>2014</year>;<volume>5</volume>:<fpage>253</fpage>&#x02013;<lpage>259</lpage>.<pub-id pub-id-type="pmid">25425503</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0002">
+<string-name>
+<surname>Evans</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Morley</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Argiles</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bales</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Baracos</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Guttridge</surname>
+<given-names>D</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Cachexia: a new definition</article-title>. <source>Clin Nutr</source>
+<year>2008</year>;<volume>27</volume>:<fpage>793</fpage>&#x02013;<lpage>799</lpage>.<pub-id pub-id-type="pmid">18718696</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0003">
+<string-name>
+<surname>Prado</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Baracos</surname>
+<given-names>VE</given-names>
+</string-name>, <string-name>
+<surname>McCargar</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Reiman</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mourtzakis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tonkin</surname>
+<given-names>K</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Sarcopenia as a determinant of chemotherapy toxicity and time to tumor progression in metastatic breast cancer patients receiving capecitabine treatment</article-title>. <source>Clin Cancer Res</source>
+<year>2009</year>;<volume>15</volume>:<fpage>2920</fpage>&#x02013;<lpage>2926</lpage>.<pub-id pub-id-type="pmid">19351764</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0004">
+<string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Ponikowski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Varney</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Chua</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Webb&#x02010;Peploe</surname>
+<given-names>KM</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Wasting as independent risk factor for mortality in chronic heart failure</article-title>. <source>Lancet</source>
+<year>1997</year>;<volume>349</volume>:<fpage>1050</fpage>&#x02013;<lpage>1053</lpage>.<pub-id pub-id-type="pmid">9107242</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0005">
+<string-name>
+<surname>Zhou</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Song</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kwak</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>Jiao</surname>
+<given-names>Q</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Reversal of cancer cachexia and muscle wasting by ActRIIB antagonism leads to prolonged survival</article-title>. <source>Cell</source>
+<year>2010</year>;<volume>142</volume>:<fpage>531</fpage>&#x02013;<lpage>543</lpage>.<pub-id pub-id-type="pmid">20723755</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0006">
+<string-name>
+<surname>Kim</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>KM</given-names>
+</string-name>. <article-title>Sarcopenia: definition, epidemiology, and pathophysiology</article-title>. <source>J Bone Metab</source>
+<year>2013</year>;<volume>20</volume>:<fpage>1</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">24524049</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0007">
+<string-name>
+<surname>Caron</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Debigare</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dekhuijzen</surname>
+<given-names>PN</given-names>
+</string-name>, <string-name>
+<surname>Maltais</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Comparative assessment of the quadriceps and the diaphragm in patients with COPD</article-title>. <source>J Appl Physiol</source> (1985) <year>2009</year>;<volume>107</volume>:<fpage>952</fpage>&#x02013;<lpage>961</lpage>.<pub-id pub-id-type="pmid">19359618</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0008">
+<string-name>
+<surname>Trappe</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Trappe</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Widrick</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Costill</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Fitts</surname>
+<given-names>RH</given-names>
+</string-name>. <article-title>Comparison of a space shuttle flight (STS&#x02010;78) and bed rest on human muscle function</article-title>. <source>J Appl Physiol</source>
+<year>2001</year>;<volume>91</volume>:<fpage>57</fpage>&#x02013;<lpage>64</lpage>.<pub-id pub-id-type="pmid">11408413</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0009">
+<string-name>
+<surname>Heymsfield</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Adamek</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gonzalez</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Jia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Thomas</surname>
+<given-names>DM</given-names>
+</string-name>. <article-title>Assessing skeletal muscle mass: historical overview and state of the art</article-title>. <source>J Cachexia Sarcopenia Muscle</source>
+<year>2014</year>;<volume>5</volume>:<fpage>9</fpage>&#x02013;<lpage>18</lpage>.<pub-id pub-id-type="pmid">24532493</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0010">
+<string-name>
+<surname>Greening</surname>
+<given-names>NJ</given-names>
+</string-name>, <string-name>
+<surname>Harvey&#x02010;Dunstan</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Chaplin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Vincent</surname>
+<given-names>EE</given-names>
+</string-name>, <string-name>
+<surname>Morgan</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>SJ</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Bedside assessment of quadriceps muscle by ultrasound after admission for acute exacerbations of chronic respiratory disease</article-title>. <source>Am J Respir Crit Care Med</source>
+<year>2015</year>;<volume>192</volume>:<fpage>810</fpage>&#x02013;<lpage>816</lpage>.<pub-id pub-id-type="pmid">26068143</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0011">
+<string-name>
+<surname>Yip</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Goh</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Gossage</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mitchell&#x02010;Hay</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hynes</surname>
+<given-names>O</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Assessment of sarcopenia and changes in body composition after neoadjuvant chemotherapy and associations with clinical outcomes in oesophageal cancer</article-title>. <source>Eur Radiol</source>
+<year>2014</year>;<volume>24</volume>:<fpage>998</fpage>&#x02013;<lpage>1005</lpage>.<pub-id pub-id-type="pmid">24535076</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0012">
+<string-name>
+<surname>Kuroki</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Mangano</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Allsworth</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Menias</surname>
+<given-names>CO</given-names>
+</string-name>, <string-name>
+<surname>Massad</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>
+<given-names>MA</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Pre&#x02010;operative assessment of muscle mass to predict surgical complications and prognosis in patients with endometrial cancer</article-title>. <source>Ann Surg Oncol</source>
+<year>2015</year>;<volume>22</volume>:<fpage>972</fpage>&#x02013;<lpage>979</lpage>.<pub-id pub-id-type="pmid">25190123</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0013">
+<string-name>
+<surname>Stene</surname>
+<given-names>GB</given-names>
+</string-name>, <string-name>
+<surname>Helbostad</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Amundsen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sorhaug</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hjelde</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kaasa</surname>
+<given-names>S</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Changes in skeletal muscle mass during palliative chemotherapy in patients with advanced lung cancer</article-title>. <source>Acta Oncol</source>
+<year>2015</year>;<volume>54</volume>:<fpage>340</fpage>&#x02013;<lpage>348</lpage>.<pub-id pub-id-type="pmid">25225010</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0014">
+<string-name>
+<surname>Trappe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Costill</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Creer</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>H</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Exercise in space: human skeletal muscle after 6&#x02009;months aboard the International Space Station</article-title>. <source>J Appl Physiol</source>
+<year>2009</year>;<volume>106</volume>:<fpage>1159</fpage>&#x02013;<lpage>1168</lpage>.<pub-id pub-id-type="pmid">19150852</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0015">
+<string-name>
+<surname>Cruz&#x02010;Jentoft</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Baeyens</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Bauer</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Boirie</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Cederholm</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Landi</surname>
+<given-names>F</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Sarcopenia: European consensus on definition and diagnosis: Report of the European Working Group on Sarcopenia in Older People</article-title>. <source>Age Ageing</source>
+<year>2010</year>;<volume>39</volume>:<fpage>412</fpage>&#x02013;<lpage>423</lpage>.<pub-id pub-id-type="pmid">20392703</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0016">
+<string-name>
+<surname>Prado</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Heymsfield</surname>
+<given-names>SB</given-names>
+</string-name>. <article-title>Lean tissue imaging: a new era for nutritional assessment and intervention</article-title>. <source>JPEN J Parenter Enteral Nutr</source>
+<year>2014</year>;<volume>38</volume>:<fpage>940</fpage>&#x02013;<lpage>953</lpage>.<pub-id pub-id-type="pmid">25239112</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0017">
+<string-name>
+<surname>Reeves</surname>
+<given-names>ND</given-names>
+</string-name>, <string-name>
+<surname>Maganaris</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Narici</surname>
+<given-names>MV</given-names>
+</string-name>. <article-title>Ultrasonographic assessment of human skeletal muscle size</article-title>. <source>Eur J Appl Physiol</source>
+<year>2004</year>;<volume>91</volume>:<fpage>116</fpage>&#x02013;<lpage>118</lpage>.<pub-id pub-id-type="pmid">14639480</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0018">
+<string-name>
+<surname>Arbeille</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kerbeci</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Capri</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Dannaud</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Trappe</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Trappe</surname>
+<given-names>TA</given-names>
+</string-name>. <article-title>Quantification of muscle volume by echography: comparison with MRI data on subjects in long&#x02010;term bed rest</article-title>. <source>Ultrasound Med Biol</source>
+<year>2009</year>;<volume>35</volume>:<fpage>1092</fpage>&#x02013;<lpage>1097</lpage>.<pub-id pub-id-type="pmid">19394755</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0019">
+<string-name>
+<surname>Arts</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Overeem</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pillen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Schelhaas</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Zwarts</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Muscle changes in amyotrophic lateral sclerosis: a longitudinal ultrasonography study</article-title>. <source>Clin neurophysiol: official J of the Int Federation of Clin Neurophysiol</source>
+<year>2011</year>;<volume>122</volume>:<fpage>623</fpage>&#x02013;<lpage>628</lpage>.</mixed-citation></ref><ref id="jcsm12172-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0020">
+<string-name>
+<surname>Campbell</surname>
+<given-names>IT</given-names>
+</string-name>, <string-name>
+<surname>Watt</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Withers</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>England</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sukumar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Keegan</surname>
+<given-names>MA</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Muscle thickness, measured with ultrasound, may be an indicator of lean tissue wasting in multiple organ failure in the presence of edema</article-title>. <source>Am J Clin Nutr</source>
+<year>1995</year>;<volume>62</volume>:<fpage>533</fpage>&#x02013;<lpage>539</lpage>.<pub-id pub-id-type="pmid">7661114</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0021">
+<string-name>
+<surname>Reid</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>
+<given-names>IT</given-names>
+</string-name>, <string-name>
+<surname>Little</surname>
+<given-names>RA</given-names>
+</string-name>. <article-title>Muscle wasting and energy balance in critical illness</article-title>. <source>Clin Nutr</source>
+<year>2004</year>;<volume>23</volume>:<fpage>273</fpage>&#x02013;<lpage>280</lpage>.<pub-id pub-id-type="pmid">15030968</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0022">
+<string-name>
+<surname>Weng</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Tirumalai</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Lowery</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Nock</surname>
+<given-names>LF</given-names>
+</string-name>, <string-name>
+<surname>Gustafson</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Von Behren</surname>
+<given-names>PL</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>US extended&#x02010;field&#x02010;of&#x02010;view imaging technology</article-title>. <source>Radiology</source>
+<year>1997</year>;<volume>203</volume>:<fpage>877</fpage>&#x02013;<lpage>880</lpage>.<pub-id pub-id-type="pmid">9169720</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0023">
+<string-name>
+<surname>Noorkoiv</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nosaka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Blazevich</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Assessment of quadriceps muscle cross&#x02010;sectional area by ultrasound extended&#x02010;field&#x02010;of&#x02010;view imaging</article-title>. <source>Eur J Appl Physiol</source>
+<year>2010</year>;<volume>109</volume>:<fpage>631</fpage>&#x02013;<lpage>639</lpage>.<pub-id pub-id-type="pmid">20191287</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0024">
+<string-name>
+<surname>Scott</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Ploutz&#x02010;Snyder</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Caine</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Matz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Arzeno</surname>
+<given-names>NM</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Reliability and validity of panoramic ultrasound for muscle quantification</article-title>. <source>Ultrasound Med Biol</source>
+<year>2012</year>;<volume>38</volume>:<fpage>1656</fpage>&#x02013;<lpage>1661</lpage>.<pub-id pub-id-type="pmid">22749820</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0025">
+<string-name>
+<surname>Ploutz&#x02010;Snyder</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Downs</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ryder</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hackney</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Buxton</surname>
+<given-names>R</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Integrated resistance and aerobic exercise protects fitness during bed rest</article-title>. <source>Med Sci Sports Exerc</source>
+<year>2014</year>;<volume>46</volume>:<fpage>358</fpage>&#x02013;<lpage>368</lpage>.<pub-id pub-id-type="pmid">24441215</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0026">
+<string-name>
+<surname>Pavy&#x02010;Le</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Heer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Narici</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Rittweger</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Vernikos</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>From space to Earth: advances in human physiology from 20&#x02009;years of bed rest studies (1986&#x02010;2006)</article-title>. <source>Eur J Appl Physiol</source>
+<year>2007</year>;<volume>101</volume>:<fpage>143</fpage>&#x02013;<lpage>194</lpage>.<pub-id pub-id-type="pmid">17661073</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0027">
+<string-name>
+<surname>Trappe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Trappe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Widrick</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fitts</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Costill</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Cardiorespiratory responses to physical work during and following 17&#x02009;days of bed rest and spaceflight</article-title>. <source>J Appl Physiol</source>
+<year>2006</year>;<volume>100</volume>:<fpage>951</fpage>&#x02013;<lpage>957</lpage>.<pub-id pub-id-type="pmid">16306254</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0028">
+<string-name>
+<surname>Berg</surname>
+<given-names>HE</given-names>
+</string-name>, <string-name>
+<surname>Tedner</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Tesch</surname>
+<given-names>PA</given-names>
+</string-name>. <article-title>Changes in lower limb muscle cross&#x02010;sectional area and tissue fluid volume after transition from standing to supine</article-title>. <source>Acta Physiol Scand</source>
+<year>1993</year>;<volume>148</volume>:<fpage>379</fpage>&#x02013;<lpage>385</lpage>.<pub-id pub-id-type="pmid">8213193</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0029">
+<string-name>
+<surname>Trappe</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Burd</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Louis</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Trappe</surname>
+<given-names>SW</given-names>
+</string-name>. <article-title>Influence of concurrent exercise or nutrition countermeasures on thigh and calf muscle size and function during 60&#x02009;days of bed rest in women</article-title>. <source>Acta Physiol (Oxf)</source>
+<year>2007</year>;<volume>191</volume>:<fpage>147</fpage>&#x02013;<lpage>159</lpage>.<pub-id pub-id-type="pmid">17655736</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0030">
+<string-name>
+<surname>Bland</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>Agreement between methods of measurement with multiple observations per individual</article-title>. <source>J Biopharm Stat</source>
+<year>2007</year>;<volume>17</volume>:<fpage>571</fpage>&#x02013;<lpage>582</lpage>.<pub-id pub-id-type="pmid">17613642</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0031">
+<string-name>
+<surname>Carrasco</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Jover</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Estimating the generalized concordance correlation coefficient through variance components</article-title>. <source>Biometrics</source>
+<year>2003</year>;<volume>59</volume>:<fpage>849</fpage>&#x02013;<lpage>858</lpage>.<pub-id pub-id-type="pmid">14969463</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0032">
+<string-name>
+<surname>Lin</surname>
+<given-names>LI</given-names>
+</string-name>. <article-title>A concordance correlation coefficient to evaluate reproducibility</article-title>. <source>Biometrics</source>
+<year>1989</year>;<volume>45</volume>:<fpage>255</fpage>&#x02013;<lpage>268</lpage>.<pub-id pub-id-type="pmid">2720055</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0033">
+<string-name>
+<surname>Rutten</surname>
+<given-names>IJ</given-names>
+</string-name>, <string-name>
+<surname>van Dijk</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Kruitwagen</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Beets&#x02010;Tan</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Olde Damink</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>van Gorp</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Loss of skeletal muscle during neoadjuvant chemotherapy is related to decreased survival in ovarian cancer patients</article-title>. <source>J Cachexia Sarcopenia Muscle</source>
+<year>2016</year>;<volume>7</volume>:<fpage>458</fpage>&#x02013;<lpage>466</lpage>.<pub-id pub-id-type="pmid">27030813</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0034">
+<string-name>
+<surname>English</surname>
+<given-names>KL</given-names>
+</string-name>, <string-name>
+<surname>Mettler</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Ellison</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Mamerow</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Arentson&#x02010;Lantz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pattarini</surname>
+<given-names>JM</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Leucine partially protects muscle mass and function during bed rest in middle&#x02010;aged adults</article-title>. <source>Am J Clin Nutr</source>
+<year>2016</year>;<volume>103</volume>:<fpage>465</fpage>&#x02013;<lpage>473</lpage>.<pub-id pub-id-type="pmid">26718415</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0035">
+<string-name>
+<surname>Grande</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Silva</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Maddocks</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Exercise for cancer cachexia in adults: executive summary of a Cochrane Collaboration systematic review</article-title>. <source>J Cachexia Sarcopenia Muscle</source>
+<year>2015</year>;<volume>6</volume>:<fpage>208</fpage>&#x02013;<lpage>211</lpage>.<pub-id pub-id-type="pmid">26401466</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0036">
+<string-name>
+<surname>Trobec</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>von Haehling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Lainscak</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Growth hormone, insulin&#x02010;like growth factor 1, and insulin signaling&#x02014;a pharmacological target in body wasting and cachexia</article-title>. <source>J Cachexia Sarcopenia Muscle</source>
+<year>2011</year>;<volume>2</volume>:<fpage>191</fpage>&#x02013;<lpage>200</lpage>.<pub-id pub-id-type="pmid">22207907</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0037">
+<string-name>
+<surname>Shen</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Punyanitya</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Gallagher</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>St&#x02010;Onge</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Albu</surname>
+<given-names>J</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Total body skeletal muscle and adipose tissue volumes: estimation from a single abdominal cross&#x02010;sectional image</article-title>. <source>J Appl Physiol</source>(1985) <year>2004</year>;<volume>97</volume>:<fpage>2333</fpage>&#x02013;<lpage>2338</lpage>.<pub-id pub-id-type="pmid">15310748</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0038">
+<string-name>
+<surname>van Abellan</surname>
+<given-names>KG</given-names>
+</string-name>, <string-name>
+<surname>Cderbaum</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Cesari</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dahinden</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Fariello</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Fielding</surname>
+<given-names>RA</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Sarcopenia: biomarkers and imaging (International Conference on Sarcopenia research)</article-title>. <source>J Nutr Health Aging</source>
+<year>2011</year>;<volume>15</volume>:<fpage>834</fpage>&#x02013;<lpage>846</lpage>.<pub-id pub-id-type="pmid">22159770</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0039">
+<string-name>
+<surname>Donaldson</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>Maddocks</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Martolini</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Polkey</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Man</surname>
+<given-names>WD</given-names>
+</string-name>. <article-title>Muscle function in COPD: a complex interplay</article-title>. <source>Int J Chron Obstruct Pulmon Dis</source>
+<year>2012</year>;<volume>7</volume>:<fpage>523</fpage>&#x02013;<lpage>535</lpage>.<pub-id pub-id-type="pmid">22973093</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0040">
+<string-name>
+<surname>Ploutz&#x02010;Snyder</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Manini</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ploutz&#x02010;Snyder</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Functionally relevant thresholds of quadriceps femoris strength</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>
+<year>2002</year>;<volume>57</volume>:<fpage>B144</fpage>&#x02013;<lpage>B152</lpage>.<pub-id pub-id-type="pmid">11909879</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0041">
+<string-name>
+<surname>Onambele</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Narici</surname>
+<given-names>MV</given-names>
+</string-name>, <string-name>
+<surname>Maganaris</surname>
+<given-names>CN</given-names>
+</string-name>. <article-title>Calf muscle&#x02010;tendon properties and postural balance in old age</article-title>. <source>J Appl Physiol</source>
+<year>2006</year>;<volume>100</volume>:<fpage>2048</fpage>&#x02013;<lpage>2056</lpage>.<pub-id pub-id-type="pmid">16455811</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0042">
+<string-name>
+<surname>Ahtiainen</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hoffren</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hulmi</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Pietikainen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mero</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Avela</surname>
+<given-names>J</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Panoramic ultrasonography is a valid method to measure changes in skeletal muscle cross&#x02010;sectional area</article-title>. <source>Eur J Appl Physiol</source>
+<year>2010</year>;<volume>108</volume>:<fpage>273</fpage>&#x02013;<lpage>279</lpage>.<pub-id pub-id-type="pmid">19777252</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0043">
+<string-name>
+<surname>Lund</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Christensen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Savnik</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Boesen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Danneskiold&#x02010;Samsoe</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bliddal</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Volume estimation of extensor muscles of the lower leg based on MR imaging</article-title>. <source>Eur Radiol</source>
+<year>2002</year>;<volume>12</volume>:<fpage>2982</fpage>&#x02013;<lpage>2987</lpage>.<pub-id pub-id-type="pmid">12439580</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0044">
+<string-name>
+<surname>Siadecki</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Frasure</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Lewiss</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Saul</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>High body mass index is strongly correlated with decreased image quality in focused bedside echocardiography</article-title>. <source>J Emerg Med</source>
+<year>2016</year>;<volume>50</volume>:<fpage>295</fpage>&#x02013;<lpage>301</lpage>.<pub-id pub-id-type="pmid">26432081</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0045">
+<string-name>
+<surname>Melvin</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Smith&#x02010;Ryan</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Wingfield</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Fultz</surname>
+<given-names>SN</given-names>
+</string-name>, <string-name>
+<surname>Roelofs</surname>
+<given-names>EJ</given-names>
+</string-name>. <article-title>Evaluation of muscle quality reliability and racial differences in body composition of overweight individuals</article-title>. <source>Ultrasound Med Biol</source>
+<year>2014</year>;<volume>40</volume>:<fpage>1973</fpage>&#x02013;<lpage>1979</lpage>.<pub-id pub-id-type="pmid">24912372</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0046">
+<string-name>
+<surname>Russ</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Gregg&#x02010;Cornell</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Conaway</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Clark</surname>
+<given-names>BC</given-names>
+</string-name>. <article-title>Evolving concepts on the age&#x02010;related changes in "muscle quality"</article-title>. <source>J Cachexia Sarcopenia Muscle</source>
+<year>2012</year>;<volume>3</volume>:<fpage>95</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">22476917</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0047">
+<string-name>
+<surname>Pillen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tak</surname>
+<given-names>RO</given-names>
+</string-name>, <string-name>
+<surname>Zwarts</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Lammens</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Verrijp</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Arts</surname>
+<given-names>IM</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Skeletal muscle ultrasound: correlation between fibrous tissue and echo intensity</article-title>. <source>Ultrasound Med Biol</source>
+<year>2009</year>;<volume>35</volume>:<fpage>443</fpage>&#x02013;<lpage>446</lpage>.<pub-id pub-id-type="pmid">19081667</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0048">
+<string-name>
+<surname>Wilhelm</surname>
+<given-names>EN</given-names>
+</string-name>, <string-name>
+<surname>Rech</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Minozzo</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Radaelli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Botton</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Pinto</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Relationship between quadriceps femoris echo intensity, muscle power, and functional capacity of older men</article-title>. <source>Age (Dordr)</source>
+<year>2014</year>;<volume>36</volume>:<fpage>9625</fpage>.<pub-id pub-id-type="pmid">24515898</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0049">
+<string-name>
+<surname>Fukumoto</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Ikezoe</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Tsukagoshi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Nakamura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mori</surname>
+<given-names>N</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Skeletal muscle quality assessed from echo intensity is associated with muscle strength of middle&#x02010;aged and elderly persons</article-title>. <source>Eur J Appl Physiol</source>
+<year>2012</year>;<volume>112</volume>:<fpage>1519</fpage>&#x02013;<lpage>1525</lpage>.<pub-id pub-id-type="pmid">21847576</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0050">
+<string-name>
+<surname>LeBlanc</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lin</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Shackelford</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sinitsyn</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Evans</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Belichenko</surname>
+<given-names>O</given-names>
+</string-name>, <italic>et al.</italic>
+<article-title>Muscle volume, MRI relaxation times (T2), and body composition after spaceflight</article-title>. <source>J Appl Physiol</source>
+<year>2000</year>;<volume>89</volume>:<fpage>2158</fpage>&#x02013;<lpage>2164</lpage>.<pub-id pub-id-type="pmid">11090562</pub-id></mixed-citation></ref><ref id="jcsm12172-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jcsm12172-cit-0051">
+<string-name>
+<surname>von Haehling</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Morley</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Coats</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>. <article-title>Ethical guidelines for publishing in the Journal of Cachexia, Sarcopenia and Muscle: update 2015</article-title>. <source>J Cachexia Sarcopenia Muscle</source>
+<year>2015</year>;<volume>6</volume>:<fpage>315</fpage>&#x02013;<lpage>316</lpage>.<pub-id pub-id-type="pmid">26672494</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,752 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Hepatology</journal-id><journal-id journal-id-type="iso-abbrev">Hepatology</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1527-3350</journal-id><journal-id journal-id-type="publisher-id">HEP</journal-id><journal-title-group><journal-title>Hepatology (Baltimore, Md.)</journal-title></journal-title-group><issn pub-type="ppub">0270-9139</issn><issn pub-type="epub">1527-3350</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28128852</article-id><article-id pub-id-type="pmc">5573922</article-id><article-id pub-id-type="doi">10.1002/hep.29081</article-id><article-id pub-id-type="publisher-id">HEP29081</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Viral Hepatitis</subject></subj-group></subj-group></article-categories><title-group><article-title>Glecaprevir and pibrentasvir for 12 weeks for hepatitis C virus genotype 1 infection and prior direct&#x02010;acting antiviral treatment</article-title><alt-title alt-title-type="right-running-head">Poordad et al.</alt-title></title-group><contrib-group><contrib id="hep29081-cr-0001" contrib-type="author" corresp="yes"><name><surname>Poordad</surname><given-names>Fred</given-names></name><address><email>poordad@txliver.com</email></address><xref ref-type="aff" rid="hep29081-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="hep29081-cr-0002" contrib-type="author"><name><surname>Felizarta</surname><given-names>Franco</given-names></name><xref ref-type="aff" rid="hep29081-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="hep29081-cr-0003" contrib-type="author"><name><surname>Asatryan</surname><given-names>Armen</given-names></name><xref ref-type="aff" rid="hep29081-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hep29081-cr-0004" contrib-type="author"><name><surname>Sulkowski</surname><given-names>Mark S.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="hep29081-cr-0005" contrib-type="author"><name><surname>Reindollar</surname><given-names>Robert W.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="hep29081-cr-0006" contrib-type="author"><name><surname>Landis</surname><given-names>Charles S.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="hep29081-cr-0007" contrib-type="author"><name><surname>Gordon</surname><given-names>Stuart C.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="hep29081-cr-0008" contrib-type="author"><name><surname>Flamm</surname><given-names>Steven L.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="hep29081-cr-0009" contrib-type="author"><name><surname>Fried</surname><given-names>Michael W.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="hep29081-cr-0010" contrib-type="author"><name><surname>Bernstein</surname><given-names>David E.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="hep29081-cr-0011" contrib-type="author"><name><surname>Lin</surname><given-names>Chih&#x02010;Wei</given-names></name><xref ref-type="aff" rid="hep29081-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hep29081-cr-0012" contrib-type="author"><name><surname>Liu</surname><given-names>Ran</given-names></name><xref ref-type="aff" rid="hep29081-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hep29081-cr-0013" contrib-type="author"><name><surname>Lovell</surname><given-names>Sandra S.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hep29081-cr-0014" contrib-type="author"><name><surname>Ng</surname><given-names>Teresa I.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hep29081-cr-0015" contrib-type="author"><name><surname>Kort</surname><given-names>Jens</given-names></name><xref ref-type="aff" rid="hep29081-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="hep29081-cr-0016" contrib-type="author"><name><surname>Mensa</surname><given-names>Federico J.</given-names></name><xref ref-type="aff" rid="hep29081-aff-0003">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="hep29081-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Texas Liver Institute</named-content>
+<institution>University of Texas Health Science Center</institution>
+<named-content content-type="city">San Antonio</named-content>
+<named-content content-type="country-part">TX</named-content>
+</aff><aff id="hep29081-aff-0002">
+<label><sup>2</sup></label>
+<institution>Private Practice</institution>
+<named-content content-type="city">Bakersfield</named-content>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="hep29081-aff-0003">
+<label><sup>3</sup></label>
+<institution>AbbVie Inc</institution>
+<named-content content-type="city">North Chicago</named-content>
+<named-content content-type="country-part">IL</named-content>
+</aff><aff id="hep29081-aff-0004">
+<label><sup>4</sup></label>
+<institution>Johns Hopkins University School of Medicine</institution>
+<named-content content-type="city">Baltimore</named-content>
+<named-content content-type="country-part">MD</named-content>
+</aff><aff id="hep29081-aff-0005">
+<label><sup>5</sup></label>
+<institution>Piedmont Healthcare/Carolinas Center for Liver Disease</institution>
+<named-content content-type="city">Statesville</named-content>
+<named-content content-type="country-part">NC</named-content>
+</aff><aff id="hep29081-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Division of Gastroenterology</named-content>
+<institution>University of Washington</institution>
+<named-content content-type="city">Seattle</named-content>
+<named-content content-type="country-part">WA</named-content>
+</aff><aff id="hep29081-aff-0007">
+<label><sup>7</sup></label>
+<institution>Henry Ford Health System</institution>
+<named-content content-type="city">Detroit</named-content>
+<named-content content-type="country-part">MI</named-content>
+</aff><aff id="hep29081-aff-0008">
+<label><sup>8</sup></label>
+<institution>Northwestern Feinberg School of Medicine</institution>
+<named-content content-type="city">Chicago</named-content>
+<named-content content-type="country-part">IL</named-content>
+</aff><aff id="hep29081-aff-0009">
+<label><sup>9</sup></label>
+<institution>University of North Carolina</institution>
+<named-content content-type="city">Chapel Hill</named-content>
+<named-content content-type="country-part">NC</named-content>
+</aff><aff id="hep29081-aff-0010">
+<label><sup>10</sup></label>
+<institution>North Shore University Hospital</institution>
+<named-content content-type="city">Manhasset</named-content>
+<named-content content-type="country-part">NY</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>ADDRESS CORRESPONDENCE AND REPRINT REQUESTS TO</bold>:<break/>Fred Poordad, M.D.<break/>Texas Liver Institute<break/>University of Texas Health Science Center<break/>607 Camden St., Suite 101<break/>San Antonio, TX 78215<break/>E&#x02010;mail: <email>poordad@txliver.com</email><break/>Tel: +1&#x02010;210&#x02010;253&#x02010;3426.<break/></corresp></author-notes><pub-date pub-type="epub"><day>10</day><month>4</month><year>2017</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2017</year></pub-date><volume>66</volume><issue>2</issue><issue-id pub-id-type="doi">10.1002/hep.v66.2</issue-id><fpage>389</fpage><lpage>397</lpage><history><date date-type="received"><day>25</day><month>10</month><year>2016</year></date><date date-type="rev-recd"><day>08</day><month>12</month><year>2016</year></date><date date-type="accepted"><day>23</day><month>1</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2017 by the American Association for the Study of Liver Diseases. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. H<sc>epatology</sc> published by Wiley Periodicals, Inc., on behalf of the American Association for the Study of Liver Diseases.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:HEP-66-389.pdf"/><abstract><p>Although direct&#x02010;acting antiviral (DAA) therapies for chronic hepatitis C virus (HCV) infection have demonstrated high rates of sustained virologic response, virologic failure may still occur, potentially leading to the emergence of viral resistance, which can decrease the effectiveness of subsequent treatment. Treatment options for patients who failed previous DAA&#x02010;containing regimens, particularly those with nonstructural protein 5A inhibitors, are limited and remain an area of unmet medical need. This phase 2, open&#x02010;label study (MAGELLAN&#x02010;1) evaluated the efficacy and safety of glecaprevir (GLE) + pibrentasvir (PIB) &#x000b1; ribavirin (RBV) in HCV genotype 1&#x02013;infected patients with prior virologic failure to HCV DAA&#x02010;containing therapy. A total of 50 patients without cirrhosis were randomized to three arms: 200 mg GLE + 80 mg PIB (arm A), 300 mg GLE + 120 mg PIB with 800 mg once&#x02010;daily RBV (arm B), or 300 mg GLE + 120 mg PIB without RBV (arm C). By intent&#x02010;to&#x02010;treat analysis, sustained virologic response at posttreatment week 12 was achieved in 100% (6/6, 95% confidence interval 61&#x02010;100), 95% (21/22, 95% confidence interval 78&#x02010;99), and 86% (19/22, 95% confidence interval 67&#x02010;95) of patients in arms A, B, and C, respectively. Virologic failure occurred in no patients in arm A and in 1 patient each in arms B and C (two patients were lost to follow&#x02010;up in arm C). The majority of adverse events were mild in severity; no serious adverse events related to study drug and no relevant laboratory abnormalities in alanine aminotransferase, total bilirubin, or hemoglobin were observed. <italic>Conclusion</italic>: The combination of GLE and PIB was highly efficacious and well tolerated in patients with HCV genotype 1 infection and prior failure of DAA&#x02010;containing therapy; RBV coadministration did not improve efficacy. (H<sc>epatology</sc> 2017;66:389&#x02013;397).</p></abstract><funding-group><award-group><funding-source>AbbVie
+</funding-source></award-group></funding-group><counts><fig-count count="2"/><table-count count="3"/><page-count count="9"/><word-count count="4968"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>hep29081</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2017</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.8 mode:remove_FC converted:29.08.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="hep29081-note-0001"><p>Potential conflict of interest: Dr. Reindollar is on the speakers' bureau for AbbVie. Dr. Asatryan is employed by and owns stock in AbbVie. Dr. Kort is employed by and owns stock in AbbVie. Dr. Landis received grants from Gilead and AbbVie. Dr. Sulkowski consults, advises, and received grants from AbbVie, Gilead, and Merck. He consults and advises Janssen, Trek, and Cocrystal. Dr. Mensa is employed by and owns stock in AbbVie. Dr. Lovell is employed by and owns stock in AbbVie. Dr. Felizarta is on the speakers' bureau and received grants from AbbVie, Gilead, Janssen, and Merck. Dr. Lin is employed by and owns stock in AbbVie. Dr. Liu is employed by and owns stock in AbbVie. Dr. Ng is employed by and owns stock in AbbVie. Dr. Fried consults and received grants from AbbVie, Bristol&#x02010;Myers Squibb, Gilead, and Merck. He owns stock in Target. Dr. Bernstein consults and received grants from AbbVie. Dr. Flamm consults, advises, is on the speakers' bureau, and received grants from AbbVie and Gilead. He consults, advises, and is on the speakers' bureau for Merck. Dr. Poordad consults, advises, is on the speakers' bureau, and received grants from Gilead, Merck, GlaxoSmithKline, and Vertex. He consults, advises, and received grants from AbbVie, Achillion, Anadys, Biolex, Boehringer&#x02010;Ingelheim, Bristol&#x02010;Myers Squibb, GlobeImmune, Idenix, and Novartis. He is on the speakers' bureau and received grants from Genentech. He consults and advises Tibotec/Janssen and Theravance. He is on the speakers' bureau for Kadmon, Onyx/Bayer, and Salix. He received grants from Idera, Intercept, Janssen, Medarex, Medtronic, Santaris, Scynexis, and ZymoGenetics. Dr. Gordon advises and received grants from AbbVie, Bristol&#x02010;Myers Squibb, Intercept, Gilead, and Merck. He advises CVS Caremark. He received grants from Conatus, CymaBay, and Exalenz.</p></fn><fn id="hep29081-note-0101"><p>Supported by AbbVie.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="hep29081-lp-0001"><title>Abbreviations</title><def-item><term id="hep29081-li-0001">CI</term><def id="hep29081-li-0002"><p>confidence interval</p></def></def-item><def-item><term id="hep29081-li-0003">DAA</term><def id="hep29081-li-0004"><p>direct&#x02010;acting antiviral</p></def></def-item><def-item><term id="hep29081-li-0005">EC50</term><def id="hep29081-li-0006"><p>half&#x02010;maximal effective concentration</p></def></def-item><def-item><term id="hep29081-li-0007">GLE</term><def id="hep29081-li-0008"><p>glecaprevir</p></def></def-item><def-item><term id="hep29081-li-0009">GT</term><def id="hep29081-li-0010"><p>genotype</p></def></def-item><def-item><term id="hep29081-li-0011">HCV</term><def id="hep29081-li-0012"><p>hepatitis C virus</p></def></def-item><def-item><term id="hep29081-li-0013">ITT</term><def id="hep29081-li-0014"><p>intent&#x02010;to&#x02010;treat</p></def></def-item><def-item><term id="hep29081-li-0015">mITT</term><def id="hep29081-li-0016"><p>modified ITT</p></def></def-item><def-item><term id="hep29081-li-0017">NS</term><def id="hep29081-li-0018"><p>nonstructural</p></def></def-item><def-item><term id="hep29081-li-0019">PI</term><def id="hep29081-li-0020"><p>protease inhibitor</p></def></def-item><def-item><term id="hep29081-li-0021">PIB</term><def id="hep29081-li-0022"><p>pibrentasvir</p></def></def-item><def-item><term id="hep29081-li-0023">RBV</term><def id="hep29081-li-0024"><p>ribavirin</p></def></def-item><def-item><term id="hep29081-li-0025">SVR12</term><def id="hep29081-li-0026"><p>sustained virologic response at posttreatment week 12</p></def></def-item></def-list><p>Hepatitis C virus (HCV) genotype (GT) 1 is the most common among HCV GTs globally, accounting for approximately 46% of an estimated 185 million infections worldwide.<xref rid="hep29081-bib-0001" ref-type="ref">1</xref>, <xref rid="hep29081-bib-0002" ref-type="ref">2</xref> Although the treatment landscape for HCV has rapidly evolved with highly effective and safe treatments for patients with GT1 infection,<xref rid="hep29081-bib-0003" ref-type="ref">3</xref>, <xref rid="hep29081-bib-0004" ref-type="ref">4</xref> as direct&#x02010;acting antiviral (DAA) agents are used extensively, the number of patients with virologic failure of DAA regimens continues to grow.<xref rid="hep29081-bib-0005" ref-type="ref">5</xref> Virologic failure of DAAs often results from baseline resistance&#x02010;associated polymorphisms or resistance&#x02010;associated substitutions that emerge during therapy.<xref rid="hep29081-bib-0004" ref-type="ref">4</xref>, <xref rid="hep29081-bib-0005" ref-type="ref">5</xref>, <xref rid="hep29081-bib-0006" ref-type="ref">6</xref>, <xref rid="hep29081-bib-0007" ref-type="ref">7</xref>, <xref rid="hep29081-bib-0008" ref-type="ref">8</xref> Variants within the HCV nonstructural protein 5A (NS5A) region substantially increase the risk of virologic failure for many DAA&#x02010;containing regimens,<xref rid="hep29081-bib-0009" ref-type="ref">9</xref>, <xref rid="hep29081-bib-0010" ref-type="ref">10</xref> and there are currently no treatments specifically indicated for either NS5A or NS5B inhibitor&#x02013;experienced patients.</p><p>DAA treatment failure is a growing concern given the long&#x02010;term persistence of NS5A resistance&#x02010;associated variants<xref rid="hep29081-bib-0011" ref-type="ref">11</xref>, <xref rid="hep29081-bib-0012" ref-type="ref">12</xref> and suboptimal treatment response rates in patients with resistance&#x02010;associated baseline polymorphisms or treatment&#x02010;emergent substitutions.<xref rid="hep29081-bib-0009" ref-type="ref">9</xref>, <xref rid="hep29081-bib-0013" ref-type="ref">13</xref>, <xref rid="hep29081-bib-0014" ref-type="ref">14</xref> Retreatment strategies using 24 weeks of ledipasvir/sofosbuvir have demonstrated a 60% sustained virologic response at posttreatment week 12 (SVR12) rate among patients with baseline NS5A polymorphisms and 33% in patients with NS5A Y93H/N polymorphisms.<xref rid="hep29081-bib-0014" ref-type="ref">14</xref> Similarly, the combination regimen of elbasvir and grazoprevir has reduced efficacy (70%) in GT1a&#x02010;infected patients with baseline NS5A resistance&#x02010;associated polymorphisms at elbasvir&#x02010;specific positions (e.g., M28, Q30, L31, Y93).<xref rid="hep29081-bib-0009" ref-type="ref">9</xref>, <xref rid="hep29081-bib-0015" ref-type="ref">15</xref> In addition, the combination of sofosbuvir/velpatasvir has reduced potency to HCV GT1a NS5A variants at position Y93, including the common Y93H variant, which confers a 609&#x02010;fold increase in half&#x02010;maximal effective concentration (EC50) to velpatasvir.<xref rid="hep29081-bib-0016" ref-type="ref">16</xref> Therefore, treatments with a high barrier to viral resistance that maintain potency against viral variants, particularly for patients previously treated with HCV DAAs, are needed.</p><p>Current recommended retreatment strategies for patients with prior failure of NS3/4A protease inhibitor (PI)&#x02013;containing DAA regimens include the NS5B nucleotide analogue inhibitor sofosbuvir plus an NS5A inhibitor (ledipasvir, velpatasvir, or daclatasvir) for 12 weeks or the combination of the NS3/4A PI grazoprevir plus the NS5A inhibitor elbasvir with ribavirin (RBV) for 16 weeks.<xref rid="hep29081-bib-0016" ref-type="ref">16</xref> Patients with baseline NS5A variants, either preexisting or the result of treatment emergence from prior exposure to an NS5A inhibitor, have proven more difficult to cure with approved DAA regimens; thus, longer treatment durations, addition of RBV, and the addition of a third or fourth DAA have been examined to maximize SVR12 rates.<xref rid="hep29081-bib-0014" ref-type="ref">14</xref>, <xref rid="hep29081-bib-0017" ref-type="ref">17</xref>, <xref rid="hep29081-bib-0018" ref-type="ref">18</xref>, <xref rid="hep29081-bib-0019" ref-type="ref">19</xref>, <xref rid="hep29081-bib-0020" ref-type="ref">20</xref>
+</p><p>Glecaprevir (GLE; formerly ABT&#x02010;493; identified by AbbVie and Enanta) is an HCV NS3/4A PI that has potent pangenotypic antiviral activity. GLE does not inhibit human proteases, exhibits <italic>in vitro</italic> EC50 values &#x02264;5 nanomolar across all major HCV GTs, and demonstrates &#x0003c;5&#x02010;fold loss of activity against common GT1 variants at key resistance&#x02010;associated positions of R155 and D168 to currently available NS3/4A PIs.<xref rid="hep29081-bib-0006" ref-type="ref">6</xref>, <xref rid="hep29081-bib-0021" ref-type="ref">21</xref> Pibrentasvir (PIB; formerly ABT&#x02010;530) is an HCV NS5A inhibitor with EC50 values &#x02264;5 picomolar across all major HCV GTs; it maintains high potency against common NS5A resistance&#x02010;associated variants, including GT1a Y93H (6.7&#x02010;fold increase in EC50),<xref rid="hep29081-bib-0022" ref-type="ref">22</xref> which has been associated with reduced susceptibility to other NS5A inhibitors, such as ledipasvir (3,294&#x02010;fold increase in EC50), daclatasvir (1,600&#x02010;fold increase in EC50), and velpatasvir (609&#x02010;fold increase in EC50).<xref rid="hep29081-bib-0023" ref-type="ref">23</xref>
+</p><p>In part 1 of the MAGELLAN&#x02010;1 study, we evaluated the efficacy and safety of GLE + PIB for 12 weeks, with or without RBV, in patients with prior treatment failure of HCV regimens containing an NS5A inhibitor and/or NS3/4A PI with or without NS5B inhibitors. The impacts of baseline polymorphisms and RBV coadministration on SVR12 rates were also assessed.</p><sec id="hep29081-sec-0002"><title>Materials and Methods</title><sec id="hep29081-sec-0003"><title>STUDY OVERVIEW AND REGIMENS</title><p>The MAGELLAN&#x02010;1 (NCT02446717) study was a phase 2, randomized, open&#x02010;label, multicenter study that assessed the efficacy and safety of GLE + PIB in HCV GT1&#x02010;infected patients with prior DAA treatment experience. Patients were initially randomized 1:1:1 into three arms (A, B, and C; Fig. <xref rid="hep29081-fig-0001" ref-type="fig">1</xref>). Patients enrolled in arm A were treated for 12 weeks with GLE (200 mg once daily) + PIB (80 mg once daily); however, a protocol amendment was implemented to halt enrollment (with 6 patients enrolled) to optimize doses of GLE and PIB for further development.<xref rid="hep29081-bib-0024" ref-type="ref">24</xref> Subsequent to this protocol amendment, the remaining enrolled patients were randomized 1:1 into arm B or C for treatment with GLE (300 mg once daily) + PIB (120 mg once daily) with RBV (arm B; 800 mg once daily) or without RBV (arm C) for 12 weeks. Patients were stratified by HCV subtype (1b or non&#x02010;1b) and previous DAA class (NS5A inhibitor&#x02010;experienced, NS3/4A PI&#x02010;experienced but NS5A inhibitor&#x02010;naive, or other). For the purpose of analysis, previous HCV treatment experience was deemed cumulative (i.e., a patient exposed to NS3/4A PI and subsequently to NS5A inhibitor was considered NS5A and NS3/4A PI&#x02010;experienced). All patients signed informed consent, and the study was conducted in accordance with its protocol (designed and sponsored by AbbVie), the Good Clinical Practice Guidelines, and the ethical principles set forth in the Declaration of Helsinki, with independent ethics committee or institutional review board approval for all study sites.</p><fig fig-type="Figure" xml:lang="en" id="hep29081-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>MAGELLAN&#x02010;1, part 1, clinical trial design schematic. In part 1 of the MAGELLAN&#x02010;1 study, patients were randomized 1:1:1 into three treatment arms, stratified by HCV subtype (1b or non&#x02010;1b) and previous DAA classification (NS5A inhibitor&#x02013;experienced, NS3/4A PI&#x02013;experienced but NS5A inhibitor&#x02010;naive, or other). Enrollment in arm A was halted by protocol amendment after 6 patients were randomized to that arm (see Materials and Methods). In total, 50 patients were enrolled to receive GLE + PIB &#x000b1; RBV, once daily, for 12 weeks. The primary endpoint was the proportion of patients with SVR12.</p></caption><graphic id="nlm-graphic-1" xlink:href="HEP-66-389-g001"/></fig></sec><sec id="hep29081-sec-0004"><title>PATIENT POPULATION, CRITERIA, AND STUDY DESIGN</title><p>Patients were adults, 18&#x02010;70 years, without cirrhosis but with chronic HCV GT1 infection and treatment&#x02010;experienced with a prior DAA&#x02010;containing regimen. Patients had to have completed past DAA treatment at least 1 month prior to screening visit, with the outcome of prior HCV treatment being either on&#x02010;treatment virologic failure or posttreatment relapse. Plasma samples for HCV genotyping were collected at screening and assessed with the Versant HCV Genotype Inno LiPA Assay, version 2.0 or higher. The absence of cirrhosis (METAVIR score &#x02264;3, Ishak score &#x02264;4) was determined by one of the following: liver biopsy within 24 months prior to (or during) screening, transient elastography (FibroScan) result of &#x0003c;12.5 kPa within 6 months prior to (or during) screening, or a screening FibroTest score of &#x02264;0.48 with an aspartate aminotransferase to platelet ratio index &#x0003c;1. Patients coinfected with hepatitis B virus, human immunodeficiency virus, or more than one HCV GT at screening were excluded. Key eligibility criteria and definitions of prior treatment responses are provided in the <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/hep.29081/suppinfo">Supporting Information</ext-link>.</p></sec><sec id="hep29081-sec-0005"><title>EFFICACY, VIROLOGIC, AND SAFETY ASSESSMENTS</title><p>Plasma samples for HCV RNA measurements were collected at screening; treatment days 1 and 3 and weeks 1, 2, 4, 6, 8, 10, and 12 (or early discontinuation); and posttreatment weeks 2, 4, 8, 12, and 24 (or early discontinuation) and assessed using the COBAS AmpliPrep/ COBAS TaqMan HCV Quantitative Test, version 2.0. The primary efficacy endpoint was the percentage of patients who achieved SVR12 (HCV RNA &#x0003c;15 IU/mL) in the intent&#x02010;to&#x02010;treat (ITT) population, defined as all randomized patients who received at least one dose of study drug. A modified ITT (mITT) analysis was also conducted, excluding all nonvirologic failures (i.e., patients lost to follow&#x02010;up or early discontinuation). Two&#x02010;sided confidence intervals (CIs) were determined at a significance level of 0.05 using the Wilson score method for binomial proportions. Statistical summaries were performed using SAS software, version 9.3.</p><p>Viral sequences from the baseline plasma sample for each patient were analyzed by next&#x02010;generation sequencing (Illumina MiSeq) to identify NS3 or NS5A polymorphisms at detection thresholds of 2% and 15%. For patients who had virologic failure within the study, the first samples with HCV RNA &#x02265;1,000 IU/mL collected at or after the time of virologic failure were also analyzed by next&#x02010;generation sequencing at the same thresholds. Sequences were compared to the corresponding baseline and reference sequences to identify amino acid substitutions that could be associated with resistance to components of the therapy. For HCV resistance analysis, a polymorphism was defined as a baseline amino acid difference relative to the appropriate subtype&#x02010;specific reference sequence; despite DAA&#x02010;experienced patients having had prior HCV antiviral therapy, a patient's baseline amino acid variants in this study were considered polymorphisms as the patient's HCV amino acid sequences prior to all previous therapies are unknown. A substitution was defined as a treatment&#x02010;emergent amino acid sequence different from the patient's baseline viral sequence. An amino acid variant was considered an amino acid change due to a baseline polymorphism or treatment&#x02010;emergent substitution. Detailed information on the collection of plasma samples, HCV RNA measurement, virologic&#x02010;failure criteria, and amino acid variants included in resistance analysis are available in the <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/hep.29081/suppinfo">Supporting Information</ext-link>.</p><p>Safety assessments were based on the safety population (same as the ITT population). Safety and tolerability assessments were conducted at screening and throughout the study and included monitoring vital signs, physical examinations, adverse events, and clinical chemistry and hematology tests. Adverse events were recorded up to 30 days posttreatment.</p></sec></sec><sec id="hep29081-sec-0006"><title>Results</title><p>A total of 91 patients with HCV GT1 were screened in the United States; 50 were randomized and received at least one dose of study drug. Patients not randomized due to abnormal laboratory values had elevated alanine aminotransferase, aspartate aminotransferase, direct bilirubin, or low platelet count. Among randomized patients, 82% were male, 34% reported black race, and 84% had GT1a infection (Table <xref rid="hep29081-tbl-0001" ref-type="table-wrap">1</xref>). The majority of patients (66%) had prior treatment failure of regimens containing multiple DAAs; 50% had been previously treated with an NS5A inhibitor, 84% with an NS3/4A PI, and 54% with an NS5B polymerase inhibitor. Of 27 patients with NS5B polymerase inhibitor exposure, 56% had prior treatment with a nucleotide analogue inhibitor, 33% had treatment with non&#x02010;nucleoside inhibitors, and 11% had exposure to both. The most common prior DAA&#x02010;containing regimens were boceprevir plus pegylated interferon/RBV (n = 10), telaprevir plus pegylated interferon/RBV (n = 8), ledipasvir/sofosbuvir (n = 8), and simeprevir plus sofosbuvir with or without RBV (n = 8) (<ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/hep.29081/suppinfo">Supporting Table S1</ext-link>). Overall, 21/50 patients had prior failure to NS3/4A PI + pegylated interferon/RBV; 5 of those 21 patients were also experienced with NS5A or NS5B inhibitors within the interferon&#x02010;containing regimen or within other regimens. The type of prior DAA experience (NS3/4A PI only or NS5A inhibitor only or both) was well balanced across treatment groups (Table <xref rid="hep29081-tbl-0001" ref-type="table-wrap">1</xref>). Next&#x02010;generation sequencing identified baseline polymorphisms in NS3 and/or NS5A in 86% (43/50) of patients at a detection threshold of 2% and in 80% (40/50) of patients at a threshold of 15%. At a 15% detection threshold, the majority of patients had at least one baseline polymorphism across all treatment groups; although no patients in arm A had polymorphisms in both NS3 and NS5A targets, 27%(6/22) and 41% (9/22) had polymorphisms in both targets in arms B and C, respectively (Table <xref rid="hep29081-tbl-0001" ref-type="table-wrap">1</xref>). In addition, baseline NS5A polymorphisms were detected in 50% (3/6), 50% (11/22), and 55% (12/22) of patients in arms A, B, and C, respectively, at a detection threshold of 15%. Although a detection threshold of 15% is commonly accepted as clinically relevant, lower thresholds of detection give greater insight into amino acid changes that may emerge in the majority of the population after prior therapy with DAA&#x02010;containing regimens. At a more sensitive 2% detection threshold, the most common polymorphisms in NS3 were at amino acid positions Q80 (n = 23), R155 (n = 4), D168 (n = 4), and I/V170 (n = 4); and those for NS5A were at positions Q30 (n = 14), Y93 (n = 8), L31 (n = 7), M28 (n = 6), Q54 (n = 6), and H/P58 (n = 5). Baseline amino acid polymorphisms detected at a threshold of 2% are shown in <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/hep.29081/suppinfo">Supporting Table S2</ext-link>, and the prevalence of specific polymorphisms detected at both 2% and 15% is summarized in <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/hep.29081/suppinfo">Supporting Table S3</ext-link>.</p><table-wrap id="hep29081-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient Demographics and Baseline Characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Characteristic</th><th align="center" valign="bottom" rowspan="1" colspan="1">Arm A GLE+PIB (200 mg + 80 mg) n = 6</th><th align="center" valign="bottom" rowspan="1" colspan="1">Arm B GLE+PIB (300 mg + 120 mg) + RBV (800 mg) n = 22</th><th align="center" valign="bottom" rowspan="1" colspan="1">Arm C GLE+PIB (300 mg + 120 mg) n = 22</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Male, n (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 (91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (82)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Black race,<xref ref-type="fn" rid="hep29081-note-0002">a</xref> n (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (33)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (23)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (45)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Age, median years (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">59 (39&#x02010;61)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">56 (39&#x02010;64)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">59 (46&#x02010;70)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">HCV subtype, n (%)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">1a</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (67)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 (91)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (82)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">1b</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (33)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (9)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (18)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Treatment experience by DAA class, n (%)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">NS5A&#x02010;experienced/PI&#x02010;naive</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (18)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (18)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">NS5A&#x02010;naive/PI&#x02010;experienced</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (50)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">NS5A&#x02010;experienced/PI&#x02010;experienced</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (32)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (32)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">BMI, median kg/m<sup>2</sup> (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">27 (25&#x02010;37)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (22&#x02010;34)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (19&#x02010;37)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">
+<italic>IL28B</italic> non&#x02010;CC genotype, n (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (67)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16 (73)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (86)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">HCV RNA, median log<sub>10</sub> IU/mL (range)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.1 (5.6&#x02010;6.7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.7 (5.0&#x02010;7.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.6 (5.5&#x02010;7.2)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">HCV RNA &#x02265;6,000,000 IU/mL, n (%)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (46)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Baseline fibrosis stage, n (%)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">F0&#x02010;F1</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4 (67)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17 (77)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11 (50)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">F2</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (17)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (27)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">F3</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1 (17)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (23)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (23)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" valign="top" rowspan="1" colspan="1">Baseline polymorphisms,<xref ref-type="fn" rid="hep29081-note-0003">b</xref> n (%)</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Any polymorphism (NS3 or NS5A)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (83)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18 (82)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17 (77)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">NS3 only</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2 (33)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7 (32)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (23)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">NS5A only</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (50)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5 (23)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3 (14)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Both NS3 and NS5A</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (27)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">9 (41)</td></tr></tbody></table><table-wrap-foot><fn id="hep29081-note-0002"><label>a</label><p>Race was self&#x02010;reported.</p></fn><fn id="hep29081-note-0003"><label>b</label><p>Polymorphisms were detected at a 15% detection threshold with next&#x02010;generation sequencing. &#x0201c;Only&#x0201d; indicates total number of patients with baseline polymorphisms within the indicated target and none in the other target.</p></fn><fn id="hep29081-note-0004"><p>Abbreviation: <italic>IL28B</italic>, interleukin 28B.</p></fn></table-wrap-foot></table-wrap><p>Overall, by ITT analysis, SVR12 was achieved in 92% (46/50, 95% CI 81&#x02010;97) of patients treated with GLE + PIB with or without RBV for 12 weeks. In the halted arm A, in which patients received the lower dose of 200 mg GLE and 80 mg PIB, 100% (6/6, 95% CI 61&#x02010;100) of patients achieved SVR12. In arm B (300 mg GLE + 120 mg PIB + 800 mg RBV for 12 weeks) SVR12 was achieved in 95% (21/22, 95% CI 78&#x02010;99) of patients, and among patients in arm C (300 mg GLE + 120 mg PIB for 12 weeks), 86% (19/22, 95% CI 67&#x02010;95) of patients achieved SVR12 (Fig. <xref rid="hep29081-fig-0002" ref-type="fig">2</xref>). The rates of virologic failure were identical (1/22, 5%) with or without administration of RBV (arm B versus arm C). The two patients in arm C who did not achieve SVR12 were lost to follow&#x02010;up; however, both patients had undetectable HCV RNA at posttreatment week 8. By mITT analysis, excluding patients who failed to achieve SVR12 for nonvirologic reasons, SVR12 rates were 100%, 95%, and 95% for arms A, B, and C, respectively.</p><fig fig-type="Figure" xml:lang="en" id="hep29081-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Sustained virologic response in the ITT and mITT populations. Individual SVR12 rates for arm A (blue), arm B (green), and arm C (gray&#x02010;blue) are shown for the ITT and mITT populations. The ITT population was all patients that received at least one dose of study drug (n = 50), while the mITT population excluded all patients who did not achieve SVR for reasons other than virologic failure. Whiskers represent the 95% CI using the Wilson score method. Both patients lost to follow&#x02010;up had nondetectable HCV RNA at posttreatment week 8. Abbreviation: LTFU, lost&#x02010;to&#x02010;follow&#x02010;up.</p></caption><graphic id="nlm-graphic-3" xlink:href="HEP-66-389-g002"/></fig><p>Two confirmed virologic failures were observed; both patients were compliant and had on&#x02010;treatment drug levels of GLE and PIB that were consistent with those observed in other patients (Table <xref rid="hep29081-tbl-0002" ref-type="table-wrap">2</xref>). The patient in arm C (300 mg GLE + 120 mg PIB) had on&#x02010;treatment HCV breakthrough at week 8; using a 2% detection threshold, this patient had baseline polymorphisms in both NS3 (Y56H and D168A/T) and NS5A (M28V, Q30R, and H58C). At the time of virologic failure, this patient had treatment&#x02010;emergent substitutions of V36M in NS3 and M28G in NS5A. Of note, although GLE and PIB levels in this patient were within expected therapeutic ranges, the patient had Crohn's disease, was receiving immunosuppressive therapy, and had a prior ileocolectomy. The other patient who had virologic failure was a posttreatment week 4 relapse in arm B (300 mg GLE + 120 mg PIB + 800 mg RBV) and had baseline NS5A polymorphisms L31M and H58D, with no polymorphisms in NS3. At the time of relapse, this patient had treatment&#x02010;emergent substitutions of A156V in NS3 and Q30R in NS5A. Overall, in patients with baseline polymorphisms in NS3 only, NS5A only, or both NS3 and NS5A at a 15% detection threshold, SVR12 rates were 100% (14/14), 91% (10/11), and 93% (14/15), respectively; SVR12 was achieved by 100% (10/10) of patients with no baseline polymorphisms in NS3 or NS5A.</p><table-wrap id="hep29081-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Characteristics of Patients with Virologic Breakthrough or Relapse</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Subgenotype</th><th align="center" valign="bottom" rowspan="1" colspan="1">Prior treatment</th><th align="center" valign="bottom" rowspan="1" colspan="1">12&#x02010;Week treatment</th><th align="center" valign="bottom" rowspan="1" colspan="1">Reason for nonresponse</th><th align="center" valign="bottom" rowspan="1" colspan="1">Time point sequenced</th><th align="center" valign="bottom" rowspan="1" colspan="1">NS3 variants<xref ref-type="fn" rid="hep29081-note-0005">a</xref>
+</th><th align="center" valign="bottom" rowspan="1" colspan="1">NS5A variants<xref ref-type="fn" rid="hep29081-note-0005">a</xref>
+</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">1a</td><td align="center" valign="top" rowspan="1" colspan="1">DCV;</td><td align="center" valign="top" rowspan="1" colspan="1">GLE + PIB + RBV</td><td rowspan="2" align="left" valign="top" colspan="1">Relapse<xref ref-type="fn" rid="hep29081-note-0006">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">None</td><td align="center" valign="top" rowspan="1" colspan="1">L31M, H58D (26%)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="center" valign="top" rowspan="1" colspan="1">TVR + PR</td><td align="center" valign="top" rowspan="1" colspan="1">300 mg + 120 mg + 800 mg</td><td align="center" valign="top" rowspan="1" colspan="1">PTW4</td><td align="center" valign="top" rowspan="1" colspan="1">A156V (91%)</td><td align="center" valign="top" rowspan="1" colspan="1">Q30R, L31M, H58D</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td rowspan="2" align="left" valign="top" colspan="1">1a</td><td rowspan="2" align="center" valign="top" colspan="1">OBV + PTV/RTV + DSV +RBV</td><td align="center" valign="top" rowspan="1" colspan="1">GLE + PIB</td><td rowspan="2" align="left" valign="top" colspan="1">Breakthrough</td><td align="center" valign="top" rowspan="1" colspan="1">Baseline</td><td align="center" valign="top" rowspan="1" colspan="1">Y56H (5%), D168A/T (94%/3%)</td><td align="center" valign="top" rowspan="1" colspan="1">M28V (3%), Q30R (98%), H58C (99%)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="center" valign="top" rowspan="1" colspan="1">300 mg + 120 mg</td><td align="center" valign="top" rowspan="1" colspan="1">Week 8</td><td align="center" valign="top" rowspan="1" colspan="1">V36M (6%), Y56H, D168A</td><td align="center" valign="top" rowspan="1" colspan="1">M28G, Q30R (99%), H58C</td></tr></tbody></table><table-wrap-foot><fn id="hep29081-note-0005"><label>a</label><p>Variants due to baseline polymorphisms or treatment&#x02010;emergent substitutions.</p></fn><fn id="hep29081-note-0006"><label>b</label><p>This patient had Crohn's disease, was on immunosuppressant therapy, and had prior ileocolectomy.</p></fn><fn id="hep29081-note-0007"><p>Variants were detected at a 2% detection threshold with next&#x02010;generation sequencing. Only variants with prevalence &#x02265;2% are listed; variants with prevalence &#x0003e;99% within a patient's viral population do not have the prevalence listed.</p></fn><fn id="hep29081-note-0008"><p>Abbreviations: DCV, daclatasvir; DSV, dasabuvir; OBV, ombitasvir; PR, pegylated interferon plus ribavirin; PTV/RTV, ritonavir&#x02010;boosted paritaprevir; PTW, post&#x02010;treatment week; TVR, telaprevir.</p></fn></table-wrap-foot></table-wrap><p>Adverse events were mostly mild in severity and reported in 84% of patients. Adverse events occurring in &#x02265;10% of patients were headache, fatigue, nausea, and insomnia (Table <xref rid="hep29081-tbl-0003" ref-type="table-wrap">3</xref>); such events were more common in the RBV&#x02010;containing arm. Two treatment&#x02010;emergent serious adverse events were reported, neither of which was deemed related to study drug by the investigator (fractured femur and breast cancer). No patient prematurely discontinued treatment due to adverse events. Clinical chemistry and hematology revealed no significant on&#x02010;treatment abnormalities in alanine aminotransferase (&#x0003e;3 &#x000d7; upper limit of normal), aspartate aminotransferase (&#x0003e;3 &#x000d7; upper limit of normal), hemoglobin (&#x0003c;10 g/dL), or total bilirubin (&#x0003e;3 &#x000d7; upper limit of normal).</p><table-wrap id="hep29081-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Adverse Events</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr valign="bottom" style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Event, n (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">GLE + PIB (200 mg + 80 mg) n = 6</th><th align="center" valign="bottom" rowspan="1" colspan="1">GLE + PIB (300 mg + 80 mg) + RBV (800 mg) n = 22</th><th align="center" valign="bottom" rowspan="1" colspan="1">GLE + PIB (300 mg + 120 mg) n = 22</th></tr></thead><tbody valign="top"><tr valign="top" style="border-bottom:solid 1px #000000"><td colspan="4" align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Adverse events</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Any</td><td align="center" valign="top" rowspan="1" colspan="1">5 (83.3)</td><td align="center" valign="top" rowspan="1" colspan="1">19 (86.4)</td><td align="center" valign="top" rowspan="1" colspan="1">18 (81.8)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Serious</td><td align="center" valign="top" rowspan="1" colspan="1">1 (16.7)<xref ref-type="fn" rid="hep29081-note-0010">a</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">1 (4.5)<xref ref-type="fn" rid="hep29081-note-0011">b</xref>
+</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Discontinuation as a result</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td colspan="4" align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Common adverse events<xref ref-type="fn" rid="hep29081-note-0012">c</xref>
+</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Headache</td><td align="center" valign="top" rowspan="1" colspan="1">1 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (22.7)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (36.4)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Fatigue</td><td align="center" valign="top" rowspan="1" colspan="1">1 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">8 (36.4)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (18.2)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Nausea</td><td align="center" valign="top" rowspan="1" colspan="1">1 (16.7)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (27.3)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (13.6)</td></tr><tr valign="top" style="border-bottom:solid 1px #000000"><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Insomnia</td><td align="center" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">6 (27.3)</td><td align="center" valign="top" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="hep29081-note-0009"><p>Serious adverse events were defined as events resulting in hospitalization or prolongation of hospitalization, persistent or clinically significant disability or incapacity, or death or that were life&#x02010;threatening or required medical or surgical intervention to prevent a serious outcome.</p></fn><fn id="hep29081-note-0010"><label>a</label><p>Breast cancer.</p></fn><fn id="hep29081-note-0011"><label>b</label><p>Fractured femur.</p></fn><fn id="hep29081-note-0012"><label>c</label><p>Occurring in &#x0003e;10% of all patients.</p></fn></table-wrap-foot></table-wrap></sec><sec id="hep29081-sec-0007"><title>Discussion</title><p>The once&#x02010;daily regimen of GLE and PIB was well tolerated with no serious adverse events related to study drug, no discontinuations due to adverse events, and no relevant laboratory abnormalities. It also resulted in high rates of SVR with or without coadministration of RBV in patients with HCV GT1 infection and prior DAA therapy experience. Overall, the DAA&#x02010;experienced population in the MAGELLAN&#x02010;1 study had broad representation of baseline NS3 and NS5A polymorphisms, including polymorphisms at key NS5A positions M28, Q30, L31, H58, and Y93 that confer resistance to earlier&#x02010;generation NS5A inhibitors. Additionally, all 8 patients previously treated with ledipasvir/sofosbuvir achieved SVR12 despite the presence of the NS5A resistance&#x02010;associated Y93H/N polymorphism in 5 patients and multiple NS5A polymorphisms in 4 patients. This confirms <italic>in vitro</italic> data that variants at the Y93 position are susceptible to PIB<xref rid="hep29081-bib-0022" ref-type="ref">22</xref> and suggests GLE plus PIB is an effective treatment for those with a baseline polymorphism or treatment&#x02010;emergent substitution at this position. Furthermore, 14 of 15 (93%) patients who failed a prior dual (NS3/4A PI plus NS5A inhibitor) or triple (NS3/4A PI plus NS5A inhibitor plus NS5B polymerase inhibitor) DAA regimen achieved SVR12.</p><p>The addition of RBV to the GLE + PIB regimen had no apparent impact on response as the rates of virologic failure were identical in arms B and arm C by mITT analysis. All 5 patients who modified RBV dose achieved SVR12, similar to findings with other DAA regimens.<xref rid="hep29081-bib-0025" ref-type="ref">25</xref>, <xref rid="hep29081-bib-0026" ref-type="ref">26</xref>, <xref rid="hep29081-bib-0027" ref-type="ref">27</xref> However, this study did not have a large enough sample size for sufficient statistical power to confirm the impact of RBV on SVR. The patient with virologic relapse in the RBV&#x02010;containing arm had prior treatment with two different therapeutic regimens: daclatasvir alone and telaprevir plus pegylated interferon with RBV. This patient had L31M and H58D in NS5A at baseline; at the time of virologic failure at posttreatment week 4, a Q30R substitution emerged in this patient in addition to L31M and H58D from baseline. The 1 other patient in this study with a baseline H58D mutation in NS5A also had baseline M28V and Q30R polymorphisms (instead of L31M) in the same target, with an additional Q80K polymorphism in NS3; and this patient achieved SVR12. The patient with virologic breakthrough was on immunosuppressive therapy for Crohn's disease and had prior ileocolectomy; it is unclear whether this contributed to virologic failure. This patient had three NS5A baseline polymorphisms (M28V, Q30R, and H58C) and NS3 baseline polymorphisms at amino acid positions Y56 and D168 that were maintained until virologic failure. While 3 other patients with baseline D168 polymorphisms achieved SVR12, this was the only patient with a baseline Y56 polymorphism. The NS3 V36M and NS5A M28G substitutions emerged in this patient after virologic failure. Both patients who had virologic failure were reported as compliant and had drug exposures similar to other patients.</p><p>No clinically significant laboratory abnormalities were reported in hemoglobin levels, including in the RBV&#x02010;containing arm. Furthermore, no clinically significant chemistry values were observed, including on&#x02010;treatment elevations in total bilirubin or alanine aminotransferase &#x0003e;3 times the upper limit of normal after alanine aminotransferase normalization or nadir. Although no serious adverse events related to study drug were reported in either arm, the addition of RBV did not reduce the rate of virologic failure but did increase the rate of adverse events. One potential limitation of this study was that RBV coadministration was 800 mg daily, regardless of patient weight, i.e., below the conventional 1,000 or 1,200 mg weight&#x02010;based RBV dosing. Because of this, it is unclear whether weight&#x02010;based RBV coadministration could have increased the efficacy in arm B. By corollary, it is also likely that a conventional weight&#x02010;based RBV dose would have resulted in a further increased rate of adverse events for these patients when compared to that seen with the lower dose of RBV in arm B as increasing side effects with higher RBV dose is well documented.<xref rid="hep29081-bib-0028" ref-type="ref">28</xref> However, regardless of comparison between treatment arms, the low rate of virologic failure in the RBV&#x02010;sparing arm suggests that the response rate is already near maximal, and the addition of RBV may not impact this. The patient population enrolled here is considered inherently difficult to cure, owing to increased prevalence of baseline resistance&#x02010;associated polymorphisms likely stemming from prior DAA failure.<xref rid="hep29081-bib-0015" ref-type="ref">15</xref>, <xref rid="hep29081-bib-0029" ref-type="ref">29</xref>, <xref rid="hep29081-bib-0030" ref-type="ref">30</xref>, <xref rid="hep29081-bib-0031" ref-type="ref">31</xref>, <xref rid="hep29081-bib-0032" ref-type="ref">32</xref> As such, additional study is required in this diverse patient population to further confirm efficacy of the regimen in GT1 patients with prior failure of DAA therapy, including patients with prior exposure to DAA&#x02010;containing therapies and concomitant cirrhosis, who were excluded here.</p><p>In summary, the combination of GLE and PIB showed potent antiviral activity, regardless of the presence of one or more baseline resistance&#x02010;associated polymorphisms and irrespective of previous DAA&#x02010;containing treatment regimens, resulting in high SVR12 rates in patients without cirrhosis but with HCV GT1 infection. This suggests that the combination of GLE and PIB is highly effective in this population, which currently has limited treatment options. Based on these findings, larger and more diverse patient groups are being evaluated in phase 3 studies to confirm the safety and efficacy of the RBV&#x02010;free coformulation of GLE/PIB (300 mg/120 mg) in all six major HCV GTs, including patients with prior DAA experience and compensated cirrhosis.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><p>Additional Supporting Information may be found at <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/hep.29081/suppinfo">onlinelibrary.wiley.com/doi/10.1002/hep.29081/suppinfo</ext-link>.</p></supplementary-material><supplementary-material content-type="local-data"><caption><p>Supporting Information</p></caption><media xlink:href="HEP-66-389-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="hep29081-sec-0008"><title>Acknowledgment</title><p>We thank AbbVie employees Wei Liu, Tami Pilot&#x02010;Matias, Christine Collins, Rakesh Tripathi, Gretja Schnell, Preethi Krishnan, Jill M. Beyer, Thomas J. Reisch, Tanya Dekhtyar, and Michelle L. Irvin for assistance provided in the design and data analysis of the MAGELLAN&#x02010;I study, as well as Douglas E. Dylla for scientific insights and critical review. AbbVie funded the study and participated in the collection, analysis, and interpretation of the data and in the writing, review, and approval of the manuscript. Medical writing was provided by Ryan J. Bourgo of AbbVie. These persons received no compensation apart from usual salary for their contributions.</p></ack><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="hep29081-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="hep29081-cit-0001">
+<string-name>
+<surname>Gower</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Estes</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Blach</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Razavi&#x02010;Shearer</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Razavi</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Global epidemiology and genotype distribution of the hepatitis C virus infection</article-title>. <source>J Hepatol</source>
+<year>2014</year>;<volume>61</volume>(<issue>1 Suppl.</issue>):<fpage>S45</fpage>&#x02010;<lpage>S57</lpage>.
+<pub-id pub-id-type="pmid">25086286</pub-id></mixed-citation></ref><ref id="hep29081-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="hep29081-cit-0002">
+<string-name>
+<surname>Messina</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Humphreys</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Flaxman</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Brown</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Cooke</surname>
+<given-names>GS</given-names>
+</string-name>, 
+<string-name>
+<surname>Pybus</surname>
+<given-names>OG</given-names>
+</string-name>, et al. <article-title>Global distribution and prevalence of hepatitis C virus genotypes</article-title>. <source>Hepatology</source>
+<year>2015</year>;<volume>61</volume>:<fpage>77</fpage>&#x02010;<lpage>87</lpage>.
+<pub-id pub-id-type="pmid">25069599</pub-id></mixed-citation></ref><ref id="hep29081-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="hep29081-cit-0003">
+<string-name>
+<surname>Asselah</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Boyer</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Saadoun</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Martinot&#x02010;Peignoux</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Marcellin</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Direct&#x02010;acting antivirals for the treatment of hepatitis C virus infection: optimizing current IFN&#x02010;free treatment and future perspectives</article-title>. <source>Liver Int</source>
+<year>2016</year>;<volume>36</volume>(<issue>Suppl. 1</issue>):<fpage>47</fpage>&#x02010;<lpage>57</lpage>.
+<pub-id pub-id-type="pmid">26725897</pub-id></mixed-citation></ref><ref id="hep29081-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="hep29081-cit-0004">
+<string-name>
+<surname>Pawlotsky</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>New hepatitis C therapies: the toolbox, strategies, and challenges</article-title>. <source>Gastroenterology</source>
+<year>2014</year>;<volume>146</volume>:<fpage>1176</fpage>&#x02010;<lpage>1192</lpage>.
+<pub-id pub-id-type="pmid">24631495</pub-id></mixed-citation></ref><ref id="hep29081-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="hep29081-cit-0005">
+<string-name>
+<surname>Shah</surname>
+<given-names>ND</given-names>
+</string-name>, 
+<string-name>
+<surname>Fried</surname>
+<given-names>MW</given-names>
+</string-name>. <article-title>Treatment options of patients with chronic hepatitis C who have failed prior therapy</article-title>. <source>Clin Liver Dis</source>
+<year>2016</year>;<volume>7</volume>:<fpage>40</fpage>&#x02010;<lpage>44</lpage>.
+</mixed-citation></ref><ref id="hep29081-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="hep29081-cit-0006">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Felmlee</surname>
+<given-names>DJ</given-names>
+</string-name>. <article-title>Mechanisms of hepatitis C viral resistance to direct acting antivirals</article-title>. <source>Viruses</source>
+<year>2015</year>;<volume>7</volume>:<fpage>6716</fpage>&#x02010;<lpage>6729</lpage>.
+<pub-id pub-id-type="pmid">26694454</pub-id></mixed-citation></ref><ref id="hep29081-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="hep29081-cit-0007">
+<string-name>
+<surname>Horner</surname>
+<given-names>SM</given-names>
+</string-name>, 
+<string-name>
+<surname>Naggie</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Successes and challenges on the road to cure hepatitis C</article-title>. <source>PLoS Pathog</source>
+<year>2015</year>;<volume>11</volume>:<fpage>e1004854</fpage>.
+<pub-id pub-id-type="pmid">26087286</pub-id></mixed-citation></ref><ref id="hep29081-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="hep29081-cit-0008">
+<string-name>
+<surname>Poveda</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Wyles</surname>
+<given-names>DL</given-names>
+</string-name>, 
+<string-name>
+<surname>Mena</surname>
+<given-names>&#x000c1;</given-names>
+</string-name>, 
+<string-name>
+<surname>Pedreira</surname>
+<given-names>JD</given-names>
+</string-name>, 
+<string-name>
+<surname>Castro&#x02010;Iglesias</surname>
+<given-names>&#x000c1;</given-names>
+</string-name>, 
+<string-name>
+<surname>Cachay</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Update on hepatitis C virus resistance to direct&#x02010;acting antiviral agents</article-title>. <source>Antiviral Res</source>
+<year>2014</year>;<volume>108</volume>:<fpage>181</fpage>&#x02010;<lpage>191</lpage>.
+<pub-id pub-id-type="pmid">24911972</pub-id></mixed-citation></ref><ref id="hep29081-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="hep29081-cit-0009">
+<string-name>
+<surname>Jacobson</surname>
+<given-names>IM</given-names>
+</string-name>, 
+<string-name>
+<surname>Asante&#x02010;Appiah</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Wong</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Black</surname>
+<given-names>TA</given-names>
+</string-name>, 
+<string-name>
+<surname>Howe</surname>
+<given-names>AY</given-names>
+</string-name>, 
+<string-name>
+<surname>Wahl</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Prevalence and impact of baseline NS5A resistance&#x02010;associated variants (RAVs) on the efficacy of elbasvir/grazoprevir (EBR/GZR) against GT1a infection</article-title>. <source>Hepatology</source>
+<year>2015</year>;<volume>62</volume>:<fpage>1393</fpage>&#x02010;<lpage>1394A</lpage>.
+</mixed-citation></ref><ref id="hep29081-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="hep29081-cit-0010">
+<string-name>
+<surname>Sarrazin</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Dvory&#x02010;Sobol</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Svarovskaia</surname>
+<given-names>ES</given-names>
+</string-name>, 
+<string-name>
+<surname>Doehle</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Martin</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Zeuzem</surname>
+<given-names>S</given-names>
+</string-name>, et al. <article-title>The prevalence and the effect of HCV NS5A resistance associated variants in subjects with compensated cirrhosis treated with ledipasvir/sofosbuvir &#x000b1; RBV</article-title>. <source>J Hepatol</source>
+<year>2015</year>;<volume>62</volume>:<fpage>S620</fpage>.
+</mixed-citation></ref><ref id="hep29081-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="hep29081-cit-0011">
+<string-name>
+<surname>Dvory&#x02010;Sobol</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Wyles</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Ouyang</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Chodavarapu</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>McNally</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Cheng</surname>
+<given-names>W</given-names>
+</string-name>, et al. <article-title>Long&#x02010;term persistance of HCV NS5A variants after treatment with NS5A inhibitor ledipasvir</article-title>. <source>J Hepatol</source>
+<year>2015</year>;<volume>62</volume>:<fpage>S221</fpage>.
+</mixed-citation></ref><ref id="hep29081-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="hep29081-cit-0012">
+<string-name>
+<surname>Krishnan</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Tripathi</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Schnell</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Reisch</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Beyer</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Dekhtyar</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Long&#x02010;term follow&#x02010;up of treatment&#x02010;emergent resistance&#x02010;associated variants in NS3, NS5A, and NS5B with paritaprevir/r&#x02010;, ombitasvir&#x02010;, and dasabuvir&#x02010;based regimens</article-title>. <source>J Hepatol</source>
+<year>2015</year>;<volume>62</volume>:<fpage>S220</fpage>.
+</mixed-citation></ref><ref id="hep29081-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="hep29081-cit-0013">
+<string-name>
+<surname>Zeuzem</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Ghalib</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Reddy</surname>
+<given-names>KR</given-names>
+</string-name>, 
+<string-name>
+<surname>Pockros</surname>
+<given-names>PJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Ben Ari</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhao</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Grazoprevir&#x02010;elbasvir combination therapy for treatment&#x02010;naive cirrhotic and noncirrhotic patients with chronic HCV genotype 1, 4, or 6 infection: a randomized trial</article-title>. <source>Ann Intern Med</source>
+<year>2015</year>;<volume>163</volume>:<fpage>1</fpage>&#x02010;<lpage>13</lpage>.
+<pub-id pub-id-type="pmid">25909356</pub-id></mixed-citation></ref><ref id="hep29081-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="hep29081-cit-0014">
+<string-name>
+<surname>Lawitz</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Flamm</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Yang</surname>
+<given-names>JC</given-names>
+</string-name>, 
+<string-name>
+<surname>Pang</surname>
+<given-names>PS</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhu</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Svarovskaia</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Retreatment of patients who failed 8 or 12 weeks of ledipasvir/sofosbuvir&#x02010;based regimens with ledipasvir/sofosbuvir for 24 weeks</article-title>. <source>J Hepatol</source>
+<year>2015</year>;<volume>62</volume>:<fpage>S192</fpage>.
+</mixed-citation></ref><ref id="hep29081-bib-0015"><label>15</label><mixed-citation publication-type="book" id="hep29081-cit-0015">
+<source>ZEPATIER (elbasvir and grazoprevir) tablets, for oral use [package insert]</source>. Revised February 2017. <publisher-loc>Whitehouse Station, NJ</publisher-loc>: <publisher-name>Merck &#x00026; Co</publisher-name>.
+</mixed-citation></ref><ref id="hep29081-bib-0016"><label>16</label><mixed-citation publication-type="miscellaneous" id="hep29081-cit-0016">
+<collab collab-type="authors">AASLD&#x02010;IDSA</collab>
+. <article-title>Recommendations for testing, managing, and treating hepatitis C</article-title>. <year>2016</year> Available at <ext-link ext-link-type="uri" xlink:href="http://www.hcvguidelines.org">http://www.hcvguidelines.org</ext-link>. Accessed December 8, 2016.
+</mixed-citation></ref><ref id="hep29081-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="hep29081-cit-0017">
+<string-name>
+<surname>Buti</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Gordon</surname>
+<given-names>SC</given-names>
+</string-name>, 
+<string-name>
+<surname>Zuckerman</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Lawitz</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Calleja</surname>
+<given-names>JL</given-names>
+</string-name>, 
+<string-name>
+<surname>Hofer</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Grazoprevir, elbasvir, and ribavirin for chronic hepatitis C virus genotype 1 infection after failure of pegylated interferon and ribavirin with an earlier&#x02010;generation protease inhibitor: final 24&#x02010;week results from C&#x02010;SALVAGE</article-title>. <source>Clin Infect Dis</source>
+<year>2016</year>;<volume>62</volume>:<fpage>32</fpage>&#x02010;<lpage>36</lpage>.
+<pub-id pub-id-type="pmid">26371152</pub-id></mixed-citation></ref><ref id="hep29081-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="hep29081-cit-0018">
+<string-name>
+<surname>Gane</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Shiffman</surname>
+<given-names>ML</given-names>
+</string-name>, 
+<string-name>
+<surname>Etzkorn</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Morelli</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Stedman</surname>
+<given-names>CA</given-names>
+</string-name>, 
+<string-name>
+<surname>Davis</surname>
+<given-names>MN</given-names>
+</string-name>, et al. <article-title>Sofosbuvir/velpatasvir in combination with ribavirin for 24 weeks is effective retreatment for patients who failed prior NS5A containing DAA regimens: results of the GS&#x02010;US&#x02010;342&#x02013;1553 study</article-title>. <source>J Hepatol</source>
+<year>2016</year>;<volume>64</volume>(<issue>Suppl.</issue>):<fpage>S147</fpage>&#x02010;<lpage>S148</lpage>.
+</mixed-citation></ref><ref id="hep29081-bib-0019"><label>19</label><mixed-citation publication-type="book" id="hep29081-cit-0019">
+<string-name>
+<surname>Lawitz</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Poordad</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Gutierrez</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Wells</surname>
+<given-names>JT</given-names>
+</string-name>, 
+<string-name>
+<surname>Landaverde</surname>
+<given-names>CE</given-names>
+</string-name>, 
+<string-name>
+<surname>Reiling</surname>
+<given-names>JR</given-names>
+</string-name>, et al. <chapter-title>C&#x02010;SWIFT retreatment (part B): 12 weeks of elbasvir/grazoprevir with sofosbuvir and ribavirin successfully treated G1&#x02010;infected subjects who failed short&#x02010;duration all&#x02010;oral therapy</chapter-title> Presented at: <source>The Liver Meeting (AASLD) 2015</source>. November 13&#x02010;17, <year>2015</year>; <publisher-loc>San Francisco, CA, USA</publisher-loc>.
+</mixed-citation></ref><ref id="hep29081-bib-0020"><label>20</label><mixed-citation publication-type="book" id="hep29081-cit-0020">
+<string-name>
+<surname>Poordad</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Bennett</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Sepe</surname>
+<given-names>TE</given-names>
+</string-name>, 
+<string-name>
+<surname>Cohen</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Reindollar</surname>
+<given-names>RW</given-names>
+</string-name>, 
+<string-name>
+<surname>Everson</surname>
+<given-names>GT</given-names>
+</string-name>, et al. <chapter-title>QUARTZ&#x02010;I: retreatment of HCV genotype 1 DAA&#x02010;failures with ombitasvir/paritaprevir/r, dasabuvir, and sofosbuvir</chapter-title> Presented at: <source>The Liver Meeting (AASLD) 2015</source>. November 13&#x02010;17, <year>2015</year>; <publisher-loc>San Francisco, CA, USA</publisher-loc>.
+</mixed-citation></ref><ref id="hep29081-bib-0021"><label>21</label><mixed-citation publication-type="book" id="hep29081-cit-0021">
+<string-name>
+<surname>Ng</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Reisch</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Middleton</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>McDaniel</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Kempf</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Lu</surname>
+<given-names>L</given-names>
+</string-name>, et al. <chapter-title>ABT&#x02010;493, a potent HCV NS3/4A protease inhibitor with broad genotype coverage</chapter-title>
+<source>Poster #636 at: Twenty&#x02010;first Annual Conference on Retroviruses and Opportunistic Infections (CROI)</source>, March 3&#x02010;6, <year>2014</year>; <publisher-loc>Boston, MA, USA</publisher-loc>.
+</mixed-citation></ref><ref id="hep29081-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="hep29081-cit-0022">
+<string-name>
+<surname>Ng</surname>
+<given-names>TI</given-names>
+</string-name>, 
+<string-name>
+<surname>Krishnan</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Pilot&#x02010;Matias</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Kati</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Schnell</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Beyer</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>In vitro antiviral activity and resistance profile of the next generation hepatitis C virus NS5A inhibitor pibrentasvir</article-title>. <source>Antimicrob Agents Chemother</source>
+<year>2017</year> Feb 13. pii: AAC.02558&#x02010;16. doi: 10.1128/AAC.02558&#x02010;16. [Epub ahead of print]
+</mixed-citation></ref><ref id="hep29081-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="hep29081-cit-0023">
+<string-name>
+<surname>Gao</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Antiviral activity and resistance of HCV NS5A replication complex inhibitors</article-title>. <source>Curr Opin Virol</source>
+<year>2013</year>;<volume>3</volume>:<fpage>514</fpage>&#x02010;<lpage>520</lpage>.
+<pub-id pub-id-type="pmid">23896281</pub-id></mixed-citation></ref><ref id="hep29081-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="hep29081-cit-0024">
+<string-name>
+<surname>Gane</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Poordad</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Asatryan</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Kwo</surname>
+<given-names>PY</given-names>
+</string-name>, 
+<string-name>
+<surname>Lalezari</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>High efficacy of ABT&#x02010;493 and ABT&#x02010;530 in patients with HCV genotype 1 or 3 infection and compensated cirrhosis</article-title>. <source>Gastroenterology</source>
+<year>2016</year>;<volume>151</volume>:<fpage>651</fpage>&#x02010;<lpage>659</lpage>.
+<pub-id pub-id-type="pmid">27456384</pub-id></mixed-citation></ref><ref id="hep29081-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="hep29081-cit-0025">
+<string-name>
+<surname>Ferenci</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Bernstein</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Lalezari</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Cohen</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Luo</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Cooper</surname>
+<given-names>C</given-names>
+</string-name>, et al. <article-title>ABT&#x02010;450/r&#x02010;Ombitasvir and Dasabuvir with or without Ribavirin for HCV</article-title>. <source>N Engl J Med</source>
+<year>2014</year>; <volume>370</volume>:<fpage>1983</fpage>&#x02010;<lpage>1992</lpage>.
+<pub-id pub-id-type="pmid">24795200</pub-id></mixed-citation></ref><ref id="hep29081-bib-0026"><label>26</label><mixed-citation publication-type="book" id="hep29081-cit-0026">
+<string-name>
+<surname>Hassanein</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Vierling</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Reddy</surname>
+<given-names>KR</given-names>
+</string-name>, 
+<string-name>
+<surname>Cohen</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Morelli</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Mantry</surname>
+<given-names>PS</given-names>
+</string-name>, et al. <chapter-title>RUBY&#x02010;I, cohort 2: treatment of HCV genotype 1 infection in patients with severe or end&#x02010;stage renal disease, including patients with cirrhosis</chapter-title>
+<source>Presented at Asian Pacific Association for the Study of the Liver (APASL) Meeting 2016</source>. June 12, <year>2016</year>; <publisher-loc>Kaohsiung, Taiwan</publisher-loc>.
+</mixed-citation></ref><ref id="hep29081-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="hep29081-cit-0027">
+<string-name>
+<surname>Poordad</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Hezode</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Trinh</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Kowdley</surname>
+<given-names>KV</given-names>
+</string-name>, 
+<string-name>
+<surname>Zeuzem</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Agarwal</surname>
+<given-names>K</given-names>
+</string-name>, et al. <article-title>ABT&#x02010;450/r&#x02010;ombitasvir and dasabuvir with ribavirin for hepatitis C with cirrhosis</article-title>. <source>N Engl J Med</source>
+<year>2014</year>;<volume>370</volume>:<fpage>1973</fpage>&#x02010;<lpage>1982</lpage>.
+<pub-id pub-id-type="pmid">24725237</pub-id></mixed-citation></ref><ref id="hep29081-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="hep29081-cit-0028">
+<string-name>
+<surname>Lindahl</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Stahle</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Bruchfeld</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Schvarcz</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>High&#x02010;dose ribavirin in combination with standard dose peginterferon for treatment of patients with chronic hepatitis C</article-title>. <source>Hepatology</source>
+<year>2005</year>;<volume>41</volume>:<fpage>275</fpage>&#x02010;<lpage>279</lpage>.
+<pub-id pub-id-type="pmid">15660393</pub-id></mixed-citation></ref><ref id="hep29081-bib-0029"><label>29</label><mixed-citation publication-type="book" id="hep29081-cit-0029">
+<source>DAKLINZA (daclatasvir) tablets [package insert]</source>. Revised February 2017. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Bristol&#x02010;Meyers Squibb</publisher-name>.
+</mixed-citation></ref><ref id="hep29081-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="hep29081-cit-0030">
+<string-name>
+<surname>Fried</surname>
+<given-names>MW</given-names>
+</string-name>, 
+<string-name>
+<surname>Buti</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Dore</surname>
+<given-names>GJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Flisiak</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Ferenci</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Jacobson</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Once&#x02010;daily simeprevir (TMC435) with pegylated interferon and ribavirin in treatment&#x02010;naive genotype 1 hepatitis C: the randomized PILLAR study</article-title>. <source>Hepatology</source>
+<year>2013</year>;<volume>58</volume>:<fpage>1918</fpage>&#x02010;<lpage>1929</lpage>.
+<pub-id pub-id-type="pmid">23907700</pub-id></mixed-citation></ref><ref id="hep29081-bib-0031"><label>31</label><mixed-citation publication-type="book" id="hep29081-cit-0031">
+<string-name>
+<surname>Wang</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Reeves</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Terrault</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Lim</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Morelli</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuo</surname>
+<given-names>A</given-names>
+</string-name>, et al. <chapter-title>Prevalence and impact of baseline resistance&#x02010;associated variants (RAVs) on the efficacy of ledipasvir/sofosbuvir or simeprevir/sofosbuvir against GT1 HCV infection: HCV&#x02010;TARGET interim analysis</chapter-title>
+<source>Presented at: The International Liver Congress (EASL)</source>
+<year>2016</year> April 14&#x02010;17; <publisher-loc>Barcelona, Spain</publisher-loc>.
+</mixed-citation></ref><ref id="hep29081-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="hep29081-cit-0032">
+<string-name>
+<surname>Zeuzem</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Rockstroh</surname>
+<given-names>JK</given-names>
+</string-name>, 
+<string-name>
+<surname>Kwo</surname>
+<given-names>PY</given-names>
+</string-name>, 
+<string-name>
+<surname>Roth</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Lawitz</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Sulkowski</surname>
+<given-names>MS</given-names>
+</string-name>, et al. <article-title>Predictors of response to grazoprevir/elbasvir among HCV genotype 1 (GT1)&#x02013;infected patients: integrated analysis of phase 2&#x02010;3 trials</article-title>. <source>Hepatology</source>
+<year>2015</year>;<volume>62</volume>:<fpage>554A</fpage>.
+</mixed-citation></ref></ref-list></back></article>

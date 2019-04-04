@@ -1,0 +1,517 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27207965</article-id><article-id pub-id-type="pmc">4889193</article-id><article-id pub-id-type="doi">10.1161/JAHA.116.003230</article-id><article-id pub-id-type="publisher-id">JAH31408</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Pediatric Cardiology</subject></subj-group></subj-group></article-categories><title-group><article-title>Angiotensin&#x02010;Converting Enzyme Inhibitor Initiation and Dose Uptitration in Children With Cardiovascular Disease: A Retrospective Review of Standard Clinical Practice and a Prospective Randomized Clinical Trial</article-title><alt-title alt-title-type="left-running-head">Roche et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah31408-cr-0001" contrib-type="author"><name><surname>Roche</surname><given-names>S. Lucy</given-names></name><degrees>MB ChB, MRCPCH, MD</degrees><xref ref-type="aff" rid="jah31408-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jah31408-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah31408-cr-0002" contrib-type="author"><name><surname>Timberlake</surname><given-names>Kathryn</given-names></name><degrees>PharmD</degrees><xref ref-type="aff" rid="jah31408-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31408-cr-0003" contrib-type="author"><name><surname>Manlhiot</surname><given-names>Cedric</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah31408-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31408-cr-0004" contrib-type="author"><name><surname>Balasingam</surname><given-names>Mervin</given-names></name><degrees>BA, MA</degrees><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31408-cr-0005" contrib-type="author"><name><surname>Wilson</surname><given-names>Judith</given-names></name><degrees>MN</degrees><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31408-cr-0006" contrib-type="author"><name><surname>George</surname><given-names>Kristen</given-names></name><degrees>MS</degrees><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31408-cr-0007" contrib-type="author"><name><surname>McCrindle</surname><given-names>Brian W.</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="jah31408-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31408-cr-0008" contrib-type="author" corresp="yes"><name><surname>Kantor</surname><given-names>Paul F.</given-names></name><degrees>MBBCh, FRCPC</degrees><xref ref-type="aff" rid="jah31408-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah31408-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="jah31408-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="jah31408-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Medicine</named-content><institution>University of Toronto</institution><country country="CA">Canada</country></aff><aff id="jah31408-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Faculty of Pharmacy</named-content><institution>Univeristy of Toronto</institution><country country="CA">Canada</country></aff><aff id="jah31408-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">The Labatt Family Heart Center</named-content><institution>The Hospital for Sick Children</institution><named-content content-type="city">Toronto</named-content><country country="CA">Canada</country></aff><aff id="jah31408-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Peter Munk Cardiac Centre</named-content><institution>Toronto General Hospital</institution><named-content content-type="city">Toronto</named-content><country country="CA">Canada</country></aff><aff id="jah31408-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Stollery Children's Hospital</named-content><institution>University of Alberta</institution><named-content content-type="city">Edmonton</named-content><named-content content-type="country-part">Alberta</named-content><country country="CA">Canada</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Paul F. Kantor, MBBCh, FRCPC, Department of Pediatrics, Stollery Children's Hospital, University of Alberta, 4C2.22 WMC 8440, 112 Street, Edmonton, Alberta, Canada T6G 2B7. E&#x02010;mail: <email>paul.kantor@albertahealthservices.ca</email></corresp></author-notes><pub-date pub-type="epub"><day>20</day><month>5</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>5</month><year>2016</year></pub-date><volume>5</volume><issue>5</issue><issue-id pub-id-type="doi">10.1002/jah3.2016.5.issue-5</issue-id><elocation-id>e003230</elocation-id><history><date date-type="received"><day>18</day><month>1</month><year>2016</year></date><date date-type="accepted"><day>10</day><month>2</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-5-e003230.pdf"/><abstract id="jah31408-abs-0001"><sec id="jah31408-sec-0001"><title>Background</title><p>Angiotensin&#x02010;converting enzyme inhibitors (<styled-content style="fixed-case">ACEI</styled-content>s) are a mainstay of medical management in pediatric cardiology. However, there are no data defining how best to initiate and uptitrate the dose of these medications in children.</p></sec><sec id="jah31408-sec-0002"><title>Methods and Results</title><p>Retrospective chart review revealed only 24% of our pediatric cardiology inpatients were discharged on predefined optimal doses of <styled-content style="fixed-case">ACEI</styled-content>s and few underwent further dose uptitration in the 8&#x000a0;weeks after hospital discharge. Therefore, 2 alternative protocols for initiation of captopril were compared in a prospective randomized clinical trial. A &#x0201c;rapid uptitration&#x0201d; protocol reached an optimal dose on day 3, whereas the alternative, &#x0201c;prolonged uptitration&#x0201d; protocol, reached an optimal dose on&#x000a0;day 9. Forty&#x02010;6 patients (54% male) were recruited to the trial, with a median age of 0.7 year (<styled-content style="fixed-case">IQR</styled-content> 0.5&#x02013;2.3 years). Captopril was&#x000a0;initiated while in intensive care in 39% of patients and on the cardiology ward in 61%. There were no differences between the&#x000a0;protocols in episodes of hypotension, symptomatic hypotension, or indices of renal function. Patients following the rapid protocol reached higher doses of captopril (0.93&#x000b1;0.24 versus 0.57&#x000b1;0.38&#x000a0;mg/kg per dose, <italic>P</italic>&#x0003c;0.0001) and were more likely to have achieved the predefined target (88% versus 43%, <italic>P</italic>=0.002) and optimal <styled-content style="fixed-case">ACEI</styled-content> doses (80% versus 29%, <italic>P</italic>=0.001) before discharge.</p></sec><sec id="jah31408-sec-0003"><title>Conclusions</title><p>A protocol of rapid <styled-content style="fixed-case">ACEI</styled-content> dose uptitration for infants and children with cardiovascular disease can be introduced safely, even in patients receiving intensive care therapy. Compared with standard clinical practice or with a more prolonged protocol, rapid <styled-content style="fixed-case">ACEI</styled-content> dose uptitration achieves a higher dosage in this population with no evident disadvantages.</p></sec><sec id="jah31408-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov/">https://www.clinicaltrials.gov/</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>00742040.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah31408-kwd-0001">congenital</kwd><kwd id="jah31408-kwd-0002">drugs</kwd><kwd id="jah31408-kwd-0003">heart defects</kwd><kwd id="jah31408-kwd-0004">heart failure</kwd><kwd id="jah31408-kwd-0005">pediatrics</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Congenital Heart Disease</kwd><kwd>Heart Failure</kwd><kwd>Pharmacology</kwd><kwd>ACE/Angiotension Receptors/Renin Angiotensin System</kwd><kwd>Clinical Studies</kwd></kwd-group><funding-group><award-group><funding-source>The Research and Education Fund</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Department of Pharmacy</funding-source></award-group></funding-group><funding-group><award-group><funding-source>The Labatt Family Heart Center</funding-source></award-group></funding-group><funding-group><award-group><funding-source>The Hospital for Sick Children Toronto</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Philip Witchel Children's Heart Failure Fellowship</funding-source></award-group></funding-group><funding-group><award-group><funding-source>British Congenital Cardiac Association's Madeline Steel Scholarship</funding-source></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah31408</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.9 mode:remove_FC converted:27.05.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah31408-cit-1001">(<source>J Am Heart Assoc</source>. <year>2016</year>;<volume>5</volume>:e003230 doi: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.116.003230">10.1161/JAHA.116.003230</ext-link>)</mixed-citation>
+</p></notes></front><body><sec id="jah31408-sec-0005"><title>Introduction</title><p>Angiotensin&#x02010;converting enzyme inhibitors (ACEIs) are a drug class widely used in pediatric cardiology. They are recommended for managing systolic heart failure,<xref rid="jah31408-bib-0001" ref-type="ref">1</xref>, <xref rid="jah31408-bib-0002" ref-type="ref">2</xref>, <xref rid="jah31408-bib-0003" ref-type="ref">3</xref> they are used to improve symptoms in patients with congenital heart disease and left&#x02010;to&#x02010;right shunting or valve regurgitation,<xref rid="jah31408-bib-0004" ref-type="ref">4</xref> they are important in the management of boys with Duchenne muscular dystrophy,<xref rid="jah31408-bib-0005" ref-type="ref">5</xref> and they are used in the management of hypertension.<xref rid="jah31408-bib-0006" ref-type="ref">6</xref>, <xref rid="jah31408-bib-0007" ref-type="ref">7</xref> Pediatric cardiac intensive care units use ACEIs frequently, often in postoperative cardiac care.<xref rid="jah31408-bib-0008" ref-type="ref">8</xref>, <xref rid="jah31408-bib-0009" ref-type="ref">9</xref> Despite these drugs being a mainstay of the medical management of pediatric heart disease, the literature contains little or no evidence to guide how these drugs should be introduced. In adult cardiology, a strong evidence base has produced clear recommendations as to when and how to initiate ACEIs therapy, typically in an outpatient setting.<xref rid="jah31408-bib-0010" ref-type="ref">10</xref>, <xref rid="jah31408-bib-0011" ref-type="ref">11</xref>, <xref rid="jah31408-bib-0012" ref-type="ref">12</xref>, <xref rid="jah31408-bib-0013" ref-type="ref">13</xref>, <xref rid="jah31408-bib-0014" ref-type="ref">14</xref>, <xref rid="jah31408-bib-0015" ref-type="ref">15</xref> In contrast, children with heart disease more often commence ACEIs as inpatients, and while pediatric formularies usually suggest starting with a low initial test dose (eg, 0.1&#x000a0;mg/kg captopril) and uptitration, no guidance is given as to the safest or most effective method of reaching a target dose.<xref rid="jah31408-bib-0016" ref-type="ref">16</xref>, <xref rid="jah31408-bib-0017" ref-type="ref">17</xref> Because there are concerns that ACEIs therapy in infants and very small children is particularly likely to result in hypotension and renal impairment,<xref rid="jah31408-bib-0018" ref-type="ref">18</xref> evidence&#x02010;based guidelines for ACEIs initiation and uptitration in children are necessary. We sought to address this knowledge gap. Based on existing practices in our institution, we prospectively tested the hypotheses that (1) introduction of protocol ACEIs uptitration would prove feasible and (2) a rapid ACEIs uptitration protocol for infants and children would be as safe as and more effective in achieving a target dose than a more prolonged protocol.</p></sec><sec id="jah31408-sec-0006"><title>Methods</title><p>This study consisted of 2 components: (1) an institutional retrospective chart review of ACEI use initiation and uptitration in pediatric cardiac inpatients and (2) a prospective randomized open&#x02010;label clinical trial of rapid versus prolonged uptitration of captopril in pediatric cardiac inpatients. In reporting the results of the randomized trial, we have followed CONSORT (consolidated standards for reporting trials) 2010 reporting guidelines.<xref rid="jah31408-bib-0019" ref-type="ref">19</xref>
+</p><sec id="jah31408-sec-0007"><title>Setting</title><p>This study was conducted within The Labatt Family Heart Center at The Hospital for Sick Children, Toronto. This center provides inpatient and outpatient medical and surgical care to infants and children with congenital and acquired heart disease, including cardiac transplantation and mechanical circulatory support.</p></sec><sec id="jah31408-sec-0008"><title>Definitions of &#x0201c;Target&#x0201d; and &#x0201c;Optimal&#x0201d; ACEI Doses</title><p>In our institution, ACEIs therapy is usually initiated with captopril dosed every 8&#x000a0;hours (q8h). Identical definitions of target and optimal captopril dose were used for the retrospective and prospective parts of this study. Each fell within manufacturer recommended dose ranges and our institutional formulary guidelines.<xref rid="jah31408-bib-0017" ref-type="ref">17</xref> The SAVE (survival and ventricular enlargement) study<xref rid="jah31408-bib-0020" ref-type="ref">20</xref> demonstrated a survival benefit in adults with 50&#x000a0;mg of captopril 3 times a day, which would approximate 0.7&#x000a0;mg/kg per dose q8h. On the basis of this, after reviewing doses reported in published studies of captopril use in infants and children (0.25&#x000a0;mg&#x02013;1&#x000a0;mg/dose)<xref rid="jah31408-bib-0004" ref-type="ref">4</xref> and after formally surveying the pediatric cardiologists in our institution, we defined a &#x0201c;target&#x0201d; dose of captopril as &#x02265;0.7&#x000a0;mg/kg per dose q8h. We defined a somewhat higher optimal dose at &#x02265;1&#x000a0;mg/kg per dose q8r. To evaluate whether target and optimal doses were achieved, doses were rounded to the nearest 0.01&#x000a0;mg/kg.</p><p>Once it is evident a patient tolerates ACEIs, our standard practice is to exchange captopril for a longer&#x02010;acting formulation in those for whom ACEI therapy is likely to be long term. The choice of drug depends on physician preference and the indication for treatment, though enalapril is most frequently prescribed. Few studies have examined pharmacoequivalency doses of ACEIs, and there are no widely recommended conversion methods. After canvasing the opinion of staff physician colleagues in The Hospital for Sick Children's Division of Cardiology, we pragmatically defined the target dose of enalapril to be &#x02265;0.1&#x000a0;mg/kg per dose every 12&#x000a0;hours (q12h) and the optimal dose of enalapril as &#x02265;0.3&#x000a0;mg/kg per dose q12h.</p></sec><sec id="jah31408-sec-0009"><title>Part 1: Retrospective Chart&#x000a0;Review</title><p>Institutional research ethics board approval was obtained for this part of the study, and a waiver for individual patient consent was granted. The pharmacy database of The Hospital for Sick Children, Toronto was queried to identify pediatric cardiology inpatients starting ACEI therapy after September 1, 2005. The charts of 50 consecutive patients were examined, and the following data were collected: demographics, diagnosis, date of ACEI initiation, baseline bloodwork, concomitant medications, name of ACEI, initial and subsequent ACEI doses, predose and postdose blood pressure (BP), duration of hospital stay, name of ACEI at discharge, discharge dose, discharge bloodwork, and ACEI dose at 8&#x000a0;weeks postdischarge.</p></sec><sec id="jah31408-sec-0010"><title>Part 2: Prospective Randomized Open&#x02010;Label Trial of Rapid Versus Prolonged Initiation and Uptitration of Captopril</title><sec id="jah31408-sec-0011"><title>Trial design</title><p>Analysis of data from the retrospective chart review raised concerns about suboptimal ACEI dosing in our patients (see later). We therefore designed a prospective randomized open&#x02010;label clinical trial of rapid versus prolonged initiation and uptitration of captopril in pediatric cardiac inpatients at our center. Our intentions were to determine whether adoption of a protocol would improve ACEI dosing and to rigorously test the safety and efficacy of 2 different potential uptitration strategies. Subjects were randomized in a 1:1 ratio with stratification to permit equal numbers of intensive care patients in each arm. There were no changes to the methods after the trial began. The study was approved by the institutional research ethics board and by Health Canada (control No. 122190). The trial was registered at the US&#x000a0;National Institutes of Health (ClinicalTrials.gov NCT00742040). The full protocol for this trial is available by contacting the corresponding author.</p></sec><sec id="jah31408-sec-0012"><title>Participants and recruitment</title><p>Investigators were notified of any patient who met&#x000a0;all 3 eligibility criteria: (1) pediatric cardiac inpatient (located on the cardiology ward or in the cardiac intensive care unit [CICU]), (2) aged 0 to 18&#x000a0;years, and (3) primary physician decided to commence an ACEI. Indications for ACEIs were based only on clinician choice and not protocol. To maximize recruitment, those who were identified within 24&#x000a0;hours of initiation of captopril but had yet to start uptitration were eligible for inclusion. Prospective enrollees were screened against the following exclusion criteria: patients with a known sensitivity to ACEIs, serum potassium &#x0003e;5&#x000a0;mmol/L, those treated with any ACEIs for &#x0003e;24&#x000a0;hours within the preceding 6&#x000a0;months, and infants aged &#x0003c;36&#x000a0;weeks postconceptual age. Following screening eligibility, a member of the study team obtained written informed consent from participants or their parent/guardian. The ongoing management of potential subjects who declined participation was determined according to the preferences of their primary physician.</p></sec><sec id="jah31408-sec-0013"><title>Randomization</title><p>After eligibility screening and consent, a member of the study team contacted the Hospital for Sick Children's Research Support Pharmacy and reported recruitment. The Research Support Pharmacy created master randomization tables by using a block 4 1:1 ratio of rapid:prolonged uptitration design. Randomization was stratified according to hospital unit, so that there were equal numbers of CICU and cardiology ward patients in each group. Randomized patients received all captopril doses according to the protocol to which they were allocated, or a protocol variance was recorded.</p></sec><sec id="jah31408-sec-0014"><title>Study drug</title><p>The Research Support Pharmacy purchased Canadian commercial supplies of captopril for use in this study. The study drug was identical to that dispensed by the pharmacy for use in clinical practice. The method of administration was also unchanged from that in clinical use, namely in solution with water, by &#x0201c;dissolve and dose&#x0201d; method or as tablets. For dissolve and dose administration, 12.5&#x02010;mg tablets were dissolved in 12.5&#x000a0;mL of sterile water to produce 1&#x000a0;mg/mL solution. Administration of each dose was oral or via enteral tube.</p></sec><sec id="jah31408-sec-0015"><title>Interventions</title><p>During the study, patients started on captopril were randomly assigned to either a rapid or a prolonged medication uptitration protocol, and the clinical care team prescribed captopril doses accordingly. The rapid protocol was designed so that the optimal dose of captopril could be reached on day 3. The prolonged protocol was designed so that the optimal dose of captopril could be reached on day 9. Each protocol included identical instruction for measurement of BP and drawing of blood samples. Figure&#x000a0;<xref rid="jah31408-fig-0001" ref-type="fig">1</xref> details these protocols. Adherence and variances from the protocols were recorded. Adverse events, serious adverse events, and adverse drug reactions were defined according to The International Conference on Harmonization E&#x02010;6 Good Clinical Practice guidelines as any untoward medical occurrence in a patient subject after the administration of (but not necessarily having a causal relationship to) captopril. We adhered to The Hospital for Sick Children's adverse event reporting requirements as well as Health Canada's drug trial regulations.</p><fig fig-type="Figure" xml:lang="en" id="jah31408-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Protocols for uptitration of captopril dose and blood pressure (<styled-content style="fixed-case">BP</styled-content>) monitoring. A, Rapid captopril uptitration protocol. Expected time points of reaching target and optimal doses are highlighted in gray. Blood samples were drawn at baseline and on day 3, 4, or 5. B, Prolonged captopril uptitration protocol, Expected time with points of reaching target and optimal doses highlighted in gray. Blood samples were drawn at baseline and on day 3, 4, or 5.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-5-e003230-g001"/></fig></sec><sec id="jah31408-sec-0016"><title>Parameter monitoring</title><p>Identical parameter monitoring was required for each protocol (see Figure&#x000a0;<xref rid="jah31408-fig-0001" ref-type="fig">1</xref>). Parameter monitoring was performed by the bedside nurse and recorded in the patient's clinical chart. For each new drug dose, BP monitoring was performed in all patients at baseline and at 30&#x02010;minute intervals for 2&#x000a0;hours after drug administration or until baseline BP returned. Blood samples (potassium, sodium, urea, and creatinine) were drawn at baseline and then again (so as to permit concurrent sampling with clinically indicated testing) on days 3, 4, or 5 after starting captopril. This was consistent with our standard clinical practice.</p></sec><sec id="jah31408-sec-0017"><title>Data collection</title><p>Baseline data collected after enrollment and randomization included indication for ACEIs, current height and weight, and renal function. After initiation of captopril, the following data were collected from daily review of the clinical chart: baseline BP, postdose BPs, renal function after starting ACEIs, and protocol variances. At discharge from the hospital, additional data elements were captured, including duration of hospital stay, discharge dose of ACEIs, any instructions to increase the ACEI dose as an outpatient, and concomitant medications at discharge. Serum urea, creatinine, BP, and ACEI dose were recorded at the outpatient visit closest to 8 weeks postdischarge (between 4&#x000a0;and 12&#x000a0;weeks postdischarge).</p></sec><sec id="jah31408-sec-0018"><title>Study outcomes</title><p>The primary outcome was the number of subjects in each arm of the study who reached target and optimal ACEI doses during their inpatient stay. This was determined at the time of hospital discharge. Protocol variances were recorded prospectively as secondary outcomes to capture adverse events or challenges following the protocols. Seven potential protocol variances were defined a priori, and a pathway was determined for managing each (see Data S1). Potential variances were:
+<list list-type="simple"><list-item><p>V1. Symptomatic hypotension within 2&#x000a0;hours of captopril dose</p></list-item><list-item><p>V2. Asymptomatic systolic BP drop of &#x02265;20% within 2&#x000a0;hours of captopril dose</p></list-item><list-item><p>V3. Asymptomatic BP drop of &#x0003c;20% within 2&#x000a0;hours of captopril dose</p></list-item><list-item><p>V4. Serum creatinine increases to less than double its baseline value</p></list-item><list-item><p>V5. Serum creatinine increases to double its baseline value or greater</p></list-item><list-item><p>V6. Serum potassium increases to &#x02265;5&#x000a0;mmol/L</p></list-item><list-item><p>V7. Physician wishes to discharge patient before achieving target dose</p></list-item></list>
+</p><p>In addition, we were interested to observe the length of hospital stay after initiation of ACEIs and the pattern of ACEI use and dose after hospital discharge; these measures were assessed by review of the clinical chart at 12 to 16&#x000a0;weeks postdischarge. The only change to the outcome measures as defined in the study protocol made after the trial started was to broaden the time point of outpatient data collection from &#x0201c;8&#x000a0;weeks postdischarge&#x0201d; to &#x0201c;the nearest outpatient visit to 8&#x000a0;weeks postdischarge, no fewer than 4&#x000a0;weeks and no longer than 12&#x000a0;weeks.&#x0201d; This change was made for practical purposes, because it rapidly became apparent that few patients were being seen at exactly 8&#x000a0;weeks.</p></sec><sec id="jah31408-sec-0019"><title>Sample size</title><p>Sample size was calculated by using the proportion of patients in each group who were expected to achieve target ACEI dose with each of the 2 uptitration protocols. Based on the retrospective component of the study, we anticipated that 40% of patients in the prolonged uptitration group would achieve the target ACEI dose before hospital discharge compared with 80% of patients in the rapid uptitration group. At a significance level of 0.05 and a required study power of 85%, we determined that 25 patients in each group would be necessary. Based on pharmacy records reviewed for the retrospective case note survey and on a recruitment estimate of 70%, we anticipated attainment of a sample size of 50 patients within a 16&#x02010;month period. In fact, it took 72&#x000a0;months to complete prospective recruitment for this study.</p></sec></sec><sec id="jah31408-sec-0020"><title>Statistical Analysis</title><p>Data are presented as mean and SD values and as median values with 25th and 75th percentiles and frequencies as appropriate. For the primary and secondary outcome measures, comparisons between groups were performed by using Fisher's exact test or Student <italic>t</italic> test assuming unequal variance between groups as required. Change in BP with increasing captopril dose was modeled by using generalized estimating equations (linear regression models adjusted for repeated measures per patient through an autoregressive covariance structure). All statistical analyses were performed by using SAS v9.3 (SAS Institute). Data were analyzed on an &#x0201c;as&#x02010;treated&#x0201d; basis.</p></sec></sec><sec id="jah31408-sec-0021"><title>Results</title><sec id="jah31408-sec-0022"><title>Part 1: Retrospective Chart&#x000a0;Review</title><p>The charts of 50 (23 female) consecutive pediatric cardiology inpatients started on ACEI therapy between September 1, 2005 and March 19, 2007, were reviewed. There were 11 (22%) patients with dilated cardiomyopathy and 39 (78%) with congenital heart disease. In all cases, ACEIs were initiated with captopril. Baseline data for the patients are shown in Table&#x000a0;<xref rid="jah31408-tbl-0001" ref-type="table-wrap">1</xref>. The median duration of hospital stay after receiving the first dose of ACEI was 9 (5&#x02013;22) days. The predose and discharge values for serum creatinine (38.6&#x000a0;versus 38.6&#x000a0;&#x003bc;mol/L, <italic>P</italic>=0.8), estimated glomerular filtration rate according to the modified Schwartz equation&#x000a0;(73 versus 72&#x000a0;mL/min per 1.73&#x000a0;m<sup>2</sup>, <italic>P</italic>=0.9), and systolic BP (91 versus 87&#x000a0;mm&#x000a0;Hg, <italic>P</italic>=0.09) were similar, whereas serum potassium increased between these time points (4.0&#x000a0;versus 4.5&#x000a0;mmol/L, <italic>P</italic>=0.001). At the point of discharge from hospital, 35 (70%) of 50 children remained on ACEIs: 30 took captopril, 4 took enalapril, and 1 took ramipril. Of those discharged with captopril or enalapril, only 12 (36%) of 34 had attained a target range ACEI dose and 8 (24%) of 34 had attained an optimal ACEI dose. The median discharge dose of captopril was 0.6 (0.4&#x02013;1.0) mg/kg per dose q8h. None of the patients was discharged at or above target enalapril dose: mean was 0.2 (0.2&#x02013;0.3) mg/kg per dose q12h. There was 1 patient discharged on ramipril at 0.1&#x000a0;mg/kg per q24h.</p><table-wrap id="jah31408-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline Characteristics Before Initiation of Captopril</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Characteristic</th><th align="left" valign="top" rowspan="1" colspan="1">Baseline Clinical Practice (Retrospective Chart&#x000a0;Review), n=50</th><th align="left" valign="top" rowspan="1" colspan="1">Rapid Uptitration Protocol, n=25</th><th align="left" valign="top" rowspan="1" colspan="1">Prolonged Uptitration Protocol, n=21</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value (Rapid vs Prolonged)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y</td><td align="left" rowspan="1" colspan="1">1.1&#x000b1;2.6</td><td align="left" rowspan="1" colspan="1">2.5&#x000b1;4.1</td><td align="left" rowspan="1" colspan="1">2.3&#x000b1;4.7</td><td align="left" rowspan="1" colspan="1">0.85</td></tr><tr><td align="left" rowspan="1" colspan="1">Height, cm</td><td align="left" rowspan="1" colspan="1">61.6&#x000b1;22.8</td><td align="left" rowspan="1" colspan="1">81.1&#x000b1;33.3</td><td align="left" rowspan="1" colspan="1">73.0&#x000b1;34.9</td><td align="left" rowspan="1" colspan="1">0.43</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight, kg</td><td align="left" rowspan="1" colspan="1">6.3&#x000b1;6.9</td><td align="left" rowspan="1" colspan="1">13.6&#x000b1;20.0</td><td align="left" rowspan="1" colspan="1">10.8&#x000b1;14.2</td><td align="left" rowspan="1" colspan="1">0.59</td></tr><tr><td align="left" rowspan="1" colspan="1">BSA,<xref ref-type="fn" rid="jah31408-note-0003">a</xref> m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">0.32&#x000b1;0.22</td><td align="left" rowspan="1" colspan="1">0.52&#x000b1;0.5</td><td align="left" rowspan="1" colspan="1">0.44&#x000b1;0.4</td><td align="left" rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" rowspan="1" colspan="1">Females</td><td align="left" rowspan="1" colspan="1">23 (46%)</td><td align="left" rowspan="1" colspan="1">12 (48%)</td><td align="left" rowspan="1" colspan="1">9 (43%)</td><td align="left" rowspan="1" colspan="1">0.72</td></tr><tr><td align="left" rowspan="1" colspan="1">Diagnosis: CHD</td><td align="left" rowspan="1" colspan="1">39 (78%)</td><td align="left" rowspan="1" colspan="1">14 (56%)</td><td align="left" rowspan="1" colspan="1">10 (47%)</td><td align="left" rowspan="1" colspan="1">0.78</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;CHD single&#x02010;ventricle physiology</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">7 (28%)</td><td align="left" rowspan="1" colspan="1">4 (19%)</td><td align="left" rowspan="1" colspan="1">0.47</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;CHD biventricular physiology</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">7 (28%)</td><td align="left" rowspan="1" colspan="1">6 (29%)</td><td align="left" rowspan="1" colspan="1">0.97</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;CHD &#x02264;5&#x000a0;d postcardiotomy</td><td align="left" rowspan="1" colspan="1">12 (24%)</td><td align="left" rowspan="1" colspan="1">3 (12%)</td><td align="left" rowspan="1" colspan="1">5 (24%)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Diagnosis: DCM/M</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">10 (40%)</td><td align="left" rowspan="1" colspan="1">11 (44%)</td><td align="left" rowspan="1" colspan="1">0.41</td></tr><tr><td align="left" rowspan="1" colspan="1">Diagnosis: cardiac tumor</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">1 (4%)</td><td align="left" rowspan="1" colspan="1">0 (0%)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Started on CICU</td><td align="left" rowspan="1" colspan="1">29 (58%)</td><td align="left" rowspan="1" colspan="1">9 (36%)</td><td align="left" rowspan="1" colspan="1">9 (43%)</td><td align="left" rowspan="1" colspan="1">0.64</td></tr><tr><td align="left" rowspan="1" colspan="1">Started on ward</td><td align="left" rowspan="1" colspan="1">21 (42%)</td><td align="left" rowspan="1" colspan="1">16 (64%)</td><td align="left" rowspan="1" colspan="1">12 (57%)</td><td align="left" rowspan="1" colspan="1">0.64</td></tr><tr><td align="left" rowspan="1" colspan="1">Intubated</td><td align="left" rowspan="1" colspan="1">NR</td><td align="left" rowspan="1" colspan="1">2 (8%)</td><td align="left" rowspan="1" colspan="1">1 (5%)</td><td align="left" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" rowspan="1" colspan="1">Milrinone</td><td align="left" rowspan="1" colspan="1">21 (42%)</td><td align="left" rowspan="1" colspan="1">14 (56%)</td><td align="left" rowspan="1" colspan="1">12 (57%)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Epinephrine</td><td align="left" rowspan="1" colspan="1">1 (2%)</td><td align="left" rowspan="1" colspan="1">2 (8%)</td><td align="left" rowspan="1" colspan="1">1 (5%)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Phenoxybenzamine</td><td align="left" rowspan="1" colspan="1">3 (6%)</td><td align="left" rowspan="1" colspan="1">3 (12%)</td><td align="left" rowspan="1" colspan="1">3 (25%)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Furosemide (intravenous or oral)</td><td align="left" rowspan="1" colspan="1">43 (86%)</td><td align="left" rowspan="1" colspan="1">25 (100%)</td><td align="left" rowspan="1" colspan="1">18 (85%)</td><td align="left" rowspan="1" colspan="1">0.28</td></tr><tr><td align="left" rowspan="1" colspan="1">Creatinine, &#x003bc;mol/L</td><td align="left" rowspan="1" colspan="1">38.6&#x000b1;14.5</td><td align="left" rowspan="1" colspan="1">37.4&#x000b1;14.9</td><td align="left" rowspan="1" colspan="1">34.9&#x000b1;9.4</td><td align="left" rowspan="1" colspan="1">0.49</td></tr><tr><td align="left" rowspan="1" colspan="1">GFR<xref ref-type="fn" rid="jah31408-note-0004">b</xref>, mL/min per 1.73&#x000a0;m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">72.5&#x000b1;32.5</td><td align="left" rowspan="1" colspan="1">86.2&#x000b1;32.4</td><td align="left" rowspan="1" colspan="1">78.3&#x000b1;29.5</td><td align="left" rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" rowspan="1" colspan="1">Potassium, mmol/L</td><td align="left" rowspan="1" colspan="1">4.0</td><td align="left" rowspan="1" colspan="1">4.2&#x000b1;0.7</td><td align="left" rowspan="1" colspan="1">4.3&#x000b1;0.9</td><td align="left" rowspan="1" colspan="1">0.63</td></tr><tr><td align="left" rowspan="1" colspan="1">Sodium, mmol/L</td><td align="left" rowspan="1" colspan="1">NR</td><td align="left" rowspan="1" colspan="1">138.4&#x000b1;3.9</td><td align="left" rowspan="1" colspan="1">140.3&#x000b1;3.8</td><td align="left" rowspan="1" colspan="1">0.10</td></tr><tr><td align="left" rowspan="1" colspan="1">Urea, mmol/L</td><td align="left" rowspan="1" colspan="1">NR</td><td align="left" rowspan="1" colspan="1">6.4&#x000b1;3.3</td><td align="left" rowspan="1" colspan="1">6.3&#x000b1;5.9</td><td align="left" rowspan="1" colspan="1">0.92</td></tr></tbody></table><table-wrap-foot><fn id="jah31408-note-0002"><p>Data are reported as number (percentage of protocol total) or mean&#x000b1;SD. BSA indicates body surface area; CHD, congenital heart disease; DCM/M, dilated cardiomyopathy/myocarditis; CICU, cardiac intensive care unit; NR, not recorded.</p></fn><fn id="jah31408-note-0003"><label>a</label><p>Body surface area (Mosteller calculation).</p></fn><fn id="jah31408-note-0004"><label>b</label><p>Estimated glomerular filtration rate based on use of the modified Schwartz equation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Follow&#x02010;up data at 8&#x000a0;weeks postdischarge were available for 17 of 30 patients discharged on ACEIs. Captopril had been stopped in 2 patients. Only 6 of 15 remaining children with follow&#x02010;up data underwent further uptitration of ACEI dose after hospital discharge. None of the charts of patients included in the retrospective review included any mention of suspected ACEI side effects, suggesting that failure to attain target doses was unlikely to have been driven by the occurrence of adverse effects.</p></sec><sec id="jah31408-sec-0023"><title>Part 2: Prospective Randomized Trial of Rapid Versus Prolonged Captopril Uptitration Protocols</title><sec id="jah31408-sec-0024"><title>Patient characteristics</title><p>The number of patients screened for eligibility, included in the trial, and lost to follow&#x02010;up are shown in the CONSORT flow diagram (Figure&#x000a0;<xref rid="jah31408-fig-0002" ref-type="fig">2</xref>). The first patient was recruited September 1, 2008, and the final patient recruited August 22, 2012. The date of collection of the last patient follow&#x02010;up data was September 26, 2012. A total of 48 patients were enrolled: 26 were allocated to the rapid uptitration group and 22 to the prolonged uptitration group. In each group, 1 patient failed to receive the allocated intervention; thus, data were analyzed for a total of 46 patients (Figure&#x000a0;<xref rid="jah31408-fig-0002" ref-type="fig">2</xref>). The only statistically significant difference in baseline characteristics between the 2 uptitration protocol groups was that there were more patients receiving noninvasive ventilation (continuous positive airway pressure) in the prolonged uptitration protocol (Table&#x000a0;<xref rid="jah31408-tbl-0001" ref-type="table-wrap">1</xref>). All the children enrolled in the study had baseline creatinine and potassium levels within our laboratory's normal reference range.</p><fig fig-type="Figure" xml:lang="en" id="jah31408-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Consort diagram for trial of captopril uptitration in pediatric cardiology inpatients.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-5-e003230-g002"/></fig></sec><sec id="jah31408-sec-0025"><title>Indications for ACEIs</title><p>There were 5 indications given to starting an ACEI in the study subjects: impaired ventricular function (n=38, 82%), pulmonary overcirculation (n=6, 13%), atrioventricular valve regurgitation (n=5, 11%), hypertension (n=1, 2%), and protein&#x02010;losing enteropathy (n=1, 2%). These were not mutually exclusive, and in 3 patients the indications given were both atrioventricular valve regurgitation and impaired ventricular function.</p></sec><sec id="jah31408-sec-0026"><title>Dose response</title><p>Change in BP after initiation of treatment is depicted in Figure&#x000a0;<xref rid="jah31408-fig-0003" ref-type="fig">3</xref>. Patients randomized to the rapid uptitration had higher baseline systolic BP (91&#x000b1;14 versus 83&#x000b1;11 mm Hg, <italic>P</italic>&#x0003c;0.001) and diastolic BP (56&#x000b1;13 versus 47&#x000b1;10 mm Hg, <italic>P</italic>&#x0003c;0.001) than those in the prolonged uptitration protocol. In linear regression models adjusted for repeated measures through an autoregressive covariance structure, on treatment initiation, both systolic and diastolic BPs dropped by an average (SEM) of 5 (1) mm&#x000a0;Hg (<italic>P</italic>&#x0003c;0.001) and 5 (1) mm&#x000a0;Hg (<italic>P</italic>&#x0003c;0.001), respectively, with no differences between the 2 protocols (<italic>P</italic>=0.84 and 0.39, respectively). After the initial drop in BP, there were no further changes over time for either systolic BP (<italic>P</italic>=0.70) or diastolic BP (<italic>P</italic>=0.51), and there were no differences between the 2 protocols (<italic>P</italic>=0.97 and 0.86, respectively).</p><fig fig-type="Figure" xml:lang="en" id="jah31408-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Changes in blood pressure (<styled-content style="fixed-case">BP</styled-content>) after commencing captopril. Note that diastolic BP was recorded for a shorter duration because in infants and small children, these diastolic measurements are usually only possible in routine practice while the patient has an arterial line.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-5-e003230-g003"/></fig></sec><sec id="jah31408-sec-0027"><title>Achievement of target and optimal captopril doses during hospital admission</title><p>Patients following the rapid uptitration protocol achieved a higher maximum captopril dose during their hospital admission than did those following the prolonged protocol (0.93&#x000b1;0.24 versus 0.57&#x000b1;0.38&#x000a0;mg/kg, <italic>P</italic>&#x0003c;0.001). The difference in maximum doses achieved was reflected in the proportions of each group achieving the target and the optimal captopril dose during hospital admission (Figure&#x000a0;<xref rid="jah31408-fig-0002" ref-type="fig">2</xref>). The mean duration of hospital stay was not different between&#x000a0;the rapid and prolonged uptitration protocols (36.0&#x000b1;60.8&#x000a0;versus 25.3&#x000b1;40.6&#x000a0;days, <italic>P</italic>=0.51). At the time of discharge, 8 patients had been switched from captopril to a longer&#x02010;acting ACEI, according to physician preference.</p></sec><sec id="jah31408-sec-0028"><title>Serious adverse effects</title><p>There were 3 deaths, occurring in children who had been recruited to the prospective part of this study, all in the rapid uptitration arm. One patient died in hospital of heart failure 6&#x000a0;days after enrollment in the study. This patient received the first dose of captopril but at the physician's discretion received no uptitration because of the severity of the underlying condition and therefore was withdrawn from the study. This death was reported to the research ethics board and judged as being unrelated to the study or to captopril administration. Data from this patient were not included in the analysis. The 2 other deaths occurred after completion of the rapid&#x02010;uptitration protocol and discharge from hospital on target ACEI doses but before outpatient follow&#x02010;up. Both deaths were attributed to preexisting heart failure. Three other children received cardiac transplantation after enrollment in the study and before hospital discharge (2 in the rapid arm and 1 in the prolonged arm). These children had been listed for cardiac transplantation before enrollment in the study.</p></sec><sec id="jah31408-sec-0029"><title>Protocol variances</title><p>Table&#x000a0;<xref rid="jah31408-tbl-0002" ref-type="table-wrap">2</xref> shows the variances that occurred in the patients after each protocol.</p><table-wrap id="jah31408-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Protocol Variances During Captopril Uptitration</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="top" rowspan="1">Variance</th><th align="left" valign="top" rowspan="1" colspan="1">Rapid Uptitration Protocol n=25</th><th align="left" valign="top" rowspan="1" colspan="1">Prolonged Uptitration Protocol n=21</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">V1</td><td align="left" rowspan="1" colspan="1">Symptomatic hypotension &#x0003c;2&#x000a0;hours after dose</td><td align="left" rowspan="1" colspan="1">7 (28%)</td><td align="left" rowspan="1" colspan="1">2 (10%)</td><td align="left" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">V2</td><td align="left" rowspan="1" colspan="1">Asymptomatic SBP drop &#x02265;20%, &#x0003c;2&#x000a0;hours after dose</td><td align="left" rowspan="1" colspan="1">15 (60%)</td><td align="left" rowspan="1" colspan="1">15 (71%)</td><td align="left" rowspan="1" colspan="1">0.54</td></tr><tr><td align="left" rowspan="1" colspan="1">V3</td><td align="left" rowspan="1" colspan="1">Asymptomatic SBP drop &#x0003c;20%, &#x0003c;2&#x000a0;hours after dose</td><td align="left" rowspan="1" colspan="1">23 (92%)</td><td align="left" rowspan="1" colspan="1">17 (81%)</td><td align="left" rowspan="1" colspan="1">0.39</td></tr><tr><td align="left" rowspan="1" colspan="1">V4</td><td align="left" rowspan="1" colspan="1">Serum creatinine increase to &#x0003c;double baseline</td><td align="left" rowspan="1" colspan="1">7 (28%)</td><td align="left" rowspan="1" colspan="1">5 (24%)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">V5</td><td align="left" rowspan="1" colspan="1">Serum creatinine increase to &#x02265;double baseline</td><td align="left" rowspan="1" colspan="1">0 (0%)</td><td align="left" rowspan="1" colspan="1">1 (5%)</td><td align="left" rowspan="1" colspan="1">0.46</td></tr><tr><td align="left" rowspan="1" colspan="1">V6</td><td align="left" rowspan="1" colspan="1">Serum potassium increases to &#x02265;5&#x000a0;mmol/L</td><td align="left" rowspan="1" colspan="1">2 (8%)</td><td align="left" rowspan="1" colspan="1">1 (5%)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">V7</td><td align="left" rowspan="1" colspan="1">Physician discharges patient before target captopril dose achieved</td><td align="left" rowspan="1" colspan="1">1 (4%)</td><td align="left" rowspan="1" colspan="1">9 (43%)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr></tbody></table><table-wrap-foot><fn id="jah31408-note-0005"><p>Some patients may have experienced each variance more than once during uptitration, but only the first instance in counted in this table. SBP indicates systolic blood pressure.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>It can be seen that with regard to variances, the only difference between the protocols was that children following the prolonged protocol were more likely to be discharged from hospital before the target dose of captopril was reached. For those following the rapid uptitration protocol, the number of variances did not differ according to whether the patient was admitted to the cardiology ward or to the intensive care unit at the time of commencing captopril (V1: 25% versus 33%, <italic>P</italic>=0.67; V2: 56% versus 70%, <italic>P</italic>=0.68; V3: 93% versus 90%; <italic>P</italic>=1.00; V4: 31% versus 22%, <italic>P</italic>=1.00; V5: 0% versus 0%, <italic>P</italic>=1.00; V6: 13% versus 0%, <italic>P</italic>=0.52; V7: 6% versus 0%, <italic>P</italic>=1.00).</p></sec><sec id="jah31408-sec-0030"><title>Renal function during captopril uptitration</title><p>The serum electrolyte levels of all study subjects were measured at baseline and once again during captopril uptitration. For the rapid uptitration protocol, electrolytes were repeated at a mean of 3.4&#x000b1;1.0&#x000a0;days after initial captopril dose, whereas for the prolonged protocol, repeated measurements were made at a mean of 5.1&#x000b1;3.4&#x000a0;days after starting captopril (<italic>P</italic>=0.04). There were no statistically significant differences in the percentage change (baseline to repeat measurement) of any variable between the rapid and prolonged protocols (Table&#x000a0;<xref rid="jah31408-tbl-0003" ref-type="table-wrap">3</xref>). Protocol variances related to renal function did not differ between the groups (Table&#x000a0;<xref rid="jah31408-tbl-0003" ref-type="table-wrap">3</xref>).</p><table-wrap id="jah31408-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Effects of Captopril Uptitration Protocol on Laboratory Data</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Variable</th><th align="left" valign="top" rowspan="1" colspan="1">Rapid Uptitration Protocol (Mean Change From Baseline)</th><th align="left" valign="top" rowspan="1" colspan="1">Prolonged Uptitration Protocol (Mean Change From Baseline)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Creatinine</td><td align="left" rowspan="1" colspan="1">+25%</td><td align="left" rowspan="1" colspan="1">+7%</td><td align="left" rowspan="1" colspan="1">0.52</td></tr><tr><td align="left" rowspan="1" colspan="1">Urea</td><td align="left" rowspan="1" colspan="1">+17%</td><td align="left" rowspan="1" colspan="1">+11%</td><td align="left" rowspan="1" colspan="1">0.69</td></tr><tr><td align="left" rowspan="1" colspan="1">Sodium</td><td align="left" rowspan="1" colspan="1">&#x02212;5%</td><td align="left" rowspan="1" colspan="1">&#x02212;11%</td><td align="left" rowspan="1" colspan="1">0.48</td></tr><tr><td align="left" rowspan="1" colspan="1">Potassium</td><td align="left" rowspan="1" colspan="1">+1.5%</td><td align="left" rowspan="1" colspan="1">+0.4</td><td align="left" rowspan="1" colspan="1">0.87</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jah31408-sec-0031"><title>ACEI use postdischarge</title><p>Follow&#x02010;up data were available in 26 of 46 study subjects who were discharged from hospital and seen again as an outpatient in our center between 4 and 12&#x000a0;weeks postdischarge. Follow&#x02010;up data were unavailable in 20 of 46 study subjects. Of these, 2 died after discharge from hospital, 3 received at transplant during their hospital admission and had ACEIs discontinued at the time of transplantation, 1 was not followed by our center postdischarge, and 14 did not have a follow&#x02010;up outpatient visit between 4 and 12&#x000a0;weeks postdischarge (see Figure&#x000a0;<xref rid="jah31408-fig-0001" ref-type="fig">1</xref>).</p><p>For those in whom data were available, the median (IQR) duration from discharge to date of follow&#x02010;up data collection was 7.6 (5.1&#x02013;9.6) weeks. At the time of their follow&#x02010;up visit, 15 of 26 patients continued to take captopril, 3 had been switched to enalapril and 2 to ramipril, and 6 had discontinued all ACEIs. There were no differences in the type of ACEIs prescribed at follow&#x02010;up between subjects who had followed the rapid and those who followed the slow uptitration protocol (<italic>P</italic>=1.00). At the time of discharge from hospital, 4 patients in the prolonged uptitration arm and no patients in the rapid uptitration arm had been given written instructions to increase the dose as outpatients. Of the patients who remained on the same ACEI at the time of discharge and 8&#x02010;week follow&#x02010;up, 10 had further increased their dose, while 1 was taking the same dose at follow&#x02010;up as at the time of discharge.</p></sec><sec id="jah31408-sec-0032"><title>Comparison with previous standard clinical practice</title><p>As can be seen from Figure&#x000a0;<xref rid="jah31408-fig-0004" ref-type="fig">4</xref>, comparison of the results of the prospective trial of captopril uptitration with those from the retrospective chart review of standard clinical practice demonstrated that only introduction of the rapid uptitration protocol made a significant improvement in achieving the target range dose of captopril during the inpatient stay.</p><fig fig-type="Figure" xml:lang="en" id="jah31408-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Performance of rapid and prolonged protocols for angiotensin&#x02010;converting enzyme inhibitor (<styled-content style="fixed-case">ACE</styled-content>i) uptitration in pediatric cardiology inpatients and comparison with previous standard clinical practice. *<italic>P</italic> values calculated from analysis of 3&#x000d7;2 contingency tables with 2&#x02010;tailed &#x003c7;<sup>2</sup> test statistic.</p></caption><graphic id="nlm-graphic-7" xlink:href="JAH3-5-e003230-g004"/></fig></sec></sec></sec><sec id="jah31408-sec-0033"><title>Discussion</title><p>This is the first prospective study to consider methods of captopril uptitration in children with cardiac disease, and its findings are will be of considerable interest to anyone who prescribes ACEIs in a pediatric setting. Our results suggest that the introduction of a 3&#x02010;day protocol for the inpatient initiation and uptitration of captopril is more likely than standard clinical practice to achieve a target range ACEI dose in pediatric cardiology inpatients. With a prospective randomized comparison, we were able to demonstrate equivalent safety between a 3&#x02010;day rapid uptitration protocol and a more gradual 9&#x02010;day protocol, and we showed that the 3&#x02010;day protocol can be used safely in infants and children in both ward and intensive care settings.</p><p>ACEIs have been used frequently in pediatric cardiology, nephrology, and endocrine practices and are widely recommended by experts.<xref rid="jah31408-bib-0001" ref-type="ref">1</xref>, <xref rid="jah31408-bib-0002" ref-type="ref">2</xref>, <xref rid="jah31408-bib-0003" ref-type="ref">3</xref>, <xref rid="jah31408-bib-0005" ref-type="ref">5</xref>, <xref rid="jah31408-bib-0007" ref-type="ref">7</xref>, <xref rid="jah31408-bib-0021" ref-type="ref">21</xref> Unusually (for pediatric medications), these agents are approved by the US Food and Drug Administration for the treatment of pediatric hypertension.<xref rid="jah31408-bib-0006" ref-type="ref">6</xref> Despite widespread familiarity with this drug class, there have been little data available to clinicians regarding the routine use of ACEIs in pediatric clinical practice. Our retrospective chart review was consistent with adult data, suggesting that with routine practice, underdosing of these medications is frequent.<xref rid="jah31408-bib-0022" ref-type="ref">22</xref>, <xref rid="jah31408-bib-0023" ref-type="ref">23</xref> It has not been known whether different approaches are advisable in infants and older children, for inpatient ward or intensive care unit settings, or for those taking concomitant vasoactive medications. Our data suggest that they are not and that uptitration need not be delayed in inpatients.</p><p>Our protocol for rapid uptitration had no more frequent episodes of hyperkalemia or elevated creatinine than did the more&#x02010;cautious, prolonged approach. For those patients who experienced a rise in creatinine, the degree of elevation tended to be higher in the rapid uptitration arm. However, this trend was not statistically significant and it unlikely to be clinically relevant. In fact, the only patient who experienced more than doubling of the baseline creatinine level was in the prolonged arm. Taken as a whole, our data suggest that rapid uptitration of captopril in this population was not of itself particularly detrimental to renal function. Nonetheless, it should be remembered that ours was a small study and careful monitoring of renal function remains essential whenever starting ACEIs in children.</p><p>Episodes of hypotension were no more frequent in the rapid uptitration protocol than in the prolonged prolonged, and, overall, we found symptomatic hypotension to be infrequent during the initiation of captopril. While only 1 of our patients was prescribed an ACEI for the primary purpose of BP control, it is interesting to note that any BP&#x02010;lowering effect of captopril was seen early in both protocols, maximal within 30&#x000a0;hours, and maintained without further change while patients remained on treatment. A similar pattern was seen in 10 young (3.5&#x02013;20&#x000a0;years) hypertensive patients whose BP response to various doses of captopril was studied by Sinaiko et&#x000a0;al.<xref rid="jah31408-bib-0024" ref-type="ref">24</xref> In that study, the onset of hypotensive response occurred within 15&#x000a0;minutes of captopril administration and peaked at around 90&#x000a0;minutes, and many patients had no further augmentation of response after the second or third dose.<xref rid="jah31408-bib-0024" ref-type="ref">24</xref> The authors also noted that the magnitude of BP response appeared unrelated to the dose of captopril or its blood concentration.<xref rid="jah31408-bib-0024" ref-type="ref">24</xref> These findings, consistent with ours, likely relate to the mechanisms of action of captopril and its pharmacokinetics in infants and children. Further investigation with serial measurements of plasma renin activity and bradykinin levels may be warranted.</p><p>It was evident from our study that in pediatric cardiac inpatients, ACEI dosing at discharge is more likely to be optimized or within target range if uptitration is pursued more aggressively. This is an important finding given the concerns that efficacy of this medication class in heart failure patients is closely linked to dosing and that suboptimal dosing has been demonstrated to be a clinical problem in several guideline adherence studies of heart failure in adults.<xref rid="jah31408-bib-0022" ref-type="ref">22</xref>, <xref rid="jah31408-bib-0023" ref-type="ref">23</xref>
+</p><sec id="jah31408-sec-0034"><title>Limitations</title><p>The barriers to conducting randomized clinical trials of cardiovascular drugs in children are well documented,<xref rid="jah31408-bib-0025" ref-type="ref">25</xref>, <xref rid="jah31408-bib-0026" ref-type="ref">26</xref> and in conducting this study, we encountered similar limitations. Most important, the number of subjects included in our study was small. While we calculated that 50 patients would be sufficient to detect a difference between the protocols with regard to the discharge dose of ACEIs, it is possible the study could be underpowered to detect differences in the number of adverse effects between the groups. For example, there were more episodes of symptomatic hypotension within 2&#x000a0;hours of the captopril dose in the rapid uptitration arm than in the prolonged arm, and perhaps if the study were larger this result may have reached statistical significance. Although seemingly sufficient to investigate our primary hypotheses, the limited size of this study also prevented detailed subgroup analysis, and we are unable to determine whether there was an interaction between subject age, sex, or race and the favorability of either the rapid or the delayed uptitration protocol.</p><p>While there are studies of the pharmacokinetics of ACEIs in children and of their antihypertensive effects,<xref rid="jah31408-bib-0024" ref-type="ref">24</xref>, <xref rid="jah31408-bib-0027" ref-type="ref">27</xref>, <xref rid="jah31408-bib-0028" ref-type="ref">28</xref>, <xref rid="jah31408-bib-0029" ref-type="ref">29</xref> little is known about how these features relate to the efficacy of treatment for pediatric heart failure, which in this study was the primary indication for ACEIs. Our definitions of &#x0201c;target&#x0201d; and &#x0201c;optimal&#x0201d; doses of ACEIs for pediatric patients were largely based on extrapolation from adult guidelines and on the consensus of physicians in our institution, so to some extent we were studying uptitration in an unverified dosing range. It is also important to highlight that this study did not evaluate the clinical or biochemical efficacy of ACEIs in children with heart disease.</p></sec></sec><sec id="jah31408-sec-0035"><title>Conclusions</title><p>We conclude that uptitration of ACEIs in cardiac inpatients can be rapidly achieved and that undue delays do not significantly alter the potential risks of ACEI introduction. We also conclude that an optimal outpatient dose of ACEI is more likely to be achieved through rapid protocolled uptitration. Further study will be required to determine if these advantages translate into important clinical benefits for pediatric cardiac patients.</p></sec><sec id="jah31408-sec-0037"><title>Sources of Funding</title><p>This study was funded primarily by internal funds from The Research and Education Fund, Department of Pharmacy, and The Labatt Family Heart Center and The Research Support Pharmacy at The Hospital for Sick Children Toronto. Dr Roche received financial support from the Philip Witchel Children's Heart Failure Fellowship and from the British Congenital Cardiac Association's Madeline Steel Scholarship.</p></sec><sec id="jah31408-sec-0038"><title>Disclosures</title><p>None.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Data S1.</bold> Management of variances from protocol.</p></caption><media xlink:href="JAH3-5-e003230-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah31408-sec-0036"><title>Acknowledgments</title><p>The authors would like to thank the physicians and nurses from the Labatt Family Heart Centre and members of The Hospital for Sick Children's Research Support Pharmacy and Darcy Nicksy for their contributions to the success of this trial.</p></ack><ref-list content-type="cited-references" id="jah31408-bibl-0001"><title>References</title><ref id="jah31408-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah31408-cit-0001">
+<string-name>
+<surname>Kantor</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Lougheed</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dancea</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McGillion</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Presentation, diagnosis, and medical management of heart failure in children: Canadian Cardiovascular Society guidelines</article-title>. <source>Can J Cardiol</source>. <year>2013</year>;<volume>29</volume>:<fpage>1535</fpage>&#x02013;<lpage>1552</lpage>.<pub-id pub-id-type="pmid">24267800</pub-id></mixed-citation></ref><ref id="jah31408-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah31408-cit-0002">
+<string-name>
+<surname>Hsu</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>GD</given-names>
+</string-name>. <article-title>Heart failure in children: part II: diagnosis, treatment, and future directions</article-title>. <source>Circ Heart Fail</source>. <year>2009</year>;<volume>2</volume>:<fpage>490</fpage>&#x02013;<lpage>498</lpage>.<pub-id pub-id-type="pmid">19808380</pub-id></mixed-citation></ref><ref id="jah31408-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah31408-cit-0003">
+<string-name>
+<surname>Kirk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Dipchand</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>DN</given-names>
+</string-name>, et al. <article-title>The International Society for Heart and Lung Transplantation Guidelines for the management of pediatric heart failure: Executive summary [Corrected]</article-title>. <source>The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation</source>
+<year>2014</year>;<volume>33</volume>:<fpage>888</fpage>&#x02013;<lpage>909</lpage>.</mixed-citation></ref><ref id="jah31408-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah31408-cit-0004">
+<string-name>
+<surname>Momma</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>ACE inhibitors in pediatric patients with heart failure</article-title>. <source>Paediatr Drugs</source>. <year>2006</year>;<volume>8</volume>:<fpage>55</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">16494512</pub-id></mixed-citation></ref><ref id="jah31408-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah31408-cit-0005">
+<string-name>
+<surname>Duboc</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Meune</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pierre</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wahbi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Eymard</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Toutain</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Berard</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Vaksmann</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Weber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>B&#x000e9;cane</surname>
+<given-names>H&#x02010;M</given-names>
+</string-name>. <article-title>Perindopril preventive treatment on mortality in Duchenne muscular dystrophy: 10&#x000a0;years&#x02019; follow&#x02010;up</article-title>. <source>Am Heart J</source>. <year>2007</year>;<volume>154</volume>:<fpage>596</fpage>&#x02013;<lpage>602</lpage>.<pub-id pub-id-type="pmid">17719312</pub-id></mixed-citation></ref><ref id="jah31408-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah31408-cit-0006">
+<string-name>
+<surname>Chu</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>SG</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>KD</given-names>
+</string-name>. <article-title>Anti&#x02010;hypertensive drugs in children and adolescents</article-title>. <source>World J Cardiol</source>. <year>2014</year>;<volume>6</volume>:<fpage>234</fpage>&#x02013;<lpage>244</lpage>.<pub-id pub-id-type="pmid">24944754</pub-id></mixed-citation></ref><ref id="jah31408-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah31408-cit-0007">
+<string-name>
+<surname>Roche</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>O'Sullivan</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Kantor</surname>
+<given-names>PF</given-names>
+</string-name>. <article-title>Hypertension after pediatric cardiac transplantation: detection, etiology, implications and management</article-title>. <source>Pediatr Transplant</source>. <year>2010</year>;<volume>14</volume>:<fpage>159</fpage>&#x02013;<lpage>168</lpage>.<pub-id pub-id-type="pmid">19624603</pub-id></mixed-citation></ref><ref id="jah31408-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah31408-cit-0008">
+<string-name>
+<surname>Phelps</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Eshelman</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cruz</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Kaufman</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Acute kidney injury after cardiac surgery in infants and children: evaluation of the role of angiotensin&#x02010;converting enzyme inhibitors</article-title>. <source>Pediatr Cardiol</source>. <year>2011</year>;<volume>33</volume>:<fpage>1</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">21800174</pub-id></mixed-citation></ref><ref id="jah31408-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah31408-cit-0009">
+<string-name>
+<surname>Moffett</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Adusei</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kuzin</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mohan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mott</surname>
+<given-names>AR</given-names>
+</string-name>. <article-title>Risk factors for postoperative acute kidney injury in pediatric cardiac surgery patients receiving angiotensin&#x02010;converting enzyme inhibitors</article-title>. <source>Pediatr Crit Care Med</source>. <year>2011</year>;<volume>12</volume>:<fpage>555</fpage>&#x02013;<lpage>559</lpage>.<pub-id pub-id-type="pmid">21317676</pub-id></mixed-citation></ref><ref id="jah31408-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah31408-cit-0010">
+<string-name>
+<surname>McMurray</surname>
+<given-names>JJV</given-names>
+</string-name>, <string-name>
+<surname>Adamopoulos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Auricchio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>B&#x000f6;hm</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Falk</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Filippatos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fonseca</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gomez&#x02010;Sanchez</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Jaarsma</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>K&#x000f8;ber</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GYH</given-names>
+</string-name>, <string-name>
+<surname>Maggioni</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Parkhomenko</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pieske</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Popescu</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>R&#x000f8;nnevik</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Rutten</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Schwitter</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Seferovic</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Stepinska</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Trindade</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Voors</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Zannad</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zeiher</surname>
+<given-names>A</given-names>
+</string-name>; <collab collab-type="authors">ESC Committee for Practice Guidelines</collab>
+, <string-name>
+<surname>Popescu</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>McDonagh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sechtem</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>ESC guidelines for the diagnosis and treatment of acute and chronic heart failure 2012: the Task Force for the Diagnosis and Treatment of Acute and Chronic Heart Failure 2012 of the European Society of Cardiology. Developed in collaboration with the Heart Failure Association (HFA) of the ESC</article-title>. <source>Eur Heart J</source>. <year>2012</year>;<volume>33</volume>:<fpage>1787</fpage>&#x02013;<lpage>1847</lpage>.<pub-id pub-id-type="pmid">22611136</pub-id></mixed-citation></ref><ref id="jah31408-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah31408-cit-0011">
+<string-name>
+<surname>Stevenson</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Wilkoff</surname>
+<given-names>BL</given-names>
+</string-name>. <article-title>2013 ACCF/AHA guideline for the management of heart failure: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines</article-title>. <source>Circulation</source>. <year>2013</year>;<volume>128</volume>:<fpage>e240</fpage>&#x02013;<lpage>e327</lpage>.<pub-id pub-id-type="pmid">23741058</pub-id></mixed-citation></ref><ref id="jah31408-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah31408-cit-0012">
+<string-name>
+<surname>Segura</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Christiansen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Campo</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ruilope</surname>
+<given-names>LM</given-names>
+</string-name>. <article-title>How to titrate ACE inhibitors and angiotensin receptor blockers in renal patients: according to blood pressure or proteinuria?</article-title>
+<source>Curr Hypertens Rep</source>. <year>2003</year>;<volume>5</volume>:<fpage>426</fpage>&#x02013;<lpage>429</lpage>.<pub-id pub-id-type="pmid">12948436</pub-id></mixed-citation></ref><ref id="jah31408-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah31408-cit-0013">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Use of angiotensin&#x02010;converting enzyme inhibitors in patients with heart failure and renal insufficiency: how concerned should we be by the rise in serum creatinine?</article-title>
+<source>J Am Geriatr Soc</source>. <year>2002</year>;<volume>50</volume>:<fpage>1297</fpage>&#x02013;<lpage>1300</lpage>.<pub-id pub-id-type="pmid">12133029</pub-id></mixed-citation></ref><ref id="jah31408-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah31408-cit-0014">
+<string-name>
+<surname>Schoolwerth</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Sica</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Ballermann</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Wilcox</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Renal considerations in angiotensin converting enzyme inhibitor therapy: a statement for healthcare professionals from the council on the Kidney in Cardiovascular Disease and the Council for High Blood Pressure Research of the American Heart Association</article-title>. <source>Circulation</source>. <year>2001</year>;<volume>104</volume>:<fpage>1985</fpage>&#x02013;<lpage>1991</lpage>.<pub-id pub-id-type="pmid">11602506</pub-id></mixed-citation></ref><ref id="jah31408-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah31408-cit-0015">
+<collab collab-type="authors">American Diabetes Association</collab>
+. <article-title>Executive summary: standards of medical care in diabetes&#x02013;2012</article-title>. <source>Diabetes Care</source>. <year>2012</year>;<volume>35</volume>(<issue>suppl 1</issue>):<fpage>S4</fpage>&#x02013;<lpage>S10</lpage>.<pub-id pub-id-type="pmid">22187471</pub-id></mixed-citation></ref><ref id="jah31408-bib-0016"><label>16</label><mixed-citation publication-type="book" id="jah31408-cit-0016">
+<collab collab-type="authors">Paediatric Formulary Committee</collab>
+. <source>BNF for Children (BNFC)</source>. <edition>2015&#x02010;2016 ed</edition>
+<publisher-loc>London</publisher-loc>: <publisher-name>Pharmaceutical Press</publisher-name>; <year>2015</year>.</mixed-citation></ref><ref id="jah31408-bib-0017"><label>17</label><mixed-citation publication-type="book" id="jah31408-cit-0017">
+<string-name>
+<surname>Lau</surname>
+<given-names>E</given-names>
+</string-name>. <source>The Hospital for Sick Children Drug Handbook and Formulary</source>. <publisher-loc>Toronto</publisher-loc>: <publisher-name>LexiComp</publisher-name>; <year>2015</year>.</mixed-citation></ref><ref id="jah31408-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah31408-cit-0018">
+<string-name>
+<surname>Chevalier</surname>
+<given-names>RL</given-names>
+</string-name>. <article-title>Mechanisms of fetal and neonatal renal impairment by pharmacologic inhibition of angiotensin</article-title>. <source>Curr Med Chem</source>. <year>2012</year>;<volume>19</volume>:<fpage>4572</fpage>&#x02013;<lpage>4580</lpage>.<pub-id pub-id-type="pmid">22876894</pub-id></mixed-citation></ref><ref id="jah31408-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah31408-cit-0019">
+<string-name>
+<surname>Schulz</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name>
+<surname>Altman</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Moher</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>CONSORT 2010 Statement: Updated guidelines for reporting parallel group randomised trials</article-title>. <source>Journal of clinical epidemiology</source>
+<year>2010</year>;<volume>63</volume>:<fpage>834</fpage>&#x02013;<lpage>840</lpage>.<pub-id pub-id-type="pmid">20346629</pub-id></mixed-citation></ref><ref id="jah31408-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah31408-cit-0020">
+<string-name>
+<surname>Pfeffer</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Braunwald</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Moy&#x000e9;</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Basta</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Cuddy</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Davis</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Geltman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Goldman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Flaker</surname>
+<given-names>GC</given-names>
+</string-name>. <article-title>Effect of captopril on mortality and morbidity in patients with left ventricular dysfunction after myocardial infarction. Results of the survival and ventricular enlargement trial. The SAVE Investigators</article-title>. <source>N Engl J Med</source>. <year>1992</year>;<volume>327</volume>:<fpage>669</fpage>&#x02013;<lpage>677</lpage>.<pub-id pub-id-type="pmid">1386652</pub-id></mixed-citation></ref><ref id="jah31408-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah31408-cit-0021">
+<string-name>
+<surname>Lurbe</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cifkova</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cruickshank</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Dillon</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ferreira</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Invitti</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kuznetsova</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Laurent</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Mancia</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Morales&#x02010;Olivas</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rascher</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Redon</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schaefer</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Seeman</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Stergiou</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>W&#x000fc;hl</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Zanchetti</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Management of high blood pressure in children and adolescents: recommendations of the European Society of Hypertension</article-title>. <source>J Hypertens</source>. <year>2009</year>;<volume>27</volume>:<fpage>1719</fpage>&#x02013;<lpage>1742</lpage>.<pub-id pub-id-type="pmid">19625970</pub-id></mixed-citation></ref><ref id="jah31408-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah31408-cit-0022">
+<string-name>
+<surname>Pearson</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Cooke</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Simmons</surname>
+<given-names>WK</given-names>
+</string-name>, <string-name>
+<surname>Sketris</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Evaluation of the use of evidence&#x02010;based angiotensin&#x02010;converting enzyme inhibitor criteria for the treatment of congestive heart failure: opportunities for pharmacists to improve patient outcomes</article-title>. <source>J Clin Pharm Ther</source>. <year>2001</year>;<volume>26</volume>:<fpage>351</fpage>&#x02013;<lpage>361</lpage>.<pub-id pub-id-type="pmid">11679025</pub-id></mixed-citation></ref><ref id="jah31408-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah31408-cit-0023">
+<string-name>
+<surname>Lainscak</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Implementation of guidelines for management of heart failure in heart failure clinic: effects beyond pharmacological treatment</article-title>. <source>Int J Cardiol</source>. <year>2004</year>;<volume>97</volume>:<fpage>411</fpage>&#x02013;<lpage>416</lpage>.<pub-id pub-id-type="pmid">15561327</pub-id></mixed-citation></ref><ref id="jah31408-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah31408-cit-0024">
+<string-name>
+<surname>Sinaiko</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Mirkin</surname>
+<given-names>BL</given-names>
+</string-name>, <string-name>
+<surname>Hendrick</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Green</surname>
+<given-names>TP</given-names>
+</string-name>. <article-title>Antihypertensive effect and elimination kinetics of captopril in hypertensive children with renal disease</article-title>. <source>J Pediatr</source>. <year>1983</year>;<volume>103</volume>:<fpage>799</fpage>&#x02013;<lpage>805</lpage>.<pub-id pub-id-type="pmid">6355421</pub-id></mixed-citation></ref><ref id="jah31408-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah31408-cit-0025">
+<string-name>
+<surname>Shaddy</surname>
+<given-names>RE</given-names>
+</string-name>. <article-title>Paediatric heart failure trials and tribulations</article-title>. <source>Cardiol Young</source>. <year>2007</year>;<volume>17</volume>:<fpage>354</fpage>&#x02013;<lpage>355</lpage>.<pub-id pub-id-type="pmid">17572938</pub-id></mixed-citation></ref><ref id="jah31408-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah31408-cit-0026">
+<string-name>
+<surname>Li</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Cohen&#x02010;Wolkowiez</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pasquali</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>Pediatric cardiovascular drug trials, lessons learned</article-title>. <source>J Cardiovasc Pharmacol</source>. <year>2011</year>;<volume>58</volume>:<fpage>4</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">21242809</pub-id></mixed-citation></ref><ref id="jah31408-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah31408-cit-0027">
+<string-name>
+<surname>Wells</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Rippley</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hogg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sakarcan</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blowey</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Walson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vogt</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Delucchi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lo</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Hand</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Panebianco</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Shaw</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Shahinfar</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The pharmacokinetics of enalapril in children and infants with hypertension</article-title>. <source>J Clin Pharmacol</source>. <year>2001</year>;<volume>41</volume>:<fpage>1064</fpage>&#x02013;<lpage>1074</lpage>.<pub-id pub-id-type="pmid">11583474</pub-id></mixed-citation></ref><ref id="jah31408-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah31408-cit-0028">
+<string-name>
+<surname>Dutertre</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Billaud</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Autret</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Chantepie</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Oliver</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Laugier</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Inhibition of angiotensin converting enzyme with enalapril maleate in infants with congestive heart failure</article-title>. <source>Br J Clin Pharmacol</source>. <year>1993</year>;<volume>35</volume>:<fpage>528</fpage>&#x02013;<lpage>530</lpage>.<pub-id pub-id-type="pmid">8512763</pub-id></mixed-citation></ref><ref id="jah31408-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah31408-cit-0029">
+<string-name>
+<surname>Scammell</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Diver</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Plasma renin activity in infants with congenital heart disease</article-title>. <source>Arch Dis Child</source>. <year>1987</year>;<volume>62</volume>:<fpage>1136</fpage>&#x02013;<lpage>1138</lpage>.<pub-id pub-id-type="pmid">3318712</pub-id></mixed-citation></ref></ref-list></back></article>

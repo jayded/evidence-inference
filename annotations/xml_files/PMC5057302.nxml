@@ -1,0 +1,641 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Allergy</journal-id><journal-id journal-id-type="iso-abbrev">Allergy</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1398-9995</journal-id><journal-id journal-id-type="publisher-id">ALL</journal-id><journal-title-group><journal-title>Allergy</journal-title></journal-title-group><issn pub-type="ppub">0105-4538</issn><issn pub-type="epub">1398-9995</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26417901</article-id><article-id pub-id-type="pmc">5057302</article-id><article-id pub-id-type="doi">10.1111/all.12760</article-id><article-id pub-id-type="publisher-id">ALL12760</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>ORIGINAL ARTICLES</subject><subj-group subj-group-type="heading"><subject>Airway Diseases</subject></subj-group></subj-group></article-categories><title-group><article-title>A randomized <styled-content style="fixed-case">DBPC</styled-content> trial to determine the optimal effective and safe dose of a <styled-content style="fixed-case">SLIT</styled-content>&#x02010;birch pollen extract for the treatment of allergic rhinitis: results of a phase <styled-content style="fixed-case">II</styled-content> study</article-title><alt-title alt-title-type="left-running-head">Pfaar et al.</alt-title></title-group><contrib-group><contrib id="all12760-cr-0001" contrib-type="author" corresp="yes"><name><surname>Pfaar</surname><given-names>O.</given-names></name><xref ref-type="aff" rid="all12760-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="all12760-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="all12760-cr-0002" contrib-type="author"><name><surname>van Twuijver</surname><given-names>E.</given-names></name><xref ref-type="aff" rid="all12760-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="all12760-cr-0003" contrib-type="author"><name><surname>Boot</surname><given-names>J. D.</given-names></name><xref ref-type="aff" rid="all12760-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="all12760-cr-0004" contrib-type="author"><name><surname>Opstelten</surname><given-names>D. J. E.</given-names></name><xref ref-type="aff" rid="all12760-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="all12760-cr-0005" contrib-type="author"><name><surname>Klimek</surname><given-names>L.</given-names></name><xref ref-type="aff" rid="all12760-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="all12760-cr-0006" contrib-type="author"><name><surname>van Ree</surname><given-names>R.</given-names></name><xref ref-type="aff" rid="all12760-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="all12760-cr-0007" contrib-type="author"><name><surname>Diamant</surname><given-names>Z.</given-names></name><xref ref-type="aff" rid="all12760-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="all12760-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="all12760-cr-0008" contrib-type="author"><name><surname>Kuna</surname><given-names>P.</given-names></name><xref ref-type="aff" rid="all12760-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="all12760-cr-0009" contrib-type="author"><name><surname>Panzner</surname><given-names>P.</given-names></name><xref ref-type="aff" rid="all12760-aff-0008">
+<sup>8</sup>
+</xref></contrib></contrib-group><aff id="all12760-aff-0001"><label><sup>1</sup></label><institution>Center for Rhinology and Allergology</institution><named-content content-type="city">Wiesbaden</named-content><country country="DE">Germany</country></aff><aff id="all12760-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Otorhinolaryngology, Head and Neck Surgery</named-content><named-content content-type="organisation-division">Medical Faculty Mannheim</named-content><named-content content-type="organisation-division">Universit&#x000e4;tsmedizin Mannheim</named-content><institution>Heidelberg University</institution><named-content content-type="city">Mannheim</named-content><country country="DE">Germany</country></aff><aff id="all12760-aff-0003"><label><sup>3</sup></label><institution>HAL Allergy BV</institution><named-content content-type="city">Leiden</named-content><country country="NL">The Netherlands</country></aff><aff id="all12760-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Departments of Experimental Immunology and of Otorhinolaryngology</named-content><named-content content-type="organisation-division">Academic Medical Center</named-content><institution>University of Amsterdam</institution><named-content content-type="city">Amsterdam</named-content><country country="NL">The Netherlands</country></aff><aff id="all12760-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Department of Respiratory Medicine &#x00026; Allergology</named-content><named-content content-type="organisation-division">Institute for Clinical Science</named-content><institution>Skane University Hospital</institution><named-content content-type="city">Lund</named-content><country country="SE">Sweden</country></aff><aff id="all12760-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Departments of Clinical Pharmacy &#x00026; Pharmacology and General Practice</named-content><named-content content-type="organisation-division">University Medical Center Groningen</named-content><institution>University of Groningen</institution><named-content content-type="city">Groningen</named-content><country country="NL">The Netherlands</country></aff><aff id="all12760-aff-0007"><label><sup>7</sup></label><named-content content-type="organisation-division">Dept. of Internal Medicine</named-content><institution>Asthma and Allergy Medical University of Lodz</institution><named-content content-type="city">Lodz</named-content><country country="PL">Poland</country></aff><aff id="all12760-aff-0008"><label><sup>8</sup></label><named-content content-type="organisation-division">Department of Allergology and Immunology</named-content><institution>Medical Faculty in Plzen</institution><institution>Charles University Prague</institution><named-content content-type="city">Prague</named-content><country country="CZ">Czech Republic</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Prof. Dr. Oliver Pfaar, Center for Rhinology and Allergology Wiesbaden, An den Quellen 10, D&#x02010;65189 Wiesbaden, Germany.<break/>
+Tel.: +49&#x02010;611&#x02010;308&#x02010;608&#x02010;250<break/>
+Fax: +49&#x02010;611&#x02010;308&#x02010;608&#x02010;255<break/>
+E&#x02010;mail: <email>oliver@pfaar.org</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>26</day><month>10</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>1</month><year>2016</year></pub-date><volume>71</volume><issue>1</issue><issue-id pub-id-type="doi">10.1111/all.2016.71.issue-1</issue-id><fpage>99</fpage><lpage>107</lpage><history><date date-type="accepted"><day>28</day><month>8</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 John Wiley & Sons A/S <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>Allergy</italic> Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:ALL-71-99.pdf"/><abstract id="all12760-abs-0001"><title>Abstract</title><sec id="all12760-sec-0001"><title>Background</title><p>Sublingual immunotherapy (<styled-content style="fixed-case">SLIT</styled-content>) is a potential efficacious and safe treatment option for patients with respiratory, IgE&#x02010;mediated allergic diseases. A combined tolerability, dose&#x02010;finding study with a sublingual liquid birch pollen preparation (<styled-content style="fixed-case">SB</styled-content>) was conducted.</p></sec><sec id="all12760-sec-0002"><title>Methods</title><p>Two hundred and sixty&#x02010;nine adults with birch&#x02010;pollen&#x02010;induced <styled-content style="fixed-case">AR</styled-content> were randomized to placebo, SB: 3333, 10 000, 20 000 or 40 000 AUN/ml. Differences in symptom scores following a titrated nasal provocation test (<styled-content style="fixed-case">TNPT</styled-content>) at baseline and after 5 months of treatment were determined. Safety, tolerability, birch&#x02010;pollen&#x02010;specific immunoglobulin levels and peak nasal inspiratory flow (<styled-content style="fixed-case">PNIF</styled-content>) were also measured (all measures determined outside the birch pollen season).</p></sec><sec id="all12760-sec-0003"><title>Results</title><p>In all treatment groups, an improvement in symptom scores after treatment compared to baseline was observed, with an additional stepwise improvement in the active groups compared to placebo, which was significant in high&#x02010;dose groups (<italic>P</italic> = 0.008 and <italic>P</italic> &#x0003c; 0.001, respectively). For this primary endpoint, a significant linear dose&#x02013;response curve was observed: the higher the dose, the better the improvement observed. Likewise, active treatment resulted in an increase in <styled-content style="fixed-case">PNIF</styled-content> and serum IgG levels compared to placebo. The highest improvements were found in the 40 000 AUN/ml group. All active dosages resulted in more adverse reactions than placebo, which were mainly mild and well&#x02010;controlled.</p></sec><sec id="all12760-sec-0004"><title>Conclusions</title><p>A multicentre trial evaluated the dose&#x02013;response and tolerability of <styled-content style="fixed-case">SB</styled-content>. All active treatment groups showed better responses than placebo for both primary and secondary parameters. The results indicate that, within the studied dose range, <styled-content style="fixed-case">SB</styled-content> 40 000 <styled-content style="fixed-case">AUN</styled-content>/ml is the most optimal effective and safe dose (ClinicalTrials.gov: <styled-content style="fixed-case">NCT</styled-content>01639768).</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="all12760-kwd-0001">allergen immunotherapy</kwd><kwd id="all12760-kwd-0002">birch pollen</kwd><kwd id="all12760-kwd-0003">dose finding</kwd><kwd id="all12760-kwd-0004">nasal provocation</kwd><kwd id="all12760-kwd-0005">sublingual immunotherapy</kwd></kwd-group><funding-group><award-group><funding-source>ALK Abell&#x000f3; (Germany/Denmark)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Allergopharma (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Stallergenes (Germany/France)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>HAL Allergy (Germany/the Netherlands)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Artu Biologicals (the Netherlands)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Allergy Therapeutics/Bencard (UK/Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Hartington (Spain)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Lofarma (Italy)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Novartis (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>LETI&#x02010;Pharma/Laboratorios LETI (Germany/Spain)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>GlaxoSmithKline (UK/Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Essex Pharma (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Cytos (Switzerland)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Curalogic (Denmark)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Roxall (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Biomay (Austria)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Thermo Fisher (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Circassia (UK)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>European Union</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Biotech Tools s.a. (Belgium)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>MEDA Pharma (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>European Academy of Allergy and Clinical Immunology (EAACI)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>German Society for Allergology and Clinical Immunology (DGAKI)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>German Respiratory Society (DGP)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>GfK Bridgehead (UK)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Navigant Consulting (USA)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Sanofi (USA)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Guidepoint Global Advisors (USA)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>GEKA mbH (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Pohl&#x02010;Boskamp (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Mobile Chamber Experts (MCX, a GA2LEN Partner)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Spezifische Immuntherapie</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Nachwuchsf&#x000f6;rderpreis</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Allergien bei Kindern und Jugendlichen</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Allergologie</funding-source></award-group></funding-group><funding-group><award-group><funding-source>GlaxoSmithKline (GSK, Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Bencard (Germany)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Stallergenes</funding-source></award-group></funding-group><funding-group><award-group><funding-source>AstraZeneca</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Boehringer Ingelheim</funding-source></award-group></funding-group><funding-group><award-group><funding-source>ALK</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Meda</funding-source></award-group></funding-group><funding-group><award-group><funding-source>MSD</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Baxter</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Takeda</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Adamed</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Allergopharma</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Almirall</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Celon Pharma</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Chiesi</funding-source></award-group></funding-group><funding-group><award-group><funding-source>FAES</funding-source></award-group></funding-group><funding-group><award-group><funding-source>GSK</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Novartis</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Pfizer</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Polpharma</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Teva</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Novartis/Leti (Germany/Spain)</funding-source></award-group></funding-group><funding-group><award-group><funding-source>German Union of Allergologists (AeDA)</funding-source></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>all12760</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:12.10.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="all12760-cit-1001">
+<string-name>
+<surname>Pfaar</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>van Twuijver</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Boot</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Opstelten</surname>
+<given-names>DJE</given-names>
+</string-name>, <string-name>
+<surname>Klimek</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>van Ree</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Diamant</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Kuna</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Panzner</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>A randomized DBPC trial to determine the optimal effective and safe dose of a SLIT&#x02010;birch pollen extract for the treatment of allergic rhinitis: results of a phase II study</article-title>. <source>Allergy</source>
+<year>2016</year>; <volume>71</volume>: <fpage>99</fpage>&#x02013;<lpage>107</lpage>.<pub-id pub-id-type="pmid">26417901</pub-id></mixed-citation>
+</p></notes><notes><fn-group id="all12760-ntgp-0001"><fn id="all12760-note-0001"><p>Edited by: Pascal Demoly</p></fn><fn id="all12760-note-0002"><p>The results of this study were presented in part as presentation at the annual congress of the European Academy of Allergy and Clinical Immunology (EAACI) in Copenhagen, 10th June 2014; Pfaar O, van Twuijver E, Boot JD, Opstelten DJE, Klimek L, van Ree R, Kuna P, Panzner P. <italic>Allergy</italic> 2014; <bold>69</bold>(<bold>Suppl 99)</bold>, 185.</p></fn></fn-group></notes></front><body><p>Allergic rhinitis (AR) may significantly impair social life, school performance, work productivity and sleep in both adult and paediatric populations <xref rid="all12760-bib-0001" ref-type="ref">1</xref>. Moreover, if left untreated, AR is considered to be one of the major risk factors for the development of asthma <xref rid="all12760-bib-0002" ref-type="ref">2</xref>, <xref rid="all12760-bib-0003" ref-type="ref">3</xref>. Treatment of AR may involve allergen avoidance, pharmacotherapy and allergen immunotherapy (AIT). Although generally effective and without clinically relevant side effects, pharmacotherapeutic drugs are intended for symptomatic treatment only. In contrast, AIT has the advantage of disease&#x02010;modifying properties <xref rid="all12760-bib-0001" ref-type="ref">1</xref>, <xref rid="all12760-bib-0004" ref-type="ref">4</xref>, <xref rid="all12760-bib-0005" ref-type="ref">5</xref>.</p><p>The efficacy of SLIT in AR induced by various allergens has been confirmed in various studies, and a dose&#x02013;effect relationship has been demonstrated <xref rid="all12760-bib-0006" ref-type="ref">6</xref>, <xref rid="all12760-bib-0007" ref-type="ref">7</xref>, <xref rid="all12760-bib-0008" ref-type="ref">8</xref>, <xref rid="all12760-bib-0009" ref-type="ref">9</xref>, <xref rid="all12760-bib-0010" ref-type="ref">10</xref>, <xref rid="all12760-bib-0011" ref-type="ref">11</xref>. Birch&#x02010;pollen&#x02010;induced allergic rhinitis is one of the most common inhalant allergies. It represents a considerable burden on public health and is associated with impaired quality of life and productivity, and comorbidities, including asthma <xref rid="all12760-bib-0001" ref-type="ref">1</xref>, <xref rid="all12760-bib-0012" ref-type="ref">12</xref>, <xref rid="all12760-bib-0013" ref-type="ref">13</xref>. It affects between 10 and 20% of the northern and central European population <xref rid="all12760-bib-0014" ref-type="ref">14</xref>. Well&#x02010;designed dose&#x02010;ranging studies investigating SLIT&#x02010;birch pollen products are lacking <xref rid="all12760-bib-0015" ref-type="ref">15</xref>.</p><p>The product investigated here is a sublingual liquid birch pollen preparation (SB). In a previous clinical study, SB at a dose of 10 000 AUN/ml was shown to be noninferior to a similar SLIT product by means of reduction in allergy symptoms assessed by a TNPT and an increase in serum&#x02010;specific IgG<sub>4</sub> levels to the major birch pollen allergen, Bet v 1 <xref rid="all12760-bib-0016" ref-type="ref">16</xref>.</p><p>On the basis of these results, the current study was performed. This safety/tolerability and dose range finding phase II study with four different concentrations of SB: 3333, 10 000, 20 000 and 40 000 AUN/ml, aimed to determine the optimal dose in SLIT treatment.</p><sec id="all12760-sec-0006"><title>Materials and methods</title><sec id="all12760-sec-0007"><title>Subjects</title><p>A randomized, double&#x02010;blind, placebo&#x02010;controlled, parallel&#x02010;group, phase II study was conducted in 21 study centres in Poland, Czech Republic and Germany between July 2012 and April 2013 (ClinicalTrials.gov identifier: NCT01639768). The study population consisted of 269 adult patients (134 females; 135 males; aged 18&#x02013;60) with birch&#x02010;pollen&#x02010;induced allergic rhinitis/rhinoconjunctivitis with or without concomitant mild&#x02010;to&#x02010;moderate persistent asthma. Sensitization was confirmed by skin prick test (wheal diameter &#x02265;3 mm), serum&#x02010;specific IgE (&#x0003e;0.7 kU/l) and a positive TNPT with a birch pollen extract containing a concentration of 100, 1000 or 10 000 AU/ml.</p><p>Main exclusion criteria were AIT within the past 5 years, completed or ongoing anti&#x02010;IgE therapy, pregnancy, chronic or malignant diseases, drug or alcohol abuse and psychiatric disorders. In addition, patients were excluded if they were symptomatic upon house dust mite exposure, symptomatic upon animal exposure and regularly exposed to animals or symptomatic upon pollen exposure with an expected pollen season during the study (e.g. patients with grass pollen allergy were not included during the grass pollen season).</p><p>Written informed consent was obtained from all patients. The study protocol was approved by the relevant ethics committees and competent authorities and was conducted according to the latest version of the Declaration of Helsinki.</p></sec><sec id="all12760-sec-0008"><title>Study design</title><p>The study was a randomized, double&#x02010;blind, placebo&#x02010;controlled, multicentre, 5&#x02010;arm study including a staggered start for the 2 highest dose concentrations. Patients were randomized (computer&#x02010;generated randomization list) to receive SB: 3333, 10 000, 20 000 and 40 000 AUN/ml or placebo. The group receiving 40 000 AUN/ml was randomized after an independent safety committee had decided on the safety of the 20 000 AUN/ml. The study consisted of a screening period, a treatment phase and an end of study visit (Fig. <xref rid="all12760-fig-0001" ref-type="fig">1</xref>). Screening and baseline TNPT were performed between 02 July 2012 and 31 October 2012, and end of study TNPT was performed from 20 November 2012 until 28 March 2013. As a result, all outcome measures were determined outside the birch pollen season.</p><fig fig-type="Figure" xml:lang="en" id="all12760-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Study design; <styled-content style="fixed-case">SPT</styled-content> = skin prick test; <styled-content style="fixed-case">TNPT</styled-content> = titrated nasal provocation test; <styled-content style="fixed-case">PNIF</styled-content> = peak nasal inspiratory flow; <styled-content style="fixed-case">ECG</styled-content> = electrocardiogram; Safety lab = haematology, clinical chemistry laboratory tests and urinalysis for safety assessment. Screening and randomization were performed during the first 4 months of the study, and patients started treatment directly after randomization.</p></caption><graphic id="nlm-graphic-1" xlink:href="ALL-71-99-g001"/></fig></sec><sec id="all12760-sec-0009"><title>Allergen immunotherapy (AIT)</title><p>SB is a liquid preparation for sublingual administration containing allergens extracted from birch (<italic>Betula verrucosa</italic>) pollen. Study medication consisted of four active dosages (3333, 10 000, 20 000 and 40 000 AUN/ml) of SB and a matching placebo. <italic>In vitro</italic> studies showed that the maintenance dose of 10 000 AUN/ml SB contains a high dose of the major allergen Bet v 1 (46.7 &#x003bc;g) (<xref rid="all12760-bib-0017" ref-type="ref">17</xref> reviewed in <xref rid="all12760-bib-0018" ref-type="ref">18</xref>).</p><p>Study medication had to be taken sublingually once daily, starting with one drop and adding one drop each consecutive day until the maintenance dose of 5 drops per day was reached. The treatment was continued with a daily dose of 5 drops for approximately 5 months. Patients recorded study medication use, adverse events and concomitant medication use in a daily diary during the entire trial period.</p></sec><sec id="all12760-sec-0010"><title>Efficacy, safety and immunological endpoints</title><p>The primary endpoint was defined as the absolute difference in mean symptom score following TNPT between baseline and 5 months of treatment. Patients received incremental dosages of birch pollen extract (100, 1000 and 10 000 AU/ml; HAL Allergy B.V., Leiden, The Netherlands) in the nose at baseline to determine the upper airways response and the threshold dose to birch pollen. The upper airways response to intranasal birch pollen extract was quantified using a modified composite symptom score according to Lebel <xref rid="all12760-bib-0019" ref-type="ref">19</xref> at baseline (prediluent), and 15 min after each administration. Symptoms were recorded using the following scoring system: sneezes &#x02264;2 = 0 point, sneezes 3&#x02013;4 = 1 point, sneezes &#x02265;5 = 3 points; anterior rhinorrhoea = 1 point, posterior rhinorrhoea = 1 point; difficulty in nasal breathing = 1 point, unilateral blocked nose = 2 points, bilateral blocked nose = 3 points; nasal itching = 1 point, pruritus in palate or ear = 1 point, conjunctivitis = 1 point (total score range: 0&#x02013;11 points). The prediluent total score was not allowed to be &#x02265;3. The TNPT was considered positive once a total score &#x02265;6 was reached. The mean total symptom score was calculated from the responses to the incremental allergen dosages in the TNPT, that is total score of applied allergen dosages divided by the number of allergen dosages. At the end of study visit, the TNPT was repeated with the same incremental allergen dosages as used at the baseline visit. During the TNPT, nasal flow was measured by assessing the PNIF by means of forcefully inhaling through the nose, 3 readings were obtained, and the highest value was recorded (In&#x02010;Check Nasal Portable Inspiratory Flow Meter, Clement Clarke Int.).</p><p>Furthermore, changes in birch&#x02010;pollen&#x02010;specific immunoglobulin E and G levels were determined. Blood samples for the determination of specific IgE, IgG and IgG<sub>4</sub> were taken at baseline (before start of treatment) and at the end of the study. Birch&#x02010;pollen&#x02010; and Bet v 1&#x02010;specific IgE, IgG and IgG<sub>4</sub> antibodies were determined by ImmunoCAP<sup>&#x000ae;</sup> (Thermo Scientific, Uppsala, Sweden). Sera were analysed according to the specifications of the manufacturer at the Department of Experimental Immunology, AMC, University of Amsterdam, The Netherlands. Study medication intake and adverse events were recorded in a daily diary during the entire study period for the determination of compliance and safety. Classification of AEs was performed according to the European Academy of Allergy and Clinical Immunology (EAACI) grading system <xref rid="all12760-bib-0020" ref-type="ref">20</xref> and according to the Medical Dictionary for Regulatory Activities (MedDRA) dictionary 15.1, and moreover, local reactions were classified as follows: mild: easily tolerated, no medical intervention/therapy required; moderate: some discomfort, no or minimal medical intervention/therapy required; and severe: incapacitating, medical intervention/therapy required, hospitalization possible.</p></sec><sec id="all12760-sec-0011"><title>Sample size and statistical analysis</title><p>The statistical sample size estimation was based on the analysis of covariance (<sc>ancova</sc>) of the primary endpoint. A decrease in mean symptom score of 10% in the placebo group up to a 55% decrease in the 40 000 AUN/ml group after 5 months of treatment was expected, with a higher standard deviation of the symptom score (1.1) at the end of the study than at baseline (0.92). Assuming a power of 0.90, an alpha of 0.05 and two&#x02010;sided testing, 43 patients were needed in each of the five parallel groups (215 patients in total). With an expected dropout rate of 14% after randomization, we planned to randomize 50 patients to each of the four dose groups and the placebo group (250 patients in total). The dropout rate was lower than expected; therefore, the analysis was performed on 269 patients (Fig. <xref rid="all12760-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="all12760-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Patient disposition.</p></caption><graphic id="nlm-graphic-3" xlink:href="ALL-71-99-g002"/></fig><p>Statistical analysis was performed using version 9.1.3 of the SAS<sup>&#x000ae;</sup> statistical software package (SAS Inc, Cary, NC, USA). The primary efficacy analysis was performed on the full analysis set, that is all patients randomized, who received at least one dose of SB or placebo, for whom postbaseline data for at least one of the efficacy variables was available.</p><p>The primary endpoint was the absolute difference in mean symptom score in the TNPT between 5 months of treatment and baseline. We tested whether the differences in mean total symptom scores in the TNPT after treatment differed between SB dose groups and placebo (two&#x02010;sided testing) by means of <sc>ancova</sc>. The baseline total symptom score was used as a covariate. The presence of a linear dose&#x02013;response relationship was also examined using the corresponding contrast. The optimal dose level was determined by step&#x02010;down pairwise comparisons between dose groups and placebo, starting with the highest dose group.</p><p>Analysis of all other parameters was performed in an explorative way using the appropriate parametric and nonparametric tests. Differences between the treatment groups as well as differences between pre&#x02010; and post&#x02010;treatment values were analysed. A difference with a <italic>P</italic>&#x02010;level of &#x0003c; 0.05 two&#x02010;sided was regarded as significant.</p></sec></sec><sec id="all12760-sec-0012"><title>Results</title><p>A total of 317 patients were screened, and 269 patients were randomized and allocated to one of the five treatment arms (Fig. <xref rid="all12760-fig-0002" ref-type="fig">2</xref>). There were no significant differences in demographic characteristics, mean wheal diameter in the birch&#x02010;specific skin prick test (SPT), birch&#x02010;specific serum IgE levels and mean symptom score following TNPT and PNIF measurements at baseline (Table <xref rid="all12760-tbl-0001" ref-type="table-wrap">1</xref>). The mean treatment duration was 20 weeks (&#x000b1; 4 weeks).</p><table-wrap id="all12760-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics of patients in the full analysis set</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" rowspan="2" valign="top" colspan="1">Placebo</th><th align="left" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">SB (AUN/ml)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">3333</th><th align="left" valign="top" rowspan="1" colspan="1">10 000</th><th align="left" valign="top" rowspan="1" colspan="1">20 000</th><th align="left" valign="top" rowspan="1" colspan="1">40 000</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</td><td align="left" rowspan="1" colspan="1">52</td><td align="left" rowspan="1" colspan="1">54</td><td align="left" rowspan="1" colspan="1">56</td><td align="left" rowspan="1" colspan="1">53</td><td align="left" rowspan="1" colspan="1">54</td></tr><tr><td align="left" rowspan="1" colspan="1">Age [years, mean (SD)]</td><td align="left" rowspan="1" colspan="1">36.4 (10.0)</td><td align="left" rowspan="1" colspan="1">36.5 (10.2)</td><td align="left" rowspan="1" colspan="1">34.9 (10.0)</td><td align="left" rowspan="1" colspan="1">35.8 (10.0)</td><td align="left" rowspan="1" colspan="1">36.2 (10.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Range</td><td align="left" rowspan="1" colspan="1">20&#x02013;58</td><td align="left" rowspan="1" colspan="1">19&#x02013;59</td><td align="left" rowspan="1" colspan="1">18&#x02013;58</td><td align="left" rowspan="1" colspan="1">19&#x02013;58</td><td align="left" rowspan="1" colspan="1">19&#x02013;57</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight [kg, mean (SD)]</td><td align="left" rowspan="1" colspan="1">74.5 (14.3)</td><td align="left" rowspan="1" colspan="1">77.1 (16.3)</td><td align="left" rowspan="1" colspan="1">72.4 (14.5)</td><td align="left" rowspan="1" colspan="1">76.1 (17.7)</td><td align="left" rowspan="1" colspan="1">76.0 (16.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Range</td><td align="left" rowspan="1" colspan="1">47&#x02013;104</td><td align="left" rowspan="1" colspan="1">50&#x02013;112</td><td align="left" rowspan="1" colspan="1">49&#x02013;113</td><td align="left" rowspan="1" colspan="1">50&#x02013;118</td><td align="left" rowspan="1" colspan="1">50&#x02013;120</td></tr><tr><td align="left" rowspan="1" colspan="1">Height [cm, mean (SD)]</td><td align="left" rowspan="1" colspan="1">173.6 (10.6)</td><td align="left" rowspan="1" colspan="1">173.1 (10.2)</td><td align="left" rowspan="1" colspan="1">172.1 (9.8)</td><td align="left" rowspan="1" colspan="1">172.5 (8.3)</td><td align="left" rowspan="1" colspan="1">173.7 (9.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Range</td><td align="left" rowspan="1" colspan="1">152&#x02013;200</td><td align="left" rowspan="1" colspan="1">150&#x02013;195</td><td align="left" rowspan="1" colspan="1">154&#x02013;192</td><td align="left" rowspan="1" colspan="1">154&#x02013;189</td><td align="left" rowspan="1" colspan="1">158&#x02013;195</td></tr><tr><td align="left" rowspan="1" colspan="1">Gender M/F</td><td align="left" rowspan="1" colspan="1">28/24</td><td align="left" rowspan="1" colspan="1">27/27</td><td align="left" rowspan="1" colspan="1">27/29</td><td align="left" rowspan="1" colspan="1">25/28</td><td align="left" rowspan="1" colspan="1">28/26</td></tr><tr><td align="left" rowspan="1" colspan="1">SPT birch [mm, mean wheal size (SD)]</td><td align="left" rowspan="1" colspan="1">8.2 (2.9)</td><td align="left" rowspan="1" colspan="1">8.3 (2.8)</td><td align="left" rowspan="1" colspan="1">8.4 (3.3)</td><td align="left" rowspan="1" colspan="1">8.8 (4.0)</td><td align="left" rowspan="1" colspan="1">8.8 (3.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Birch&#x02010;specific IgE [kU/l, mean (SD)]</td><td align="left" rowspan="1" colspan="1">30.9 &#x000b1; 27.2</td><td align="left" rowspan="1" colspan="1">40.8 &#x000b1; 40.5</td><td align="left" rowspan="1" colspan="1">32.5 &#x000b1; 32.0</td><td align="left" rowspan="1" colspan="1">33.5 &#x000b1; 34.5</td><td align="left" rowspan="1" colspan="1">34.6 &#x000b1; 35.1</td></tr><tr><td align="left" rowspan="1" colspan="1">TNPT mean symptom score (SD)</td><td align="left" rowspan="1" colspan="1">6.08 (1.78)</td><td align="left" rowspan="1" colspan="1">5.75 (1.46)</td><td align="left" rowspan="1" colspan="1">6.01 (1.47)</td><td align="left" rowspan="1" colspan="1">5.79 (1.80)</td><td align="left" rowspan="1" colspan="1">6.22 (1.70)</td></tr><tr><td align="left" rowspan="1" colspan="1">PNIF [l, mean (SD)]</td><td align="left" rowspan="1" colspan="1">83.7 (35.5)</td><td align="left" rowspan="1" colspan="1">85.8 (31.9)</td><td align="left" rowspan="1" colspan="1">93.7 (43.3)</td><td align="left" rowspan="1" colspan="1">91.3 (36.5)</td><td align="left" rowspan="1" colspan="1">98.3 (43.9)</td></tr></tbody></table><table-wrap-foot><fn id="all12760-note-0003"><p>
+<italic>n</italic>, number of patients in the full analysis set; SD, standard deviation; SPT, skin prick test; IgE, immunoglobulin E; TNPT, titrated nasal provocation test; PNIF, peak nasal inspiratory flow.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><sec id="all12760-sec-0013"><title>Primary endpoint</title><p>Regarding the primary endpoint, in all treatment groups, a decrease in symptom scores after 5 months of treatment compared to the baseline measurement at screening was observed (32.6% in the placebo group up to 58.4% in the 40 000 AUN/ml group; Table <xref rid="all12760-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="all12760-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Symptom scores following TNPT after 5 months of treatment in the full analysis set</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="center" rowspan="2" valign="top" colspan="1">Placebo</th><th align="center" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">SB (AUN/ml)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="top" rowspan="1" colspan="1">3333</th><th align="center" valign="top" rowspan="1" colspan="1">10 000</th><th align="center" valign="top" rowspan="1" colspan="1">20 000</th><th align="center" valign="top" rowspan="1" colspan="1">40 000</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Baseline symptom score (SD)</td><td align="char" char=" " rowspan="1" colspan="1">6.08 (1.78)</td><td align="char" char=" " rowspan="1" colspan="1">5.75 (1.46)</td><td align="char" char=" " rowspan="1" colspan="1">6.01 (1.47)</td><td align="char" char=" " rowspan="1" colspan="1">5.79 (1.80)</td><td align="char" char=" " rowspan="1" colspan="1">6.22 (1.70)</td></tr><tr><td align="left" rowspan="1" colspan="1">EOS symptom score (SD)</td><td align="char" char=" " rowspan="1" colspan="1">4.10 (2.18)</td><td align="char" char=" " rowspan="1" colspan="1">3.63 (1.95)</td><td align="char" char=" " rowspan="1" colspan="1">3.56 (1.69)</td><td align="char" char=" " rowspan="1" colspan="1">3.03 (1.71)</td><td align="char" char=" " rowspan="1" colspan="1">2.59 (1.89)</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean change from baseline (SD)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.98 (2.02)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.12 (2.13)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.44 (2.33)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.76 (2.26)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;3.63 (2.35)</td></tr><tr><td align="left" rowspan="1" colspan="1">Adjusted least square mean</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.90</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.29</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.42</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.90</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;3.45</td></tr><tr><td align="left" rowspan="1" colspan="1">% decrease compared to baseline</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;32.6</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;36.9</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;40.8</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;47.7</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;58.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value<xref ref-type="fn" rid="all12760-note-0005">a</xref>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1">0.158</td><td align="char" char=" " rowspan="1" colspan="1">0.008</td><td align="char" char=" " rowspan="1" colspan="1">&#x0003c;0.001</td></tr></tbody></table><table-wrap-foot><fn id="all12760-note-0004"><p>EOS, end of study; SD, standard deviation.</p></fn><fn id="all12760-note-0005"><label>a</label><p>
+<italic>P</italic>&#x02010;value was based on the analysis of covariance (<sc>ancova</sc>), using fixed&#x02010;sequence step&#x02010;down pairwise comparison to placebo. The efficacy of each dose was established by testing against placebo from the highest to the lowest dose (step&#x02010;down pairwise comparison). No further testing was conducted if a nonsignificant result was obtained in the sequence. A significant linear dose&#x02013;response relationship was observed (<italic>P</italic> &#x0003c; 0.001).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The results showed that the dose&#x02013;response was linear and statistically significant (<italic>P</italic>&#x02010;value &#x0003c;0.001). An additional dose&#x02010;depending stepwise improvement in the active treatment groups compared to placebo was observed (Fig. <xref rid="all12760-fig-0003" ref-type="fig">3</xref>). The improvement compared to placebo was shown to be significant for the 20 000 AUN/ml (<italic>P</italic> = 0.008) and 40 000 AUN/ml (<italic>P</italic> &#x0003c; 0.001) groups, and no significance was demonstrated for the 10 000 AUN/ml group. Therefore, no further statistical testing was performed.</p><fig fig-type="Figure" xml:lang="en" id="all12760-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Decrease in Lebel symptom score after 5 months of treatment compared to baseline in the full analysis set (least square mean change from baseline in Lebel symptom score &#x000b1; standard error [<styled-content style="fixed-case">SE</styled-content>]). *The change in symptom score compared to placebo was significant in both the 20 000 and 40 000 AUN/ml groups.</p></caption><graphic id="nlm-graphic-5" xlink:href="ALL-71-99-g003"/></fig></sec><sec id="all12760-sec-0014"><title>Secondary endpoints</title><sec id="all12760-sec-0015"><title>Peak nasal inspiratory flow (PNIF)</title><p>PNIF measurements, as a parameter of nasal patency, were performed following TNPT. Changes in PNIF between baseline and 5 months of treatment with different dosages of SB were compared to placebo. In all active treatment groups, an increase in PNIF compared to placebo was observed, in patients treated with SB 40 000 AUN/ml, the improvement was significant (Fig. <xref rid="all12760-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="all12760-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Increase in nasal flow (l/min) after 5 months of treatment compared to baseline in the full analysis set (least square mean change from baseline in <styled-content style="fixed-case">PNIF</styled-content> &#x000b1; <styled-content style="fixed-case">SE</styled-content>). *The change in <styled-content style="fixed-case">PNIF</styled-content> compared to placebo was significant in the 40 000 AUN/ml group.</p></caption><graphic id="nlm-graphic-7" xlink:href="ALL-71-99-g004"/></fig></sec><sec id="all12760-sec-0016"><title>Immunogenicity</title><p>Immunogenicity of different dosages of SB (compared to placebo) after 5 months of treatment was determined by birch&#x02010;pollen&#x02010; and Bet v 1&#x02010;specific immunoglobulin levels (IgE, IgG, IgG<sub>4</sub>). A significant increase in birch&#x02010;pollen&#x02010; and Bet v 1&#x02010;specific IgG after 5 months of treatment was observed for all treatment groups compared to placebo. However, for birch&#x02010;pollen&#x02010; and Bet v 1&#x02010;specific IgG<sub>4</sub>, a significant increase compared to placebo was only observed in the 40 000 AUN/ml treatment group (Fig. <xref rid="all12760-fig-0005" ref-type="fig">5</xref>). In all active treatment groups, an increase in birch&#x02010;pollen&#x02010; and Bet v 1&#x02010;specific serum IgE levels was observed (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="all12760-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Increase in birch&#x02010;pollen&#x02010; and Bet v 1&#x02010;specific IgG and IgG<sub>4</sub> levels compared to placebo after 5 months of treatment in the full analysis set.</p></caption><graphic id="nlm-graphic-9" xlink:href="ALL-71-99-g005"/></fig></sec><sec id="all12760-sec-0017"><title>Adherence to treatment</title><p>Treatment compliance was based on the number of days the treatment was taken (as recorded in the diary) combined with the total number of days on treatment. Compliance was 98.1% in the placebo group and ranged from 96.2 to 98.1% in the active treatment groups.</p></sec><sec id="all12760-sec-0018"><title>Safety and tolerability</title><p>All 269 patients were included in the safety analysis. No clinically significant changes were observed in safety laboratory (haematology and blood chemistry) parameters, urinalysis, vital signs, physical examination and ECG. The frequency of drug&#x02010;related treatment&#x02010;emergent adverse events was higher in all active dose groups compared to placebo. The most common reported (occurring in &#x0003e;5% of patients) treatment&#x02010;emergent adverse events were oral and tongue pruritus, throat irritation, rhinitis, sneezing and ear pruritus. The majority of adverse reactions were of mild intensity and all patients fully recovered. During this study, 6 serious adverse events were reported by two patients (gastrointestinal symptoms (two events), weakness, loss of weight, myalgia, spontaneous ecchymoses) both in the placebo group. None of the events were assessed as related to the treatment. No grade III or IV systemic treatment&#x02010;emergent adverse events <xref rid="all12760-bib-0020" ref-type="ref">20</xref> or deaths occurred during the study.</p></sec></sec></sec><sec id="all12760-sec-0019"><title>Discussion</title><p>The current phase II study was conducted between July 2012 and April 2013. After initial screening of 317 patients, 269 adult subjects with birch&#x02010;pollen&#x02010;induced allergic rhinitis were randomized to placebo or to one of the four active treatments. As a titrated birch pollen nasal provocation test was used as primary outcome parameter in this dose&#x02010;range&#x02010;finding trial, all outcome measures were determined outside the birch pollen season to get accurate test results.</p><p>The aim of this study was to evaluate the dose&#x02013;response of SB in a model of allergic rhinitis, using a surrogate clinical endpoint for dose&#x02010;range&#x02010;finding studies [TNPT <xref rid="all12760-bib-0019" ref-type="ref">19</xref>, <xref rid="all12760-bib-0021" ref-type="ref">21</xref>] which is in accordance with the current recommendations of the European Medicines Agency (EMA) in the &#x02018;<italic>Guideline on the Clinical Development of Products for Specific Immunotherapy for The Treatment of Allergic Diseases (CHMP/EWP/18504/2006)&#x02019;</italic>
+<xref rid="all12760-bib-0022" ref-type="ref">22</xref> and with a recent position paper of the EAACI taskforce on &#x02018;<italic>dose&#x02013;response relationship in allergen&#x02010;specific immunotherapy&#x02019;</italic>
+<xref rid="all12760-bib-0015" ref-type="ref">15</xref>.</p><p>According to the latter, adequately designed dose&#x02010;ranging studies for pure sublingual birch pollen extracts are lacking <xref rid="all12760-bib-0015" ref-type="ref">15</xref>. To our knowledge, this is the first dose&#x02010;finding study, in line with the current recommendations and guidelines, with a sublingual birch pollen extract using a surrogate primary endpoint parameter <xref rid="all12760-bib-0015" ref-type="ref">15</xref>, <xref rid="all12760-bib-0022" ref-type="ref">22</xref>. The primary endpoint results show a clear and significant dose&#x02013;response curve, that is a stepwise increase in efficacy in the active treatment groups compared to placebo. The increase in efficacy was 10% or even higher from the lowest to the highest active dose group. The most significant decrease in symptom scores was observed following treatment with 40 000 AUN/ml. The results of the secondary efficacy results support these observations. Active treatment resulted in a larger improvement in PNIF and serum IgG levels compared to placebo with the largest effects observed in the 40 000 AUN/ml treatment group. Selection of the 40 000 AUN/ml as the optimal dose is based on both clinical and immunological dose&#x02013;response curves, and included analysis of symptom severity following allergen challenge as recommended by the EAACI taskforce <xref rid="all12760-bib-0015" ref-type="ref">15</xref>.</p><p>Despite the short mean treatment period of 5 months before the 2nd TNPT, a decrease in symptom scores is observed in all active treatment groups. Calderon et al. have shown that prolongation of the preseasonal treatment period improves clinical efficacy <xref rid="all12760-bib-0023" ref-type="ref">23</xref>. The effect observed in this study might therefore further improve after a longer treatment duration. Although no clear relationship exists between changes in immunoglobulin levels and clinical efficacy, the observed results on the IgG<sub>4</sub> levels might suggest that the treatment duration in the present study was too short for the 10 000 and 20 000 AUN/ml treatment groups. In studies with a longer treatment period of AIT, larger improvements are observed <xref rid="all12760-bib-0009" ref-type="ref">9</xref>, <xref rid="all12760-bib-0024" ref-type="ref">24</xref>, <xref rid="all12760-bib-0025" ref-type="ref">25</xref>. It is likely that the reduction in symptom score is clinically relevant and the treatment would result in a decrease in seasonal symptoms, at least for the 40 000 AUN/ml treatment group. Indirectly comparing data on perennial AR, the decrease in the Lebel symptom score observed in the current study appears to be in the same range as the decrease in symptom scores observed following treatment with nasal steroids and antihistamines, the mainstay pharmacotherapies for AR <xref rid="all12760-bib-0001" ref-type="ref">1</xref>, <xref rid="all12760-bib-0013" ref-type="ref">13</xref>, <xref rid="all12760-bib-0026" ref-type="ref">26</xref>, <xref rid="all12760-bib-0027" ref-type="ref">27</xref>, <xref rid="all12760-bib-0028" ref-type="ref">28</xref>. However, this is only an indication as a comparison with mainstay pharmacotherapy would require a head&#x02010;to&#x02010;head comparison in a study whereby clinical efficacy and not surrogate outcome markers would be the primary outcome.</p><p>The unpredictability of pollen exposure during the season renders the performance of (dose ranging) AIT studies during the pollen season very difficult. The efficacy of pooled grass SLIT tablets was shown to be dependent on pollen exposure, and treatment effect could be influenced by the low pollen exposure <xref rid="all12760-bib-0029" ref-type="ref">29</xref>. Therefore, another option would be to use an environmental challenge chamber; however, the availability of challenge chambers is limited and the TNPT is a viable alternative parameter <xref rid="all12760-bib-0022" ref-type="ref">22</xref>, <xref rid="all12760-bib-0030" ref-type="ref">30</xref>, <xref rid="all12760-bib-0031" ref-type="ref">31</xref>.</p><p>In all active treatment groups, more local and systemic adverse reactions compared to placebo were observed. However, the adverse reactions were mainly mild and well&#x02010;controlled. The frequency and nature of the adverse reactions observed in this study are common for SLIT and are comparable to similar products <xref rid="all12760-bib-0018" ref-type="ref">18</xref>, <xref rid="all12760-bib-0032" ref-type="ref">32</xref>.</p><p>In a previous clinical trial, the 10 000 AUN/ml dose was shown to be noninferior to Staloral birch by means of reduction in allergy symptoms assessed by a TNPT and an increase in serum&#x02010;specific IgG<sub>4</sub> levels to Bet v 1 <xref rid="all12760-bib-0016" ref-type="ref">16</xref>. Staloral birch is a registered product with demonstrated clinical efficacy during the birch pollen season <xref rid="all12760-bib-0008" ref-type="ref">8</xref>. We had therefore expected to observe significant efficacy at the 10 000 AUN/ml dose level and higher with a plateau in the dose&#x02013;response curve. This was not the case, and one of the limitations of the study is that no treatment with a dose higher than 40 000 AUN/ml was included. However, given the large decrease in symptom score compared to baseline and placebo, we think it is unlikely that a dose higher than 40 000 AUN/ml will result in a further reduction in the symptom score. On the other hand, a higher dose might result in a higher frequency and unacceptable intensity of adverse reactions.</p><p>In conclusion, the current study showed a distinctive dose&#x02013;response relationship. Treatment with the 40 000 AUN/ml dose resulted in the largest decrease in symptom score. This result is supported by the secondary outcome measurements, and therefore, SB 40 000 AUN/ml is considered to be the most optimal effective and safe dose within the studied dose range, to be further investigated in a currently ongoing multicenter phase III trial (ClinicalTrials.gov NCT02231307), which is designed according to the current EMA guideline and recently published EAACI recommendations on clinical outcomes in AIT trials <xref rid="all12760-bib-0022" ref-type="ref">22</xref>, <xref rid="all12760-bib-0031" ref-type="ref">31</xref>.</p></sec><sec id="all12760-sec-0021"><title>Author contributions</title><p>O. Pfaar was a coordinating investigator, involved in the design of the study, acquisition and interpretation of data and has substantially contributed to the manuscript from the first draft stage. E. van Twuijver was involved in the design of the study and interpretation of data and contributed the first draft of the manuscript. J.D. Boot and D.J.E. Opstelten were involved in the design of the study, interpretation of data and revision of the manuscript. L. Klimek was involved in the interpretation of data and revision of the manuscript. Zuzana Diamant and Ronald van Ree were involved in the design of the study and revision of the manuscript. P. Kuna and P. Panzner were involved in the acquisition, interpretation of data and revision of the manuscript. All authors read and approved the final manuscript.</p></sec><sec id="all12760-sec-0022"><title>Conflict of interest</title><p>O. Pfaar (OP) has received research grants for his institution from ALK Abell&#x000f3; (Germany/Denmark), Allergopharma (Germany), Stallergenes (Germany/France), HAL Allergy (Germany/the Netherlands), Artu Biologicals (the Netherlands), Allergy Therapeutics/Bencard (UK/Germany), Hartington (Spain), Lofarma (Italy), Novartis (Germany), LETI&#x02010;Pharma/Laboratorios LETI (Germany/Spain), GlaxoSmithKline (UK/Germany), Essex Pharma (Germany), Cytos (Switzerland), Curalogic (Denmark), Roxall (Germany), Biomay (Austria), Thermo Fisher (Germany), Circassia (UK), European Union (FP&#x02010;7 Health&#x02010;2013 Innovation 1), Biotech Tools s.a. (Belgium) and MEDA Pharma (Germany) and/or he has received personal fees as advisor and on speakers&#x02019; bureaus for some of the aforementioned companies. OP has received travel grants from HAL Allergy (the Netherlands/Germany), Allergopharma (Germany), European Academy of Allergy and Clinical Immunology (EAACI), German Society for Allergology and Clinical Immunology (DGAKI), German Respiratory Society (DGP). He received personal fees as a consultant for Allergy Therapeutics/Bencard (UK/Germany), HAL Allergy (Germany/the Netherlands), Novartis (Germany), LETI Pharma/Laboratorios LETI (Germany/Spain), MEDA Pharma (Germany), ALK Abell&#x000f3; (Germany/Denmark), Allergopharma (Germany), Biotech Tools s.a. (Belgium), GfK Bridgehead (UK), Navigant Consulting (USA), Sanofi (USA), Guidepoint Global Advisors (USA), GEKA mbH (Germany), Thermo Fisher (Germany), Pohl&#x02010;Boskamp (Germany), Stallergenes (Germany/France), Mobile Chamber Experts (MCX, a GA2LEN Partner). He received personal fees as coordinating investigator in clinical trials of some of the aforementioned companies. OP is the current chairman of the Immunotherapy Interest Group (IT IG) of EAACI and is the secretary of the ENT section of DGAKI. He has received grants for the &#x02018;Spezifische Immuntherapie&#x02019; award 2014 and the &#x02018;Nachwuchsf&#x000f6;rderpreis&#x02019; award 2010 of the DGAKI. He is a co&#x02010;editor and author of different chapters of the textbook &#x02018;Allergien bei Kindern und Jugendlichen&#x02019; (publisher: Schattauer, Germany), author of one chapter in &#x02018;Allergologie&#x02019; (publisher: Springer, Germany) and author of different chapters in &#x02018;Allergologie&#x02019; (publisher: Schattauer, Germany). He has received payment for the development of educational presentations from GlaxoSmithKline (GSK, Germany), Bencard (Germany), ALK&#x02010;Abello (Germany/Denmark), Stallergenes (Germany/France) and Novartis (Germany). He is an editorial board member of &#x02018;Allergo Journal Int&#x02019;. P. Panzner has during last 3 years received honoraria for participating in advisory board meetings or giving lectures for the following companies Novartis, Stallergenes, AstraZeneca, Boehringer Ingelheim, ALK, Meda, MSD, Baxter, Takeda. P. Kuna has during last 3 years received honoraria for participating in advisory board meetings or giving lectures for the following companies Adamed, Allergopharma, Almirall, AstraZeneca, Boehringer Ingelheim, Celon Pharma, Chiesi, FAES, GSK, MSD, Novartis, Pfizer, Polpharma, Teva. E. van Twuijver, J.D. Boot and D.J.E. Opstelten are employees of HAL Allergy B.V. L. Klimek (LK) has received research grants for his institution from ALK&#x02010;Abell&#x000f3; (Germany/Denmark), Allergopharma (Germany), Stallergenes (Germany/France), HAL Allergy (Germany/the Netherlands), Artu Biologicals (the Netherlands), Allergy Therapeutics/Bencard (UK/Germany), Hartington (Spain), Lofarma (Italy), Novartis/Leti (Germany/Spain), GlaxoSmithKline (UK/Germany), Essex Pharma (Germany), Cytos (Switzerland), Curalogic (Denmark), Roxall (Germany), Biomay (Austria), Thermo Fisher (Germany), Circassia (UK), Biotech Tools s.a. (Belgium) and Meda Pharma GmbH (Germany); and/or he has served as an advisor and on speakers&#x02019; bureaus for some of the aforementioned companies. LK has received travel grants from Meda Pharma GmbH (Germany), Allergy Therapeutics/Bencard (UK/Germany) and Allergopharma (Germany), and he is a consultant for Bencard (Germany), Novartis/Leti (Germany), Meda (Germany), ALK&#x02010;Abell&#x000f3; (Germany/Denmark) and Allergopharma (Germany). LK is the current Vice&#x02010;President of the German Union of Allergologists (AeDA) and the current Vice&#x02010;President of the German Academy of Allergology and Clinical Immunology. He is a co&#x02010;editor and an author of the textbooks &#x02018;Allergien bei Kindern und Jugendlichen&#x02019; (publisher: Schattauer&#x02010;Verlag, Germany) and &#x02018;Allergologie&#x02010; Handbuch&#x02019; (publisher: Schattauer&#x02010;Verlag, Germany) and has received payment for the development of educational presentations from GlaxoSmithKline (Germany), Bencard (Germany) and Novartis (Germany). Z. Diamant (ZD) and R. van Ree (RR) are consultants for HAL Allergy (the Netherlands).</p></sec></body><back><ack id="all12760-sec-0020"><title>Acknowledgments</title><p>We thank the (sub&#x02010;)investigators O. Gangaev, A. Glowania, B. Hackenberg, C. Harai, A. Schirkowski, A. Sperl, B. Hauswald, Y.M. Yarin, G. Hoheisel, J. Winkler, M. Bochenska&#x02010;Marcianak, I. Bogus&#x02010;Buczynska, A. Elgalal, I. Kuprys&#x02010;Lipinska, M. Panek, B. Rogala, B. Rymarczyk, A. P&#x00142;oszczuk, E. Botulinska, A. Trofimowiscz, E. Tr&#x00119;bas&#x02010;Pietra&#x0015b;, Z. Bartnik, I. Krolik, D. Sroczynska&#x02010;Chomicz, K. Wytrychowksi, W. Barg, A. Bielous&#x02010;Wilk, R. Dobek, J. Malolepszy, A. Obojski, B. Panaszek, R. Pawlowicz, M. Nitnner&#x02010;Marszalska, A. Gawlik, K. Buczy&#x00142;ko, J. Antoniak, C. Chwala, M.T. Wezyk, I. Krupa&#x02010;Borek, A. Horaczynska&#x02010;Wojtas, A. Welento&#x02010;Bialas, G. Pulka, S. Bazan&#x02010;Socha, M. Pulka, B. Majorek&#x02010;Olechowska, B. Ciaston&#x02010;Dudek, W. Olechowski, R. Gawlik, M. Nowakowski, Z. Bukowzcan, M. Bukowczan, J. Hanzlikova, M. Vachova, E. Seberova, E. Ohnutkova, P. Vojirova, D. Krti&#x0010d;kov&#x000e1;, I. Malecka, M. Kasl, D. Kaslova, and nurses, study personnel, pharmacists and participants who made this study possible. The authors further thank Pharm&#x02010;Olam International for assistance in conducting the study and for statistical analysis. HAL Allergy B.V., Leiden, the Netherlands, sponsored this trial, assumed overall responsibility and was involved in the study design and conduct, data management, collection, analysis, interpretation and publication of the study.</p></ack><ref-list content-type="cited-references" id="all12760-bibl-0001"><title>References</title><ref id="all12760-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="all12760-cit-0001">
+<string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Khaltaev</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cruz</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Denburg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Fokkens</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Togias</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Allergic Rhinitis and its Impact on Asthma (ARIA) 2008 update (in collaboration with the World Health Organization, GA(2)LEN and AllerGen)</article-title>. <source>Allergy</source>
+<year>2008</year>;<volume>63</volume>(<issue>Suppl 86</issue>):<fpage>8</fpage>&#x02013;<lpage>160</lpage>.<pub-id pub-id-type="pmid">18331513</pub-id></mixed-citation></ref><ref id="all12760-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="all12760-cit-0002">
+<string-name>
+<surname>Bacharier</surname>
+<given-names>LB</given-names>
+</string-name>, <string-name>
+<surname>Boner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Carlsen</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Eigenmann</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Frischer</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Gotz</surname>
+<given-names>M</given-names>
+</string-name> et al. <article-title>Diagnosis and treatment of asthma in childhood: a PRACTALL consensus report</article-title>. <source>Allergy</source>
+<year>2008</year>;<volume>63</volume>:<fpage>5</fpage>&#x02013;<lpage>34</lpage>.</mixed-citation></ref><ref id="all12760-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="all12760-cit-0003">
+<string-name>
+<surname>Jacobsen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Niggemann</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Dreborg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ferdousi</surname>
+<given-names>HA</given-names>
+</string-name>, <string-name>
+<surname>Halken</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Host</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Specific immunotherapy has long&#x02010;term preventive effect of seasonal and perennial asthma: 10&#x02010;year follow&#x02010;up on the PAT study</article-title>. <source>Allergy</source>
+<year>2007</year>;<volume>62</volume>:<fpage>943</fpage>&#x02013;<lpage>948</lpage>.<pub-id pub-id-type="pmid">17620073</pub-id></mixed-citation></ref><ref id="all12760-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="all12760-cit-0004">
+<string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lockey</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Malling</surname>
+<given-names>HJ</given-names>
+</string-name>. <article-title>Allergen immunotherapy: therapeutic vaccines for allergic diseases. A WHO position paper</article-title>. <source>J Allergy Clin Immunol</source>
+<year>1998</year>;<volume>102</volume>:<fpage>558</fpage>&#x02013;<lpage>562</lpage>.<pub-id pub-id-type="pmid">9802362</pub-id></mixed-citation></ref><ref id="all12760-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="all12760-cit-0005">
+<string-name>
+<surname>Pfaar</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Bachert</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bufe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Buhl</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ebner</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Eng</surname>
+<given-names>P</given-names>
+</string-name> et al. <article-title>Guideline on allergen&#x02010;specific immunotherapy in IgE&#x02010;mediated allergic diseases&#x02013; S2k Guideline of the German Society for Allergology and Clinical Immunology (DGAKI), the Society for Pediatric Allergy and Environmental Medicine (GPA), the Medical Association of German Allergologists (AeDA), the Austrian Society for Allergy and Immunology (&#x000d6;GAI), the Swiss Society for Allergy and Immunology (SGAI), the German Society of Dermatology (DDG), the German Society of Oto&#x02010;Rhino&#x02010;Laryngology, Head and Neck Surgery (DGHNO&#x02010;KHC), the German Society of Pediatrics and Adolescent Medicine (DGKJ), the Society for Pediatric Pneumology (GPP), the German Respiratory Society (DGP), the German Association of ENT Surgeons (BV&#x02010;HNO), the Professional Federation of Paediatricians and Youth Doctors (BVKJ), the Federal Association of Pulmonologists (BDP) and the German Dermatologists Association (BVDD)</article-title>. <source>Allergo J Int</source>
+<year>2014</year>;<volume>23</volume>:<fpage>282</fpage>&#x02013;<lpage>319</lpage>.<pub-id pub-id-type="pmid">26120539</pub-id></mixed-citation></ref><ref id="all12760-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="all12760-cit-0006">
+<string-name>
+<surname>Bufe</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Eberle</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Franke&#x02010;Beckmann</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Funck</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kimmig</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Klimek</surname>
+<given-names>L</given-names>
+</string-name> et al. <article-title>Safety and efficacy in children of an SQ&#x02010;standardized grass allergen tablet for sublingual immunotherapy</article-title>. <source>J Allergy Clin Immunol</source>
+<year>2009</year>;<volume>123</volume>:<fpage>167</fpage>&#x02013;<lpage>173</lpage>.<pub-id pub-id-type="pmid">19130937</pub-id></mixed-citation></ref><ref id="all12760-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="all12760-cit-0007">
+<string-name>
+<surname>Dahl</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kapp</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Colombo</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>de Monchy</surname>
+<given-names>JG</given-names>
+</string-name>, <string-name>
+<surname>Rak</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Emminger</surname>
+<given-names>W</given-names>
+</string-name> et al. <article-title>Efficacy and safety of sublingual immunotherapy with grass allergen tablets for seasonal allergic rhinoconjunctivitis</article-title>. <source>J Allergy Clin Immunol</source>
+<year>2006</year>;<volume>118</volume>:<fpage>434</fpage>&#x02013;<lpage>440</lpage>.<pub-id pub-id-type="pmid">16890769</pub-id></mixed-citation></ref><ref id="all12760-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="all12760-cit-0008">
+<string-name>
+<surname>Khinchi</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Poulsen</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Carat</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Andre</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Malling</surname>
+<given-names>HJ</given-names>
+</string-name>. <article-title>Clinical efficacy of sublingual and subcutaneous birch pollen allergen&#x02010;specific immunotherapy: a randomized, placebo&#x02010;controlled, double&#x02010;blind, double&#x02010;dummy study</article-title>. <source>Allergy</source>
+<year>2004</year>;<volume>59</volume>:<fpage>45</fpage>&#x02013;<lpage>53</lpage>.</mixed-citation></ref><ref id="all12760-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="all12760-cit-0009">
+<string-name>
+<surname>Ott</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Sieber</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Brehler</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Folster&#x02010;Holst</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kapp</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Klimek</surname>
+<given-names>L</given-names>
+</string-name> et al. <article-title>Efficacy of grass pollen sublingual immunotherapy for three consecutive seasons and after cessation of treatment: the ECRIT study</article-title>. <source>Allergy</source>
+<year>2009</year>;<volume>64</volume>:<fpage>1394</fpage>&#x02013;<lpage>1401</lpage>.<pub-id pub-id-type="pmid">19764942</pub-id></mixed-citation></ref><ref id="all12760-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="all12760-cit-0010">
+<string-name>
+<surname>Radulovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Calderon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Durham</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Systematic reviews of sublingual immunotherapy (SLIT)</article-title>. <source>Allergy</source>
+<year>2011</year>;<volume>66</volume>:<fpage>740</fpage>&#x02013;<lpage>752</lpage>.<pub-id pub-id-type="pmid">21443635</pub-id></mixed-citation></ref><ref id="all12760-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="all12760-cit-0011">
+<string-name>
+<surname>Wahn</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Tabar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kuna</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Halken</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Montagut</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>de</surname>
+<given-names>Beaumont O</given-names>
+</string-name> et al. <article-title>Efficacy and safety of 5&#x02010;grass&#x02010;pollen sublingual immunotherapy tablets in pediatric allergic rhinoconjunctivitis</article-title>. <source>J Allergy Clin Immunol</source>
+<year>2009</year>;<volume>123</volume>:<fpage>160</fpage>&#x02013;<lpage>166</lpage>.<pub-id pub-id-type="pmid">19046761</pub-id></mixed-citation></ref><ref id="all12760-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="all12760-cit-0012">
+<string-name>
+<surname>Canonica</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mullol</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Scadding</surname>
+<given-names>GK</given-names>
+</string-name>, <string-name>
+<surname>Virchow</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>A survey of the burden of allergic rhinitis in Europe</article-title>. <source>Allergy</source>
+<year>2007</year>;<volume>62</volume>(<issue>Suppl 85</issue>):<fpage>17</fpage>&#x02013;<lpage>25</lpage>.</mixed-citation></ref><ref id="all12760-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="all12760-cit-0013">
+<string-name>
+<surname>Brozek</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baena&#x02010;Cagnani</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Bonini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Canonica</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Casale</surname>
+<given-names>TB</given-names>
+</string-name> et al. <article-title>Allergic Rhinitis and its Impact on Asthma (ARIA) guidelines: 2010 revision</article-title>. <source>J Allergy Clin Immunol</source>
+<year>2010</year>;<volume>126</volume>:<fpage>466</fpage>&#x02013;<lpage>476</lpage>.<pub-id pub-id-type="pmid">20816182</pub-id></mixed-citation></ref><ref id="all12760-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="all12760-cit-0014">
+<string-name>
+<surname>Bauchau</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Durham</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Prevalence and rate of diagnosis of allergic rhinitis in Europe</article-title>. <source>Eur Respir J</source>
+<year>2004</year>;<volume>24</volume>:<fpage>758</fpage>&#x02013;<lpage>764</lpage>.<pub-id pub-id-type="pmid">15516669</pub-id></mixed-citation></ref><ref id="all12760-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="all12760-cit-0015">
+<string-name>
+<surname>Calderon</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Larenas</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kleine&#x02010;Tebbe</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jacobsen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Passalacqua</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Eng</surname>
+<given-names>PA</given-names>
+</string-name> et al. <article-title>European Academy of Allergy and Clinical Immunology task force report on &#x02018;dose&#x02010;response relationship in allergen&#x02010;specific immunotherapy&#x02019;</article-title>. <source>Allergy</source>
+<year>2011</year>;<volume>66</volume>:<fpage>1345</fpage>&#x02013;<lpage>1359</lpage>.<pub-id pub-id-type="pmid">21707645</pub-id></mixed-citation></ref><ref id="all12760-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="all12760-cit-0016">
+<string-name>
+<surname>Klimek</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Sperl</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>van Twuijver</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>van Ree</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kleinjans</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Boot</surname>
+<given-names>JD</given-names>
+</string-name> et al. <article-title>A prospective study comparing the efficacy and safety of two sublingual birch allergen preparations</article-title>. <source>Clin Transl Allergy</source>
+<year>2014</year>;<volume>4</volume>:<fpage>23</fpage>.<pub-id pub-id-type="pmid">25097754</pub-id></mixed-citation></ref><ref id="all12760-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="all12760-cit-0017">
+<string-name>
+<surname>Kerkvliet</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Peekel</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>van Tuyn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sleijster</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>van den Hout</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Amount of major allergen Bet v 1 and allergen activity in different European products for sublingual immunotherapy</article-title>. <source>Allergy</source>
+<year>2011</year>;<volume>66</volume>(<issue>Suppl 94</issue>):<fpage>622</fpage>&#x02013;<lpage>623</lpage>.</mixed-citation></ref><ref id="all12760-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="all12760-cit-0018">
+<string-name>
+<surname>Canonica</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Cox</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pawankar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Baena&#x02010;Cagnani</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Blaiss</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bonini</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Sublingual immunotherapy: World Allergy Organization position paper 2013 update</article-title>. <source>World Allergy Organ J</source>
+<year>2014</year>;<volume>7</volume>:<fpage>6</fpage>.<pub-id pub-id-type="pmid">24679069</pub-id></mixed-citation></ref><ref id="all12760-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="all12760-cit-0019">
+<string-name>
+<surname>Lebel</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Morel</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Chanal</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Godard</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Michel</surname>
+<given-names>FB</given-names>
+</string-name>. <article-title>Correlation between symptoms and the threshold for release of mediators in nasal secretions during nasal challenge with grass&#x02010;pollen grains</article-title>. <source>J Allergy Clin Immunol</source>
+<year>1988</year>;<volume>82</volume>:<fpage>869</fpage>&#x02013;<lpage>877</lpage>.<pub-id pub-id-type="pmid">2461405</pub-id></mixed-citation></ref><ref id="all12760-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="all12760-cit-0020">
+<string-name>
+<surname>Alvarez&#x02010;Cuesta</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Canonica</surname>
+<given-names>GW</given-names>
+</string-name>, <string-name>
+<surname>Durham</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Malling</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Valovirta</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Standards for practical allergen&#x02010;specific immunotherapy</article-title>. <source>Allergy</source>
+<year>2006</year>;<volume>61</volume>(<issue>Suppl 82</issue>):<fpage>1</fpage>&#x02013;<lpage>20</lpage>.</mixed-citation></ref><ref id="all12760-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="all12760-cit-0021">
+<string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Maasch</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Martinot</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hejjaoui</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wahl</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Michel</surname>
+<given-names>FB</given-names>
+</string-name>. <article-title>Double&#x02010;blind, placebo&#x02010;controlled immunotherapy with mixed grass&#x02010;pollen allergoids. II. Comparison between parameters assessing the efficacy of immunotherapy</article-title>. <source>J Allergy Clin Immunol</source>
+<year>1988</year>;<volume>82</volume>:<fpage>439</fpage>&#x02013;<lpage>446</lpage>.<pub-id pub-id-type="pmid">3170992</pub-id></mixed-citation></ref><ref id="all12760-bib-0022"><label>22</label><mixed-citation publication-type="miscellaneous" id="all12760-cit-0022">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Commitee for medicinal products for human use (CHMP): Guideline on the Clinical Development of Products for Specific Immunotherapy for The Treatment of Allergic Diseases (CHMP/EWP/18504/2006)</article-title>. <year>2008</year> Available from: <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/09/WC500003605.pdf">http://www.ema.europa.eu/docs/en_GB/document_library/Scientific_guideline/2009/09/WC500003605.pdf</ext-link>.</mixed-citation></ref><ref id="all12760-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="all12760-cit-0023">
+<string-name>
+<surname>Calderon</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Birk</surname>
+<given-names>AO</given-names>
+</string-name>, <string-name>
+<surname>Andersen</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Durham</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Prolonged preseasonal treatment phase with Grazax sublingual immunotherapy increases clinical efficacy</article-title>. <source>Allergy</source>
+<year>2007</year>;<volume>62</volume>:<fpage>958</fpage>&#x02013;<lpage>961</lpage>.<pub-id pub-id-type="pmid">17620076</pub-id></mixed-citation></ref><ref id="all12760-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="all12760-cit-0024">
+<string-name>
+<surname>Marcucci</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sensi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Di Cara</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Salvatori</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bernini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pecora</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Three&#x02010;year follow&#x02010;up of clinical and inflammation parameters in children monosensitized to mites undergoing sub&#x02010;lingual immunotherapy</article-title>. <source>Pediatr Allergy Immunol</source>
+<year>2005</year>;<volume>16</volume>:<fpage>519</fpage>&#x02013;<lpage>526</lpage>.<pub-id pub-id-type="pmid">16176400</pub-id></mixed-citation></ref><ref id="all12760-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="all12760-cit-0025">
+<string-name>
+<surname>Tabar</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Arroabarren</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Echechipia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>BE</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Alvarez&#x02010;Puebla</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Three years of specific immunotherapy may be sufficient in house dust mite respiratory allergy</article-title>. <source>J Allergy Clin Immunol</source>
+<year>2011</year>;<volume>127</volume>:<fpage>57</fpage>&#x02013;<lpage>63</lpage>, 63.<pub-id pub-id-type="pmid">21211641</pub-id></mixed-citation></ref><ref id="all12760-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="all12760-cit-0026">
+<string-name>
+<surname>De Graaf&#x02010;in't Veld</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Garrelds</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Jansen</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>van Toorenenbergen</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Mulder</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Meeuwis</surname>
+<given-names>J</given-names>
+</string-name> et al. <article-title>Effect of intranasal fluticasone proprionate on the immediate and late allergic reaction and nasal hyperreactivity in patients with a house dust mite allergy</article-title>. <source>Clin Exp Allergy</source>
+<year>1995</year>;<volume>25</volume>:<fpage>966</fpage>&#x02013;<lpage>973</lpage>.<pub-id pub-id-type="pmid">8556568</pub-id></mixed-citation></ref><ref id="all12760-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="all12760-cit-0027">
+<string-name>
+<surname>de Graaf&#x02010;in &#x02018;t Veld</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Garrelds</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>van Toorenenbergen</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Mulder</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Gerth van</surname>
+<given-names>Wijk R</given-names>
+</string-name>, <string-name>
+<surname>Boegheim</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Effect of topical levocabastine on nasal response to allergen challenge and nasal hyperreactivity in perennial rhinitis</article-title>. <source>Ann Allergy Asthma Immunol</source>
+<year>1995</year>;<volume>75</volume>:<fpage>261</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">7552929</pub-id></mixed-citation></ref><ref id="all12760-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="all12760-cit-0028">
+<string-name>
+<surname>Bende</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Carrillo</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Vona</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>da Castel&#x02010;Branco</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Arheden</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>A randomized comparison of the effects of budesonide and mometasone furoate aqueous nasal sprays on nasal peak flow rate and symptoms in perennial allergic rhinitis</article-title>. <source>Ann Allergy Asthma Immunol</source>
+<year>2002</year>;<volume>88</volume>:<fpage>617</fpage>&#x02013;<lpage>623</lpage>.<pub-id pub-id-type="pmid">12086370</pub-id></mixed-citation></ref><ref id="all12760-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="all12760-cit-0029">
+<string-name>
+<surname>Durham</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Nelson</surname>
+<given-names>HS</given-names>
+</string-name>, <string-name>
+<surname>Nolte</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bernstein</surname>
+<given-names>DI</given-names>
+</string-name>, <string-name>
+<surname>Creticos</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Z</given-names>
+</string-name> et al. <article-title>Magnitude of efficacy measurements in grass allergy immunotherapy trials is highly dependent on pollen exposure</article-title>. <source>Allergy</source>
+<year>2014</year>;<volume>69</volume>:<fpage>617</fpage>&#x02013;<lpage>623</lpage>.<pub-id pub-id-type="pmid">24605984</pub-id></mixed-citation></ref><ref id="all12760-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="all12760-cit-0030">
+<string-name>
+<surname>Rosner&#x02010;Friese</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kaul</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Vieths</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pfaar</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Environmental exposure chambers in allergen immunotherapy trials: current status and clinical validation needs</article-title>. <source>J Allergy Clin Immunol</source>
+<year>2015</year>;<volume>135</volume>:<fpage>636</fpage>&#x02013;<lpage>643</lpage>.<pub-id pub-id-type="pmid">25528360</pub-id></mixed-citation></ref><ref id="all12760-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="all12760-cit-0031">
+<string-name>
+<surname>Pfaar</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Demoly</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gerth vanWijk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bonini</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bousquet</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Canonica</surname>
+<given-names>GW</given-names>
+</string-name> et al. <article-title>Recommendations for the standardization of clinical outcomes used in allergen immunotherapy trials for allergic rhinoconjunctivitis: an EAACI Position Paper</article-title>. <source>Allergy</source>
+<year>2014</year>;<volume>69</volume>:<fpage>854</fpage>&#x02013;<lpage>867</lpage>.<pub-id pub-id-type="pmid">24761804</pub-id></mixed-citation></ref><ref id="all12760-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="all12760-cit-0032">
+<string-name>
+<surname>Calderon</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Simons</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Malling</surname>
+<given-names>HJ</given-names>
+</string-name>, <string-name>
+<surname>Lockey</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Moingeon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Demoly</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Sublingual allergen immunotherapy: mode of action and its relationship with the safety profile</article-title>. <source>Allergy</source>
+<year>2012</year>;<volume>67</volume>:<fpage>302</fpage>&#x02013;<lpage>311</lpage>.<pub-id pub-id-type="pmid">22150126</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,1207 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29437598</article-id><article-id pub-id-type="pmc">5850185</article-id><article-id pub-id-type="doi">10.1161/JAHA.117.007341</article-id><article-id pub-id-type="publisher-id">JAH32954</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Stroke</subject></subj-group></subj-group></article-categories><title-group><article-title>Bilateral Transcutaneous Electrical Nerve Stimulation Improves Lower&#x02010;Limb Motor Function in Subjects With Chronic Stroke: A Randomized Controlled Trial</article-title><alt-title alt-title-type="left-running-head">Kwong et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah32954-cr-0001" contrib-type="author"><name><surname>Kwong</surname><given-names>Patrick W. H.</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="jah32954-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32954-cr-0002" contrib-type="author"><name><surname>Ng</surname><given-names>Gabriel Y. F.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32954-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32954-cr-0003" contrib-type="author"><name><surname>Chung</surname><given-names>Raymond C. K.</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32954-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32954-cr-0004" contrib-type="author" corresp="yes"><name><surname>Ng</surname><given-names>Shamay S. M.</given-names></name><degrees>PhD</degrees><address><email>shamay.ng@polyu.edu.hk</email></address><xref ref-type="aff" rid="jah32954-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jah32954-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Department of Rehabilitation Sciences</named-content>
+<institution>The Hong Kong Polytechnic University</institution>
+<country country="HK">Hong Kong</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Shamay S. M. Ng, PhD, Department of Rehabilitation Sciences, The Hong Kong Polytechnic University, Hong Kong. E&#x02010;mail: <email>shamay.ng@polyu.edu.hk</email></corresp></author-notes><pub-date pub-type="epub"><day>08</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2018</year></pub-date><volume>7</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/jah3.2018.7.issue-4</issue-id><elocation-id>e007341</elocation-id><history><date date-type="received"><day>06</day><month>8</month><year>2017</year></date><date date-type="accepted"><day>10</day><month>1</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-7-e007341.pdf"/><abstract id="jah32954-abs-0001"><sec id="jah32954-sec-0001"><title>Background</title><p>Transcutaneous electrical nerve stimulation (<styled-content style="fixed-case">TENS</styled-content>) has been used to augment the efficacy of task&#x02010;oriented training (<styled-content style="fixed-case">TOT</styled-content>) after stroke. Bilateral intervention approaches have also been shown to be effective in augmenting motor function after stroke. The purpose of this study was to compare the efficacy of bilateral <styled-content style="fixed-case">TENS</styled-content> combined with <styled-content style="fixed-case">TOT</styled-content> versus unilateral <styled-content style="fixed-case">TENS</styled-content> combined with <styled-content style="fixed-case">TOT</styled-content> in improving lower&#x02010;limb motor function in subjects with chronic stroke.</p></sec><sec id="jah32954-sec-0002"><title>Methods and Results</title><p>Eighty subjects were randomly assigned to bilateral <styled-content style="fixed-case">TENS</styled-content>+<styled-content style="fixed-case">TOT</styled-content> or to unilateral <styled-content style="fixed-case">TENS</styled-content>+<styled-content style="fixed-case">TOT</styled-content> and underwent 20 sessions of training over a 10&#x02010;week period. The outcome measures included the maximal strength of the lower&#x02010;limb muscles and the results of the Lower Extremity Motor Coordination Test, Berg Balance Scale, Step Test, and Timed Up and Go test. Each participant was assessed at baseline, after 10 and 20 sessions of training and 3&#x000a0;months after the cessation of training. The subjects in the bilateral <styled-content style="fixed-case">TENS</styled-content>+<styled-content style="fixed-case">TOT</styled-content> group showed greater improvement in paretic ankle dorsiflexion strength (&#x003b2;=1.32; <italic>P</italic>=0.032) and in the completion time for the Timed Up and Go test (&#x003b2;=&#x02212;1.54; <italic>P</italic>=0.004) than those in the unilateral <styled-content style="fixed-case">TENS</styled-content>+<styled-content style="fixed-case">TOT</styled-content> group. However, there were no significant between&#x02010;group differences for other outcome measures.</p></sec><sec id="jah32954-sec-0003"><title>Conclusions</title><p>The application of bilateral <styled-content style="fixed-case">TENS</styled-content> over the common peroneal nerve combined with <styled-content style="fixed-case">TOT</styled-content> was superior to the application of unilateral <styled-content style="fixed-case">TENS</styled-content> combined with <styled-content style="fixed-case">TOT</styled-content> in improving paretic ankle dorsiflexion strength after 10 sessions of training and in improving the completion time for the Timed Up and Go test after 20 sessions of training.</p></sec><sec id="jah32954-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">http://www.clinicaltrials.gov</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>02152813.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah32954-kwd-0001">clinical trial</kwd><kwd id="jah32954-kwd-0002">electrical stimulation</kwd><kwd id="jah32954-kwd-0003">rehabilitation</kwd><kwd id="jah32954-kwd-0004">stroke</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Rehabilitation</kwd></kwd-group><funding-group><award-group><funding-source>Research Grants Council, Hong Kong</funding-source><award-id>562413</award-id></award-group></funding-group><counts><fig-count count="1"/><table-count count="3"/><page-count count="15"/><word-count count="10742"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah32954</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:20.02.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah32954-cit-1001">(<source>J Am Heart Assoc</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e007341</elocation-id> DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.117.007341">10.1161/JAHA.117.007341</ext-link>.)<pub-id pub-id-type="pmid">29437598</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="jah32954-blkfxd-0001" orientation="portrait"><sec id="jah32954-sec-0006"><title>Clinical Perspective</title><sec id="jah32954-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah32954-list-0001"><list-item><p>Bilateral transcutaneous electrical stimulation applied over the common peroneal nerve enhanced the efficacy of lower limb task&#x02010;oriented training in people with chronic stroke.</p></list-item><list-item><p>Bilateral transcutaneous electrical stimulation is better than unilateral transcutaneous electrical stimulation in improving the paretic ankle dorsiflexor strength (1 of 4 prespecified primary outcomes) and Timed Up and Go Test completion time.</p></list-item><list-item><p>There were no differences in the other 3 primary outcomes.</p></list-item></list>
+</p></sec><sec id="jah32954-sec-0008"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah32954-list-0002"><list-item><p>The training effects of both intervention protocols last for at least 3&#x000a0;months after the end of training, except for the paretic ankle plantarflexor strength.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah32954-sec-0009"><title>Introduction</title><p>Transcutaneous electrical nerve stimulation (TENS) is used as an adjunct treatment to enhance paretic lower&#x02010;limb muscle strength,<xref rid="jah32954-bib-0001" ref-type="ref">1</xref>, <xref rid="jah32954-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32954-bib-0003" ref-type="ref">3</xref> walking speed,<xref rid="jah32954-bib-0003" ref-type="ref">3</xref>, <xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref>, <xref rid="jah32954-bib-0006" ref-type="ref">6</xref> balance performance,<xref rid="jah32954-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32954-bib-0003" ref-type="ref">3</xref>, <xref rid="jah32954-bib-0007" ref-type="ref">7</xref> and functional mobility<xref rid="jah32954-bib-0001" ref-type="ref">1</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref>, <xref rid="jah32954-bib-0007" ref-type="ref">7</xref>, <xref rid="jah32954-bib-0008" ref-type="ref">8</xref> in subjects with acute,<xref rid="jah32954-bib-0001" ref-type="ref">1</xref> subacute,<xref rid="jah32954-bib-0006" ref-type="ref">6</xref>, <xref rid="jah32954-bib-0007" ref-type="ref">7</xref> and chronic<xref rid="jah32954-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref> stroke. The therapeutic effects of TENS may be mediated via peripheral<xref rid="jah32954-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32954-bib-0010" ref-type="ref">10</xref>, <xref rid="jah32954-bib-0011" ref-type="ref">11</xref> and central mechanisms.<xref rid="jah32954-bib-0012" ref-type="ref">12</xref>, <xref rid="jah32954-bib-0013" ref-type="ref">13</xref> At the peripheral level, TENS applied over paretic legs reduced the amplitude of the H&#x02010;reflex<xref rid="jah32954-bib-0009" ref-type="ref">9</xref> and lengthened the stretch reflex latency<xref rid="jah32954-bib-0010" ref-type="ref">10</xref> and H&#x02010;reflex latency<xref rid="jah32954-bib-0011" ref-type="ref">11</xref> in subjects with chronic stroke. At the cortical level, a single session of cutaneous electrical stimulation applied over a paretic hand reduced short&#x02010;interval intracortical inhibition<xref rid="jah32954-bib-0012" ref-type="ref">12</xref> and enhanced cortical&#x02010;muscular coupling during paretic thumb contraction.<xref rid="jah32954-bib-0013" ref-type="ref">13</xref> Previous studies from our laboratory<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref> showed that 20 sessions of unilateral TENS (Uni&#x02010;TENS) applied over the paretic legs combined with task&#x02010;oriented training (TOT) led to greater improvement in lower&#x02010;limb muscle strength and walking performance than placebo&#x02010;TENS combined with TOT in subjects with chronic stroke.</p><p>Clinical studies have consistently demonstrated that bilateral motor training is beneficial<xref rid="jah32954-bib-0014" ref-type="ref">14</xref> and superior to unilateral or conventional training for the recovery of motor control,<xref rid="jah32954-bib-0015" ref-type="ref">15</xref>, <xref rid="jah32954-bib-0016" ref-type="ref">16</xref> muscle strength,<xref rid="jah32954-bib-0015" ref-type="ref">15</xref> the kinematics of upper limb movement,<xref rid="jah32954-bib-0016" ref-type="ref">16</xref>, <xref rid="jah32954-bib-0017" ref-type="ref">17</xref>, <xref rid="jah32954-bib-0018" ref-type="ref">18</xref> hand dexterity,<xref rid="jah32954-bib-0015" ref-type="ref">15</xref> and upper&#x02010;limb function<xref rid="jah32954-bib-0017" ref-type="ref">17</xref>, <xref rid="jah32954-bib-0019" ref-type="ref">19</xref> after stroke. In addition, Sasaki and colleagues<xref rid="jah32954-bib-0014" ref-type="ref">14</xref> reported that high&#x02010;frequency transcranial magnetic stimulation over the cortical motor areas&#x000a0;that represent both legs led to significantly greater improvement in the Brunnstrom Recovery Stage score than sham&#x000a0;stimulation in subjects with acute stroke.</p><p>The mechanisms that mediate the effects of bilateral intervention in subjects with stroke include rebalancing interhemispheric inhibition,<xref rid="jah32954-bib-0020" ref-type="ref">20</xref>, <xref rid="jah32954-bib-0021" ref-type="ref">21</xref>, <xref rid="jah32954-bib-0022" ref-type="ref">22</xref> activating the homologous neural networks in both hemispheres,<xref rid="jah32954-bib-0023" ref-type="ref">23</xref>, <xref rid="jah32954-bib-0024" ref-type="ref">24</xref> and recruiting the neural networks of the contralesional hemisphere.<xref rid="jah32954-bib-0017" ref-type="ref">17</xref>, <xref rid="jah32954-bib-0023" ref-type="ref">23</xref>, <xref rid="jah32954-bib-0025" ref-type="ref">25</xref> The use of transcranial magnetic stimulation in subjects with stroke, in which the maximum voluntary contraction of the nonparetic hand was combined with less&#x02010;forceful contraction of the paretic hand, increased the cortical excitability of the ipsilesional motor representation area of the hand when compared with contraction of the paretic hand alone.<xref rid="jah32954-bib-0024" ref-type="ref">24</xref> Grefkes and colleagues<xref rid="jah32954-bib-0023" ref-type="ref">23</xref> used functional magnetic resonance imaging and dynamic causal modeling to demonstrate positive neural coupling between the ipsilesional primary motor cortex (M1) and the contralesional motor&#x02010;related areas in bilateral synchronized hand movements in subjects with stroke.<xref rid="jah32954-bib-0023" ref-type="ref">23</xref> Similarly, Luft and colleagues<xref rid="jah32954-bib-0025" ref-type="ref">25</xref> reported that activation of the contralesional cerebrum and ipsilesional cerebellum had increased after 6&#x000a0;weeks of bilateral arm training, but not after dose&#x02010;matched training based on the neurodevelopmental principles that focused on the paretic upper limb in subjects with stroke. In the same study,<xref rid="jah32954-bib-0025" ref-type="ref">25</xref> after exclusion of subjects without cortical activation changes from the analyses, the group with bilateral arm training also demonstrated greater improvement in hand function than the group with dose&#x02010;matched exercises.</p><p>Clinical trials of the effects of bilateral lower&#x02010;limb motor training in subjects with stroke are sparse. Johannsen and colleagues<xref rid="jah32954-bib-0026" ref-type="ref">26</xref> reported that a 10&#x02010;session bilateral lower&#x02010;limb training program with rhythmic auditory cueing led to greater improvement in step length and in the accuracy of the paretic foot&#x02010;aiming task in subjects with chronic stroke when compared with a control group of patients who underwent upper&#x02010;limb training.<xref rid="jah32954-bib-0026" ref-type="ref">26</xref>
+</p><p>Current evidence shows that bilateral intervention recruits spare neural substrates to enhance motor recovery<xref rid="jah32954-bib-0017" ref-type="ref">17</xref>, <xref rid="jah32954-bib-0020" ref-type="ref">20</xref>, <xref rid="jah32954-bib-0021" ref-type="ref">21</xref>, <xref rid="jah32954-bib-0022" ref-type="ref">22</xref>, <xref rid="jah32954-bib-0023" ref-type="ref">23</xref>, <xref rid="jah32954-bib-0024" ref-type="ref">24</xref>, <xref rid="jah32954-bib-0025" ref-type="ref">25</xref>; we thus hypothesized that the application of TENS over both paretic and nonparetic legs (Bi&#x02010;TENS) might induce greater and earlier improvement in lower&#x02010;limb motor function than the use of Uni&#x02010;TENS in subjects with stroke. A literature search revealed that no study has compared the efficacy of Bi&#x02010;TENS+TOT and Uni&#x02010;TENS+TOT on motor recovery after stroke. Therefore, this study aimed to compare the efficacy of a Bi&#x02010;TENS+TOT program versus a Uni&#x02010;TENS+TOT program for improving lower&#x02010;limb muscle strength, balance performance, and functional mobility in subjects with chronic stroke.</p></sec><sec id="jah32954-sec-0010"><title>Methods</title><p>The data, analytic methods, and study materials will be made available to other researchers for purposes of reproducing the results or replicating the procedure. The data that support the findings of this study are available from the corresponding author upon reasonable request.</p><sec id="jah32954-sec-0011"><title>Study Procedures</title><p>The study protocol was prospectively registered with ClinicalTrials.gov (identifier: NCT02152813). The study was conducted in a Balance and Neural Control Laboratory, and the Ethics Committee of the administrative institution approved the protocol. All participants gave written consent before participation. The study was conducted in accordance with the Declaration of Helsinki for human experiments.</p></sec><sec id="jah32954-sec-0012"><title>Participants</title><p>The sample size was estimated prospectively using G*power v3.1.0 (Franz Faul, University of Kiel, Germany) with an &#x003b1; level of 0.05 and power of 0.8. Because no previous study has compared the effects of bilateral electrical stimulation with those of unilateral stimulation on lower&#x02010;limb motor function in this population, the estimation is based on a recent systematic review and meta&#x02010;analysis<xref rid="jah32954-bib-0027" ref-type="ref">27</xref> that showed a medium to large effect size (Cohen's d=0.73) for bilateral movement training in the improvement of upper&#x02010;limb motor function after stroke. We selected a more conservative effect size of 0.6 in our model, so the total sample size was estimated to be 72 subjects (36 per group) to detect significant between&#x02010;groups differences. To allow for dropouts, we planned to recruit an additional 8 participants. Thus, the planned sample size was 80 (40 subjects per group).</p><p>Subjects with stroke were recruited from local self&#x02010;help groups via poster advertising. Subjects older than 85&#x000a0;years were excluded because old age frailty is commonly seen in this age group<xref rid="jah32954-bib-0028" ref-type="ref">28</xref> and may have a strong influence on motor recovery after stroke.<xref rid="jah32954-bib-0029" ref-type="ref">29</xref> Subjects were eligible to participate if they (1) were between 55 and 85&#x000a0;years of age; (2) had received a diagnosis of ischemic or hemorrhagic stroke by magnetic resonance imaging or computed tomographic scan &#x0003e;1&#x000a0;year and &#x0003c;10&#x000a0;years earlier; (3) were able to walk 3&#x000a0;m independently; (4) were able to score &#x0003e;6 out of 10 on the Abbreviated Mental Test<xref rid="jah32954-bib-0030" ref-type="ref">30</xref>; (5) were able to follow instructions and give informed consent; and (6) had no skin allergy that would prevent the application of the TENS equipment. Subjects were excluded if they (1) had any additional medical, cardiovascular, or orthopedic condition that hindered training or assessment; (2) had a cardiac pacemaker; (3) had significant lower&#x02010;limb peripheral neuropathy (eg, diabetic polyneuropathy); or (4) had participated in other drug studies or clinical trials.</p><p>The subjects were stratified and randomly allocated into either a Bi&#x02010;TENS group or a Uni&#x02010;TENS group using Minimize computer software.<xref rid="jah32954-bib-0031" ref-type="ref">31</xref> The stratification was based on age (55&#x02013;70 or 71&#x02013;85&#x000a0;years), sex, the type of stroke (ischemic or hemorrhagic), and the side of hemiplegia. The stratification procedure served to avoid an imbalance in the distribution of the major demographic characteristics between the 2 groups. Randomization was performed immediately after the collection of demographic data. These procedures were conducted by an independent research assistant who was not involved in the assessment or treatment of these patients.</p></sec><sec id="jah32954-sec-0013"><title>Training Protocols</title><p>The training program comprised 20 sessions of TENS or placebo TENS with simultaneous TOT twice per week for 60&#x000a0;minutes per session.</p></sec><sec id="jah32954-sec-0014"><title>TENS Protocol</title><p>The 120Z Dual&#x02010;Channel TENS Unit (EMSphysio Ltd, Wantage, UK) was used to stimulate the nerve trunk of the common peroneal nerve. The stimulation frequency was set at 100&#x000a0;Hz, with a pulse width of 0.2&#x000a0;ms. The stimulation intensity was set at double the sensory threshold and below the motor threshold, which was confirmed by the absence of muscle twitching. The sensory threshold was defined as the minimum intensity that provoked a tingling sensation.<xref rid="jah32954-bib-0005" ref-type="ref">5</xref> Sensory stimulation was used in this study because it could enhance the neuronal activity and/or cortical excitability of the motor cortex via the corticocortical connections between S1 and M1.<xref rid="jah32954-bib-0032" ref-type="ref">32</xref>, <xref rid="jah32954-bib-0033" ref-type="ref">33</xref> In addition, the cutaneous sensory stimulation was applied simultaneously with the TOT, which comprised a series of functional tasks. Electrical stimulation that was above the motor threshold induced muscle twitching; this uncontrolled muscle twitching would produce conflicting afferent inputs during the performance of TOT.</p><p>For the placement of electrodes, the cathode electrode (ITO Co. Ltd, Tokyo, Japan: rubber electrodes [40&#x000d7;41&#x000a0;mm] and gel pad [40&#x000d7;41&#x000a0;mm]) was placed on the popliteal fossa, while the anode electrode was placed on the neck of the fibula. For the Bi&#x02010;TENS group, electrical stimulation was applied over the popliteal fossae of both legs. For the Uni&#x02010;TENS group, electrical stimulation was only applied to the paretic leg. Placebo TENS was applied to the nonparetic leg with an identical&#x02010;looking TENS device with the electrical circuit disconnected.</p></sec><sec id="jah32954-sec-0015"><title>TOT Protocol</title><p>During the application of TENS, all subjects performed 60&#x000a0;minutes of TOT under the supervision of a registered physical therapist. The TOT program was adopted from a previous study.<xref rid="jah32954-bib-0005" ref-type="ref">5</xref> The TOT exercises included (1) stepping up and down to strengthen the muscles of both legs and to improve control in shifting the center of gravity; (2) heel&#x02010;raising exercises on an inclined wedge to strengthen both ankle plantarflexors; (3) assuming a semi&#x02010;squatting position to improve lower&#x02010;limb muscle endurance and proprioception in the knees and ankles; (4) standing on a dura disk to improve dynamic standing balance; (5) walking across obstacles to enhance anticipatory postural control; and (6) standing up from a chair, walking a short distance, and returning to the chair to promote a smooth transition between sitting, standing, and walking. Each exercise item lasted 10&#x000a0;minutes, so the total exercise time for each training session was 60&#x000a0;minutes. Guidelines for standardized exercise progression<xref rid="jah32954-bib-0005" ref-type="ref">5</xref> were implemented to standardize the exercise intensity.</p></sec><sec id="jah32954-sec-0016"><title>Outcome Measures</title><p>The subjects were assessed by a trained research assistant who was blinded to group allocation. The assessments were performed at baseline (A0); after 10 sessions (5&#x000a0;weeks; midtraining; A1); after 20 sessions (10&#x000a0;weeks; after training; A2); and 3&#x000a0;months after the cessation of training (follow&#x02010;up; A3). For all physical assessments, 1 practice trial was given, and the average of 3 test trials was used for data analysis. The muscle strength of paretic ankle dorsiflexors (pDF) and plantarflexors (pPF) and paretic knee extensors (pKE) and flexors (pKF) were selected as the primary outcome measures of this study. The ankle and knee muscle strength of the nonparetic ankle dorsiflexors and plantarflexors and the&#x000a0;nonparetic knee extensors and flexors (npKF), along with the results of the Step Test and the Lower Extremity Motor Coordination Test, were the secondary outcome measures. The Berg Balance Scale and the Timed Up and Go test were assessed to further capture the effects of the interventions on the subjects' functional mobility. These 2 outcome measures were not prespecified in the clinical trial registration.</p></sec><sec id="jah32954-sec-0017"><title>Maximum Isometric Voluntary Contraction of Ankle Muscles</title><p>The maximum isometric voluntary contraction of the bilateral ankle dorsiflexors and plantarflexors were measured with a Nicholas handheld dynamometer (model 01,160; Lafayette Instrument Company, Lafayette, IN). The ankle muscle strength was assessed with a standardized position and placement of the dynamometer.<xref rid="jah32954-bib-0034" ref-type="ref">34</xref> Good to excellent reliability (intraclass correlation coefficient [ICC], 0.84&#x02013;0.99) has been reported for the use of a handheld dynamometer to assess leg muscle strength in subjects with chronic stroke.<xref rid="jah32954-bib-0035" ref-type="ref">35</xref>
+</p></sec><sec id="jah32954-sec-0018"><title>Isokinetic Peak Torque</title><p>The strength of bilateral knee extension and flexion was measured with a Cybex 6000 Dynamometer (Lumex, Inc, Ronkonkoma, NY). Knee muscle strength was measured with an isokinetic dynamometer instead of a handheld dynamometer as specified in the clinical trial registration because the subjects of this study demonstrated good knee muscle strength, which made the measurement with a handheld dynamometer less accurate.<xref rid="jah32954-bib-0036" ref-type="ref">36</xref> The peak concentric isokinetic torques of knee flexion and extension at 90&#x000b0;/s were measured with subjects in a sitting position. The excellent test&#x02013;retest reliability (ICC, 0.94) of the use of a Cybex 6000 Dynamometer to measure peak isokinetic torques in subjects with chronic stroke was reported in a previous study.<xref rid="jah32954-bib-0037" ref-type="ref">37</xref>
+</p></sec><sec id="jah32954-sec-0019"><title>Lower Extremity Motor Coordination Test</title><p>The Lower Extremity Motor Coordination Test (LEMOCOT) was used to measure the intralimb coordination of both legs.<xref rid="jah32954-bib-0038" ref-type="ref">38</xref> Good test&#x02013;retest reliability of the LEMOCOT (ICC, 0.83&#x02013;0.88) has been reported for the assessment of subjects with stroke.<xref rid="jah32954-bib-0038" ref-type="ref">38</xref> Two flat, circular targets were secured on the floor 30&#x000a0;cm apart in an anteroposterior direction. The participants were seated with their hips and knees in 90&#x000b0; of flexion and were instructed to touch the 2 targets alternately with their big toe for 20&#x000a0;s. The total number of repetitions was counted.</p></sec><sec id="jah32954-sec-0020"><title>Step Test</title><p>The Step Test (ST) was used to assess dynamic standing balance<xref rid="jah32954-bib-0039" ref-type="ref">39</xref> by recording the number of times the subject could place 1 foot on a 7.5&#x02010;cm step and back to the ground within 15&#x000a0;s. The ST scores have shown excellent intrarater and interrater reliability in subjects with chronic stroke (ICC, 0.98&#x02013;0.99).<xref rid="jah32954-bib-0039" ref-type="ref">39</xref> The number of repetitions with the paretic and nonparetic legs was recorded.</p></sec><sec id="jah32954-sec-0021"><title>Berg Balance Scale</title><p>The BBS was used to measure functional balance performance.<xref rid="jah32954-bib-0040" ref-type="ref">40</xref> The scale consists of 14 items in which a subject's ability to maintain stability during a specified functional task is rated on a 5&#x02010;point scale (0&#x02013;4). The maximum score is 56, and a higher score indicates better balance performance. The BBS has shown excellent test&#x02013;retest reliability (ICC, 0.95)<xref rid="jah32954-bib-0040" ref-type="ref">40</xref> in the assessment of subjects with stroke. To dampen the ceiling effect, a standardized assessment procedure was implemented to challenge the paretic leg's weight&#x02010;bearing ability.<xref rid="jah32954-bib-0041" ref-type="ref">41</xref>
+</p></sec><sec id="jah32954-sec-0022"><title>Timed Up and Go Test</title><p>The Timed Up and Go (TUG) test was used to assess functional mobility.<xref rid="jah32954-bib-0042" ref-type="ref">42</xref> All subjects were asked to stand up from a chair, walk forward for 3&#x000a0;m, turn 180&#x000b0;, walk back to the chair, and sit down. The TUG has demonstrated excellent test&#x02013;retest reliability in the assessment of subjects with stroke (ICC, 0.95).<xref rid="jah32954-bib-0042" ref-type="ref">42</xref>
+</p></sec><sec id="jah32954-sec-0023"><title>Statistical Analysis</title><p>Intention&#x02010;to&#x02010;treat analysis was adopted, and SPSS (v23.0; IBM, Armonk, NY) was used for all statistical analyses. A <italic>P</italic> value of 0.05 or lower was considered to indicate statistical significance.</p><p>The demographic characteristics and outcome measures were summarized with descriptive statistics. The baseline characteristics of the 2 groups were compared with a &#x003c7;<sup>2</sup> test, independent <italic>t</italic> test, or Mann&#x02013;Whitney <italic>U</italic> test, as appropriate. A linear mixed model (LMM) was used to compare the differential changes in the outcomes between the 2 groups over time because it accounts well for intracorrelated repeated&#x02010;measures data.<xref rid="jah32954-bib-0043" ref-type="ref">43</xref> The groups, time points, and group&#x02010;by&#x02010;time interaction were included as fixed effects. The random intercept and random slope of change in the outcome variables over time were included as random effects. Maximum likelihood was chosen as the estimation method, and the heterogeneous first&#x02010;order autoregressive covariance structure was selected to estimate the model parameters. The group&#x02010;by&#x02010;time interaction term of the LLM is the focus of interest in the current study. Bonferroni correction was applied to adjust the <italic>P</italic> value of the interaction term of primary outcomes and the <italic>P</italic> value of post hoc analyses, in order to prevent inflation of the type 1 error rate. The confidence intervals of the regression coefficients of the interaction terms were also adjusted accordingly.<xref rid="jah32954-bib-0044" ref-type="ref">44</xref>
+</p><p>A significant group&#x02010;by&#x02010;time interaction effect indicated that the variables changed at different rates in the 2 groups. Where the group&#x02010;by&#x02010;time interaction effect was significant, the between&#x02010;groups and within&#x02010;group differences were evaluated by dividing the data into 3 time points and 2 groups, respectively. The LMM was then repeated with the interaction effect, and either the time or the group effect was removed and followed by post hoc analysis. In the absence of a significant group&#x02010;by&#x02010;time interaction, a significant time effect indicated that the variables changed significantly with a similar trend in both groups. Post hoc analysis was conducted to determine at which time point the outcome variable had changed significantly from the baseline. The carryover effects were analyzed by comparing the results between A2 and A3 with the same model specifications mentioned above. For the analyses of between&#x02010;groups differences and a carryover effect, the last observation carried forward method was used to handle missing data. The last observation carried forward method was chosen as it is a more conservative method to impute data with dropout in this study. A previous study suggested that the use of last observation carried forward method can introduce bias, especially when progressive diseases were studied or when adverse effects could be introduced by the intervention.<xref rid="jah32954-bib-0045" ref-type="ref">45</xref> In the current study, all subjects were already in their chronic static phase of stroke, in which spontaneous improvement or rapid deterioration in physical functions should be unlikely to occur. In addition, none of the dropout cases reported any adverse effect resulted from the training; thus it is unlikely that the last observation carried forward method would overestimate the outcomes.</p></sec></sec><sec id="jah32954-sec-0024"><title>Results</title><p>One hundred two subjects with chronic stroke were screened between February 2014 and April 2016. Eighty fulfilled the inclusion criteria for recruitment into this study. Their mean age was 62.0&#x000a0;years, and the mean time since the stroke was 5.2&#x000a0;years. Their mean walking speed was 0.77&#x000a0;ms<sup>&#x02212;1</sup>, which indicated limited ambulatory ability<xref rid="jah32954-bib-0046" ref-type="ref">46</xref> (Table&#x000a0;<xref rid="jah32954-tbl-0001" ref-type="table-wrap">1</xref>). No significant differences existed between the 2 groups at baseline (Table&#x000a0;<xref rid="jah32954-tbl-0001" ref-type="table-wrap">1</xref>). Six subjects (3 in each group) did not complete the training program. Another 5 (2 in the Bi&#x02010;TENS group and 3 in the Uni&#x02010;TENS group) were lost to follow&#x02010;up (<xref rid="jah32954-fig-0001" ref-type="fig">Figure</xref>).</p><table-wrap id="jah32954-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Demographic Characteristics and Results of Baseline Assessment of Subjects With Stroke Shown by Group</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Total Sample (n=80)</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Bi&#x02010;TENS (n=40)</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Uni&#x02010;TENS (n=40)</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Between&#x02010;Groups Comparison</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="3" valign="top" rowspan="1">Frequency (%)</th><th align="left" valign="top" rowspan="1" colspan="1">&#x003c7;<sup>2</sup> Test; <italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex (male/female)</td><td align="left" rowspan="1" colspan="1">50 (62.5)/30 (47.5)</td><td align="left" rowspan="1" colspan="1">26 (65)/14 (35)</td><td align="left" rowspan="1" colspan="1">24 (60)/16 (40)</td><td align="left" rowspan="1" colspan="1">0.21; 0.821</td></tr><tr><td align="left" rowspan="1" colspan="1">Side of hemiplegia (right/left)</td><td align="left" rowspan="1" colspan="1">46 (57.5)/34 (42.5)</td><td align="left" rowspan="1" colspan="1">24 (60)/16 (40)</td><td align="left" rowspan="1" colspan="1">22 (55)/18 (45)</td><td align="left" rowspan="1" colspan="1">0.21; 0.651</td></tr><tr><td align="left" rowspan="1" colspan="1">Type of stroke (ischemic/hemorrhagic/mixed)</td><td align="left" rowspan="1" colspan="1">49 (61.3)/30 (37.5)/1 (1.3)</td><td align="left" rowspan="1" colspan="1">22 (55)/17 (42.5)/1 (2.5)</td><td align="left" rowspan="1" colspan="1">27 (67.5)/13 (32.5)/0 (0.0)</td><td align="left" rowspan="1" colspan="1">2.04; 0.360</td></tr><tr><td align="left" rowspan="1" colspan="1">Living with caregiver (yes/no)</td><td align="left" rowspan="1" colspan="1">70 (87.5)/10 (12.5)</td><td align="left" rowspan="1" colspan="1">35 (87.5)/5 (12.5)</td><td align="left" rowspan="1" colspan="1">35 (87.5)/5 (12.5)</td><td align="left" rowspan="1" colspan="1">0.00; 1.000</td></tr><tr><td align="left" rowspan="1" colspan="1">Employed/working (yes/no)</td><td align="left" rowspan="1" colspan="1">6 (7.5)/74 (92.5)</td><td align="left" rowspan="1" colspan="1">4 (10)/36 (90)</td><td align="left" rowspan="1" colspan="1">4 (10)/36 (90)</td><td align="left" rowspan="1" colspan="1">0.00; 1.000</td></tr><tr><td align="left" rowspan="1" colspan="1">Education level (primary or below/secondary/college or above)</td><td align="left" rowspan="1" colspan="1">25 (31.3)/44 (55.0)/11 (13.8)</td><td align="left" rowspan="1" colspan="1">13 (32.5)/21 (52.5)/6 (15)</td><td align="left" rowspan="1" colspan="1">12 (30.0)/23 (57.5)/5 (12.5)</td><td align="left" rowspan="1" colspan="1">0.22; 0.895</td></tr><tr style="border-bottom:solid 1px #000000"><td align="left" rowspan="1" colspan="1">Using walking aid (yes/no)</td><td align="left" rowspan="1" colspan="1">53 (66.2)/27 (33.8)</td><td align="left" rowspan="1" colspan="1">25 (62.5)/15 (47.5)</td><td align="left" rowspan="1" colspan="1">28 (70)/12 (30)</td><td align="left" rowspan="1" colspan="1">0.50; 0.478</td></tr><tr style="border-bottom:solid 1px #000000"><td align="left" rowspan="1" colspan="1"/><td align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Mean&#x000b1;SD (ranges)</td><td align="left" style="border-bottom:solid 1px #000000" rowspan="1" colspan="1">Independent <italic>t</italic> test<italic>; P</italic> value</td></tr><tr><td align="left" rowspan="1" colspan="1">Age, y</td><td align="left" rowspan="1" colspan="1">62.0&#x000b1;5.4 (55.0&#x02013;73.1)</td><td align="left" rowspan="1" colspan="1">61.8&#x000b1;5.7 (55.0&#x02013;73.1)</td><td align="left" rowspan="1" colspan="1">62.2&#x000b1;5.1 (55.0&#x02013;72.1)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.37; 0.715</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, kg&#x000b7;m<sup>&#x02212;2</sup>
+</td><td align="left" rowspan="1" colspan="1">24.2&#x000b1;3.1 (18.0&#x02013;32.2)</td><td align="left" rowspan="1" colspan="1">24.6&#x000b1;3.4 (18.0&#x02013;32.2)</td><td align="left" rowspan="1" colspan="1">23.8&#x000b1;2.8 (18.0&#x02013;30.0)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.77; 0.443</td></tr><tr><td align="left" rowspan="1" colspan="1">Time since stroke, y</td><td align="left" rowspan="1" colspan="1">5.2&#x000b1;3.1 (1.0&#x02013;10)</td><td align="left" rowspan="1" colspan="1">5.2&#x000b1;3.1 (1.0&#x02013;10.0)</td><td align="left" rowspan="1" colspan="1">5.7&#x000b1;2.8 (1.0&#x02013;10)</td><td align="left" rowspan="1" colspan="1">1.14; 0.256</td></tr><tr><td align="left" rowspan="1" colspan="1">Paretic ankle dorsiflexion strength, kg</td><td align="left" rowspan="1" colspan="1">7.6&#x000b1;5.2 (0.0&#x02013;23.7)</td><td align="left" rowspan="1" colspan="1">7.9&#x000b1;4.9 (0.0&#x02013;18.5)</td><td align="left" rowspan="1" colspan="1">7.3&#x000b1;5.6 (0.0&#x02013;23.7)</td><td align="left" rowspan="1" colspan="1">0.50; 0.616</td></tr><tr><td align="left" rowspan="1" colspan="1">Nonparetic ankle dorsiflexion strength, kg</td><td align="left" rowspan="1" colspan="1">15.3&#x000b1;3.6 (2.7&#x02013;25.8)</td><td align="left" rowspan="1" colspan="1">15.6&#x000b1;3.6 (7.4&#x02013;23.9)</td><td align="left" rowspan="1" colspan="1">15.0&#x000b1;3.7 (2.7&#x02013;25.8)</td><td align="left" rowspan="1" colspan="1">0.74; 0.460</td></tr><tr><td align="left" rowspan="1" colspan="1">Paretic ankle plantarflexion strength, kg</td><td align="left" rowspan="1" colspan="1">12.2&#x000b1;5.5 (0.0&#x02013;28.4)</td><td align="left" rowspan="1" colspan="1">12.6&#x000b1;5.7 (0.0&#x02013;25.7)</td><td align="left" rowspan="1" colspan="1">11.9&#x000b1;5.4 (2.3&#x02013;28.4)</td><td align="left" rowspan="1" colspan="1">0.74; 0.460</td></tr><tr><td align="left" rowspan="1" colspan="1">Nonparetic ankle plantarflexion strength, kg</td><td align="left" rowspan="1" colspan="1">17.8&#x000b1;3.7 (11.7&#x02013;35.4)</td><td align="left" rowspan="1" colspan="1">18.5&#x000b1;4.4 (11.6&#x02013;35.4)</td><td align="left" rowspan="1" colspan="1">17.1&#x000b1;2.9 (11.2&#x02013;24.8)</td><td align="left" rowspan="1" colspan="1">1.70; 0.094</td></tr><tr><td align="left" rowspan="1" colspan="1">Paretic knee extension peak torque, Nm</td><td align="left" rowspan="1" colspan="1">20.8&#x000b1;14.4 (4.0&#x02013;70.0)</td><td align="left" rowspan="1" colspan="1">20.8&#x000b1;13.1 (4.0&#x02013;54.0)</td><td align="left" rowspan="1" colspan="1">20.7&#x000b1;12.4 (6.0&#x02013;70.0)</td><td align="left" rowspan="1" colspan="1">0.35; 0.972</td></tr><tr><td align="left" rowspan="1" colspan="1">Nonparetic knee extension peak torque, Nm</td><td align="left" rowspan="1" colspan="1">43.5&#x000b1;18.1 (11.0&#x02013;110.0)</td><td align="left" rowspan="1" colspan="1">44.9&#x000b1;20.6 (11.0&#x02013;94.0)</td><td align="left" rowspan="1" colspan="1">41.4&#x000b1;12.6 (16.0&#x02013;80.0)</td><td align="left" rowspan="1" colspan="1">0.68; 0.498</td></tr><tr><td align="left" rowspan="1" colspan="1">Paretic knee flexion peak torque, Nm</td><td align="left" rowspan="1" colspan="1">7.6&#x000b1;6.3 (0.0&#x02013;26.0)</td><td align="left" rowspan="1" colspan="1">8.5&#x000b1;6.7 (0.0&#x02013;26.0)</td><td align="left" rowspan="1" colspan="1">6.8&#x000b1;5.9 (1.0&#x02013;26.0)</td><td align="left" rowspan="1" colspan="1">1.19; 0.239</td></tr><tr><td align="left" rowspan="1" colspan="1">Nonparetic knee flexion peak torque, Nm</td><td align="left" rowspan="1" colspan="1">20.3&#x000b1;8.8 (7.0&#x02013;56.0)</td><td align="left" rowspan="1" colspan="1">21.9&#x000b1;9.8 (8.0&#x02013;56.0)</td><td align="left" rowspan="1" colspan="1">18.6&#x000b1;7.4 (7.0&#x02013;38.0)</td><td align="left" rowspan="1" colspan="1">1.74; 0.086</td></tr><tr><td align="left" rowspan="1" colspan="1">Lower Extremity Motor Coordination Test; paretic side</td><td align="left" rowspan="1" colspan="1">11.9&#x000b1;10.4 (0.0&#x02013;40.0)</td><td align="left" rowspan="1" colspan="1">12.9&#x000b1;12.4 (0.0&#x02013;40.0)</td><td align="left" rowspan="1" colspan="1">10.8&#x000b1;7.7 (0.0&#x02013;28.0)</td><td align="left" rowspan="1" colspan="1">0.94; 0.363</td></tr><tr><td align="left" rowspan="1" colspan="1">Lower Extremity Motor Coordination Test; nonparetic side</td><td align="left" rowspan="1" colspan="1">34.9&#x000b1;9.4 (18.5&#x02013;76.0)</td><td align="left" rowspan="1" colspan="1">36.1&#x000b1;11.2 (18.5&#x02013;76.0)</td><td align="left" rowspan="1" colspan="1">33.8&#x000b1;7.3 (18.5&#x02013;53.0)</td><td align="left" rowspan="1" colspan="1">1.07; 0.290</td></tr><tr><td align="left" rowspan="1" colspan="1">10&#x02010;m Walk Test, ms<sup>&#x02212;1</sup>
+</td><td align="left" rowspan="1" colspan="1">0.77&#x000b1;0.31 (0.22&#x02013;1.89)</td><td align="left" rowspan="1" colspan="1">0.79&#x000b1;0.34 (0.22&#x02013;1.89)</td><td align="left" rowspan="1" colspan="1">0.75&#x000b1;0.29 (0.29&#x02013;1.89)</td><td align="left" rowspan="1" colspan="1">0.61; 0.543</td></tr><tr><td align="left" rowspan="1" colspan="1">Step test; paretic side</td><td align="left" rowspan="1" colspan="1">7.4&#x000b1;3.5 (0.0&#x02013;16.7)</td><td align="left" rowspan="1" colspan="1">7.5&#x000b1;3.7 (0.0&#x02013;15.0)</td><td align="left" rowspan="1" colspan="1">7.3&#x000b1;3.4 (0.0&#x02013;16.7)</td><td align="left" rowspan="1" colspan="1">0.31; 0.761</td></tr><tr><td align="left" rowspan="1" colspan="1">Step test; nonparetic side</td><td align="left" rowspan="1" colspan="1">9.2&#x000b1;3.8 (0.0&#x02013;27.3)</td><td align="left" rowspan="1" colspan="1">9.1&#x000b1;3.6 (0.0&#x02013;14.3)</td><td align="left" rowspan="1" colspan="1">9.2&#x000b1;4.0 (0.0&#x02013;27.3)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.02; 0.981</td></tr><tr style="border-bottom:solid 1px #000000"><td align="left" rowspan="1" colspan="1">TUG, s</td><td align="left" rowspan="1" colspan="1">19.2&#x000b1;8.1 (4.4&#x02013;43.3)</td><td align="left" rowspan="1" colspan="1">19.2&#x000b1;8.3 (4.4&#x02013;40.9)</td><td align="left" rowspan="1" colspan="1">19.2&#x000b1;8.0 (8.9&#x02013;43.3)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.01; 0.992</td></tr><tr style="border-bottom:solid 1px #000000"><td align="left" rowspan="1" colspan="1"/><td align="left" colspan="3" style="border-bottom:solid 1px #000000" rowspan="1">Median&#x000b1;25th/75th Percentile (Ranges)</td><td align="left" style="border-bottom:solid 1px #000000" rowspan="1" colspan="1">
+Mann&#x02013;Whitney <italic>U</italic> test<break/>
+Z; <italic>P</italic> value
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Abbreviated Mental Test</td><td align="left" rowspan="1" colspan="1">10&#x000b1;9/10 (3)</td><td align="left" rowspan="1" colspan="1">10&#x000b1;9/10 (3)</td><td align="left" rowspan="1" colspan="1">10&#x000b1;9/10 (2)</td><td align="left" rowspan="1" colspan="1">&#x02212;1.34; 0.180</td></tr><tr><td align="left" rowspan="1" colspan="1">BBS</td><td align="left" rowspan="1" colspan="1">49&#x000b1;46/51 (21)</td><td align="left" rowspan="1" colspan="1">49&#x000b1;45/51 (21)</td><td align="left" rowspan="1" colspan="1">49&#x000b1;46/51 (21)</td><td align="left" rowspan="1" colspan="1">&#x02212;0.12; 0.908</td></tr></tbody></table><table-wrap-foot><fn id="jah32954-note-0001"><p>BBS indicates Berg Balance Scale; Bi&#x02010;TENS, bilateral transcutaneous electrical stimulation; TUG, Timed Up and Go Test; Uni&#x02010;TENS, unilateral transcutaneous electrical stimulation.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="jah32954-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Consolidated Standards of Reporting Trials (<styled-content style="fixed-case">CONSORT</styled-content>) flow diagram of the study. Bi&#x02010;TENS indicates bilateral transcutaneous electrical nerve stimulation; Uni&#x02010;TENS, unilateral transcutaneous electrical nerve stimulation.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-7-e007341-g001"/></fig><p>For the primary outcomes, the LMM showed that the group&#x02010;by&#x02010;time interaction effects were significant only for the pDF strength (&#x003b2;=1.32; <italic>P</italic>=0.032). The results suggest that for every 10 sessions of training, the Bi&#x02010;TENS group demonstrated an additional 1.32&#x02010;kg increase in pDF strength. Post hoc analyses revealed that the Bi&#x02010;TENS group had greater improvement than the Uni&#x02010;TENS group in the pDF strength at A1 (mean difference, 2.62; <italic>P</italic>=0.036) and at A2 (mean difference, 3.23; <italic>P</italic>=0.034). When compared with baseline, the Bi&#x02010;TENS group showed improvement in the pDF strength at A1 (mean difference, 2.67; <italic>P</italic>&#x0003c;0.001) and at A2 (mean difference, 4.46; <italic>P</italic>&#x0003c;0.001). However, the Uni&#x02010;TENS group showed improvement in the pDF strength (mean difference, 1.81; <italic>P</italic>=0.005). Results of LMM showed that none of the group effect was significant. The time effects were significant for pDF strength, pPF strength, pKE peak torque, and pKF peak torque (<italic>P</italic>&#x02264;0.05; Table&#x000a0;<xref rid="jah32954-tbl-0002" ref-type="table-wrap">2</xref>). Post hoc analyses of the significant time effects showed that improvement in the pKE peak torque (mean difference, 6.01; <italic>P</italic>&#x0003c;0.001) and pKF peak torque (mean difference, 5.16; <italic>P</italic>&#x0003c;0.001) began at A1, but improvement in the pPF strength (mean difference, 2.63; <italic>P</italic>&#x0003c;0.001) was demonstrated in A2 only.</p><table-wrap id="jah32954-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Results of Linear Mixed Models for Subjects in the Bi&#x02010;TENS Group Compared With Those in the Uni&#x02010;TENS Group From A0 to A2</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="top" colspan="1"/><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="top" colspan="1">Bi&#x02010;TENS</th><th align="left" rowspan="2" style="border-bottom:solid 1px #000000" valign="top" colspan="1">Uni&#x02010;TENS</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Fixed Effects</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Time</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Group</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Group&#x02010;By&#x02010;Time Interaction</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Mean&#x000b1;SD</th><th align="left" valign="top" rowspan="1" colspan="1">Mean&#x000b1;SD</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate; CI; <italic>P</italic> Value</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate; CI; <italic>P</italic> Value</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate; CI; <italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" colspan="6" rowspan="1">Paretic ankle dorsiflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">7.9&#x000b1;4.9</td><td align="left" rowspan="1" colspan="1">7.3&#x000b1;5.6</td><td align="left" rowspan="3" colspan="1">
+0.90;<break/>
+0.22 to 1.59;<break/>
+0.010<xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.50;<break/>
+&#x02212;2.86 to 1.86;<break/>
+0.675
+</td><td align="left" rowspan="3" colspan="1">
+1.32;<break/>
+0.08 to 2.56;<break/>
+0.032 <xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">10.6&#x000b1;5.4</td><td align="left" rowspan="1" colspan="1">8.0&#x000b1;5.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">12.4&#x000b1;6.5</td><td align="left" rowspan="1" colspan="1">9.2&#x000b1;6.9</td></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic ankle dorsiflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">15.6&#x000b1;3.6</td><td align="left" rowspan="1" colspan="1">15.0&#x000b1;3.7</td><td align="left" rowspan="3" colspan="1">
+2.05;<break/>
+1.33 to 2.78;<break/>
+&#x0003c;0.001<xref ref-type="fn" rid="jah32954-note-0004">b</xref>
+</td><td align="left" rowspan="3" colspan="1">
+1.21;<break/>
+&#x02212;0.87 to 3.29;<break/>
+0.249
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.14;<break/>
+&#x02212;1.16 to 0.89;<break/>
+0.790
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">18.7&#x000b1;3.8</td><td align="left" rowspan="1" colspan="1">16.9&#x000b1;3.7</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">19.4&#x000b1;5.0</td><td align="left" rowspan="1" colspan="1">19.1&#x000b1;4.3</td></tr><tr><td align="left" colspan="6" rowspan="1">Paretic ankle plantarflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">12.6&#x000b1;5.7</td><td align="left" rowspan="1" colspan="1">11.9&#x000b1;5.4</td><td align="left" rowspan="3" colspan="1">
+0.99;<break/>
+0.11 to 1.88;<break/>
+0.029<xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+0.44;<break/>
+&#x02212;2.48 to 3.36;<break/>
+0.766
+</td><td align="left" rowspan="3" colspan="1">
+0.65;<break/>
+&#x02212;0.97 to 2.26;<break/>
+1.00
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">14.5&#x000b1;6.2</td><td align="left" rowspan="1" colspan="1">11.9&#x000b1;5.6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">15.9&#x000b1;7.3</td><td align="left" rowspan="1" colspan="1">13.9&#x000b1;6.8</td></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic ankle plantarflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">18.5&#x000b1;4.4</td><td align="left" rowspan="1" colspan="1">17.1&#x000b1;2.9</td><td align="left" rowspan="3" colspan="1">
+1.65;<break/>
+0.68 to 2.64;<break/>
+0.001
+</td><td align="left" rowspan="3" colspan="1">
+1.40;<break/>
+&#x02212;0.96 to 3.77;<break/>
+0.241
+</td><td align="left" rowspan="3" colspan="1">
+0.085;<break/>
+&#x02212;1.30 to 1.47;<break/>
+0.903
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">19.9&#x000b1;4.0</td><td align="left" rowspan="1" colspan="1">18.1&#x000b1;4.2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">22.0&#x000b1;6.2</td><td align="left" rowspan="1" colspan="1">20.4&#x000b1;6.4</td></tr><tr><td align="left" colspan="6" rowspan="1">Paretic knee extension peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">20.8&#x000b1;13.1</td><td align="left" rowspan="1" colspan="1">20.7&#x000b1;12.4</td><td align="left" rowspan="3" colspan="1">
+2.20<break/>
+0.34 to 4.06;<break/>
+0.021<xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.46<break/>
+&#x02212;7.57 to 6.65;<break/>
+0.898
+</td><td align="left" rowspan="3" colspan="1">
+1.48<break/>
+&#x02212;1.89 to 4.84;<break/>
+1.00
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">28.9&#x000b1;19.1</td><td align="left" rowspan="1" colspan="1">24.6&#x000b1;14.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">28.2&#x000b1;15.4</td><td align="left" rowspan="1" colspan="1">25.1&#x000b1;15.8</td></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic knee extension peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">44.9&#x000b1;20.6</td><td align="left" rowspan="1" colspan="1">41.4&#x000b1;12.6</td><td align="left" rowspan="3" colspan="1">
+1.98;<break/>
+&#x02212;0.54 to 4.49;<break/>
+0.122
+</td><td align="left" rowspan="3" colspan="1">
+4.35;<break/>
+&#x02212;5.19 to 13.89;<break/>
+0.371
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.74;<break/>
+&#x02212;4.29 to 2.81;<break/>
+0.682
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">46.6&#x000b1;20.8</td><td align="left" rowspan="1" colspan="1">43.6&#x000b1;17.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">47.4&#x000b1;19.6</td><td align="left" rowspan="1" colspan="1">45.4&#x000b1;13.1</td></tr><tr><td align="left" colspan="6" rowspan="1">Paretic knee flexion peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">8.5&#x000b1;6.7</td><td align="left" rowspan="1" colspan="1">6.8&#x000b1;5.9</td><td align="left" rowspan="3" colspan="1">
+2.69;<break/>
+1.33 to 4.04;<break/>
+&#x02264;0.001<xref ref-type="fn" rid="jah32954-note-0004">b</xref>
+</td><td align="left" rowspan="3" colspan="1">
+1.48;<break/>
+&#x02212;2.19 to 5.16;<break/>
+0.426
+</td><td align="left" rowspan="3" colspan="1">
+0.89;<break/>
+&#x02212;1.58 to 3.36;<break/>
+1.000
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">15.1&#x000b1;13.7</td><td align="left" rowspan="1" colspan="1">10.5&#x000b1;7.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">15.6&#x000b1;12.6</td><td align="left" rowspan="1" colspan="1">12.2&#x000b1;8.2</td></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic knee flexion peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">21.9&#x000b1;9.8</td><td align="left" rowspan="1" colspan="1">18.6&#x000b1;7.4</td><td align="left" rowspan="3" colspan="1">
+2.86;<break/>
+1.38 to 4.34;<break/>
+&#x02264;0.001<xref ref-type="fn" rid="jah32954-note-0004">b</xref>
+</td><td align="left" rowspan="3" colspan="1">
+1.94;<break/>
+&#x02212;2.94 to 6.82;<break/>
+0.431
+</td><td align="left" rowspan="3" colspan="1">
+0.16;<break/>
+&#x02212;1.93 to 2.26;<break/>
+0.878
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">23.8&#x000b1;10.9</td><td align="left" rowspan="1" colspan="1">24.1&#x000b1;9.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">28.0&#x000b1;12.7</td><td align="left" rowspan="1" colspan="1">24.3&#x000b1;7.5</td></tr><tr><td align="left" colspan="6" rowspan="1">LEMOCOT; paretic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">12.9&#x000b1;12.4</td><td align="left" rowspan="1" colspan="1">10.8&#x000b1;7.7</td><td align="left" rowspan="3" colspan="1">
+2.08;<break/>
+0.99 to 3.17;<break/>
+&#x02264;0.001<xref ref-type="fn" rid="jah32954-note-0004">b</xref>
+</td><td align="left" rowspan="3" colspan="1">
+1.90;<break/>
+&#x02212;2.47 to 6.28;<break/>
+0.389
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.04;<break/>
+&#x02212;1.59 to 1.50;<break/>
+0.955
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">14.8&#x000b1;13.7</td><td align="left" rowspan="1" colspan="1">13.5&#x000b1;9.9</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">17.0&#x000b1;15.1</td><td align="left" rowspan="1" colspan="1">15.0&#x000b1;12.2</td></tr><tr><td align="left" colspan="6" rowspan="1">LEMOCOT; nonparetic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">36.1&#x000b1;11.2</td><td align="left" rowspan="1" colspan="1">33.8&#x000b1;7.3</td><td align="left" rowspan="3" colspan="1">
+3.56;<break/>
+2.24 to 7.35;<break/>
+&#x02264;0.001<xref ref-type="fn" rid="jah32954-note-0004">b</xref>
+</td><td align="left" rowspan="3" colspan="1">
+2.26;<break/>
+&#x02212;2.83 to 7.35;<break/>
+0.379
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.28;<break/>
+&#x02212;2.14 to 1.58;<break/>
+0.763
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">38.8&#x000b1;10.8</td><td align="left" rowspan="1" colspan="1">37.6&#x000b1;8.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">42.6&#x000b1;10.3</td><td align="left" rowspan="1" colspan="1">40.9&#x000b1;9.3</td></tr><tr><td align="left" colspan="6" rowspan="1">Step test; paretic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">7.5&#x000b1;3.7</td><td align="left" rowspan="1" colspan="1">7.3&#x000b1;3.4</td><td align="left" rowspan="3" colspan="1">
+0.96;<break/>
+0.43 to 1.50;<break/>
+0.001<xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+0.34;<break/>
+&#x02212;1.52 to 2.21;<break/>
+0.716
+</td><td align="left" rowspan="3" colspan="1">
+0.02;<break/>
+&#x02212;0.74 to 0.78;<break/>
+0.954
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">8.6&#x000b1;3.7</td><td align="left" rowspan="1" colspan="1">8.0&#x000b1;2.7</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">9.5&#x000b1;4.1</td><td align="left" rowspan="1" colspan="1">9.2&#x000b1;4.2</td></tr><tr><td align="left" colspan="6" rowspan="1">Step test; nonparetic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">9.1&#x000b1;3.6</td><td align="left" rowspan="1" colspan="1">9.2&#x000b1;4.0</td><td align="left" rowspan="3" colspan="1">
+0.87;<break/>
+0.15 to 1.60;<break/>
+0.019<xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+0.07;<break/>
+&#x02212;2.16 to 2.29;<break/>
+0.954
+</td><td align="left" rowspan="3" colspan="1">
+0.17;<break/>
+&#x02212;0.85 to 1.2;<break/>
+0.745
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">10.5&#x000b1;3.7</td><td align="left" rowspan="1" colspan="1">9.6&#x000b1;2.9</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">11.2&#x000b1;4.3</td><td align="left" rowspan="1" colspan="1">10.9&#x000b1;4.9</td></tr><tr><td align="left" colspan="6" rowspan="1">BBS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">48.2&#x000b1;4.5</td><td align="left" rowspan="1" colspan="1">48.4&#x000b1;4.1</td><td align="left" rowspan="3" colspan="1">
+1.23;<break/>
+0.69 to 1.78;<break/>
+&#x02264;0.001<xref ref-type="fn" rid="jah32954-note-0004">b</xref>
+</td><td align="left" rowspan="3" colspan="1">
+0.08;<break/>
+&#x02212;2.25 to 2.4;<break/>
+0.950
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.18;<break/>
+&#x02212;0.94 to 0.59;<break/>
+0.652
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">49.8&#x000b1;3.6</td><td align="left" rowspan="1" colspan="1">49.9&#x000b1;3.9</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">50.4&#x000b1;3.6</td><td align="left" rowspan="1" colspan="1">50.9&#x000b1;3.3</td></tr><tr><td align="left" colspan="6" rowspan="1">TUG, s</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 0</td><td align="left" rowspan="1" colspan="1">19.2&#x000b1;8.3</td><td align="left" rowspan="1" colspan="1">19.2&#x000b1;8.0</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.82;<break/>
+&#x02212;1.54 to &#x02212;0.10;<break/>
+0.026<xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+1.49;<break/>
+&#x02212;1.32 to 4.30;<break/>
+0.485
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;1.54;<break/>
+&#x02212;2.55 to &#x02212;0.52;<break/>
+0.004<xref ref-type="fn" rid="jah32954-note-0003">a</xref>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 5</td><td align="left" rowspan="1" colspan="1">17.2&#x000b1;7.6</td><td align="left" rowspan="1" colspan="1">18.8&#x000b1;8.0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">14.5&#x000b1;6.4</td><td align="left" rowspan="1" colspan="1">17.5&#x000b1;7.3</td></tr></tbody></table><table-wrap-foot><fn id="jah32954-note-0002"><p>The CIs of interaction term of the primary outcomes were adjusted with Bonferroni correction; thus, 98.75% CIs were reported for the coefficient of interaction term of primary outcomes. 95% CIs were reported for rest of the coefficients. BBS indicates Berg Balance Scale; Bi&#x02010;TENS, bilateral transcutaneous electrical stimulation; CI, confidence interval; LEMOCOT, Lower Extremity Motor Coordination Test; TUG, Timed Up and Go Test; Uni&#x02010;TENS, unilateral transcutaneous electrical stimulation.</p></fn><fn id="jah32954-note-0003"><label>a</label><p>
+<italic>P&#x02264;</italic>0.05.</p></fn><fn id="jah32954-note-0004"><label>b</label><p>
+<italic>P&#x02264;</italic>0.001.</p></fn></table-wrap-foot></table-wrap><p>For the secondary outcomes, the LMM showed that none of the group effects were significant. The time effects were significant for all secondary outcomes except the nonparetic knee extensors peak torque (<italic>P</italic>&#x02264;0.05; Table&#x000a0;<xref rid="jah32954-tbl-0002" ref-type="table-wrap">2</xref>). The group&#x02010;by&#x02010;time interaction effects were significant only for the TUG completion times (&#x003b2;=&#x02212;1.54; <italic>P</italic>=0.004). The results suggest that for every 10 sessions of training, the Bi&#x02010;TENS group demonstrated a further reduction of 1.54&#x000a0;s in the TUG completion time when compared with the Uni&#x02010;TENS group.</p><p>Post hoc analyses of the significant interaction effect reveal that the Bi&#x02010;TENS group had greater improvement than the Uni&#x02010;TENS group in the TUG completion time at A2 (mean difference, &#x02212;3.09; <italic>P</italic>=0.047). When compared with baseline, the Bi&#x02010;TENS group showed improvement in the TUG completion time at A1 (mean difference, &#x02212;2.01; <italic>P</italic>=0.001) and at A2 (mean difference, &#x02212;3.76; <italic>P</italic>&#x0003c;0.001). However, the Uni&#x02010;TENS group showed improvement in the TUG completion time (mean difference, &#x02212;1.64; <italic>P</italic>=0.01) only at A2.</p><p>Post hoc analyses of the significant time effects showed that improvements in the nonparetic ankle dorsiflexors (mean difference, 2.48; <italic>P</italic>&#x0003c;0.001), nonparetic knee flexors peak torque (mean difference, 3.65; <italic>P</italic>&#x0003c;0.001), paretic LEMOCOT score (mean difference, 2.31; <italic>P</italic>=0.001), nonparetic LEMOCOT score (mean difference, 3.26; <italic>P</italic>=0.001), paretic ST score (mean difference, 9.27; <italic>P</italic>=0.009), nonparetic ST score (mean difference, 0.88; <italic>P</italic>=0.021), and BBS score (mean difference, 1.50; <italic>P</italic>&#x0003c;0.001) all began at A1. Improvement in nonparetic ankle plantarflexors strength (mean difference; 3.40; <italic>P</italic>&#x0003c;0.001) was demonstrated only at A2. In the analyses of carryover effects, none of the group&#x02010;by&#x02010;time interaction effects was significant. The time effects were significant for pPF (&#x003b2;=&#x02212;1.75; <italic>P</italic>=0.021; Table&#x000a0;<xref rid="jah32954-tbl-0003" ref-type="table-wrap">3</xref>).</p><table-wrap id="jah32954-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Results of Linear Mixed Models for Subjects in the Bi&#x02010;TENS Group Compared With Those in the Uni&#x02010;TENS Group From A2 to A3</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="3" valign="top" colspan="1"/><th align="left" rowspan="2" valign="top" colspan="1">Bi&#x02010;TENS</th><th align="left" rowspan="2" valign="top" colspan="1">Uni&#x02010;TENS</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Fixed Effects</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Time</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Group</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Group&#x02010;By&#x02010;Time Interaction</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Mean&#x000b1;SD</th><th align="left" valign="top" rowspan="1" colspan="1">Mean&#x000b1;SD</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate; CI; <italic>P</italic> Value</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate; CI; <italic>P</italic> Value</th><th align="left" valign="top" rowspan="1" colspan="1">Estimate; CI; <italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" colspan="6" rowspan="1">Paretic ankle dorsiflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">12.4&#x000b1;6.5</td><td align="left" rowspan="1" colspan="1">9.2&#x000b1;6.9</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.82;<break/>
+&#x02212;2.01 to 0.38;<break/>
+0.177
+</td><td align="left" rowspan="3" colspan="1">
+4.19;<break/>
+0.21 to 8.16;<break/>
+0.039<xref ref-type="fn" rid="jah32954-note-0006">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.95;<break/>
+&#x02212;3.11 to 1.21;<break/>
+1.00
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">10.6&#x000b1;5.7</td><td align="left" rowspan="1" colspan="1">8.3&#x000b1;6.5</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic ankle dorsiflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">19.4&#x000b1;5.0</td><td align="left" rowspan="1" colspan="1">19.1&#x000b1;4.3</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.86;<break/>
+&#x02212;1.97 to 0.25;<break/>
+0.126
+</td><td align="left" rowspan="3" colspan="1">
+0.74;<break/>
+&#x02212;2.37 to 3.85<break/>
+0.637
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.41;<break/>
+&#x02212;1.98 to 1.16;<break/>
+0.604
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">18.2&#x000b1;4.7</td><td align="left" rowspan="1" colspan="1">18.3&#x000b1;4.2</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Paretic ankle plantarflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">15.9&#x000b1;7.3</td><td align="left" rowspan="1" colspan="1">13.9&#x000b1;6.8</td><td align="left" rowspan="3" colspan="1">
+&#x02212;1.75;<break/>
+&#x02212;3.21 to 0.29;<break/>
+0.020<xref ref-type="fn" rid="jah32954-note-0006">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+2.57;<break/>
+&#x02212;1.91 to 7.04;<break/>
+0.258
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.58;<break/>
+&#x02212;3.23 to 2.08;<break/>
+1.00
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">13.5&#x000b1;6.2</td><td align="left" rowspan="1" colspan="1">12.1&#x000b1;6.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic ankle plantarflexion strength, kg</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">22.0&#x000b1;6.2</td><td align="left" rowspan="1" colspan="1">20.4&#x000b1;6.4</td><td align="left" rowspan="3" colspan="1">
+&#x02212;1.31;<break/>
+&#x02212;2.68 to 0.07;<break/>
+0.062
+</td><td align="left" rowspan="3" colspan="1">
+2.25;<break/>
+&#x02212;1.97 to 6.47;<break/>
+0.292
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.67;<break/>
+&#x02212;2.61 to 1.27;<break/>
+0.494
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">20.0&#x000b1;4.4</td><td align="left" rowspan="1" colspan="1">19.1&#x000b1;5.6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Paretic knee extension peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">28.2&#x000b1;15.4</td><td align="left" rowspan="1" colspan="1">25.1&#x000b1;15.8</td><td align="left" rowspan="3" colspan="1">
+0.33;<break/>
+&#x02212;2.51 to 3.17;<break/>
+0.821
+</td><td align="left" rowspan="3" colspan="1">
+3.00;<break/>
+&#x02212;5.80 to 11.80;<break/>
+0.499
+</td><td align="left" rowspan="3" colspan="1">
+0.05;<break/>
+&#x02212;5.12 to 5.22;<break/>
+1.00
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">28.5&#x000b1;16.9</td><td align="left" rowspan="1" colspan="1">25.4&#x000b1;14.8</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic knee extension peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">47.4&#x000b1;19.6</td><td align="left" rowspan="1" colspan="1">45.4&#x000b1;13.1</td><td align="left" rowspan="3" colspan="1">
+2.58;<break/>
+&#x02212;2.15 to 7.30;<break/>
+0.281
+</td><td align="left" rowspan="3" colspan="1">
+2.20;<break/>
+&#x02212;9.33 to 13.73;<break/>
+0.705
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.15;<break/>
+&#x02212;6.83 to 6.54;<break/>
+0.964
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">49.8&#x000b1;19.2</td><td align="left" rowspan="1" colspan="1">47.9&#x000b1;17.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Paretic knee flexion peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">15.6&#x000b1;12.6</td><td align="left" rowspan="1" colspan="1">12.2&#x000b1;8.2</td><td align="left" rowspan="3" colspan="1">
+0.30;<break/>
+&#x02212;1.93 to 2.53;<break/>
+0.790
+</td><td align="left" rowspan="3" colspan="1">
+7.20;<break/>
+&#x02212;0.44 to 13.96;<break/>
+0.037<xref ref-type="fn" rid="jah32954-note-0006">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;3.75;<break/>
+&#x02212;7.79 to 0.30<break/>
+0.080
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">12.2&#x000b1;9.2</td><td align="left" rowspan="1" colspan="1">12.5&#x000b1;6.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Nonparetic knee flexion peak torque, Nm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">28.0&#x000b1;12.7</td><td align="left" rowspan="1" colspan="1">24.3&#x000b1;7.5</td><td align="left" rowspan="3" colspan="1">
+0.75;<break/>
+&#x02212;2.54 to 2.69;<break/>
+0.955
+</td><td align="left" rowspan="3" colspan="1">
+6.95;<break/>
+&#x02212;0.36 to 14.26;<break/>
+0.062
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;3.25;<break/>
+&#x02212;6.96 to 0.46;<break/>
+0.085
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">24.8&#x000b1;7.9</td><td align="left" rowspan="1" colspan="1">24.4&#x000b1;10.3</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">LEMOCOT; paretic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">17.0&#x000b1;15.1</td><td align="left" rowspan="1" colspan="1">15.0&#x000b1;12.2</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.22;<break/>
+&#x02212;2.75 to 2.31;<break/>
+0.863
+</td><td align="left" rowspan="3" colspan="1">
+1.38;<break/>
+&#x02212;6.24 to 9.00;<break/>
+0.735
+</td><td align="left" rowspan="3" colspan="1">
+0.64;<break/>
+&#x02212;2.93 to 4.22;<break/>
+0.725
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">17.3&#x000b1;16.7</td><td align="left" rowspan="1" colspan="1">14.7&#x000b1;11.8</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">LEMOCOT; nonparetic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">42.6&#x000b1;10.3</td><td align="left" rowspan="1" colspan="1">40.9&#x000b1;9.3</td><td align="left" rowspan="3" colspan="1">
+&#x02212;1.50;<break/>
+&#x02212;4.01 to 1.02;<break/>
+0.240
+</td><td align="left" rowspan="3" colspan="1">
+3.91;<break/>
+&#x02212;2.58 to 10.41;<break/>
+0.234
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;2.23;<break/>
+&#x02212;5.79 to 1.33;<break/>
+0.216
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">38.9&#x000b1;11.8</td><td align="left" rowspan="1" colspan="1">39.4&#x000b1;8.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Step test; paretic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">9.5&#x000b1;4.1</td><td align="left" rowspan="1" colspan="1">9.2&#x000b1;4.2</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.32;<break/>
+&#x02212;0.97 to 0.34;<break/>
+0.342
+</td><td align="left" rowspan="3" colspan="1">
+0.38;<break/>
+&#x02212;1.94 to 2.69;<break/>
+0.747
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.09;<break/>
+&#x02212;1.02 to 0.84;<break/>
+0.850
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">9.1&#x000b1;4.2</td><td align="left" rowspan="1" colspan="1">8.9&#x000b1;3.6</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">Step test; nonparetic side</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">11.2&#x000b1;4.3</td><td align="left" rowspan="1" colspan="1">10.9&#x000b1;4.9</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.52;<break/>
+&#x02212;1.66 to 0.61;<break/>
+0.363
+</td><td align="left" rowspan="3" colspan="1">
+0.18;<break/>
+&#x02212;3.11 to 3.46;<break/>
+0.916
+</td><td align="left" rowspan="3" colspan="1">
+0.14;<break/>
+&#x02212;1.46 to 1.75;<break/>
+0.858
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">10.8&#x000b1;4.3</td><td align="left" rowspan="1" colspan="1">10.4&#x000b1;3.0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">BBS</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">50.4&#x000b1;3.6</td><td align="left" rowspan="1" colspan="1">50.9&#x000b1;3.3</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.13;<break/>
+&#x02212;0.82 to 0.57;<break/>
+0.720
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;0.80;<break/>
+&#x02212;2.87 to 1.27;<break/>
+0.445
+</td><td align="left" rowspan="3" colspan="1">
+0.28;<break/>
+&#x02212;0.70 to 1.25;<break/>
+0.578
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">50.5&#x000b1;3.5</td><td align="left" rowspan="1" colspan="1">50.8&#x000b1;3.4</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="6" rowspan="1">TUG, s</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;Wk 10</td><td align="left" rowspan="1" colspan="1">14.5&#x000b1;6.4</td><td align="left" rowspan="1" colspan="1">17.5&#x000b1;7.3</td><td align="left" rowspan="3" colspan="1">
+0.40;<break/>
+&#x02212;0.81 to 1.61;<break/>
+0.514
+</td><td align="left" rowspan="3" colspan="1">
+&#x02212;3.80;<break/>
+&#x02212;7.31 to &#x02212;0.28;<break/>
+0.036<xref ref-type="fn" rid="jah32954-note-0006">a</xref>
+</td><td align="left" rowspan="3" colspan="1">
+0.71;<break/>
+&#x02212;1.04 to 2.40;<break/>
+0.431
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x000a0;3&#x02010;mo follow&#x02010;up</td><td align="left" rowspan="1" colspan="1">15.6&#x000b1;7.3</td><td align="left" rowspan="1" colspan="1">18.0&#x000b1;8.1</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="jah32954-note-0005"><p>The CIs of interaction term of the primary outcomes were adjusted with Bonferroni correction; thus, 98.75% CIs were reported for the coefficient of interaction term of primary outcomes. 95% CI were reported for rest of the coefficients. Bi&#x02010;TENS indicates bilateral transcutaneous electrical stimulation; CI, confidence interval; Uni&#x02010;TENS, unilateral transcutaneous electrical stimulation.</p></fn><fn id="jah32954-note-0006"><label>a</label><p>
+<italic>P&#x02264;</italic>0.05.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah32954-sec-0025"><title>Discussion</title><p>The results of this study demonstrate that Bi&#x02010;TENS+TOT induced greater and earlier improvement in the pDF strength and greater improvement in the TUG completion time than Uni&#x02010;TENS+TOT. Although there were no between&#x02010;groups difference of other outcome measures, both treatments demonstrated significant improvements in the nonparetic ankle dorsiflexors strength, pKE, pKF, and nonparetic knee flexors peak torque, paretic and nonparetic LEMOCOT scores, paretic and nonparetic ST scores, and BBS scores after 10 training sessions and significant improvements in pPF and nonparetic ankle plantarflexors strength after 20 training sessions. In general, the training effects on all outcome measures could be maintained 3&#x000a0;months after training had ended, except for the pPF strength.</p><sec id="jah32954-sec-0026"><title>Primary Outcomes</title><p>To the best of our knowledge, this is the first study to compare the efficacy of Bi&#x02010;TENS+TOT and Uni&#x02010;TENS+TOT in the improvement of lower&#x02010;limb motor function after stroke. The notion of Bi&#x02010;TENS was inspired by the success of bilateral motor training,<xref rid="jah32954-bib-0015" ref-type="ref">15</xref>, <xref rid="jah32954-bib-0016" ref-type="ref">16</xref>, <xref rid="jah32954-bib-0017" ref-type="ref">17</xref>, <xref rid="jah32954-bib-0018" ref-type="ref">18</xref>, <xref rid="jah32954-bib-0019" ref-type="ref">19</xref> and positive findings<xref rid="jah32954-bib-0026" ref-type="ref">26</xref> have also been reported with bilateral leg training after stroke. In addition, training of the nonparetic limb has also been reported to enhance motor recovery in paretic limbs.<xref rid="jah32954-bib-0015" ref-type="ref">15</xref>, <xref rid="jah32954-bib-0047" ref-type="ref">47</xref>
+</p><p>Based on the findings of neuroanatomical<xref rid="jah32954-bib-0048" ref-type="ref">48</xref> and clinical<xref rid="jah32954-bib-0023" ref-type="ref">23</xref>, <xref rid="jah32954-bib-0024" ref-type="ref">24</xref> studies, the underlying mechanisms that mediate the effects of Bi&#x02010;TENS might include the enhancement of interhemispheric interaction, possibly via the corpus callosum, which is the white matter in the human brain that connects the 2 hemispheres via more than 200&#x000a0;million axonal connections.<xref rid="jah32954-bib-0048" ref-type="ref">48</xref> The motor areas of the 2 hemispheres have been shown with functional magnetic resonance imaging and diffusion tensor imaging to be connected via the posterior body of the corpus callosum.<xref rid="jah32954-bib-0048" ref-type="ref">48</xref> The results of clinical studies have demonstrated that bilateral pinch gripping could enhance ipsilesional M1 excitability when compared with unilateral pinch gripping with either hand in subjects with stroke,<xref rid="jah32954-bib-0024" ref-type="ref">24</xref> which was shown by an increase in the motor evoked potential amplitude recorded from the first dorsal interosseous of the paretic hand.<xref rid="jah32954-bib-0024" ref-type="ref">24</xref> Moreover, Grefkes and colleagues<xref rid="jah32954-bib-0023" ref-type="ref">23</xref> demonstrated in a sample of 11 subjects with subacute and subcortical stroke that bilateral hand movements resulted in facilitatory neural coupling between the M1 and supplementary motor areas of the 2 cerebral hemispheres. Simultaneous activation of bilateral sensorimotor cortices via TENS might exert a similar effect of enhancing the interhemispheric interaction in both hemispheres via the corpus callosum, thus enhancing the effects of motor training.</p><p>The neural networks of the contralesional hemisphere might contribute to the motor recovery of the paretic limb after repetitive application of TENS over both legs. Dragert and Zehr<xref rid="jah32954-bib-0047" ref-type="ref">47</xref> reported that high&#x02010;intensity ankle dorsiflexion resistance training on the nonparetic ankle resulted in a 34% increase in nonparetic ankle dorsiflexors strength and a 31% increase in pDF strength in 19 subjects with chronic stroke.<xref rid="jah32954-bib-0047" ref-type="ref">47</xref> It is plausible that the application of TENS over the nonparetic leg activated the contralesional hemisphere and enhanced the paretic ankle strength by recruiting the contralesional neural networks. The Bi&#x02010;TENS+TOT group showed earlier and greater improvement in pDF strength with as little as 10 sessions of training, probably because of the enhanced descending input to the alpha&#x02010;motor neurons that innervate the pDF.</p><p>However, it should be noted that among the 4 primary outcomes, the between&#x02010;groups differences could only be shown in pDF strength. Bi&#x02010;TENS+TOT was not superior to Uni&#x02010;TENS+TOT in improving the pPF strength, pKE, and pKF peak torque. This might be because TENS was applied to stimulate the common peroneal nerve only. Kaelin&#x02010;Lang and colleagues<xref rid="jah32954-bib-0049" ref-type="ref">49</xref> demonstrated that 2&#x000a0;hours of cutaneous electrical stimulation over the ulnar nerve at the wrist level increased the motor evoked potentials of the abductor digiti minimi muscle in response to focal transcranial magnetic stimulation in healthy adults.<xref rid="jah32954-bib-0049" ref-type="ref">49</xref> However, no significant change was shown in the motor evoked potentials of the abductor pollicis brevis muscle, which was innervated by the median nerve. Results of that study<xref rid="jah32954-bib-0049" ref-type="ref">49</xref> indicated that cutaneous electrical stimulation over a peripheral nerve increases the focal corticospinal excitability of the muscles innervated by the nerve being stimulated. The ankle plantarflexor, knee flexor and extensor were predominantly innervated by the tibial nerve, and sciatic and femoral nerves, respectively. The change in the pPF strength, pKF, and pKE peak torque might be attributable to the effects of TOT, but not the effects of TENS.</p><p>Consistent with previous results,<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref> our results demonstrate significant within&#x02010;group improvement in pDF strength in both the Bi&#x02010;TENS and Uni&#x02010;TENS groups after 20 sessions of intervention. The mechanism that underlies the improved motor function in paretic limbs after TENS treatment is multifactorial; it involves alleviation of the hyperexcitability of alpha motor neurons,<xref rid="jah32954-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32954-bib-0011" ref-type="ref">11</xref> reduction of intracortical inhibition,<xref rid="jah32954-bib-0012" ref-type="ref">12</xref> and enhancement of corticomuscular functional connectivity.<xref rid="jah32954-bib-0013" ref-type="ref">13</xref> Several clinical studies have demonstrated that the hyperexcitability of the alpha motor neurons that innervate the spastic ankle plantarflexor could be reduced by an increase in presynaptic inhibition after repetitive TENS.<xref rid="jah32954-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32954-bib-0011" ref-type="ref">11</xref> Levin and Huichan reported that the ankle plantarflexor stretch reflex amplitude, as measured by the magnitude of integrated electromyography, was reduced significantly after a 3&#x02010;week regimen of repetitive TENS over the common peroneal nerve but not after placebo&#x02010;TENS stimulation.<xref rid="jah32954-bib-0009" ref-type="ref">9</xref> Chen and colleagues demonstrated that the H&#x02010;reflex latency of pPF was lengthened significantly after 6&#x000a0;weeks of TENS stimulation over the Achilles muscle&#x02013;tendon junction but not after placebo&#x02010;TENS stimulation.<xref rid="jah32954-bib-0011" ref-type="ref">11</xref>
+</p><p>Other neurophysiological studies have demonstrated that repetitive cutaneous electrical stimulation could lead to a reduction in intracortical inhibition<xref rid="jah32954-bib-0012" ref-type="ref">12</xref> and enhancement of cortical and neuromuscular coupling<xref rid="jah32954-bib-0013" ref-type="ref">13</xref> at the cortical level, which might explain the improvement of motor function after TENS combined with TOT. Celnik and colleagues<xref rid="jah32954-bib-0012" ref-type="ref">12</xref> applied cutaneous electrical stimulation on the ulnar and radial nerves of the paretic upper limb for 2&#x000a0;hours before training of hand function. Their results showed a significant reduction of the short&#x02010;interval intracortical inhibition and significant improvement in the Jebsen&#x02010;Taylor Hand Function Test score in 9 subjects with subacute stroke,<xref rid="jah32954-bib-0012" ref-type="ref">12</xref> whereas no such change was seen after sham stimulation.</p><p>In addition, Lai and colleagues<xref rid="jah32954-bib-0013" ref-type="ref">13</xref> reported that 40&#x000a0;minutes of cutaneous electrical stimulation applied over the median nerve on the paretic hand could augment electroencephalography&#x02013;electromyography coherence in 9 subjects with chronic stroke. The electroencephalography&#x02010;electromyography coherence, which refers to the synchronization of the oscillatory activities of the electromyography and electroencephalography signals, was used to assess the level of cortical and neuromuscular coupling. It has been reported that a low&#x02010;to&#x02010;high shift of the electroencephalography&#x02010;electromyography coherence frequency is a clinical indicator of motor recovery after stroke.<xref rid="jah32954-bib-0050" ref-type="ref">50</xref> Lai and colleagues<xref rid="jah32954-bib-0013" ref-type="ref">13</xref> showed that the electroencephalography&#x02010;electromyography coherence in the high&#x02010;frequency band (&#x0003e;30&#x000a0;Hz) had increased significantly after repetitive TENS.</p><p>Moreover, motor control, as measured by the percentage of force deviation in maintaining a steady force output, was also improved after cutaneous electrical stimulation.<xref rid="jah32954-bib-0013" ref-type="ref">13</xref> Studies have found that Uni&#x02010;TENS augments the effects of TOT in subjects with stroke.<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref>, <xref rid="jah32954-bib-0051" ref-type="ref">51</xref> It has been suggested that the occurrence of motor cortex reorganization is likely suppressed by inhibitory mechanisms under normal conditions and that the release of intracortical inhibition might facilitate motor learning.<xref rid="jah32954-bib-0052" ref-type="ref">52</xref>, <xref rid="jah32954-bib-0053" ref-type="ref">53</xref> This notion was supported by the fact that reorganization of the motor representation area can be induced rapidly in rats when intracortical inhibition is blocked with drugs.<xref rid="jah32954-bib-0052" ref-type="ref">52</xref> Celnik and colleagues<xref rid="jah32954-bib-0012" ref-type="ref">12</xref> used transcranial magnetic stimulation to investigate the effects of cutaneous electrical stimulation on the level of corticospinal excitability in subjects with stroke. In this crossover&#x02010;designed study, subjects with stroke received 2&#x000a0;hours of sub&#x02013;motor threshold cutaneous electrical stimulation on both ulnar and radial nerves or received placebo stimulation before 1&#x000a0;hour of hand function training. Cutaneous electrical stimulation led to no change in the resting motor threshold recorded from the&#x000a0;first dorsal interosseous muscle, but it did reduce the short&#x02010;interval intracortical inhibition in 9 subjects with subacute stroke.<xref rid="jah32954-bib-0012" ref-type="ref">12</xref> In addition, the reduction of intracortical inhibition has been demonstrated during motor skill acquisition of a wrist flexion&#x02013;extension waveform&#x02010;tracking task in healthy adults,<xref rid="jah32954-bib-0053" ref-type="ref">53</xref> and the enhanced cortical and neuromuscular coupling after TENS led to better motor control.<xref rid="jah32954-bib-0013" ref-type="ref">13</xref> Thus, repetitive TENS potentially optimizes the participants' performance and augments the training effects of TOT.</p><p>Because a &#x0201c;pure&#x0201d; TOT control group was not incorporated in this study, the therapeutic effects of TOT could not be determined. However, the effects of placebo&#x02010;TENS+TOT and Uni&#x02010;TENS+TOT have been investigated in our laboratory.<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref> With a training protocol and selection criteria similar to those for the participants with stroke, the results of our previous study<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref> showed that placebo&#x02010;TENS+TOT led to greater improvement in paretic ankle dorsiflexion and plantarflexion strength<xref rid="jah32954-bib-0004" ref-type="ref">4</xref> than that seen in a control group without active treatment. Moreover, Uni&#x02010;TENS applied over the paretic limb combined with TOT was superior to TENS alone, placebo&#x02010;TENS+TOT, and control without any active treatment in improving ankle muscle strength<xref rid="jah32954-bib-0004" ref-type="ref">4</xref> in subjects with stroke.</p><p>Our stimulation protocol was based on the findings of our previous studies that had effectively demonstrated improvement in lower limb motor function in subjects with stroke.<xref rid="jah32954-bib-0001" ref-type="ref">1</xref>, <xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref>, <xref rid="jah32954-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32954-bib-0010" ref-type="ref">10</xref>, <xref rid="jah32954-bib-0054" ref-type="ref">54</xref> The 100&#x02010;Hz stimulation frequency was chosen because previous studies have demonstrated that this frequency reduces the amplitude of the H&#x02010;reflex,<xref rid="jah32954-bib-0009" ref-type="ref">9</xref> lengthens the stretch reflex latencies,<xref rid="jah32954-bib-0010" ref-type="ref">10</xref> and enhances walking capacity<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref>, <xref rid="jah32954-bib-0054" ref-type="ref">54</xref> in subjects with stroke. It has been reported that 30&#x000a0;minutes of TENS applied over the deep peroneal nerve of the paretic leg with a stimulation frequency of 200&#x000a0;Hz led to a greater increase of presynaptic Ia inhibition than 50 and 100&#x000a0;Hz in 20 subjects with chronic stroke.<xref rid="jah32954-bib-0055" ref-type="ref">55</xref> However, no randomized controlled trial has supported the clinical efficacy of a 200&#x02010;Hz stimulation frequency. As for the stimulation duration, Laddha and colleagues<xref rid="jah32954-bib-0054" ref-type="ref">54</xref> compared the effects of 30&#x000a0;minutes versus 60&#x000a0;minutes of TENS applied over the common peroneal nerve combined with TOT. Although the pPF spasticity was reduced in both groups, their results indicated that 60&#x000a0;minutes of TENS combined with TOT was superior to 30&#x000a0;minutes of TENS combined with TOT in reducing ankle clonus in subjects with stroke.</p><p>The TOT program adopted the specificity of training principles by ensuring that the force generated by the muscles is directly related to functional movement.<xref rid="jah32954-bib-0004" ref-type="ref">4</xref> The TOT protocol for this study was adopted from that in our previous study,<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref> which demonstrated that a combination of placebo&#x02010;TENS and TOT outperformed a control group with no active treatment in isometric pDF and pPF strength<xref rid="jah32954-bib-0004" ref-type="ref">4</xref> and TUG completion time.<xref rid="jah32954-bib-0005" ref-type="ref">5</xref> The improvement in muscle strength after TOT could be attributed to an increase in muscle volume<xref rid="jah32954-bib-0056" ref-type="ref">56</xref> and recruitment of alternative neural substrate.<xref rid="jah32954-bib-0057" ref-type="ref">57</xref> Ryan and colleagues reported that 12&#x000a0;weeks of resistive training of the knee extensors increased the paretic thigh's cross&#x02010;sectional area and volume by &#x02248;15% and increased the knee extension strength by 56%.<xref rid="jah32954-bib-0056" ref-type="ref">56</xref> Luft and colleagues<xref rid="jah32954-bib-0057" ref-type="ref">57</xref> reported that 6&#x000a0;months of treadmill exercise induced greater activation in multiple brain regions than passive stretching in subjects with stroke. These brain areas included the posterior cerebellar lobe, the midbrain, and the ipsilesional postcentral and superior frontal gyri, which were the areas that potentially mediated the walking&#x02010;related activities. In addition, ambulation functions could be facilitated because these exercises required the subjects to activate the muscle in the position in which the muscles normally functioned.</p><p>Unlike our previous studies<xref rid="jah32954-bib-0004" ref-type="ref">4</xref>, <xref rid="jah32954-bib-0005" ref-type="ref">5</xref> in which TENS was applied before TOT, the TENS treatment in this study was applied concurrently with TOT. Two studies have reported that simultaneous TENS and TOT augment balance performance<xref rid="jah32954-bib-0007" ref-type="ref">7</xref> and trunk control<xref rid="jah32954-bib-0051" ref-type="ref">51</xref> in subjects with stroke. Khaslavskaia and colleagues<xref rid="jah32954-bib-0058" ref-type="ref">58</xref> reported that cutaneous electrical stimulation over the common peroneal nerve for 30&#x000a0;minutes enhanced corticospinal excitability for up to 110&#x000a0;minutes in healthy adults, which supported the application of TENS before TOT. However, Khaslavskaia and Sinkjaer<xref rid="jah32954-bib-0059" ref-type="ref">59</xref> reported that cutaneous electrical stimulation applied over the common peroneal nerve combined with simultaneous active ankle dorsiflexion exercise for 30&#x000a0;minutes increased the motor evoked potentials recorded from the tibialis anterior by 66% in 8 healthy adults, whereas cutaneous electrical stimulation alone increased the motor evoked potentials by only 38%.<xref rid="jah32954-bib-0059" ref-type="ref">59</xref> One of the advantages of the current TENS+TOT protocol is that it can significantly reduce the treatment duration, thus enhancing the cost&#x02010;effectiveness of the program and the compliance of the participants.</p></sec><sec id="jah32954-sec-0027"><title>Secondary Outcomes</title><p>The greater improvement in the TUG completion time after completion of 20 sessions of training could have been mediated by the improved pDF strength, because pDF strength has been reported to be a significant predictor of the TUG completion time (&#x003b2;=0.750).<xref rid="jah32954-bib-0060" ref-type="ref">60</xref> Moreover, the muscles of the nonparetic leg are also weakened in subjects with stroke.<xref rid="jah32954-bib-0061" ref-type="ref">61</xref> A previous study also reported that the nonparetic ankle contributed 55% to 89% to balance maintenance after perturbation,<xref rid="jah32954-bib-0062" ref-type="ref">62</xref> and a simulation study reported that an increase in nonparetic knee extension strength could enhance clearance of the paretic ankle during the swing phase of the paretic leg in a model of subjects with stroke.<xref rid="jah32954-bib-0063" ref-type="ref">63</xref> It is possible that Bi&#x02010;TENS also augments the training effects on the nonparetic leg and thus enhances the overall walking capacity. However, results of the current study showed that there was no significant between&#x02010;groups difference seen on nonparetic lower&#x02010;limb muscle strength, lower&#x02010;limb coordination, or dynamic standing balance after 20 sessions of training. Thus, it was unlikely that the improvement of nonparetic leg motor functions contributed to the improvement in walking capacity.</p><p>Although significant within&#x02010;group improvement was shown in lower&#x02010;limb coordination, dynamic standing balance, and balance performance, no significant between&#x02010;groups difference was seen in these outcomes. The LEMOCOT involves the coordinated movement of the knee flexor and extensor, which are predominantly innervated by the sciatic and femoral nerves. The ST and BBS evaluate trunk control, functional muscle strength in the legs, and anticipatory postural adjustment. The application of Bi&#x02010;TENS to the common peroneal nerve might only improve the motor outputs of muscles that are innervated by the superficial and deep peroneal nerves, including the ankle dorsiflexors and evertors. This finding might explain the lack of a between&#x02010;groups difference in plantarflexor strength or in the LEMOCOT, ST, or BBS scores.</p></sec><sec id="jah32954-sec-0028"><title>Carryover Effects</title><p>The paretic lower&#x02010;limb coordination, dynamic standing balance, functional mobility, and balance performance showed no significant deterioration at 3&#x000a0;months after training in either group. The pPF strength was reduced significantly in follow&#x02010;up assessment in both groups. These findings are suggestive that the detraining effect had a strong influence on muscle strength but not on functional performance. H&#x000e4;kkinen and colleagues<xref rid="jah32954-bib-0064" ref-type="ref">64</xref> reported a significant reduction in the cross&#x02010;sectional area of the quadriceps and reduction in the isometric strength of knee extensors up to 6% after 3&#x000a0;weeks and 12% after 24&#x000a0;weeks of detraining in healthy adults. However, the functional outcomes, including walking speed and jumping height, showed no significant change. Those results indicated that the improved neuromuscular control was maintained even after detraining, and partially compensated for the loss in muscle strength, which might explain the preservation of lower&#x02010;limb functions.</p></sec><sec id="jah32954-sec-0029"><title>Limitations</title><p>This study has several limitations that must be considered. First, because the primary objective of this study is to compare Bi&#x02010;TENS and Uni&#x02010;TENS in improving motor function in stroke survivors, there was no pure TOT group or control group without active treatment to delineate the treatment effects of TENS and TOT. Second, the neurophysiological mechanisms that mediate the effects of Bi&#x02010;TENS and Uni&#x02010;TENS remain unclear. Future studies are necessary to investigate the differential effects of Bi&#x02010;TENS and Uni&#x02010;TENS on cortical function. Third, the therapist who supervised the training was not blinded to the group allocations, but the standardized treatment protocol could have minimized the bias. Fourth, selection bias might have existed because all participants in this study were community&#x02010;dwelling and self&#x02010;selected to participate. Thus, they were likely to be more motivated and to have a better mobility level than those who declined to participate. Recruitment of subjects with poor mobility should be considered in a future study. Fifth, we did not measure the actual repetition of movement accomplished by the subjects in each exercise. The actual dosage of exercise could vary considerably among subjects. The number of repetitions, instead of exercise duration, could be used as an indicator of exercise dosage in a future study. Finally, the follow&#x02010;up period was limited to 3&#x000a0;months after training because of limitations in resources. A longer&#x02010;term carryover effect cannot be determined.</p></sec></sec><sec id="jah32954-sec-0030"><title>Conclusions and Clinical Implications</title><p>This study demonstrates that Bi&#x02010;TENS applied on the common peroneal nerves combined with lower&#x02010;limb TOT induces greater improvement in pDF strength beginning after 10 sessions and greater improvement in TUG completion time after 20 sessions than Uni&#x02010;TENS combined with TOT, while Bi&#x02010;TENS showed no additional advantage in improving pPF strength and knee muscle strength. Both Bi&#x02010;TENS+TOT and Uni&#x02010;TENS+TOT induced significant within&#x02010;group improvements in paretic ankle strength, lower&#x02010;limb coordination, dynamic standing balance, functional mobility, and balance performance in subjects with chronic stroke after 20 sessions of training. The training effects in both groups were maintained for 3&#x000a0;months. The results of this study suggest that Bi&#x02010;TENS+TOT is superior to Uni&#x02010;TENS+TOT for improving the TUG completion time in subjects with chronic stroke, but the 2 training protocols seem to demonstrate similar efficacy on the LEMOCOT score, ST score, and BBS score. The subjects who participated in this study had a relatively high level of motor function, so the results may not be applicable to subjects with limited motor function.</p></sec><sec id="jah32954-sec-0031"><title>Sources of Funding</title><p>This study was supported by the General Research Fund (reference number 562413) from the Research Grants Council, Hong Kong.</p></sec><sec id="jah32954-sec-0032"><title>Disclosures</title><p>None.</p></sec></body><back><ref-list content-type="cited-references" id="jah32954-bibl-0001"><title>References</title><ref id="jah32954-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah32954-cit-0001">
+<string-name>
+<surname>Yan</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Hui&#x02010;Chan</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Transcutaneous electrical stimulation on acupuncture points improves muscle function in subjects after acute stroke: a randomized controlled trial</article-title>. <source>J Rehabil Med</source>. <year>2009</year>;<volume>41</volume>:<fpage>312</fpage>&#x02013;<lpage>316</lpage>.<pub-id pub-id-type="pmid">19363561</pub-id></mixed-citation></ref><ref id="jah32954-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah32954-cit-0002">
+<string-name>
+<surname>Jung</surname>
+<given-names>KS</given-names>
+</string-name>, <string-name>
+<surname>In</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Cho</surname>
+<given-names>HY</given-names>
+</string-name>. <article-title>Effects of sit&#x02010;to&#x02010;stand training combined with transcutaneous electrical stimulation on spasticity, muscle strength and balance ability in patients with stroke: a randomized controlled study</article-title>. <source>Gait Posture</source>. <year>2017</year>;<volume>54</volume>:<fpage>183</fpage>&#x02013;<lpage>187</lpage>.<pub-id pub-id-type="pmid">28324754</pub-id></mixed-citation></ref><ref id="jah32954-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah32954-cit-0003">
+<string-name>
+<surname>Tyson</surname>
+<given-names>SF</given-names>
+</string-name>, <string-name>
+<surname>Sadeghi&#x02010;Demneh</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Nester</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>The effects of transcutaneous electrical nerve stimulation on strength, proprioception, balance and mobility in people with stroke: a randomized controlled cross&#x02010;over trial</article-title>. <source>Clin Rehabil</source>. <year>2013</year>;<volume>27</volume>:<fpage>785</fpage>&#x02013;<lpage>791</lpage>.<pub-id pub-id-type="pmid">23503739</pub-id></mixed-citation></ref><ref id="jah32954-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah32954-cit-0004">
+<string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Hui&#x02010;Chan</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Transcutaneous electrical nerve stimulation combined with task&#x02010;related training improves lower limb functions in subjects with chronic stroke</article-title>. <source>Stroke</source>. <year>2007</year>;<volume>38</volume>:<fpage>2953</fpage>&#x02013;<lpage>2959</lpage>.<pub-id pub-id-type="pmid">17901383</pub-id></mixed-citation></ref><ref id="jah32954-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah32954-cit-0005">
+<string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Hui&#x02010;Chan</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Does the use of tens increase the effectiveness of exercise for improving walking after stroke? A randomized controlled clinical trial</article-title>. <source>Clin Rehabil</source>. <year>2009</year>;<volume>23</volume>:<fpage>1093</fpage>&#x02013;<lpage>1103</lpage>.<pub-id pub-id-type="pmid">19906763</pub-id></mixed-citation></ref><ref id="jah32954-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah32954-cit-0006">
+<string-name>
+<surname>Hussain</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mohammad</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>The effect of transcutaneous electrical nerve stimulation (TENS) combined with Bobath on post stroke spasticity. A randomized controlled study</article-title>. <source>J Neurol Sci</source>. <year>2013</year>;<volume>333</volume>:<fpage>e560</fpage>.</mixed-citation></ref><ref id="jah32954-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah32954-cit-0007">
+<string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Woo</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Cutaneous electrical stimulation to improve balance performance in patients with sub&#x02010;acute stroke: a randomised controlled trial</article-title>. <source>Hong Kong Med J</source>. <year>2016</year>;<volume>22</volume>(<issue>suppl 2</issue>):<fpage>S33</fpage>&#x02013;<lpage>S36</lpage>.<pub-id pub-id-type="pmid">26908341</pub-id></mixed-citation></ref><ref id="jah32954-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah32954-cit-0008">
+<string-name>
+<surname>Park</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Seo</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Choi</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>The effects of exercise with TENS on spasticity, balance, and gait in patients with chronic stroke: a randomized controlled trial</article-title>. <source>Med Sci Monit</source>. <year>2014</year>;<volume>20</volume>:<fpage>1890</fpage>&#x02013;<lpage>1896</lpage>.<pub-id pub-id-type="pmid">25300431</pub-id></mixed-citation></ref><ref id="jah32954-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah32954-cit-0009">
+<string-name>
+<surname>Levin</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Huichan</surname>
+<given-names>CWY</given-names>
+</string-name>. <article-title>Relief of hemiparetic spasticity by TENS is associated with improvement in reflex and voluntary motor functions</article-title>. <source>Electroencephalogr Clin Neurophysiol</source>. <year>1992</year>;<volume>85</volume>:<fpage>131</fpage>&#x02013;<lpage>142</lpage>.<pub-id pub-id-type="pmid">1373366</pub-id></mixed-citation></ref><ref id="jah32954-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah32954-cit-0010">
+<string-name>
+<surname>Hui&#x02010;Chan</surname>
+<given-names>CW</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>
+<given-names>MF</given-names>
+</string-name>. <article-title>Stretch reflex latencies in spastic hemiparetic subjects are prolonged after transcutaneous electrical nerve stimulation</article-title>. <source>Can J Neurol Sci</source>. <year>1993</year>;<volume>20</volume>:<fpage>97</fpage>&#x02013;<lpage>106</lpage>.<pub-id pub-id-type="pmid">8334584</pub-id></mixed-citation></ref><ref id="jah32954-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah32954-cit-0011">
+<string-name>
+<surname>Chen</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>YL</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Lai</surname>
+<given-names>CH</given-names>
+</string-name>, <string-name>
+<surname>Chiang</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>WL</given-names>
+</string-name>. <article-title>Effects of surface electrical stimulation on the muscle&#x02010;tendon junction of spastic gastrocnemius in stroke patients</article-title>. <source>Disabil Rehabil</source>. <year>2005</year>;<volume>27</volume>:<fpage>105</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">15823991</pub-id></mixed-citation></ref><ref id="jah32954-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah32954-cit-0012">
+<string-name>
+<surname>Celnik</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hummel</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Harris&#x02010;Love</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wolk</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>LG</given-names>
+</string-name>. <article-title>Somatosensory stimulation enhances the effects of training functional hand tasks in patients with chronic stroke</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2007</year>;<volume>88</volume>:<fpage>1369</fpage>&#x02013;<lpage>1376</lpage>.<pub-id pub-id-type="pmid">17964875</pub-id></mixed-citation></ref><ref id="jah32954-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah32954-cit-0013">
+<string-name>
+<surname>Lai</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Tsai</surname>
+<given-names>MW</given-names>
+</string-name>, <string-name>
+<surname>Shih</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Wei</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Chou</surname>
+<given-names>LW</given-names>
+</string-name>. <article-title>Investigating the effects of peripheral electrical stimulation on corticomuscular functional connectivity stroke survivors</article-title>. <source>Top Stroke Rehabil</source>. <year>2016</year>;<volume>23</volume>:<fpage>154</fpage>&#x02013;<lpage>162</lpage>.<pub-id pub-id-type="pmid">27077975</pub-id></mixed-citation></ref><ref id="jah32954-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah32954-cit-0014">
+<string-name>
+<surname>Sasaki</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Abo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hara</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Yamada</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Niimi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kakuda</surname>
+<given-names>W</given-names>
+</string-name>. <article-title>High&#x02010;frequency rTMS on leg motor area in the early phase of stroke</article-title>. <source>Acta Neurol Belg</source>. <year>2017</year>;<volume>117</volume>:<fpage>189</fpage>&#x02013;<lpage>194</lpage>.<pub-id pub-id-type="pmid">27502413</pub-id></mixed-citation></ref><ref id="jah32954-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah32954-cit-0015">
+<string-name>
+<surname>Pandian</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Arya</surname>
+<given-names>KN</given-names>
+</string-name>, <string-name>
+<surname>Kumar</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Effect of motor training involving the less&#x02010;affected side (MTLA) in post&#x02010;stroke subjects: a pilot randomized controlled trial</article-title>. <source>Top Stroke Rehabil</source>. <year>2015</year>;<volume>22</volume>:<fpage>357</fpage>&#x02013;<lpage>367</lpage>.<pub-id pub-id-type="pmid">25920470</pub-id></mixed-citation></ref><ref id="jah32954-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah32954-cit-0016">
+<string-name>
+<surname>Lin</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>YA</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>YF</given-names>
+</string-name>. <article-title>The effects of bilateral arm training on motor control and functional performance in chronic stroke: a&#x000a0;randomized controlled study</article-title>. <source>Neurorehabil Neural Repair</source>. <year>2010</year>;<volume>24</volume>:<fpage>42</fpage>&#x02013;<lpage>51</lpage>.<pub-id pub-id-type="pmid">19729583</pub-id></mixed-citation></ref><ref id="jah32954-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah32954-cit-0017">
+<string-name>
+<surname>Summers</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Kagerer</surname>
+<given-names>FA</given-names>
+</string-name>, <string-name>
+<surname>Garry</surname>
+<given-names>MI</given-names>
+</string-name>, <string-name>
+<surname>Hiraga</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Loftus</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cauraugh</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Bilateral and unilateral movement training on upper limb function in chronic stroke patients: a TMS study</article-title>. <source>J Neurol Sci</source>. <year>2007</year>;<volume>252</volume>:<fpage>76</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">17134723</pub-id></mixed-citation></ref><ref id="jah32954-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah32954-cit-0018">
+<string-name>
+<surname>McCombe Waller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Whitall</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Temporal and spatial control following bilateral versus unilateral training</article-title>. <source>Hum Mov Sci</source>. <year>2008</year>;<volume>27</volume>:<fpage>749</fpage>&#x02013;<lpage>758</lpage>.<pub-id pub-id-type="pmid">18639360</pub-id></mixed-citation></ref><ref id="jah32954-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah32954-cit-0019">
+<string-name>
+<surname>Sethy</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bajpai</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kujur</surname>
+<given-names>ES</given-names>
+</string-name>, <string-name>
+<surname>Mohakud</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sahoo</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Effectiveness of modified constraint induced movement therapy and bilateral arm training on upper extremity function after chronic stroke: a comparative study</article-title>. <source>Open J Ther Rehabil</source>. <year>2016</year>;<volume>4</volume>:<fpage>1</fpage>&#x02013;<lpage>9</lpage>.</mixed-citation></ref><ref id="jah32954-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah32954-cit-0020">
+<string-name>
+<surname>Stinear</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Petoe</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Anwar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Barber</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Byblow</surname>
+<given-names>WD</given-names>
+</string-name>. <article-title>Bilateral priming accelerates recovery of upper limb function after stroke: a randomized controlled trial</article-title>. <source>Stroke</source>. <year>2014</year>;<volume>45</volume>:<fpage>205</fpage>&#x02013;<lpage>210</lpage>.<pub-id pub-id-type="pmid">24178916</pub-id></mixed-citation></ref><ref id="jah32954-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah32954-cit-0021">
+<string-name>
+<surname>Stinear</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Byblow</surname>
+<given-names>WD</given-names>
+</string-name>. <article-title>Rhythmic bilateral movement training modulates corticomotor excitability and enhances upper limb motricity poststroke: a pilot study</article-title>. <source>J Clin Neurophysiol</source>. <year>2004</year>;<volume>21</volume>:<fpage>124</fpage>&#x02013;<lpage>131</lpage>.<pub-id pub-id-type="pmid">15284604</pub-id></mixed-citation></ref><ref id="jah32954-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah32954-cit-0022">
+<string-name>
+<surname>Stinear</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Byblow</surname>
+<given-names>WD</given-names>
+</string-name>. <article-title>An interhemispheric asymmetry in motor cortex disinhibition during bimanual movement</article-title>. <source>Brain Res</source>. <year>2004</year>;<volume>1022</volume>:<fpage>81</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">15353216</pub-id></mixed-citation></ref><ref id="jah32954-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah32954-cit-0023">
+<string-name>
+<surname>Grefkes</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Nowak</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Dafotakis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Eickhoff</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Fink</surname>
+<given-names>GR</given-names>
+</string-name>. <article-title>Modulating cortical connectivity in stroke patients by rTMS assessed with fMRI and dynamic causal modeling</article-title>. <source>Neuroimage</source>. <year>2010</year>;<volume>50</volume>:<fpage>233</fpage>&#x02013;<lpage>242</lpage>.<pub-id pub-id-type="pmid">20005962</pub-id></mixed-citation></ref><ref id="jah32954-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah32954-cit-0024">
+<string-name>
+<surname>Renner</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name>
+<surname>Woldag</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Atanasova</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hummelsheim</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Change of facilitation during voluntary bilateral hand activation after stroke</article-title>. <source>J Neurol Sci</source>. <year>2005</year>;<volume>239</volume>:<fpage>25</fpage>&#x02013;<lpage>30</lpage>.<pub-id pub-id-type="pmid">16129451</pub-id></mixed-citation></ref><ref id="jah32954-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah32954-cit-0025">
+<string-name>
+<surname>Luft</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>McCombe&#x02010;Waller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Whitall</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Macko</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sorkin</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Schulz</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Hanley</surname>
+<given-names>DF</given-names>
+</string-name>. <article-title>Repetitive bilateral arm training and motor cortex activation in chronic stroke: a randomized controlled trial</article-title>. <source>JAMA</source>. <year>2004</year>;<volume>292</volume>:<fpage>1853</fpage>&#x02013;<lpage>1861</lpage>.<pub-id pub-id-type="pmid">15494583</pub-id></mixed-citation></ref><ref id="jah32954-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah32954-cit-0026">
+<string-name>
+<surname>Johannsen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Wing</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Pelton</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Kitaka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zietz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Brittle</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>van Vliet</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Riddoch</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sackley</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>McManus</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Seated bilateral leg exercise effects on hemiparetic lower extremity function in chronic stroke</article-title>. <source>Neurorehabil Neural Repair</source>. <year>2010</year>;<volume>24</volume>:<fpage>243</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">19822721</pub-id></mixed-citation></ref><ref id="jah32954-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah32954-cit-0027">
+<string-name>
+<surname>Stewart</surname>
+<given-names>KC</given-names>
+</string-name>, <string-name>
+<surname>Cauraugh</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Summers</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>Bilateral movement training and stroke rehabilitation: a systematic review and meta&#x02010;analysis</article-title>. <source>J Neurol Sci</source>. <year>2006</year>;<volume>244</volume>:<fpage>89</fpage>&#x02013;<lpage>95</lpage>.<pub-id pub-id-type="pmid">16476449</pub-id></mixed-citation></ref><ref id="jah32954-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah32954-cit-0028">
+<string-name>
+<surname>Fried</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Tangen</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Walston</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Newman</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gottdiener</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Seeman</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Tracy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Kop</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Burke</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>McBurnie</surname>
+<given-names>MA</given-names>
+</string-name>; <collab collab-type="authors">Cardiovascular Health Study Collaborative Research G</collab>
+. <article-title>Frailty in older adults: evidence for a phenotype</article-title>. <source>J Gerontol A Biol Sci Med Sci</source>. <year>2001</year>;<volume>56</volume>:<fpage>M146</fpage>&#x02013;<lpage>M156</lpage>.<pub-id pub-id-type="pmid">11253156</pub-id></mixed-citation></ref><ref id="jah32954-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah32954-cit-0029">
+<string-name>
+<surname>Smithard</surname>
+<given-names>DG</given-names>
+</string-name>. <article-title>Stroke in frail older people</article-title>. <source>Geriatrics</source>. <year>2017</year>;<volume>2</volume>:<fpage>24</fpage>.</mixed-citation></ref><ref id="jah32954-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah32954-cit-0030">
+<string-name>
+<surname>Chu</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pei</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ho</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Chan</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Validation of the Abbreviated Mental Test (Hong Kong version) in the elderly medical patient</article-title>. <source>Hong Kong Med J</source>. <year>1995</year>;<volume>1</volume>:<fpage>207</fpage>&#x02013;<lpage>211</lpage>.</mixed-citation></ref><ref id="jah32954-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah32954-cit-0031">
+<string-name>
+<surname>Jensen</surname>
+<given-names>CV</given-names>
+</string-name>. <article-title>A computer program for randomizing patients with near&#x02010;even distribution of important parameters</article-title>. <source>Comput Biomed Res</source>. <year>1991</year>;<volume>24</volume>:<fpage>429</fpage>&#x02013;<lpage>434</lpage>.<pub-id pub-id-type="pmid">1743004</pub-id></mixed-citation></ref><ref id="jah32954-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah32954-cit-0032">
+<string-name>
+<surname>Kaneko</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Caria</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Asanuma</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Information processing within the motor cortex. II. Intracortical connections between neurons receiving somatosensory cortical input and motor output neurons of the cortex</article-title>. <source>J Comp Neurol</source>. <year>1994</year>;<volume>345</volume>:<fpage>172</fpage>&#x02013;<lpage>184</lpage>.<pub-id pub-id-type="pmid">7929898</pub-id></mixed-citation></ref><ref id="jah32954-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah32954-cit-0033">
+<string-name>
+<surname>Kaneko</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Caria</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Asanuma</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Information processing within the motor cortex. I. Responses of morphologically identified motor cortical cells to stimulation of the somatosensory cortex</article-title>. <source>J Comp Neurol</source>. <year>1994</year>;<volume>345</volume>:<fpage>161</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">7929897</pub-id></mixed-citation></ref><ref id="jah32954-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah32954-cit-0034">
+<string-name>
+<surname>Bohannon</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Test&#x02010;retest reliability of hand&#x02010;held dynamometry during a single session of strength assessment</article-title>. <source>Phys Ther</source>. <year>1986</year>;<volume>66</volume>:<fpage>206</fpage>&#x02013;<lpage>209</lpage>.<pub-id pub-id-type="pmid">3945674</pub-id></mixed-citation></ref><ref id="jah32954-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah32954-cit-0035">
+<string-name>
+<surname>Bohannon</surname>
+<given-names>RW</given-names>
+</string-name>, <string-name>
+<surname>Andrews</surname>
+<given-names>AW</given-names>
+</string-name>. <article-title>Interrater reliability of hand&#x02010;held dynamometry</article-title>. <source>Phys Ther</source>. <year>1987</year>;<volume>67</volume>:<fpage>931</fpage>&#x02013;<lpage>933</lpage>.<pub-id pub-id-type="pmid">3588679</pub-id></mixed-citation></ref><ref id="jah32954-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jah32954-cit-0036">
+<string-name>
+<surname>Deones</surname>
+<given-names>VL</given-names>
+</string-name>, <string-name>
+<surname>Wiley</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Worrell</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Assessment of quadriceps muscle performance by a hand&#x02010;held dynamometer and an isokinetic dynamometer</article-title>. <source>J Orthop Sports Phys Ther</source>. <year>1994</year>;<volume>20</volume>:<fpage>296</fpage>&#x02013;<lpage>301</lpage>.<pub-id pub-id-type="pmid">7849749</pub-id></mixed-citation></ref><ref id="jah32954-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jah32954-cit-0037">
+<string-name>
+<surname>Hsu</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Tang</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Jan</surname>
+<given-names>MH</given-names>
+</string-name>. <article-title>Test&#x02010;retest reliability of isokinetic muscle strength of the lower extremities in patients with stroke</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2002</year>;<volume>83</volume>:<fpage>1130</fpage>&#x02013;<lpage>1137</lpage>.<pub-id pub-id-type="pmid">12161836</pub-id></mixed-citation></ref><ref id="jah32954-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jah32954-cit-0038">
+<string-name>
+<surname>Desrosiers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Rochette</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Corriveau</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Validation of a new lower&#x02010;extremity motor coordination test</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2005</year>;<volume>86</volume>:<fpage>993</fpage>&#x02013;<lpage>998</lpage>.<pub-id pub-id-type="pmid">15895347</pub-id></mixed-citation></ref><ref id="jah32954-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jah32954-cit-0039">
+<string-name>
+<surname>Hong</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Goh</surname>
+<given-names>EY</given-names>
+</string-name>, <string-name>
+<surname>Chua</surname>
+<given-names>SY</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>. <article-title>Reliability and validity of step test scores in subjects with chronic stroke</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2012</year>;<volume>93</volume>:<fpage>1065</fpage>&#x02013;<lpage>1071</lpage>.<pub-id pub-id-type="pmid">22475055</pub-id></mixed-citation></ref><ref id="jah32954-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jah32954-cit-0040">
+<string-name>
+<surname>Hiengkaew</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Jitaree</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Chaiyawat</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Minimal detectable changes of the Berg Balance Scale, Fugl&#x02010;Meyer Assessment Scale, Timed &#x0201c;Up &#x00026; Go&#x0201d; Test, gait speeds, and 2&#x02010;minute walk test in individuals with chronic stroke with different degrees of ankle plantarflexor tone</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2012</year>;<volume>93</volume>:<fpage>1201</fpage>&#x02013;<lpage>1208</lpage>.<pub-id pub-id-type="pmid">22502805</pub-id></mixed-citation></ref><ref id="jah32954-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jah32954-cit-0041">
+<string-name>
+<surname>Kwong</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>GY</given-names>
+</string-name>. <article-title>Effect of leg selection on the Berg Balance Scale scores of hemiparetic stroke survivors: a cross&#x02010;sectional study</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2016</year>;<volume>97</volume>:<fpage>545</fpage>&#x02013;<lpage>551</lpage>.<pub-id pub-id-type="pmid">26707457</pub-id></mixed-citation></ref><ref id="jah32954-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jah32954-cit-0042">
+<string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Hui&#x02010;Chan</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>The Timed Up &#x00026; Go test: its reliability and association with lower&#x02010;limb impairments and locomotor capacities in people with chronic stroke</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2005</year>;<volume>86</volume>:<fpage>1641</fpage>&#x02013;<lpage>1647</lpage>.<pub-id pub-id-type="pmid">16084820</pub-id></mixed-citation></ref><ref id="jah32954-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jah32954-cit-0043">
+<string-name>
+<surname>Gueorguieva</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Krystal</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Move over ANOVA: progress in analyzing repeated&#x02010;measures data and its reflection in papers published in the Archives of General Psychiatry</article-title>. <source>Arch Gen Psychiatry</source>. <year>2004</year>;<volume>61</volume>:<fpage>310</fpage>&#x02013;<lpage>317</lpage>.<pub-id pub-id-type="pmid">14993119</pub-id></mixed-citation></ref><ref id="jah32954-bib-0044"><label>44</label><mixed-citation publication-type="book" id="jah32954-cit-0044">
+<string-name>
+<surname>Hettmansperger</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>McKean</surname>
+<given-names>JW</given-names>
+</string-name>. <source>Robust Nonparametric Statistical Methods</source>. <publisher-loc>Boca Raton, FL</publisher-loc>: <publisher-name>CRC Press</publisher-name>; <year>2010</year>.</mixed-citation></ref><ref id="jah32954-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jah32954-cit-0045">
+<string-name>
+<surname>Molnar</surname>
+<given-names>FJ</given-names>
+</string-name>, <string-name>
+<surname>Hutton</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Fergusson</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Does analysis using &#x0201c;last observation carried forward&#x0201d; introduce bias in dementia research?</article-title>
+<source>Can Med Assoc J</source>. <year>2008</year>;<volume>179</volume>:<fpage>741</fpage>&#x02013;<lpage>753</lpage>.</mixed-citation></ref><ref id="jah32954-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="jah32954-cit-0046">
+<string-name>
+<surname>Fulk</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>He</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Boyne</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dunning</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Predicting home and community walking activity post&#x02010;stroke</article-title>. <source>Stroke</source>. <year>2017</year>;<volume>48</volume>:<fpage>406</fpage>&#x02013;<lpage>411</lpage>.<pub-id pub-id-type="pmid">28057807</pub-id></mixed-citation></ref><ref id="jah32954-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="jah32954-cit-0047">
+<string-name>
+<surname>Dragert</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Zehr</surname>
+<given-names>EP</given-names>
+</string-name>. <article-title>High&#x02010;intensity unilateral dorsiflexor resistance training results in bilateral neuromuscular plasticity after stroke</article-title>. <source>Exp Brain Res</source>. <year>2013</year>;<volume>225</volume>:<fpage>93</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">23196803</pub-id></mixed-citation></ref><ref id="jah32954-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="jah32954-cit-0048">
+<string-name>
+<surname>Wahl</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lauterbach&#x02010;Soon</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hattingen</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Jung</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Volz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Klein</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Steinmetz</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ziemann</surname>
+<given-names>U</given-names>
+</string-name>. <article-title>Human motor corpus callosum: topography, somatotopy, and link between microstructure and function</article-title>. <source>J Neurosci</source>. <year>2007</year>;<volume>27</volume>:<fpage>12132</fpage>&#x02013;<lpage>12138</lpage>.<pub-id pub-id-type="pmid">17989279</pub-id></mixed-citation></ref><ref id="jah32954-bib-0049"><label>49</label><mixed-citation publication-type="journal" id="jah32954-cit-0049">
+<string-name>
+<surname>Kaelin&#x02010;Lang</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Luft</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Sawaki</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Burstein</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Sohn</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>LG</given-names>
+</string-name>. <article-title>Modulation of human corticomotor excitability by somatosensory input</article-title>. <source>J Physiol</source>. <year>2002</year>;<volume>540</volume>:<fpage>623</fpage>&#x02013;<lpage>633</lpage>.<pub-id pub-id-type="pmid">11956348</pub-id></mixed-citation></ref><ref id="jah32954-bib-0050"><label>50</label><mixed-citation publication-type="journal" id="jah32954-cit-0050">
+<string-name>
+<surname>von Carlowitz&#x02010;Ghori</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bayraktaroglu</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Hohlefeld</surname>
+<given-names>FU</given-names>
+</string-name>, <string-name>
+<surname>Losch</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Curio</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Nikulin</surname>
+<given-names>VV</given-names>
+</string-name>. <article-title>Corticomuscular coherence in acute and chronic stroke</article-title>. <source>Clin Neurophysiol</source>. <year>2014</year>;<volume>125</volume>:<fpage>1182</fpage>&#x02013;<lpage>1191</lpage>.<pub-id pub-id-type="pmid">24315544</pub-id></mixed-citation></ref><ref id="jah32954-bib-0051"><label>51</label><mixed-citation publication-type="journal" id="jah32954-cit-0051">
+<string-name>
+<surname>Chan</surname>
+<given-names>BK</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Ng</surname>
+<given-names>GY</given-names>
+</string-name>. <article-title>A home&#x02010;based program of transcutaneous electrical nerve stimulation and task&#x02010;related trunk training improves trunk control in patients with stroke: a randomized controlled clinical trial</article-title>. <source>Neurorehabil Neural Repair</source>. <year>2015</year>;<volume>29</volume>:<fpage>70</fpage>&#x02013;<lpage>79</lpage>.<pub-id pub-id-type="pmid">24795163</pub-id></mixed-citation></ref><ref id="jah32954-bib-0052"><label>52</label><mixed-citation publication-type="journal" id="jah32954-cit-0052">
+<string-name>
+<surname>Jacobs</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Donoghue</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Reshaping the cortical motor map by unmasking latent intracortical connections</article-title>. <source>Science</source>. <year>1991</year>;<volume>251</volume>:<fpage>944</fpage>&#x02013;<lpage>947</lpage>.<pub-id pub-id-type="pmid">2000496</pub-id></mixed-citation></ref><ref id="jah32954-bib-0053"><label>53</label><mixed-citation publication-type="journal" id="jah32954-cit-0053">
+<string-name>
+<surname>Smyth</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Summers</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Garry</surname>
+<given-names>MI</given-names>
+</string-name>. <article-title>Differences in motor learning success are associated with differences in M1 excitability</article-title>. <source>Hum Mov Sci</source>. <year>2010</year>;<volume>29</volume>:<fpage>618</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">20356643</pub-id></mixed-citation></ref><ref id="jah32954-bib-0054"><label>54</label><mixed-citation publication-type="journal" id="jah32954-cit-0054">
+<string-name>
+<surname>Laddha</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ganesh</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Pattnaik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mohanty</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mishra</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Effect of transcutaneous electrical nerve stimulation on plantar flexor muscle spasticity and walking speed in stroke patients</article-title>. <source>Physiother Res Int</source>. <year>2016</year>;<volume>21</volume>:<fpage>247</fpage>&#x02013;<lpage>256</lpage>.<pub-id pub-id-type="pmid">26267851</pub-id></mixed-citation></ref><ref id="jah32954-bib-0055"><label>55</label><mixed-citation publication-type="journal" id="jah32954-cit-0055">
+<string-name>
+<surname>Koyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tanabe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Takeda</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sakurai</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kanada</surname>
+<given-names>Y</given-names>
+</string-name>. <article-title>Modulation of spinal inhibitory reflexes depends on the frequency of transcutaneous electrical nerve stimulation in spastic stroke survivors</article-title>. <source>Somatosens Mot Res</source>. <year>2016</year>;<volume>33</volume>:<fpage>8</fpage>&#x02013;<lpage>15</lpage>.<pub-id pub-id-type="pmid">26949041</pub-id></mixed-citation></ref><ref id="jah32954-bib-0056"><label>56</label><mixed-citation publication-type="journal" id="jah32954-cit-0056">
+<string-name>
+<surname>Ryan</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Ivey</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Prior</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hafer&#x02010;Macko</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Skeletal muscle hypertrophy and muscle myostatin reduction after resistive training in stroke survivors</article-title>. <source>Stroke</source>. <year>2011</year>;<volume>42</volume>:<fpage>416</fpage>&#x02013;<lpage>420</lpage>.<pub-id pub-id-type="pmid">21164115</pub-id></mixed-citation></ref><ref id="jah32954-bib-0057"><label>57</label><mixed-citation publication-type="journal" id="jah32954-cit-0057">
+<string-name>
+<surname>Luft</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Macko</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Forrester</surname>
+<given-names>LW</given-names>
+</string-name>, <string-name>
+<surname>Villagra</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ivey</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Sorkin</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Whitall</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>McCombe&#x02010;Waller</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Katzel</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Hanley</surname>
+<given-names>DF</given-names>
+</string-name>. <article-title>Treadmill exercise activates subcortical neural networks and improves walking after stroke: a randomized controlled trial</article-title>. <source>Stroke</source>. <year>2008</year>;<volume>39</volume>:<fpage>3341</fpage>&#x02013;<lpage>3350</lpage>.<pub-id pub-id-type="pmid">18757284</pub-id></mixed-citation></ref><ref id="jah32954-bib-0058"><label>58</label><mixed-citation publication-type="journal" id="jah32954-cit-0058">
+<string-name>
+<surname>Khaslavskaia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ladouceur</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sinkjaer</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Increase in tibialis anterior motor cortex excitability following repetitive electrical stimulation of the common peroneal nerve</article-title>. <source>Exp Brain Res</source>. <year>2002</year>;<volume>145</volume>:<fpage>309</fpage>&#x02013;<lpage>315</lpage>.<pub-id pub-id-type="pmid">12136380</pub-id></mixed-citation></ref><ref id="jah32954-bib-0059"><label>59</label><mixed-citation publication-type="journal" id="jah32954-cit-0059">
+<string-name>
+<surname>Khaslavskaia</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sinkjaer</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Motor cortex excitability following repetitive electrical stimulation of the common peroneal nerve depends on the voluntary drive</article-title>. <source>Exp Brain Res</source>. <year>2005</year>;<volume>162</volume>:<fpage>497</fpage>&#x02013;<lpage>502</lpage>.<pub-id pub-id-type="pmid">15702321</pub-id></mixed-citation></ref><ref id="jah32954-bib-0060"><label>60</label><mixed-citation publication-type="journal" id="jah32954-cit-0060">
+<string-name>
+<surname>Ng</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Hui&#x02010;Chan</surname>
+<given-names>CW</given-names>
+</string-name>. <article-title>Contribution of ankle dorsiflexor strength to walking endurance in people with spastic hemiplegia after stroke</article-title>. <source>Arch Phys Med Rehabil</source>. <year>2012</year>;<volume>93</volume>:<fpage>1046</fpage>&#x02013;<lpage>1051</lpage>.<pub-id pub-id-type="pmid">22440486</pub-id></mixed-citation></ref><ref id="jah32954-bib-0061"><label>61</label><mixed-citation publication-type="journal" id="jah32954-cit-0061">
+<string-name>
+<surname>Andrews</surname>
+<given-names>AW</given-names>
+</string-name>, <string-name>
+<surname>Bohannon</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Distribution of muscle strength impairments following stroke</article-title>. <source>Clin Rehabil</source>. <year>2000</year>;<volume>14</volume>:<fpage>79</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">10688348</pub-id></mixed-citation></ref><ref id="jah32954-bib-0062"><label>62</label><mixed-citation publication-type="journal" id="jah32954-cit-0062">
+<string-name>
+<surname>van Asseldonk</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Buurke</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Bloem</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Renzenbrink</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Nene</surname>
+<given-names>AV</given-names>
+</string-name>, <string-name>
+<surname>van der Helm</surname>
+<given-names>FC</given-names>
+</string-name>, <string-name>
+<surname>van der Kooij</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Disentangling the contribution of the paretic and non&#x02010;paretic ankle to balance control in stroke patients</article-title>. <source>Exp Neurol</source>. <year>2006</year>;<volume>201</volume>:<fpage>441</fpage>&#x02013;<lpage>451</lpage>.<pub-id pub-id-type="pmid">16814283</pub-id></mixed-citation></ref><ref id="jah32954-bib-0063"><label>63</label><mixed-citation publication-type="journal" id="jah32954-cit-0063">
+<string-name>
+<surname>Higginson</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Zajac</surname>
+<given-names>FE</given-names>
+</string-name>, <string-name>
+<surname>Neptune</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Kautz</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Delp</surname>
+<given-names>SL</given-names>
+</string-name>. <article-title>Muscle contributions to support during gait in an individual with post&#x02010;stroke hemiparesis</article-title>. <source>J Biomech</source>. <year>2006</year>;<volume>39</volume>:<fpage>1769</fpage>&#x02013;<lpage>1777</lpage>.<pub-id pub-id-type="pmid">16046223</pub-id></mixed-citation></ref><ref id="jah32954-bib-0064"><label>64</label><mixed-citation publication-type="journal" id="jah32954-cit-0064">
+<string-name>
+<surname>H&#x000e4;kkinen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Alen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Kallinen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Newton</surname>
+<given-names>RU</given-names>
+</string-name>, <string-name>
+<surname>Kraemer</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Neuromuscular adaptation during prolonged strength training, detraining and re&#x02010;strength&#x02010;training in middle&#x02010;aged and elderly people</article-title>. <source>Eur J Appl Physiol</source>. <year>2000</year>;<volume>83</volume>:<fpage>51</fpage>&#x02013;<lpage>62</lpage>.<pub-id pub-id-type="pmid">11072774</pub-id></mixed-citation></ref></ref-list></back></article>

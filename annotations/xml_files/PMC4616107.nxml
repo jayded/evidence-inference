@@ -1,0 +1,153 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Phys Ther Sci</journal-id><journal-id journal-id-type="iso-abbrev">J Phys Ther Sci</journal-id><journal-id journal-id-type="publisher-id">JPTS</journal-id><journal-title-group><journal-title>Journal of Physical Therapy Science</journal-title></journal-title-group><issn pub-type="ppub">0915-5287</issn><issn pub-type="epub">2187-5626</issn><publisher><publisher-name>The Society of Physical Therapy Science</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26504306</article-id><article-id pub-id-type="pmc">4616107</article-id><article-id pub-id-type="publisher-id">jpts-2015-362</article-id><article-id pub-id-type="doi">10.1589/jpts.27.2841</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Electrophysiological characteristics according to activity level of
+myofascial trigger points</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Yu</surname><given-names>Seong Hun</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>Kim</surname><given-names>Hyun Jin</given-names></name><degrees>PhD, PT</degrees><xref ref-type="aff" rid="aff2"><sup>2</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><aff id="aff1"><label>1)</label> Department of Physical Therapy, Woosuk University Oriental
+Hospital, Republic of Korea</aff><aff id="aff2"><label>2)</label> Department of Physical Therapy, Hanlyo University, Republic of Korea</aff></contrib-group><author-notes><corresp id="cor1"><label>*</label>Corresponding author. Hyun Jin Kim, Department of Physical Therapy, Hanlyo University: 94-13
+Hallyeodae-gil, Gwangyang-eup, Gwangyang-si, Jeollanam-do 545-704, Republic of Korea. (E-mail: <email xlink:href="gini51@naver.com">gini51@naver.com</email>)</corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>9</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>9</month><year>2015</year></pub-date><volume>27</volume><issue>9</issue><fpage>2841</fpage><lpage>2843</lpage><history><date date-type="received"><day>30</day><month>4</month><year>2015</year></date><date date-type="accepted"><day>09</day><month>6</month><year>2015</year></date></history><permissions><copyright-statement>2015&#x000a9;by the Society of Physical Therapy Science. Published by IPEC
+Inc.</copyright-statement><copyright-year>2015</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>[Purpose] This study compared the differences in electrophysiological characteristics of
+normal muscles versus muscles with latent or active myofascial trigger points, and
+identified the neuromuscular physiological characteristics of muscles with active
+myofascial trigger points, thereby providing a quantitative evaluation of myofascial pain
+syndrome and clinical foundational data for its diagnosis. [Subjects] Ninety adults in
+their 20s participated in this study. Subjects were equally divided into three groups: the
+active myofascial trigger point group, the latent myofascial trigger point group, and the
+control group. [Methods] Maximum voluntary isometric contraction (MVIC), endurance, median
+frequency (MDF), and muscle fatigue index were measured in all subjects. [Results] No
+significant differences in MVIC or endurance were revealed among the three groups.
+However, the active trigger point group had significantly different MDF and muscle fatigue
+index compared with the control group. [Conclusion] Given that muscles with active
+myofascial trigger points had an increased MDF and suffered muscle fatigue more easily,
+increased recruitment of motor unit action potential of type II fibers was evident.
+Therefore, electrophysiological analysis of these myofascial trigger points can be applied
+to evaluate the effect of physical therapy and provide a quantitative diagnosis of
+myofascial pain syndrome.</p></abstract><kwd-group><title>Key words</title><kwd>Electromyography</kwd><kwd>Electrophysiological characteristics</kwd><kwd>Myofascial trigger point</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>INTRODUCTION</title><p>Myofascial pain syndrome (MPS) can be caused by frequent muscle or fascial stiffness as a
+result of prolonged tension and muscle fatigue due to repetitive stress of muscles or
+overuse of particular muscles<xref rid="r1" ref-type="bibr">1</xref>, <xref rid="r2" ref-type="bibr">2</xref><sup>)</sup>. Most individuals experience MPS at least once in their
+lifetime. MPS activates trigger points in 54% of women and 45% of men, and is regarded as
+the most common cause of pain in the musculoskeletal system<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>. In particular, the upper trapezius requires head movement according
+to the direction of view, but it can be vulnerable to damage when the hands and arms are
+used repetitively in work that requires precise control<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref>,<xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Once myofascial trigger points are activated, changes in the
+structural characteristics and contraction function of the muscle will occur. The most
+distinctive changes are taut bands, tender nodules, referred pain, local twitch response,
+muscle weakness, and restricted range of motion<xref rid="r3" ref-type="bibr">3</xref><sup>)</sup>.</p><p>To evaluate the contraction function of skeletal muscle, various methods can be used. Among
+them, surface electromyography (EMG) analyzes functional changes in muscle by measuring
+quantitative changes in motor unit action potential that is activated by muscle
+contraction<xref rid="r7" ref-type="bibr">7</xref>, <xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. Surface EMG is widely used in kinetic analysis to diagnose normal
+or abnormal function in muscles and nerves according to amplitude and frequency<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. It has several advantages, as it is
+noninvasive and convenient, and can perform measurement even during dynamic motion<xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>.</p><p>Although a number of clinical reports on the pathologic mechanisms or clinical diagnosis
+and treatment of MPS can be found, few studies have been conducted on the changes in
+contraction function in myofascial trigger point areas or on the electrophysiological
+characteristics and neuromuscular physiological information. This study aimed to compare the
+electrophysiological characteristics of normal muscles versus muscles with latent or active
+myofascial trigger points, and to identify their neuromuscular physiological
+characteristics, in order to provide a quantitative evaluation of MPS and clinical
+foundational data for its diagnosis.</p></sec><sec sec-type="methods" id="s2"><title>SUBJECTS AND METHODS</title><p>Ninety adults in their 20s participated in this study. This study was approved by the
+research agency, and all participants provided written informed consent. Subjects were
+selected among those with no known neurologic disease, no regular exercise habit, and no
+drug use that could affect the experimental result. Subjects were equally divided into three
+groups. Subjects in the active myofascial trigger point group were those diagnosed with MPS
+by a physician and whose clinical characteristics were pain in the upper trapezius during
+rest, taut bands, tender nodules, referred pain, local twitch response, and muscle weakness.
+Subjects in the latent myofascial trigger point group were those not diagnosed with MPS but
+who felt tenderness when the upper trapezius was stimulated. Subjects in the control group
+had no voluntary pain or tenderness. Mean age, height, and weight, respectively, were 23.27
+&#x000b1; 4.21&#x02005;years, 172.32 &#x000b1; 8.44&#x02005;cm, and 64.14 &#x000b1; 6.54&#x02005;kg in the active trigger point group; 23.74
+&#x000b1; 6.47&#x02005;years, 174.76 &#x000b1; 6.22&#x02005;cm, and 66.74 &#x000b1; 5.74&#x02005;kg in the latent trigger point group; and
+24.17 &#x000b1; 3.14&#x02005;years, 171.21 &#x000b1; 9.64&#x02005;cm, and 63.44 &#x000b1; 7.51&#x02005;kg in the control group.</p><p>To measure maximum voluntary isometric contraction (MVIC), the shoulders and heads of the
+subjects were firmly fixed and pulled as the dynamometer as maximum power, thereby measuring
+MVIC against the upper trapezius. Endurance time was measured from the start of MVIC to a
+50% reduction in contraction force. Median frequency (MDF) was measured by using EMG at the
+muscle belly of the upper trapezius during MVIC. Muscle fatigue index was calculated by
+obtaining the MDF at a section where the MVIC force was reduced from 100% to 50%, and remove
+the 50% MDF from 100% MDF was divided into 100% MDF. The sampling rate for the surface EMG
+signal was set at 1,000&#x02005;Hz, and the frequency band filter was set at 20 to 450&#x02005;Hz, using one
+channel. Storage and analysis of the EMG signals was performed using Acqknowledge 3.8.1
+(Biopac Systems, Goleta, CA, USA). The average of three measurements was calculated and used
+in the analyses; 10 minutes of rest was given between measurements to prevent muscle
+fatigue.</p><p>Statistical analyses were performed using SPSS version 18.0 for Windows (SPSS, Inc.
+Chicago, IL, USA). One-way analysis of variance was conducted to examine differences among
+groups with respect to the measured items, while the Tukey test was conducted for post hoc
+analysis. The statistical significance level of &#x003b1; was set at 0.05.</p></sec><sec sec-type="results" id="s3"><title>RESULTS</title><p>There were no significant differences in MVIC or endurance time among the three groups.
+However, MDF was significantly different among all three groups (p &#x0003c; 0.05) (<xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Comparison of MVIC, ET, MDF, and FI among the three groups</title></caption><table frame="hsides" rules="groups"><thead><tr><th valign="top" align="left" rowspan="1" colspan="1"/><th valign="top" align="center" rowspan="1" colspan="1">Group A (n = 30)</th><th valign="top" align="center" rowspan="1" colspan="1">Group B (n = 30)</th><th valign="top" align="center" rowspan="1" colspan="1">Group C (n = 30)</th><th valign="top" align="center" rowspan="1" colspan="1">Post hoc</th></tr></thead><tbody><tr><td align="left" valign="top" rowspan="1" colspan="1">MVIC,&#x02005;kg</td><td align="center" valign="top" rowspan="1" colspan="1">19.8&#x000b1;11.5*</td><td align="center" valign="top" rowspan="1" colspan="1">22.1&#x000b1;9.4</td><td align="center" valign="top" rowspan="1" colspan="1">23.5&#x000b1;10.2</td><td align="center" valign="top" rowspan="1" colspan="1">/</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ET, s</td><td align="center" valign="top" rowspan="1" colspan="1">48.5&#x000b1;9.7</td><td align="center" valign="top" rowspan="1" colspan="1">49.5&#x000b1;10.2</td><td align="center" valign="top" rowspan="1" colspan="1">51.2&#x000b1;8.8</td><td align="center" valign="top" rowspan="1" colspan="1">/</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MDF,&#x02005;Hz</td><td align="center" valign="top" rowspan="1" colspan="1">102.5&#x000b1;21.4</td><td align="center" valign="top" rowspan="1" colspan="1">88.5&#x000b1;23.1</td><td align="center" valign="top" rowspan="1" colspan="1">84.5&#x000b1;17.4<sup>&#x02020;</sup></td><td align="center" valign="top" rowspan="1" colspan="1">a&#x0003c;c</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MFI</td><td align="center" valign="top" rowspan="1" colspan="1">0.15&#x000b1;0.07</td><td align="center" valign="top" rowspan="1" colspan="1">0.08&#x000b1;0.04</td><td align="center" valign="top" rowspan="1" colspan="1">0.06&#x000b1;0.04<sup>&#x02020;</sup></td><td align="center" valign="top" rowspan="1" colspan="1">a&#x0003c;c</td></tr></tbody></table><table-wrap-foot><p>Data are presented as mean &#x000b1; SD. *Significant difference among the three groups (p
+&#x0003c; 0.05). Group A: active myofascial trigger points; Group B: latent myofascial
+trigger points; Group C: control. ET: endurance time; MDF: median frequency; MFI:
+muscle fatigue index; MVIC: maximal voluntary isometric contraction</p></table-wrap-foot></table-wrap>). Tukey post hoc results showed that the active myofascial
+trigger point group was significantly different from the control group. Muscle fatigue index
+also was significantly different among all three groups (p &#x0003c; 0.05) (<xref rid="tbl_001" ref-type="table">Table 1</xref>). Tukey post hoc results showed
+that the active myofascial trigger point group was significantly different from the control
+group.</p></sec><sec sec-type="discussion" id="s4"><title>DISCUSSION</title><p>This study aimed to measure MVIC, endurance, MDF, and muscle fatigue index of normal
+muscles versus muscles with latent or active myofascial trigger points, thereby identifying
+the neuromuscular physiological characteristics of muscles with active myofascial trigger
+points and providing clinical foundational data that are applicable for the quantitative
+evaluation and diagnosis of MPS.</p><p>Surface EMG, which was used to evaluate the functionality of trigger points in this study,
+is nonintrusive and convenient; thus, it is widely used in studies on the functional
+characteristics of muscle, by analyzing the electrical activity of muscle. The results of
+MDF according to surface EMG show changes in recruitment of fast-twitch muscle fibers and
+conduction velocity of motor unit action potential<xref rid="r12" ref-type="bibr">12</xref><sup>)</sup>. In addition, increases in MDF reflect recruitment of type II
+fibers, and muscle fatigue index can be analyzed according to the relationship between type
+II fibers and MDF<xref rid="r13" ref-type="bibr">13</xref>, <xref rid="r14" ref-type="bibr">14</xref><sup>)</sup>. In the present experiment, MDF was significantly higher in the
+active trigger point muscles than in normal muscles. The above results indicate that as
+trigger points were activated, recruitment of motor unit action potential of type II fibers
+also increased. In addition, muscle fatigue index also increased due to the increased
+distribution of type II fibers. However, MVIC was lower in active trigger point muscles than
+in normal muscles. Although a high correlation between muscle strength and MDF has been
+reported<xref rid="r15" ref-type="bibr">15</xref>, <xref rid="r16" ref-type="bibr">16</xref><sup>)</sup>, the same correlation was not found in this study. This result was
+due to increased recruitment of motor unit action potential of type II fibers in active
+trigger point muscles, which more easily induced muscle fatigue as a physiological
+phenomenon, thereby reducing muscle strength. In other words, the greater the fatigue, the
+weaker the muscle strength<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>; endurance
+also was decreased due to muscle weakening.</p><p>Therefore, this study&#x02019;s results will be effective in complementing the physical therapy
+diagnosis of MPS&#x02014;which, until now, has focused on physical examination only&#x02014;by understanding
+not only the usefulness of electrophysiological analysis in MPS diagnosis, but also the
+neuromuscular physiological characteristics of active trigger point muscles.</p></sec></body><back><ref-list><title>REFERENCES</title><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><person-group><name><surname>Bae</surname><given-names>Y</given-names></name></person-group>: <article-title>Change the myofascial pain and range of motion of the
+temporomandibular joint following kinesio taping of latent myofascial trigger points in
+the sternocleidomastoid muscle</article-title>. <source>J Phys Ther Sci</source>,
+<year>2014</year>, <volume>26</volume>: <fpage>1321</fpage>&#x02013;<lpage>1324</lpage>.
+<pub-id pub-id-type="pmid">25276008</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>JH</given-names></name><name><surname>Jang</surname><given-names>SH</given-names></name><name><surname>Cho</surname><given-names>SH</given-names></name><etal>et al.</etal></person-group>: <article-title>Comparison of extracorporeal shock wave therapy and
+trigger point injection in terms of their effects on pain and bodily functions of
+myofascial pain syndrome patients</article-title>. <source>J Phys Ther Sci</source>,
+<year>2012</year>, <volume>24</volume>: <fpage>1069</fpage>&#x02013;<lpage>1072</lpage>.
+</mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Fricton</surname><given-names>JR</given-names></name></person-group>: <article-title>Myofascial pain of the head and neck: diagnosis and
+management</article-title>. <source>J Back Musculoskeletal Rehabil</source>,
+<year>1996</year>, <volume>6</volume>: <fpage>177</fpage>&#x02013;<lpage>194</lpage>.
+</mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Ohlsson</surname><given-names>K</given-names></name><name><surname>Attewell</surname><given-names>RG</given-names></name><name><surname>P&#x000e5;lsson</surname><given-names>B</given-names></name><etal>et al.</etal></person-group>: <article-title>Repetitive industrial work and neck and upper limb
+disorders in females</article-title>. <source>Am J Ind Med</source>, <year>1995</year>,
+<volume>27</volume>: <fpage>731</fpage>&#x02013;<lpage>747</lpage>. <pub-id pub-id-type="pmid">7611308</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Haslegrave</surname><given-names>CM</given-names></name></person-group>: <article-title>What do we mean by a &#x02018;working
+posture&#x02019;?</article-title><source>Ergonomics</source>, <year>1994</year>,
+<volume>37</volume>: <fpage>781</fpage>&#x02013;<lpage>799</lpage>. <pub-id pub-id-type="pmid">8187755</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Lee</surname><given-names>JH</given-names></name><name><surname>Han</surname><given-names>JT</given-names></name></person-group>: <article-title>The dose-dependent effect of an 830-nm, 450-mW low-level
+laser therapy on the myofascial trigger point of the upper trapezius muscle: a
+randomized, double-blinded, clinical trial</article-title>. <source>J Phys Ther
+Sci</source>, <year>2011</year>, <volume>23</volume>:
+<fpage>933</fpage>&#x02013;<lpage>935</lpage>. </mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Shah</surname><given-names>JP</given-names></name><name><surname>Gilliams</surname><given-names>EA</given-names></name></person-group>: <article-title>Uncovering the biochemical milieu of myofascial trigger
+points using in vivo microdialysis: an application of muscle pain concepts to myofascial
+pain syndrome</article-title>. <source>J Bodyw Mov Ther</source>, <year>2008</year>,
+<volume>12</volume>: <fpage>371</fpage>&#x02013;<lpage>384</lpage>. <pub-id pub-id-type="pmid">19083696</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Arampatzis</surname><given-names>A</given-names></name><name><surname>Karamanidis</surname><given-names>K</given-names></name><name><surname>Stafilidis</surname><given-names>S</given-names></name><etal>et al.</etal></person-group>: <article-title>Effect of different ankle- and knee-joint positions on
+gastrocnemius medialis fascicle length and EMG activity during isometric plantar
+flexion</article-title>. <source>J Biomech</source>, <year>2006</year>,
+<volume>39</volume>: <fpage>1891</fpage>&#x02013;<lpage>1902</lpage>. <pub-id pub-id-type="pmid">15993886</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Ma&#x000ef;setti</surname><given-names>O</given-names></name><name><surname>Gu&#x000e9;vel</surname><given-names>A</given-names></name><name><surname>Legros</surname><given-names>P</given-names></name><etal>et al.</etal></person-group>: <article-title>SEMG power spectrum changes during a sustained 50% Maximum
+Voluntary Isometric Torque do not depend upon the prior knowledge of the exercise
+duration</article-title>. <source>J Electromyogr Kinesiol</source>, <year>2002</year>,
+<volume>12</volume>: <fpage>103</fpage>&#x02013;<lpage>109</lpage>. <pub-id pub-id-type="pmid">11955982</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>Gazzoni</surname><given-names>M</given-names></name><name><surname>Farina</surname><given-names>D</given-names></name><name><surname>Merletti</surname><given-names>R</given-names></name></person-group>: <article-title>A new method for the extraction and classification of
+single motor unit action potentials from surface EMG signals</article-title>. <source>J
+Neurosci Methods</source>, <year>2004</year>, <volume>136</volume>:
+<fpage>165</fpage>&#x02013;<lpage>177</lpage>. <pub-id pub-id-type="pmid">15183268</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Schillings</surname><given-names>ML</given-names></name><name><surname>Kalkman</surname><given-names>JS</given-names></name><name><surname>van der Werf</surname><given-names>SP</given-names></name><etal>et al.</etal></person-group>: <article-title>Diminished central activation during maximal voluntary
+contraction in chronic fatigue syndrome</article-title>. <source>Clin
+Neurophysiol</source>, <year>2004</year>, <volume>115</volume>:
+<fpage>2518</fpage>&#x02013;<lpage>2524</lpage>. <pub-id pub-id-type="pmid">15465441</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Pincivero</surname><given-names>DM</given-names></name><name><surname>Campy</surname><given-names>RM</given-names></name><name><surname>Salfetnikov</surname><given-names>Y</given-names></name><etal>et al.</etal></person-group>: <article-title>Influence of contraction intensity, muscle, and gender on
+median frequency of the quadriceps femoris</article-title>. <source>J Appl Physiol,
+1985</source>, <year>2001</year>, <volume>90</volume>:
+<fpage>804</fpage>&#x02013;<lpage>810</lpage>. <pub-id pub-id-type="pmid">11181586</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>V&#x000f8;llestad</surname><given-names>NK</given-names></name></person-group>: <article-title>Measurement of human muscle fatigue</article-title>.
+<source>J Neurosci Methods</source>, <year>1997</year>, <volume>74</volume>:
+<fpage>219</fpage>&#x02013;<lpage>227</lpage>. <pub-id pub-id-type="pmid">9219890</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Masuda</surname><given-names>T</given-names></name><name><surname>De Luca</surname><given-names>CJ</given-names></name></person-group>: <article-title>Recruitment threshold and muscle fiber conduction velocity
+of single motor units</article-title>. <source>J Electromyogr Kinesiol</source>,
+<year>1991</year>, <volume>1</volume>: <fpage>116</fpage>&#x02013;<lpage>123</lpage>.
+<pub-id pub-id-type="pmid">20870501</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Gerdle</surname><given-names>B</given-names></name><name><surname>Larsson</surname><given-names>B</given-names></name><name><surname>Karlsson</surname><given-names>S</given-names></name></person-group>: <article-title>Criterion validation of surface EMG variables as fatigue
+indicators using peak torque: a study of repetitive maximum isokinetic knee
+extensions</article-title>. <source>J Electromyogr Kinesiol</source>, <year>2000</year>,
+<volume>10</volume>: <fpage>225</fpage>&#x02013;<lpage>232</lpage>. <pub-id pub-id-type="pmid">10969195</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Solomonow</surname><given-names>M</given-names></name><name><surname>Baten</surname><given-names>C</given-names></name><name><surname>Smit</surname><given-names>J</given-names></name><etal>et al.</etal></person-group>: <article-title>Electromyogram power spectra frequencies associated with
+motor unit recruitment strategies</article-title>. <source>J Appl Physiol 1985</source>,
+<year>1990</year>, <volume>68</volume>: <fpage>1177</fpage>&#x02013;<lpage>1185</lpage>.
+<pub-id pub-id-type="pmid">2341343</pub-id></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Mannion</surname><given-names>AF</given-names></name><name><surname>Dolan</surname><given-names>P</given-names></name></person-group>: <article-title>Relationship between myoelectric and mechanical
+manifestations of fatigue in the quadriceps femoris muscle group</article-title>.
+<source>Eur J Appl Physiol Occup Physiol</source>, <year>1996</year>,
+<volume>74</volume>: <fpage>411</fpage>&#x02013;<lpage>419</lpage>. <pub-id pub-id-type="pmid">8954288</pub-id></mixed-citation></ref></ref-list></back></article>

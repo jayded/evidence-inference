@@ -1,0 +1,625 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Diabetes Obes Metab</journal-id><journal-id journal-id-type="iso-abbrev">Diabetes Obes Metab</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1463-1326</journal-id><journal-id journal-id-type="publisher-id">DOM</journal-id><journal-title-group><journal-title>Diabetes, Obesity &#x00026; Metabolism</journal-title></journal-title-group><issn pub-type="ppub">1462-8902</issn><issn pub-type="epub">1463-1326</issn><publisher><publisher-name>Blackwell Publishing Ltd</publisher-name><publisher-loc>Oxford, UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26700109</article-id><article-id pub-id-type="pmc">4950066</article-id><article-id pub-id-type="doi">10.1111/dom.12625</article-id><article-id pub-id-type="publisher-id">DOM12625</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject></subj-group></article-categories><title-group><article-title>Effects of vitamin <styled-content style="fixed-case">D<sub>2</sub></styled-content> or <styled-content style="fixed-case">D<sub>3</sub></styled-content> supplementation on glycaemic control and cardiometabolic risk among people at risk of type 2 diabetes: results of a randomized double&#x02010;blind placebo&#x02010;controlled trial</article-title><alt-title alt-title-type="left-running-head">Forouhi et al.</alt-title></title-group><contrib-group><contrib id="dom12625-cr-0001" contrib-type="author" corresp="yes"><name><surname>Forouhi</surname><given-names>N. G.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="dom12625-cr-0002" contrib-type="author"><name><surname>Menon</surname><given-names>R. K.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="dom12625-cr-0003" contrib-type="author"><name><surname>Sharp</surname><given-names>S. J.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="dom12625-cr-0004" contrib-type="author"><name><surname>Mannan</surname><given-names>N.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="dom12625-cr-0005" contrib-type="author"><name><surname>Timms</surname><given-names>P. M.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="dom12625-cr-0006" contrib-type="author"><name><surname>Martineau</surname><given-names>A. R.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="dom12625-cr-0007" contrib-type="author"><name><surname>Rickard</surname><given-names>A. P.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="dom12625-cr-0008" contrib-type="author"><name><surname>Boucher</surname><given-names>B. J.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="dom12625-cr-0009" contrib-type="author"><name><surname>Chowdhury</surname><given-names>T. A.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="dom12625-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="dom12625-cr-0010" contrib-type="author"><name><surname>Griffiths</surname><given-names>C. J.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="dom12625-cr-0011" contrib-type="author"><name><surname>Greenwald</surname><given-names>S. E.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="dom12625-cr-0012" contrib-type="author"><name><surname>Griffin</surname><given-names>S. J.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="dom12625-cr-0013" contrib-type="author"><name><surname>Hitman</surname><given-names>G. A.</given-names></name><xref ref-type="aff" rid="dom12625-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="dom12625-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Medical Research Council Epidemiology Unit</named-content><institution>University of Cambridge School of Clinical Medicine</institution><named-content content-type="city">Cambridge</named-content><country country="GB">UK</country></aff><aff id="dom12625-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Blizard Institute</named-content><institution>Queen Mary University of London</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="dom12625-aff-0003"><label><sup>3</sup></label><institution>Homerton University Hospital NHS Foundation Trust</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><aff id="dom12625-aff-0004"><label><sup>4</sup></label><institution>Barts Healthcare NHS Trust</institution><named-content content-type="city">London</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence to</italic>: Dr Nita G. Forouhi, MRC Epidemiology Unit, University of Cambridge School of Clinical Medicine, Cambridge, CB2 0QQ, UK.<break/>
+E&#x02010;mail: <email>nita.forouhi@mrc-epid.cam.ac.uk</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>04</day><month>2</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>4</month><year>2016</year></pub-date><volume>18</volume><issue>4</issue><issue-id pub-id-type="doi">10.1111/dom.2016.18.issue-4</issue-id><fpage>392</fpage><lpage>400</lpage><history><date date-type="received"><day>10</day><month>11</month><year>2015</year></date><date date-type="rev-recd"><day>30</day><month>11</month><year>2015</year></date><date date-type="accepted"><day>17</day><month>12</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. Diabetes, Obesity and Metabolism published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:DOM-18-392.pdf"/><abstract><sec id="dom12625-sec-0001"><title>Aims</title><p>To investigate the effect of short&#x02010;term vitamin D supplementation on cardiometabolic outcomes among individuals with an elevated risk of diabetes.</p></sec><sec id="dom12625-sec-0002"><title>Methods</title><p>In a double&#x02010;blind placebo&#x02010;controlled randomized trial, 340 adults who had an elevated risk of type 2 diabetes (non&#x02010;diabetic hyperglycaemia or positive diabetes risk score) were randomized to either placebo, 100 000 <styled-content style="fixed-case">IU</styled-content> vitamin <styled-content style="fixed-case">D<sub>2</sub></styled-content> (ergocalciferol) or 100 000 <styled-content style="fixed-case">IU</styled-content> vitamin <styled-content style="fixed-case">D<sub>3</sub></styled-content> (cholecalciferol), orally administered monthly for 4 months. The primary outcome was change in glycated haemoglobin (<styled-content style="fixed-case">HbA1c</styled-content>) between baseline and 4 months, adjusted for baseline. Secondary outcomes included: blood pressure; lipid levels; apolipoprotein levels; C&#x02010;reactive protein levels; pulse wave velocity (<styled-content style="fixed-case">PWV</styled-content>); anthropometric measures; and safety of the supplementation.</p></sec><sec id="dom12625-sec-0003"><title>Results</title><p>The mean [standard deviation (s.d.)] 25&#x02010;hydroxyvitamin D [25(<styled-content style="fixed-case">OH</styled-content>)D]<sub>2</sub> concentration increased from 5.2 (4.1) to 53.9 (18.5) nmol/l in the <styled-content style="fixed-case">D<sub>2</sub></styled-content> group, and the mean (s.d.) 25(<styled-content style="fixed-case">OH</styled-content>)<styled-content style="fixed-case">D<sub>3</sub></styled-content> concentration increased from 45.8 (22.6) to 83.8 (22.7) nmol/l in the <styled-content style="fixed-case">D<sub>3</sub></styled-content> group. There was no effect of vitamin D supplementation on <styled-content style="fixed-case">HbA1c</styled-content>: <styled-content style="fixed-case">D<sub>2</sub></styled-content> versus placebo: &#x02212;0.05% [95% confidence interval (<styled-content style="fixed-case">CI</styled-content>) &#x02212;0.11, 0.02] or &#x02212;0.51 mmol/mol (95% <styled-content style="fixed-case">CI</styled-content> &#x02212;1.16, 0.14; p = 0.13); <styled-content style="fixed-case">D<sub>3</sub></styled-content> versus placebo: 0.02% (95% <styled-content style="fixed-case">CI</styled-content> &#x02212;0.04, 0.08) or 0.19 mmol/mol (95% <styled-content style="fixed-case">CI</styled-content> &#x02212;0.46, 0.83; p = 0.57). There were no clinically meaningful effects on secondary outcomes, except <styled-content style="fixed-case">PWV</styled-content> [<styled-content style="fixed-case">D<sub>2</sub></styled-content> versus placebo: &#x02212;0.68 m/s (95% <styled-content style="fixed-case">CI</styled-content> &#x02212;1.31, &#x02212;0.05); <styled-content style="fixed-case">D<sub>3</sub></styled-content> versus placebo &#x02212;0.73 m/s (95% <styled-content style="fixed-case">CI</styled-content> &#x02212;1.42, &#x02212;0.03)]. No important safety issues were identified.</p></sec><sec id="dom12625-sec-0004"><title>Conclusions</title><p>Short&#x02010;term supplementation with vitamin <styled-content style="fixed-case">D<sub>2</sub></styled-content> or <styled-content style="fixed-case">D<sub>3</sub></styled-content> had no effect on <styled-content style="fixed-case">HbA1c</styled-content>. The modest reduction in <styled-content style="fixed-case">PWV</styled-content> with both <styled-content style="fixed-case">D<sub>2</sub></styled-content> and <styled-content style="fixed-case">D<sub>3</sub></styled-content> relative to placebo suggests that vitamin D supplementation has a beneficial effect on arterial stiffness.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="dom12625-kwd-0001">intervention</kwd><kwd id="dom12625-kwd-0002">placebo</kwd><kwd id="dom12625-kwd-0003">pulse wave velocity</kwd><kwd id="dom12625-kwd-0004">randomized</kwd><kwd id="dom12625-kwd-0005">trial</kwd><kwd id="dom12625-kwd-0006">type 2 diabetes</kwd><kwd id="dom12625-kwd-0007">vitamin <styled-content style="fixed-case">D<sub>2</sub></styled-content></kwd><kwd id="dom12625-kwd-0008">vitamin <styled-content style="fixed-case">D<sub>3</sub></styled-content></kwd></kwd-group><funding-group><award-group><funding-source>Queen Mary University of London</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Medical Research Council Epidemiology Unit</funding-source></award-group></funding-group><funding-group><award-group><funding-source>NHS Tower Hamlets Primary Care NHS Trust</funding-source></award-group></funding-group><funding-group><award-group><funding-source>East London CLRN</funding-source></award-group></funding-group><counts><page-count count="9"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>dom12625</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>April 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.2 mode:remove_FC converted:19.07.2016</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec id="dom12625-sec-0005"><title>Introduction</title><p>There is epidemiological evidence for an inverse association between circulating 25&#x02010;hydroxyvitamin D [25(OH)D] concentration, an indicator of vitamin D status, and risk of type 2 diabetes; however, overall evidence from clinical trials does not support a causal association for diabetes incidence <xref rid="dom12625-bib-0001" ref-type="ref">1</xref> or intermediate metabolic markers <xref rid="dom12625-bib-0002" ref-type="ref">2</xref>, <xref rid="dom12625-bib-0003" ref-type="ref">3</xref>, although some clinical trials have reported mixed findings <xref rid="dom12625-bib-0004" ref-type="ref">4</xref>, <xref rid="dom12625-bib-0005" ref-type="ref">5</xref>. Evidence for an inverse association between circulating 25(OH)D concentrations and cardiovascular outcomes has also been accumulating <xref rid="dom12625-bib-0006" ref-type="ref">6</xref>, but trial evidence does not clearly support a causal effect for incident events or intermediate markers such as blood pressure, lipid levels, inflammation and arterial stiffness <xref rid="dom12625-bib-0006" ref-type="ref">6</xref>, <xref rid="dom12625-bib-0007" ref-type="ref">7</xref>, <xref rid="dom12625-bib-0008" ref-type="ref">8</xref>, <xref rid="dom12625-bib-0009" ref-type="ref">9</xref>, <xref rid="dom12625-bib-0010" ref-type="ref">10</xref>, <xref rid="dom12625-bib-0011" ref-type="ref">11</xref>, <xref rid="dom12625-bib-0012" ref-type="ref">12</xref>.</p><p>Taken together, the current evidence remains inconclusive, yet there is continued interest in the potential role of vitamin D in cardiometabolic risk protection. Concurrently, while many would consider vitamin D<sub>3</sub> (cholecalciferol) more effective than vitamin D<sub>2</sub> (ergocalciferol) in maintaining circulating concentrations of 25(OH)D <xref rid="dom12625-bib-0013" ref-type="ref">13</xref>, <xref rid="dom12625-bib-0014" ref-type="ref">14</xref>, there is a separate debate regarding bioavailability, with a higher proportion of &#x02018;free&#x02019; (i.e. unbound) or bioavailable 25(OH)D<sub>2</sub> than free/bioavailable 25(OH)D<sub>3</sub> in response to an equivalent oral dose.</p><p>We conducted a trial to determine whether short&#x02010;term oral supplementation given monthly with vitamin D<sub>2</sub> or vitamin D<sub>3</sub> can lead to a reduction in glycaemia and an improvement in cardiometabolic factors in people at risk of developing type 2 diabetes. We also examined the feasibility and safety of relatively high dose vitamin D supplementation among individuals we drew from the general population without prior knowledge of their circulating 25(OH)D concentrations.</p></sec><sec id="dom12625-sec-0006"><title>Methods</title><sec id="dom12625-sec-0007"><title>Trial Design and Participants</title><p>We designed a double&#x02010;blind, placebo&#x02010;controlled randomized clinical trial in people at risk of developing type 2 diabetes, across two sites: East London and Cambridge, UK <xref rid="dom12625-bib-0015" ref-type="ref">15</xref>. We randomly allocated 340 participants to one of three groups who received a monthly oral dose for 4 months of 100 000 IU (equivalent to 2.5 mg) of either ergocalciferol (vitamin D<sub>2</sub>) or cholecalciferol (vitamin D<sub>3</sub>) or a monthly oral dose of placebo. Each participant was followed up for a total of 4 months from their first visit. The first three doses were given at the clinic visit, while the final dose was taken at home after contact by the study team, and their investigational medicinal products (IMPs) consumption status was recorded (complete, partial or failed). The two IMPs included ergocalciferol (Sterogyl, containing 20 000 IU vitamin D<sub>2</sub> per ml in ethanol) or cholecalciferol (Vigantol oil, containing 20 000 IU vitamin D<sub>3</sub> per ml in Miglyol<sup>&#x000ae;</sup> vehicle oil), representing a daily dose equivalent of &#x0223c;3300 IU. The placebo was Miglyol oil with esters of coconut and palm&#x02010;derived oils.</p><p>Details of the exclusion and inclusion criteria have been described previously <xref rid="dom12625-bib-0015" ref-type="ref">15</xref>. Men and women aged 30&#x02013;75 years registered with a general practitioner (London) or already part of an ongoing observational study that was drawn from lists of general practitioners (Cambridge), from any ethnic group were eligible if they had an elevated risk of developing type 2 diabetes, with either: (i) the presence of non&#x02010;diabetic hyperglycaemia defined by either impaired glucose tolerance or impaired fasting glucose (World Health Organization criteria), or glycated haemoglobin (HbA1c) levels of 5.5&#x02013;6.49% (37&#x02013;47 mmol/mol) or (ii) the presence of Cambridge Risk Score thresholds that indicate elevated risk of diabetes <xref rid="dom12625-bib-0016" ref-type="ref">16</xref>. Ethical approval for the trial was provided by the relevant ethics committees and written informed consent was obtained from all participants.</p><p>The trial was registered under the numbers: EudraCT 2009&#x02010;011264&#x02010;11; ISRCTN86515510.</p></sec><sec id="dom12625-sec-0008"><title>Trial Outcomes</title><p>The primary efficacy outcome of the trial was a change in the HbA1c concentration. There were multiple secondary cardiometabolic outcomes, including systolic and diastolic blood pressure, random cholesterol, HDL cholesterol, apolipoprotein (Apo)A1 and ApoB, cardiovascular disease (CVD) risk score, as assessed by the UK Prospective Diabetes Study (UKPDS) risk engine (version 2) <xref rid="dom12625-bib-0017" ref-type="ref">17</xref> and additionally in London only, a measurement of arterial stiffness assessed by pulse wave velocity (PWV). Further secondary outcomes (both sites) included anthropometry and serum concentrations of high&#x02010;sensitivity C&#x02010;reactive protein (hsCRP), fructosamine and parathyroid hormone (PTH). Other outcomes included the safety of oral vitamin D without a pre&#x02010;assessment of vitamin D status and the feasibility and safety of the intervention <xref rid="dom12625-bib-0015" ref-type="ref">15</xref>. For safety, for all recruited participants at each trial visit, we recorded point&#x02010;of&#x02010;care ionized calcium, laboratory serum&#x02010;corrected calcium and laboratory urinary calcium to creatinine ratio. Trial participants who had an elevated point&#x02010;of&#x02010;care ionized calcium level (&#x0003e;1.3 mmol/l), an elevated urine calcium:creatinine ratio (molar ratio &#x0003e;1) or an elevated serum corrected calcium level (&#x0003e;2.65 mmol/l) were excluded from further doses of the IMP, but continued to be followed up. Provision was made for the recording of adverse events or reactions.</p></sec><sec id="dom12625-sec-0009"><title>Clinical and Laboratory Measurements</title><p>Systolic and diastolic blood pressure, weight, height and waist circumference were measured according to standardized protocols. Body mass index was calculated as weight (kg) divided by the square of height (m). PWV as a marker of arterial stiffness was measured by a single operator detecting the flow pulses in the carotid and femoral arteries in accordance with recommended procedures <xref rid="dom12625-bib-0018" ref-type="ref">18</xref> using handheld ultrasonic Doppler flow velocimeters (Dopplex MDII, Huntleigh Healthcare, Cardiff, UK) driving pencil probes (4 and 8 MHz) placed over the carotid and femoral arteries, respectively. The output from the velocimeters was passed to a custom&#x02010;built data acquisition system <xref rid="dom12625-bib-0019" ref-type="ref">19</xref>, sampling at a rate of 1 kHz, linked to a computer which displayed the maximum velocity signals from the two sites in real time. The mean PWV for at least 10&#x02013;30 s of data, free of movement artifacts, was recorded for each measurement session.</p><p>Baseline non&#x02010;fasted blood samples were collected from all participants during the first visit, to assess concentrations of serum ionized calcium as well as serum 25(OH)D vitamin D, HbA1c and other secondary biochemical endpoints. During the second and third visits, blood samples were collected only for safety analysis, and during the final (fourth) visit all blood tests were repeated, as during the first visit. HbA1c samples from the first and fourth visit were analysed immediately, while aliquots for all other assays were stored frozen at &#x02212;70 &#x000b0;C and measured at the end of the trial.</p><p>We measured HbA1c levels according to International Federation of Clinical Chemistry and Laboratory Medicine standards in both trial centres and reported them additionally in Diabetes Control and Complications Trial units. Serum 25(OH)D<sub>2</sub> and D<sub>3</sub> were measured using the liquid chromatography/tandem mass spectrometry method, with participation in the Vitamin <bold>D E</bold>xternal <bold>Q</bold>uality <bold>A</bold>ssessment <bold>S</bold>cheme (DEQAS) quality assurance scheme.</p></sec><sec id="dom12625-sec-0010"><title>Sample Size</title><p>Sample size calculations estimated that 207 participants (69 per randomized group) were required to detect a 2.19 mmol/mol (0.2%) difference in mean HbA1c between the placebo and either vitamin D<sub>2</sub> or vitamin D<sub>3</sub> groups with 90% power and a 5% significance level, assuming a standard deviation (s.d.) of HbA1c of 5.47 mmol/mol (0.5%). To detect a 5&#x02010;mmHg difference in mean systolic blood pressure between randomized groups, assuming an s.d. of 16 mmHg <xref rid="dom12625-bib-0015" ref-type="ref">15</xref>, yielded a requirement of 339 participants (113 in each group). Finally, to detect a 0.5&#x02010;m/s difference in PWV and assuming an s.d. of 1 m/s (S.E. Greenwald, unpublished observation), required 162 participants (54 in each group).</p></sec><sec id="dom12625-sec-0011"><title>Randomization and Blinding</title><p>Participants were randomized on a 1:1:1 basis within four strata defined by age (30&#x02013;50 or 51&#x02013;75 years) and sex, with a block size of six within each stratum. The order of treatments within each block was determined by a computer&#x02010;generated pseudo&#x02010;random sequence, generated by the IMP manufacturer (Nova Laboratories, Leicester, UK). Neither the participants, investigators, nor the laboratory staff knew the treatment allocation.</p></sec><sec id="dom12625-sec-0012"><title>Statistical Analysis</title><p>The primary analysis of efficacy outcomes used an intention&#x02010;to&#x02010;treat population, which included all participants in the group to which they were randomized, regardless of the treatment actually received. A secondary analysis used a per&#x02010;protocol population, which excluded individuals who did not take all doses of the IMP. The analysis of safety endpoints used a safety population, which included all participants in the group based on treatment actually received, thus it was identical to the intention&#x02010;to&#x02010;treat population.</p><p>The baseline characteristics of the study population were summarized separately within each randomized group using means and s.d. values (continuous variables), medians and interquartile ranges (skewed variables), or numbers and percentages (categorical variables). Change in HbA1c from baseline to 4 months was compared separately between each treatment group (D<sub>2</sub> and D<sub>3</sub>) and placebo, using analysis of covariance (<sc>ancova</sc>), with adjustment for baseline and centre. To ensure that participants with missing baseline values for the outcome could be included in the analysis, the missing indicator method was used <xref rid="dom12625-bib-0020" ref-type="ref">20</xref>. An analysis was performed to check whether adjusting for age and sex (the randomization stratifiers) in the <sc>ancova</sc> model had any impact on the estimated treatment effects, with an <italic>a priori</italic> agreement not to include them in the model if the impact was minimal.</p><p>For each of the secondary efficacy outcomes, differences between each treatment group and placebo, together with 95% confidence intervals (CIs), were estimated using the same method as that described for the primary outcome. Continuous outcomes with skewed distributions [aspartate aminotransferase (AST), hsCRP] were natural log transformed. To enable the treatment differences for all efficacy outcomes to be reported on the same scale, each estimated difference and CI was divided by the s.d. of the relevant outcome at baseline. The number and percentage of participants experiencing any safety endpoints were reported within each randomized group. For the primary endpoint, prespecified interactions between treatment group and baseline HbA1c, and treatment group and baseline 25(OH)D were tested by including multiplicative interaction terms in the <sc>ancova</sc> model. For the primary efficacy endpoint only, an exploratory analysis was performed in which a difference between the D<sub>2</sub> and D<sub>3</sub> groups was estimated using <sc>ancova,</sc> as described above. All analyses were performed using <sc>stata</sc> 13 (Statacorp, College Station, TX, USA).</p></sec></sec><sec id="dom12625-sec-0013"><title>Results</title><p>The recruitment of participants for the trial and their follow&#x02010;up occurred between 2010 and 2012 and was continuous throughout all seasons over the recruitment period. Of 340 participants, 114 were randomized to placebo, 112 to D<sub>2</sub> and 114 to D<sub>3</sub> (Figure <xref rid="dom12625-fig-0001" ref-type="fig">1</xref>). The distribution of baseline demographic, clinical and biochemical characteristics was similar across the treatment groups (Table <xref rid="dom12625-tbl-0001" ref-type="table-wrap">1</xref>). The percentages of participants who took all four doses of their randomized medication were 80.7% (placebo), 83.9% (D<sub>2</sub>) and 86.8% (D<sub>3</sub>; Figure <xref rid="dom12625-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="dom12625-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Flow diagram of participant recruitment into the vitamin D supplementation trial. <styled-content style="fixed-case">ITT</styled-content>, intention to treat.</p></caption><graphic id="nlm-graphic-1" xlink:href="DOM-18-392-g001"><alt-text>DOM-12625-FIG-0001-c</alt-text></graphic></fig><table-wrap id="dom12625-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline demographic and clinical characteristics of participants by randomized group.</p></caption><table frame="above" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Placebo (N = 114)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>D<sub>2</sub> (N = 112)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>D<sub>3</sub> (N = 114)</bold>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">Total number of missing values</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Mean (s.d.) or median (IQR)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Mean (s.d.) or median (IQR)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>Mean (s.d.) or median (IQR)</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">52.4 (8.5)</td><td align="left" valign="top" rowspan="1" colspan="1">53.5 (8.7)</td><td align="left" valign="top" rowspan="1" colspan="1">52.5 (8.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">28.3 (5.0)</td><td align="left" valign="top" rowspan="1" colspan="1">28.9 (5.5)</td><td align="left" valign="top" rowspan="1" colspan="1">29.0 (5.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Systolic blood pressure, mm</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">127.9 (16.4)</td><td align="left" valign="top" rowspan="1" colspan="1">126.9 (17.8)</td><td align="left" valign="top" rowspan="1" colspan="1">128.6 (14.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diastolic blood pressure, mm</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1">77.6 (10.6)</td><td align="left" valign="top" rowspan="1" colspan="1">75.8 (10.9)</td><td align="left" valign="top" rowspan="1" colspan="1">77.6 (8.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total 25(OH)D, nmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">51.1 (26.7)</td><td align="left" valign="top" rowspan="1" colspan="1">53.8 (24.4)</td><td align="left" valign="top" rowspan="1" colspan="1">51.2 (22.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">25(OH)D<sub>2</sub>, nmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">5.2 (3.3)</td><td align="left" valign="top" rowspan="1" colspan="1">5.2 (4.1)</td><td align="left" valign="top" rowspan="1" colspan="1">5.4 (4.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">25(OH)D<sub>3</sub>, nmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">45.8 (26.3)</td><td align="left" valign="top" rowspan="1" colspan="1">48.6 (24.7)</td><td align="left" valign="top" rowspan="1" colspan="1">45.8 (22.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HbA1c, %</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">5.9 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">5.9 (0.4)</td><td align="left" valign="top" rowspan="1" colspan="1">5.9 (0.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HbA1c, mmol/mol</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">40.9 (3.8)</td><td align="left" valign="top" rowspan="1" colspan="1">40.9 (4.2)</td><td align="left" valign="top" rowspan="1" colspan="1">40.7 (3.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total cholesterol, mmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">5.2 (1.1)</td><td align="left" valign="top" rowspan="1" colspan="1">5.1 (0.9)</td><td align="left" valign="top" rowspan="1" colspan="1">5.2 (0.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HDL cholesterol, mmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1.3 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1.3 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1.3 (0.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Total/HDL ratio</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">4.3 (1.3)</td><td align="left" valign="top" rowspan="1" colspan="1">4.0 (1.0)</td><td align="left" valign="top" rowspan="1" colspan="1">4.2 (1.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Apolipoprotein A1, mmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1.4 (0.3)</td><td align="left" valign="top" rowspan="1" colspan="1">1.5 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">1.5 (0.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Apolipoprotein B, mmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">0.9 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">0.9 (0.2)</td><td align="left" valign="top" rowspan="1" colspan="1">1.0 (0.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Modelled CVD risk, %</td><td align="left" valign="top" rowspan="1" colspan="1">13</td><td align="left" valign="top" rowspan="1" colspan="1">12.8 (9.4)</td><td align="left" valign="top" rowspan="1" colspan="1">11.8 (8.3)</td><td align="left" valign="top" rowspan="1" colspan="1">12.1 (8.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">C&#x02010;reactive protein, mg/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">1.5 (0.7, 3.2)</td><td align="left" valign="top" rowspan="1" colspan="1">1.4 (0.7, 3.3)</td><td align="left" valign="top" rowspan="1" colspan="1">2.0 (0.8, 4.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Fructosamine, &#x000b5;mol/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">236.2 (20.9)</td><td align="left" valign="top" rowspan="1" colspan="1">240.1 (24.3)</td><td align="left" valign="top" rowspan="1" colspan="1">237.2 (21.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Parathyroid hormone, pmol/l</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">5.1 (2.5)</td><td align="left" valign="top" rowspan="1" colspan="1">5.2 (2.0)</td><td align="left" valign="top" rowspan="1" colspan="1">5.3 (2.2)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alkaline phosphatase, IU/l</td><td align="left" valign="top" rowspan="1" colspan="1">1</td><td align="left" valign="top" rowspan="1" colspan="1">72.7 (19.3)</td><td align="left" valign="top" rowspan="1" colspan="1">74.3 (19.4)</td><td align="left" valign="top" rowspan="1" colspan="1">74.1 (19.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Aspartate aminotransferase, IU/l</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1">19.0 (17.0, 24.0)</td><td align="left" valign="top" rowspan="1" colspan="1">19.0 (16.0, 22.0)</td><td align="left" valign="top" rowspan="1" colspan="1">20.0 (17.0, 23.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Pulse wave velocity<xref ref-type="fn" rid="dom12625-note-0002">*</xref>, m/s</td><td align="left" valign="top" rowspan="1" colspan="1">8</td><td align="left" valign="top" rowspan="1" colspan="1">7.4 (2.0)</td><td align="left" valign="top" rowspan="1" colspan="1">7.3 (2.7)</td><td align="left" valign="top" rowspan="1" colspan="1">7.9 (2.0)</td></tr></tbody></table><table frame="above" rules="groups"><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><col align="left" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>N (%)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>N (%)</bold>
+</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<bold>N (%)</bold>
+</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Centre</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Cambridge</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">58 (50.9)</td><td align="left" valign="top" rowspan="1" colspan="1">56 (50.0)</td><td align="left" valign="top" rowspan="1" colspan="1">58 (50.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">London</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">56 (49.1)</td><td align="left" valign="top" rowspan="1" colspan="1">56 (50.0)</td><td align="left" valign="top" rowspan="1" colspan="1">56 (49.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Sex</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">0</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Men</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">66 (57.9)</td><td align="left" valign="top" rowspan="1" colspan="1">63 (56.3)</td><td align="left" valign="top" rowspan="1" colspan="1">65 (57.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Women</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">48 (42.1)</td><td align="left" valign="top" rowspan="1" colspan="1">49 (43.8)</td><td align="left" valign="top" rowspan="1" colspan="1">49 (43.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Smoking</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">5</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Never</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">49 (43.0)</td><td align="left" valign="top" rowspan="1" colspan="1">54 (48.2)</td><td align="left" valign="top" rowspan="1" colspan="1">51 (44.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Former</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">35 (30.7)</td><td align="left" valign="top" rowspan="1" colspan="1">35 (31.3)</td><td align="left" valign="top" rowspan="1" colspan="1">36 (31.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Current</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">28 (24.6)</td><td align="left" valign="top" rowspan="1" colspan="1">21 (18.8)</td><td align="left" valign="top" rowspan="1" colspan="1">26 (22.8)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">
+<italic>Ethnic group</italic>
+</td><td align="left" valign="top" rowspan="1" colspan="1">2</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">White</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">85 (74.6)</td><td align="left" valign="top" rowspan="1" colspan="1">89 (79.5)</td><td align="left" valign="top" rowspan="1" colspan="1">95 (83.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Non&#x02010;white</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1">27 (23.7)</td><td align="left" valign="top" rowspan="1" colspan="1">23 (20.5)</td><td align="left" valign="top" rowspan="1" colspan="1">19(16.7)</td></tr></tbody></table><table-wrap-foot><fn id="dom12625-note-0001"><p>25(<styled-content style="fixed-case">OH</styled-content>)D, serum 25&#x02010;hydroxyvitamin D; <styled-content style="fixed-case">CVD</styled-content>, cardiovascular disease; <styled-content style="fixed-case">HbA1c</styled-content>, glycated haemoglobin.</p></fn><fn id="dom12625-note-0002"><label>*</label><p>Pulse wave velocity was only measured at one centre (London), and includes 52, 55 and 53 participants in each treatment group, respectively.</p></fn></table-wrap-foot></table-wrap><p>The percentages of individuals with a 25(OH)D concentration &#x0003c;50 nmol/l at baseline were 58.8, 50.9 and 50.9% in the placebo, D<sub>2</sub> and D<sub>3</sub> groups, respectively; at follow&#x02010;up these percentages were 47.3, 4.5 and 3.5%. Mean (s.d.) 25(OH)D<sub>2</sub> concentrations increased in the D<sub>2</sub> group from 5.2 (4.1) nmol/l to 53.9 (18.5) nmol/l, and mean (s.d.) 25(OH)D<sub>3</sub> concentrations increased from 45.8 (22.6) nmol/l to 83.8 (22.7) nmol/l in the D<sub>3</sub> group. Between baseline and 4 months there was no overall change in concentrations of 25(OH)D<sub>2</sub>, 25(OH)D<sub>3</sub> and total 25(OH)D in the placebo group (Figure <xref rid="dom12625-fig-0002" ref-type="fig">2</xref>). In contrast, in the D<sub>2</sub> group, the mean 25(OH)D<sub>2</sub> concentration increased by 48.7 (19.2) nmol/l, while the 25(OH)D<sub>3</sub> concentration decreased by 17.5 (22.1) nmol/l, and total 25(OH)D concentration increased by 31.2 (28.6) nmol/l. In the D<sub>3</sub> group there was no change in mean 25(OH)D<sub>2</sub> concentration, while 25(OH)D<sub>3</sub> and total 25(OH)D concentrations increased by 38.3 (24.2) nmol/l and 38.1 (23.8) nmol/l, respectively.</p><fig fig-type="Figure" xml:lang="en" id="dom12625-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Mean [standard deviation (s.d.)] change in serum 25&#x02010;hydroxyvitamin D [25(<styled-content style="fixed-case">OH</styled-content>)D]<sub>2</sub>, 25(<styled-content style="fixed-case">OH</styled-content>)D<sub>3</sub> and total 25(<styled-content style="fixed-case">OH</styled-content>)D concentration (nmol/l) from baseline (<styled-content style="fixed-case">BL</styled-content>) to 4 months follow&#x02010;up (<styled-content style="fixed-case">FU</styled-content>), by randomized group. Circles = 25(<styled-content style="fixed-case">OH</styled-content>)D<sub>2</sub>; diamonds = 25(<styled-content style="fixed-case">OH</styled-content>)D<sub>3</sub>; squares = 25(<styled-content style="fixed-case">OH</styled-content>)D.</p></caption><graphic id="nlm-graphic-3" xlink:href="DOM-18-392-g002"><alt-text>DOM-12625-FIG-0002-b</alt-text></graphic></fig><p>Figure <xref rid="dom12625-fig-0003" ref-type="fig">3</xref> shows that there was no evidence of a difference between the placebo and vitamin D groups for the primary outcome, HbA1c: the difference comparing D<sub>2</sub> with placebo was &#x02212;0.05% (95% CI &#x02212;0.11, 0.02) or &#x02212;0.51 (95% CI &#x02212;1.16, 0.14) mmol/mol (p = 0.13), and for D<sub>3</sub> versus placebo it was 0.02% (95% CI &#x02212;0.04%, 0.08%) or 0.19 (95% CI &#x02212;0.46, 0.83) mmol/mol (p = 0.57). Among the secondary outcomes, there were no differences comparing D<sub>2</sub> with placebo (Figure <xref rid="dom12625-fig-0004" ref-type="fig">4</xref>A) or D<sub>3</sub> with placebo (Figure <xref rid="dom12625-fig-0004" ref-type="fig">4</xref>B) for anthropometric measures, blood pressure, hsCRP, CVD risk, assessed by UKPDS risk engine, hepatic markers, or fructosamine. In the D<sub>2</sub> group there were small, but statistically significant, decreases from baseline relative to placebo in total cholesterol and ApoB (favouring D2), as well as in HDL cholesterol and ApoA1 (favouring placebo; Figure <xref rid="dom12625-fig-0004" ref-type="fig">4</xref>A). In the D<sub>3</sub> group, there was a very small decrease in ApoB concentration between baseline and follow&#x02010;up relative to placebo (Figure <xref rid="dom12625-fig-0004" ref-type="fig">4</xref>B). There was an increase in PTH in the D<sub>2</sub> group, but the difference between D<sub>2</sub> and placebo was not statistically significant (Figure <xref rid="dom12625-fig-0004" ref-type="fig">4</xref>A). There was a decrease in PTH in the D<sub>3</sub> group between baseline and follow&#x02010;up that was significantly different from the increase seen in the placebo group (Figure <xref rid="dom12625-fig-0004" ref-type="fig">4</xref>B). There was a reduction from baseline in PWV in both the D<sub>2</sub> [mean (s.d.) &#x02212;0.17 (2.5) m/s] and D<sub>3</sub> [mean (s.d.) &#x02212;0.75 (2.1) m/s] groups, relative to placebo [treatment difference D<sub>2</sub> vs placebo: &#x02212;0.68 (95% CI &#x02212;1.31,&#x02212;0.05) m/s; D<sub>3</sub> vs placebo: &#x02212;0.73 (95% CI &#x02212;1.42, &#x02212;0.03) m/s; Figure <xref rid="dom12625-fig-0004" ref-type="fig">4</xref>A, B]. In the per&#x02010;protocol population the findings were similar overall, but of greater magnitude, in particular for PWV, for which the treatment differences were &#x02212;0.79 (95% CI &#x02212;1.43, &#x02212;0.14) m/s for D<sub>2</sub> versus placebo, and &#x02212;1.01 (95% CI &#x02212;1.69, &#x02212;0.34) m/s for D<sub>3</sub> versus placebo.</p><fig fig-type="Figure" xml:lang="en" id="dom12625-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Difference [95% confidence interval (<styled-content style="fixed-case">CI</styled-content>)] in the primary outcome (<styled-content style="fixed-case">HbA1c</styled-content>) between vitamin D<sub>2</sub> and placebo and between vitamin D<sub>3</sub> and placebo groups, reported in units of baseline standard deviation (s.d.; 3.8 mmol/mol). Mean (s.d.) change from baseline is presented in each group in the natural units of the outcome (mmol/mol).</p></caption><graphic id="nlm-graphic-5" xlink:href="DOM-18-392-g003"><alt-text>DOM-12625-FIG-0003-b</alt-text></graphic></fig><fig fig-type="Figure" xml:lang="en" id="dom12625-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Difference [95% confidence interval (<styled-content style="fixed-case">CI</styled-content>)] in secondary outcomes between D<sub>2</sub> (A) and D<sub>3</sub> (B) and placebo group, reported in units of baseline standard deviation (s.d.), alongside mean (s.d.) change from baseline in each group in the natural units of the outcome. <styled-content style="fixed-case">BMI</styled-content>, body mass index; <styled-content style="fixed-case">BP</styled-content>, blood pressure; chol., cholesterol; <styled-content style="fixed-case">ApoA1</styled-content>, apolipoprotein <styled-content style="fixed-case">A1</styled-content>; <styled-content style="fixed-case">ApoB</styled-content>, apolipoprotein B; fruct., fructoasmine; corr. fruct., corrected fructosamine; <styled-content style="fixed-case">ALP</styled-content>, alkaline phosphatase; <styled-content style="fixed-case">AST</styled-content>, aspartame transaminase; <styled-content style="fixed-case">CVD</styled-content>, cardiovascular disease; <styled-content style="fixed-case">UKPDS</styled-content>, United Kingdom Prospective Diabetes Study; <styled-content style="fixed-case">hsCRP</styled-content>, high&#x02010;sensitivity C&#x02010;reactive protein; <styled-content style="fixed-case">PTH</styled-content>, parathyroid hormone; <styled-content style="fixed-case">PWV</styled-content>, pulse wave velocity.</p></caption><graphic id="nlm-graphic-7" xlink:href="DOM-18-392-g004"><alt-text>DOM-12625-FIG-0004-b</alt-text></graphic></fig><p>In the prespecified analyses, there was no evidence for interaction between treatment group and either baseline HbA1c or baseline total 25(OH)D concentration on the primary outcome (all p values between 0.15 and 0.74). In <italic>post hoc</italic> analyses there was also no evidence of interaction between treatment group and ethnicity (white vs. non&#x02010;white ethnicity) or baseline 25(OH)D<sub>3</sub> concentration (&#x0003c;50 vs. &#x02265;50 nmol/l). In the prespecified exploratory analysis comparing HbA1c between D<sub>3</sub> and D<sub>2</sub> groups, there was no evidence of a treatment effect [D<sub>3</sub> vs D<sub>2</sub>: 0.06% (95%CI &#x02212;0.005, 0.13%) or 0.66 (95% CI &#x02212;0.05, 1.38) mmol/mol]. In a <italic>post hoc</italic> analysis there was also no evidence of a difference in the change in fructosamine; D<sub>3</sub> versus D<sub>2</sub>: &#x02212;2.94 (95% CI &#x02212;8.37, 2.48) &#x000b5;mol/l. There were no important safety issues related to vitamin D supplementation (Table S1).</p></sec><sec id="dom12625-sec-0014"><title>Discussion</title><p>Among individuals who are at elevated risk of future diabetes, monthly supplementation for 4 months with vitamin D<sub>2</sub> and vitamin D<sub>3</sub> at a dose equivalent to 3300 IU/day was efficacious in raising concentrations of 25(OH)D<sub>2</sub> and 25(OH)D<sub>3,</sub> respectively, but there were no differences between the placebo and either of the vitamin D supplementation groups for the primary outcome of change in HbA1c concentration.<sub>.</sub> The null effects of vitamin D supplementation on HbA1c, blood pressure and inflammation in the present study suggest that vitamin D supplementation is unlikely to have major benefit for diabetes prevention or cardiometabolic risk. Nevertheless, the reduction we observed in arterial stiffness, as assessed by PWV, is of interest. The trial also showed the feasibility of relatively high dose supplementation over 4 months in a population unscreened for baseline 25(OH)D concentrations.</p><p>The null findings for change in HbA1c are in keeping with evidence from clinical trials appraised in two previous systematic reviews and meta&#x02010;analyses <xref rid="dom12625-bib-0002" ref-type="ref">2</xref>, <xref rid="dom12625-bib-0003" ref-type="ref">3</xref>. Evidence from vitamin D supplementation trials conducted subsequently to these meta&#x02010;analyses is also supportive of no significant effect on HbA1c concentrations <xref rid="dom12625-bib-0004" ref-type="ref">4</xref>, <xref rid="dom12625-bib-0010" ref-type="ref">10</xref>, <xref rid="dom12625-bib-0021" ref-type="ref">21</xref>. One trial did report a net benefit, with 0.2% lower HbA1c concentration in the vitamin D&#x02010;supplemented group (n = 56) versus placebo (n = 53), but this trial differed from other published work substantially, with very&#x02010;high&#x02010;dose vitamin D<sub>3</sub> supplementation (a mean dose of &#x0223c;88 000 IU/week, equivalent to &#x0003e;12 000 IU/day), longer duration of the intervention (for 1 year), and participants restricted to those of Latino or African&#x02010;American ethnicity, together with presence of both impaired glucose regulation [HbA1c of 5.8&#x02013;6.9% (40&#x02013;52 mmol/mol)], plus impaired fasting glucose or impaired glucose tolerance, and hypovitaminosis&#x02010;D defined as 25(OH)D concentrations &#x0003c;75 nmol/l <xref rid="dom12625-bib-0005" ref-type="ref">5</xref>. Notably, no other marker of glycaemia or insulin resistance differed by treatment group in that trial.</p><p>The null effect in the present study of supplementation on several prespecified secondary outcomes is unsurprising in light of the previous similar null reports for anthropometric markers <xref rid="dom12625-bib-0008" ref-type="ref">8</xref>, <xref rid="dom12625-bib-0021" ref-type="ref">21</xref> and markers of cardiometabolic risk, including blood pressure <xref rid="dom12625-bib-0008" ref-type="ref">8</xref>, <xref rid="dom12625-bib-0010" ref-type="ref">10</xref>, <xref rid="dom12625-bib-0022" ref-type="ref">22</xref>, <xref rid="dom12625-bib-0023" ref-type="ref">23</xref> C&#x02010;reactive protein <xref rid="dom12625-bib-0008" ref-type="ref">8</xref>, <xref rid="dom12625-bib-0009" ref-type="ref">9</xref>, <xref rid="dom12625-bib-0010" ref-type="ref">10</xref>, <xref rid="dom12625-bib-0024" ref-type="ref">24</xref>, <xref rid="dom12625-bib-0025" ref-type="ref">25</xref> and liver enzymes <xref rid="dom12625-bib-0026" ref-type="ref">26</xref>, while our null finding for the UKPDS CVD risk engine risk score is novel. Our observation of minor effects on some lipid and Apo values is congruent with the past mixed evidence for effects of vitamin D supplementation on lipids <xref rid="dom12625-bib-0010" ref-type="ref">10</xref>, <xref rid="dom12625-bib-0027" ref-type="ref">27</xref>. A recent trial reported significantly reduced concentrations of ApoB in the vitamin D&#x02010;supplemented group versus placebo, but similarly to our findings, the small magnitude of change was not considered clinically significant <xref rid="dom12625-bib-0028" ref-type="ref">28</xref>, while an &#x02018;umbrella&#x02019; review of meta&#x02010;analyses showed generally null findings for lipid outcomes <xref rid="dom12625-bib-0029" ref-type="ref">29</xref>.</p><p>Our finding of a decrease in PWV between follow&#x02010;up and baseline in both the D<sub>2</sub> and D<sub>3</sub> groups relative to placebo is at variance with the null findings for carotid&#x02010;femoral PWV previously reported from a trial in 100 patients with diabetes, where supplementation for 12 weeks with 5000 IU/day of vitamin D<sub>3</sub> versus placebo did not have an effect on brachial&#x02010;ankle PWV <xref rid="dom12625-bib-0012" ref-type="ref">12</xref>. Other trials have reported conflicting findings in people without diabetes <xref rid="dom12625-bib-0011" ref-type="ref">11</xref>, <xref rid="dom12625-bib-0030" ref-type="ref">30</xref>, <xref rid="dom12625-bib-0031" ref-type="ref">31</xref>, <xref rid="dom12625-bib-0032" ref-type="ref">32</xref>, <xref rid="dom12625-bib-0033" ref-type="ref">33</xref>. Mechanisms underlying the reduction in arterial stiffness by supplementation with both vitamin D<sub>2</sub> and D<sub>3</sub> are unestablished, but possible pathways include both direct and indirect effects on vascular cells, suppression of the renin&#x02010;angiotensin&#x02010;aldosterone system, effects on calcium metabolism leading to the calcification of arterial elastin and the interplay of inflammation and oxidative stress <xref rid="dom12625-bib-0023" ref-type="ref">23</xref>, <xref rid="dom12625-bib-0031" ref-type="ref">31</xref>, <xref rid="dom12625-bib-0034" ref-type="ref">34</xref>, <xref rid="dom12625-bib-0035" ref-type="ref">35</xref>. Our findings suggest that supplementation with either vitamin D<sub>2</sub> or D<sub>3</sub> over a 4&#x02010;month period could offer a way to potentially favourably affect arterial stiffness, perhaps by inhibition of matrix metalloproteinases <xref rid="dom12625-bib-0036" ref-type="ref">36</xref>, <xref rid="dom12625-bib-0037" ref-type="ref">37</xref>, and should stimulate further research to replicate these findings and to understand the mechanisms of how 25(OH)D concentrations may exert functional and structural alterations in the arterial system.</p><p>While overall the total 25(OH)D concentrations were increased in both D<sub>2</sub> and D<sub>3</sub> groups in the present trial, the magnitude of increase in 25(OH)D was greater with D<sub>3</sub> supplementation (mean increase of 38.3 nmol/) than with D<sub>2</sub> supplementation (mean increase of 31.2 nmol/l), in keeping with a previous meta&#x02010;analysis comparing the effects of supplementation with D<sub>2</sub> or D<sub>3</sub>
+<xref rid="dom12625-bib-0013" ref-type="ref">13</xref> and with trials conducted since then <xref rid="dom12625-bib-0014" ref-type="ref">14</xref>, <xref rid="dom12625-bib-0038" ref-type="ref">38</xref>. This may be partially attributable to the shorter half&#x02010;life of 25(OH)D<sub>2</sub> versus 25(OH)D<sub>3</sub> in the circulation, which is related to the lower affinity of the D<sub>2</sub> metabolite for the vitamin D&#x02010;binding protein <xref rid="dom12625-bib-0039" ref-type="ref">39</xref>. It might also reflect our finding that supplementation with vitamin D<sub>2</sub> led to a decrease in 25(OH)D<sub>3</sub> concentrations, as also observed in non&#x02010;trial settings by others <xref rid="dom12625-bib-0040" ref-type="ref">40</xref>, <xref rid="dom12625-bib-0041" ref-type="ref">41</xref>, while supplementation with vitamin D<sub>3</sub> did not affect 25(OH)D<sub>2</sub> concentrations in the present trial. The decrease in 25(OH)D<sub>3</sub> concentrations in the D<sub>2</sub> group may suggest different bioavailability <xref rid="dom12625-bib-0038" ref-type="ref">38</xref>, possible more rapid metabolism or clearance of circulating 25(OH)D<sub>3</sub> following D<sub>2</sub> supplementation, or competition for enzymatic activity by CYP2R1 for 25&#x02010;hydroxylation of vitamin D<sub>2</sub> and D<sub>3</sub>
+<xref rid="dom12625-bib-0041" ref-type="ref">41</xref>. It has been suggested that an upregulation in mechanisms required to metabolize D<sub>2</sub> and its metabolites may increase the degradation of circulating 25(OH)D<sub>3</sub> concentrations <xref rid="dom12625-bib-0042" ref-type="ref">42</xref> but the biological significance of these changes is currently unclear.</p><p>The strengths of the present trial include the cohort of adults from different ethnic groups, of varying ages and both sexes, and the use of a relatively high dose of vitamin D supplementation at the daily equivalent dose of 3300 IU per day that was effective in raising 25(OH)D concentrations. The comparison of both vitamin D<sub>3</sub> and vitamin D<sub>2</sub> against placebo for cardiometabolic outcomes is novel. Our inclusion of several relevant secondary endpoints and the assessment of the feasibility and safety of 25(OH)D in relatively high doses given monthly in a general population unscreened for 25(OH)D concentrations, with high degree of participant retention, increases generalizability in clinical practice. Enrolling participants irrespective of baseline vitamin D status was intentional to enable feasibility of a &#x02018;real&#x02010;life&#x02019; trial that would not require pre&#x02010;recruitment assessment, and our examination of any differential effects by baseline 25(OH)D concentration in interaction analyses highlighted no benefits in those with hypovitaminosis D.</p><p>The limitations of the present study included the inability to draw conclusions for longer&#x02010;term effects of supplementation beyond 4 months. For the primary glycaemic endpoint of HbA1c, this period could be considered short, but our null findings for this outcome were supported by similar null findings for fructosamine concentrations, yet we observed bioactivity for PWV, lipid parameters and PTH. The study did not allow us to compare D<sub>2</sub> with D<sub>3</sub> supplementation directly because of sample size constraints, but an exploratory analysis was null. The PWV findings are interesting but we acknowledge the potential limitations of using surrogate markers of CVD. Finally, the present study did not address whether different outcomes would have been obtained with a daily compared with a monthly regime.</p><p>In summary, short&#x02010;term supplementation with vitamin D<sub>2</sub> and D<sub>3</sub> raised concentrations of 25(OH)D<sub>2</sub> and 25(OH)D<sub>3</sub>, respectively, but had no effect on HbA1c during the study period. The modest reduction in PWV with both D<sub>2</sub> and D<sub>3</sub> versus placebo is suggestive of a beneficial effect of vitamin D supplementation on arterial stiffness, and the clinical implications of this finding merit further investigation.</p></sec><sec id="dom12625-sec-0016"><title>Conflict of Interest</title><p>None of the authors has any conflict of interest.</p><p>All authors participated in the design of the study. S. J. S. wrote the statistical analysis plan and conducted statistical analyses. N. G. F. and G. A. H. drafted the manuscript. G. A. H. was chief investigator and N. G. F. was the lead investigator. G. A. H., S. J. G., N. G. F., R. M., N. M. and A. P. R. were responsible for the conduct and monitoring of the trial. N. G. F. and G. A. H. are guarantors and take responsibility for the contents of the article. P. M. T. advised on and conducted laboratory measurements. A. M., B. J. B., T. A. C., C. J. G. and S. E. G. advised on trial related issues. R. M. and N. M. conducted data collection in London. All authors provided intellectual input and read and approved the final version of the manuscript.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="dom12625-supitem-0001"><caption><p>
+<bold>Table S1.</bold> Number (%) of individuals with safety endpoints, by randomised group&#x02010;vitamin D supplementation trial.</p></caption><media xlink:href="DOM-18-392-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="dom12625-sec-0015"><title>Acknowledgements</title><p>We gratefully acknowledge the contribution of all participants and general practices. This trial was adopted by the NIHR Diabetes Research Network and we are grateful for their support, particularly the North East London Diabetes and the Eastern Diabetes Local Research Networks. We are very grateful to the trial steering committee chaired by Prof. Andrew Morris and including Dr Ann Millward and Mrs Yvonne Hunt and the data monitoring and ethics committee chaired by Prof. Desmond Johnston and including Prof. Garry John and Dr Ian White. We thank all staff from the MRC Epidemiology Unit Functional Group Team, in particular, for study coordination, data collection, data management, laboratory management, business operations, IT and research governance. We thank Andrew Dymond for study co&#x02010;ordination in Cambridge. We also thank the Cambridge University Hospitals NHS Foundation Trust, Department of Clinical Biochemistry for the biochemical assays. We thank Prof. Nick Wareham, as chief investigator of the Fenland study from which the Cambridge participants were recruited. We acknowledge the contributions of Francess Fode and Louise Cross (Blizard Institute) who worked as research nurses for the trial. Louise Cross was initially a study co&#x02010;ordinator as well. We also thank Chris Mathews (Blizard Institute) as part of the data management team. We thank the laboratories at the Homerton Hospital and the Royal London Hospital for undertaking biochemical measurements for this trial. We thank the trial participants for their time.</p><p>The trial was jointly sponsored by Queen Mary University of London and the Medical Research Council Epidemiology Unit at Cambridge. The trial was funded from a block grant from the NHS Tower Hamlets Primary Care NHS Trust and East London CLRN, and from MRC Epidemiology Unit core funding (MC_UP_A100_1003, MC_U106179474, MC_UU_12015/5 and MC_UU_12015/4).</p></ack><ref-list content-type="cited-references" id="dom12625-bibl-0001"><title>References</title><ref id="dom12625-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="dom12625-cit-0001">
+<string-name>
+<surname>Avenell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Cook</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>MacLennan</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>McPherson</surname>
+<given-names>GC</given-names>
+</string-name>. <article-title>Vitamin D supplementation and type 2 diabetes: a substudy of a randomised placebo&#x02010;controlled trial in older people (RECORD trial, ISRCTN 51647438)</article-title>. <source>Age Ageing</source>
+<year>2009</year>; <volume>38</volume>: <fpage>606</fpage>&#x02013;<lpage>609</lpage>.<pub-id pub-id-type="pmid">19617604</pub-id></mixed-citation></ref><ref id="dom12625-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="dom12625-cit-0002">
+<string-name>
+<surname>Mitri</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Muraru</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Pittas</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Vitamin D and type 2 diabetes: a systematic review</article-title>. <source>Eur J Clin Nutr</source>
+<year>2011</year>; <volume>65</volume>: <fpage>1005</fpage>&#x02013;<lpage>1015</lpage>.<pub-id pub-id-type="pmid">21731035</pub-id></mixed-citation></ref><ref id="dom12625-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="dom12625-cit-0003">
+<string-name>
+<surname>George</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>ER</given-names>
+</string-name>, <string-name>
+<surname>Witham</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Effect of vitamin D supplementation on glycaemic control and insulin resistance: a systematic review and meta&#x02010;analysis</article-title>. <source>Diabet Med</source>
+<year>2012</year>; <volume>29</volume>: <fpage>e142</fpage>&#x02013;<lpage>e150</lpage>.<pub-id pub-id-type="pmid">22486204</pub-id></mixed-citation></ref><ref id="dom12625-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="dom12625-cit-0004">
+<string-name>
+<surname>Mitri</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Dawson&#x02010;Hughes</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hu</surname>
+<given-names>FB</given-names>
+</string-name>, <string-name>
+<surname>Pittas</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Effects of vitamin D and calcium supplementation on pancreatic beta cell function, insulin sensitivity, and glycemia in adults at high risk of diabetes: the Calcium and Vitamin D for Diabetes Mellitus (CaDDM) randomized controlled trial</article-title>. <source>Am J Clin Nutr</source>
+<year>2011</year>; <volume>94</volume>: <fpage>486</fpage>&#x02013;<lpage>494</lpage>.<pub-id pub-id-type="pmid">21715514</pub-id></mixed-citation></ref><ref id="dom12625-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="dom12625-cit-0005">
+<string-name>
+<surname>Davidson</surname>
+<given-names>MB</given-names>
+</string-name>, <string-name>
+<surname>Duran</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>TC</given-names>
+</string-name>. <article-title>High&#x02010;dose vitamin D supplementation in people with prediabetes and hypovitaminosis D</article-title>. <source>Diabetes Care</source>
+<year>2013</year>; <volume>36</volume>: <fpage>260</fpage>&#x02013;<lpage>266</lpage>.<pub-id pub-id-type="pmid">23033239</pub-id></mixed-citation></ref><ref id="dom12625-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="dom12625-cit-0006">
+<string-name>
+<surname>Pittas</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Trikalinos</surname>
+<given-names>T</given-names>
+</string-name> et al. <article-title>Systematic review: vitamin D and cardiometabolic outcomes</article-title>. <source>Ann Intern Med</source>
+<year>2010</year>; <volume>152</volume>: <fpage>307</fpage>&#x02013;<lpage>314</lpage>.<pub-id pub-id-type="pmid">20194237</pub-id></mixed-citation></ref><ref id="dom12625-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="dom12625-cit-0007">
+<string-name>
+<surname>Ford</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>MacLennan</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Avenell</surname>
+<given-names>A</given-names>
+</string-name> et al. <article-title>Cardiovascular disease and vitamin D supplementation: trial analysis, systematic review, and meta&#x02010;analysis</article-title>. <source>Am J Clin Nutr</source>
+<year>2014</year>; <volume>100</volume>: <fpage>746</fpage>&#x02013;<lpage>755</lpage>.<pub-id pub-id-type="pmid">25057156</pub-id></mixed-citation></ref><ref id="dom12625-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="dom12625-cit-0008">
+<string-name>
+<surname>Wamberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kampmann</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Stodkilde&#x02010;Jorgensen</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Rejnmark</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Richelsen</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Effects of vitamin D supplementation on body fat accumulation, inflammation, and metabolic risk factors in obese adults with low vitamin D levels&#x02013;results from a randomized trial</article-title>. <source>Eur J Intern Med</source>
+<year>2013</year>; <volume>24</volume>: <fpage>644</fpage>&#x02013;<lpage>649</lpage>.<pub-id pub-id-type="pmid">23566943</pub-id></mixed-citation></ref><ref id="dom12625-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="dom12625-cit-0009">
+<string-name>
+<surname>Jorde</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Sneve</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Torjesen</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Figenschau</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Goransson</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Omdal</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>No effect of supplementation with cholecalciferol on cytokines and markers of inflammation in overweight and obese subjects</article-title>. <source>Cytokine</source>
+<year>2010</year>; <volume>50</volume>: <fpage>175</fpage>&#x02013;<lpage>180</lpage>.<pub-id pub-id-type="pmid">20122848</pub-id></mixed-citation></ref><ref id="dom12625-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="dom12625-cit-0010">
+<string-name>
+<surname>Sollid</surname>
+<given-names>ST</given-names>
+</string-name>, <string-name>
+<surname>Hutchinson</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Fuskevag</surname>
+<given-names>OM</given-names>
+</string-name> et al. <article-title>No effect of high&#x02010;dose vitamin D supplementation on glycemic status or cardiovascular risk factors in subjects with prediabetes</article-title>. <source>Diabetes Care</source>
+<year>2014</year>; <volume>37</volume>: <fpage>2123</fpage>&#x02013;<lpage>2131</lpage>.<pub-id pub-id-type="pmid">24947792</pub-id></mixed-citation></ref><ref id="dom12625-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="dom12625-cit-0011">
+<string-name>
+<surname>Gepner</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Ramamurthy</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Krueger</surname>
+<given-names>DC</given-names>
+</string-name>, <string-name>
+<surname>Korcarz</surname>
+<given-names>CE</given-names>
+</string-name>, <string-name>
+<surname>Binkley</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Stein</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>A prospective randomized controlled trial of the effects of vitamin D supplementation on cardiovascular disease risk</article-title>. <source>PLoS One</source>
+<year>2012</year>; <volume>7</volume>: <fpage>e36617</fpage>.<pub-id pub-id-type="pmid">22586483</pub-id></mixed-citation></ref><ref id="dom12625-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="dom12625-cit-0012">
+<string-name>
+<surname>Yiu</surname>
+<given-names>YF</given-names>
+</string-name>, <string-name>
+<surname>Yiu</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Siu</surname>
+<given-names>CW</given-names>
+</string-name> et al. <article-title>Randomized controlled trial of vitamin D supplement on endothelial function in patients with type 2 diabetes</article-title>. <source>Atherosclerosis</source>
+<year>2013</year>; <volume>227</volume>: <fpage>140</fpage>&#x02013;<lpage>146</lpage>.<pub-id pub-id-type="pmid">23298824</pub-id></mixed-citation></ref><ref id="dom12625-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="dom12625-cit-0013">
+<string-name>
+<surname>Tripkovic</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lambert</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Hart</surname>
+<given-names>K</given-names>
+</string-name> et al. <article-title>Comparison of vitamin D2 and vitamin D3 supplementation in raising serum 25&#x02010;hydroxyvitamin D status: a systematic review and meta&#x02010;analysis</article-title>. <source>Am J Clin Nutr</source>
+<year>2012</year>; <volume>95</volume>: <fpage>1357</fpage>&#x02013;<lpage>1364</lpage>.<pub-id pub-id-type="pmid">22552031</pub-id></mixed-citation></ref><ref id="dom12625-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="dom12625-cit-0014">
+<string-name>
+<surname>Logan</surname>
+<given-names>VF</given-names>
+</string-name>, <string-name>
+<surname>Gray</surname>
+<given-names>AR</given-names>
+</string-name>, <string-name>
+<surname>Peddie</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Harper</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Houghton</surname>
+<given-names>LA</given-names>
+</string-name>. <article-title>Long&#x02010;term vitamin D3 supplementation is more effective than vitamin D2 in maintaining serum 25&#x02010;hydroxyvitamin D status over the winter months</article-title>. <source>Br J Nutr</source>
+<year>2013</year>; <volume>109</volume>: <fpage>1082</fpage>&#x02013;<lpage>1088</lpage>.<pub-id pub-id-type="pmid">23168298</pub-id></mixed-citation></ref><ref id="dom12625-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="dom12625-cit-0015">
+<string-name>
+<surname>Menon</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Rickard</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Mannan</surname>
+<given-names>N</given-names>
+</string-name> et al. <article-title>The effects of vitamin D(2) or D(3) supplementation on glycaemic control and related metabolic parameters in people at risk of type 2 diabetes: protocol of a randomised double&#x02010;blind placebo&#x02010;controlled trial</article-title>. <source>BMC Public Health</source>
+<year>2013</year>; <volume>13</volume>: <fpage>999</fpage>.<pub-id pub-id-type="pmid">24152375</pub-id></mixed-citation></ref><ref id="dom12625-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="dom12625-cit-0016">
+<string-name>
+<surname>Griffin</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Little</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Hales</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Kinmonth</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Wareham</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Diabetes risk score: towards earlier detection of type 2 diabetes in general practice</article-title>. <source>Diabetes Metab Res Rev</source>
+<year>2000</year>; <volume>16</volume>: <fpage>164</fpage>&#x02013;<lpage>171</lpage>.<pub-id pub-id-type="pmid">10867715</pub-id></mixed-citation></ref><ref id="dom12625-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="dom12625-cit-0017">
+<string-name>
+<surname>Stevens</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Kothari</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Adler</surname>
+<given-names>AI</given-names>
+</string-name>, <string-name>
+<surname>Stratton</surname>
+<given-names>IM</given-names>
+</string-name>. <article-title>United Kingdom Prospective Diabetes Study he UKPDS risk engine: a model for the risk of coronary heart disease in Type II diabetes (UKPDS 56)</article-title>. <source>Clin Sci (Lond)</source>
+<year>2001</year>; <volume>101</volume>: <fpage>671</fpage>&#x02013;<lpage>679</lpage>.<pub-id pub-id-type="pmid">11724655</pub-id></mixed-citation></ref><ref id="dom12625-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="dom12625-cit-0018">
+<string-name>
+<surname>Van Bortel</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Laurent</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Boutouyrie</surname>
+<given-names>P</given-names>
+</string-name> et al. <article-title>Expert consensus document on the measurement of aortic stiffness in daily practice using carotid&#x02010;femoral pulse wave velocity</article-title>. <source>J Hypertens</source>
+<year>2012</year>; <volume>30</volume>: <fpage>445</fpage>&#x02013;<lpage>448</lpage>.<pub-id pub-id-type="pmid">22278144</pub-id></mixed-citation></ref><ref id="dom12625-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="dom12625-cit-0019">
+<string-name>
+<surname>Loukogeorgakis</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dawson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Phillips</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Martyn</surname>
+<given-names>CN</given-names>
+</string-name>, <string-name>
+<surname>Greenwald</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Validation of a device to measure arterial pulse wave velocity by a photoplethysmographic method</article-title>. <source>Physiol Meas</source>
+<year>2002</year>; <volume>23</volume>: <fpage>581</fpage>&#x02013;<lpage>596</lpage>.<pub-id pub-id-type="pmid">12214765</pub-id></mixed-citation></ref><ref id="dom12625-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="dom12625-cit-0020">
+<string-name>
+<surname>White</surname>
+<given-names>IR</given-names>
+</string-name>, <string-name>
+<surname>Thompson</surname>
+<given-names>SG</given-names>
+</string-name>. <article-title>Adjusting for partially missing baseline measurements in randomized trials</article-title>. <source>Stat Med</source>
+<year>2005</year>; <volume>24</volume>: <fpage>993</fpage>&#x02013;<lpage>1007</lpage>.<pub-id pub-id-type="pmid">15570623</pub-id></mixed-citation></ref><ref id="dom12625-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="dom12625-cit-0021">
+<string-name>
+<surname>Salehpour</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Shidfar</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Hosseinpanah</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Vafa</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Razaghi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Amiri</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Does vitamin D3 supplementation improve glucose homeostasis in overweight or obese women? A double&#x02010;blind, randomized, placebo&#x02010;controlled clinical trial</article-title>. <source>Diabet Med</source>
+<year>2013</year>; <volume>30</volume>: <fpage>1477</fpage>&#x02013;<lpage>1481</lpage>.<pub-id pub-id-type="pmid">23822797</pub-id></mixed-citation></ref><ref id="dom12625-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="dom12625-cit-0022">
+<string-name>
+<surname>Kunutsor</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Burgess</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Munroe</surname>
+<given-names>PB</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Vitamin D and high blood pressure: causal association or epiphenomenon?</article-title>
+<source>Eur J Epidemiol</source>
+<year>2014</year>; <volume>29</volume>: <fpage>1</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">24374742</pub-id></mixed-citation></ref><ref id="dom12625-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="dom12625-cit-0023">
+<string-name>
+<surname>Richart</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Staessen</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Renal versus extrarenal activation of vitamin D in relation to atherosclerosis, arterial stiffening, and hypertension</article-title>. <source>Am J Hypertens</source>
+<year>2007</year>; <volume>20</volume>: <fpage>1007</fpage>&#x02013;<lpage>1015</lpage>.<pub-id pub-id-type="pmid">17765144</pub-id></mixed-citation></ref><ref id="dom12625-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="dom12625-cit-0024">
+<string-name>
+<surname>Sinha&#x02010;Hikim</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Duran</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Shen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Friedman</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Davidson</surname>
+<given-names>MB</given-names>
+</string-name>. <article-title>Effect of long term vitamin D supplementation on biomarkers of inflammation in Latino and African&#x02010;American subjects with pre&#x02010;diabetes and hypovitaminosis D</article-title>. <source>Horm Metab Res</source>
+<year>2014</year>; <volume>47</volume>: <fpage>280</fpage>&#x02013;<lpage>283</lpage>.<pub-id pub-id-type="pmid">25011019</pub-id></mixed-citation></ref><ref id="dom12625-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="dom12625-cit-0025">
+<string-name>
+<surname>Chandler</surname>
+<given-names>PD</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Drake</surname>
+<given-names>BF</given-names>
+</string-name> et al. <article-title>Impact of vitamin D supplementation on inflammatory markers in African Americans: results of a four&#x02010;arm, randomized, placebo&#x02010;controlled trial</article-title>. <source>Cancer Prev Res</source>
+<year>2014</year>; <volume>7</volume>: <fpage>218</fpage>&#x02013;<lpage>225</lpage>.</mixed-citation></ref><ref id="dom12625-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="dom12625-cit-0026">
+<string-name>
+<surname>Sharifi</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Amani</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hajiani</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Cheraghian</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Does vitamin D improve liver enzymes, oxidative stress, and inflammatory biomarkers in adults with non&#x02010;alcoholic fatty liver disease? A randomized clinical trial</article-title>. <source>Endocrine</source>
+<year>2014</year>; <volume>47</volume>: <fpage>70</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">24968737</pub-id></mixed-citation></ref><ref id="dom12625-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="dom12625-cit-0027">
+<string-name>
+<surname>Schnatz</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Jiang</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Vila&#x02010;Wright</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Calcium/vitamin D supplementation, serum 25&#x02010;hydroxyvitamin D concentrations, and cholesterol profiles in the Women's Health Initiative calcium/vitamin D randomized trial</article-title>. <source>Menopause</source>
+<year>2014</year>; <volume>21</volume>: <fpage>823</fpage>&#x02013;<lpage>833</lpage>.<pub-id pub-id-type="pmid">24594863</pub-id></mixed-citation></ref><ref id="dom12625-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="dom12625-cit-0028">
+<string-name>
+<surname>Wood</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Secombes</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Thies</surname>
+<given-names>F</given-names>
+</string-name> et al. <article-title>Vitamin D3 supplementation has no effect on conventional cardiovascular risk factors: a parallel&#x02010;group, double&#x02010;blind, placebo&#x02010;controlled RCT</article-title>. <source>J Clin Endocrinol Metab</source>
+<year>2012</year>; <volume>97</volume>: <fpage>3557</fpage>&#x02013;<lpage>3568</lpage>.<pub-id pub-id-type="pmid">22865902</pub-id></mixed-citation></ref><ref id="dom12625-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="dom12625-cit-0029">
+<string-name>
+<surname>Theodoratou</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tzoulaki</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Zgaga</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ioannidis</surname>
+<given-names>JP</given-names>
+</string-name>. <article-title>Vitamin D and multiple health outcomes: umbrella review of systematic reviews and meta&#x02010;analyses of observational studies and randomised trials</article-title>. <source>BMJ</source>
+<year>2014</year>; <volume>348</volume>: <fpage>g2035</fpage>.<pub-id pub-id-type="pmid">24690624</pub-id></mixed-citation></ref><ref id="dom12625-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="dom12625-cit-0030">
+<string-name>
+<surname>McGreevy</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Barry</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Davenport</surname>
+<given-names>C</given-names>
+</string-name> et al. <article-title>The effect of vitamin D supplementation on arterial stiffness in an elderly community&#x02010;based population</article-title>. <source>J Am Soc Hypertens</source>
+<year>2015</year>; <volume>9</volume>: <fpage>176</fpage>&#x02013;<lpage>183</lpage>.<pub-id pub-id-type="pmid">25681237</pub-id></mixed-citation></ref><ref id="dom12625-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="dom12625-cit-0031">
+<string-name>
+<surname>Dong</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Stallmann&#x02010;Jorgensen</surname>
+<given-names>IS</given-names>
+</string-name>, <string-name>
+<surname>Pollock</surname>
+<given-names>NK</given-names>
+</string-name> et al. <article-title>A 16&#x02010;week randomized clinical trial of 2000 international units daily vitamin D3 supplementation in black youth: 25&#x02010;hydroxyvitamin D, adiposity, and arterial stiffness</article-title>. <source>J Clin Endocrinol Metab</source>
+<year>2010</year>; <volume>95</volume>: <fpage>4584</fpage>&#x02013;<lpage>4591</lpage>.<pub-id pub-id-type="pmid">20660028</pub-id></mixed-citation></ref><ref id="dom12625-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="dom12625-cit-0032">
+<string-name>
+<surname>Larsen</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Mose</surname>
+<given-names>FH</given-names>
+</string-name>, <string-name>
+<surname>Bech</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Hansen</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Pedersen</surname>
+<given-names>EB</given-names>
+</string-name>. <article-title>Effect of cholecalciferol supplementation during winter months in patients with hypertension: a randomized, placebo&#x02010;controlled trial</article-title>. <source>Am J Hypertens</source>
+<year>2012</year>; <volume>25</volume>: <fpage>1215</fpage>&#x02013;<lpage>1222</lpage>.<pub-id pub-id-type="pmid">22854639</pub-id></mixed-citation></ref><ref id="dom12625-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="dom12625-cit-0033">
+<string-name>
+<surname>Witham</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Price</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Struthers</surname>
+<given-names>AD</given-names>
+</string-name> et al. <article-title>Cholecalciferol treatment to reduce blood pressure in older patients with isolated systolic hypertension: the VitDISH randomized controlled trial</article-title>. <source>JAMA Intern Med</source>
+<year>2013</year>; <volume>173</volume>: <fpage>1672</fpage>&#x02013;<lpage>1679</lpage>.<pub-id pub-id-type="pmid">23939263</pub-id></mixed-citation></ref><ref id="dom12625-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="dom12625-cit-0034">
+<string-name>
+<surname>Kutlay</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Atli</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Aydogan</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Tutkakc</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Nergizoglu</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>The association of serum vitamin D levels with several cardiometabolic risk and aortic pulse wave velocity in elderly persons</article-title>. <source>Eur Geriatr Med</source>
+<year>2014</year>; <volume>5</volume>: <fpage>238</fpage>&#x02013;<lpage>241</lpage>.</mixed-citation></ref><ref id="dom12625-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="dom12625-cit-0035">
+<string-name>
+<surname>Pilz</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tomaschitz</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Pieber</surname>
+<given-names>TR</given-names>
+</string-name>. <article-title>Vitamin D status and arterial hypertension: a systematic review</article-title>. <source>Nat Rev Cardiol</source>
+<year>2009</year>; <volume>6</volume>: <fpage>621</fpage>&#x02013;<lpage>630</lpage>.<pub-id pub-id-type="pmid">19687790</pub-id></mixed-citation></ref><ref id="dom12625-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="dom12625-cit-0036">
+<string-name>
+<surname>Qin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Corriere</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Matrisian</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Guzman</surname>
+<given-names>RJ</given-names>
+</string-name>. <article-title>Matrix metalloproteinase inhibition attenuates aortic calcification</article-title>. <source>Arterioscler Thromb Vasc</source>
+<year>2006</year>; <volume>26</volume>: <fpage>1510</fpage>&#x02013;<lpage>1516</lpage>.</mixed-citation></ref><ref id="dom12625-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="dom12625-cit-0037">
+<string-name>
+<surname>Timms</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Mannan</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Hitman</surname>
+<given-names>GA</given-names>
+</string-name> et al. <article-title>Circulating MMP9, vitamin D and variation in the TIMP&#x02010;1 response with VDR genotype: mechanisms for inflammatory damage in chronic disorders?</article-title>
+<source>QJM</source>
+<year>2002</year>; <volume>95</volume>: <fpage>787</fpage>&#x02013;<lpage>796</lpage>.<pub-id pub-id-type="pmid">12454321</pub-id></mixed-citation></ref><ref id="dom12625-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="dom12625-cit-0038">
+<string-name>
+<surname>Lehmann</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Hirche</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Stangl</surname>
+<given-names>GI</given-names>
+</string-name>, <string-name>
+<surname>Hinz</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Westphal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Dierkes</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Bioavailability of vitamin D(2) and D(3) in healthy volunteers, a randomized placebo&#x02010;controlled trial</article-title>. <source>J Clin Endocrinol Metab</source>
+<year>2013</year>; <volume>98</volume>: <fpage>4339</fpage>&#x02013;<lpage>4345</lpage>.<pub-id pub-id-type="pmid">24001747</pub-id></mixed-citation></ref><ref id="dom12625-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="dom12625-cit-0039">
+<string-name>
+<surname>Hollis</surname>
+<given-names>BW</given-names>
+</string-name>. <article-title>Comparison of equilibrium and disequilibrium assay conditions for ergocalciferol, cholecalciferol and their major metabolites</article-title>. <source>J Steroid Biochem</source>
+<year>1984</year>; <volume>21</volume>: <fpage>81</fpage>&#x02013;<lpage>86</lpage>.<pub-id pub-id-type="pmid">6087030</pub-id></mixed-citation></ref><ref id="dom12625-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="dom12625-cit-0040">
+<string-name>
+<surname>Demetriou</surname>
+<given-names>ET</given-names>
+</string-name>, <string-name>
+<surname>Travison</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Holick</surname>
+<given-names>MF</given-names>
+</string-name>. <article-title>Treatment with 50,000 IU vitamin D(2) every other week and effect on serum 25&#x02010;hydroxyvitamin D(2), 25&#x02010;hydroxyvitamin D(3), and total 25&#x02010;hydroxyvitamin D in a clinical setting</article-title>. <source>Endocr Pract</source>
+<year>2012</year>; <volume>18</volume>: <fpage>399</fpage>&#x02013;<lpage>402</lpage>.<pub-id pub-id-type="pmid">22440989</pub-id></mixed-citation></ref><ref id="dom12625-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="dom12625-cit-0041">
+<string-name>
+<surname>Swanson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Nielson</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Shrestha</surname>
+<given-names>S</given-names>
+</string-name> et al. <article-title>Higher 25(OH)D2 is associated with lower 25(OH)D3 and 1,25(OH)2D3</article-title>. <source>J Clin Endocrinol Metab</source>
+<year>2014</year>; <volume>99</volume>: <fpage>2736</fpage>&#x02013;<lpage>2744</lpage>.<pub-id pub-id-type="pmid">24828488</pub-id></mixed-citation></ref><ref id="dom12625-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="dom12625-cit-0042">
+<string-name>
+<surname>Armas</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Hollis</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Heaney</surname>
+<given-names>RP</given-names>
+</string-name>. <article-title>Vitamin D2 is much less effective than vitamin D3 in humans</article-title>. <source>J Clin Endocrinol Metab</source>
+<year>2004</year>; <volume>89</volume>: <fpage>5387</fpage>&#x02013;<lpage>5391</lpage>.<pub-id pub-id-type="pmid">15531486</pub-id></mixed-citation></ref></ref-list></back></article>

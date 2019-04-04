@@ -1,0 +1,519 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Ind Health</journal-id><journal-id journal-id-type="iso-abbrev">Ind Health</journal-id><journal-id journal-id-type="publisher-id">INDHEALTH</journal-id><journal-title-group><journal-title>Industrial Health</journal-title></journal-title-group><issn pub-type="ppub">0019-8366</issn><issn pub-type="epub">1880-8026</issn><publisher><publisher-name>National Institute of Occupational Safety and Health, Japan</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">25224336</article-id><article-id pub-id-type="pmc">4273020</article-id><article-id pub-id-type="publisher-id">2014-0102</article-id><article-id pub-id-type="doi">10.2486/indhealth.2014-0102</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>The Influence of Break Timing on the Sleep Quantity and Quality of Fly-in,
+Fly-out Shiftworkers</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>PAECH</surname><given-names>Gemma M.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref rid="cor1" ref-type="corresp"><sup>*</sup></xref></contrib><contrib contrib-type="author"><name><surname>FERGUSON</surname><given-names>Sally A.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><contrib contrib-type="author"><name><surname>BANKS</surname><given-names>Siobhan</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>DORRIAN</surname><given-names>Jillian</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref></contrib><contrib contrib-type="author"><name><surname>ROACH</surname><given-names>Gregory D.</given-names></name><xref ref-type="aff" rid="aff1"><sup>1</sup></xref><xref ref-type="aff" rid="aff2"><sup>2</sup></xref></contrib><aff id="aff1"><label>1</label>Centre for Sleep Research, University of South Australia,
+Australia</aff><aff id="aff2"><label>2</label>Appleton Institute, Central Queensland University,
+Australia</aff></contrib-group><author-notes><corresp id="cor1">*To whom correspondence should be addressed. E-mail: <email xlink:href="gemma.paech@unisa.edu.au">gemma.paech@unisa.edu.au</email></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>9</month><year>2014</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2014</year></pub-date><volume>52</volume><issue>6</issue><fpage>521</fpage><lpage>530</lpage><history><date date-type="received"><day>05</day><month>5</month><year>2014</year></date><date date-type="accepted"><day>24</day><month>7</month><year>2014</year></date></history><permissions><copyright-statement>&#x000a9;2014 National Institute of Occupational Safety and
+Health</copyright-statement><copyright-year>2014</copyright-year><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><license-p>This is an open-access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial No Derivatives (by-nc-nd) License. </license-p></license></permissions><abstract><p>Although shift and break timing is known to affect the sleep of shiftworkers, this has
+not been demonstrated in Fly-in, Fly-out (FIFO) settings which, compared to residential
+based settings, may be favourable for sleep. This study investigated the sleep quantity
+and quality of shiftworkers working a FIFO operation comprising of shifts, and therefore
+breaks, across the 24-h day. The sleep of 24 males (50.43 &#x000b1; 8.57 yr) was measured using
+actigraphy and sleep diaries. Morning breaks were associated with less sleep (09:00&#x02013;12:00
+h; 4.4 &#x000b1; 1.3 h) and a poorer sleep quality (06:00&#x02013;09:00 h; 3.1 &#x000b1; 1.0, &#x0201c;average&#x0201d;) compared
+to breaks beginning between 00:00&#x02005;h and 03:00&#x02005;h (6.8 &#x000b1; 1.7 h; 2.2 &#x000b1; 0.9, &#x0201c;good&#x0201d;). Sleep
+efficiency remained constant regardless of break timing (85.9 &#x000b1; 5.0% to 89.9 &#x000b1; 3.5%).
+Results indicate that even in operations such as FIFO where sleeping conditions are
+near-optimal and the break duration is held constant, the influence of the endogenous
+circadian pacemaker on sleep duration is evident.</p></abstract><kwd-group><kwd>Shiftwork</kwd><kwd>Total sleep time</kwd><kwd>Sleep efficiency</kwd><kwd>Subjective sleep quality</kwd><kwd>Break timing</kwd></kwd-group></article-meta></front><body><sec sec-type="intro" id="s1"><title>Introduction</title><p>In Australia, approximately 16% of the working population, or 1.4 million people, report
+working shiftwork on a regular basis, with a large proportion of these individuals working
+within the mining sector<xref rid="r1" ref-type="bibr">1</xref><sup>)</sup>. Shiftworkers
+experience sleep loss and sleep disturbances which may lead to high levels of sleepiness,
+fatigue, and performance impairments<xref rid="r2" ref-type="bibr">2</xref>,<xref rid="r3" ref-type="bibr">3</xref>,<xref rid="r4" ref-type="bibr">4</xref>,<xref rid="r5" ref-type="bibr">5</xref>,<xref rid="r6" ref-type="bibr">6</xref>,<xref rid="r7" ref-type="bibr">7</xref><sup>)</sup>. Such impairments are associated with an
+increased risk of fatigue related incidents or accidents<xref rid="r8" ref-type="bibr">8</xref><sup>)</sup>. The sleep loss faced by shiftworkers is often the result of reduced
+opportunity for adequate sleep due to 1) a short turnaround times between shifts<xref rid="r9" ref-type="bibr">9</xref>,<xref rid="r10" ref-type="bibr">10</xref>,<xref rid="r11" ref-type="bibr">11</xref><sup>)</sup>, 2) sleeping out of phase with society and
+the external environment<xref rid="r12" ref-type="bibr">12</xref>, <xref rid="r13" ref-type="bibr">13</xref><sup>)</sup> and 3) sleeping out of phase with the endogenous circadian
+rhythm of sleep and wake<xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. In controlled
+laboratory studies it is possible to separate the influence of the circadian timing system
+on sleep from the aforementioned factors<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>, however these studies may not always be
+directly translatable to field environments. The current study provided a unique opportunity
+to investigate the impact of shift timing on sleep, while controlling the turnaround between
+shifts (i.e., constant break duration), the sleeping environment, and social/family
+responsibilities within a field environment.</p><p>Controlled laboratory studies have widely demonstrated the influence of the endogenous
+circadian pacemaker on sleep consolidation and sleep structure<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. Sleep during
+the early morning hours or near the minimum of the core body temperature rhythm
+(approximately 04:00&#x02013;06:00 h) is easily initiated and highly consolidated<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. Conversely, sleep during the evening hours, or around the maximum of
+the core body temperature rhythm is more difficult to initiate and often more
+fragmented<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>. In addition, sleep is usually longest when the sleep episode is
+initiated on the declining phase of the core body temperature rhythm, or during the
+evening/night. Sleep episodes initiated on the rising phase of the core body temperature
+rhythm, or during the morning/daytime, are associated with short sleep durations<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>,<xref rid="r18" ref-type="bibr">18</xref><sup>)</sup>.</p><p>Although controlled laboratory studies have clearly demonstrated the impact of time of day
+on sleep quantity and quality, results from these studies may not always be directly
+translatable to field situations, due to differences in participant demographics, and
+environmental, social, domestic and leisure conditions between laboratory and field
+situations. Field-based studies such as those by Ingre <italic>et al.</italic><xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> and Roach <italic>et al.</italic><xref rid="r19" ref-type="bibr">19</xref><sup>)</sup> have demonstrated the influence of shift
+timing on the sleep duration of shiftworkers. Shifts beginning shortly before noon (between
+09:00 and 12:00 h) are associated with up to 8-h of sleep, compared to approximately 6&#x02005;h of
+sleep for shifts beginning in the early morning (between 03:00 and 06:00 h)<xref rid="r9" ref-type="bibr">9</xref><sup>)</sup>. Similarly, rest breaks scheduled to begin
+in the evening (between 18:00 and 20:00 h, or after a daytime shift) are associated with up
+to 8&#x02005;h of sleep, compared to a maximum of 6&#x02005;h of sleep for rest breaks scheduled to begin in
+the early morning (between 06:00 and 08:00 h, or after a night shift)<xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. Therefore, shiftworkers attempting to sleep during the
+daytime following a night shift, and early in the evening prior to or between morning shifts
+are likely to have reduced sleep durations<xref rid="r9" ref-type="bibr">9</xref>, <xref rid="r19" ref-type="bibr">19</xref>,<xref rid="r20" ref-type="bibr">20</xref>,<xref rid="r21" ref-type="bibr">21</xref>,<xref rid="r22" ref-type="bibr">22</xref><sup>)</sup>.</p><p>Importantly, studies such as those by Ingre <italic>et al.</italic><xref rid="r9" ref-type="bibr">9</xref><sup>)</sup> and Roach <italic>et al.</italic><xref rid="r19" ref-type="bibr">19</xref><sup>)</sup> involved irregular shift schedules with varied shift and
+break durations between shifts. These variable shift schedules may be particularly
+disruptive, due to the constant state of circadian misalignment<xref rid="r10" ref-type="bibr">10</xref>, <xref rid="r13" ref-type="bibr">13</xref>, <xref rid="r23" ref-type="bibr">23</xref>,<xref rid="r24" ref-type="bibr">24</xref>,<xref rid="r25" ref-type="bibr">25</xref><sup>)</sup>. A further limitation is that
+sleep during these studies is influenced by time of day and sleep opportunity (i.e.,
+shift/break duration). As such, it is difficult to separate the contribution of time of day
+from shift/break durations. Investigation of a schedule that has a consistent sleep
+opportunity (in the form of break duration), but shifts/breaks occurring at different times
+of the day, provides a unique opportunity to better understand the independent contribution
+of sleep timing within field settings.</p><p>Fly-in, Fly-out (FIFO) operations are particularly important in Australia, where the rapid
+expansion of the mining industry has increased a demand for skilled workers in extremely
+remote locations. FIFO operations often mean that skilled workers can be employed without
+needing to relocate to remote areas, with consequent benefits for both employers and
+employees. In FIFO operations, employees fly to the work site or a nearby location, which
+may be based either onshore (e.g., mines) or offshore (e.g., oil rigs). Employees work a
+block of shifts, living onsite (offshore) or in a camp/nearby town (onshore), and fly home
+for blocks of time off. Shifts are commonly regular or fixed, whereby the shift start times
+and break durations are the same for all shifts (e.g., 12-h shifts with two start times, one
+in morning and one in evening).</p><p>It has been suggested that FIFO operations may be conducive for sleep, even during the
+daytime<xref rid="r26" ref-type="bibr">26</xref>,<xref rid="r27" ref-type="bibr">27</xref>,<xref rid="r28" ref-type="bibr">28</xref><sup>)</sup> when sleep propensity is
+typically low<xref rid="r14" ref-type="bibr">14</xref>,<xref rid="r15" ref-type="bibr">15</xref>,<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref><sup>)</sup>, with previous work in offshore FIFO populations indicating that
+workers obtain more sleep than residential-based shiftworkers<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup>. FIFO characteristics thought to aid sleep include an absence of
+social commitments (i.e., factors that compete with sleep), and conditions that promote
+sleep (i.e., dark/quiet bedrooms, reduced natural light exposure)<xref rid="r26" ref-type="bibr">26</xref>,<xref rid="r27" ref-type="bibr">27</xref>,<xref rid="r28" ref-type="bibr">28</xref>,<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup>. Indeed, several
+studies have demonstrated that offshore FIFO workers obtained up to 7&#x02005;h of sleep, even when
+the sleep opportunity occurred during the daytime<xref rid="r26" ref-type="bibr">26</xref>,<xref rid="r27" ref-type="bibr">27</xref>,<xref rid="r28" ref-type="bibr">28</xref><sup>)</sup>.</p><p>Recent studies in onshore FIFO workers suggest the opposite; that break or shift timing may
+be more influential than the specific work arrangement in determining the amount of sleep
+that shiftworkers can obtain<xref rid="r30" ref-type="bibr">30</xref>,<xref rid="r31" ref-type="bibr">31</xref>,<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup>. While these
+studies suggest that shift timing may be more influential on sleep duration, the range of
+shift start times examined were very narrow. Specifically day shifts started between 05:00
+and 06:00&#x02005;h and night shifts started between 17:00 and 18:00&#x02005;h. Thus, the impact of an
+onshore FIFO operation with shift start times across a 24-h period on sleep duration is
+unknown.</p><p>The current study examined the sleep quantity and quality of train drivers working in a
+FIFO operation that comprised of fixed break durations yet variable shift start times,
+making it possible to investigate the influence of time-of-day on sleep in a FIFO field
+setting with a constant break duration.</p></sec><sec sec-type="methods" id="s2"><title>Subjects and Methods</title><sec><title>Participants</title><p>A total of 42 train drivers were recruited for the study, with 13 withdrawing prior to
+study completion. Out of the remaining 29 train drivers, five worked roster schedules that
+deviated from the majority and so were excluded for the purposes of the current study
+(e.g., frequent days off due to sick leave, differing numbers of work days and days off
+between and during roster cycles). A final total of 24 male train drivers gave written,
+informed consent to participate in the study. Answers to a general health questionnaire
+revealed that participants were aged 50.43 &#x000b1; 8.57 yr (mean &#x000b1; SD, range: 34&#x02013;65 yr), with a
+self-reported BMI of 28.79 &#x000b1; 2.95&#x02005;kg/m<sup>2</sup>(range: 24.45&#x02013;35.79&#x02005;kg/m<sup>2</sup>),
+which is considered to be overweight<xref rid="r33" ref-type="bibr">33</xref><sup>)</sup>.
+Six participants reported that they regularly smoked cigarettes and the majority (21
+participants) regularly consumed caffeinated beverages (average &#x0003c;3 drinks/day). About
+half (n=14) of the participants reported consuming alcoholic beverages on days off with an
+average of 8.6 &#x000b1; 5.7 drinks per week (range: 2&#x02013;21). All participants were experienced
+train drivers, with a self-reported average of 27.1 &#x000b1; 8.5 yr (range: 14&#x02013;40 yr) working
+shiftwork within the rail industry. Morningness/eveningness scores were not
+determined.</p><p>Prior to participation, informed consent was obtained from all participants. The current
+study approval from the University of South Australia Human Research Ethics Committee
+using guidelines established by the National Health and Medical Research Council of
+Australia. Participants did not receive any additional payment above their normal salary.
+Participants were informed that their participation was completely voluntary and that they
+could withdraw at any time without giving any reason. Participants were also informed that
+neither their results from the study, nor their involvement in the study would impact
+their employment status with the company in any way.</p></sec><sec><title>Materials</title><p>Sleep was assessed throughout the study using wrist activity monitoring devices
+(Actiwatch-64, Philips Respironics, Bend, Oregon, USA). The use of actigraphy in field
+settings has been shown to be comparable to polysomnography (PSG) with regards to sleep
+duration<xref rid="r34" ref-type="bibr">34</xref><sup>)</sup>. Participants were told
+that they could wear the activity monitor on either wrist but that they must wear it on
+the same wrist at all times except where contact with water was unavoidable (e.g., whilst
+showering or swimming) or in situations where the monitor was likely to get damaged (e.g.,
+whilst performing heavy labour). Activity monitors contained a piezo-electric
+accelerometer with a sensitivity of 0.1g.The analogue sensor samples movement every 125&#x02005;ms
+(i.e., at a frequency of 8&#x02005;Hz) and the signal is filtered by a bandpass filter of
+0.25&#x02013;3.0&#x02005;Hz. The activity counts are then expressed as 1-min epochs. Data from the
+activity monitor were extracted and an automated algorithm was generated using the
+Actiware-Sleep software version 3.4 (Mini Mitter Company, Inc., Bend, Oregon, USA).</p><p>Participants also provided detailed information about their sleep in a sleep diary. Prior
+to and following each sleep episode, including naps, participants recorded the location
+where they attempted to sleep (e.g., at provided accommodation site, at home, on the
+train, on a plane or other), the time that they attempted to start sleeping (i.e.,
+&#x0201c;lights-off&#x0201d;), the time that they finished sleeping (i.e., &#x0201c;lights-on&#x0201d;) and their sleep
+quality rating. Subjective sleep quality was assessed using a 5-point Likert scale where 1
+= &#x0201c;very good&#x0201d; and 5 = &#x0201c;very poor&#x0201d;. Participants were also free to record any additional
+comments regarding their sleep, for example, noise disturbance, difficulty falling asleep
+and nap episodes.</p><p>Sleep-wake patterns were assessed using information from activity monitors in conjunction
+with sleep and shift diaries. Algorithms derived from the Actiware-Sleep software were
+integrated into a Microsoft Excel workbook to generate an activity plot. The resultant
+activity plot was then used to cross-reference input from sleep and shift diaries with
+output from the activity algorithms. Where any inaccuracies were identified adjustments
+were made consistent with previously published reports<xref rid="r32" ref-type="bibr">32</xref>, <xref rid="r35" ref-type="bibr">35</xref><sup>)</sup>. For example, if a
+participant had reported that they were sleeping but the activity monitor indicated that
+they were not sleeping (as indicated by high activity counts) then the sleep period was
+adjusted to reflect a more accurate representation of the sleep episode. Variables
+extracted from the sleep diaries and activity monitors included:</p><p>&#x02022; <italic>Total sleep time (TST):</italic> the
+total amount of sleep obtained between sleep onset and sleep offset</p><p>&#x02022; <italic>sleep efficiency:</italic> the TST as
+a percentage of time in bed (TIB) from sleep onset to sleep offset</p><p>&#x02022; <italic>subjective sleep quality:</italic>
+subjective reports of sleep quality using a 5-point scale.</p><p>Participants provided detailed information about their actual shift start and end times
+in a shift diary.</p></sec><sec><title>Work setting</title><p>The roster used on site involved seven shifts beginning every hour between 01:00 and
+12:00&#x02005;h (hereafter referred to as &#x0201c;AM shifts&#x0201d;) followed by seven shifts beginning every
+hour between 13:00 and 00:00&#x02005;h (hereafter referred to as &#x0201c;PM shifts&#x0201d;). All shifts were
+12&#x02005;h (i.e., 12&#x02005;h breaks) in duration with a 24-h change-over period between AM shifts and
+PM shifts. Work cycles were followed by either seven or 14 d off. As such, a complete
+roster cycle lasted for either 21 or 28 d, depending on the number of days off.</p><p>For each roster cycle, participants were scheduled the same shift start time for all AM
+shifts and the same shift start time for all PM shifts. Upon returning to work for the
+subsequent roster cycle, drivers were scheduled a different shift start time (usually 1&#x02005;h
+later than the previous roster cycle) for all AM shifts and all PM shifts. A graphical
+representation of this shift schedule is shown in <xref ref-type="fig" rid="fig_001">Fig
+1</xref><fig orientation="portrait" fig-type="figure" id="fig_001" position="float"><label>Fig. 1.</label><caption><p>Representation of the shift schedule for two participants over one roster cycle.
+Light grey bars represent rostered shift periods. Black bars represent allowed rest
+opportunity between shifts. Dark grey bars represent non-work periods (i.e. days off
+and the shift change-over period between day shifts and night shifts). For the first
+participant (roster cycle A), the shifts were scheduled to begin at 02:00&#x02005;h (AM
+shifts) and 14:00&#x02005;h (PM shifts). For the second participant (roster cycle B), shifts
+were scheduled to begin at 05:00&#x02005;h (AM shifts) and 17:00&#x02005;h (PM shifts). Note that
+this is a representative schedule demonstrating the differing shift start times for
+each driver.</p></caption><graphic xlink:href="indhealth-52-521-g001"/></fig>. The roster was designed such that over an extended period of time (i.e., multiple
+months to a year) all participants were scheduled to start shifts at all times of the day
+and night.</p><p>Participants flew to a township nearby the main rail depot from various parts of
+Australia and New Zealand (one participant). Throughout the two-week work cycle,
+participants were accommodated in company-owned facilities. Participants stayed in
+single-room apartments containing an ensuite and small kitchen area. All rooms were
+equipped with a bed and basic amenities (e.g., a television, fridge, kettle, telephone,
+and internet access). Rooms had block-out blinds to minimise/eliminate daytime light
+exposure and were relatively quiet, with a self-contained air-conditioning unit (i.e.,
+participants could adjust room temperature to suit themselves). Although participants did
+not always stay in the same room each time they were onsite, all rooms were similar and
+therefore provided comparable sleeping conditions for all participants. Data was collected
+across the Australian summer months (sunrise and sunset approximately 05:00&#x02013;19:00 with
+approximately 14&#x02005;h natural sunlight, compared to approximately 11&#x02005;h natural sunlight
+during the winter months).</p><p>All meals (main meals and snacks) and non-alcoholic drinks (e.g., water, juice and soft
+drinks) were provided onsite. Participants were required to drive to the main rail depot,
+approximately a 15-min drive, before and after each shift. Whilst drivers were required to
+make their own way to work, vehicles for transportation were provided.</p></sec><sec><title>Procedure</title><p>Data were collected from drivers for one roster cycle period involving seven AM shifts,
+seven PM shifts and seven days off. For drivers with 14 d off, data were collected for the
+first seven days off. During this period participants worked their normal scheduled
+roster. Data regarding participants&#x02019; sleep-wake patterns were obtained using sleep diaries
+in conjunction with wrist activity monitors. Participants reported their actual hours of
+work in a shift diary.</p></sec><sec><title>Data analysis</title><p>To assess the effect of break timing on sleep quantity and quality, break onset times
+(i.e., shift end times) were grouped into 3-h bins starting at midnight (e.g., 00:00&#x02013;03:00
+h, 03:00&#x02013;06:00 h). Naps were defined as sleep periods with a TIB &#x02264;30&#x02005;min (reported sleep
+times in sleep diary) and when a driver had specified that the sleep was a &#x0201c;nap&#x0201d; in their
+sleep diary. Although napping whilst on shift was not condoned by the company, two
+participants reported napping while on shift. Further, while seven participants reported
+having naps at some stage during the study, only two of these participants (the same two
+participants that reported napping while on shift) regularly napped (e.g., one nap between
+each shift) and so naps were excluded from the analyses.</p><p>Where any participant had multiple sleep periods between shifts or within a 24-h period
+on days off (with the exclusion of the predefined naps) the sleep periods were combined to
+give one value for TST and one value for sleep efficiency (sum TST/sum TIB*100). Nine
+participants (22 occurrences) split their sleep (had more than one sleep episode); all
+were associated with breaks beginning between 04:00 and 12:00&#x02005;h. Multiple sleep episodes
+were combined to determine how much sleep drivers were obtaining between shifts and on
+days off. In the instances where sleeps were combined, the subjective sleep quality rating
+was averaged. A total of 293 sleep episodes were included in these analyses. Separate
+mixed model analyses were performed to assess the main effects of <italic>break onset time
+</italic>(independent variable) on TST, sleep efficiency and subjective sleep quality
+(dependent variables). Where a significant main effect was found, post-hoc pairwise
+comparisons (least significant difference) were performed.</p><p>To assess sleep quantity and quality between work cycles and days off, sleep episodes
+were labelled as either a &#x0201c;work day&#x0201d; or a &#x0201c;day off&#x0201d; irrespective of the time of day that
+the sleep episode occurred. A total of 428 sleep episodes (293 + 135 [sleep episodes
+between shifts + sleep episodes on days off]) were included in these analyses. Separate
+mixed model analyses were performed to assess the main effects of <italic>work or rest
+</italic>(independent variables) on TST, sleep efficiency and subjective sleep quality
+(dependent variables).</p><p>All analyses were performed using SPSS v.17 for Windows and all models specified
+participant ID as a random effect. Data are presented as mean &#x000b1; SD unless specified
+otherwise and significance was assumed at <italic>p</italic>&#x02264;0.05. <italic>p</italic> values are reported to two decimal places
+except where <italic>p</italic>&#x0003c;0.001.</p><p>Whilst there were a few instances where participants reported sleeping either on the
+train (n=2) or on a plane (n=9), most participants reported primarily sleeping either at
+the accommodation site or at home. Due to the criteria defining a nap episode, most of the
+sleep episodes that drivers reported having on either the train or a plane were excluded
+from data analyses.</p></sec></sec><sec sec-type="results" id="s3"><title>Results</title><sec><title>Shift times</title><p>We captured data from participants whose breaks began at all times of the day except
+11:00 and 23:00&#x02005;h (we were unable to obtain volunteers for this break onset time). Despite
+a wide range in the break onset times, the majority of the participants began their breaks
+between 06:00 and 09:00&#x02005;h (approximately 23% of all the shifts examined), and 18:00 and
+21:00&#x02005;h (approximately 25% of shifts) (<xref ref-type="fig" rid="fig_002">Fig. 2</xref><fig orientation="portrait" fig-type="figure" id="fig_002" position="float"><label>Fig. 2.</label><caption><p>Histogram representing the frequencies of break onset times worked by
+participants.</p></caption><graphic xlink:href="indhealth-52-521-g002"/></fig>).</p></sec><sec><title>Sleep quantity and quality</title><p><xref rid="tbl_001" ref-type="table">Table 1</xref><table-wrap id="tbl_001" orientation="portrait" position="float"><label>Table 1.</label><caption><title>Sleep variables for work periods and days off</title></caption><table frame="hsides" rules="groups"><thead><tr><th align="center" rowspan="1" colspan="1"/><th align="center" rowspan="1" colspan="1">Work</th><th align="center" rowspan="1" colspan="1">Rest</th><th align="center" rowspan="1" colspan="1">DF</th><th align="center" rowspan="1" colspan="1">F</th><th align="center" rowspan="1" colspan="1"><italic>p</italic></th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Total sleep time (h)</td><td align="center" rowspan="1" colspan="1">6.1 &#x000b1; 1.5</td><td align="center" rowspan="1" colspan="1">6.6 &#x000b1; 1.6</td><td align="center" rowspan="1" colspan="1">1,411</td><td align="center" rowspan="1" colspan="1">11.94</td><td align="center" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Sleep efficiency (%)</td><td align="center" rowspan="1" colspan="1">87.5 &#x000b1; 5.2</td><td align="center" rowspan="1" colspan="1">88.1 &#x000b1; 4.9</td><td align="center" rowspan="1" colspan="1">1,406</td><td align="center" rowspan="1" colspan="1">0.04</td><td align="center" rowspan="1" colspan="1">0.85</td></tr><tr><td align="left" rowspan="1" colspan="1">Subjective sleep quality (ratings)</td><td align="center" rowspan="1" colspan="1">2.8 &#x000b1; 0.9</td><td align="center" rowspan="1" colspan="1">2.5 &#x000b1; 0.9</td><td align="center" rowspan="1" colspan="1">1,432</td><td align="center" rowspan="1" colspan="1">6.4</td><td align="center" rowspan="1" colspan="1">0.01</td></tr></tbody></table><table-wrap-foot><p>Work = sleep obtained between shifts; rest = sleep obtained on days off. Values
+represent mean &#x000b1; SD. Subjective sleep quality ratings were based on a 5-point Likert
+scale where 1 = &#x0201c;very good&#x0201d; and 5 = &#x0201c;very poor&#x0201d;.</p></table-wrap-foot></table-wrap> shows the average quantity and quality of sleep obtained by participants
+either between work periods (work) or on days off (rest). Participants obtained
+significantly more sleep during their days off than they did between work periods (<xref rid="tbl_001" ref-type="table">Table 1</xref>). There was little difference in sleep
+efficiency between work periods and days off (<xref rid="tbl_001" ref-type="table">Table
+1</xref>). However, participants reported that their sleep quality was better on days
+off than between work periods, reporting &#x0201c;good&#x0201d; sleep quality on days off compared to
+&#x0201c;average&#x0201d; between work periods (<xref rid="tbl_001" ref-type="table">Table 1</xref>).</p><p>There was a main effect of <italic>break onset time</italic> on TST obtained
+(<italic>F</italic><sub>7,151</sub>=5.54, <italic>p</italic>&#x0003c;0.001). Breaks beginning
+between 09:00 and 12:00&#x02005;h were associated with the shortest TST, averaging 4.4&#x02005;h &#x000b1; 1.3 h,
+whereas breaks beginning between 00:00 and 03:00&#x02005;h were associated with the longest TST,
+averaging 6.8&#x02005;h &#x000b1; 1.7&#x02005;h. In general, TST was shorter for morning and daytime breaks than
+for breaks beginning during the evening and night (<xref ref-type="fig" rid="fig_003">Fig.
+3</xref><fig orientation="portrait" fig-type="figure" id="fig_003" position="float"><label>Fig. 3.</label><caption><p>Total sleep time, sleep efficiency and subjective sleep quality as a function of
+break onset time. Total sleep time (top) is expressed in hours and sleep efficiency
+(middle) is expressed as a percentage of time spent asleep between sleep onset and
+sleep offset. Subjective sleep quality (bottom) is expressed as a rating of 1&#x02013;5 with
+the scale shown on the right y axis. All variables are the mean &#x000b1; SEM of individual
+sleep episodes. The number of samples for each break onset time is indicated in
+white text.</p></caption><graphic xlink:href="indhealth-52-521-g003"/></fig>).</p><p>Sleep efficiency was not influenced by break onset time (<xref ref-type="fig" rid="fig_003">Fig. 3</xref>), with no main effect of <italic>break onset time</italic>
+on sleep efficiency (<italic>F</italic><sub>7,208</sub>=1.26, <italic>p</italic>=0.28).
+Sleep efficiencies ranged from between 85.9% &#x000b1; 5.0% (for breaks beginning between 06:00
+and 09:00 h) and 89.9% &#x000b1; 3.5% (for breaks beginning between 00:00 and 03:00 h).</p><p>Finally, there was a main effect of <italic>break onset time</italic> on subjective sleep
+quality (<italic>F</italic><sub>7,209</sub>=3.21, <italic>p</italic>=0.003). Participants
+reported that their sleep quality was poorest (3.1 &#x000b1; 1.0, &#x0201c;average&#x0201d;) when breaks began
+between 06:00 and 09:00 h, which corresponded with the lowest sleep efficiency observed
+(<xref ref-type="fig" rid="fig_003">Fig. 3</xref>). Similarly, participants reported
+that their sleep quality was the best (2.2 &#x000b1; 0.9, &#x0201c;good&#x0201d;) when breaks began between 00:00
+and 03:00 h, which corresponded with the highest sleep efficiency observed (<xref ref-type="fig" rid="fig_003">Fig. 3</xref>).</p></sec></sec><sec sec-type="discussion" id="s4"><title>Discussion</title><p>The current study investigated the influence of break timing on the sleep quantity and
+quality of train drivers working an onshore FIFO operation. Although controlled laboratory
+studies have demonstrated the impact of time of day on sleep quantity and quality<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref><sup>)</sup>, results from these studies may not always be directly translatable
+to field situations, primary due to differences in participant demographics, and
+environmental, social, domestic and leisure conditions between laboratory and field
+situations. Likewise, while previous studies<xref rid="r9" ref-type="bibr">9</xref>, <xref rid="r19" ref-type="bibr">19</xref><sup>)</sup> have demonstrated an effect of shift and
+break timing on the sleep of shiftworkers, these studies involved irregular shift schedules
+with varied shift and break durations between shifts. In this way, the sleep of shiftworkers
+in these studies is influenced by both time of day and the sleep opportunity (i.e.,
+shift/break duration). We were given the unique opportunity to investigate the influence of
+break timing on sleep duration while controlling the break duration, the sleeping
+environment, and the social/family responsibilities within a field environment.</p><p>The amount of sleep participants obtained between shifts and their subjective assessments
+of sleep quality were dependent on break onset time, whereas sleep efficiency remained high
+irrespective of the time of day that breaks occurred. Although it has been suggested that
+compared to residential based settings, FIFO work arrangements may be conducive for
+sleep<xref rid="r26" ref-type="bibr">26</xref>,<xref rid="r27" ref-type="bibr">27</xref>,<xref rid="r28" ref-type="bibr">28</xref>,<xref rid="r29" ref-type="bibr">29</xref><sup>)</sup>, this does not appear to hold true for all settings (i.e., onshore
+settings). Current results support recent work<xref rid="r30" ref-type="bibr">30</xref>,<xref rid="r31" ref-type="bibr">31</xref>,<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup> suggesting that even in FIFO operations where there is sufficient
+time for sleep between shifts and near-optimal sleeping conditions, the influence of the
+endogenous circadian pacemaker on sleep duration is evident.</p><p>Participants obtained an average of 6&#x02005;h sleep, which may represent moderate sleep
+restriction<xref rid="r2" ref-type="bibr">2</xref>, <xref rid="r6" ref-type="bibr">6</xref><sup>)</sup>. Participants may have also experienced circadian misalignment
+during their shift schedules due to sleeping out of phase with their endogenous circadian
+timing system<xref rid="r12" ref-type="bibr">12</xref>, <xref rid="r13" ref-type="bibr">13</xref><sup>)</sup>. The sleep restriction and circadian misalignment that participants
+may have been experienced could have negatively influenced their sleep<xref rid="r36" ref-type="bibr">36</xref>, <xref rid="r37" ref-type="bibr">37</xref><sup>)</sup> and waking
+performance<xref rid="r6" ref-type="bibr">6</xref>, <xref rid="r38" ref-type="bibr">38</xref><sup>)</sup>.</p><p>Sleep duration was dependent on break timing, with night-time breaks associated with almost
+7&#x02005;h sleep, compared to breaks beginning in the early to mid-morning which were associated
+with as little as 4.5&#x02005;h sleep. While a time of day effect on sleep duration is in
+concordance with previous field based studies<xref rid="r9" ref-type="bibr">9</xref>, <xref rid="r19" ref-type="bibr">19</xref>, <xref rid="r21" ref-type="bibr">21</xref><sup>)</sup>, the overall amount of sleep obtained by participants in the current
+study was greater than these previous reports. Specifically, in the study by Roach
+<italic>et al.</italic><xref rid="r19" ref-type="bibr">19</xref><sup>)</sup> shiftworkers
+obtained an average of 5.2&#x02005;h sleep between shifts, 1&#x02005;h less than current results. The longer
+sleep durations observed in the current study may indicate that the FIFO work arrangement
+(i.e., the reduction in competing factors for sleep) enabled shiftworkers to better utilise
+sleeping opportunities than those in residential situations. Although no residential-based
+group was involved in the current study recent work<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup> demonstrates that onshore FIFO workers obtain similar sleep
+durations to their residential counterparts. Current results, along with these previous
+suggestions<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup>, indicate that the
+endogenous circadian timing system<xref rid="r14" ref-type="bibr">14</xref>,<xref rid="r15" ref-type="bibr">15</xref>,<xref rid="r16" ref-type="bibr">16</xref>,<xref rid="r17" ref-type="bibr">17</xref>,<xref rid="r18" ref-type="bibr">18</xref>, <xref rid="r39" ref-type="bibr">39</xref><sup>)</sup> is likely to have a greater influence on
+sleep duration than the specific work arrangement.</p><p>Although it might be assumed that 12-h breaks allow sufficient time for sleep, particularly
+in FIFO settings where social and family responsibilities are reduced, previous studies
+suggest that with 12-h breaks it may be difficult for workers to obtain more than 6&#x02005;h
+sleep<xref rid="r11" ref-type="bibr">11</xref>, <xref rid="r19" ref-type="bibr">19</xref><sup>)</sup>. It is important to note that a 12-h break between shifts does not
+always allow for 12&#x02005;h of rest time, or necessarily equate to a long sleep opportunity. Break
+periods between shifts usually also encompass the commute, activities such as eating,
+showering, exercising and contacting family/friends, and general &#x0201c;down-time&#x0201d; (e.g., watching
+TV, surfing the net)<xref rid="r40" ref-type="bibr">40</xref>, <xref rid="r41" ref-type="bibr">41</xref><sup>)</sup>. As such, when designing rosters, activities outside work
+such as the commute and general downtime should be taken into consideration with regards to
+break duration.</p><p>TST increased on days off relative to work periods yet the amount of sleep obtained was
+less compared to previous reports<xref rid="r30" ref-type="bibr">30</xref>,<xref rid="r31" ref-type="bibr">31</xref>,<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup>.
+This may reflect habitual sleep patterns in the current population. However, as we only
+recorded sleep during the first seven days off (some participants had a total of 14 d off),
+it is possible that participants may have obtained more sleep during their second week off.
+Unlike previous reports<xref rid="r30" ref-type="bibr">30</xref>,<xref rid="r31" ref-type="bibr">31</xref>,<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup>, most
+participants in the current study had long flights home from the work site (up to a full day
+of travelling) and many participants had time zone differences between the work site and
+their homes (where there was a time zone difference this was a minimum of 2.5 h). The
+attempt to recover from extended work periods with unusual shift start times, mild jet lag,
+and extended travelling times may have increased the length of time required by participants
+to return to their habitual sleeping patterns.</p><p>Irrespective of the time of day that breaks began, sleep efficiencies ranged between 86%
+and 90%. An average sleep efficiency of 88% is within the expected range for healthy adults
+(80&#x02013;90%)<xref rid="r42" ref-type="bibr">42</xref><sup>)</sup> and is in concordance with
+previous reports<xref rid="r27" ref-type="bibr">27</xref>, <xref rid="r28" ref-type="bibr">28</xref>, <xref rid="r43" ref-type="bibr">43</xref><sup>)</sup>. Despite this, it was
+expected that break timing would influence sleep efficiency to some extent<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref>, <xref rid="r39" ref-type="bibr">39</xref><sup>)</sup>. The absence of a time-of-day effect on
+sleep efficiency may simply be the difference between the requirements of laboratory-based
+protocols and field-based protocols. In laboratory protocols, participants are typically
+required to remain in bed, even if they are not sleeping (i.e., there is a set TIB).
+Alternatively, in most field situations, individuals are not required to remain in bed. As
+sleep efficiency is calculated as a percentage of TIB, depending on the TIB, sleep
+efficiency can vary.</p><p>The high sleep efficiencies in the current study may also indicate that drivers were
+experiencing some form of sleep restriction<xref rid="r44" ref-type="bibr">44</xref><sup>)</sup>, potentially during work periods and days off. Recent research
+suggest that when sleep is restricted to the equivalent of 6&#x02005;h per 24-h period, the
+circadian influence on sleep efficiency is reduced, such that sleep remains consolidated
+regardless of circadian timing<xref rid="r36" ref-type="bibr">36</xref>, <xref rid="r37" ref-type="bibr">37</xref><sup>)</sup>. It is also possible that favourable
+sleeping environments (e.g., quiet, dark rooms both at home and while onsite) aided in sleep
+consolidation.</p><p>Participants reported poorer sleep quality for breaks beginning in the morning compared to
+breaks beginning during the night. Participants may have felt that sleep during the day was
+&#x0201c;lighter&#x0201d; or less restorative than sleep during the night. However, they may have also
+expected to sleep worse during the day than at night, either consciously or subconsciously
+rating their sleep quality accordingly. Recently, it has been demonstrated that subjective
+assessments of fatigue made in the absence of knowledge of time of day or sleep duration are
+influenced by circadian timing and sleep duration<xref rid="r45" ref-type="bibr">45</xref><sup>)</sup>, suggesting that the subjective measures of sleep quality in the
+current study reflect the actual influence of circadian timing on subjective sleep quality
+measures rather than anticipated influences. Regardless, the influence of knowledge of time
+of day on subjective sleep quality ratings needs further investigation.</p><p>Participants also reported poorer sleep quality onsite compared to sleep whilst on days
+off. An improved sleep quality whilst on days off may just be the result of participants
+sleeping at home in their most comfortable environment. Alternatively, a better report of
+sleep quality on days off may be reflective of the longer sleep durations on days off
+compared to work periods.</p><p>Although results from the current study highlight the importance of shift timing on the
+sleep quantity and quality, there are some limitations that need to be considered. The
+current sample size was relatively small, with the majority of breaks beginning around 06:00
+and 18:00. It is possible that results may reflect some inter-individual differences and so
+future work should encompass a greater variety in shift start times to gain a more
+comprehensive account of the impact of shift start times in such a unique setting.</p><p>Sleep in the current study was objectively assessed using actigraphy. Actigraphy is widely
+used in field settings, partly because it is non-invasive and is reasonably efficient.
+However, PSG is considered to be the &#x0201c;gold standard&#x0201d; for recording sleep and can allow for
+more detailed assessments of sleep efficiency and individual sleep stages to be measured.
+Although actigraphy has been shown to be a good indicator of sleep duration when compared to
+PSG, actigraphy is less accurate at measuring sleep efficiency, particularly daytime sleep
+and sleep in older populations<xref rid="r34" ref-type="bibr">34</xref>, <xref rid="r46" ref-type="bibr">46</xref>, <xref rid="r47" ref-type="bibr">47</xref><sup>)</sup>. Results from the current study regarding the sleep efficiency during
+daytime sleep episodes may be somewhat overestimated. Future studies could encompass some
+measures of PSG to gain a wider, and perhaps more accurate, insight into how shift timing
+affects the specific sleep structure in field settings.</p><p>While the current study was partly aimed at determining if a FIFO environment minimises the
+effect of break/shift timing on sleep duration, no residential-based group was involved.
+Future studies should include residential workers to compare to FIFO workers. However, based
+on previous work conducted by our group<xref rid="r32" ref-type="bibr">32</xref><sup>)</sup>, it appears that there is little difference in the amount of sleep
+between residential-based workers and FIFO workers on the same schedule, at least within
+Australian environments. The influence of factors such as natural or bright light exposure
+and the endogenous circadian timing system<xref rid="r14" ref-type="bibr">14</xref>, <xref rid="r15" ref-type="bibr">15</xref>, <xref rid="r48" ref-type="bibr">48</xref>, <xref rid="r49" ref-type="bibr">49</xref><sup>)</sup> are likely to outweigh any specific work
+or living arrangements when it comes to sleep duration. Therefore, it might be expected that
+even if a residentially based comparison group was included in the current study, sleep
+durations would have been similar between the FIFO workers and residential workers.</p><p>In contrast to onshore settings, there are several conditions in some offshore settings
+that may have positive effects on sleep. Factors such as 1) cooler temperatures in the
+northern hemisphere<xref rid="r50" ref-type="bibr">50</xref><sup>)</sup>, 2) the amount (and
+timing) of natural light exposure<xref rid="r48" ref-type="bibr">48</xref>, <xref rid="r51" ref-type="bibr">51</xref>, <xref rid="r52" ref-type="bibr">52</xref><sup>)</sup>
+and 3) fewer competing factors for sleep<xref rid="r29" ref-type="bibr">29</xref>, <xref rid="r52" ref-type="bibr">52</xref><sup>)</sup>, should be taken into account when
+comparing current results to previous reports<xref rid="r26" ref-type="bibr">26</xref>,<xref rid="r27" ref-type="bibr">27</xref>,<xref rid="r28" ref-type="bibr">28</xref><sup>)</sup>.</p><p>The current study confirms that shift timing is a critical factor in determining sleep
+duration and subjective perceptions of sleep in shiftworkers, even in FIFO settings where
+break duration is held constant, sleeping conditions are near-optimal and the social/family
+responsibilities are minimised. Sleep efficiency remained high at all times, implying that
+despite possible circadian misalignment, shiftworkers are still able to obtain relatively
+consolidated sleep episodes. Current results suggest that despite the unique FIFO conditions
+(e.g., long break duration, near-optimal sleeping conditions and minimised social/family
+responsibilities) the circadian timing on sleep remains evident. In conclusion, there is not
+a one-size-fits-all approach to managing the challenges of shiftwork. Differences in
+environments, facilities, shift schedules and even participant demographics, no matter how
+small, may alter the way in which a particular shift arrangement affects the sleep quantity
+and quality of workers<xref rid="r53" ref-type="bibr">53</xref><sup>)</sup>. Policies made
+based predominately on results from laboratory or offshore FIFO may not be applicable to all
+situations, as indicated by current results.</p></sec></body><back><ref-list><title>References</title><ref id="r1"><label>1</label><mixed-citation publication-type="book"><person-group><name><surname>Working Time Arrangements,</surname></name></person-group>.</mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><person-group><name><surname>Belenky</surname><given-names>G</given-names></name><name><surname>Wesensten</surname><given-names>NJ</given-names></name><name><surname>Thorne</surname><given-names>DR</given-names></name><name><surname>Thomas</surname><given-names>ML</given-names></name><name><surname>Sing</surname><given-names>HC</given-names></name><name><surname>Redmond</surname><given-names>DP</given-names></name><name><surname>Russo</surname><given-names>MB</given-names></name><name><surname>Balkin</surname><given-names>TJ</given-names></name></person-group> (<year>2003</year>) <article-title>Patterns of performance degradation and
+restoration during sleep restriction and subsequent recovery: a sleep dose-response
+study</article-title>. <source>J Sleep Res</source><volume>12</volume>,
+<fpage>1</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="pmid">12603781</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="journal"><person-group><name><surname>Lamond</surname><given-names>N</given-names></name><name><surname>Dorrian</surname><given-names>J</given-names></name><name><surname>Roach</surname><given-names>GD</given-names></name><name><surname>McCulloch</surname><given-names>K</given-names></name><name><surname>Holmes</surname><given-names>AL</given-names></name><name><surname>Burgess</surname><given-names>HJ</given-names></name><name><surname>Fletcher</surname><given-names>A</given-names></name><name><surname>Dawson</surname><given-names>D</given-names></name></person-group> (<year>2003</year>) <article-title>The impact of a week of simulated night
+work on sleep, circadian phase, and performance</article-title>. <source>Occup Environ
+Med</source><volume>60</volume>, <fpage>e13</fpage>. <pub-id pub-id-type="pmid">14573724</pub-id></mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><person-group><name><surname>Dinges</surname><given-names>DF</given-names></name><name><surname>Pack</surname><given-names>F</given-names></name><name><surname>Williams</surname><given-names>K</given-names></name><name><surname>Gillen</surname><given-names>KA</given-names></name><name><surname>Powell</surname><given-names>JW</given-names></name><name><surname>Ott</surname><given-names>GE</given-names></name><name><surname>Aptowicz</surname><given-names>C</given-names></name><name><surname>Pack</surname><given-names>AI</given-names></name></person-group> (<year>1997</year>) <article-title>Cumulative sleepiness, mood
+disturbance, and psychomotor vigilance performance decrements during a week of sleep
+restricted to 4&#x02013;5 hours per night</article-title>.
+<source>Sleep</source><volume>20</volume>, <fpage>267</fpage>&#x02013;<lpage>77</lpage>.
+<pub-id pub-id-type="pmid">9231952</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><person-group><name><surname>Tilley</surname><given-names>AJ</given-names></name><name><surname>Wilkinson</surname><given-names>RT</given-names></name><name><surname>Warren</surname><given-names>PSG</given-names></name><name><surname>Watson</surname><given-names>B</given-names></name><name><surname>Drud</surname><given-names>M</given-names></name></person-group> (<year>1982</year>) <article-title>The sleep and performance of shift
+workers</article-title>. <source>Hum Factors</source><volume>24</volume>,
+<fpage>629</fpage>&#x02013;<lpage>41</lpage>. <pub-id pub-id-type="pmid">7160851</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><person-group><name><surname>Van Dongen</surname><given-names>HPA</given-names></name><name><surname>Maislin</surname><given-names>G</given-names></name><name><surname>Mullington</surname><given-names>JM</given-names></name><name><surname>Dinges</surname><given-names>DF</given-names></name></person-group> (<year>2003</year>) <article-title>The cumulative cost of additional
+wakefulness: dose-response effects on neurobehavioral functions and sleep physiology
+from chronic sleep restriction and total sleep deprivation</article-title>.
+<source>Sleep</source><volume>26</volume>, <fpage>117</fpage>&#x02013;<lpage>26</lpage>.
+<pub-id pub-id-type="pmid">12683469</pub-id></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><person-group><name><surname>Wyatt</surname><given-names>JK</given-names></name><name><surname>Ritz-De Cecco</surname><given-names>A</given-names></name><name><surname>Czeisler</surname><given-names>CA</given-names></name><name><surname>Dijk</surname><given-names>DJ</given-names></name></person-group> (<year>1999</year>) <article-title>Circadian temperature and melatonin
+rhythms, sleep, and neurobehavioral function in humans living on a 20-h
+day</article-title>. <source>Am J Physiol</source><volume>277</volume>,
+<fpage>R1152</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="pmid">10516257</pub-id></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="journal"><person-group><name><surname>Mitler</surname><given-names>MM</given-names></name><name><surname>Carskadon</surname><given-names>MA</given-names></name><name><surname>Czeisler</surname><given-names>CA</given-names></name><name><surname>Dement</surname><given-names>WC</given-names></name><name><surname>Dinges</surname><given-names>DF</given-names></name><name><surname>Graeber</surname><given-names>RC</given-names></name></person-group> (<year>1988</year>) <article-title>Catastrophes, sleep, and public policy:
+consensus report</article-title>. <source>Sleep</source><volume>11</volume>,
+<fpage>100</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="pmid">3283909</pub-id></mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><person-group><name><surname>Ingre</surname><given-names>M</given-names></name><name><surname>Kecklund</surname><given-names>G</given-names></name><name><surname>&#x000c5;kerstedt</surname><given-names>T</given-names></name><name><surname>S&#x000f6;derstr&#x000f6;m</surname><given-names>M</given-names></name><name><surname>Kecklund</surname><given-names>L</given-names></name></person-group> (<year>2008</year>) <article-title>Sleep length as a function of morning
+shift-start time in irregular shift schedules for train drivers: self-rated health and
+individual differences</article-title>. <source>Chronobiol
+Int</source><volume>25</volume>, <fpage>349</fpage>&#x02013;<lpage>58</lpage>. <pub-id pub-id-type="pmid">18533329</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><person-group><name><surname>H&#x000e4;rm&#x000e4;</surname><given-names>M</given-names></name><name><surname>Sallinen</surname><given-names>M</given-names></name><name><surname>Ranta</surname><given-names>R</given-names></name><name><surname>Mutanen</surname><given-names>P</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>K</given-names></name></person-group> (<year>2002</year>) <article-title>The effect of an irregular shift system
+on sleepiness at work in train drivers and railway traffic controllers</article-title>.
+<source>J Sleep Res</source><volume>11</volume>, <fpage>141</fpage>&#x02013;<lpage>51</lpage>.
+<pub-id pub-id-type="pmid">12028479</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><person-group><name><surname>Kurumatani</surname><given-names>N</given-names></name><name><surname>Koda</surname><given-names>S</given-names></name><name><surname>Nakagiri</surname><given-names>S</given-names></name><name><surname>Hisashige</surname><given-names>A</given-names></name><name><surname>Sakai</surname><given-names>K</given-names></name><name><surname>Saito</surname><given-names>Y</given-names></name><name><surname>Aoyama</surname><given-names>H</given-names></name><name><surname>Dejima</surname><given-names>M</given-names></name><name><surname>Moriyama</surname><given-names>T</given-names></name></person-group> (<year>1994</year>) <article-title>The effects of frequently rotating
+shiftwork on sleep and the family life of hospital nurses</article-title>.
+<source>Ergonomics</source><volume>37</volume>, <fpage>995</fpage>&#x02013;<lpage>1007</lpage>.
+<pub-id pub-id-type="pmid">8026457</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><person-group><name><surname>Rajaratnam</surname><given-names>SMW</given-names></name><name><surname>Arendt</surname><given-names>J</given-names></name></person-group> (<year>2001</year>) <article-title>Health in a 24-h
+society</article-title>. <source>Lancet</source><volume>358</volume>,
+<fpage>999</fpage>&#x02013;<lpage>1005</lpage>. <pub-id pub-id-type="pmid">11583769</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="journal"><person-group><name><surname>&#x000c5;kerstedt</surname><given-names>T</given-names></name></person-group> (<year>2003</year>) <article-title>Shift work and disturbed
+sleep/wakefulness</article-title>. <source>Occup Med (Lond)</source><volume>53</volume>,
+<fpage>89</fpage>&#x02013;<lpage>94</lpage>. <pub-id pub-id-type="pmid">12637592</pub-id></mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><person-group><name><surname>Dijk</surname><given-names>DJ</given-names></name><name><surname>Czeisler</surname><given-names>CA</given-names></name></person-group> (<year>1995</year>) <article-title>Contribution of the circadian pacemaker
+and the sleep homeostat to sleep propensity, sleep structure, electroencephalographic
+slow waves, and sleep spindle activity in humans</article-title>. <source>J
+Neurosci</source><volume>15</volume>, <fpage>3526</fpage>&#x02013;<lpage>38</lpage>.
+<pub-id pub-id-type="pmid">7751928</pub-id></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><person-group><name><surname>Paech</surname><given-names>GM</given-names></name><name><surname>Ferguson</surname><given-names>SA</given-names></name><name><surname>Sargent</surname><given-names>C</given-names></name><name><surname>Darwent</surname><given-names>D</given-names></name><name><surname>Williams</surname><given-names>L</given-names></name><name><surname>Kennaway</surname><given-names>DJ</given-names></name><name><surname>Roach</surname><given-names>GD</given-names></name></person-group> (<year>2010</year>) <article-title>A 28 hour day, sleep and a single beat
+period; revisiting forced desynchrony studies?</article-title><source>Ergonomia IJE
+HF.</source><volume>32</volume>, <fpage>125</fpage>&#x02013;<lpage>32</lpage>.</mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><person-group><name><surname>Zulley</surname><given-names>J</given-names></name><name><surname>Wever</surname><given-names>R</given-names></name><name><surname>Aschoff</surname><given-names>J</given-names></name></person-group> (<year>1981</year>) <article-title>The dependence of onset and duration of
+sleep on the circadian rhythm of rectal temperature. Pfluegers Arch/Eur</article-title>.
+<source>J Physiol</source><volume>391</volume>,
+<fpage>314</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><person-group><name><surname>Czeisler</surname><given-names>CA</given-names></name><name><surname>Weitzman</surname><given-names>E</given-names></name><name><surname>Moore-Ede</surname><given-names>MC</given-names></name><name><surname>Zimmerman</surname><given-names>JC</given-names></name><name><surname>Knauer</surname><given-names>RS</given-names></name></person-group> (<year>1980</year>) <article-title>Human sleep: its duration and
+organization depend on its circadian phase</article-title>.
+<source>Science</source><volume>210</volume>, <fpage>1264</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">7434029</pub-id></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><person-group><name><surname>Gillberg</surname><given-names>M</given-names></name><name><surname>&#x000c5;kerstedt</surname><given-names>T</given-names></name></person-group> (<year>1982</year>) <article-title>Body temperature and sleep at different
+times of day</article-title>. <source>Sleep</source><volume>5</volume>,
+<fpage>378</fpage>&#x02013;<lpage>88</lpage>. <pub-id pub-id-type="pmid">7163725</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><person-group><name><surname>Roach</surname><given-names>GD</given-names></name><name><surname>Reid</surname><given-names>KJ</given-names></name><name><surname>Dawson</surname><given-names>D</given-names></name></person-group> (<year>2003</year>) <article-title>The amount of sleep obtained by
+locomotive engineers: effects of break duration and time of break onset</article-title>.
+<source>Occup Environ Med</source><volume>60</volume>, <fpage>e17</fpage>.
+<pub-id pub-id-type="pmid">14634196</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><person-group><name><surname>Rosa</surname><given-names>RR</given-names></name><name><surname>H&#x000e4;rm&#x000e4;</surname><given-names>M</given-names></name><name><surname>Pulli</surname><given-names>K</given-names></name><name><surname>Mulder</surname><given-names>M</given-names></name><name><surname>N&#x000e4;sman</surname><given-names>O</given-names></name></person-group> (<year>1996</year>) <article-title>Rescheduling a three shift system at a
+steel rolling mill: effects of a one hour delay of shift starting times on sleep and
+alertness in younger and older workers</article-title>. <source>Occup Environ
+Med</source><volume>53</volume>, <fpage>677</fpage>&#x02013;<lpage>85</lpage>. <pub-id pub-id-type="pmid">8943832</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><person-group><name><surname>Sallinen</surname><given-names>M</given-names></name><name><surname>H&#x000e4;rm&#x000e4;</surname><given-names>M</given-names></name><name><surname>Mutanen</surname><given-names>P</given-names></name><name><surname>Ranta</surname><given-names>R</given-names></name><name><surname>Virkkala</surname><given-names>J</given-names></name><name><surname>M&#x000fc;ller</surname><given-names>K</given-names></name></person-group> (<year>2003</year>) <article-title>Sleep-wake rhythm in an irregular shift
+system</article-title>. <source>J Sleep Res</source><volume>12</volume>,
+<fpage>103</fpage>&#x02013;<lpage>12</lpage>. <pub-id pub-id-type="pmid">12753347</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><person-group><name><surname>Tucker</surname><given-names>P</given-names></name><name><surname>Smith</surname><given-names>L</given-names></name><name><surname>Macdonald</surname><given-names>I</given-names></name><name><surname>Folkard</surname><given-names>S</given-names></name></person-group> (<year>1998</year>) <article-title>The impact of early and late shift
+changeovers on sleep, health, and well-being in 8- and 12-hour shift
+systems</article-title>. <source>J Occup Health Psychol</source><volume>3</volume>,
+<fpage>265</fpage>&#x02013;<lpage>75</lpage>. <pub-id pub-id-type="pmid">9684216</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><person-group><name><surname>Horowitz</surname><given-names>TS</given-names></name><name><surname>Cade</surname><given-names>BE</given-names></name><name><surname>Wolfe</surname><given-names>JM</given-names></name><name><surname>Czeisler</surname><given-names>CA</given-names></name></person-group> (<year>2001</year>) <article-title>Efficacy of bright light and
+sleep/darkness scheduling in alleviating circadian maladaptation to night
+work</article-title>. <source>Am J Physiol Endocrinol
+Metab</source><volume>281</volume>, <fpage>E384</fpage>&#x02013;<lpage>91</lpage>.
+<pub-id pub-id-type="pmid">11440916</pub-id></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><person-group><name><surname>Spencer</surname><given-names>MB</given-names></name></person-group> (<year>1987</year>) <article-title>The influence of irregularity of rest
+and activity on performance: a model based on time since sleep and time of
+day</article-title>. <source>Ergonomics</source><volume>30</volume>,
+<fpage>1275</fpage>&#x02013;<lpage>86</lpage>. </mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="journal"><person-group><name><surname>H&#x000e4;rm&#x000e4;</surname><given-names>M</given-names></name><name><surname>Tenkanen</surname><given-names>L</given-names></name><name><surname>Sj&#x000f6;blom</surname><given-names>T</given-names></name><name><surname>Alikoski</surname><given-names>T</given-names></name><name><surname>Heinsalmi</surname><given-names>P</given-names></name></person-group> (<year>1998</year>) <article-title>Combined effects of shift work and
+life-style on the prevalence of insomnia, sleep deprivation and daytime
+sleepiness</article-title>. <source>Scand J Work Environ
+Health</source><volume>24</volume>, <fpage>300</fpage>&#x02013;<lpage>7</lpage>.
+<pub-id pub-id-type="pmid">9754862</pub-id></mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><person-group><name><surname>Bjorvatn</surname><given-names>B</given-names></name><name><surname>Kecklund</surname><given-names>G</given-names></name><name><surname>&#x000c5;kerstedt</surname><given-names>T</given-names></name></person-group> (<year>1998</year>) <article-title>Rapid adaptation to night work at an
+oil platform, but slow readaptation after returning home</article-title>. <source>J
+Occup Environ Med</source><volume>40</volume>, <fpage>601</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">9675718</pub-id></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><person-group><name><surname>Bjorvatn</surname><given-names>B</given-names></name><name><surname>Stangenes</surname><given-names>K</given-names></name><name><surname>&#x000d8;yane</surname><given-names>N</given-names></name><name><surname>Forberg</surname><given-names>K</given-names></name><name><surname>Lowden</surname><given-names>A</given-names></name><name><surname>Holsten</surname><given-names>F</given-names></name><name><surname>&#x000c5;kerstedt</surname><given-names>T</given-names></name></person-group> (<year>2006</year>) <article-title>Subjective and objective measures of
+adaptation and readaptation to night work on an oil rig in the North
+Sea</article-title>. <source>Sleep</source><volume>29</volume>,
+<fpage>821</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="pmid">16796221</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><person-group><name><surname>Saksvik</surname><given-names>IB</given-names></name><name><surname>Bjorvatn</surname><given-names>B</given-names></name><name><surname>Harvey</surname><given-names>AG</given-names></name><name><surname>Waage</surname><given-names>S</given-names></name><name><surname>Harris</surname><given-names>A</given-names></name><name><surname>Pallesen</surname><given-names>S</given-names></name></person-group> (<year>2011</year>) <article-title>Adaptation and readaptation to
+different shift work schedules measured with sleep diary and actigraphy</article-title>.
+<source>J Occup Health Psychol</source><volume>16</volume>,
+<fpage>331</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="pmid">21728439</pub-id></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><person-group><name><surname>Parkes</surname><given-names>KR</given-names></name></person-group> (<year>1994</year>) <article-title>Sleep patterns, shiftwork, and
+individual differences: a comparison of onshore and offshore control-room
+operators</article-title>. <source>Ergonomics</source><volume>37</volume>,
+<fpage>827</fpage>&#x02013;<lpage>44</lpage>. <pub-id pub-id-type="pmid">8206051</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><person-group><name><surname>Ferguson</surname><given-names>SA</given-names></name><name><surname>Baker</surname><given-names>AA</given-names></name><name><surname>Lamond</surname><given-names>N</given-names></name><name><surname>Kennaway</surname><given-names>DJ</given-names></name><name><surname>Dawson</surname><given-names>D</given-names></name></person-group> (<year>2010</year>) <article-title>Sleep in a live-in mining operation:
+the influence of start times and restricted non-work activities</article-title>.
+<source>Appl Ergon</source><volume>42</volume>, <fpage>71</fpage>&#x02013;<lpage>5</lpage>.
+<pub-id pub-id-type="pmid">20615493</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><person-group><name><surname>Ferguson</surname><given-names>SA</given-names></name><name><surname>Kennaway</surname><given-names>DJ</given-names></name><name><surname>Baker</surname><given-names>A</given-names></name><name><surname>Lamond</surname><given-names>N</given-names></name><name><surname>Dawson</surname><given-names>D</given-names></name></person-group> (<year>2012</year>) <article-title>Sleep and circadian rhythms in mining
+operators: limited evidence of adaptation to night shifts</article-title>. <source>Appl
+Ergon</source><volume>43</volume>, <fpage>695</fpage>&#x02013;<lpage>701</lpage>.
+<pub-id pub-id-type="pmid">22133975</pub-id></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><person-group><name><surname>Paech</surname><given-names>GM</given-names></name><name><surname>Jay</surname><given-names>SM</given-names></name><name><surname>Lamond</surname><given-names>N</given-names></name><name><surname>Roach</surname><given-names>GD</given-names></name><name><surname>Ferguson</surname><given-names>SA</given-names></name></person-group> (<year>2010</year>) <article-title>The effects of different roster
+schedules on sleep in miners</article-title>. <source>Appl
+Ergon</source><volume>41</volume>, <fpage>600</fpage>&#x02013;<lpage>6</lpage>.
+<pub-id pub-id-type="pmid">20089244</pub-id></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="other">World Health Organisation
+(<year>2000) </year>Obesity: preventing and managing the global epidemic WHO,
+Geneva.</mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><person-group><name><surname>Signal</surname><given-names>TL</given-names></name><name><surname>Gale</surname><given-names>J</given-names></name><name><surname>Gander</surname><given-names>PH</given-names></name></person-group> (<year>2005</year>) <article-title>Sleep measurement in flight crew:
+comparing actigraphic and subjective estimates to polysomnography</article-title>.
+<source>Aviat Space Environ Med</source><volume>76</volume>,
+<fpage>1058</fpage>&#x02013;<lpage>63</lpage>. <pub-id pub-id-type="pmid">16313142</pub-id></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><person-group><name><surname>Darwent</surname><given-names>D</given-names></name><name><surname>Lamond</surname><given-names>N</given-names></name><name><surname>Dawson</surname><given-names>D</given-names></name></person-group> (<year>2008</year>) <article-title>The sleep and performance of train
+drivers during an extended freight-haul operation</article-title>. <source>Appl
+Ergon</source><volume>39</volume>, <fpage>614</fpage>&#x02013;<lpage>22</lpage>.
+<pub-id pub-id-type="pmid">18395694</pub-id></mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><person-group><name><surname>Paech</surname><given-names>GM</given-names></name><name><surname>Ferguson</surname><given-names>SA</given-names></name><name><surname>Sargent</surname><given-names>C</given-names></name><name><surname>Darwent</surname><given-names>D</given-names></name><name><surname>Zhou</surname><given-names>X</given-names></name><name><surname>Matthews</surname><given-names>RW</given-names></name><name><surname>Heath</surname><given-names>G</given-names></name><name><surname>Roach</surname><given-names>GD</given-names></name></person-group> (<year>2011</year>) <article-title>Eliminating the circadian influence on
+sleep</article-title>. <source>J Sleep Res</source><volume>20</volume>,
+<fpage>14</fpage>&#x02013;<lpage>6</lpage>.</mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><person-group><name><surname>Paech</surname><given-names>GM</given-names></name><name><surname>Ferguson</surname><given-names>SA</given-names></name><name><surname>Sargent</surname><given-names>C</given-names></name><name><surname>Kennaway</surname><given-names>DJ</given-names></name><name><surname>Roach</surname><given-names>GD</given-names></name></person-group> (<year>2012</year>) <article-title>The relative contributions of the
+homeostatic and circadian processes to sleep regulation under conditions of severe sleep
+restriction</article-title>. <source>Sleep</source><volume>35</volume>,
+<fpage>941</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="pmid">22754040</pub-id></mixed-citation></ref><ref id="r38"><label>38</label><mixed-citation publication-type="journal"><person-group><name><surname>Cohen</surname><given-names>DA</given-names></name><name><surname>Wang</surname><given-names>W</given-names></name><name><surname>Wyatt</surname><given-names>JK</given-names></name><name><surname>Kronauer</surname><given-names>RE</given-names></name><name><surname>Dijk</surname><given-names>DJ</given-names></name><name><surname>Czeisler</surname><given-names>CA</given-names></name><name><surname>Klerman</surname><given-names>EB</given-names></name></person-group> (<year>2010</year>) <article-title>Uncovering residual effects of chronic
+sleep loss on human performance</article-title>. <source>Sci Transl
+Med</source><volume>2</volume>, <fpage>ra3</fpage>. </mixed-citation></ref><ref id="r39"><label>39</label><mixed-citation publication-type="journal"><person-group><name><surname>Dijk</surname><given-names>DJ</given-names></name><name><surname>Czeisler</surname><given-names>CA</given-names></name></person-group> (<year>1994</year>) <article-title>Paradoxical timing of the circadian
+rhythm of sleep propensity serves to consolidate sleep and wakefulness in
+humans</article-title>. <source>Neurosci Lett</source><volume>166</volume>,
+<fpage>63</fpage>&#x02013;<lpage>8</lpage>. <pub-id pub-id-type="pmid">8190360</pub-id></mixed-citation></ref><ref id="r40"><label>40</label><mixed-citation publication-type="journal"><person-group><name><surname>Basner</surname><given-names>M</given-names></name><name><surname>Fomberstein</surname><given-names>KM</given-names></name><name><surname>Razavi</surname><given-names>FM</given-names></name><name><surname>Banks</surname><given-names>S</given-names></name><name><surname>William</surname><given-names>JH</given-names></name><name><surname>Rosa</surname><given-names>RR</given-names></name><name><surname>Dinges</surname><given-names>DF</given-names></name></person-group> (<year>2007</year>) <article-title>American time use survey: sleep time
+and its relationship to waking activities</article-title>.
+<source>Sleep</source><volume>30</volume>, <fpage>1085</fpage>&#x02013;<lpage>95</lpage>.
+<pub-id pub-id-type="pmid">17910380</pub-id></mixed-citation></ref><ref id="r41"><label>41</label><mixed-citation publication-type="other">How Australians use their time.
+Australian Bureau of Statistics, <year>2006</year>.</mixed-citation></ref><ref id="r42"><label>42</label><mixed-citation publication-type="journal"><person-group><name><surname>Ohayon</surname><given-names>MM</given-names></name><name><surname>Carskadon</surname><given-names>MA</given-names></name><name><surname>Guilleminault</surname><given-names>C</given-names></name><name><surname>Vitiello</surname><given-names>MV</given-names></name></person-group> (<year>2004</year>) <article-title>Meta-analysis of quantitative sleep
+parameters from childhood to old age in healthy individuals: developing normative sleep
+values across the human lifespan</article-title>.
+<source>Sleep</source><volume>27</volume>, <fpage>1255</fpage>&#x02013;<lpage>73</lpage>.
+<pub-id pub-id-type="pmid">15586779</pub-id></mixed-citation></ref><ref id="r43"><label>43</label><mixed-citation publication-type="journal"><person-group><name><surname>Mitler</surname><given-names>MM</given-names></name><name><surname>Miller</surname><given-names>JC</given-names></name><name><surname>Lipsitz</surname><given-names>JJ</given-names></name><name><surname>Walsh</surname><given-names>JK</given-names></name><name><surname>Wylie</surname><given-names>CD</given-names></name></person-group> (<year>1997</year>) <article-title>The sleep of long-haul truck
+drivers</article-title>. <source>N Engl J Med</source><volume>337</volume>,
+<fpage>755</fpage>&#x02013;<lpage>61</lpage>. <pub-id pub-id-type="pmid">9287232</pub-id></mixed-citation></ref><ref id="r44"><label>44</label><mixed-citation publication-type="journal"><person-group><name><surname>Brunner</surname><given-names>DP</given-names></name><name><surname>Dijk</surname><given-names>DJ</given-names></name><name><surname>Borb&#x000e9;ly</surname><given-names>AA</given-names></name></person-group> (<year>1993</year>) <article-title>Repeated partial sleep deprivation
+progressively changes in EEG during sleep and wakefulness</article-title>.
+<source>Sleep</source><volume>16</volume>, <fpage>100</fpage>&#x02013;<lpage>13</lpage>.
+<pub-id pub-id-type="pmid">8446828</pub-id></mixed-citation></ref><ref id="r45"><label>45</label><mixed-citation publication-type="journal"><person-group><name><surname>Ferguson</surname><given-names>SA</given-names></name><name><surname>Paech</surname><given-names>GM</given-names></name><name><surname>Sargent</surname><given-names>C</given-names></name><name><surname>Darwent</surname><given-names>D</given-names></name><name><surname>Kennaway</surname><given-names>DJ</given-names></name><name><surname>Roach</surname><given-names>GD</given-names></name></person-group> (<year>2012</year>) <article-title>The influence of circadian time and
+sleep dose on subjective fatigue ratings</article-title>. <source>Accid Anal
+Prev</source><volume>45</volume> Suppl,
+<fpage>50</fpage>&#x02013;<lpage>4</lpage>. <pub-id pub-id-type="pmid">22239932</pub-id></mixed-citation></ref><ref id="r46"><label>46</label><mixed-citation publication-type="journal"><person-group><name><surname>Ancoli-Israel</surname><given-names>S</given-names></name><name><surname>Cole</surname><given-names>R</given-names></name><name><surname>Alessi</surname><given-names>C</given-names></name><name><surname>Chambers</surname><given-names>M</given-names></name><name><surname>Moorcroft</surname><given-names>W</given-names></name><name><surname>Pollak</surname><given-names>CP</given-names></name></person-group> (<year>2003</year>) <article-title>The role of actigraphy in the study of
+sleep and circadian rhythms</article-title>. <source>Sleep</source><volume>26</volume>,
+<fpage>342</fpage>&#x02013;<lpage>92</lpage>. <pub-id pub-id-type="pmid">12749557</pub-id></mixed-citation></ref><ref id="r47"><label>47</label><mixed-citation publication-type="journal"><person-group><name><surname>Reid</surname><given-names>K</given-names></name><name><surname>Dawson</surname><given-names>D</given-names></name></person-group> (<year>1999</year>) <article-title>Correlation between wrist activity
+monitor and electrophysiological measures of sleep in a simulated shiftwork environment
+for younger and older subjects</article-title>.
+<source>Sleep</source><volume>22</volume>, <fpage>378</fpage>&#x02013;<lpage>85</lpage>.
+<pub-id pub-id-type="pmid">10341389</pub-id></mixed-citation></ref><ref id="r48"><label>48</label><mixed-citation publication-type="journal"><person-group><name><surname>Wright</surname><given-names>KP</given-names><suffix>Jr</suffix></name><name><surname>McHill</surname><given-names>AW</given-names></name><name><surname>Birks</surname><given-names>BR</given-names></name><name><surname>Griffin</surname><given-names>BR</given-names></name><name><surname>Rusterholz</surname><given-names>T</given-names></name><name><surname>Chinoy</surname><given-names>ED</given-names></name></person-group> (<year>2013</year>) <article-title>Entrainment of the human circadian
+clock to the natural light-dark cycle</article-title>. <source>Curr
+Biol</source><volume>23</volume>, <fpage>1554</fpage>&#x02013;<lpage>8</lpage>.
+<pub-id pub-id-type="pmid">23910656</pub-id></mixed-citation></ref><ref id="r49"><label>49</label><mixed-citation publication-type="journal"><person-group><name><surname>Czeisler</surname><given-names>CA</given-names></name><name><surname>Allan</surname><given-names>JS</given-names></name><name><surname>Strogatz</surname><given-names>SH</given-names></name><name><surname>Ronda</surname><given-names>JM</given-names></name><name><surname>S&#x000e1;nchez</surname><given-names>R</given-names></name><name><surname>R&#x000ed;os</surname><given-names>CD</given-names></name><name><surname>Freitag</surname><given-names>WO</given-names></name><name><surname>Richardson</surname><given-names>GS</given-names></name><name><surname>Kronauer</surname><given-names>RE</given-names></name></person-group> (<year>1986</year>) <article-title>Bright light resets the human circadian
+pacemaker independent of the timing of the sleep-wake cycle</article-title>.
+<source>Science</source><volume>233</volume>, <fpage>667</fpage>&#x02013;<lpage>71</lpage>.
+<pub-id pub-id-type="pmid">3726555</pub-id></mixed-citation></ref><ref id="r50"><label>50</label><mixed-citation publication-type="journal"><person-group><name><surname>Muzet</surname><given-names>A</given-names></name><name><surname>Libert</surname><given-names>JP</given-names></name><name><surname>Candas</surname><given-names>V</given-names></name></person-group> (<year>1984</year>) <article-title>Ambient temperature and human
+sleep</article-title>. <source>Experientia</source><volume>40</volume>,
+<fpage>425</fpage>&#x02013;<lpage>9</lpage>. <pub-id pub-id-type="pmid">6723903</pub-id></mixed-citation></ref><ref id="r51"><label>51</label><mixed-citation publication-type="journal"><person-group><name><surname>Boivin</surname><given-names>DB</given-names></name><name><surname>James</surname><given-names>FO</given-names></name></person-group> (<year>2005</year>) <article-title>Light treatment and circadian
+adaptation to shift work</article-title>. <source>Ind
+Health</source><volume>43</volume>, <fpage>34</fpage>&#x02013;<lpage>48</lpage>. <pub-id pub-id-type="pmid">15732302</pub-id></mixed-citation></ref><ref id="r52"><label>52</label><mixed-citation publication-type="journal"><person-group><name><surname>Parkes</surname><given-names>KR</given-names></name></person-group> (<year>2012</year>) <article-title>Shift schedules on North Sea oil/gas
+installations: a systematic review of their impact on performance, safety and
+health</article-title>. <source>Saf Sci</source><volume>50</volume>,
+<fpage>1636</fpage>&#x02013;<lpage>51</lpage>. </mixed-citation></ref><ref id="r53"><label>53</label><mixed-citation publication-type="journal"><person-group><name><surname>Ferguson</surname><given-names>SA</given-names></name><name><surname>Dawson</surname><given-names>D</given-names></name></person-group> (<year>2012</year>) <article-title>12-h or 8-h shifts? It
+depends</article-title>. <source>Sleep Med Rev</source><volume>16</volume>,
+<fpage>519</fpage>&#x02013;<lpage>28</lpage>. <pub-id pub-id-type="pmid">22306236</pub-id></mixed-citation></ref></ref-list></back></article>

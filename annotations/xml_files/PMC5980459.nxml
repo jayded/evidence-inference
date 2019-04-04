@@ -1,0 +1,378 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Vet Intern Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Vet. Intern. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1939-1676</journal-id><journal-id journal-id-type="publisher-id">JVIM</journal-id><journal-title-group><journal-title>Journal of Veterinary Internal Medicine</journal-title></journal-title-group><issn pub-type="ppub">0891-6640</issn><issn pub-type="epub">1939-1676</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29572958</article-id><article-id pub-id-type="pmc">5980459</article-id><article-id pub-id-type="doi">10.1111/jvim.15080</article-id><article-id pub-id-type="publisher-id">JVIM15080</article-id><article-categories><subj-group subj-group-type="overline"><subject>Standard Article</subject></subj-group><subj-group subj-group-type="heading"><subject>FOOD AND FIBER ANIMAL</subject><subj-group subj-group-type="heading"><subject>Standard Articles</subject><subj-group subj-group-type="heading"><subject>Pharmacology</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Pharmacokinetics and efficacy of intravenous famotidine in adult cattle</article-title><alt-title alt-title-type="left-running-head">BALCOMB et al.</alt-title></title-group><contrib-group><contrib id="jvim15080-cr-0001" contrib-type="author" corresp="yes"><name><surname>Balcomb</surname><given-names>Christie C.</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-3616-5427</contrib-id><address><email>christie.balcomb@gmail.com</email></address><xref ref-type="aff" rid="jvim15080-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jvim15080-cr-0002" contrib-type="author"><name><surname>Heller</surname><given-names>Meera C.</given-names></name><xref ref-type="aff" rid="jvim15080-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jvim15080-cr-0003" contrib-type="author"><name><surname>Chigerwe</surname><given-names>Munashe</given-names></name><xref ref-type="aff" rid="jvim15080-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jvim15080-cr-0004" contrib-type="author"><name><surname>Knych</surname><given-names>Heather K.</given-names></name><xref ref-type="aff" rid="jvim15080-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jvim15080-cr-0005" contrib-type="author"><name><surname>Meyer</surname><given-names>Allison M.</given-names></name><xref ref-type="aff" rid="jvim15080-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="jvim15080-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">W.R. Pritchard Veterinary Medical Teaching Hospital, School of Veterinary Medicine</named-content>
+<institution>University of California</institution>
+<named-content content-type="city">Davis, Davis</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="jvim15080-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Department of Medicine and Epidemiology, School of Veterinary Medicine</named-content>
+<institution>University of California</institution>
+<named-content content-type="city">Davis, Davis</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="jvim15080-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Veterinary Molecular Biosciences, the K.L. Maddy Equine Analytical Chemistry Laboratory</named-content>
+<institution>School of Veterinary Medicine, University of California</institution>
+<named-content content-type="city">Davis, Davis</named-content>
+<named-content content-type="country-part">California</named-content>
+</aff><aff id="jvim15080-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Division of Animal Sciences</named-content>
+<institution>University of Missouri&#x02010;Columbia</institution>
+<named-content content-type="city">Columbia</named-content>
+<named-content content-type="country-part">Missouri</named-content>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Christie C. Balcomb, YourVet Farm Services, 1476 South Kihei Road, Kihei, HI 96753. Email: <email>christie.balcomb@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>23</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="ppub"><season>May-Jun</season><year>2018</year></pub-date><volume>32</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/jvim.2018.32.issue-3</issue-id><fpage>1283</fpage><lpage>1289</lpage><history><date date-type="received"><day>13</day><month>7</month><year>2017</year></date><date date-type="rev-recd"><day>08</day><month>1</month><year>2018</year></date><date date-type="accepted"><day>25</day><month>1</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 American College of Veterinary Internal Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">Copyright &#x000a9; 2018 The Authors. Journal of Veterinary Internal Medicine published by Wiley Periodicals, Inc. on behalf of the American College of Veterinary Internal Medicine.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JVIM-32-1283.pdf"/><abstract><sec id="jvim15080-sec-0001"><title>Background</title><p>Abomasal ulceration is recognized in neonatal and adult cattle, but research regarding treatment is limited. Histamine&#x02010;2 receptor antagonists (H<sub>2</sub>RA), such as famotidine, are used clinically with little evidence&#x02010;based research about efficacy in adult cattle.</p></sec><sec id="jvim15080-sec-1001"><title>Hypothesis and Objectives</title><p>Intravenous famotidine administered at 0.4 mg/kg will increase the pH of abomasal outflow digesta compared to saline control in adult cattle. The objectives were to assess the effect of famotidine, administered as a single dose and as multiple doses, on abomasal outflow fluid pH in adult cattle. A third objective was to describe the pharmacokinetic parameters of IV famotidine in cattle.</p></sec><sec id="jvim15080-sec-0002"><title>Animals</title><p>Four clinically healthy adult Angus&#x02010;cross steers previously fitted with duodenal cannulae placed orad to the biliary and pancreatic ducts.</p></sec><sec id="jvim15080-sec-0003"><title>Methods</title><p>Randomized, 2&#x02010;way cross&#x02010;over clinical trial. Steers received IV famotidine (0.4 mg/kg) as a single and 3&#x02010;dose regimen (every 8 hours) versus saline control. Blood for analysis of serum famotidine concentration was collected intermittently for 12 hours, and abomasal outflow fluid pH was measured at intervals for a 24&#x02010;hour period. After a 34&#x02010;hour washout period, the opposite treatments were administered and the sampling repeated.</p></sec><sec id="jvim15080-sec-0004"><title>Results</title><p>Abomasal outflow fluid pH was higher in steers treated with famotidine for up to 4 hours after a single dose but the effect decreased with subsequent doses. The median (range) elimination half&#x02010;life was 3.33 (3.21&#x02010;3.54) hours.</p></sec><sec id="jvim15080-sec-1101"><title>Conclusions and Clinical Importance</title><p>Famotidine may be useful for treatment or prevention of abomasal ulceration in adult cattle, but the duration of effect may decrease with time.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jvim15080-kwd-0001">abomasum</kwd><kwd id="jvim15080-kwd-0002">bovine</kwd><kwd id="jvim15080-kwd-0003">gastroprotectant</kwd><kwd id="jvim15080-kwd-0004">ulcer</kwd></kwd-group><funding-group><award-group><funding-source>American College of Veterinary Internal Medicine Foundation
+</funding-source></award-group><award-group><funding-source>Zoetis Resident Externship Grant
+</funding-source></award-group></funding-group><counts><fig-count count="5"/><table-count count="3"/><page-count count="7"/><word-count count="5071"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jvim15080</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May/June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.0 mode:remove_FC converted:31.05.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jvim15080-cit-0001">
+<string-name>
+<surname>Balcomb</surname>
+<given-names>CC</given-names>
+</string-name>, 
+<string-name>
+<surname>Heller</surname>
+<given-names>MC</given-names>
+</string-name>, 
+<string-name>
+<surname>Chigerwe</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Knych</surname>
+<given-names>HK</given-names>
+</string-name>, 
+<string-name>
+<surname>Meyer</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Pharmacokinetics and efficacy of intravenous famotidine in adult cattle</article-title>. <source xml:lang="en">J Vet Intern Med</source>. <year>2018</year>;<volume>32</volume>:<fpage>1283</fpage>&#x02013;<lpage>1289</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jvim.15080">https://doi.org/10.1111/jvim.15080</ext-link>
+</mixed-citation>
+</p><fn-group><fn id="jvim15080-note-0003"><p>
+<bold>Funding information</bold> American College of Veterinary Internal Medicine Foundation; Zoetis Resident Externship Grant</p></fn><fn id="jvim15080-note-0001"><p>This study was conducted at the University of Missouri, Columbia, MO 65211 and famotidine analysis performed at the University of California, Davis, Davis, CA 95616.</p></fn><fn id="jvim15080-note-0002"><p>This manuscript has been presented as part of residency requirements as an abstract at the 2016 ACVIM Forum, Denver, CO; and as a poster at the 2016 World Buiatrics Congress, Dublin, Ireland.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="jvim15080-lp-0001"><title>Abbreviations</title><def-item><term id="jvim15080-li-0001">AUC</term><def id="jvim15080-li-0002"><p>area under the curve</p></def></def-item><def-item><term id="jvim15080-li-0003">H<sub>2</sub>RA</term><def id="jvim15080-li-0004"><p>histamine type&#x02010;2 receptor antagonist</p></def></def-item><def-item><term id="jvim15080-li-0005">LS</term><def id="jvim15080-li-0006"><p>least square</p></def></def-item><def-item><term id="jvim15080-li-0007">PPI</term><def id="jvim15080-li-0008"><p>proton pump inhibitor</p></def></def-item><def-item><term id="jvim15080-li-0009">SD</term><def id="jvim15080-li-0010"><p>standard deviation</p></def></def-item></def-list><sec id="jvim15080-sec-0005"><label>1</label><title>INTRODUCTION</title><p>Abomasal ulceration is a disease syndrome recognized in calves and adult cattle. Approximately 2%&#x02010;20% of both dairy and beef cattle have abomasal ulcerations of variable severity identified at slaughter.<xref rid="jvim15080-bib-0001" ref-type="ref">1</xref>, <xref rid="jvim15080-bib-0002" ref-type="ref">2</xref>, <xref rid="jvim15080-bib-0003" ref-type="ref">3</xref> Clinical signs of abomasal ulceration vary with severity of disease and include anorexia, bruxism, cranial abdominal pain, melena, signs of localized or generalized peritonitis, anemia, and death.</p><p>In adult cattle, suggested risk factors include abomasal lymphoma, stress from periparturient disease, diets high in carbohydrates, and use of nonsteroidal anti&#x02010;inflammatory drugs.<xref rid="jvim15080-bib-0004" ref-type="ref">4</xref> Cattle admitted to veterinary hospitals often have a combination of these risk factors, and thus are predisposed to either having ulceration at admission or developing ulceration during hospitalization. One of the challenges of diagnosing and managing abomasal ulceration is the lack of sensitive and specific definitive diagnostic tests. Presence of melena, positive fecal occult blood tests, and typical clinical signs of bruxism and cranial abdominal pain are suggestive of abomasal ulceration. Thus, empirical treatment often is recommended as preventative or presumptive therapy.</p><p>Treatment of gastric ulceration in other species includes increasing gastric pH by use of PO alkalinizing agents or suppression of gastric acid production. The use of PO alkalinizing agents such as magnesium hydroxide and PO gastric acid suppressants including histamine type&#x02010;2 receptor antagonists (H<sub>2</sub>RA) and proton pump inhibitors (PPI) has been studied in pre&#x02010;ruminant calves.<xref rid="jvim15080-bib-0005" ref-type="ref">5</xref>, <xref rid="jvim15080-bib-0006" ref-type="ref">6</xref>, <xref rid="jvim15080-bib-0007" ref-type="ref">7</xref> These agents have variable efficacy in increasing abomasal pH in pre&#x02010;ruminants. Administration of PO therapies may be ineffective in adult cattle because of the buffering and diluting effect of the rumen, unpredictable bioavailability, and delivery to the abomasum.<xref rid="jvim15080-bib-0008" ref-type="ref">8</xref> Limitations of parenteral administration of H<sub>2</sub>RA or PPI include the need for IV access, frequent administration, relatively large doses required, and associated cost.</p><p>Famotidine is an H<sub>2</sub>RA that competitively inhibits histamine binding to the H<sub>2</sub>&#x02010;receptor on the basolateral membrane of the parietal cells, and thus decreases stimulation of the H<sup>+</sup>/K<sup>+</sup> ATPase pump at the luminal surface of the cell, which decreases acid secretion. It is used in humans with gastric or duodenal ulceration, as well as in those with gastroesophageal reflux disease.<xref rid="jvim15080-bib-0009" ref-type="ref">9</xref> Dosage rates in dogs have been suggested at 0.5 mg/kg IV q12h<xref rid="jvim15080-bib-0010" ref-type="ref">10</xref> and in horses at 0.2&#x02010;0.4 mg/kg IV q6h&#x02010;q8h.<xref rid="jvim15080-bib-0011" ref-type="ref">11</xref> Evidence for parental administration of gastric acid suppressants in adult cattle is lacking, although anecdotal descriptions of a variety of treatments are available.<xref rid="jvim15080-bib-0004" ref-type="ref">4</xref>, <xref rid="jvim15080-bib-0012" ref-type="ref">12</xref> The dosage rate and frequency of administration chosen for our study utilized the upper end of the dosage for horses (q8h) to be able to detect an effect, if any, with a feasible time for sampling. We hypothesized that the abomasal outflow of adult cattle receiving IV famotidine will have a higher pH compared to the abomasal outflow of cattle treated with saline control. The objectives of our study were to: (1) assess the effect of a single dose of famotidine administered at a dosage of 0.4 mg/kg IV on the pH of abomasal outflow of adult cattle; (2) assess the effect of famotidine administered at a dosage of 0.4 mg/kg IV on the pH of abomasal outflow of adult cattle when administered as 3 doses q8h to mimic clinical treatment; and (3) to describe serum concentrations and pharmacokinetic parameters of famotidine in adult cattle.</p></sec><sec id="jvim15080-sec-0006"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jvim15080-sec-0007"><label>2.1</label><title>Animals</title><p>This study was a randomized 2&#x02010;way cross&#x02010;over clinical trial utilizing 4 adult Angus steers fitted previously with surgically implanted duodenal cannulae placed orad to the biliary and pancreatic ducts. The steers were approximately 34 months of age and weighed 800&#x02009;&#x000b1;&#x02009;24.22 kg. They were determined to be healthy based on clinical examination before the study, with no previous history of ulceration. They were housed in tie&#x02010;stall stanchions for the 2 consecutive 48&#x02010;hour sampling periods. The steers were fed 2.5 kg per head of an equal mixture of whole corn and pelleted soybean hulls twice daily at approximately 0700 and 1900 hours, starting 5 days before and during the study. Steers also were offered ad libitum alfalfa hay and water. All animal procedures were approved by the University of Missouri Institutional Animal Care and Use Committee (ACUC) Protocol #8331.</p></sec><sec id="jvim15080-sec-0008"><label>2.2</label><title>Famotidine administration</title><p>Intravenous jugular catheters (BD Angiocathm, Becton and Dickson Therapy Systems, Inc., 9450 South State Street, Sandy, Utah) were placed aseptically before each 48&#x02010;hour study period for IV drug administration and blood sample collection. Famotidine (Famotidine Injection USP [10 mg/mL], West&#x02010;ward, Eatontown, New Jersey) was administered at a dosage of 0.4 mg/kg IV, or an equivalent volume of saline control, as a single dose or multiple doses as described below, and the catheter irrigated with 10 mL of heparinized saline after administration. The interval between the single dose and multiple dose studies was 22 hours. After a 34&#x02010;hour washout period from the last treatment, the opposite treatment was administered and the study was repeated. Time 0 represents the time period immediately preceding administration of either famotidine or saline control, and ranged from 2 to 4 hours after feeding concentrate.</p><sec id="jvim15080-sec-0009"><label>2.2.1</label><title>Single dose study</title><p>Famotidine (0.4 mg/kg; n&#x02009;=&#x02009;4) or an equivalent volume of saline (n&#x02009;=&#x02009;4) was administered via IV jugular catheter once. Blood samples from the jugular catheter were obtained at 0, 1, 2, 3, 4, 8, 12 hours and abomasal outflow samples were obtained hourly from 0 to 12 hours (Figure <xref rid="jvim15080-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jvim15080-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Schematic of the single dose study: a single dose of intravenous famotidine (0.4 mg/kg) (n&#x02009;=&#x02009;2) or an equivalent volume of saline (n&#x02009;=&#x02009;2) administered at 0 hours. Blood samples were obtained at 0, 1, 2, 3, 4, 8, 12 hours. Abomasal outflow fluid samples were obtained hourly at 0&#x02013;12 hours</p></caption><graphic id="nlm-graphic-1" xlink:href="JVIM-32-1283-g001"/></fig></sec><sec id="jvim15080-sec-0010"><label>2.2.2</label><title>Multiple dose study</title><p>Famotidine (0.4 mg/kg; n&#x02009;=&#x02009;4) or an equivalent volume of saline (n&#x02009;=&#x02009;4) was administered every 8 hours at 0, 8, and 16 hours. Jugular blood samples were obtained at 0, 8, 16, and 24 hours. Abomasal outflow samples were obtained at 0, 1, 2, 4, 6, 8, 10, 12, 16, 17, 18, 20, 22, 24 hours (Figure <xref rid="jvim15080-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jvim15080-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Schematic of the multi&#x02010;dose study: Three doses of intravenous famotidine (0.4 mg/kg) (n&#x02009;=&#x02009;2) or an equivalent volume of saline (n&#x02009;=&#x02009;2) administered at 0, 8, and 16 hours. Blood samples were obtained at 0, 8, 16, and 24 hours. Abomasal outflow fluid samples were obtained at 0, 2, 4, 6, 8, 10, 12, 14, 16, 17, 18, 20, and 24 hours</p></caption><graphic id="nlm-graphic-3" xlink:href="JVIM-32-1283-g002"/></fig></sec></sec><sec id="jvim15080-sec-0011"><label>2.3</label><title>Blood sampling</title><p>Whole blood samples were obtained after 20 mL of blood and heparinized saline was aspirated from the catheter to clear the catheter of any residual drug or heparinized saline. Approximately 10 mL of whole blood was collected into a serum separator tube containing no anticoagulant (BD Vaccutainer SST Plus blood collection tubes; Becton Dickson and Company, Franklin Lakes, New Jersey). The 20 mL of blood withdrawn to clear the catheter then was given back to the animal and the catheters were irrigated with 10 mL heparinized saline. Blood samples were allowed to clot at room temperature and stored on ice for&#x02009;&#x0003c;&#x02009;8 hours before centrifugation at 1500<italic>g</italic> for 30 min at 4&#x000b0;C. Serum was separated and frozen at &#x02212;20&#x000b0;C and shipped to the laboratory for famotidine analysis.</p></sec><sec id="jvim15080-sec-0012"><label>2.4</label><title>Drug concentration determination and pharmacokinetic analysis</title><p>Famotidine was quantified in bovine serum by liquid chromatography&#x02010;tandem mass spectrometry using a previously published method<xref rid="jvim15080-bib-0013" ref-type="ref">13</xref> and d&#x02010;4 famotidine as the internal standard. A partial validation was performed using bovine serum as the matrix. Calibration curves and negative control samples were prepared fresh for each quantitative assay and quality control samples (bovine serum fortified with analyte at 4 concentrations within the standard curve) were included as an additional check of accuracy. The response for famotidine was linear and gave a coefficient of determination (<italic>R</italic>
+<sup>2</sup>) of .99. The precision and accuracy of the assay were determined by assaying famotidine quality control samples in replicates (n&#x02009;=&#x02009;6). The accuracy (% nominal concentration) was 115, 104, 111, and 106% at 0.3, 25, 100, and 700 ng/mL, respectively. Precision (% relative standard deviation [SD]) was 6, 3, 5, and 2% for 0.3, 25, 100, and 700 ng/mL, respectively. The assay was optimized to provide a limit of quantitation of 0.2 ng/mL and a limit of detection of approximately 0.1 ng/mL. To assess the potential impact of the silicone plug in the serum separator tubes on famotidine concentrations (ie, drug binding), control bovine serum was collected into both serum separator tubes and serum tubes without the silicone plug. Famotidine, at 1 of 3 concentrations (1 ng/mL, 5 ng/mL, and 10 ng/mL), was added to serum in the different tube types. Each concentration was spiked in triplicate. Tubes containing drug were allowed to sit at room temperature for 1 hour. Drug concentrations in each tube were measured as described above for the in vivo samples.</p><p>Pharmacokinetic analysis was performed on serum famotidine concentrations using non&#x02010;compartmental analysis and a commercially available software program (Phoenix WinNonlin Version 6.2; Pharsight, Cary, North Carolina). The sampling time points in this study were more fitting for non&#x02010;compartmental versus compartmental methods to determine pharmacokinetic parameters. The elimination rate constant (lambda<sub>z</sub>) was calculated by determination of the slope of the terminal portion of the plasma concentration versus time curve and the plasma elimination half&#x02010;life (HL) using the formula (ln 2)/the elimination rate constant. The area under the curve (AUC) from 0 to infinity (<sub>0&#x02010;&#x0221e;</sub>) was calculated using the log&#x02010;linear trapezoidal method. The AUC<sub>0&#x02010;&#x0221e;</sub> % extrapolated was calculated using the formula [(AUC<sub>0&#x02010;&#x0221e;</sub>&#x02009;&#x02212;&#x02009;AUC<sub>0&#x02013;12</sub>)/AUC<sub>0&#x02010;&#x0221e;</sub>] &#x000d7; 100.</p></sec><sec id="jvim15080-sec-0013"><label>2.5</label><title>Abomasal outflow fluid sampling and pH measurement</title><p>Abomasal outflow fluid sampled from the duodenal cannulae was used as an indicator of abomasal pH changes due to orad placement from biliary and pancreatic ducts. Approximately 50 mL of duodenal fluid was allowed to drain from the cannula before collecting 20 mL in to a plastic collection bag (Whirl&#x02010;Pak bags; Nasco, Modesto, California) by gravity flow. The operator obtaining the samples and measuring pH was not blinded to the treatment or sample time.</p><p>Abomasal outflow pH was analyzed directly after sampling (within 5 minutes) using a bench&#x02010;top pH analyzer (Fisher Science Accumet; Thermo Fisher Scientific, Inc, Blk 55 Ayer Rajah Crescent, Singapore). The pH meter was calibrated according to manufacturer's instructions with 4.01 and 7.0 pH solutions at the start of the study and once every 12 hours. Outflow samples that appeared grossly contaminated with bile, flowed very slowly, or had a pH&#x02009;&#x0003e;&#x02009;5.0 were resampled within a 10&#x02010;minute period. If the second sample had a pH measurement within 0.25 units of the initial reading, the original sample value was recorded. If the second sample had a pH that was&#x02009;&#x0003e;&#x02009;0.25 units more acidic than the initial sample, the new sample pH value was recorded. Any samples that had a pH&#x02009;&#x0003e;&#x02009;5.0, or had gross contamination with bile or mucus were recorded, but not included in data analysis because they were considered an inaccurate reflection of abomasal outflow pH.</p></sec><sec id="jvim15080-sec-0014"><label>2.6</label><title>Abomasal outflow pH statistical analysis</title><p>For abomasal outflow pH, a mixed model analysis with commercial software (SAS Version 9.4; SAS Institute Inc, Cary, North Carolina) was used. The MIXED procedure was used with treatment, sampling hour, and treatment 
+<mml:math id="nlm-math-1"><mml:mo>&#x000d7;</mml:mo></mml:math> hour as the fixed effects and steer and period as random effects in the model. Least square means were separated using least significant difference and analyzed using analysis of variance. <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05 was considered statistically significant.</p></sec></sec><sec id="jvim15080-sec-0015"><label>3</label><title>RESULTS</title><p>The treatment 
+<mml:math id="nlm-math-2"><mml:mo>&#x000d7;</mml:mo></mml:math> sampling hour interaction affected abomasal outflow pH for both a single dose and multiple doses of famotidine (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.001). A single dose of famotidine at 0.4 mg/kg significantly increased the pH of abomasal outflow fluid for 4 hours (<italic>P &#x0003c;</italic> .05) compared with saline control (Figure <xref rid="jvim15080-fig-0003" ref-type="fig">3</xref>). The greatest difference was observed at 2 hours post&#x02010;treatment with least square (LS) means&#x02009;&#x000b1;&#x02009;SD pH values 3.90&#x02009;&#x000b1;&#x02009;0.12 (control) versus 6.01&#x02009;&#x000b1;&#x02009;0.18 (famotidine; <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001). When administered every 8 hours, famotidine significantly increased the pH of abomasal outflow fluid for 3 hours after the first dose, 2 hours after the second dose, and only 1 hour after the third dose (Figure <xref rid="jvim15080-fig-0004" ref-type="fig">4</xref>). The greatest difference was observed 2 hours after the first treatment with LS means&#x02009;&#x000b1;&#x02009;SD pH values of 4.49&#x02009;&#x000b1;&#x02009;0.30 (control) versus 5.67&#x02009;&#x000b1;&#x02009;0.27 (famotidine; <italic>P</italic>&#x02009;&#x0003c;&#x02009;.001). The pH of outflow in the control group was less at 9 hours than at hours 1, 4, and 12 (<italic>P</italic>&#x02009;&#x02264;&#x02009;.04). Otherwise, the outflow pH of the control group did not change over time (<italic>P</italic>&#x02009;&#x0003e;&#x02009;.10).</p><fig fig-type="Figure" xml:lang="en" id="jvim15080-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Least square means and standard deviation pH of abomasal outflow fluid from adult cattle (n&#x02009;=&#x02009;4) administered a single intravenous dose of 0.4 mg/kg famotidine (circles) compared with adult cattle (n&#x02009;=&#x02009;4) administered an equivalent volume of saline (squares). *Denotes statistical significance (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05)</p></caption><graphic id="nlm-graphic-5" xlink:href="JVIM-32-1283-g003"/></fig><fig fig-type="Figure" xml:lang="en" id="jvim15080-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Least square means and standard deviation pH of abomasal outflow fluid from adult cattle (n&#x02009;=&#x02009;4) administered multiple intravenous doses of 0.4 mg/kg famotidine (circles) every 8 hours (time 0, 8, 16 hours) compared with adult cattle (n&#x02009;=&#x02009;4) administered an equivalent volume of saline (squares). *Denotes statistical significance (<italic>P</italic>&#x02009;&#x0003c;&#x02009;.05)</p></caption><graphic id="nlm-graphic-7" xlink:href="JVIM-32-1283-g004"/></fig><p>Serum famotidine concentrations with respect to time after a single administration are summarized in Table <xref rid="jvim15080-tbl-0001" ref-type="table-wrap">1</xref> and shown in Figure <xref rid="jvim15080-fig-0005" ref-type="fig">5</xref>. Measured serum famotidine concentrations from spiked serum separator tubes were 93%&#x02010;95% of the concentrations measured in serum tubes without the silicone plug at all concentrations studied.</p><fig fig-type="Figure" xml:lang="en" id="jvim15080-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>Semi&#x02010;log plot of serum concentrations of famotidine after administration of a single intravenous dose of famotidine (0.4 mg/kg) to adult cattle (n&#x02009;=&#x02009;4). Data presented as mean&#x02009;&#x000b1;&#x02009;standard deviation</p></caption><graphic id="nlm-graphic-9" xlink:href="JVIM-32-1283-g005"/></fig><table-wrap id="jvim15080-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Serum concentration of famotidine when administered as a single dose of 0.4 mg/kg IV at 0 hour to adult cattle (n&#x02009;=&#x02009;4)</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr><th style="border-bottom:solid 1px #000000" colspan="8" align="left" valign="bottom" rowspan="1">Serum concentration (ng/mL)</th></tr><tr><th style="border-bottom:solid 1px #000000" colspan="8" align="left" valign="bottom" rowspan="1">Time (hour)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">0</th><th align="left" valign="bottom" rowspan="1" colspan="1">1</th><th align="left" valign="bottom" rowspan="1" colspan="1">2</th><th align="left" valign="bottom" rowspan="1" colspan="1">3</th><th align="left" valign="bottom" rowspan="1" colspan="1">4</th><th align="left" valign="bottom" rowspan="1" colspan="1">8</th><th align="left" valign="bottom" rowspan="1" colspan="1">12</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Median</td><td align="left" valign="top" rowspan="1" colspan="1">ND<xref ref-type="fn" rid="jvim15080-note-0004">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">821.8</td><td align="left" valign="top" rowspan="1" colspan="1">43.5</td><td align="left" valign="top" rowspan="1" colspan="1">30.4</td><td align="left" valign="top" rowspan="1" colspan="1">17.9</td><td align="left" valign="top" rowspan="1" colspan="1">9.2</td><td align="left" valign="top" rowspan="1" colspan="1">4.1</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Range (ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">ND<xref ref-type="fn" rid="jvim15080-note-0004">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">(154.9&#x02013;1232)</td><td align="left" valign="top" rowspan="1" colspan="1">(35.1&#x02013;50.9)</td><td align="left" valign="top" rowspan="1" colspan="1">(26.4&#x02013;35.6)</td><td align="left" valign="top" rowspan="1" colspan="1">(13.1&#x02013;22.0)</td><td align="left" valign="top" rowspan="1" colspan="1">(5.2&#x02013;12.1)</td><td align="left" valign="top" rowspan="1" colspan="1">(2.8&#x02010;6.2)</td></tr></tbody></table><table-wrap-foot><fn id="jvim15080-note-0004"><p>
+<sup>a</sup>Limit of detection of approximately 0.1 ng/mL.</p></fn></table-wrap-foot></table-wrap><p>Pharmacokinetic parameters after administration of a single dose of famotidine are summarized in Table <xref rid="jvim15080-tbl-0002" ref-type="table-wrap">2</xref>. The median (range) HL (Lambda<sub>z</sub>), volume of distribution (Vd<sub>ss</sub>), and clearance (CL) were 3.33 (3.21&#x02010;3.54) hours, 0.042 (0.014&#x02010;1.89) L/kg, and 1.26 (0.625&#x02010;11.5) mL/min/kg, respectively. Serum concentrations with respect to time after multiple doses are depicted in Table <xref rid="jvim15080-tbl-0003" ref-type="table-wrap">3</xref>. Pharmacokinetic analysis was not performed on the multiple dose data because of a limited number of time points and a small number of animals (n&#x02009;=&#x02009;2 for time 8 and 16 hours and n&#x02009;=&#x02009;4 for time 0 and 24 hours).</p><table-wrap id="jvim15080-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Median (range) pharmacokinetic parameters after administration of a single IV dose of famotidine (0.4 mg/kg) to adult cattle (n&#x02009;=&#x02009;4)</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Parameters</th><th align="center" valign="bottom" rowspan="1" colspan="1">Median (range)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Lambda<sub>z</sub> (1/h)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.208 (0.196&#x02010;0.216)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">HL Lambda<sub>z</sub> (h)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.33 (3.21&#x02010;3.54)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vdss (L/kg)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.042 (0.014&#x02010;1.89)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">CL (mL/min/kg)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.26 (0.625&#x02010;11.5)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC (h &#x000d7; ng/mL)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">7,019 (579&#x02010;10&#x000a0;673)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AUC extrap (%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.326 (0.129&#x02010;5.46)</td></tr></tbody></table><table-wrap-foot><fn id="jvim15080-note-0005"><p>AUC, area under the curve; CL, clearance; HL, half&#x02010;life; V<sub>dss</sub>, volume of distribution.</p></fn></table-wrap-foot></table-wrap><table-wrap id="jvim15080-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Serum concentration of famotidine when administered as 3 doses of 0.4 mg/kg IV at 0, 8, and 16 hours to adult cattle (n&#x02009;=&#x02009;4)</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr><th style="border-bottom:solid 1px #000000" colspan="5" align="left" valign="bottom" rowspan="1">Serum concentration (ng/mL)</th></tr><tr><th style="border-bottom:solid 1px #000000" colspan="5" align="left" valign="bottom" rowspan="1">Time (hour)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" valign="bottom" rowspan="1" colspan="1">0</th><th align="left" valign="bottom" rowspan="1" colspan="1">8</th><th align="left" valign="bottom" rowspan="1" colspan="1">16</th><th align="left" valign="bottom" rowspan="1" colspan="1">24</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Median</td><td align="left" valign="top" rowspan="1" colspan="1">ND<xref ref-type="fn" rid="jvim15080-note-0006">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">935.5<xref ref-type="fn" rid="jvim15080-note-0007">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">4217.4<xref ref-type="fn" rid="jvim15080-note-0007">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">761.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Range (ng/mL)</td><td align="left" valign="top" rowspan="1" colspan="1">ND<xref ref-type="fn" rid="jvim15080-note-0006">
+<sup>a</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">(411.3&#x02013;1459.7)<xref ref-type="fn" rid="jvim15080-note-0007">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">(453.4&#x02013;7981.3)<xref ref-type="fn" rid="jvim15080-note-0007">
+<sup>b</sup>
+</xref>
+</td><td align="left" valign="top" rowspan="1" colspan="1">(100.2&#x02013;5858.5)</td></tr></tbody></table><table-wrap-foot><fn id="jvim15080-note-0006"><p>
+<sup>a</sup>Limit of detection of approximately 0.1 ng/mL.</p></fn><fn id="jvim15080-note-0007"><p>
+<sup>b</sup>n&#x02009;=&#x02009;2.</p></fn></table-wrap-foot></table-wrap><p>No adverse clinical effects were observed in the steers for the duration of study period, based on lack of clinical abnormalities such as changes in fecal consistency, appetite, attitude, and physical examination findings at the conclusion of the study.</p></sec><sec id="jvim15080-sec-0016"><label>4</label><title>DISCUSSION</title><p>To our knowledge, this study is the first investigation of parenteral administration of famotidine in adult cattle. Our results indicate that famotidine administered at a dosage of 0.4 mg/kg IV is effective at increasing the abomasal outflow fluid pH of adult cattle for up to 4 hours after a single dose compared with saline control. When administered every 8 hours, as is typically done for clinical treatment,<xref rid="jvim15080-bib-0011" ref-type="ref">11</xref> famotidine increased the pH of the abomasal outflow fluid, but the effect decreased with additional doses. Famotidine increased the abomasal outflow fluid pH for 3 hours after the first dose, 2 hours after the second dose, and for only 1 hour after the third dose. This phenomenon of tachyphylaxis has been described in humans and a decrease in response to treatment with H<sub>2</sub>RA has been reported after the second dose and with repeated PO dosing of famotidine in dogs.<xref rid="jvim15080-bib-0014" ref-type="ref">14</xref>, <xref rid="jvim15080-bib-0015" ref-type="ref">15</xref> However, although the effect on acid secretion was reported to be negligible in these studies of humans, there was a perceived effect of treatment, which may be a result of other mechanisms. In humans, plasma concentration is dose&#x02010;related with greater acid suppression correlated with larger doses.<xref rid="jvim15080-bib-0016" ref-type="ref">16</xref> Similar studies have not been performed in veterinary species to our knowledge. The mechanisms of a decreasing effect on acid secretion in cattle are not known, and may occur through a similar process, such as degradation of parietal cell H<sub>2</sub>&#x02010;receptors with time.<xref rid="jvim15080-bib-0017" ref-type="ref">17</xref> The presence of tachyphylaxis is clinically important when recommending dosing interval or frequency.<xref rid="jvim15080-bib-0015" ref-type="ref">15</xref>
+</p><p>Previous reports describing use of other H<sub>2</sub>RA in ruminants have been published. In 1 report, abomasal pH increased for 1 hour after administration of ranitidine (6.6 mg/kg IM) in cattle.<xref rid="jvim15080-bib-0012" ref-type="ref">12</xref> Other studies have reported a dose&#x02010;dependent effect of PO cimetidine and ranitidine in pre&#x02010;ruminant calves.<xref rid="jvim15080-bib-0005" ref-type="ref">5</xref> The effect of IV ranitidine has been investigated in sheep with abomasal cannulae, indicating that a dosing interval of every 8&#x02013;12 hours is most effective.<xref rid="jvim15080-bib-0018" ref-type="ref">18</xref> That study, however, also found that sheep receiving ranitidine had increased total serum protein and increased serum creatinine concentrations, increased aspartate aminotransferase activity, and decreased serum pepsinogen concentration, indicating safety concerns for this agent in sheep.<xref rid="jvim15080-bib-0018" ref-type="ref">18</xref>
+</p><p>Drugs that increase gastric pH above 3.0 for up to 75% of a 24&#x02010;hour period may be associated with healing of gastric or duodenal ulcers in humans.<xref rid="jvim15080-bib-0019" ref-type="ref">19</xref> When administered as a single dose, famotidine significantly increased the abomasal outflow pH compared to the controls for up to 4 hours, from a baseline of 4.26&#x02009;&#x000b1;&#x02009;0.81 pretreatment to a high of 6.01&#x02009;&#x000b1;&#x02009;0.18 at 2 hours post&#x02010;administration of famotidine. When administered every 8 hours, as has been clinically recommended, the greatest difference between control&#x02010; and famotidine&#x02010;treated cattle occurred 2 hours after administration of the first dose. However, the 2 groups were only different for 7 hours of a 24&#x02010;hour period, which equates to approximately 30% of the day. This is less than the observed 48.9% of a 24&#x02010;hour period in dogs treated with famotidine (0.5 mg/kg IV q12h)<xref rid="jvim15080-bib-0010" ref-type="ref">10</xref> and less than the 75% of the day recommended in humans.<xref rid="jvim15080-bib-0019" ref-type="ref">19</xref> This finding suggests that administering H<sub>2</sub>RA every 8 hours may not be cost&#x02010;effective if there is no clinical effect, and perhaps may have the same duration of effect in a 24&#x02010;hour period, if administered less frequently. These percentages are less than the suggested interval for treatment of humans, but the optimal degree of gastric acid suppression has not been clearly defined in veterinary species, including cattle.</p><p>Our study reports higher pH values obtained for fluid from duodenal cannulae as compared with studies with direct luminal abomasal fluid measurement in calves and adult cattle, either from direct cannulation or abomasocentesis,<xref rid="jvim15080-bib-0005" ref-type="ref">5</xref>, <xref rid="jvim15080-bib-0007" ref-type="ref">7</xref>, <xref rid="jvim15080-bib-0008" ref-type="ref">8</xref>, <xref rid="jvim15080-bib-0020" ref-type="ref">20</xref>, <xref rid="jvim15080-bib-0021" ref-type="ref">21</xref> which may be a consequence of backflow of biliary and pancreatic secretions and mucus production by small intestinal enterocytes. Correct placement of the duodenal cannulae was determined at the time of surgical implantation by measurement of pH, and thus was unlikely to have caused the difference in our study, especially based on consistency among individuals. Additionally, minimal fluctuation was observed in the abomasal outflow pH of control steers during the study period, suggesting that feeding concentrate did not have an effect on the acid secretion and pH of the abomasal outflow fluid in our study.</p><p>In our study, the HL of famotidine was just over 3 hours, suggesting that&#x02009;&#x0003e;&#x02009;99% of the drug would be eliminated within 24 hours (7 elimination HL) post&#x02010;administration. However, only serum was obtained in this study and a multi&#x02010;dose regimen with tissue samples would be required to determine accurate tissue residues to determine appropriate withdrawal times. Veterinarians are recommended to consult the Food Animal Residue Avoidance Database (FARAD), or other regulatory body, for recommendations on withdrawal times after administration of this medication, because famotidine currently is not approved for use in food&#x02010;producing animals in the United States and its use is considered extra&#x02010;label.</p><p>Limitations of our study include small sample size, short study period, and use of a single IV catheter for administration and sampling. A small sample size may increase the effect of individual variation, especially when interpreting the pharmacokinetic data. The short 34&#x02010;hour washout period between studies may have allowed an unknown residual effect of the drug on the parietal cells within the abomasum. To more accurately analyze the pharmacokinetic indices of famotidine, more frequent blood sampling would have been necessary directly after administration of the drug, but due to certain constraints, this was not possible for our study. The <italic>C</italic>
+<sub>max,</sub> in particular, would be affected, as the lack of initial data points may have resulted in the failure to identify the true peak concentration, which may have occurred before the first data point. More data points would have changed the shape of the time&#x02010;concentration curve, and thus the AUC and CL values are likely to have been underestimated, because of the first data point being an hour after administration.</p><p>Because of personnel limitations and temperament of the cattle, direct IV administration of the treatment was not practical for this pilot study. Utilizing the same IV catheter for administration of drug and blood sample collection may have altered the measured serum famotidine concentrations because of crystallization of famotidine within the catheter or extension set. Additionally, returning the 20 mL of blood taken before sample collection to the animal post&#x02010;sampling may have inadvertently readministered drug remaining within the catheter, also affecting the pharmacokinetic analysis. In particular, 1 steer in the multi&#x02010;dose section of the study had repeatedly higher serum famotidine concentrations than the others steers, which may have been caused by individual variation, but the possibility of sampling error as a result of the above&#x02010;mentioned issues cannot be ruled out. In addition, some data points for the multi&#x02010;dose study were not available, thus making interpretation of the pharmacokinetic analysis of the multi&#x02010;dose study problematic.</p><p>More frequent abomasal outflow fluid samples or continuous sampling by pH electrode through the cannulae would have allowed detection of the initial effects of famotidine on parietal cell secretion and a more accurate detection of the timing of abomasal outflow pH changes. Studies with larger numbers of individuals using direct abomasal cannulation <xref rid="jvim15080-bib-0005" ref-type="ref">5</xref>, <xref rid="jvim15080-bib-0007" ref-type="ref">7</xref>, <xref rid="jvim15080-bib-0020" ref-type="ref">20</xref> or using repeated percutaneous ultrasound&#x02010;guided abomasocentesis<xref rid="jvim15080-bib-0021" ref-type="ref">21</xref> may have resulted in more accurate measurements of abomasal pH.</p><p>This pilot study facilitates further studies assessing different dosage rates and dosing intervals of famotidine, as well as investigating the effect of different commercially available gastric acid suppressant therapeutic drugs in cattle and other ruminant species. Further studies investigating the efficacy of famotidine after extravascular administration may be clinically useful. In conclusion, famotidine when administered parenterally at a dosage of 0.4 mg/kg is effective at increasing abomasal outflow pH for at least 4 hours after a single dose, and could be a useful adjunctive treatment for abomasal ulceration in adult cattle, but should not be the sole form of treatment. Further studies are needed to evaluate the use of this drug, especially dose rates and frequency.</p></sec><sec id="jvim15080-sec-0018"><title>CONFLICT OF INTEREST DECLARATION</title><p>Authors declare no conflicts of interest.</p></sec><sec id="jvim15080-sec-0019"><title>OFF&#x02010;LABEL ANTIMICROBIAL DECLARATION</title><p>Famotidine is not labeled for use in food&#x02010;producing animals in the United States.</p></sec><sec id="jvim15080-sec-0020"><title>INSTITUTIONAL ANIMAL CARE AND USE COMMITTEE (IACUC) OR OTHER APPROVAL DECLARATION</title><p>All animal procedures were approved by the University of Missouri Institutional Animal Care and Use Committee Protocol #8331.</p></sec></body><back><ack id="jvim15080-sec-0017"><title>ACKNOWLEDGMENTS</title><p>The authors thank Dr. Dusty Nagy, Julie Holle, Jill Larson, and Kim Pearl for their support and assistance with this study.</p></ack><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="jvim15080-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jvim15080-cit-0002">
+<string-name>
+<surname>Smith</surname>
+<given-names>DF</given-names>
+</string-name>, 
+<string-name>
+<surname>Munson</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Erb</surname>
+<given-names>HN.</given-names>
+</string-name>
+<article-title>Abomasal ulcer disease in adult dairy cattle</article-title>. <source xml:lang="en">Cornell Vet.</source>
+<year>1983</year>;<volume>73</volume>:<fpage>213</fpage>&#x02013;<lpage>224</lpage>.
+<pub-id pub-id-type="pmid">6884033</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jvim15080-cit-0003">
+<string-name>
+<surname>Braun</surname>
+<given-names>U</given-names>
+</string-name>, 
+<string-name>
+<surname>Bretscher</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Gerber</surname>
+<given-names>D.</given-names>
+</string-name>
+<article-title>Bleeding abomasal ulcers in dairy cows</article-title>. <source xml:lang="en">Vet Rec.</source>
+<year>1991</year>;<volume>129</volume>:<fpage>279</fpage>&#x02013;<lpage>284</lpage>.
+<pub-id pub-id-type="pmid">1962399</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jvim15080-cit-0004">
+<string-name>
+<surname>Braun</surname>
+<given-names>U</given-names>
+</string-name>, 
+<string-name>
+<surname>Eicher</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Ehrensperger</surname>
+<given-names>F.</given-names>
+</string-name>
+<article-title>Type 1 abomasal ulcers in dairy cattle</article-title>. <source xml:lang="en">Zentralbl Veterinarmed A.</source>
+<year>1991</year>;<volume>38</volume>:<fpage>357</fpage>&#x02013;<lpage>366</lpage>.
+<pub-id pub-id-type="pmid">1910238</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0004"><label>4</label><mixed-citation publication-type="book" id="jvim15080-cit-0005">
+<string-name>
+<surname>Francoz</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Guard</surname>
+<given-names>CL</given-names>
+</string-name>. <chapter-title>Abomasal ulcers</chapter-title> pp 815&#x02013;817. In: <person-group person-group-type="editor"><name><surname>Smtih</surname><given-names>BP</given-names></name></person-group>, ed. <source xml:lang="en">Large Animal Internal Medicine</source>. <edition>5th ed</edition>
+<publisher-loc>St. Louis, MO</publisher-loc>: <publisher-name>Elsevier</publisher-name>; <year>2015</year>.
+</mixed-citation></ref><ref id="jvim15080-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jvim15080-cit-0006">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>AF</given-names>
+</string-name>, 
+<string-name>
+<surname>Constable</surname>
+<given-names>PD</given-names>
+</string-name>, 
+<string-name>
+<surname>Misk</surname>
+<given-names>NA.</given-names>
+</string-name>
+<article-title>Effect of orally administered cimetidine and ranitidine on abomasal luminal pH in clinically normal milk&#x02010;fed calves</article-title>. <source xml:lang="en">Am J Vet Res.</source>
+<year>2001</year>;<volume>62</volume>:<fpage>1531</fpage>&#x02013;<lpage>1538</lpage>.
+<pub-id pub-id-type="pmid">11592315</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jvim15080-cit-0007">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>AE</given-names>
+</string-name>, 
+<string-name>
+<surname>Constable</surname>
+<given-names>PD</given-names>
+</string-name>, 
+<string-name>
+<surname>Misk</surname>
+<given-names>NA.</given-names>
+</string-name>
+<article-title>Effect of an orally administered antacid agent containing aluminum hydroxide and magnesium hydroxide on abomasal luminal pH in clinically normal milk&#x02010;fed calves</article-title>. <source xml:lang="en">J Am Vet Med Assoc.</source>
+<year>2002</year>;<volume>220</volume>:<fpage>74</fpage>&#x02013;<lpage>79</lpage>.
+<pub-id pub-id-type="pmid">12680452</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jvim15080-cit-0008">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Constable</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Misk</surname>
+<given-names>N.</given-names>
+</string-name>
+<article-title>Effect of orally administered omeprazole on abomasal luminal pH in dairy calves fed milk replacer</article-title>. <source xml:lang="en">J Vet Med A Physiol Pathol Clin Med.</source>
+<year>2005</year>;<volume>52</volume>:<fpage>238</fpage>&#x02013;<lpage>243</lpage>.
+<pub-id pub-id-type="pmid">15943608</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0008"><label>8</label><mixed-citation publication-type="miscellaneous" id="jvim15080-cit-0009">
+<string-name>
+<surname>Constable</surname>
+<given-names>PD</given-names>
+</string-name>, 
+<string-name>
+<surname>Wittek</surname>
+<given-names>T</given-names>
+</string-name>, 
+<string-name>
+<surname>Ahmed</surname>
+<given-names>AF.</given-names>
+</string-name> Abomasal pH and emptying rate in the calf and dairy cow and the effect of commonly administered therapeutic agents. In: Proceedings of the XXIV World Buiatrics Congress; October 15&#x02013;19, 2006; Nice, France.
+</mixed-citation></ref><ref id="jvim15080-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jvim15080-cit-0010">
+<string-name>
+<surname>Sabesin</surname>
+<given-names>SM</given-names>
+</string-name>, 
+<string-name>
+<surname>Berlin</surname>
+<given-names>RG</given-names>
+</string-name>, 
+<string-name>
+<surname>Humphries</surname>
+<given-names>TJ</given-names>
+</string-name>, et al. <article-title>Famotidine relieves symptoms of gastroesophageal reflux disease and heals erosions and ulcerations: results of a multicenter, placebo&#x02010;controlled, dose&#x02010;ranging study</article-title>. <source xml:lang="en">Arch Intern Med.</source>
+<year>1991</year>;<volume>151</volume>:<fpage>2394</fpage>&#x02013;<lpage>2400</lpage>.
+<pub-id pub-id-type="pmid">1746996</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jvim15080-cit-0011">
+<string-name>
+<surname>Bersenas</surname>
+<given-names>AM</given-names>
+</string-name>, 
+<string-name>
+<surname>Mathews</surname>
+<given-names>KA</given-names>
+</string-name>, 
+<string-name>
+<surname>Allen</surname>
+<given-names>DG</given-names>
+</string-name>, et al. <article-title>Effects of ranitidine, famotidine, pantoprazole, and omeprazole on intragastric pH in dogs</article-title>. <source xml:lang="en">Am J Vet Res.</source>
+<year>2005</year>;<volume>66</volume>:<fpage>425</fpage>&#x02013;<lpage>431</lpage>.
+<pub-id pub-id-type="pmid">15822586</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0011"><label>11</label><mixed-citation publication-type="miscellaneous" id="jvim15080-cit-0012">
+<string-name>
+<surname>Radostits</surname>
+<given-names>OM</given-names>
+</string-name>, 
+<string-name>
+<surname>Arundel</surname>
+<given-names>JH.</given-names>
+</string-name>
+<italic>Veterinary Medicine: A Textbook of the Diseases of Cattle, Sheep, Pigs, Goats and Horses</italic> London: Saunders; <year>2000</year>.
+</mixed-citation></ref><ref id="jvim15080-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="jvim15080-cit-0013">
+<string-name>
+<surname>Wallace</surname>
+<given-names>LL</given-names>
+</string-name>, 
+<string-name>
+<surname>Reecy</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Williams</surname>
+<given-names>JE.</given-names>
+</string-name> The effect of ranitidine hydrochloride on abomasal fluid pH in young steers. <italic>Agri Pract</italic>
+<year>1994</year>;15:34&#x02013;38.
+</mixed-citation></ref><ref id="jvim15080-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jvim15080-cit-0014">
+<string-name>
+<surname>Campanero</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Bueno</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Arangoa</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <article-title>Improved selectivity in detection of polar basic drugs by liquid chromatography&#x02010;electrospray ionization mass spectrometry. Illustration using an assay method for the determination of famotidine in human plasma</article-title>. <source xml:lang="en">J Chromatogr B Biomed Sci Appl.</source>
+<year>2001</year>;<volume>763</volume>:<fpage>21</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">11710580</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jvim15080-cit-0015">
+<string-name>
+<surname>McRorie</surname>
+<given-names>JW</given-names>
+</string-name>, 
+<string-name>
+<surname>Kirby</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Miner</surname>
+<given-names>PB.</given-names>
+</string-name>
+<article-title>Histamine2&#x02010;receptor antagonists: rapid development of tachyphylaxis with repeat dosing</article-title>. <source xml:lang="en">World J Gastrointest Pharmacol Ther.</source>
+<year>2014</year>;<volume>5</volume>:<fpage>57</fpage>&#x02013;<lpage>62</lpage>.
+<pub-id pub-id-type="pmid">24868486</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jvim15080-cit-0016">
+<string-name>
+<surname>Tolbert</surname>
+<given-names>MK</given-names>
+</string-name>, 
+<string-name>
+<surname>Graham</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Odunayo</surname>
+<given-names>A</given-names>
+</string-name>, et al. <article-title>Repeated famotidine administration results in a diminished effect on intragastric pH in dogs</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>2017</year>;<volume>31</volume>:<fpage>117</fpage>&#x02013;<lpage>123</lpage>.
+<pub-id pub-id-type="pmid">27906465</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jvim15080-cit-0017">
+<string-name>
+<surname>Smith</surname>
+<given-names>JL.</given-names>
+</string-name>
+<article-title>Clinical pharmacology of famotidine</article-title>. <source xml:lang="en">Digestion.</source>
+<year>1985</year>;<volume>32</volume>(<issue>Suppl 1</issue>):<fpage>15</fpage>&#x02013;<lpage>23</lpage>.
+<pub-id pub-id-type="pmid">2866132</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jvim15080-cit-0018">
+<string-name>
+<surname>Huang</surname>
+<given-names>JQ</given-names>
+</string-name>, 
+<string-name>
+<surname>Hunt</surname>
+<given-names>RH.</given-names>
+</string-name>
+<article-title>Pharmacological and pharmacodynamic essentials of H(2)&#x02010;receptor antagonists and proton pump inhibitors for the practising physician</article-title>. <source xml:lang="en">Best Pract Res Clin Gastroenterol.</source>
+<year>2001</year>;<volume>15</volume>:<fpage>355</fpage>&#x02013;<lpage>370</lpage>.
+<pub-id pub-id-type="pmid">11403532</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jvim15080-cit-0019">
+<string-name>
+<surname>Morgado</surname>
+<given-names>AA</given-names>
+</string-name>, 
+<string-name>
+<surname>Nunes</surname>
+<given-names>GR</given-names>
+</string-name>, 
+<string-name>
+<surname>Martins</surname>
+<given-names>AS</given-names>
+</string-name>, et al. <article-title>Metabolic profile and ruminal and abomasal pH in sheep subjected to intravenous ranitidine</article-title>. <source xml:lang="en">Pesq Vet Bras.</source>
+<year>2014</year>;<volume>34</volume>:<fpage>17</fpage>&#x02013;<lpage>22</lpage>.
+</mixed-citation></ref><ref id="jvim15080-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jvim15080-cit-0020">
+<string-name>
+<surname>Mela</surname>
+<given-names>GS</given-names>
+</string-name>, 
+<string-name>
+<surname>Savarino</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Vigneri</surname>
+<given-names>S.</given-names>
+</string-name>
+<article-title>Optimizing the information obtained from continuous 24&#x02010;hour gastric pH monitoring</article-title>. <source xml:lang="en">Am J Gastroenterol.</source>
+<year>1992</year>;<volume>87</volume>:<fpage>961</fpage>&#x02013;<lpage>966</lpage>.
+<pub-id pub-id-type="pmid">1353661</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jvim15080-cit-0021">
+<string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Constable</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>McCallister</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Abomasal cannulation in the milk&#x02010;fed calf using a 7 mm polyurethane tube</article-title>. <source xml:lang="en">J Vet Med A Physiol Pathol Clin Med.</source>
+<year>2005</year>;<volume>52</volume>:<fpage>39</fpage>&#x02013;<lpage>42</lpage>.
+<pub-id pub-id-type="pmid">15703009</pub-id></mixed-citation></ref><ref id="jvim15080-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jvim15080-cit-0022">
+<string-name>
+<surname>Van Winden</surname>
+<given-names>SC</given-names>
+</string-name>, 
+<string-name>
+<surname>Muller</surname>
+<given-names>KE</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuiper</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Studies on the pH value of abomasal contents in dairy cows during the first 3 weeks after calving</article-title>. <source xml:lang="en">J Vet Med A Physiol Pathol Clin Med.</source>
+<year>2002</year>;<volume>49</volume>:<fpage>157</fpage>&#x02013;<lpage>160</lpage>.
+<pub-id pub-id-type="pmid">12019957</pub-id></mixed-citation></ref></ref-list></back></article>

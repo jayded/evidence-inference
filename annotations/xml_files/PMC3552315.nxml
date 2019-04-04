@@ -1,0 +1,731 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Fam Pract</journal-id><journal-id journal-id-type="iso-abbrev">Fam Pract</journal-id><journal-id journal-id-type="hwp">fampract</journal-id><journal-id journal-id-type="publisher-id">famprj</journal-id><journal-title-group><journal-title>Family Practice</journal-title></journal-title-group><issn pub-type="ppub">0263-2136</issn><issn pub-type="epub">1460-2229</issn><publisher><publisher-name>Oxford University Press</publisher-name><publisher-loc>UK</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22948337</article-id><article-id pub-id-type="pmc">3552315</article-id><article-id pub-id-type="doi">10.1093/fampra/cms051</article-id><article-categories><subj-group subj-group-type="heading"><subject>Original Article</subject></subj-group></article-categories><title-group><article-title>Randomized trial of distance-based treatment for young children with discipline problems seen in primary health care</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Reid</surname><given-names>Graham J</given-names></name><xref ref-type="aff" rid="AF0001">
+<sup>a</sup>
+</xref><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref><xref ref-type="aff" rid="AF0003">
+<sup>c</sup>
+</xref><xref ref-type="corresp" rid="c1">
+<sup>*</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Stewart</surname><given-names>Moira</given-names></name><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref><xref ref-type="aff" rid="AF0004">
+<sup>d</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Vingilis</surname><given-names>Evelyn</given-names></name><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Dozois</surname><given-names>David J A</given-names></name><xref ref-type="aff" rid="AF0001">
+<sup>a</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Wetmore</surname><given-names>Stephen</given-names></name><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Jordan</surname><given-names>John</given-names></name><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Dickie</surname><given-names>Gordon</given-names></name><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Osmun</surname><given-names>W E</given-names></name><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Wade</surname><given-names>Terrance J</given-names></name><xref ref-type="aff" rid="AF0005">
+<sup>e</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Brown</surname><given-names>Judith B</given-names></name><xref ref-type="aff" rid="AF0002">
+<sup>b</sup>
+</xref><xref ref-type="aff" rid="AF0006">
+<sup>f</sup>
+</xref></contrib><contrib contrib-type="author" corresp="no"><name><surname>Zaric</surname><given-names>Gregory S</given-names></name><xref ref-type="aff" rid="AF0004">
+<sup>d</sup>
+</xref><xref ref-type="aff" rid="AF0007">
+<sup>g</sup>
+</xref></contrib><aff id="AF0001"><sup>a</sup><institution>Department of Psychology</institution>, Western University, London,</aff><aff id="AF0002"><sup>b</sup><institution>Department of Family Medicine</institution>, </aff><aff id="AF0003"><sup>c</sup><institution>Department of Paediatrics</institution> and</aff><aff id="AF0004"><sup>d</sup><institution>Department of Biostatistics and Epidemiology, The Departments of Family Medicine, Paediatrics, and Biostatistics and Epidemiology are within the Schulich School of Medicine and Dentistry. Western University</institution>, <country>London</country>, </aff><aff id="AF0005"><sup>e</sup><institution>Department of Community Health Sciences, Brock University</institution>, <country>St Catharines</country>, </aff><aff id="AF0006"><sup>f</sup><institution>School of Social Work, Kings University College</institution>, <country>London</country> and</aff><aff id="AF0007"><sup>g</sup><institution>Richard Ivey School of Business, Western University</institution>, <country>London, Ontario, Canada</country>.</aff></contrib-group><author-notes><corresp id="c1">*Correspondence to Dr Graham J Reid, <institution>Psychology and Family Medicine, Western University, Westminster Hall</institution>, <addr-line>Room 319E</addr-line>, <country>London ON N6A 3K7, Canada</country>; E-mail: <email xlink:href="greid@uwo.ca">greid@uwo.ca</email></corresp></author-notes><pub-date pub-type="ppub"><month>2</month><year>2013</year></pub-date><pub-date pub-type="epub"><day>4</day><month>9</month><year>2012</year></pub-date><pub-date pub-type="pmc-release"><day>4</day><month>9</month><year>2012</year></pub-date><!-- PMC Release delay is 0 months and 0 days and was based on the
+							<pub-date pub-type="epub"/>. --><volume>30</volume><issue>1</issue><fpage>14</fpage><lpage>24</lpage><permissions><copyright-statement>&#x000a9; The Author 2012. Published by Oxford University Press.</copyright-statement><copyright-year>2012</copyright-year><license license-type="open-access"><license-p><!--CREATIVE COMMONS-->This is an Open Access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/3.0">http://creativecommons.org/licenses/by-nc/3.0</ext-link>), which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><abstract><sec><title>Objective.</title><p>Many parents of preschool-age children have concerns about how to discipline their child but few receive help. We examined the effects of a brief treatment along with usual care, compared with receiving usual care alone.</p></sec><sec><title>Patients.</title><p>Parents (<italic>N</italic> = 178) with concerns about their 2- to 5-year olds&#x02019; discipline were recruited when they visited their family physician at 1 of 24 practices.</p></sec><sec><title>Methods.</title><p>After completing mailed baseline measures, parents were randomly assigned to receive usual care or the <italic>Parenting Matters</italic> intervention along with usual care. <italic>Parenting Matters</italic> combined a self-help booklet with two calls from a telephone coach during a 6-week treatment period. Follow-up assessments were completed at 7 weeks post-randomization, and 3 and 6 months later.</p></sec><sec><title>Results.</title><p>Behaviour problems (Eyberg Child Behaviour Inventory) decreased significantly more in the <italic>Parenting Matters</italic> condition compared with Usual Care alone, based on a significant time by treatment group effect in intent-to-treat, growth curve analyses (<italic>P</italic> = 0.033). The <italic>Parenting Matters</italic> group also demonstrated greater and more rapid improvement than in usual care alone in terms of overall psychopathology (Child Behaviour Checklist, <italic>P</italic> = 0.02), but there were no group differences in parenting. The overall magnitude of group differences was small (<italic>d</italic> = 0.15 or less).</p></sec><sec><title>Conclusion.</title><p>A brief early intervention combining a self-help booklet and telephone coaching is an effective way to treat mild behaviour problems among young children. This minimal-contact approach addresses the need for interventions in primary health care settings and may be a useful component in step-care models of mental health.</p></sec></abstract><kwd-group><title>Keywords.</title><kwd>Behaviour problems</kwd><kwd>brief intervention</kwd><kwd>distance treatment</kwd><kwd>preschool-age children</kwd></kwd-group><counts><page-count count="11"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Discipline-related behaviours (e.g. non-compliance) are the most common behaviour problems among young children and many parents (40&#x02013;60%) desire more information on discipline.<sup><xref ref-type="bibr" rid="CIT0001">1</xref></sup> Effective parenting programmes can be delivered in a variety of ways including individual- and group-administered programmes<sup><xref ref-type="bibr" rid="CIT0002">2</xref></sup> and self-administered interventions using videos,<sup><xref ref-type="bibr" rid="CIT0003">3</xref></sup> books<sup><xref ref-type="bibr" rid="CIT0004">4</xref></sup> or specific problem (e.g. tantrums) booklets.<sup><xref ref-type="bibr" rid="CIT0005">5</xref></sup> Nevertheless, over 80% of children with psychosocial problems do not receive treatment.<sup><xref ref-type="bibr" rid="CIT0006">6</xref></sup> A variety of methods of identifying children/families who could benefit from parenting interventions, and ways of delivering interventions, are needed to meet the challenge of providing mental health care for children.</p><p content-type="indent">Family physicians (FPs) are the first professional to whom parents turn for help with psychosocial concerns,<sup><xref ref-type="bibr" rid="CIT0007">7</xref></sup> and most children/parents see their FP regularly. Given other demands, physicians in primary health care (PHC) settings struggle to address children&#x02019;s psychosocial problems; passive acknowledgement,<sup><xref ref-type="bibr" rid="CIT0008">8</xref></sup> reassurance/support and monitoring are common physician responses and referrals for specialist care are rare.<sup><xref ref-type="bibr" rid="CIT0009">9</xref></sup> Behaviour problems in children are a particular challenge and FPs report lower levels of comfort and skill in managing such problems, and not surprisingly, prefer to refer these cases, compared with social-emotion or mood problems.<sup><xref ref-type="bibr" rid="CIT0010">10</xref></sup> FPs generally feel more comfortable and responsible for the identification and assessment of children&#x02019;s psychosocial issues, than treatment.<sup><xref ref-type="bibr" rid="CIT0010">10</xref>,<xref ref-type="bibr" rid="CIT0011">11</xref></sup> Physicians can be trained to effectively deliver discipline interventions,<sup><xref ref-type="bibr" rid="CIT0012">12</xref></sup> and children with behaviour problems can be identified and treated (by nurses, health visitors) in PHC settings.<sup><xref ref-type="bibr" rid="CIT0013">13</xref>,<xref ref-type="bibr" rid="CIT0014">14</xref></sup> Thus, although well positioned to deliver psychosocial interventions, asking FPs to provide treatment for discipline problems among young children is unlikely to be able to meet the demand for services that exist in PHC.</p><p content-type="indent">An alternative might be to increase the identification of children in need and provide referrals for specialist care. Parental concerns are related concurrently<sup><xref ref-type="bibr" rid="CIT0015">15</xref></sup> and prospectively<sup><xref ref-type="bibr" rid="CIT0016">16</xref></sup> with behaviour problem measures and diagnosis,<sup><xref ref-type="bibr" rid="CIT0017">17</xref></sup> a number of validated brief screening instrument exist,<sup><xref ref-type="bibr" rid="CIT0015">15</xref></sup> and routine screening can be conducted in PHC.<sup><xref ref-type="bibr" rid="CIT0018">18</xref></sup> However, there are many barriers to accessing specialist care including scheduling, cost, length of treatment, stigma<sup><xref ref-type="bibr" rid="CIT0019">19</xref></sup> and long waits,<sup><xref ref-type="bibr" rid="CIT0020">20</xref></sup> while the actual utilization of specialist care is also low.<sup><xref ref-type="bibr" rid="CIT0006">6</xref>,<xref ref-type="bibr" rid="CIT0009">9</xref></sup>
+</p><p content-type="indent">This study tested a brief treatment combining booklets and telephone support to help parents deal with discipline problems among young children (2&#x02013;5 years). Parents who might benefit from this intervention were identified at the time of a routine visit in a PHC centre based on parental concerns; we used parental concerns to identify potential participants given the high rates of concerns regarding child behaviour in this population<sup><xref ref-type="bibr" rid="CIT0021">21</xref></sup> and the fact that parents raising concerns is the typical way in which FPs become aware of children with behaviour problems.<sup><xref ref-type="bibr" rid="CIT0015">15</xref></sup> As opposed to asking FPs or other professionals in the PHC setting to deliver the intervention, telephone coaching was provided by individuals not affiliated with the practices. It was hypothesized that parents receiving treatment, along with usual care, would demonstrate greater reductions in their child&#x02019;s behaviour problems (primary outcome), improved parenting practices, and greater reductions in child psychopathology in general following intervention, compared with parents receiving usual care alone.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><p>This parallel-group study was conducted in the Southwestern region of Ontario, Canada. Parents of children aged 2&#x02013;5 years who were concerned about their child&#x02019;s discipline were recruited during a regularly scheduled appointment (i.e. the appointment was not made specifically for child behaviour problems) from 24 family medicine practices. Enrolment occurred from June 2005 through December 2007. After returning baseline questionnaires, parents were randomized in blocks of 4, stratified by family medicine practice, to the treatment programme along with usual care, or usual care alone. Recruitment ended when the target sample size, accounting for expected loss to follow-up, was reached. Parents in the treatment condition were randomly assigned to one of three telephone coaches. <xref ref-type="fig" rid="F1">Figure 1</xref> is the study flow diagram. The parent who self-identified as the primary caregiver (<italic>N</italic> = 178) provided ratings of all outcomes and was the person contacted in the intervention condition. Of the 156 parents who were not single parents, 72 spouses also returned questionnaires (<ext-link ext-link-type="uri" xlink:href="http://fampra.oxfordjournals.org/lookup/suppl/doi:10.1093/fampra/cms051/-/DC1">Supplementary Figure 1B</ext-link>).</p><fig fig-type="figure" id="F1" position="float"><label>F<sc>igure</sc> 1</label><caption><p>Flow chart showing patient recruitment and retention across study phases</p></caption><p>Parents could be approached more than once and identifying information was not collected for parents who did not participate. Thus, there were multiple reasons for some parents being ineligible; most often this was because they had no concerns regarding their child&#x02019;s sleep or behaviour. After being mailed detailed consent forms and baseline questionnaires, 52 parents declined participation (the main reasons these parents gave were as follows: too busy, 44%; no longer interested, 25%; no longer concerned about child&#x02019;s behaviour, 23%) and 55 parents did not return the forms. Families were excluded for the following reasons: (a) non-English speaking parents (<italic>n</italic> = 35); (b) children with significant physical (e.g. cerebral palsy) or developmental disabilities (e.g. Down syndrome; <italic>n</italic> = 15); (c) families without a telephone (<italic>n</italic> = 8); (d) parents who were concerned about their child&#x02019;s sleep, or equally concerned about both sleep and discipline were invited to participate in separate trials (<italic>n</italic> = 572). Of the 178 parents enrolled in the trial, the 14 parents who did not return any of the follow-up forms were excluded from the analyses.</p><graphic xlink:href="famprj_cms051_f0001"/></fig><sec id="s3"><title>Procedures</title><p>Recruitment from each practice lasted 13.6 months (&#x000b1;7.8; range = 1&#x02013;28). At the FP&#x02019;s office, parents were given a study overview and concerns checklist by a study research assistant (RA), or office nurse or receptionist who was paid an honorarium to distribute and collect forms. Parents were asked if they had concerns about &#x02018;how to discipline your child&#x02019;; response format was based on the Parent&#x02019;s Evaluation of Developmental Status checklist.<sup><xref ref-type="bibr" rid="CIT0015">15</xref></sup> Parents meeting study criteria (<xref ref-type="fig" rid="F1">Fig. 1</xref>) were mailed questionnaires and contacted by a RA to re-administer the concerns checklist. (The first 40 patients who enrolled were allocated to the trial based on the concerns ratings completed during the visits to their FP rather than when the baseline measure was completed.)</p><p content-type="indent">Computer-generated block randomization codes were prepared, prior to the trial, by a person not affiliated with the project. Enrolment occurred when baseline questionnaires were returned. The RA then forwarded parents&#x02019; information to an administrative assistant (this individual&#x02019;s only roles in the trial were to maintain the locked randomization codes database and to receive the returned parent satisfaction questionnaires) who in turn forwarded the contact information and treatment condition to a telephone coach. The coach mailed parents in Usual Care a letter encouraging them to continue with care from their FP and/or any other treatment recommended, and that they would be sent a copy of the treatment booklet about 8 months post-randomization. The standard treatment for problems in this population is care by FPs<sup><xref ref-type="bibr" rid="CIT0022">22</xref></sup> and an appropriate comparison for a brief treatment.<sup><xref ref-type="bibr" rid="CIT0003">3</xref></sup> Parents in the treatment group were mailed a treatment booklet and followed up by telephone. For both groups, follow-up appointments with the FP were according to usual practice. A RA mailed follow-up questionnaires at 7 weeks post-randomization, and then at follow-up 3 and 6 months later. Parents received gift cards for completing questionnaires; amounts increased from $15 for baseline forms to $30 at the 6-month follow-up and $40 at the 12-month follow-up. At the end of the treatment phase, the telephone coach mailed parents a satisfaction questionnaire that was returned to an administrative assistant to maintain blinding of the RAs. Parents in the usual care condition were mailed a treatment booklet after their 6-month follow-up and, thus, did not complete the 12-month follow-up; follow-up assessments ended in March 2009. RAs noted any time that they became aware of a parent&#x02019;s treatment condition, which occurred for five parents in the intervention group and one in the usual care group.</p><p content-type="indent">The project was approved by the Research Ethics Board at Western University and all participating parents provided written informed consent.</p></sec><sec id="s4"><title>Intervention</title><p>The <italic>Parenting Matters</italic> intervention booklet had six weekly sections; content was based on best-practice recommendations<sup><xref ref-type="bibr" rid="CIT0002">2</xref></sup> and draws on social learning and behavioural models. (i) Week 1 targeted (a) developmentally appropriate expectations and (b) enhancing positive child appraisals. (ii) Week 2 focused on (a) family rituals, routines and structure, (b) parental modelling of appropriate behaviour and (c) how to track behaviours parents wanted to change. (iii) Week 3 taught encouraging appropriate behaviour by (a) providing clear expectations and (b) using attention and rewards. Weeks 4&#x02013;6 focused on decreasing negative behaviours through (a) prevention, (b) selectively ignoring, (c) giving clear requests and (d) time out. The Flesch&#x02013;Kincaid grade level was 5.7 and, in a pilot study, 75% of parents found the booklet &#x02018;Easy&#x02019; or &#x02018;Extremely Easy&#x02019; to read.<sup><xref ref-type="bibr" rid="CIT0023">23</xref></sup> Booklets were reviewed by experts and parent volunteers prior to use.</p><p content-type="indent">A telephone coach, graduate students in clinical psychology with formal education in general interviewing, child psychopathology and psychological interventions with children, called parents at Weeks 2 and 5. A call at Week 0 (start of treatment) ensured parents received the booklet and encouraged them to start the programme. The coach provided support, motivation and problem solving in applying the information in the booklets; a manual provided guidance on how to respond to parent questions. Calls were audiotaped and reviewed in weekly group supervision provided by GJR; supervision focused on ways of responding to specific issues parents raised during the telephone coaching calls to facilitate parents problem-solving in using the booklets.</p></sec><sec id="s5"><title>Outcomes</title><p>
+<italic>Behaviour problems</italic>. The primary outcome was the total problem score of the Eyberg Child Behaviour Inventory (ECBI).<sup><xref ref-type="bibr" rid="CIT0024">24</xref></sup> This widely used measure<sup><xref ref-type="bibr" rid="CIT0004">4</xref></sup> has established psychometrics.</p></sec><sec id="s6"><title>Secondary outcomes</title><p>
+<italic>Parenting practices</italic> were measured by the total score on Parenting Scale.<sup><xref ref-type="bibr" rid="CIT0025">25</xref></sup> This measure is commonly used in treatment studies.<sup><xref ref-type="bibr" rid="CIT0004">4</xref>,<xref ref-type="bibr" rid="CIT0026">26</xref></sup>
+</p><p content-type="indent">
+<italic>Overall Child Psychopathology</italic> was measured using the total score from the 1&#x000bd;- to 5-year-old version of the Child Behaviour Checklist (CBCL).<sup><xref ref-type="bibr" rid="CIT0027">27</xref></sup> Raw scores, rather than <italic>T</italic>-scores, were used as they provide greater variability and do not remove any differences due to child age or sex.<sup><xref ref-type="bibr" rid="CIT0028">28</xref></sup>
+</p><p>
+<italic>Satisfaction and treatment fidelity</italic>. Parents in the intervention group indicated how much of the booklet they read and, in two-parent families, how much their spouse read. They also rated how often they used 20 different discipline strategies (e.g. routine chart, rewarding appropriate behaviour) from the booklets. Satisfaction with the programme was assessed using items from other established measures,<sup><xref ref-type="bibr" rid="CIT0029">29</xref>,<xref ref-type="bibr" rid="CIT0030">30</xref></sup> which included perceptions of overall improvement in their child&#x02019;s discipline and feelings about the programme, and the telephone coach.</p><p content-type="indent">A random sample of 15 parents&#x02019; audio-taped calls were rated for compliance with, and deviations from, the protocol by two independent raters using items based on measures from cognitive psychological treatment.<sup><xref ref-type="bibr" rid="CIT0031">31</xref></sup> Raters were trained to criteria (&#x0003e;80% exact agreement) prior to conducting the ratings; inter-rater reliability was 0.98 (interclass correlation).</p><p>Service <italic>u</italic>tilization. Parents reported total visits and visits that involved discussing child discipline with their FP and 11 other locations/professionals (e.g. walk-in clinic, psychiatrist and psychologist).<sup><xref ref-type="bibr" rid="CIT0032">32</xref>,<xref ref-type="bibr" rid="CIT0033">33</xref></sup> Use of self-help resources and advice from family and friends was also assessed.</p><p>Readiness for <italic>c</italic>hange. Parents&#x02019; readiness for change in parenting<sup><xref ref-type="bibr" rid="CIT0034">34</xref></sup> was assessed using a measure based on the transtheoretical model of change adapted for psychotherapy.<sup><xref ref-type="bibr" rid="CIT0035">35</xref></sup> Parents were categorized into their highest level of change and then aggregated into &#x02018;non-action&#x02019; (i.e. precontemplation through preparation) or &#x02018;action&#x02019; (i.e. action or maintenance) categories.</p></sec><sec id="s7"><title>Data analyses</title><p>SPSS (v18) mixed modelling with treatment and study phase as fixed effects and an intent-to-treat approach was used to test differences between the intervention and usual care groups on the ECBI at the primary end-point (i.e. post-treatment). For all other analyses, an intent-to-treat approach using growth curve modelling tested if differences between the intervention and usual care groups in the outcome variables occurred across the four points of measurement (i.e. baseline, post-treatment and 3- and 6-month follow-up).<sup><xref ref-type="bibr" rid="CIT0036">36</xref></sup> Using SAS PROC MIXED, Level 1 was repeated measures change within individuals and Level 2 was the difference between the intervention and usual care groups. The intercept and slope of time variable were set as random. For each parent the actual time from baseline to completion for each of three later assessments was included to control variation in when parents returned forms; the cube root of time was used as it provided the best fit to account for non-linear change over time. A significant (<italic>P</italic> &#x0003c; 0.05 one-tailed) group by time interaction indicates differential change over time between groups.</p><p content-type="indent">Baseline data for each group were compared with population norms on the Eyberg Child Behaviour Checklist,<sup><xref ref-type="bibr" rid="CIT0037">37</xref></sup> the Parenting Scale<sup><xref ref-type="bibr" rid="CIT0025">25</xref></sup> and the Child Behaviour Checklist;<sup><xref ref-type="bibr" rid="CIT0027">27</xref></sup> results are expressed in terms of the number of SDs above the M of norms (using SDs from normative samples). Demographic data were compared with census data for the study sample as a whole.<sup><xref ref-type="bibr" rid="CIT0038">38</xref></sup>
+</p></sec><sec id="s8"><title>Sample size</title><p>The trial was powered to detect an effect on the primary outcome of <italic>d</italic> = 0.45 with 80% power and alpha = 0.05 using a conservative simple post-treatment standardized difference method (<italic>d</italic> = M treatment &#x02212; M control/SD).</p></sec></sec><sec id="s9"><title>Results</title><sec id="s10"><title>Preliminary analyses</title><p>As complete data were not available for all participants, we compared the parents&#x02019; baseline data for (i) 14 parents with only baseline data not included in the analyses versus all others and (ii) 2-parent families with (<italic>n =</italic> 74) versus without (<italic>n</italic> = 71) ratings by a spouse/partner. There were no significant differences on the ECBI, Parenting Scale, CBCL, or any of the demographic variables when comparing groups in (i) and (ii) above.</p></sec><sec id="s11"><title>Demographic characteristics</title><p>
+<xref ref-type="table" rid="T1">Table 1</xref> presents the demographic characteristics of parents and their children, as assessed at baseline, along with comparisons with census data. Participating parents were mostly birth mothers with a modal educational attainment of least some community college.</p><table-wrap id="T1" position="float"><label>T<sc>able</sc> 1</label><caption><p>Baseline characteristics of parent participants and their children randomized to the Parenting Matters or Usual Care alone conditions</p></caption><table frame="vsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">
+</th><th colspan="2" rowspan="1">
+<italic>Parenting Matters</italic> intervention</th><th rowspan="1" colspan="1">Usual Care</th></tr><tr><th rowspan="1" colspan="1">
+</th><th align="center" rowspan="1" colspan="1">
+<italic>n</italic> = 82</th><th rowspan="1" colspan="1">
+</th><th align="center" rowspan="1" colspan="1">
+<italic>n</italic> = 82</th></tr></thead><tbody><tr><td colspan="4" rowspan="1">
+<italic>Child characteristics</italic>
+</td></tr><tr><td rowspan="1" colspan="1">Girls, <italic>n</italic> (%)</td><td colspan="2" rowspan="1">34 (46.6)</td><td rowspan="1" colspan="1">39 (53.4)</td></tr><tr><td rowspan="1" colspan="1">Children&#x02019;s age, mean years (&#x000b1;SD)</td><td colspan="2" rowspan="1">3.1 (&#x000b1;1.0)</td><td rowspan="1" colspan="1">3.3 (&#x000b1;1.1)</td></tr><tr><td colspan="4" rowspan="1">
+<italic>Parent characteristics</italic>
+</td></tr><tr><td rowspan="1" colspan="1">Relationship to child, <italic>n</italic> (%)</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Birth mothers</td><td colspan="2" rowspan="1">79 (96.3)</td><td rowspan="1" colspan="1">69 (92.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Adoptive mothers</td><td colspan="2" rowspan="1">0 (0)</td><td rowspan="1" colspan="1">1 (1.2)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Birth fathers</td><td colspan="2" rowspan="1">3 (3.7)</td><td rowspan="1" colspan="1">0 (0)</td></tr><tr><td rowspan="1" colspan="1">Single parents, <italic>n</italic> (%)<sup>a</sup>
+</td><td colspan="2" rowspan="1">9 (11.0)</td><td rowspan="1" colspan="1">11 (13.4)</td></tr><tr><td rowspan="1" colspan="1">Parent age, mean (&#x000b1;SD)</td><td colspan="2" rowspan="1">32.4 (&#x000b1;4.9)</td><td rowspan="1" colspan="1">32.0 (&#x000b1;5.5)</td></tr><tr><td rowspan="1" colspan="1">Race<sup>b</sup>
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Caucasian</td><td colspan="2" rowspan="1">79 (96.3)</td><td rowspan="1" colspan="1">73 (89.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Black</td><td colspan="2" rowspan="1">0 (0)</td><td rowspan="1" colspan="1">2 (2.4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Native-Aboriginal people</td><td colspan="2" rowspan="1">1 (1.2)</td><td rowspan="1" colspan="1">3 (3.7)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; All other</td><td colspan="2" rowspan="1">2 (2.4)</td><td rowspan="1" colspan="1">4 (4.4)</td></tr><tr><td rowspan="1" colspan="1">Educational attainment, <italic>n</italic> (%)<sup>c</sup>
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Less than high school</td><td colspan="2" rowspan="1">6 (7.3)</td><td rowspan="1" colspan="1">3 (3.7)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Completed high school</td><td colspan="2" rowspan="1">9 (11.0)</td><td rowspan="1" colspan="1">12 (14.6)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; At least some community college/technical school or graduate</td><td colspan="2" rowspan="1">33 (40.2)</td><td rowspan="1" colspan="1">37 (45.1)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Some university or Bachelors degree</td><td colspan="2" rowspan="1">30 (36.6)</td><td rowspan="1" colspan="1">24 (29.3)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Postgraduate</td><td colspan="2" rowspan="1">4 (4.9)</td><td rowspan="1" colspan="1">6 (7.3)</td></tr><tr><td rowspan="1" colspan="1">Employment, <italic>n</italic> (%)</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Homemaker or not-employed outside the home</td><td colspan="2" rowspan="1">29 (35.8)</td><td rowspan="1" colspan="1">32 (39.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Part-time</td><td colspan="2" rowspan="1">31 (38.3)</td><td rowspan="1" colspan="1">20 (24.4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Full-time</td><td colspan="2" rowspan="1">21 (25.9)</td><td rowspan="1" colspan="1">30 (36.6)</td></tr><tr><td rowspan="1" colspan="1">
+<italic>Spouse characteristics</italic>
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">Relationship to child, <italic>n</italic> (%)</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Birth fathers</td><td colspan="2" rowspan="1">69 (89.6)</td><td rowspan="1" colspan="1">68 (89.5)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Birth mothers</td><td colspan="2" rowspan="1">4 (5.2)</td><td rowspan="1" colspan="1">1 (1.3)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Other</td><td colspan="2" rowspan="1">4 (5.2)</td><td rowspan="1" colspan="1">7 (9.2)</td></tr><tr><td rowspan="1" colspan="1">Parent age, mean (&#x000b1;SD)</td><td colspan="2" rowspan="1">33.5 (&#x000b1;4.5)</td><td rowspan="1" colspan="1">34.6 (&#x000b1;5.4)</td></tr><tr><td rowspan="1" colspan="1">Educational attainment, <italic>n</italic> (%)</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Less than high school</td><td colspan="2" rowspan="1">5 (6.6)</td><td rowspan="1" colspan="1">7 (9.3)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Completed high school</td><td colspan="2" rowspan="1">16 (21.1)</td><td rowspan="1" colspan="1">15 (20.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; At least some community college/technical school or graduate</td><td colspan="2" rowspan="1">31 (40.8)</td><td rowspan="1" colspan="1">33 (44.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Some university or Bachelors degree</td><td colspan="2" rowspan="1">17 (22.4)</td><td rowspan="1" colspan="1">14 (18.7)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Postgraduate</td><td colspan="2" rowspan="1">7 (9.2)</td><td rowspan="1" colspan="1">6 (8.0)</td></tr><tr><td rowspan="1" colspan="1">Employment, <italic>n</italic> (%)</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Homemaker or not-employed outside the home</td><td colspan="2" rowspan="1">0 (0)</td><td rowspan="1" colspan="1">2 (2.7)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Part-time</td><td colspan="2" rowspan="1">3 (4.2)</td><td rowspan="1" colspan="1">1 (1.4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Full-time</td><td colspan="2" rowspan="1">69 (95.8)</td><td rowspan="1" colspan="1">70 (95.9)</td></tr><tr><td rowspan="1" colspan="1">
+<italic>Family characteristics</italic>
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">Family size, mean (&#x000b1;SD)</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Number of people</td><td colspan="2" rowspan="1">4.0 (&#x000b1;0.9)</td><td rowspan="1" colspan="1">4.1 (&#x000b1;1.1)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Number of children</td><td colspan="2" rowspan="1">2.0 (&#x000b1;0.7)</td><td rowspan="1" colspan="1">2.1 (&#x000b1;0.9)</td></tr><tr><td rowspan="1" colspan="1">Family income (CA$), <italic>n</italic> (%)<sup>d</sup>
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Less than $20 000</td><td colspan="2" rowspan="1">5 (6.1)</td><td rowspan="1" colspan="1">10 (12.2)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; $20 000&#x02013;$39 999</td><td colspan="2" rowspan="1">6 (7.3)</td><td rowspan="1" colspan="1">11 (13.4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; $40 000&#x02013;$59 999</td><td colspan="2" rowspan="1">27 (32.9)</td><td rowspan="1" colspan="1">20 (24.4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; $60 000&#x02013;$79 999</td><td colspan="2" rowspan="1">14 (17.1)</td><td rowspan="1" colspan="1">13 (15.9)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; $80 000&#x02013;$99 999</td><td colspan="2" rowspan="1">9 (11.0)</td><td rowspan="1" colspan="1">10 (12.2)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; $100 000 or more</td><td colspan="2" rowspan="1">21 (25.6)</td><td rowspan="1" colspan="1">18 (22.0)</td></tr><tr><td colspan="4" rowspan="1">Family income adjusted for family size, <italic>n</italic> (%)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Low</td><td colspan="2" rowspan="1">3 (3.7)</td><td rowspan="1" colspan="1">9 (11.0)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Lower-middle</td><td colspan="2" rowspan="1">16 (19.5)</td><td rowspan="1" colspan="1">20 (24.4)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Upper-middle</td><td colspan="2" rowspan="1">33 (40.2)</td><td rowspan="1" colspan="1">25 (30.5)</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; High</td><td colspan="2" rowspan="1">30 (36.6)</td><td rowspan="1" colspan="1">28 (34.1)</td></tr></tbody></table><table-wrap-foot><fn fn-type="other"><p>
+<sup>a</sup>In the southwestern counties of Ontario, 24.6% of families with children have single parents; comparison with study sample: &#x003c7;<sup>2</sup> = 13.6, <italic>P</italic> &#x0003c; 0.001.</p></fn><fn fn-type="other"><p>
+<sup>b</sup>Race of women aged 25&#x02013;44 in families in Ontario with children is as follows: White, 88.2%; Black, 1.6%; Native-Aboriginal people, 2.1%; all other, 8.0%; comparison with study sample, &#x003c7;<sup>2</sup> = 1.41, <italic>P</italic> = 0.70.</p></fn><fn fn-type="other"><p>
+<sup>c</sup>Educational attainment of women aged 25&#x02013;44 in families in Ontario with children is as follows: less than high school, 16%; completed high school, 28%; at least some community college/technical school or graduate, 35%; some university or bachelors degree, 14%; postgraduate, 7%. Comparison with study sample: &#x003c7;<sup>2</sup> = 24.7, <italic>P</italic> &#x0003c; 0.001.</p></fn><fn fn-type="other"><p>
+<sup>d</sup>Families with a parent aged 25&#x02013;44 years in Ontario have incomes as follows: less than $20 000 = 6.5%, $20 000&#x02013;$39 999 = 13.8%, $40 000&#x02013;$59 999 = 16.5%, $60 000&#x02013;$79 999 = 17.5%, $80 000&#x02013;$99 999 = 7.8, $100 000 or more = 38.0%. Comparison with study sample: &#x003c7;<sup>2</sup> = 29.6, <italic>P</italic> &#x0003c; 0.001.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s12"><title>Outcomes</title><p>Behaviour problems (ECBI) at the primary end point, post-treatment, did not differ significantly between groups (group by time interaction, <italic>P</italic> = 0.054). In growth curve modelling analyses, the group by time interaction was significant for two outcomes (<xref ref-type="table" rid="T2">Table 2</xref>); compared with the usual care group, the intervention group parents reported greater and more rapid improvements in (i) their children&#x02019;s behaviour problems and (ii) child psychopathology in general. Changes in parenting practices did not differ significantly between groups.</p><table-wrap id="T2" position="float"><label>T<sc>able</sc> 2</label><caption><p>Outcomes for the intervention and usual care groups across each phase of the study</p></caption><table frame="vsides" rules="groups"><thead><tr><th rowspan="2" align="left" valign="top" colspan="1">Outcome mean (&#x000b1;SD)</th><th colspan="2" align="left" valign="top" rowspan="1">Baseline<sup>a</sup>
+</th><th rowspan="1" colspan="1">
+</th><th colspan="2" align="left" valign="top" rowspan="1">Post-treatment</th><th rowspan="1" colspan="1">
+</th><th colspan="2" align="left" valign="top" rowspan="1">3-month follow-up</th><th rowspan="1" colspan="1">
+</th><th colspan="2" align="left" valign="top" rowspan="1">6-month follow-up</th><th rowspan="1" colspan="1">
+</th><th align="left" valign="top" rowspan="1" colspan="1">12-month follow-up<sup>b</sup>
+</th><th rowspan="1" colspan="1">
+</th><th valign="top" rowspan="1" colspan="1">Group by time<sup>c</sup>
+</th></tr><tr><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>Parenting Matters</italic>
+</th><th align="left" colspan="2" valign="top" rowspan="1">Usual Care</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>Parenting Matters</italic>
+</th><th colspan="2" align="left" valign="top" rowspan="1">Usual Care</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>Parenting Matters</italic>
+</th><th colspan="2" align="left" valign="top" rowspan="1">Usual Care</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>Parenting Matters</italic>
+</th><th colspan="2" align="left" valign="top" rowspan="1">Usual Care</th><th colspan="2" align="left" valign="top" rowspan="1">
+<italic>Parenting Matters</italic>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>
+</th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Eyberg Child Behaviour Inventory</td><td rowspan="1" colspan="1">124.1 (&#x000b1;27.1)</td><td colspan="2" rowspan="1">120.7 (&#x000b1;29.8)</td><td rowspan="1" colspan="1">107.6 (&#x000b1;25.7)</td><td colspan="2" rowspan="1">110.8 (&#x000b1;25.1)</td><td rowspan="1" colspan="1">101.8 (&#x000b1;26.0)</td><td colspan="2" rowspan="1">106.0 (&#x000b1;25.0)</td><td rowspan="1" colspan="1">100.5 (&#x000b1;27.8)</td><td colspan="2" rowspan="1">104.6 (&#x000b1;23.4)</td><td colspan="2" rowspan="1">99.0 (&#x000b1;29.6)</td><td rowspan="1" colspan="1">0.033</td></tr><tr><td rowspan="1" colspan="1">Parenting Scale</td><td rowspan="1" colspan="1">3.0 (&#x000b1;0.6)</td><td colspan="2" rowspan="1">2.9 (&#x000b1;0.6)</td><td rowspan="1" colspan="1">2.8 (&#x000b1;0.6)</td><td colspan="2" rowspan="1">2.8 (&#x000b1;0.5)</td><td rowspan="1" colspan="1">2.8 (&#x000b1;0.6)</td><td colspan="2" rowspan="1">2.7 (&#x000b1;0.5)</td><td rowspan="1" colspan="1">2.7 (&#x000b1;0.6)</td><td colspan="2" rowspan="1">2.7 (&#x000b1;0.5)</td><td colspan="2" rowspan="1">2.7 (&#x000b1;0.6)</td><td rowspan="1" colspan="1">0.34</td></tr><tr><td rowspan="1" colspan="1">Child Behaviour Checklist</td><td rowspan="1" colspan="1">38.7 (&#x000b1;19.7)</td><td colspan="2" rowspan="1">34.2 (&#x000b1;18.7)</td><td rowspan="1" colspan="1">26.9 (&#x000b1;15.3)</td><td colspan="2" rowspan="1">26.7 (&#x000b1;16.6)</td><td rowspan="1" colspan="1">25.5 (&#x000b1;17.4)</td><td colspan="2" rowspan="1">23.4 (&#x000b1;16.7)</td><td rowspan="1" colspan="1">22.5 (&#x000b1;17.4)</td><td colspan="2" rowspan="1">21.9 (&#x000b1;16.4)</td><td colspan="2" rowspan="1">20.8 (&#x000b1;16.0)</td><td rowspan="1" colspan="1">0.02</td></tr></tbody></table><table-wrap-foot><fn fn-type="other"><p>
+<sup>a</sup>Baseline data compared with available norms, for the <italic>Parenting Matters</italic> and Usual Care groups, respectively, were as follows: (a) Eyberg Child Behaviour Checklist, +0.71 <italic>SD</italic>, +0.64 <italic>SD</italic>; (b) Parenting Scale, +0.61 <italic>SD</italic>, +0.50 <italic>SD</italic>; (c) Child Behaviour Checklist, +0.29 <italic>SD</italic>, 0.05 <italic>SD</italic>. These data are consistent with our approach of recruiting parents who were concerned about disciplining their child, but not necessarily within the clinical range.</p></fn><fn fn-type="other"><p>
+<sup>b</sup>Twelve-month follow-up data are available only for the <italic>Parenting Matters</italic> intervention group as parents in the Usual Care group were mailed treatment booklets after the 6-month follow-up.</p></fn><fn fn-type="other"><p>
+<sup>c</sup>Group by time <italic>P</italic> = significance level of the group by time interaction in growth curve modelling analyses.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s13"><title>Treatment fidelity and satisfaction</title><p>Almost all of the coaching telephone calls scheduled for Weeks 2 and 5 were completed, coaches were consistent with the treatment protocol, and parents were very satisfied with the programme and their telephone coach (<xref ref-type="table" rid="T3">Table 3</xref>). Most parents read the entire booklet and, on average, used the treatment ideas at least &#x02018;sometimes&#x02019;; however, 40% of parents reported their spouse did not read any part of the booklet.</p><table-wrap id="T3" position="float"><label>T<sc>able</sc> 3</label><caption><p>Treatment fidelity and satisfaction for the Parenting Matters intervention group</p></caption><table frame="vsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th colspan="3" align="left" rowspan="1">Telephone coaching</th><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th colspan="2" rowspan="1">Parent ratings</th></tr><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th align="left" rowspan="1" colspan="1">Week 2</th><th align="left" rowspan="1" colspan="1">Week 5</th><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th></tr></thead><tbody><tr><td colspan="2" rowspan="1">Telephone calls</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Calls completed</td><td rowspan="1" colspan="1">%</td><td rowspan="1" colspan="1">93</td><td rowspan="1" colspan="1">87</td><td colspan="2" rowspan="1">Reading booklet</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Attempts, calls completed</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td rowspan="1" colspan="1">3.3 (&#x000b1;3.0)</td><td rowspan="1" colspan="1">4.1 (&#x000b1;2.6)</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">Parent</td><td rowspan="1" colspan="1">Mean % (&#x000b1;SD)</td><td rowspan="1" colspan="1">91 (&#x000b1;19.9)</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Duration of calls (min)</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td rowspan="1" colspan="1">17.2 (&#x000b1;9.8)</td><td rowspan="1" colspan="1">20.5 (&#x000b1;8.6)</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">Spouse/Partner<sup>a</sup>
+</td><td rowspan="1" colspan="1">Mean % (&#x000b1;SD)</td><td rowspan="1" colspan="1">26 (&#x000b1;39.2)</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Attempts, call not completed</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td rowspan="1" colspan="1">6.3 (&#x000b1;2.1)</td><td rowspan="1" colspan="1">7.4 (&#x000b1;2.0)</td><td colspan="2" rowspan="1">Use of booklet ideas<sup>b</sup>
+</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td rowspan="1" colspan="1">3.8 (&#x000b1;0.4)</td></tr><tr><td colspan="2" rowspan="1">Ratings of audiotapes</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">Satisfaction<sup>c</sup>
+</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Coaching behaviour<sup>d</sup>
+</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td align="center" colspan="2" rowspan="1">5.4 (&#x000b1;0.6)</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">Programme overall</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td rowspan="1" colspan="1">5.5 (&#x000b1;0.6)</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Consistency with protocol</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td align="center" colspan="2" rowspan="1">5.9 (&#x000b1;0.1)</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">Telephone coach</td><td rowspan="1" colspan="1">Mean (&#x000b1;SD)</td><td rowspan="1" colspan="1">5.7 (&#x000b1;1.0)</td></tr></tbody></table><table-wrap-foot><fn fn-type="other"><p>
+<sup>a</sup>Of the parents with spouses/partners, 7.7% did not know what their spouse read; 40% of spouses rated as having not read any of the booklet.</p></fn><fn fn-type="other"><p>
+<sup>b</sup>Frequency of using the 20 treatment elements 1 = &#x02018;Never&#x02019;, 3 = &#x02018;Sometimes&#x02019; and 5 = &#x02018;Very often&#x02019;.</p></fn><fn fn-type="other"><p>
+<sup>c</sup>79% of parents completed satisfaction ratings; scores range from 1 to 7.</p></fn><fn fn-type="other"><p>
+<sup>d</sup>Average ratings of support, motivation and problem solving coaching behaviour;. scores range from 0 to 6.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s14"><title>Service utilization</title><p>Few parents (4% intervention; 5% usual care) saw a FP for their child&#x02019;s discipline issues (<xref ref-type="table" rid="T4">Table 4</xref>); reassurance and support without specific advice was the most commonly reported help received (<ext-link ext-link-type="uri" xlink:href="http://fampra.oxfordjournals.org/lookup/suppl/doi:10.1093/fampra/cms051/-/DC1">Supplementary Table 5b</ext-link>). Similarly, few parents (6% intervention; 13% usual care) reported seeing someone other than their FP (<xref ref-type="table" rid="T4">Table 4</xref> and <ext-link ext-link-type="uri" xlink:href="http://fampra.oxfordjournals.org/lookup/suppl/doi:10.1093/fampra/cms051/-/DC1">Supplementary Table 3b</ext-link>). Self-help resources were used by many of the parents in both groups (<xref ref-type="table" rid="T5">Table 5</xref>).</p><table-wrap id="T4" position="float"><label>T<sc>able</sc> 4</label><caption><p>Service utilization for the Parenting Matters intervention and Usual Care groups in the 2 months prior to baseline and from baseline through 6-month follow-up</p></caption><table frame="vsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th colspan="10" align="left" rowspan="1">Two months prior to baseline</th><th colspan="9" align="left" rowspan="1">Baseline to 6-month follow-up</th></tr><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th colspan="3" rowspan="1">
+<italic>Parenting Matters</italic>
+</th><th rowspan="1" colspan="1">
+</th><th colspan="3" rowspan="1">Usual Care</th><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+<italic>P</italic>
+</th><th rowspan="1" colspan="1">
+</th><th colspan="3" rowspan="1">
+<italic>Parenting Matters</italic>
+</th><th rowspan="1" colspan="1">
+</th><th colspan="3" rowspan="1">Usual Care</th><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+<italic>P</italic>
+</th></tr><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th align="left" rowspan="1" colspan="1">Mdn</th><th align="left" rowspan="1" colspan="1">Max</th><th colspan="2" rowspan="1">% 1 or more</th><th rowspan="1" colspan="1">Mdn</th><th rowspan="1" colspan="1">Max</th><th colspan="2" rowspan="1">% 1 or more</th><th colspan="2" rowspan="1">
+</th><th align="left" rowspan="1" colspan="1">Mdn</th><th align="left" rowspan="1" colspan="1">Max</th><th colspan="2" rowspan="1">% 1 or more</th><th rowspan="1" colspan="1">Mdn</th><th rowspan="1" colspan="1">Max</th><th colspan="2" rowspan="1">% 1 or more</th><th rowspan="1" colspan="1">
+</th></tr></thead><tbody><tr><td colspan="2" rowspan="1">Family physician visits</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; All visits</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">5</td><td colspan="2" rowspan="1">40%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">10</td><td colspan="2" rowspan="1">49%</td><td colspan="2" rowspan="1">0.47</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">6</td><td colspan="2" rowspan="1">41%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">11</td><td colspan="2" rowspan="1">44%</td><td rowspan="1" colspan="1">0.84</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Discipline-related visits</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">2</td><td colspan="2" rowspan="1">9%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">10</td><td colspan="2" rowspan="1">4%</td><td colspan="2" rowspan="1">0.18</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">3</td><td colspan="2" rowspan="1">4%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">2</td><td colspan="2" rowspan="1">5%</td><td rowspan="1" colspan="1">0.68</td></tr><tr><td colspan="2" rowspan="1">All other providers</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; All visits</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">12</td><td colspan="2" rowspan="1">32%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">31</td><td colspan="2" rowspan="1">41%</td><td colspan="2" rowspan="1">0.33</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">30</td><td colspan="2" rowspan="1">41%</td><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">28</td><td colspan="2" rowspan="1">59%</td><td rowspan="1" colspan="1">0.07</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Discipline-related visits</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">7</td><td colspan="2" rowspan="1">9%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">31</td><td colspan="2" rowspan="1">9%</td><td colspan="2" rowspan="1">0.94</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">9</td><td colspan="2" rowspan="1">6%</td><td rowspan="1" colspan="1">0</td><td rowspan="1" colspan="1">7</td><td colspan="2" rowspan="1">13%</td><td rowspan="1" colspan="1">0.20</td></tr></tbody></table><table-wrap-foot><fn fn-type="other"><p>Mdn, median; Max, maximum for group; % 1 or more, percent of group reporting at least one visit during time frame.</p></fn><fn fn-type="other"><p>
+<italic>P,</italic> significance from Mann&#x02013;Whitney <italic>U</italic>.</p></fn></table-wrap-foot></table-wrap><table-wrap id="T5" position="float"><label>T<sc>able</sc> 5</label><caption><p>Informal sources of help sought for discipline problems by the Parenting Matters intervention and Usual Care groups in the 2 months prior to baseline and from baseline to 6-month follow-up</p></caption><table frame="vsides" rules="groups"><thead><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th colspan="7" align="left" rowspan="1">Two months prior to baseline</th><th colspan="5" align="left" rowspan="1">Baseline to 6-month follow-up</th></tr><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th colspan="2" align="left" rowspan="1">
+<italic>Parenting Matters</italic>
+</th><th rowspan="1" colspan="1">
+</th><th colspan="3" align="left" rowspan="1">Usual Care</th><th rowspan="1" colspan="1">
+</th><th colspan="2" align="left" rowspan="1">
+<italic>Parenting Matters</italic>
+</th><th rowspan="1" colspan="1">
+</th><th colspan="2" align="left" rowspan="1">Usual Care</th></tr><tr><th rowspan="1" colspan="1">
+</th><th rowspan="1" colspan="1">
+</th><th align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th colspan="2" align="left" rowspan="1">%<sup>b</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th colspan="3" align="left" rowspan="1"> %<sup>b</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th colspan="2" align="left" rowspan="1">%<sup>b</sup>
+</th><th align="left" rowspan="1" colspan="1">
+<italic>n</italic>
+</th><th align="left" rowspan="1" colspan="1">%<sup>b</sup>
+</th></tr></thead><tbody><tr><td colspan="2" rowspan="1">Help from family or friends</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Mean (&#x000b1;SD)<sup>a</sup>
+</td><td colspan="3" rowspan="1">1.5 (&#x000b1;1.4)</td><td colspan="4" rowspan="1">1.4 (&#x000b1;1.3)</td><td colspan="3" rowspan="1">0.9 (&#x000b1;1.0)</td><td colspan="2" rowspan="1">1.0 (&#x000b1;1.0)</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Never asked for help</td><td rowspan="1" colspan="1">16</td><td colspan="2" rowspan="1">19.5</td><td colspan="2" rowspan="1">23</td><td colspan="2" rowspan="1">28.0</td><td rowspan="1" colspan="1">20</td><td colspan="2" rowspan="1">24.4</td><td rowspan="1" colspan="1">19</td><td rowspan="1" colspan="1">24.1</td></tr><tr><td colspan="2" rowspan="1">Types of self-help<sup>c</sup>
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td colspan="2" rowspan="1">
+</td><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">
+</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Did not use self-help</td><td rowspan="1" colspan="1">28</td><td colspan="2" rowspan="1">34.1</td><td colspan="2" rowspan="1">31</td><td colspan="2" rowspan="1">37.8</td><td rowspan="1" colspan="1">23</td><td colspan="2" rowspan="1">28.0</td><td rowspan="1" colspan="1">22</td><td rowspan="1" colspan="1">26.8</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Text (book, pamphlet)</td><td rowspan="1" colspan="1">41</td><td colspan="2" rowspan="1">50.0</td><td colspan="2" rowspan="1">38</td><td colspan="2" rowspan="1">46.3</td><td rowspan="1" colspan="1">51</td><td colspan="2" rowspan="1">62.2</td><td rowspan="1" colspan="1">44</td><td rowspan="1" colspan="1">53.7</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Television/Video</td><td rowspan="1" colspan="1">18</td><td colspan="2" rowspan="1">22.0</td><td colspan="2" rowspan="1">15</td><td colspan="2" rowspan="1">18.3</td><td rowspan="1" colspan="1">17</td><td colspan="2" rowspan="1">20.7</td><td rowspan="1" colspan="1">25</td><td rowspan="1" colspan="1">30.5</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Telephone help-line; parenting class</td><td rowspan="1" colspan="1">5</td><td colspan="2" rowspan="1">6.1</td><td colspan="2" rowspan="1">5</td><td colspan="2" rowspan="1">6.1</td><td rowspan="1" colspan="1">8</td><td colspan="2" rowspan="1">9.8</td><td rowspan="1" colspan="1">10</td><td rowspan="1" colspan="1">12.2</td></tr><tr><td rowspan="1" colspan="1">
+</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0; Internet</td><td rowspan="1" colspan="1">20</td><td colspan="2" rowspan="1">24.4</td><td colspan="2" rowspan="1">19</td><td colspan="2" rowspan="1">23.2</td><td rowspan="1" colspan="1">17</td><td colspan="2" rowspan="1">20.7</td><td rowspan="1" colspan="1">28</td><td rowspan="1" colspan="1">34.1</td></tr></tbody></table><table-wrap-foot><fn fn-type="other"><p>
+<sup>a</sup>Frequency of contact for help: 0 = never, 1 = only once; 2 = once a month; 3 = a few times a month; 4 = once a week; 5 = a few times a week; 6 = daily. Comparing <italic>Parenting Matters</italic> to Usual Care for the 2 months prior to baseline, <italic>P</italic> = 0.44; for the baseline to 6-month follow-up comparison, <italic>P</italic> = 0.34.</p></fn><fn fn-type="other"><p>
+<sup>b</sup>Percentage of parents within each group.</p></fn><fn fn-type="other"><p>
+<sup>c</sup>Self-help used could have occurred at any time within the assessment period; categories are not mutually exclusive (i.e. parents may used more than one type of help).</p></fn></table-wrap-foot></table-wrap></sec><sec id="s15"><title>Analyses of reports by other caregivers</title><p>Spouses/partners in the intervention group reported more rapid improvement in their children&#x02019;s behaviour problems compared with the usual care group, but there were no differences in parenting or general psychopathology (<ext-link ext-link-type="uri" xlink:href="http://fampra.oxfordjournals.org/lookup/suppl/doi:10.1093/fampra/cms051/-/DC1">Supplementary Table 2b</ext-link>).</p></sec><sec id="s16"><title>Readiness for change</title><p>Most parents in both groups were in the action stages of change at each assessment (<ext-link ext-link-type="uri" xlink:href="http://fampra.oxfordjournals.org/lookup/suppl/doi:10.1093/fampra/cms051/-/DC1">Supplementary Table 6b</ext-link>). At baseline, 54% of parents in the intervention and 46% in the usual care group were in these stages; most parents who were not, were in the preparation stage (38% in each group).</p></sec></sec><sec id="s17"><title>Discussion</title><p>A brief, distance-based (i.e. no in-person sessions) intervention for parents of preschool-age children identified in a PHC setting and who had concerns about their child&#x02019;s discipline resulted in more rapid improvement in children&#x02019;s behaviour problems and overall psychopathology compared with usual care alone; treatment gains were maintained up to 12 months after the intervention. In two-parent families, ratings by secondary caregivers supported the improvements in children&#x02019;s behaviour problems, but spouses/partners did not report improved parenting or overall psychopathology. These positive findings need to be balanced with an acknowledgement that the magnitude of the treatment effects was small (<italic>d</italic> = 0.15 or less)<sup><xref ref-type="bibr" rid="CIT0039">39</xref></sup> which is less than similar interventions<sup><xref ref-type="bibr" rid="CIT0013">13</xref></sup> (<italic>d</italic> = 0.23 for ECBI). Changes were not statistically significant when examined only up to the post-treatment assessment. Treatment booklets had six chapters, with one chapter to be completed each week, and thus the &#x02018;post-treatment assessment&#x02019; was scheduled to occur after parents were to have completed the treatment (i.e. 7 weeks post-randomization). It is possible that parents in this trial were still working through the booklets at the time of the &#x02018;post-treatment&#x02019; assessment, or that more time was needed in order for the effects of the treatment to be evident. During the study period, few parents in either group received help for their child&#x02019;s discipline problems from their FP, or any other professional/agency, and many parents in both groups used self-help resources. Thus, the small group differences were not likely due to the usual care alone group receiving alternative interventions. The low rates of help of any kind accessed by parents in the usual care group may reflect the fact that they were aware that they would receive a copy of the treatment book after the 6-month follow-up, but may also simply reflect current practice in addressing children&#x02019;s behaviour problems in PHC.<sup><xref ref-type="bibr" rid="CIT0006">6</xref>,<xref ref-type="bibr" rid="CIT0008">8</xref>,<xref ref-type="bibr" rid="CIT0009">9</xref></sup>
+</p><p content-type="indent">Children&#x02019;s behaviour problems were only moderately elevated, compared with population norms. Other parenting intervention studies conducted in PHC included preschool-age children with higher levels of behaviour problems at baseline. For example, children in a study by Patterson <italic>et al</italic>.<sup><xref ref-type="bibr" rid="CIT0013">13</xref></sup> had ECBI scores of three-quarters of a standard deviation above the norm; samples in other studies using community samples are similar (ECBI scores 1.5 SDs above the mean;<sup><xref ref-type="bibr" rid="CIT0026">26</xref></sup> &#x0003e;75th percentile on a paediatric behaviour problems screener).<sup><xref ref-type="bibr" rid="CIT0040">40</xref></sup> Greater problem severity is consistently related to larger improvements in parenting interventions<sup><xref ref-type="bibr" rid="CIT0041">41</xref></sup> and thus, lower problem severity may have decreased the ability to detect change. Lower problem severity might also relate to lower parental motivation for change. Just over half of the parents in the intervention group were in the action stages of change. Readiness for change in parenting has rarely been examined.<sup><xref ref-type="bibr" rid="CIT0034">34</xref>,<xref ref-type="bibr" rid="CIT0042">42</xref>,<xref ref-type="bibr" rid="CIT0043">43</xref></sup> Although the scales and methods used to assess readiness for change have differed across studies, 43&#x02013;50% parents<sup><xref ref-type="bibr" rid="CIT0034">34</xref>,<xref ref-type="bibr" rid="CIT0042">42</xref></sup> have been found to be in the action stages before intervention. The extent to which parents&#x02019; readiness might have impacted this study is unclear, but worth examining in future studies.</p><p content-type="indent">The lack of group differences in parenting practices was surprising. It may be that the intervention is simply not effective at changing parenting. However, the components in the treatment booklets are similar to previous studies that have demonstrated improvements in parenting.<sup><xref ref-type="bibr" rid="CIT0026">26</xref></sup> Further, we simultaneously ran a separate trial using the same treatment and assessments with parents who were equally concerned about both their child&#x02019;s sleep and discipline. In this other trial, parents who were randomly assigned to receive exactly the same intervention for discipline issues demonstrated improvement in both children&#x02019;s behaviour and parenting.<sup><xref ref-type="bibr" rid="CIT0044">44</xref></sup> Parents who were concerned about both sleep and discipline had children with higher levels of behaviour problems and poorer parenting at baseline, and somewhat higher motivation for change (at post-treatment 78% in action stages), compared with the trial described here. This suggests that this brief, distance-based intervention may be better suited to parents whose children have slightly more severe problems, which we expect would incline them to be more motivated to make changes in their parenting. Alternatively, in the current trial, results would suggest that something other than improvements in parenting are related to improvements in children&#x02019;s behaviour, which might include the quality of parent&#x02013;child interactions, better daily routines, parental modelling, etc.</p><sec id="s18"><title>Limitations</title><p>All outcomes were based on parent reports. Although similarity in findings for mothers&#x02019; and fathers&#x02019; ratings minimize bias associated with mono-method assessment, teacher reports (when available) or observational measures could provide additional information on changes in children&#x02019;s behaviour and parenting. However, other parenting trials of brief interventions with preschool-age children that have used observations<sup><xref ref-type="bibr" rid="CIT0004">4</xref>,<xref ref-type="bibr" rid="CIT0045">45</xref></sup> have not found them to be as sensitive to change as parent-report measures. In part, this may be due to the low frequency of behaviour problems that tend to occur during home observation.<sup><xref ref-type="bibr" rid="CIT0004">4</xref></sup> Finally, use of an observational measure would likely have resulted in decreased participation, and increased drop-out, due to greater demands on families and concerns about intrusion into families&#x02019; personal lives.<sup><xref ref-type="bibr" rid="CIT0046">46</xref></sup>
+</p><p content-type="indent">About one-third of the parents who expressed interest in the trial when they were recruited at a visit to their FP were not enrolled, as they either declined participation (18%) or did not return baseline questionnaires (19%). Other parenting trials with preschool-age children that have reported either of these figures have had higher percentages of cases that declined participation (<italic>M</italic> = 34%) or did not return baseline questionnaires (<italic>M</italic> = 28%).<sup><xref ref-type="bibr" rid="CIT0013">13</xref>,<xref ref-type="bibr" rid="CIT0026">26</xref>,<xref ref-type="bibr" rid="CIT0047">47&#x02013;50</xref></sup> Some parents may have preferred alternative methods of treatment (e.g. individual, in-person sessions) or, among those who said they were &#x02018;too busy&#x02019;, some parents may have been too overwhelmed or depressed to engage in a self-help treatment.<sup><xref ref-type="bibr" rid="CIT0042">42</xref></sup> Nevertheless, about 85% of parents seeking mental health services for children prefer the type of treatment used in this study.<sup><xref ref-type="bibr" rid="CIT0051">51</xref></sup> In our study, only one parent withdrew from treatment, which is less than other treatment studies with preschoolers that have reported this information (<italic>M</italic> = 17%).<sup><xref ref-type="bibr" rid="CIT0004">4</xref>,<xref ref-type="bibr" rid="CIT0026">26</xref>,<xref ref-type="bibr" rid="CIT0049">49</xref>,<xref ref-type="bibr" rid="CIT0052">52&#x02013;55</xref></sup> Finally, 8% of parents completed only the baseline assessment and were excluded from the analyses; however, there were no significant differences between these parents and the rest of the sample. At the 6-month follow-up, 21% of parents did not return the questionnaires. Growth curve modelling handles missing data well; however, there could be systematic differences between parents who do, versus who do not, complete follow-up assessments. Nevertheless, our data are similar to other trials which have had an average lost to follow-up rate of 23% at 6&#x02013;8 months.<sup><xref ref-type="bibr" rid="CIT0003">3</xref>,<xref ref-type="bibr" rid="CIT0004">4</xref>,<xref ref-type="bibr" rid="CIT0013">13</xref>,<xref ref-type="bibr" rid="CIT0047">47</xref>,<xref ref-type="bibr" rid="CIT0048">48</xref></sup>
+</p></sec></sec><sec id="s19"><title>Conclusion</title><p>The <italic>Parenting Matters</italic> programme for children with mild discipline problems resulted in small, but statistically significant, improvements in children&#x02019;s behaviour problems. This study adds to the knowledge base of empirically supported and brief interventions for children&#x02019;s discipline problems in PHC.<sup><xref ref-type="bibr" rid="CIT0056">56</xref></sup> A distance-based approach overcomes many of the limitations of other treatment approaches and, given that during the trial very few parents received help from their FP or other professionals, it addresses the need for a brief intervention relevant to the concerns of parents of preschool-age children. However, the magnitude of the group differences found and lack of improvement in parenting suggest that this intervention might be more effective for parents whose children have more severe problems and/or are more motivated to make changes in their discipline. The <italic>Parenting Matters</italic> programme might be best considered within a step-care model.<sup><xref ref-type="bibr" rid="CIT0057">57</xref></sup> This study used active screening/recruitment to identify parents with concerns who were interested in treatment. If such screening were part of a stepped-care approach, monitoring and watchful waiting, or just the booklet alone without telephone coaching, might be the appropriate first step prior to using this brief intervention in PHC. The booklet might also be used with coaching and support provided by the FP or, depending on the organization of health care within the region/country, by another provider within PHC, such as a nurse/nurse practitioner or health visitor. Ideally, such modifications should be evaluated in a new trial.</p></sec><sec id="s20"><title>Declaration</title><p>Funding: This project was supported by a Canadian Institutes of Health Research Randomized Clinical Trials Grant (#MCT - 67816). GR was supported by the Children&#x02019;s Health Foundation. MS, TJW and GZ were supported by the Canada Research Chairs Programme. MS is funded by the Dr Brian W Gilbert Canada Research Chair in Primary Health Care Research.</p><p>Conflict of interest: none.</p></sec><sec sec-type="supplementary-material" id="s21"><title>Supplementary material</title><p>Supplementary material is available at <ext-link ext-link-type="uri" xlink:href="http://fampra.oxfordjournals.org/lookup/suppl/doi:10.1093/fampra/cms051/-/DC1"><italic>Family Practice</italic> online</ext-link>.</p>
+<supplementary-material id="PMC_1" content-type="local-data">
+<caption>
+<title>Supplementary Data</title>
+</caption>
+<media mimetype="text" mime-subtype="html" xlink:href="supp_30_1_14__index.html"/>
+<media xlink:role="associated-file" mimetype="application" mime-subtype="pdf"
+xlink:href="supp_cms051_Reid_2012_Distance_based_treatment_for_discipline_problems_RCT_fampra.cms051.Supplementary_Materials.pdf"/>
+</supplementary-material>
+</sec></body><back><ack><title>Acknowledgements</title><p>We greatly appreciate the time and effort put forth by the clinic and project staff and the parents who participated in the trial. The input from parents and colleagues on the draft version of the treatment booklets was also much appreciated. <bold>Trial Registration:</bold> Controlled Clinical Trials ISRCTN81511074. ClinicalTrials.gov Protocol Id: 67816; 280205-014. ClinicalTrials.gov ID: NCT00133055.</p></ack><ref-list><title>References</title><ref id="CIT0001"><label> 1</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Thomson</surname><given-names>C</given-names></name><name><surname>McHale</surname><given-names>H</given-names></name></person-group>
+<source>Preschool Parenting Needs Survey</source>
+<publisher-name>Middlesex-</publisher-name>
+<publisher-loc>London, Ontario</publisher-loc>:
+<publisher-name>London Health Unit</publisher-name>
+<year>1999</year>
+</mixed-citation></ref><ref id="CIT0002"><label> 2</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>L</given-names></name></person-group>
+<article-title>Preventive intervention for families of preschoolers at risk for conduct disorders</article-title>
+<person-group person-group-type="editor"><name><surname>Briesmeister</surname><given-names>JM</given-names></name><name><surname>Schaefer</surname><given-names>CE</given-names></name></person-group> (eds). <source>Handbook of <italic>P</italic>arent <italic>T</italic>raining: Parents as <italic>C</italic>o-therapists for <italic>C</italic>hildren&#x02019;s <italic>B</italic>ehavior <italic>P</italic>roblems</source>
+<publisher-loc>New York, NY</publisher-loc>:
+<publisher-name>John Wiley &#x00026; Sons</publisher-name>
+<year>1998</year>
+<fpage>177</fpage>&#x02013;<lpage>201</lpage>
+</mixed-citation></ref><ref id="CIT0003"><label> 3</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanders</surname><given-names>MR</given-names></name><name><surname>Montgomery</surname><given-names>DT</given-names></name><name><surname>Brechman-Toussaint</surname><given-names>ML</given-names></name></person-group>
+<article-title>The mass media and the prevention of child behavior problems: the evaluation of a television series to promote positive outcomes for parents and their children</article-title>.
+<source>J Child Psychol Psychiatry</source>
+<year>2000</year>;
+<volume>41</volume>:
+<fpage>939</fpage>&#x02013;<lpage>48</lpage>
+<pub-id pub-id-type="pmid">11079436</pub-id></mixed-citation></ref><ref id="CIT0004"><label> 4</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morawska</surname><given-names>A</given-names></name><name><surname>Sanders</surname><given-names>MR</given-names></name></person-group>
+<article-title>Self-administered behavioral family intervention for parents of toddlers: Part I. Efficacy</article-title>.
+<source>J Consult Clin Psychol</source>
+<year>2006</year>;
+<volume>74</volume>:
+<fpage>10</fpage>&#x02013;<lpage>9</lpage>
+<pub-id pub-id-type="pmid">16551139</pub-id></mixed-citation></ref><ref id="CIT0005"><label> 5</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sloane</surname><given-names>HN</given-names></name><name><surname>Endo</surname><given-names>GT</given-names></name><name><surname>Hawkes</surname><given-names>TW</given-names></name><name><surname>Jenson</surname><given-names>WR</given-names></name></person-group>
+<article-title>Reducing children&#x02019;s interrupting through self-instructional parent training materials</article-title>.
+<source>Educ Treat Child</source>
+<year>1991</year>;
+<volume>14</volume>:
+<fpage>38</fpage>&#x02013;<lpage>52</lpage>
+</mixed-citation></ref><ref id="CIT0006"><label> 6</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ford</surname><given-names>T</given-names></name><name><surname>Hamilton</surname><given-names>H</given-names></name><name><surname>Goodman</surname><given-names>R</given-names></name><name><surname>Meltzer</surname><given-names>H</given-names></name></person-group>
+<article-title>Service contacts among the children participating in the British child and adolescent mental health surveys</article-title>.
+<source>Child Adoles<italic>c</italic> Mental Health</source>
+<year>2005</year>;
+<volume>10</volume>:
+<fpage>37</fpage>&#x02013;<lpage>51</lpage>
+</mixed-citation></ref><ref id="CIT0007"><label> 7</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shanley</surname><given-names>DC</given-names></name><name><surname>Reid</surname><given-names>GJ</given-names></name><name><surname>Evans</surname><given-names>B</given-names></name></person-group>
+<article-title>How parents seek help for children with mental health problems</article-title>.
+<source>Adm Policy Ment Health</source>
+<year>2008</year>;
+<volume>35</volume>:
+<fpage>135</fpage>&#x02013;<lpage>46</lpage>
+<pub-id pub-id-type="pmid">17211717</pub-id></mixed-citation></ref><ref id="CIT0008"><label> 8</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wissow</surname><given-names>LS</given-names></name><name><surname>Roter</surname><given-names>D</given-names></name><name><surname>Larson</surname><given-names>SM</given-names></name><etal/></person-group>
+<article-title>Mechanisms behind the failure of residents&#x02019; longitudinal primary care to promote disclosure and discussion of psychosocial issues</article-title>.
+<source>Arch Pediatr Adolesc Med</source>
+<year>2002</year>;
+<volume>156</volume>:
+<fpage>685</fpage>&#x02013;<lpage>92</lpage>
+<pub-id pub-id-type="pmid">12090836</pub-id></mixed-citation></ref><ref id="CIT0009"><label> 9</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rushton</surname><given-names>J</given-names></name><name><surname>Bruckman</surname><given-names>D</given-names></name><name><surname>Kelleher</surname><given-names>K</given-names></name></person-group>
+<article-title>Primary care referral of children with psychosocial problems</article-title>.
+<source>Arch Pediatr Adolesc Med</source>
+<year>2002</year>;
+<volume>156</volume>:
+<fpage>592</fpage>&#x02013;<lpage>8</lpage>
+<pub-id pub-id-type="pmid">12038893</pub-id></mixed-citation></ref><ref id="CIT0010"><label>10</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>AR</given-names></name><name><surname>Johnston</surname><given-names>C</given-names></name><name><surname>Klassen</surname><given-names>AF</given-names></name><name><surname>Fine</surname><given-names>S</given-names></name><name><surname>Papsdorf</surname><given-names>M</given-names></name></person-group>
+<article-title>Family physicians&#x02019; involvement and self-reported comfort and skill in care of children with behavioral and emotional problems: a population-based survey</article-title>.
+<source>BMC Fam Pract</source>
+<year>2005</year>;
+<volume>6</volume>:
+<fpage>12</fpage>
+<pub-id pub-id-type="pmid">15762982</pub-id></mixed-citation></ref><ref id="CIT0011"><label>11</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Stein</surname><given-names>RE</given-names></name><name><surname>Horwitz</surname><given-names>SM</given-names></name><name><surname>Storfer-Isser</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Do pediatricians think they are responsible for identification and management of child mental health problems? Results of the AAP periodic survey</article-title>.
+<source>Ambul Pediatr</source>
+<year>2008</year>;
+<volume>8</volume>:
+<fpage>11</fpage>&#x02013;<lpage>7</lpage>
+<pub-id pub-id-type="pmid">18191776</pub-id></mixed-citation></ref><ref id="CIT0012"><label>12</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanders</surname><given-names>MR</given-names></name><name><surname>Tully</surname><given-names>LA</given-names></name><name><surname>Turner</surname><given-names>KM</given-names></name><name><surname>Maher</surname><given-names>C</given-names></name><name><surname>McAuliffe</surname><given-names>C</given-names></name></person-group>
+<article-title>Training GPs in parent consultation skills. An evaluation of training for the Triple P-Positive Parenting Program</article-title>.
+<source>Aust Fam Physician</source>
+<year>2003</year>;
+<volume>32</volume>:
+<fpage>763</fpage>&#x02013;<lpage>8</lpage>
+<pub-id pub-id-type="pmid">14524224</pub-id></mixed-citation></ref><ref id="CIT0013"><label>13</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Patterson</surname><given-names>J</given-names></name><name><surname>Barlow</surname><given-names>J</given-names></name><name><surname>Mockford</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Improving mental health through parenting programmes: block randomised controlled trial</article-title>.
+<source>Arch Dis Child</source>
+<year>2002</year>;
+<volume>87</volume>:
+<fpage>472</fpage>&#x02013;<lpage>7</lpage>
+<pub-id pub-id-type="pmid">12456542</pub-id></mixed-citation></ref><ref id="CIT0014"><label>14</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lavigne</surname><given-names>JV</given-names></name><name><surname>Lebailly</surname><given-names>SA</given-names></name><name><surname>Gouze</surname><given-names>KR</given-names></name><etal/></person-group>
+<article-title>Treating oppositional defiant disorder in primary care: a comparison of three models</article-title>.
+<source>J Pediatr Psychol</source>
+<year>2008</year>;
+<volume>33</volume>:
+<fpage>449</fpage>&#x02013;<lpage>61</lpage>
+<pub-id pub-id-type="pmid">17956932</pub-id></mixed-citation></ref><ref id="CIT0015"><label>15</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Glascoe</surname><given-names>FP</given-names></name></person-group>
+<source>Collaborating With parents: Using Parents&#x02019; Evaluations of Developmental Status to Detect and Address Developmental and Behavioral Problems</source>
+<publisher-loc>Nashville, TN</publisher-loc>:
+<publisher-name>Ellsworth &#x00026; Vandermeer Press Ltd.</publisher-name>
+<year>1998</year>
+</mixed-citation></ref><ref id="CIT0016"><label>16</label><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Wake</surname><given-names>M</given-names></name><name><surname>Gerner</surname><given-names>B</given-names></name></person-group>
+<article-title>Parent and teacher developmental concerns at school entry: what happens to academic outcomes two years later?</article-title>In <conf-name>Pediatric Academic Societies Meeting</conf-name>
+<conf-loc>Baltimore, US</conf-loc>
+<day>May 4&#x02013;7, 2002</day>
+<year>2002</year>
+</mixed-citation></ref><ref id="CIT0017"><label>17</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ford</surname><given-names>T</given-names></name><name><surname>Sayal</surname><given-names>K</given-names></name><name><surname>Meltzer</surname><given-names>H</given-names></name><name><surname>Goodman</surname><given-names>R</given-names></name></person-group>
+<article-title>Parental concerns about their child&#x02019;s emotions and behaviour and referral to specialist services: general population survey</article-title>.
+<source>BMJ</source>
+<year>2005</year>;
+<volume>331</volume>:
+<fpage>1435</fpage>&#x02013;<lpage>6</lpage>
+<pub-id pub-id-type="pmid">16356977</pub-id></mixed-citation></ref><ref id="CIT0018"><label>18</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schonwald</surname><given-names>A</given-names></name><name><surname>Huntington</surname><given-names>N</given-names></name><name><surname>Chan</surname><given-names>E</given-names></name><name><surname>Risko</surname><given-names>W</given-names></name><name><surname>Bridgemohan</surname><given-names>C</given-names></name></person-group>
+<article-title>Routine developmental screening implemented in urban primary care settings: more evidence of feasibility and effectiveness</article-title>.
+<source>Pediatrics</source>
+<year>2009</year>;
+<volume>123</volume>:
+<fpage>660</fpage>&#x02013;<lpage>8</lpage>
+<pub-id pub-id-type="pmid">19171635</pub-id></mixed-citation></ref><ref id="CIT0019"><label>19</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cunningham</surname><given-names>CE</given-names></name><name><surname>Boyle</surname><given-names>M</given-names></name><name><surname>Offord</surname><given-names>D</given-names></name><etal/></person-group>
+<article-title>Tri-ministry study: correlates of school-based parenting course utilization</article-title>.
+<source>J Consult Clin Psychol</source>
+<year>2000</year>;
+<volume>68</volume>:
+<fpage>928</fpage>&#x02013;<lpage>33</lpage>
+<pub-id pub-id-type="pmid">11068980</pub-id></mixed-citation></ref><ref id="CIT0020"><label>20</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reid</surname><given-names>GJ</given-names></name><name><surname>Cunningham</surname><given-names>CE</given-names></name><name><surname>Tobon</surname><given-names>JI</given-names></name><etal/></person-group>
+<article-title>Help-seeking for children with mental health problems: parents&#x02019; efforts and experiences</article-title>.
+<source>Adm Policy Ment Health</source>
+<year>2011</year>;
+<volume>38</volume>:
+<fpage>384</fpage>&#x02013;<lpage>97</lpage>
+<pub-id pub-id-type="pmid">21057868</pub-id></mixed-citation></ref><ref id="CIT0021"><label>21</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reijneveld</surname><given-names>SA</given-names></name><name><surname>de Meer</surname><given-names>G</given-names></name><name><surname>Wiefferink</surname><given-names>CH</given-names></name><name><surname>Crone</surname><given-names>MR</given-names></name></person-group>
+<article-title>Parents&#x02019; concerns about children are highly prevalent but often not confirmed by child doctors and nurses</article-title>.
+<source>BMC Public Health</source>
+<year>2008</year>;
+<volume>8</volume>:
+<fpage>124</fpage>
+<pub-id pub-id-type="pmid">18423036</pub-id></mixed-citation></ref><ref id="CIT0022"><label>22</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scholle</surname><given-names>SH</given-names></name><name><surname>Gardner</surname><given-names>W</given-names></name><name><surname>Harman</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Physician gender and psychosocial care for children: attitudes, practice characteristics, identification, and treatment</article-title>.
+<source>Med Care</source>
+<year>2001</year>;
+<volume>39</volume>:
+<fpage>26</fpage>&#x02013;<lpage>38</lpage>
+<pub-id pub-id-type="pmid">11176541</pub-id></mixed-citation></ref><ref id="CIT0023"><label>23</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pimm</surname><given-names>J</given-names></name><name><surname>Stewart</surname><given-names>ME</given-names></name><name><surname>Lawrie</surname><given-names>SM</given-names></name><name><surname>Thomson</surname><given-names>LD</given-names></name></person-group>
+<article-title>Detecting the dangerous, violent or criminal patient: an analysis of referrals to maximum security psychiatric care</article-title>.
+<source>Med Sci Law</source>
+<year>2004</year>;
+<volume>44</volume>:
+<fpage>19</fpage>&#x02013;<lpage>26</lpage>
+<pub-id pub-id-type="pmid">14984211</pub-id></mixed-citation></ref><ref id="CIT0024"><label>24</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Eyberg</surname><given-names>SM</given-names></name><name><surname>Ross</surname><given-names>AW</given-names></name></person-group>
+<article-title>Assessment of child behavior problems: the validation of a new inventory</article-title>.
+<source>J Clin Child Psychol</source>
+<year>1978</year>;
+<volume>7</volume>:
+<fpage>113</fpage>&#x02013;<lpage>6</lpage>
+</mixed-citation></ref><ref id="CIT0025"><label>25</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Arnold</surname><given-names>DS</given-names></name><name><surname>O&#x02019;Leary</surname><given-names>SG</given-names></name><name><surname>Wolff</surname><given-names>LS</given-names></name><name><surname>Acker</surname><given-names>MM</given-names></name></person-group>
+<article-title>The Parenting Scale: a measure of dysfunctional parenting in discipline situations</article-title>.
+<source>Psychol Assess</source>
+<year>1993</year>;
+<volume>5</volume>:
+<fpage>137</fpage>&#x02013;<lpage>44</lpage>
+</mixed-citation></ref><ref id="CIT0026"><label>26</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Connell</surname><given-names>S</given-names></name><name><surname>Sanders</surname><given-names>MR</given-names></name><name><surname>Markie-Dadds</surname><given-names>C</given-names></name></person-group>
+<article-title>Self-directed behavioral family intervention for parents of oppositional children in rural and remote areas</article-title>.
+<source>Behav Modif</source>
+<year>1997</year>;
+<volume>21</volume>:
+<fpage>379</fpage>&#x02013;<lpage>408</lpage>
+<pub-id pub-id-type="pmid">9337598</pub-id></mixed-citation></ref><ref id="CIT0027"><label>27</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Achenbach</surname><given-names>TM</given-names></name><name><surname>Rescorla</surname><given-names>LA</given-names></name></person-group>
+<source>Manual for the ASEBA Preschool Forms and Profiles</source>
+<year>2000</year>
+</mixed-citation></ref><ref id="CIT0028"><label>28</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hudziak</surname><given-names>JJ</given-names></name><name><surname>Copeland</surname><given-names>W</given-names></name><name><surname>Stanger</surname><given-names>C</given-names></name><name><surname>Wadsworth</surname><given-names>M</given-names></name></person-group>
+<article-title>Screening for DSM-IV externalizing disorders with the Child Behavior Checklist: a receiver-operating characteristic analysis</article-title>.
+<source>J Child Psychol Psychiatry</source>
+<year>2004</year>;
+<volume>45</volume>:
+<fpage>1299</fpage>&#x02013;<lpage>307</lpage>
+<pub-id pub-id-type="pmid">15335349</pub-id></mixed-citation></ref><ref id="CIT0029"><label>29</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Forehand</surname><given-names>RE</given-names></name><name><surname>McMahon</surname><given-names>RJ</given-names></name></person-group>
+<source>Helping the noncompliant child: A clinician&#x02019;s guide to parent training</source>
+<publisher-loc>New York</publisher-loc>:
+<publisher-name>Guilford</publisher-name>
+<year>1981</year>
+</mixed-citation></ref><ref id="CIT0030"><label>30</label><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Pelham</surname><given-names>WE</given-names></name><name><surname>Gnagy</surname><given-names>EM</given-names></name><name><surname>Greiner</surname><given-names>AR</given-names></name></person-group>
+<collab>MTA Cooperative Group</collab>
+<article-title>Parent and teacher satisfaction with treatment and evaluation of effectiveness</article-title>
+<conf-name>Poster presented at the annual meeting of the Association for the Advancement of Behavior Therapy</conf-name>
+<publisher-loc>New Orleans</publisher-loc>
+<day>November 2000</day>
+<year>2000</year>
+</mixed-citation></ref><ref id="CIT0031"><label>31</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Young</surname><given-names>J</given-names></name><name><surname>Beck</surname><given-names>AT</given-names></name></person-group>
+<source>Cognitive Therapy Scale Rating Manual</source>
+<publisher-loc>Philadelphia, PA</publisher-loc>:
+<publisher-name>University of Pennsylvania, Center for Psychotherapy Research</publisher-name>
+<year>1980</year>
+</mixed-citation></ref><ref id="CIT0032"><label>32</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reid</surname><given-names>GJ</given-names></name><name><surname>Freeman</surname><given-names>TR</given-names></name><name><surname>Thind</surname><given-names>A</given-names></name><etal/></person-group>
+<article-title>Access to family physicians in southwestern Ontario</article-title>.
+<source>Health Policy</source>
+<year>2009</year>;
+<volume>5</volume>:
+<fpage>e187</fpage>&#x02013;<lpage>206</lpage>
+</mixed-citation></ref><ref id="CIT0033"><label>33</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reid</surname><given-names>GJ</given-names></name><name><surname>Tobon</surname><given-names>JI</given-names></name><name><surname>Shanley</surname><given-names>DC</given-names></name></person-group>
+<article-title>What is a mental health clinic? How to ask parents about help-seeking contacts within the mental health system</article-title>.
+<source>Adm Policy Ment Health</source>
+<year>2008</year>;
+<volume>35</volume>:
+<fpage>241</fpage>&#x02013;<lpage>9</lpage>
+<pub-id pub-id-type="pmid">18259852</pub-id></mixed-citation></ref><ref id="CIT0034"><label>34</label><mixed-citation publication-type="confproc">
+<person-group person-group-type="author"><name><surname>Niccols</surname><given-names>A</given-names></name><name><surname>Vyver</surname><given-names>E</given-names></name></person-group>
+<article-title>Readiness for change in mothers of high-risk infants as a predictor of participation and outcome of intervention</article-title>
+<conf-name>Paper presented at the World Association for Infant Mental Health Congress</conf-name>
+<conf-loc>Montreal</conf-loc>
+<day>July, 2000</day>
+<year>2000</year>
+</mixed-citation></ref><ref id="CIT0035"><label>35</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McConnaughy</surname><given-names>EA</given-names></name><name><surname>Prochaska</surname><given-names>JO</given-names></name><name><surname>Velicer</surname><given-names>WF</given-names></name></person-group>
+<article-title>Stages of change in psychotherapy: Measurement and sample profiles</article-title>.
+<source>Psychother Theory Res Pract</source>
+<year>1989</year>;
+<volume>20</volume>:
+<fpage>368</fpage>&#x02013;<lpage>75</lpage>
+</mixed-citation></ref><ref id="CIT0036"><label>36</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Curran</surname><given-names>PJ</given-names></name><name><surname>Muth&#x000e9;n</surname><given-names>BO</given-names></name></person-group>
+<article-title>The application of latent curve analysis to testing developmental theories in intervention research</article-title>.
+<source>Am J Community Psychol</source>
+<year>1999</year>;
+<volume>27</volume>:
+<fpage>567</fpage>&#x02013;<lpage>95</lpage>
+<pub-id pub-id-type="pmid">10573835</pub-id></mixed-citation></ref><ref id="CIT0037"><label>37</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Eyberg</surname><given-names>SM</given-names></name><name><surname>Pincus</surname><given-names>D</given-names></name></person-group>
+<source>Eyberg Child Behavior Inventory and Sutter-Eyberg Student Behavior Inventory-Revised</source>
+<publisher-loc>Odessa, FL</publisher-loc>:
+<publisher-name>Psychological Assessment Resources, Inc.</publisher-name>
+<year>1999</year>
+</mixed-citation></ref><ref id="CIT0038"><label>38</label><mixed-citation publication-type="book">
+<collab>Statistics Canada</collab>
+<source>Census of Canada, 2006. Table 94-581-XCB2006002: [Cumulative] Profile for Canada, Provinces, Territories, Census Divisions, Census Subdivisions and Dissemination Areas, 2006 Census</source>Table 93F<publisher-loc>Ottawa, Ontario</publisher-loc>:
+<publisher-name>Statistics Canada</publisher-name>
+<year>2008</year>
+</mixed-citation></ref><ref id="CIT0039"><label>39</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cohen</surname><given-names>J</given-names></name></person-group>
+<article-title>A power primer</article-title>.
+<source>Psychol Bull</source>
+<year>1992</year>;
+<volume>112</volume>:
+<fpage>155</fpage>&#x02013;<lpage>9</lpage>
+<pub-id pub-id-type="pmid">19565683</pub-id></mixed-citation></ref><ref id="CIT0040"><label>40</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kolko</surname><given-names>DJ</given-names></name><name><surname>Campo</surname><given-names>JV</given-names></name><name><surname>Kelleher</surname><given-names>K</given-names></name><name><surname>Cheng</surname><given-names>Y</given-names></name></person-group>
+<article-title>Improving access to care and clinical outcome for pediatric behavioral problems: a randomized trial of a nurse-administered intervention in primary care</article-title>.
+<source>J Dev Behav Pediatr</source>
+<year>2010</year>;
+<volume>31</volume>:
+<fpage>393</fpage>&#x02013;<lpage>404</lpage>
+<pub-id pub-id-type="pmid">20495474</pub-id></mixed-citation></ref><ref id="CIT0041"><label>41</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reyno</surname><given-names>SM</given-names></name><name><surname>McGrath</surname><given-names>PJ</given-names></name></person-group>
+<article-title>Predictors of parent training efficacy for child externalizing behavior problems&#x02013;a meta-analytic review</article-title>.
+<source>J Child Psychol Psychiatry</source>
+<year>2006</year>;
+<volume>47</volume>:
+<fpage>99</fpage>&#x02013;<lpage>111</lpage>
+<pub-id pub-id-type="pmid">16405646</pub-id></mixed-citation></ref><ref id="CIT0042"><label>42</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cunningham</surname><given-names>CE</given-names></name><name><surname>Deal</surname><given-names>K</given-names></name><name><surname>Rimas</surname><given-names>H</given-names></name><etal/></person-group>
+<article-title>Modeling the information preferences of parents of children with mental health problems: a discrete choice conjoint experiment</article-title>.
+<source>J Abnorm Child Psychol</source>
+<year>2008</year>;
+<volume>36</volume>:
+<fpage>1123</fpage>&#x02013;<lpage>38</lpage>
+<pub-id pub-id-type="pmid">18481167</pub-id></mixed-citation></ref><ref id="CIT0043"><label>43</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kolko</surname><given-names>DJ</given-names></name><name><surname>Dorn</surname><given-names>LD</given-names></name><name><surname>Bukstein</surname><given-names>OG</given-names></name><etal/></person-group>
+<article-title>Community vs. clinic-based modular treatment of children with early-onset ODD or CD: a clinical trial with 3-year follow-up</article-title>.
+<source>J Abnorm Child Psychol</source>
+<year>2009</year>;
+<volume>37</volume>:
+<fpage>591</fpage>&#x02013;<lpage>609</lpage>
+<pub-id pub-id-type="pmid">19221871</pub-id></mixed-citation></ref><ref id="CIT0044"><label>44</label><mixed-citation publication-type="other">
+<person-group person-group-type="author"><name><surname>Reid</surname><given-names>GJ</given-names></name><name><surname>Stewart</surname><given-names>M</given-names></name><name><surname>Vingilis</surname><given-names>E</given-names></name><etal/></person-group>
+<article-title>Randomized trial of distance-based treatment for young children with discipline and sleep problems seen in primary care</article-title>
+<italic>Manuscript in preparation</italic>
+<year>2012</year>
+</mixed-citation></ref><ref id="CIT0045"><label>45</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Morawska</surname><given-names>A</given-names></name><name><surname>Sanders</surname><given-names>MR</given-names></name></person-group>
+<article-title>Are parent-reported outcomes for self-directed or telephone-assisted behavioral family intervention enhanced if parents are observed?</article-title>
+<source>Behav Modif</source>
+<year>2007</year>;
+<volume>31</volume>:
+<fpage>279</fpage>&#x02013;<lpage>97</lpage>
+<pub-id pub-id-type="pmid">17438343</pub-id></mixed-citation></ref><ref id="CIT0046"><label>46</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heinrichs</surname><given-names>N</given-names></name><name><surname>Bertram</surname><given-names>H</given-names></name><name><surname>Kuschel</surname><given-names>A</given-names></name><name><surname>Hahlweg</surname><given-names>K</given-names></name></person-group>
+<article-title>Parent recruitment and retention in a universal prevention program for child behavior and emotional problems: barriers to research and program participation</article-title>.
+<source>Prev Sci</source>
+<year>2005</year>;
+<volume>6</volume>:
+<fpage>275</fpage>&#x02013;<lpage>86</lpage>
+<pub-id pub-id-type="pmid">16075192</pub-id></mixed-citation></ref><ref id="CIT0047"><label>47</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cunningham</surname><given-names>CE</given-names></name><name><surname>Bremner</surname><given-names>R</given-names></name><name><surname>Boyle</surname><given-names>M</given-names></name></person-group>
+<article-title>Large group community-based parenting programs for families of preschoolers at risk for disruptive behaviour disorders: utilization, cost effectiveness, and outcome</article-title>.
+<source>J Child Psychol Psychiatry</source>
+<year>1995</year>;
+<volume>36</volume>:
+<fpage>1141</fpage>&#x02013;<lpage>59</lpage>
+<pub-id pub-id-type="pmid">8847377</pub-id></mixed-citation></ref><ref id="CIT0048"><label>48</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanisch</surname><given-names>C</given-names></name><name><surname>Freund-Braier</surname><given-names>I</given-names></name><name><surname>Hautmann</surname><given-names>C</given-names></name><etal/></person-group>
+<article-title>Detecting effects of the indicated prevention Programme for Externalizing Problem behaviour (PEP) on child symptoms, parenting, and parental quality of life in a randomized controlled trial</article-title>.
+<source>Behav Cogn Psychother</source>
+<year>2010</year>;
+<volume>38</volume>:
+<fpage>95</fpage>&#x02013;<lpage>112</lpage>
+<pub-id pub-id-type="pmid">19995467</pub-id></mixed-citation></ref><ref id="CIT0049"><label>49</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harrington</surname><given-names>R</given-names></name><name><surname>Peters</surname><given-names>S</given-names></name><name><surname>Green</surname><given-names>J</given-names></name><etal/></person-group>
+<article-title>Randomised comparison of the effectiveness and costs of community and hospital based mental health services for children with behavioural disorders</article-title>.
+<source>BMJ</source>
+<year>2000</year>;
+<volume>321</volume>:
+<fpage>1047</fpage>&#x02013;<lpage>50</lpage>
+<pub-id pub-id-type="pmid">11053174</pub-id></mixed-citation></ref><ref id="CIT0050"><label>50</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanders</surname><given-names>MR</given-names></name><name><surname>Markie-Dadds</surname><given-names>C</given-names></name><name><surname>Tully</surname><given-names>LA</given-names></name><name><surname>Bor</surname><given-names>W</given-names></name></person-group>
+<article-title>The triple P-positive parenting program: a comparison of enhanced, standard, and self-directed behavioral family intervention for parents of children with early onset conduct problems</article-title>.
+<source>J Consult Clin Psychol</source>
+<year>2000</year>;
+<volume>68</volume>:
+<fpage>624</fpage>&#x02013;<lpage>40</lpage>
+<pub-id pub-id-type="pmid">10965638</pub-id></mixed-citation></ref><ref id="CIT0051"><label>51</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cunningham</surname><given-names>CE</given-names></name><name><surname>Deal</surname><given-names>K</given-names></name><name><surname>Rimas</surname><given-names>H</given-names></name><etal/></person-group>
+<article-title>Providing information to parents of children with mental health problems: a discrete choice conjoint analysis of professional preferences</article-title>.
+<source>J Abnorm Child Psychol</source>
+<year>2009</year>;
+<volume>37</volume>:
+<fpage>1089</fpage>&#x02013;<lpage>102</lpage>
+<pub-id pub-id-type="pmid">19629676</pub-id></mixed-citation></ref><ref id="CIT0052"><label>52</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Webster-Stratton</surname><given-names>C</given-names></name><name><surname>Kolpacoff</surname><given-names>M</given-names></name><name><surname>Hollinsworth</surname><given-names>T</given-names></name></person-group>
+<article-title>Self-administered videotape therapy for families with conduct-problem children: comparison with two cost-effective treatments and a control group</article-title>.
+<source>J Consult Clin Psychol</source>
+<year>1988</year>;
+<volume>56</volume>:
+<fpage>558</fpage>&#x02013;<lpage>66</lpage>
+<pub-id pub-id-type="pmid">3143750</pub-id></mixed-citation></ref><ref id="CIT0053"><label>53</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schuhmann</surname><given-names>EM</given-names></name><name><surname>Foote</surname><given-names>RC</given-names></name><name><surname>Eyberg</surname><given-names>SM</given-names></name><name><surname>Boggs</surname><given-names>SR</given-names></name><name><surname>Algina</surname><given-names>J</given-names></name></person-group>
+<article-title>Efficacy of parent-child interaction therapy: interim report of a randomized trial with short-term maintenance</article-title>.
+<source>J Clin Child Psychol</source>
+<year>1998</year>;
+<volume>27</volume>:
+<fpage>34</fpage>&#x02013;<lpage>45</lpage>
+<pub-id pub-id-type="pmid">9561935</pub-id></mixed-citation></ref><ref id="CIT0054"><label>54</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGilloway</surname><given-names>S</given-names></name><name><surname>Ni Mhaille</surname><given-names>G</given-names></name><name><surname>Bywater</surname><given-names>T</given-names></name><etal/></person-group>
+<article-title>A parenting intervention for childhood behavioral problems: a randomized controlled trial in disadvantaged community-based settings</article-title>.
+<source>J Consult Clin Psychol</source>
+<year>2012</year>;
+<volume>80</volume>:
+<fpage>116</fpage>&#x02013;<lpage>27</lpage>
+<pub-id pub-id-type="pmid">22148879</pub-id></mixed-citation></ref><ref id="CIT0055"><label>55</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Day</surname><given-names>C</given-names></name><name><surname>Michelson</surname><given-names>D</given-names></name><name><surname>Thomson</surname><given-names>S</given-names></name><name><surname>Penney</surname><given-names>C</given-names></name><name><surname>Draper</surname><given-names>L</given-names></name></person-group>
+<article-title>Evaluation of a peer led parenting intervention for disruptive behaviour problems in children: community based randomised controlled trial</article-title>.
+<source>BMJ</source>
+<year>2012</year>;
+<volume>344</volume>:
+<fpage>e1107</fpage>
+<pub-id pub-id-type="pmid">22416059</pub-id></mixed-citation></ref><ref id="CIT0056"><label>56</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bower</surname><given-names>P</given-names></name><name><surname>Garralda</surname><given-names>E</given-names></name><name><surname>Kramer</surname><given-names>T</given-names></name><name><surname>Harrington</surname><given-names>R</given-names></name><name><surname>Sibbald</surname><given-names>B</given-names></name></person-group>
+<article-title>The treatment of child and adolescent mental health problems in primary care: a systematic review</article-title>.
+<source>Fam Pract</source>
+<year>2001</year>;
+<volume>18</volume>:
+<fpage>373</fpage>&#x02013;<lpage>82</lpage>
+<pub-id pub-id-type="pmid">11477044</pub-id></mixed-citation></ref><ref id="CIT0057"><label>57</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bower</surname><given-names>P</given-names></name><name><surname>Gilbody</surname><given-names>S</given-names></name></person-group>
+<article-title>Stepped care in psychological therapies: access, effectiveness and efficiency. Narrative literature review</article-title>.
+<source>Br J Psychiatry</source>
+<year>2005</year>;
+<volume>186</volume>:
+<fpage>11</fpage>&#x02013;<lpage>7</lpage>
+<pub-id pub-id-type="pmid">15630118</pub-id></mixed-citation></ref><ref id="CIT0058"><label>58</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Iglowstein</surname><given-names>I</given-names></name><name><surname>Jenni</surname><given-names>OG</given-names></name><name><surname>Molinari</surname><given-names>L</given-names></name><name><surname>Largo</surname><given-names>RH</given-names></name></person-group>
+<article-title>Sleep duration from infancy to adolescence: reference values and generational trends</article-title>.
+<source>Pediatrics</source>
+<year>2003</year>;
+<volume>111</volume>:
+<fpage>302</fpage>&#x02013;<lpage>7</lpage>
+<pub-id pub-id-type="pmid">12563055</pub-id></mixed-citation></ref><ref id="CIT0059"><label>59</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Weissbluth</surname><given-names>M</given-names></name></person-group>
+<article-title>Naps in children: 6 months-7 years</article-title>.
+<source>Sleep</source>
+<year>1995</year>;
+<volume>18</volume>:
+<fpage>82</fpage>&#x02013;<lpage>7</lpage>
+<pub-id pub-id-type="pmid">7792496</pub-id></mixed-citation></ref><ref id="CIT0060"><label>60</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>McMahon</surname><given-names>RJ</given-names></name><name><surname>Forehand</surname><given-names>RE</given-names></name></person-group>
+<source>Helping the noncompliant child: Family-based treatment for oppositional behavior</source>
+<edition>2nd</edition>edn. <publisher-loc>New York, NY</publisher-loc>:
+<publisher-name>Guilford Press</publisher-name>
+<year>2003</year>
+</mixed-citation></ref><ref id="CIT0061"><label>61</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Belsky</surname><given-names>J</given-names></name><name><surname>Woodworth</surname><given-names>S</given-names></name><name><surname>Crnic</surname><given-names>K</given-names></name></person-group>
+<article-title>Troubled family interaction during toddlerhood</article-title>.
+<source>Dev Psychopathol</source>
+<year>1996</year>;
+<volume>8</volume>:
+<fpage>477</fpage>&#x02013;<lpage>95</lpage>
+</mixed-citation></ref><ref id="CIT0062"><label>62</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mindell</surname><given-names>JA</given-names></name><name><surname>Telofski</surname><given-names>LS</given-names></name><name><surname>Wiegand</surname><given-names>B</given-names></name><name><surname>Kurtz</surname><given-names>ES</given-names></name></person-group>
+<article-title>A nightly bedtime routine: impact on sleep in young children and maternal mood</article-title>.
+<source>Sleep</source>
+<year>2009</year>;
+<volume>32</volume>:
+<fpage>599</fpage>&#x02013;<lpage>606</lpage>
+<pub-id pub-id-type="pmid">19480226</pub-id></mixed-citation></ref><ref id="CIT0063"><label>63</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Adams</surname><given-names>LA</given-names></name><name><surname>Rickert</surname><given-names>VI</given-names></name></person-group>
+<article-title>Reducing bedtime tantrums: comparison between positive routines and graduated extinction</article-title>.
+<source>Pediatrics</source>
+<year>1989</year>;
+<volume>84</volume>:
+<fpage>756</fpage>&#x02013;<lpage>61</lpage>
+<pub-id pub-id-type="pmid">2797970</pub-id></mixed-citation></ref><ref id="CIT0064"><label>64</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moore</surname><given-names>BA</given-names></name><name><surname>Friman</surname><given-names>PC</given-names></name><name><surname>Fruzzetti</surname><given-names>AE</given-names></name><name><surname>MacAleese</surname><given-names>K</given-names></name></person-group>
+<article-title>Brief report: evaluating the Bedtime Pass Program for child resistance to bedtime&#x02013;a randomized, controlled trial</article-title>.
+<source>J Pediatr Psychol</source>
+<year>2007</year>;
+<volume>32</volume>:
+<fpage>283</fpage>&#x02013;<lpage>7</lpage>
+<pub-id pub-id-type="pmid">16899650</pub-id></mixed-citation></ref><ref id="CIT0065"><label>65</label><mixed-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Mindell</surname><given-names>JA</given-names></name></person-group>
+<source>Sleeping Through the Night: How Infants, Toddlers, and Their Parents Can Get a Good Night&#x02019;s Sleep</source>
+<publisher-loc>New York, NY, USA</publisher-loc>:
+<publisher-name>HarperCollins</publisher-name>
+<year>1997</year>
+</mixed-citation></ref><ref id="CIT0066"><label>66</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Reid</surname><given-names>MJ</given-names></name><name><surname>Walter</surname><given-names>AL</given-names></name><name><surname>O&#x02019;Leary</surname><given-names>SG</given-names></name></person-group>
+<article-title>Treatment of young children&#x02019;s bedtime refusal and nighttime wakings: a comparison of &#x0201c;standard&#x0201d; and graduated ignoring procedures</article-title>.
+<source>J Abnorm Child Psychol</source>
+<year>1999</year>;
+<volume>27</volume>:
+<fpage>5</fpage>&#x02013;<lpage>16</lpage>
+<pub-id pub-id-type="pmid">10197402</pub-id></mixed-citation></ref><ref id="CIT0067"><label>67</label><mixed-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Durand</surname><given-names>VM</given-names></name><name><surname>Mindell</surname><given-names>JA</given-names></name></person-group>
+<article-title>Behavioral intervention for sleep terrors</article-title>.
+<source>Behavior Therapy</source>
+<year>1999</year>;
+<volume>30</volume>:
+<fpage>705</fpage>&#x02013;<lpage>15</lpage>
+</mixed-citation></ref></ref-list></back></article>

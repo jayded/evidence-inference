@@ -1,0 +1,473 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Aliment Pharmacol Ther</journal-id><journal-id journal-id-type="iso-abbrev">Aliment. Pharmacol. Ther</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1365-2036</journal-id><journal-id journal-id-type="publisher-id">APT</journal-id><journal-title-group><journal-title>Alimentary Pharmacology &#x00026; Therapeutics</journal-title></journal-title-group><issn pub-type="ppub">0269-2813</issn><issn pub-type="epub">1365-2036</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26381802</article-id><article-id pub-id-type="pmc">5049645</article-id><article-id pub-id-type="doi">10.1111/apt.13387</article-id><article-id pub-id-type="publisher-id">APT13387</article-id><article-categories><subj-group subj-group-type="overline"><subject>Randomised Clinical Study</subject></subj-group><subj-group subj-group-type="heading"><subject>Randomised Clinical Study</subject></subj-group></article-categories><title-group><article-title>Randomised clinical study: discrepancies between patient&#x02010;reported outcomes and endoscopic appearance in moderate to severe ulcerative colitis</article-title><alt-title alt-title-type="left-running-head">B. Jharap <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="apt13387-cr-0001" contrib-type="author"><name><surname>Jharap</surname><given-names>B.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="apt13387-cr-0002" contrib-type="author"><name><surname>Sandborn</surname><given-names>W. J.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="apt13387-cr-0003" contrib-type="author"><name><surname>Reinisch</surname><given-names>W.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="apt13387-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="apt13387-cr-0004" contrib-type="author"><name><surname>D'Haens</surname><given-names>G.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="apt13387-cr-0005" contrib-type="author"><name><surname>Robinson</surname><given-names>A. M.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="apt13387-cr-0006" contrib-type="author"><name><surname>Wang</surname><given-names>W.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="apt13387-cr-0007" contrib-type="author"><name><surname>Huang</surname><given-names>B.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="apt13387-cr-0008" contrib-type="author"><name><surname>Lazar</surname><given-names>A.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="apt13387-cr-0009" contrib-type="author"><name><surname>Thakkar</surname><given-names>R. B.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="apt13387-cr-0010" contrib-type="author" corresp="yes"><name><surname>Colombel</surname><given-names>J.&#x02010;F.</given-names></name><xref ref-type="aff" rid="apt13387-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="apt13387-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">The Dr Henry D. Janowitz Division of Gastroenterology</named-content><institution>Icahn School of Medicine at Mount Sinai</institution><named-content content-type="city">New York</named-content><named-content content-type="country-part">NY</named-content><country country="US">USA</country></aff><aff id="apt13387-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Inflammatory Bowel Disease Center</named-content><named-content content-type="organisation-division">Division of Gastroenterology</named-content><institution>University of California San Diego</institution><named-content content-type="city">La Jolla</named-content><named-content content-type="country-part">CA</named-content><country country="US">USA</country></aff><aff id="apt13387-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Gastroenterology</named-content><institution>McMaster University</institution><named-content content-type="city">Hamilton</named-content><named-content content-type="country-part">ON</named-content><country country="CA">Canada</country></aff><aff id="apt13387-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Department of Gastroenterology and Hepatology</named-content><institution>Medical University of Vienna</institution><named-content content-type="city">Vienna</named-content><country country="AT">Austria</country></aff><aff id="apt13387-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Department of Gastroenterology</named-content><institution>Academic Medical Center</institution><named-content content-type="city">Amsterdam</named-content><country country="NL">The Netherlands</country></aff><aff id="apt13387-aff-0006"><label><sup>6</sup></label><institution>AbbVie Inc.</institution><named-content content-type="city">North Chicago</named-content><named-content content-type="country-part">IL</named-content><country country="US">USA</country></aff><aff id="apt13387-aff-0007"><label><sup>7</sup></label><institution>AbbVie Deutschland GmbH &#x00026; Co. KG</institution><named-content content-type="city">Ludwigshafen</named-content><country country="DE">Germany</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold><break/>
+Dr J.&#x02010;F. Colombel, Department of Medicine, The Dr Henry D. Janowitz Division of Gastroenterology, Icahn School of Medicine at Mount Sinai, One Gustave L. Levy Place, Box&#x000a0;1069, New York, NY 10029, USA.<break/>
+E&#x02010;mail: <email>jean-frederic.colombel@mssm.edu</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>03</day><month>9</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2015</year></pub-date><volume>42</volume><issue>9</issue><issue-id pub-id-type="doi">10.1111/apt.2015.42.issue-9</issue-id><fpage>1082</fpage><lpage>1092</lpage><history><date date-type="received"><day>20</day><month>4</month><year>2015</year></date><date date-type="rev-recd"><day>24</day><month>5</month><year>2015</year></date><date date-type="rev-recd"><day>28</day><month>7</month><year>2015</year></date><date date-type="accepted"><day>10</day><month>8</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2015 John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>Alimentary Pharmacology &#x00026; Therapeutics</italic> published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:APT-42-1082.pdf"/><abstract id="apt13387-abs-0001"><title>Summary</title><sec id="apt13387-sec-0001"><title>Background</title><p>Associations between patient&#x02010;reported outcomes and mucosal healing have not been established in ulcerative colitis (<styled-content style="fixed-case">UC</styled-content>).</p></sec><sec id="apt13387-sec-0002"><title>Aim</title><p>To evaluate relationships of rectal bleeding and stool frequency with mucosal healing and quality of life (QoL) in patients with <styled-content style="fixed-case">UC</styled-content> in two Phase 3 studies (<styled-content style="fixed-case">ULTRA</styled-content> 1 and 2).</p></sec><sec id="apt13387-sec-0003"><title>Methods</title><p>Associations of patient&#x02010;reported rectal bleeding and stool frequency subscores with mucosal healing (Mayo endoscopy subscore&#x000a0;=&#x000a0;0 or 0/1) and QoL [inflammatory bowel disease questionnaire (<styled-content style="fixed-case">IBDQ</styled-content>)] were assessed in adalimumab&#x02010;randomised patients (160/80&#x000a0;mg at Weeks 0/2 followed by 40&#x000a0;mg biweekly or weekly) at Weeks 8 (<italic>n</italic>&#x000a0;=&#x000a0;433) and 52 (<italic>n</italic>&#x000a0;=&#x000a0;299), and in patients with mucosal healing [endoscopy subscore&#x000a0;=&#x000a0;0 (<italic>n</italic>&#x000a0;=&#x000a0;17); 0/1 (<italic>n</italic>&#x000a0;=&#x000a0;52)] at Weeks 8 and 52.</p></sec><sec id="apt13387-sec-0004"><title>Results</title><p>At Week 8, the positive predictive values (<styled-content style="fixed-case">PPV</styled-content>s) of rectal bleeding subscore&#x000a0;=&#x000a0;0, stool frequency subscore&#x000a0;=&#x000a0;0 or both scores&#x000a0;=&#x000a0;0 for endoscopy subscore&#x000a0;=&#x000a0;0/1 were 69%, 84% and 90% respectively; all proportions increased at Week 52. Equivalent <styled-content style="fixed-case">PPV</styled-content>s for these subscores in patients with endoscopy subscore&#x000a0;=&#x000a0;0 were 26%, 37% and 46% respectively. Among patients with endoscopy subscore&#x000a0;=&#x000a0;0 at Week 8, 87% reported no rectal bleeding, while only 29% reported normal stool frequency; these proportions had increased to 94% and 41% respectively, at Week 52. Among patients with mucosal healing, <styled-content style="fixed-case">IBDQ</styled-content> scores trended highest for patients with both rectal bleeding and stool frequency subscores&#x000a0;=&#x000a0;0.</p></sec><sec id="apt13387-sec-0005"><title>Conclusions</title><p>Absence of rectal bleeding and normal stool frequency are often predictive of mucosal healing and QoL, but complete normalisation of stool frequency is encountered rarely in patients with mucosal healing.</p></sec></abstract><funding-group><award-group><funding-source>AbbVie Inc.</funding-source></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>apt13387</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:04.10.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group id="apt13387-ntgp-0001"><fn id="apt13387-note-0001"><p>
+<italic>This article was accepted for publication after full peer&#x02010;review</italic>.</p></fn></fn-group></notes></front><body><sec id="apt13387-sec-0006"><title>Introduction</title><p>Ulcerative colitis (UC) is characterised by symptoms of increased stool frequency and rectal bleeding. Until recently, medical therapy in UC focused on alleviating symptoms and improving quality of life (QoL). As this approach only marginally improves the unfavourable disease course of UC, new therapeutic goals and strategies have emerged.<xref rid="apt13387-bib-0001" ref-type="ref">1</xref>, <xref rid="apt13387-bib-0002" ref-type="ref">2</xref>, <xref rid="apt13387-bib-0003" ref-type="ref">3</xref> Mucosal (endoscopic) healing as a treatment target has received increasing attention after studies demonstrated its association with improved long&#x02010;term clinical outcomes and reduced risk of colectomy.<xref rid="apt13387-bib-0004" ref-type="ref">4</xref>, <xref rid="apt13387-bib-0005" ref-type="ref">5</xref>, <xref rid="apt13387-bib-0006" ref-type="ref">6</xref>, <xref rid="apt13387-bib-0007" ref-type="ref">7</xref> Algorithms for adjustment of treatment based on endoscopic disease activity to reach the target of mucosal healing have been proposed,<xref rid="apt13387-bib-0001" ref-type="ref">1</xref>, <xref rid="apt13387-bib-0008" ref-type="ref">8</xref>, <xref rid="apt13387-bib-0009" ref-type="ref">9</xref> and recent pilot data have demonstrated its feasibility in clinical practice.<xref rid="apt13387-bib-0010" ref-type="ref">10</xref>
+</p><p>The association between patient&#x02010;reported outcomes and mucosal healing has not been established in UC. Clinical symptoms may serve as measures of response to treatment, but may not necessarily reflect mucosal healing status. Endoscopy, albeit invasive, is the gold standard for mucosal assessment; however, it is important to know if it is possible to predict mucosal healing from clinical symptoms, thereby avoiding endoscopy. Furthermore, it is important to know if persistent symptoms in the presence of mucosal healing influence health&#x02010;related QoL.</p><p>The efficacy and safety of adalimumab for induction and maintenance of remission, response and mucosal healing in adults with moderate to severe UC was demonstrated in the Phase III randomised, double&#x02010;blind placebo&#x02010;controlled trials Ulcerative Colitis Long&#x02010;Term Remission and Maintenance with Adalimumab (ULTRA) 1<xref rid="apt13387-bib-0011" ref-type="ref">11</xref>, <xref rid="apt13387-bib-0012" ref-type="ref">12</xref> and ULTRA 2<xref rid="apt13387-bib-0013" ref-type="ref">13</xref>, <xref rid="apt13387-bib-0014" ref-type="ref">14</xref> (<ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</ext-link> numbers NCT00385736 and NCT00408629). This <italic>post hoc</italic> analysis evaluated the association of the two patient&#x02010;reported components of the Mayo score (rectal bleeding subscore and stool frequency subscore) with mucosal healing defined using endoscopy subscores (endoscopy subscore&#x000a0;=&#x000a0;0 and endoscopy subscore&#x000a0;=&#x000a0;0/1), in patients enrolled in ULTRA 1 and ULTRA 2.</p></sec><sec id="apt13387-sec-0007"><title>Methods</title><sec id="apt13387-sec-0008"><title>Study design and patients</title><p>Study designs and patient dispositions in ULTRA 1 and ULTRA 2 have previously been published.<xref rid="apt13387-bib-0011" ref-type="ref">11</xref>, <xref rid="apt13387-bib-0012" ref-type="ref">12</xref>, <xref rid="apt13387-bib-0013" ref-type="ref">13</xref>, <xref rid="apt13387-bib-0014" ref-type="ref">14</xref> Briefly, both 52&#x02010;week Phase III studies enrolled adults with UC and a Mayo score of 6&#x02013;12, with endoscopy subscore &#x02265;2, despite concurrent or prior treatment with corticosteroids and/or immunosuppressants. Patients with previous exposure to anti&#x02010;tumour necrosis factor (TNF) therapy were eligible for ULTRA 2.</p><p>ULTRA 1 had an 8&#x02010; or 12&#x02010;week double&#x02010;blind phase (depending on the protocol version) in which patients were randomised to receive placebo or one of two induction regimens: adalimumab 160&#x000a0;mg and 80&#x000a0;mg (160/80&#x000a0;mg) at Weeks 0/2; or adalimumab 80/40&#x000a0;mg at Weeks 0/2, followed by 40&#x000a0;mg every other week (eow). Following the double&#x02010;blind phase, all patients received open&#x02010;label adalimumab 40&#x000a0;mg eow. During the open&#x02010;label phase, patients with inadequate response could escalate to adalimumab 40&#x000a0;mg weekly. In ULTRA 2, patients were randomised to double&#x02010;blinded placebo or adalimumab 160/80&#x000a0;mg at Weeks 0/2 followed by 40&#x000a0;mg adalimumab eow to Week 50. Patients with inadequate response could move to open&#x02010;label adalimumab at or after Week 12, and could escalate to weekly adalimumab for continued or repeated inadequate response. Endoscopy was performed at Weeks 8 and 52 in ULTRA 1 and ULTRA 2.</p><p>The protocols for ULTRA 1 and ULTRA 2 were approved by institutional review boards in all study centres and sites.</p></sec><sec id="apt13387-sec-0009"><title>End points and statistical methods</title><p>The association of rectal bleeding and stool frequency subscores with mucosal healing (using 2 definitions: endoscopy subscore&#x000a0;=&#x000a0;0; and endoscopy subscore&#x000a0;=&#x000a0;0/1) was assessed at Weeks 8 and 52 in patients randomised to the approved induction dose of adalimumab (160/80&#x000a0;mg) in ULTRA 1 or ULTRA 2 who had rectal bleeding and stool frequency data available at those time points. The definition of mucosal healing according to endoscopy subscore&#x000a0;=&#x000a0;0/1 represents lack of mucosal ulcers and was the definition used in the ULTRA trials. As endoscopy subscore&#x000a0;=&#x000a0;1 represents mild inflammation, which may influence symptoms, the additional definition of mucosal healing using endoscopy subscore&#x000a0;=&#x000a0;0 was also examined. Patients with missing endoscopy subscores were considered not to have mucosal healing by either definition at the respective time point. Rectal bleeding and stool frequency subscores were assigned using the worst values from patient diaries for the 3&#x000a0;days prior to each study visit (Table&#x000a0;S1).</p><p>The positive predictive value (PPV), negative predictive value (NPV), sensitivity and specificity of rectal bleeding and stool frequency subscores for each definition of mucosal healing were calculated separately for rectal bleeding subscore&#x000a0;=&#x000a0;0, stool frequency subscore&#x000a0;=&#x000a0;0, the combination of both rectal bleeding and stool frequency subscores&#x000a0;=&#x000a0;0 and either rectal bleeding or stool frequency subscore&#x000a0;=&#x000a0;0 (Figure&#x000a0;<xref rid="apt13387-fig-0001" ref-type="fig">1</xref>).<xref rid="apt13387-bib-0015" ref-type="ref">15</xref> As a sensitivity analysis, the same calculations were completed for rectal bleeding subscore&#x000a0;=&#x000a0;0/1 and stool frequency subscore&#x000a0;=&#x000a0;0/1.</p><fig fig-type="Figure" xml:lang="en" id="apt13387-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Calculation of positive predictive value and negative predictive value of rectal bleeding and stool frequency for mucosal healing at Weeks 8 and 52 in patients randomised to adalimumab 160/80&#x000a0;mg. The positive predictive value and negative predictive value of rectal bleeding and stool frequency for mucosal healing were calculated separately for rectal bleeding subscore&#x000a0;=&#x000a0;0, stool frequency subscore&#x000a0;=&#x000a0;0, the combination of both rectal bleeding subscore&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0 and either rectal bleeding or stool frequency subscore&#x000a0;=&#x000a0;0. Adapted from Ref. <xref rid="apt13387-bib-0015" ref-type="ref">15</xref>. MH, mucosal healing; NPV, negative predictive value; PPV, positive predictive value; RBS, rectal bleeding subscore; SFS, stool frequency subscore.</p></caption><graphic id="nlm-graphic-1" xlink:href="APT-42-1082-g001"/></fig><p>To evaluate if resolution of rectal bleeding or elevated stool frequency lagged endoscopic healing, frequencies of different values of rectal bleeding and stool frequency subscores at Weeks 8 and 52 were evaluated in the subset of patients from ULTRA 2 with early and sustained mucosal healing (endoscopy subscore&#x000a0;=&#x000a0;0 or endoscopy subscore&#x000a0;=&#x000a0;0/1 at Weeks 8, 32 and 52).</p><p>The impact of clinical symptoms in patients with mucosal healing on QoL was evaluated at Weeks 8 and 52 using the inflammatory bowel disease questionnaire (IBDQ).<xref rid="apt13387-bib-0016" ref-type="ref">16</xref> IBDQ scores range from 32 to 224, with higher scores reflecting better QoL; IBDQ remission is defined as a score of &#x02265;170.</p></sec></sec><sec id="apt13387-sec-0010"><title>Results</title><sec id="apt13387-sec-0011"><title>Frequency distributions of mucosal healing, rectal bleeding and stool frequency at Weeks 8 and 52</title><p>A total of 470 patients in ULTRA 1 and ULTRA 2 were randomised to adalimumab 160/80&#x000a0;mg and received &#x02265;1&#x000a0;dose. Table&#x000a0;S2 presents baseline demographics and disease characteristics.</p><p>Rectal bleeding and stool frequency subscores were available for 433 and 299 patients at Weeks 8 and 52 respectively. At Week 8, a total of 63/433 (15%) patients had endoscopy subscore&#x000a0;=&#x000a0;0 and 200/433 (46%) patients had endoscopy subscore&#x000a0;=&#x000a0;0/1. At Week 52, the corresponding number of patients with endoscopy subscore&#x000a0;=&#x000a0;0 and =&#x000a0;0/1 were 96/299 (32%) and 203/299 (68%) respectively. The frequencies of rectal bleeding and stool frequency subscores by each value of endoscopy subscore are shown in Figures&#x000a0;<xref rid="apt13387-fig-0002" ref-type="fig">2</xref> and S1. More patients with endoscopy subscore&#x000a0;=&#x000a0;0 or =&#x000a0;0/1 had rectal bleeding subscores of 0/1 than stool frequency subscores of 0/1 at each time point. Among patients with endoscopy subscore&#x000a0;=&#x000a0;0 at Week 8, 87% reported no rectal bleeding (subscore&#x000a0;=&#x000a0;0), while only 29% reported stool frequency subscore&#x000a0;=&#x000a0;0; these proportions had increased to 94% and 41%, respectively, by Week 52.</p><fig fig-type="Figure" xml:lang="en" id="apt13387-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Proportion of patients randomised to adalimumab 160/80&#x000a0;mg with (a) rectal bleeding and (b) stool frequency subscores of 0, 1, 2 or 3 per each endoscopy subscore value at Week 8. ES, endoscopy subscore; RBS, rectal bleeding subscore; SFS, stool frequency subscore.</p></caption><graphic id="nlm-graphic-3" xlink:href="APT-42-1082-g002"/></fig><p>A moderate correlation between rectal bleeding subscore and endoscopy subscore was observed at Week 8 and at Week 52 [Spearman rank correlation (<italic>r</italic>)&#x000a0;=&#x000a0;0.48 for both time points]; and also between stool frequency subscore and endoscopy subscore (<italic>r&#x000a0;</italic>=<italic>&#x000a0;</italic>0.52 at Week 8 and <italic>r&#x000a0;</italic>=<italic>&#x000a0;</italic>0.51 at Week 52). Among patients with endoscopy subscore&#x000a0;=&#x000a0;2/3, approximately one&#x02010;quarter to one&#x02010;third had rectal bleeding subscore&#x000a0;=&#x000a0;0 at Weeks 8 and 52 (28% and 39% respectively), whereas few patients had stool frequency subscore&#x000a0;=&#x000a0;0 at Weeks 8 and 52 (4% and 5% respectively). Conversely, in patients with rectal bleeding subscore&#x000a0;=&#x000a0;2/3, few had endoscopy subscore&#x000a0;=&#x000a0;0 (6% and 0%) and endoscopy subscore&#x000a0;=&#x000a0;1 (8% and 6%) at Weeks 8 and 52. A greater proportion of patients with endoscopy subscore&#x000a0;=&#x000a0;0 (24%) or =&#x000a0;1 (38%) had stool frequency subscore&#x000a0;=&#x000a0;2/3 at Week 8. At Week 52, these percentages were 10% and 34% respectively.</p></sec><sec id="apt13387-sec-0012"><title>Rectal bleeding and stool frequency subscores as predictors of mucosal healing</title><sec id="apt13387-sec-0013"><title>Positive predictive value</title><p>For patients with a Mayo subscore&#x000a0;=&#x000a0;0 and endoscopy subscore&#x000a0;=&#x000a0;0/1, stool frequency subscore&#x000a0;=&#x000a0;0 had a greater PPV than rectal bleeding subscore&#x000a0;=&#x000a0;0 at Weeks 8 and 52. For endoscopy subscore&#x000a0;=&#x000a0;0/1, the PPV for stool frequency subscore&#x000a0;=&#x000a0;0 increased from Week 8 (84%) to Week 52 (91%), and the PPV for rectal bleeding subscore increased from 69% to 81% (Tables&#x000a0;<xref rid="apt13387-tbl-0001" ref-type="table-wrap">1</xref> and S3). Rectal bleeding subscore&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0 had much lower PPVs for endoscopy subscore&#x000a0;=&#x000a0;0 at Week 8 (26% and 37% respectively) and Week 52 (44% and 59% respectively) compared with endoscopy subscore&#x000a0;=&#x000a0;0/1 described above (Tables&#x000a0;<xref rid="apt13387-tbl-0001" ref-type="table-wrap">1</xref> and S3). The combination of both rectal bleeding subscore&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0 had a somewhat greater PPV than either measure alone for mucosal healing, i.e. there was a somewhat higher probability that mucosal healing was present when both subscores were 0 than for either subscore alone (up to 97% at Week 52); however, values of 0 for both patient&#x02010;reported outcomes was encountered rarely [in 39/433 (9%) of patients at Week 8 and in 59/299 (20%) patients at Week 52 (Table&#x000a0;S3)].</p><table-wrap id="apt13387-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Positive and negative predictive values and sensitivity and specificity of patient&#x02010;reported rectal bleeding and stool frequency for mucosal healing at Week 8 in patients randomised to adalimumab 160/80&#x000a0;mg with rectal bleeding and stool frequency values (<italic>N</italic>&#x000a0;=&#x000a0;433)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Subscore</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">PPV: % of patients with mucosal healing when Mayo PRO subscore&#x000a0;=&#x000a0;0</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">NPV: % of patients without mucosal healing when Mayo PRO subscore&#x000a0;&#x0003e;0</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Sensitivity: % of patients with Mayo PRO subscore&#x000a0;=&#x000a0;0 when mucosal healing is present</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Specificity: % of patients with Mayo PRO subscore&#x000a0;&#x0003e;0 when mucosal healing is not present</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;=&#x000a0;0</th><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;=&#x000a0;0/1</th><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;&#x0003e;&#x000a0;0</th><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;&#x0003e;1</th><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;=&#x000a0;0</th><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;=&#x000a0;0/1</th><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;&#x0003e;0</th><th align="left" valign="top" rowspan="1" colspan="1">Endoscopy subscore&#x000a0;&#x0003e;1</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Rectal bleeding subscore (value&#x000a0;=&#x000a0;0 in <italic>n</italic>&#x000a0;=&#x000a0;208)</td><td align="left" rowspan="1" colspan="1">26.4 (20.6&#x02013;33.0)</td><td align="left" rowspan="1" colspan="1">69.2 (62.5&#x02013;75.4)</td><td align="left" rowspan="1" colspan="1">96.4 (93.1&#x02013;98.4)</td><td align="left" rowspan="1" colspan="1">75.1 (68.9&#x02013;80.6)</td><td align="left" rowspan="1" colspan="1">87.3 (76.5&#x02013;94.3)</td><td align="left" rowspan="1" colspan="1">72.0 (65.2&#x02013;78.1)</td><td align="left" rowspan="1" colspan="1">58.6 (53.4&#x02013;63.7)</td><td align="left" rowspan="1" colspan="1">72.5 (66.3&#x02013;78.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Stool frequency subscore (value&#x000a0;=&#x000a0;0 in <italic>n</italic>&#x000a0;=&#x000a0;49)</td><td align="left" rowspan="1" colspan="1">36.7 (23.4&#x02013;51.7)</td><td align="left" rowspan="1" colspan="1">83.7 (70.3&#x02013;92.7)</td><td align="left" rowspan="1" colspan="1">88.3 (84.6&#x02013;91.3)</td><td align="left" rowspan="1" colspan="1">58.6 (53.5&#x02013;63.6)</td><td align="left" rowspan="1" colspan="1">28.6 (17.9&#x02013;41.4)</td><td align="left" rowspan="1" colspan="1">20.5 (15.1&#x02013;26.8)</td><td align="left" rowspan="1" colspan="1">91.6 (88.3&#x02013;94.2)</td><td align="left" rowspan="1" colspan="1">96.6 (93.3&#x02013;98.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Rectal bleeding subscore and stool frequency subscore (both values&#x000a0;=&#x000a0;0 in <italic>n</italic>&#x000a0;=&#x000a0;39)</td><td align="left" rowspan="1" colspan="1">46.2 (30.1&#x02013;62.8)</td><td align="left" rowspan="1" colspan="1">89.7 (75.8&#x02013;97.1)</td><td align="left" rowspan="1" colspan="1">88.6 (85.0&#x02013;91.6)</td><td align="left" rowspan="1" colspan="1">58.1 (53.1&#x02013;63.0)</td><td align="left" rowspan="1" colspan="1">28.6 (17.9&#x02013;41.4)</td><td align="left" rowspan="1" colspan="1">17.5 (12.5&#x02013;23.5)</td><td align="left" rowspan="1" colspan="1">94.3 (91.4&#x02013;96.4)</td><td align="left" rowspan="1" colspan="1">98.3 (95.7&#x02013;99.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Either rectal bleeding subscore or stool frequency subscore (either value&#x000a0;=&#x000a0;0 in <italic>n</italic>&#x000a0;=&#x000a0;218)</td><td align="left" rowspan="1" colspan="1">25.2 (19.6&#x02013;31.5)</td><td align="left" rowspan="1" colspan="1">68.8 (62.0&#x02013;74.9)</td><td align="left" rowspan="1" colspan="1">96.3 (92.8&#x02013;98.4)</td><td align="left" rowspan="1" colspan="1">76.7 (70.5&#x02013;82.2)</td><td align="left" rowspan="1" colspan="1">87.3 (76.5&#x02013;94.3)</td><td align="left" rowspan="1" colspan="1">75.0 (68.4&#x02013;80.8)</td><td align="left" rowspan="1" colspan="1">56.0 (50.7&#x02013;61.1)</td><td align="left" rowspan="1" colspan="1">70.8 (64.5&#x02013;76.6)</td></tr></tbody></table><table-wrap-foot><fn id="apt13387-note-0002"><p>CI, confidence interval; NPV, negative predictive value; PPV, positive predictive value.</p></fn><fn id="apt13387-note-0003"><p>All values are % (95% CI).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="apt13387-sec-0014"><title>Negative predictive value</title><p>When stool frequency subscore &#x0003e;0, mucosal healing by either endoscopy subscore definition was unlikely, especially at Week 8. This was also true when rectal bleeding subscore &#x0003e;0. Rectal bleeding subscore &#x0003e;0 correctly dismissed endoscopy subscore&#x000a0;=&#x000a0;0 in &#x0003e;90% of patients at both time points; the corresponding value for stool frequency subscore &#x0003e;0 was &#x0003e;75% at both time points. NPV for both subscores was lower for endoscopy subscore&#x000a0;=&#x000a0;0/1, although NPV for rectal bleeding was greater than for stool frequency at both time points. NPV of the combination of both rectal bleeding&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0 was similar to that of stool frequency subscore&#x000a0;=&#x000a0;0.</p></sec><sec id="apt13387-sec-0015"><title>Sensitivity</title><p>At Week 8, rectal bleeding was absent in most patients with mucosal healing: the sensitivity for rectal bleeding subscore&#x000a0;=&#x000a0;0 was 87% for endoscopy subscore&#x000a0;=&#x000a0;0, and 72% for endoscopy subscore&#x000a0;=&#x000a0;0/1 (Table&#x000a0;<xref rid="apt13387-tbl-0001" ref-type="table-wrap">1</xref>). Both values increased at Week 52 (Table&#x000a0;S4). In contrast, very few patients with mucosal healing had normal stool frequency (i.e. stool frequency subscore&#x000a0;=&#x000a0;0) at either time point. Although more patients with endoscopy subscore&#x000a0;=&#x000a0;0 had stool frequency subscore&#x000a0;=&#x000a0;0 (29%) than those with endoscopy subscore&#x000a0;=&#x000a0;0/1 (21%) at Week 8, at Week 52 nearly 60% of patients with endoscopy subscore&#x000a0;=&#x000a0;0 had elevated stool frequency. The sensitivity of the combination of both rectal bleeding subscore&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0 was similar to that of stool frequency subscore&#x000a0;=&#x000a0;0, indicating that few patients with mucosal healing had what the patient considered to be normal stool frequency.</p></sec><sec id="apt13387-sec-0016"><title>Specificity</title><p>At Week 8, when mucosal healing (endoscopy subscore&#x000a0;=&#x000a0;0/1) was not present, both rectal bleeding subscore and stool frequency subscore were &#x0003e;0 in most patients (&#x0003e;59%), with specificity of stool frequency subscore approaching 100%, i.e. neither symptom subscore was normal in most patients without mucosal healing (Table&#x000a0;<xref rid="apt13387-tbl-0001" ref-type="table-wrap">1</xref>). For both symptom subscores, specificity for endoscopy subscore&#x000a0;=&#x000a0;0 was lower than for endoscopy subscore&#x000a0;=&#x000a0;0/1 (i.e. rectal bleeding or stool frequency subscores were less likely to be &#x0003e;0); specificity was as low as 43% for rectal bleeding subscore at Week 52, but remained ~90% at both time points for stool frequency subscore (Table&#x000a0;S3). Specificity of the combination of both symptom subscores &#x0003e;0 was slightly higher than that of stool frequency subscore &#x0003e;0, because more patients without mucosal healing had stool frequency subscore &#x0003e;0 than rectal bleeding subscore &#x0003e;0.</p></sec></sec><sec id="apt13387-sec-0017"><title>Relationships of rectal bleeding and stool frequency with mucosal healing over time</title><p>Among patients enrolled in ULTRA 2 randomised to adalimumab 160/80&#x000a0;mg with endoscopic subscores available at Weeks 8, 32 and 52 (<italic>N</italic>&#x000a0;=&#x000a0;145), 17/145 (12%) had endoscopy subscore&#x000a0;=&#x000a0;0 and 56/145 patients (39%) had endoscopy subscore&#x000a0;=&#x000a0;0/1 at all three time points.</p><p>For patients with sustained endoscopy subscore&#x000a0;=&#x000a0;0 (indicating early and persistent mucosal healing) and subscore&#x000a0;=&#x000a0;0/1, the proportion with rectal bleeding&#x000a0;=&#x000a0;0 increased from Week 8 to 52 (from 88% to 100% for endoscopy subscore&#x000a0;=&#x000a0;0 and from 80% to 89% for endoscopy subscore&#x000a0;=&#x000a0;0/1). However, the proportion with stool frequency subscore&#x000a0;=&#x000a0;0 increased only from 41% to 47% from Week 8 to Week 52 for endoscopy subscore&#x000a0;=&#x000a0;0 and from 29% to 34% for endoscopy subscore&#x000a0;=&#x000a0;0/1, indicating persistently increased stool frequency compared to normal even in the case of long&#x02010;standing mucosal healing.</p></sec><sec id="apt13387-sec-0018"><title>Relationships of rectal bleeding, stool frequency and mucosal healing with QoL</title><p>The mean IBDQ score trended highest in patients with both rectal bleeding subscore&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0 and lowest in patients with both rectal bleeding subscore&#x000a0;&#x0003e;0 and stool frequency subscore&#x000a0;&#x0003e;0, indicating an association between symptom relief and increased QoL (Tables&#x000a0;<xref rid="apt13387-tbl-0002" ref-type="table-wrap">2</xref> and S4). The proportion of patients with IBDQ remission was highest among patients with both stool frequency subscore&#x000a0;=&#x000a0;0 and rectal bleeding subscore&#x000a0;=&#x000a0;0.</p><table-wrap id="apt13387-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Quality of life as measured by mean inflammatory bowel disease questionnaire scores among patients with mucosal healing, categorised by stool frequency and rectal bleeding levels of 0 or &#x0003e;0, at Week 8</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Rectal bleeding/stool frequency subscore category</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Endoscopy subscore&#x000a0;=&#x000a0;0 (<italic>N</italic>&#x000a0;=&#x000a0;63)</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Endoscopy subscore&#x000a0;=&#x000a0;0/1 (<italic>N</italic>&#x000a0;=&#x000a0;192)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Mean IBDQ score</th><th align="left" valign="top" rowspan="1" colspan="1">Patients with IBDQ score &#x02265;170<italic> n</italic> (%)</th><th align="left" valign="top" rowspan="1" colspan="1">Mean IBDQ score</th><th align="left" valign="top" rowspan="1" colspan="1">Patients with IBDQ score &#x02265;170<italic> n</italic> (%)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Rectal bleeding subscore&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0</td><td align="left" rowspan="1" colspan="1">186.3 (<italic>N</italic>&#x000a0;=&#x000a0;18)</td><td align="left" rowspan="1" colspan="1">15 (83.3)</td><td align="left" rowspan="1" colspan="1">190.6 (<italic>N</italic>&#x000a0;=&#x000a0;35)</td><td align="left" rowspan="1" colspan="1">30 (85.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+Rectal bleeding subscore&#x000a0;&#x0003e;0 and<break/>
+stool frequency subscore&#x000a0;=&#x000a0;0
+</td><td align="left" rowspan="1" colspan="1">NA<xref ref-type="fn" rid="apt13387-note-0005">a</xref>
+</td><td align="left" rowspan="1" colspan="1"> 0</td><td align="left" rowspan="1" colspan="1">170.3 (<italic>N</italic>&#x000a0;=&#x000a0;6)</td><td align="left" rowspan="1" colspan="1"> 4 (66.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Rectal bleeding subscore&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;&#x0003e;0</td><td align="left" rowspan="1" colspan="1">185.1 (<italic>N</italic>&#x000a0;=&#x000a0;37)</td><td align="left" rowspan="1" colspan="1">29 (78.4)</td><td align="left" rowspan="1" colspan="1">181.2 (<italic>N</italic>&#x000a0;=&#x000a0;102)</td><td align="left" rowspan="1" colspan="1">73 (71.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Rectal bleeding subscore&#x000a0;&#x0003e;0 and stool frequency subscore&#x000a0;&#x0003e;0</td><td align="left" rowspan="1" colspan="1">154.9 (<italic>N</italic>&#x000a0;=&#x000a0;8)</td><td align="left" rowspan="1" colspan="1"> 3 (37.5)</td><td align="left" rowspan="1" colspan="1">160.4 (<italic>N</italic>&#x000a0;=&#x000a0;49)</td><td align="left" rowspan="1" colspan="1">21 (42.9)</td></tr></tbody></table><table-wrap-foot><fn id="apt13387-note-0004"><p>IBDQ, inflammatory bowel disease questionnaire; <italic>n</italic>, number of patients with mucosal healing in the stool frequency/rectal bleeding category who reported an IBDQ score at a given time point; <italic>N</italic>, number of patients with mucosal healing and an IBDQ score at a given time point; NA, not applicable.</p></fn><fn id="apt13387-note-0005"><label>a</label><p>Among patients with IBDQ scores, no patients with rectal bleeding subscore&#x000a0;&#x0003e;0 and stool frequency subscore&#x000a0;=&#x000a0;0 had endoscopy subscore&#x000a0;=&#x000a0;0.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec id="apt13387-sec-0019"><title>Discussion</title><p>We evaluated the associations between patient&#x02010;reported outcomes and mucosal healing in patients with moderate to severe UC treated with adalimumab. Rectal bleeding and stool frequency differed in their association with mucosal healing at each time point. The rectal bleeding subscore was frequently associated with absence of colonic ulcers, whereas stool frequency often remained elevated in the presence of mucosal healing, even in the case of endoscopy score&#x000a0;=&#x000a0;0, and even in patients with early and sustained mucosal healing. These are important clinical results, especially because the paradigm of UC treatment is evolving from mere control of symptoms towards achievement of mucosal healing.<xref rid="apt13387-bib-0001" ref-type="ref">1</xref>, <xref rid="apt13387-bib-0003" ref-type="ref">3</xref>, <xref rid="apt13387-bib-0010" ref-type="ref">10</xref>
+</p><p>In clinical trials, endoscopy subscore&#x000a0;=&#x000a0;0/1 has often been used to define endoscopic healing, as this definition identifies patients with no ulcers/erosions. As endoscopy subscore&#x000a0;=&#x000a0;1 does indicate residual inflammation, we also evaluated relationships between symptoms and endoscopy subscore&#x000a0;=&#x000a0;0. In a <italic>post hoc</italic> analysis of the infliximab ACT 1/2 trials, endoscopy subscore&#x000a0;=&#x000a0;0 at Week 8 was associated with greater rates of symptom relief at Weeks 30 and 54 compared with endoscopy subscore&#x000a0;=&#x000a0;1. Patients with endoscopy subscore&#x000a0;=&#x000a0;0/1 at Week 8 had a significantly lower risk of colectomy over the next year, compared with patients with endoscopy subscore&#x000a0;=&#x000a0;2/3 (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.0004).<xref rid="apt13387-bib-0004" ref-type="ref">4</xref> However, an analysis of the ULTRA trials found that both rectal bleeding and stool frequency at Week 8 were significantly correlated with risk of future hospitalisations, whereas endoscopy subscore was not.<xref rid="apt13387-bib-0017" ref-type="ref">17</xref> In the present analysis, the presence of rectal bleeding was associated with absence of mucosal healing by either definition most of the time, although PPV of rectal bleeding for endoscopy subscore&#x000a0;=&#x000a0;0 was low. It is currently unknown if treatment escalation to achieve endoscopy subscore&#x000a0;=&#x000a0;0 in patients with endoscopy score&#x000a0;=&#x000a0;1 would improve long&#x02010;term outcomes.</p><p>Our results are also relevant regarding the evolution of end points in clinical trials for UC. These data suggest that a composite end point of no rectal bleeding, completely normalised stool frequency and healing may be overly stringent and underestimate the potential utility of treatments.</p><p>Several explanations may account for the discrepancy between mucosal healing and stool frequency. Previous studies have demonstrated abnormal histological findings in a substantial proportion of patients with UC in clinical and endoscopic remission.<xref rid="apt13387-bib-0018" ref-type="ref">18</xref>, <xref rid="apt13387-bib-0019" ref-type="ref">19</xref>, <xref rid="apt13387-bib-0020" ref-type="ref">20</xref>, <xref rid="apt13387-bib-0021" ref-type="ref">21</xref> A recent study suggested that increased paracellular permeability due to&#x000a0;occult inflammation may cause irritable bowel syndrome (IBS)&#x02010;like symptoms in patients with quiescent inflammatory bowel disease.<xref rid="apt13387-bib-0022" ref-type="ref">22</xref> Chronic colonic inflammation may damage the enteric nervous system, leading to dysregulation of colonic smooth muscle activity.<xref rid="apt13387-bib-0023" ref-type="ref">23</xref>, <xref rid="apt13387-bib-0024" ref-type="ref">24</xref>, <xref rid="apt13387-bib-0025" ref-type="ref">25</xref> The presence and activation of mast cells proximate to neurons in the rectal mucosa may lead to rectal hypersensitivity and IBS&#x02010;like symptoms.<xref rid="apt13387-bib-0026" ref-type="ref">26</xref> Finally, changes in the length and calibre of the colon and rectum,<xref rid="apt13387-bib-0027" ref-type="ref">27</xref> which tend to be ignored at endoscopy, may be associated with anorectal dysmotility and symptoms such as urgency, tenesmus and incontinence.<xref rid="apt13387-bib-0028" ref-type="ref">28</xref>
+</p><p>Although the associations of symptom scores with endoscopy scores are relevant from a clinical perspective, they may have less relevance from the patients&#x02019; perspective. However, the association of symptom scores with QoL outcomes may be more reflective of patients&#x02019; experience. Among patients in our analysis with mucosal healing, QoL was highest for patients with rectal bleeding&#x000a0;=&#x000a0;0 and stool frequency subscore&#x000a0;=&#x000a0;0. In the presence of mucosal healing, persistence of an increased number of stools is frequently dismissed by the clinician, whereas it is a major source of distress for the patients. A recent international survey identified important differences between patients&#x02019; and health care providers&#x02019; perceptions of the impact of UC symptoms.<xref rid="apt13387-bib-0029" ref-type="ref">29</xref> Elevated stool frequency was observed in most patients in our analysis with mucosal healing (even endoscopy subscore&#x000a0;=&#x000a0;0), although the sensitivity of stool frequency subscore&#x000a0;=&#x000a0;0/1 approached that of rectal bleeding&#x000a0;=&#x000a0;0, indicating that the degree of elevation of stool frequency in many patients was 1&#x02013;2 excess stools/day. It is worth noting that discharge of mucus and blood, or tenesmus, which may be extremely distressing for the patient, is not taken into account in the calculation of stool frequency. Careful assessment of elevated stool frequency in the presence of mucosal healing may enable avoidance of unnecessary dose escalation or treatment intensification. In addition, assessment of stool form and nocturnal stools may help decision making. The use of patient&#x02010;reported outcomes as treatment goals warrants careful consideration. Treatment of patients with the aim to achieve absence of symptoms may result in over&#x02010;treatment, whereas assumption of mucosal healing in the absence of symptoms may cause under&#x02010;treatment of the patients. Additional research to identify effective and appropriate treatment options for patients with elevated stool frequency in the presence of endoscopically inactive mucosa is needed.</p><p>This study has several limitations. All patients had moderate to severe UC despite current or past conventional therapy with corticosteroids and/or thiopurines, and, in some cases, prior anti&#x02010;TNF therapy. Whether these results are generalisable to patients with milder disease, to patients who have not failed conventional therapy or to patients treated with other anti&#x02010;TNF agents or other drug classes is unknown. The difference in results observed between Week 8 and Week 52 may reflect selection bias for the Week 52 results, because patients with persistent symptoms would be expected to be more likely to prematurely discontinue study participation, regardless of mucosal healing status. The worst&#x02010;rank method to determine rectal bleeding and stool frequency in this study (whereby the worst patient&#x02010;reported score from the 3&#x000a0;days prior to the study visit was captured) may have led to inflated rectal bleeding and stool frequency values. Finally, the endoscopic evaluations in the ULTRA 1 and ULTRA 2 studies were done by the local investigators. In recent studies, up to 20&#x02013;30% of patients reported to have endoscopic evidence of active disease at study entry actually had inactive disease as judged by an endoscopic<xref rid="apt13387-bib-0030" ref-type="ref">30</xref> or histological<xref rid="apt13387-bib-0031" ref-type="ref">31</xref> central reader. Thus, the findings in this study should be confirmed in future studies in which central reading of endoscopy and/or histology is performed. Finally, endoscopic evaluation was performed using rectosigmoidoscopy and not full colonoscopy. Whether endoscopic assessment limited to the rectosigmoid adequately represents endoscopic activity of the more proximal colon is questionable.<xref rid="apt13387-bib-0032" ref-type="ref">32</xref> However, a recent study showed that, overall, rectosigmoidoscopy and colonoscopy were highly correlated in detecting endoscopic activity.<xref rid="apt13387-bib-0033" ref-type="ref">33</xref> For detection of endoscopic healing, defined as an endoscopy score of 0/1, colonoscopy detected persistent proximal lesions in few patients. When endoscopic healing was defined as an endoscopy score of 0, concordance between rectosigmoidoscopy and colonoscopy was close to perfect.<xref rid="apt13387-bib-0033" ref-type="ref">33</xref>
+</p><p>In conclusion, when considering patient&#x02010;reported outcomes in relation to mucosal healing, lack of rectal bleeding in combination with normal stool frequency are often associated with lack of ulcers per endoscopy, but assessments based on either symptom alone are less predictive of mucosal healing status. The absence of rectal bleeding was frequently encountered in patients with lack of mucosal ulcers (i.e. endoscopy subscore&#x000a0;=&#x000a0;0/1). Complete normalisation of stool frequency had high predictive value but was encountered rarely in patients with mucosal healing. The PPV for both rectal bleeding and stool frequency was lower for identifying endoscopy subscore&#x000a0;=&#x000a0;0. Targeting mucosal healing may be insufficient to resolve symptoms and improve QoL. In clinical studies, as well as in clinical practice, it may be difficult for a drug to enable a patient to concurrently achieve mucosal healing, no rectal bleeding and &#x02018;normal&#x02019; stool frequency due to the disconnect between stool frequency and either rectal bleeding or mucosal healing. One approach may be to use a 2&#x02010;item composite symptom score of rectal bleeding resolution and no worsening of stool frequency (2&#x02010;item Mayo score). The UC global score (visual analogue) may be an alternative approach encompassing other important symptoms such as pain, tenesmus and urgency.<xref rid="apt13387-bib-0034" ref-type="ref">34</xref> Further studies are needed to explore the relationship between mucosal healing and patient&#x02010;reported outcomes.</p></sec><sec id="apt13387-sec-0020"><title>Authorship</title><p>
+<italic>Guarantor of the article</italic>: Jean&#x02010;Fr&#x000e9;d&#x000e9;ric Colombel, MD.</p><p>
+<italic>Author contributions</italic>: All authors were involved in design of the analyses, interpretation of the data and critical review and revision of each draft of the manuscript. BJ prepared the initial draft of the manuscript.</p><p>All authors had access to relevant data, and approved the content of the manuscript for submission. The authors maintained control over the final content.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Figure&#x000a0;S1.</bold> Proportion of patients randomised to adalimumab 160/80 mg with (a) rectal bleeding and (b) stool frequency subscores of 0, 1, 2 or 3 per each endoscopy subscore value at Week 52. ES, endoscopy subscore; RBS, rectal bleeding subscore; SFS, stool frequency subscore.</p></caption><media xlink:href="APT-42-1082-s001.tif"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Mayo subscore definitions: rectal bleeding subscore; stool frequency subscore, endoscopy subscore.</p><p>
+<bold>Table&#x000a0;S2.</bold> Baseline characteristics: patients randomised to adalimumab 160/80&#x000a0;mg (<italic>N</italic>&#x000a0;=&#x000a0;470).</p><p>
+<bold>Table&#x000a0;S3.</bold> Positive and negative predictive values and sensitivity and specificity of patient&#x02010;reported rectal bleeding and stool frequency for mucosal healing at Week 52 in patients randomised to adalimumab 160/80&#x000a0;mg with rectal bleeding and stool frequency subscore values (<italic>N</italic>&#x000a0;=&#x000a0;299).</p><p>
+<bold>Table&#x000a0;S4.</bold> Quality of life as measured by mean inflammatory bowel disease questionnaire scores among patients with mucosal healing, categorised by stool frequency and rectal bleeding levels of 0 or &#x0003e;0, at Week 52.</p></caption><media xlink:href="APT-42-1082-s002.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="apt13387-sec-0021"><title>Acknowledgements</title><p>
+<italic>Declaration of personal interests:</italic> AbbVie Inc. funded the study, and participated in study design, data collection, data management, data analysis, review and approval of the manuscript, and provided editorial and writing support. BJ reports having received an educational grant from AbbVie. WJS reports having received consulting fees from AbbVie, ActoGeniX NV, AGI Therapeutics Inc, Alba Therapeutics Corporation, Albireo, Alfa Wasserman, Amgen, AM&#x02010;Pharma BV, Anaphore, Astellas, Athersys Inc, Atlantic Healthcare Limited, Aptalis, BioBalance Corporation, Boehringer Ingelheim Inc, Bristol&#x02010;Myers Squibb, Celgene, Celek Pharmaceuticals, Cellerix SL, Cerimon Pharmaceuticals, ChemoCentryx, CoMentis, Cosmo Technologies, Coronado Biosciences, Cytokine Pharmasciences, Eagle Pharmaceuticals, Eisai Medical Research Inc, Elan Pharmaceuticals, EnGene Inc, Eli Lilly, Enteromedics, Exagen Diagnostics Inc, Ferring Pharmaceuticals, Flexion Therapeutics Inc, Funxional Therapeutics Limited, Genzyme Corporation, Genentech, Gilead Sciences, Given Imaging, GlaxoSmithKline, Human Genome Sciences, Ironwood Pharmaceuticals, Janssen, KaloBios Pharmaceuticals Inc, Lexicon Pharmaceuticals, Lycera Corporation, Meda Pharmaceuticals, Merck Research Laboratories, MerckSerono, Merck &#x00026; Co., Millennium, Nisshin Kyorin Pharmaceutical Co., Ltd, Novo Nordisk A/S, NPS Pharmaceuticals, Optimer Pharmaceuticals, Orexigen Therapeutics Inc, PDL Biopharma, Pfizer Inc, Procter and Gamble Pharmaceuticals, Prometheus Laboratories, ProtAb Limited, Purgenesis Technologies Inc, Receptos, Relypsa Inc, Salient Pharmaceuticals, Salix Pharmaceuticals Inc, Santarus, Shire Pharmaceuticals, Sigmoid Pharma Limited, Sirtris Pharmaceuticals Inc (a GSK company), S.L.A. Pharma (UK) Limited, Targacept, Teva Pharmaceuticals, Therakos, Tillotts Pharma AG, TxCell SA, UCB Pharma, Viamet Pharmaceuticals, Vascular Biogenics Limited (VBL), Warner Chilcott UK Limited. He has received lecture fees from AbbVie, Bristol&#x02010;Myers Squibb and Janssen. Has received financial support for research from AbbVie, Bristol&#x02010;Myers Squibb, Genentech, GlaxoSmithKline, Janssen, Millennium, Novartis, Pfizer Inc, Procter and Gamble Pharmaceuticals, Shire Pharmaceuticals and UCB Pharma. WR reports having served as a speaker, a consultant and/or an advisory board member for AbbVie, Aesca, Amgen, Astellas, AstraZeneca, Biogen IDEC, Bristol&#x02010;Myers Squibb, Cellerix, Chemocentryx, Celgene, Janssen, Danone Austria, Elan, Ferring, Genentech, Gr&#x000fc;nenthal, Johnson &#x00026; Johnson, Kyowa Hakko Kirin Pharma, Lipid Therapeutics, Millennium, Mitsubishi Tanabe Pharma Corporation, Merck Sharp &#x00026; Dohme Corp., Novartis, Ocera, Otsuka, PDL Biopharma, Pharmacosmos, Pfizer Inc, Procter and Gamble Pharmaceuticals, Prometheus Laboratories, Robarts Clinical Trial, Schering&#x02010;Plough, SetPoint Medical, Shire Pharmaceuticals, Takeda, Therakos, Tigenix, UCB Pharma, Vifor, Yakult, Zyngenia Austria and 4SC. GD'H has received consulting and/or lecture fees from AbbVie, ActoGeniX, AIM, Boehringer Ingelheim GmbH, Centocor, Chemo Centryx, Cosmo Technologies, Elan Pharmaceuticals, Engene, Dr Falk Pharma, Ferring, Galapagos, Giuliani SpA, Given Imaging, GlaxoSmithKline, Jansen Biologics, MSD, Neovacs, Novo Nordisk, Otsuka, PDL Biopharma, Pfizer, Receptos, Salix, Setpoint, Shire Pharmaceuticals, Schering&#x02010;Plough, Takeda, Tillotts Pharma, UCB Pharma, Versant and Vifor Pharma. Has received research grants from AbbVie, Janssen, Given Imaging, Merck Sharp &#x00026; Dohme Corp., Dr Falk Pharma, and Photopill; and speaking honoraria from AbbVie, Tillotts, Tramedico, Ferring, MSD, UCB Pharma, Norgine and Shire. AMR, WW, BH, AL and RBT are AbbVie employees, may own AbbVie stock and/or options. J&#x02010;FC reports having served as consultant, advisory board member or speaker for AbbVie, Bristol&#x02010;Myers Squibb, Ferring, Genentech, Giuliani SPA, Given Imaging, Merck &#x00026; Co., Millennium Pharmaceuticals Inc, Pfizer Inc, Prometheus Laboratories, Sanofi, Schering&#x02010;Plough Corporation, Takeda, Teva Pharmaceuticals and UCB Pharma (previously named Celltech Therapeutics, Limited).</p><p>
+<italic>Declaration of funding interests:</italic> AbbVie Inc. funded the studies and the analyses. Vicki Schwartz, PhD, of Excerpta Medica, provided editorial assistance in the preparation of this manuscript, which was funded by AbbVie Inc.</p></ack><ref-list content-type="cited-references" id="apt13387-bibl-0001"><title>References</title><ref id="apt13387-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="apt13387-cit-0001">
+<string-name>
+<surname>Reinisch</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Van Assche</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Befrits</surname>
+<given-names>R</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Recommendations for the treatment of ulcerative colitis with infliximab: a gastroenterology expert group consensus</article-title>. <source>J Crohns Colitis</source>
+<year>2012</year>; <volume>6</volume>: <fpage>248</fpage>&#x02013;<lpage>58</lpage>.<pub-id pub-id-type="pmid">22325181</pub-id></mixed-citation></ref><ref id="apt13387-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="apt13387-cit-0002">
+<string-name>
+<surname>D'Haens</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Panaccione</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Higgins</surname>
+<given-names>PD</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>The London Position Statement of the World Congress of Gastroenterology on Biological Therapy for IBD with the European Crohn's and Colitis Organization: when to start, when to stop, which drug to choose, and how to predict response?</article-title>
+<source>Am J Gastroenterol</source>
+<year>2011</year>; <volume>106</volume>: <fpage>199</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">21045814</pub-id></mixed-citation></ref><ref id="apt13387-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="apt13387-cit-0003">
+<string-name>
+<surname>Lichtenstein</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Rutgeerts</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Importance of mucosal healing in ulcerative colitis</article-title>. <source>Inflamm Bowel Dis</source>
+<year>2010</year>; <volume>16</volume>: <fpage>338</fpage>&#x02013;<lpage>46</lpage>.<pub-id pub-id-type="pmid">19637362</pub-id></mixed-citation></ref><ref id="apt13387-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="apt13387-cit-0004">
+<string-name>
+<surname>Colombel</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Rutgeerts</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Reinisch</surname>
+<given-names>W</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Early mucosal healing with infliximab is associated with improved long&#x02010;term clinical outcomes in ulcerative colitis</article-title>. <source>Gastroenterology</source>
+<year>2011</year>; <volume>141</volume>: <fpage>1194</fpage>&#x02013;<lpage>201</lpage>.<pub-id pub-id-type="pmid">21723220</pub-id></mixed-citation></ref><ref id="apt13387-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="apt13387-cit-0005">
+<string-name>
+<surname>Laharie</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Filippi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Roblin</surname>
+<given-names>X</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Impact of mucosal healing on long&#x02010;term outcomes in ulcerative colitis treated with infliximab: a multicenter experience</article-title>. <source>Aliment Pharmacol Ther</source>
+<year>2013</year>; <volume>37</volume>: <fpage>998</fpage>&#x02013;<lpage>1004</lpage>.<pub-id pub-id-type="pmid">23521659</pub-id></mixed-citation></ref><ref id="apt13387-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="apt13387-cit-0006">
+<string-name>
+<surname>Miyoshi</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Matsuoka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Inoue</surname>
+<given-names>N</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Mucosal healing with oral tacrolimus is associated with favorable medium&#x02010; and long&#x02010;term prognosis in steroid&#x02010;refractory/dependent ulcerative colitis patients</article-title>. <source>J Crohns Colitis</source>
+<year>2013</year>; <volume>7</volume>: <fpage>e609</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">23680174</pub-id></mixed-citation></ref><ref id="apt13387-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="apt13387-cit-0007">
+<string-name>
+<surname>Ardizzone</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Cassinotti</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Duca</surname>
+<given-names>P</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Mucosal healing predicts late outcomes after the first course of corticosteroids for newly diagnosed ulcerative colitis</article-title>. <source>Clin Gastroenterol Hepatol</source>
+<year>2011</year>; <volume>9</volume>: <fpage>483</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">21195796</pub-id></mixed-citation></ref><ref id="apt13387-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="apt13387-cit-0008">
+<string-name>
+<surname>Dignass</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Lindsay</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name>
+<surname>Sturm</surname>
+<given-names>A</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Second European evidence&#x02010;based consensus on the diagnosis and management of ulcerative colitis part 2: current management</article-title>. <source>J Crohns Colitis</source>
+<year>2012</year>; <volume>6</volume>: <fpage>991</fpage>&#x02013;<lpage>1030</lpage>.<pub-id pub-id-type="pmid">23040451</pub-id></mixed-citation></ref><ref id="apt13387-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="apt13387-cit-0009">
+<string-name>
+<surname>Gomoll&#x000f3;n</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Garc&#x000ed;a&#x02010;L&#x000f3;pez</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Sicilia</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gisbert</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Hinojosa</surname>
+<given-names>J</given-names>
+</string-name>; <collab collab-type="authors">Grupo Espa&#x000f1;ol de Trabajo en Enfermedad de Crohn y Colitis Ulcerosa</collab>
+. <article-title>Therapeutic guidelines on ulcerative colitis: a GRADE methodology based effort of GETECCU</article-title>. <source>Gastroenterol Hepatol</source>
+<year>2013</year>; <volume>36</volume>: <fpage>104</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">23332546</pub-id></mixed-citation></ref><ref id="apt13387-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="apt13387-cit-0010">
+<string-name>
+<surname>Bouguen</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Levesque</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Pola</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Evan</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Sanborn</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Feasibility of endoscopic assessment and treating to target to achieve mucosal healing in ulcerative colitis</article-title>. <source>Inflamm Bowel Dis</source>
+<year>2014</year>; <volume>20</volume>: <fpage>231</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">24351660</pub-id></mixed-citation></ref><ref id="apt13387-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="apt13387-cit-0011">
+<string-name>
+<surname>Reinisch</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sandborn</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Hommes</surname>
+<given-names>DW</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Adalimumab for induction of clinical remission in moderately to severely active ulcerative colitis: results of a randomised controlled trial</article-title>. <source>Gut</source>
+<year>2011</year>; <volume>60</volume>: <fpage>780</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">21209123</pub-id></mixed-citation></ref><ref id="apt13387-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="apt13387-cit-0012">
+<string-name>
+<surname>Reinisch</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sandborn</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Panaccione</surname>
+<given-names>R</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>52&#x02010;week efficacy of adalimumab in patients with moderately to severely active ulcerative colitis who failed corticosteroids and/or immunosuppressants</article-title>. <source>Inflamm Bowel Dis</source>
+<year>2013</year>; <volume>19</volume>: <fpage>1700</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">23665965</pub-id></mixed-citation></ref><ref id="apt13387-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="apt13387-cit-0013">
+<string-name>
+<surname>Sandborn</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>van Assche</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Reinisch</surname>
+<given-names>W</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Adalimumab induces and maintains clinical remission in patients with moderate&#x02010;to&#x02010;severe ulcerative colitis</article-title>. <source>Gastroenterology</source>
+<year>2012</year>; <volume>142</volume>: <fpage>257</fpage>&#x02013;<lpage>65</lpage>.<pub-id pub-id-type="pmid">22062358</pub-id></mixed-citation></ref><ref id="apt13387-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="apt13387-cit-0014">
+<string-name>
+<surname>Sandborn</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Colombel</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>D'Haens</surname>
+<given-names>G</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>One&#x02010;year maintenance outcomes among patients with moderately&#x02010;to&#x02010;severely active ulcerative colitis who responded to induction therapy with adalimumab: subgroup analyses from ULTRA 2</article-title>. <source>Aliment Pharmacol Ther</source>
+<year>2013</year>; <volume>37</volume>: <fpage>204</fpage>&#x02013;<lpage>13</lpage>.<pub-id pub-id-type="pmid">23173821</pub-id></mixed-citation></ref><ref id="apt13387-bib-0015"><label>15</label><mixed-citation publication-type="miscellaneous" id="apt13387-cit-0015">
+<collab collab-type="authors">Wikipedia</collab>
+. <article-title>Sensitivity and specificity</article-title>. <ext-link ext-link-type="uri" xlink:href="http://en.wikipedia.org/wiki/Sensitivity_and_specificity">http://en.wikipedia.org/wiki/Sensitivity_and_specificity</ext-link>. 2015.</mixed-citation></ref><ref id="apt13387-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="apt13387-cit-0016">
+<string-name>
+<surname>Guyatt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Irvine</surname>
+<given-names>EJ</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>A new measure of health status for clinical trials in inflammatory bowel disease</article-title>. <source>Gastroenterology</source>
+<year>1989</year>; <volume>96</volume>: <fpage>804</fpage>&#x02013;<lpage>10</lpage>.<pub-id pub-id-type="pmid">2644154</pub-id></mixed-citation></ref><ref id="apt13387-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="apt13387-cit-0017">
+<string-name>
+<surname>Reinisch</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Sandborn</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Feagan</surname>
+<given-names>B</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Association between week eight Mayo subscores and hospitalization rates in adalimumab&#x02010;treated patients with ulcerative colitis from ULTRA 1 and ULTRA 2 [abstract 1683]</article-title>. <source>Am J Gastroenterol</source>
+<year>2013</year>; <volume>108</volume>(<issue>Suppl 1s</issue>): <fpage>S506</fpage>.</mixed-citation></ref><ref id="apt13387-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="apt13387-cit-0018">
+<string-name>
+<surname>Riley</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Mani</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Goodman</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Dutt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Herd</surname>
+<given-names>ME</given-names>
+</string-name>. <article-title>Microscopic activity in ulcerative colitis: what does it mean?</article-title>
+<source>Gut</source>
+<year>1991</year>; <volume>32</volume>: <fpage>174</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">1864537</pub-id></mixed-citation></ref><ref id="apt13387-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="apt13387-cit-0019">
+<string-name>
+<surname>Dick</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Holt</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Dalton</surname>
+<given-names>ER</given-names>
+</string-name>. <article-title>Persistence of mucosal abnormality in&#x000a0;ulcerative colitis</article-title>. <source>Gut</source>
+<year>1966</year>; <volume>7</volume>: <fpage>355</fpage>&#x02013;<lpage>60</lpage>.<pub-id pub-id-type="pmid">5917422</pub-id></mixed-citation></ref><ref id="apt13387-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="apt13387-cit-0020">
+<string-name>
+<surname>Rosenberg</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lawlor</surname>
+<given-names>GO</given-names>
+</string-name>, <string-name>
+<surname>Zenlea</surname>
+<given-names>T</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Predictors of endoscopic inflammation in patients with ulcerative colitis in clinical remission</article-title>. <source>Inflamm Bowel Dis</source>
+<year>2013</year>; <volume>19</volume>: <fpage>779</fpage>&#x02013;<lpage>84</lpage>.<pub-id pub-id-type="pmid">23446338</pub-id></mixed-citation></ref><ref id="apt13387-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="apt13387-cit-0021">
+<string-name>
+<surname>Christensen</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Erlich</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Hanauer</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Rubin</surname>
+<given-names>DT</given-names>
+</string-name>. <article-title>Agreement between deep histological remission and mucosal healing in ulcerative colitis and predictors of each outcome [abstract 964]</article-title>. <source>Gastroenterology</source>
+<year>2014</year>; <volume>146</volume>(<issue>Suppl. 1</issue>): <fpage>S</fpage>&#x02013;<lpage>172</lpage>.</mixed-citation></ref><ref id="apt13387-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="apt13387-cit-0022">
+<string-name>
+<surname>Vivinus&#x02010;N&#x000e9;bot</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Frin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bzioueche</surname>
+<given-names>H</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Functional bowel symptoms in quiescent inflammatory bowel diseases: role of epithelial barrier disruption and low grade inflammation [abstract Su2035]</article-title>. <source>Gastroenterology</source>
+<year>2013</year>; <volume>144</volume>(<issue>Suppl. 1</issue>): <fpage>S</fpage>&#x02013;<lpage>538</lpage>.</mixed-citation></ref><ref id="apt13387-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="apt13387-cit-0023">
+<string-name>
+<surname>Linden</surname>
+<given-names>DR</given-names>
+</string-name>. <article-title>Colitis is associated with a loss of intestinofugal neurons</article-title>. <source>Am J Physiol Gastrointest Liver Physiol</source>
+<year>2012</year>; <volume>303</volume>: <fpage>G1096</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">22997196</pub-id></mixed-citation></ref><ref id="apt13387-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="apt13387-cit-0024">
+<string-name>
+<surname>Rumessen</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Vanderwinden</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Horn</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Ulcerative colitis: ultrastructure of interstitial cells in myenteric plexus</article-title>. <source>Ultrastruct Pathol</source>
+<year>2010</year>; <volume>34</volume>: <fpage>279</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">20568987</pub-id></mixed-citation></ref><ref id="apt13387-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="apt13387-cit-0025">
+<string-name>
+<surname>Bernardini</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Segnani</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ippolito</surname>
+<given-names>C</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Immunohistochemical analysis of myenteric ganglia and interstitial cells of Cajal in ulcerative colitis</article-title>. <source>J Cell Mol Med</source>
+<year>2012</year>; <volume>16</volume>: <fpage>318</fpage>&#x02013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">21426484</pub-id></mixed-citation></ref><ref id="apt13387-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="apt13387-cit-0026">
+<string-name>
+<surname>van Hoboken</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Thijssen</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Verhaaren</surname>
+<given-names>R</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Symptoms in patients with ulcerative colitis in remission are associated with visceral&#x000a0;hypersensitivity and mast cell activity</article-title>. <source>Scand J Gastroenterol</source>
+<year>2011</year>; <volume>46</volume>: <fpage>981</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">21623672</pub-id></mixed-citation></ref><ref id="apt13387-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="apt13387-cit-0027">
+<string-name>
+<surname>De Dombal</surname>
+<given-names>FT</given-names>
+</string-name>, <string-name>
+<surname>Geffen</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Darnborough</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Watkinson</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Goligher</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Radiological appearances of ulcerative colitis: an evaluation of their clinical significance</article-title>. <source>Gut</source>
+<year>1968</year>; <volume>9</volume>: <fpage>157</fpage>&#x02013;<lpage>63</lpage>.<pub-id pub-id-type="pmid">5655025</pub-id></mixed-citation></ref><ref id="apt13387-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="apt13387-cit-0028">
+<string-name>
+<surname>Keohane</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>O'Mahony</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>O'Mahony</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>O'Mahony</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Quigley</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Shanahan</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Irritable bowel syndrome&#x02010;like symptoms in patients with inflammatory bowel disease: a real association or reflection of occult inflammation</article-title>. <source>Am J Gastroenterol</source>
+<year>2010</year>; <volume>105</volume>: <fpage>1789</fpage>&#x02013;<lpage>94</lpage>.</mixed-citation></ref><ref id="apt13387-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="apt13387-cit-0029">
+<string-name>
+<surname>Schreiber</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pan&#x000e9;s</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Louis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Holley</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Buch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Paridaens</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Perception gaps between patients with ulcerative colitis and healthcare professionals: an online survey</article-title>. <source>BMC Gastroenterol</source>
+<year>2012</year>; <volume>12</volume>: <fpage>108</fpage>.<pub-id pub-id-type="pmid">22894661</pub-id></mixed-citation></ref><ref id="apt13387-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="apt13387-cit-0030">
+<string-name>
+<surname>Feagan</surname>
+<given-names>BG</given-names>
+</string-name>, <string-name>
+<surname>Sandborn</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>D'Haens</surname>
+<given-names>G</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>The role of centralized reading of endoscopy in a randomized controlled trial of mesalamine for ulcerative colitis</article-title>. <source>Gastroenterology</source>
+<year>2013</year>; <volume>145</volume>: <fpage>149</fpage>&#x02013;<lpage>57</lpage>.<pub-id pub-id-type="pmid">23528626</pub-id></mixed-citation></ref><ref id="apt13387-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="apt13387-cit-0031">
+<string-name>
+<surname>Travis</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>Danese</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kupcinskas</surname>
+<given-names>L</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Once&#x02010;daily budesonide MMX in&#x000a0;active, mild&#x02010;to&#x02010;moderate ulcerative&#x000a0;colitis: results from the randomised CORE II study</article-title>. <source>Gut</source>
+<year>2014</year>; <volume>63</volume>: <fpage>433</fpage>&#x02013;<lpage>41</lpage>.<pub-id pub-id-type="pmid">23436336</pub-id></mixed-citation></ref><ref id="apt13387-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="apt13387-cit-0032">
+<string-name>
+<surname>Kato</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kuriyama</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hiraoka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Is sigmoidoscopy sufficient for evaluating inflammatory status of ulcerative colitis patients?</article-title>
+<source>J&#x000a0;Gastroenterol Hepatol</source>
+<year>2011</year>; <volume>26</volume>: <fpage>683</fpage>&#x02013;<lpage>7</lpage>.<pub-id pub-id-type="pmid">21054518</pub-id></mixed-citation></ref><ref id="apt13387-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="apt13387-cit-0033">
+<string-name>
+<surname>Colombel</surname>
+<given-names>J&#x02010;F</given-names>
+</string-name>, <string-name>
+<surname>Ord&#x000e1;s</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Ullman</surname>
+<given-names>TA</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Comparison of rectosigmoidoscopy and colonoscopy for assessment of endoscopic activity in ulcerative colitis [abstract 1240]</article-title>. <source>Gastroenterology</source>
+<year>2015</year>; <volume>148</volume>(<issue>Suppl. 1</issue>): <fpage>S</fpage>&#x02013;<lpage>298</lpage>.</mixed-citation></ref><ref id="apt13387-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="apt13387-cit-0034">
+<string-name>
+<surname>Rhodes</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Beales</surname>
+<given-names>I</given-names>
+</string-name>, <italic>et&#x000a0;al</italic>
+<article-title>Clinical trial: oral prednisolone metasulfobenzoate (Predocol) vs. oral prednisolone for active ulcerative colitis</article-title>. <source>Aliment Pharmacol Ther</source>
+<year>2008</year>; <volume>27</volume>: <fpage>228</fpage>&#x02013;<lpage>40</lpage>.<pub-id pub-id-type="pmid">17988236</pub-id></mixed-citation></ref></ref-list></back></article>

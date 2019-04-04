@@ -1,0 +1,738 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">ESC Heart Fail</journal-id><journal-id journal-id-type="iso-abbrev">ESC Heart Fail</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2055-5822</journal-id><journal-id journal-id-type="publisher-id">EHF2</journal-id><journal-title-group><journal-title>Esc Heart Failure</journal-title></journal-title-group><issn pub-type="epub">2055-5822</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27499885</article-id><article-id pub-id-type="pmc">4973627</article-id><article-id pub-id-type="doi">10.1002/ehf2.12028</article-id><article-id pub-id-type="publisher-id">EHF212028</article-id><article-id pub-id-type="other">ESCHF-2015-03-0020</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research Articles</subject></subj-group></article-categories><title-group><article-title>Relationship of physical activity and healthy eating with mortality and incident heart failure among community&#x02010;dwelling older adults with normal body mass index</article-title><alt-title alt-title-type="right-running-head">Physical activity, healthy eating/mortality, heart failure</alt-title><alt-title alt-title-type="left-running-head">A. Abdelmawgoud <italic>et al.</italic></alt-title></title-group><contrib-group><contrib id="ehf212028-cr-0001" contrib-type="author"><name><surname>Abdelmawgoud</surname><given-names>Ahmed</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ehf212028-cr-0002" contrib-type="author"><name><surname>Brown</surname><given-names>Cynthia J.</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ehf212028-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ehf212028-cr-0003" contrib-type="author"><name><surname>Sui</surname><given-names>Xuemei</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ehf212028-cr-0004" contrib-type="author"><name><surname>Fonarow</surname><given-names>Gregg C.</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ehf212028-cr-0005" contrib-type="author"><name><surname>Kokkinos</surname><given-names>Peter F.</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0003">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="ehf212028-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="ehf212028-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ehf212028-cr-0006" contrib-type="author"><name><surname>Bittner</surname><given-names>Vera</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="ehf212028-cr-0007" contrib-type="author"><name><surname>Aronow</surname><given-names>Wilbert S.</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ehf212028-cr-0008" contrib-type="author"><name><surname>Kheirbek</surname><given-names>Raya E.</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="ehf212028-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ehf212028-cr-0009" contrib-type="author"><name><surname>Fletcher</surname><given-names>Ross D.</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ehf212028-cr-0010" contrib-type="author"><name><surname>Blair</surname><given-names>Steven N.</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ehf212028-cr-0011" contrib-type="author" corresp="yes"><name><surname>Ahmed</surname><given-names>Ali</given-names></name><xref ref-type="aff" rid="ehf212028-aff-0005">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="ehf212028-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="ehf212028-aff-0001"><label><sup>1</sup></label><institution>University of Alabama at Birmingham</institution><named-content content-type="city">Birmingham</named-content><named-content content-type="country-part">AL</named-content><country country="US">USA</country></aff><aff id="ehf212028-aff-0002"><label><sup>2</sup></label><institution>Veterans Affairs Medical Center</institution><named-content content-type="city">Birmingham</named-content><named-content content-type="country-part">AL</named-content><country country="US">USA</country></aff><aff id="ehf212028-aff-0003"><label><sup>3</sup></label><institution>University of South Carolina</institution><named-content content-type="city">Columbia</named-content><named-content content-type="country-part">SC</named-content><country country="US">USA</country></aff><aff id="ehf212028-aff-0004"><label><sup>4</sup></label><institution>University of California</institution><named-content content-type="city">Los Angeles</named-content><named-content content-type="country-part">CA</named-content><country country="US">USA</country></aff><aff id="ehf212028-aff-0005"><label><sup>5</sup></label><institution>Veterans Affairs Medical Center</institution><named-content content-type="city">Washington</named-content><named-content content-type="country-part">DC</named-content><country country="US">USA</country></aff><aff id="ehf212028-aff-0006"><label><sup>6</sup></label><institution>Georgetown University</institution><named-content content-type="city">Washington</named-content><named-content content-type="country-part">DC</named-content><country country="US">USA</country></aff><aff id="ehf212028-aff-0007"><label><sup>7</sup></label><institution>New York Medical College</institution><named-content content-type="city">Valhalla</named-content><named-content content-type="country-part">NY</named-content><country country="US">USA</country></aff><aff id="ehf212028-aff-0008"><label><sup>8</sup></label><institution>George Washington University</institution><named-content content-type="city">Washington</named-content><named-content content-type="country-part">DC</named-content><country country="US">USA</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>Correspondence to: Ali Ahmed, Center for Health and Aging, Washington DC VA Medical Center, 50 Irving St. NW., Washington, DC 20422, USA. Tel: 1&#x02010;(202) 745&#x02010;8605. Email: <email>aliahmedmdmph@gmail.com</email></corresp></author-notes><pub-date pub-type="epub"><day>07</day><month>4</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2015</year></pub-date><volume>2</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/ehf2.v2.1</issue-id><fpage>20</fpage><lpage>24</lpage><history><date date-type="received"><day>04</day><month>3</month><year>2015</year></date><date date-type="accepted"><day>05</day><month>3</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2015 John Wiley & Sons, Ltd. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. ESC Heart Failure published by John Wiley &#x00026; Sons Ltd on behalf of the European Society of Cardiology.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:EHF2-2-20.pdf"/><abstract><title>Abstract</title><sec id="ehf212028-sec-0001"><title>Aims</title><p>Normal body mass index (BMI) is associated with lower mortality and may be achieved by physical activity (PA), healthy eating (HE), or both. We examined the association of PA and HE with mortality and incident heart failure (HF) among 2040 community&#x02010;dwelling older adults aged&#x02009;&#x02265;&#x02009;65&#x02009;years with baseline BMI 18.5 to 24.99&#x02009;kg/m<sup>2</sup> during 13&#x02009;years of follow&#x02010;up in the Cardiovascular Health Study.</p></sec><sec id="ehf212028-sec-0002"><title>Methods and results</title><p>Baseline PA was defined as &#x02265;500 weekly metabolic equivalent task&#x02010;minutes and HE as &#x02265;5 daily servings of vegetable and fruit intake. Participants were categorized into four groups: (i) PA&#x02212;/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;384); (ii) PA&#x02212;/HE+ (<italic>n</italic>&#x02009;=&#x02009;162); (iii) PA+/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;992); and (iv) PA+/HE+ (<italic>n</italic>&#x02009;=&#x02009;502). Participants had a mean age of 74 (&#x000b1;6) years, mean BMI of 22.6 (&#x000b1;1.5) kg/m<sup>2</sup>, 61% were women, and 4% African American. Compared with PA&#x02212;/HE&#x02212;, age&#x02010;sex&#x02010;race&#x02010;adjusted hazard ratios and 95% confidence intervals for all&#x02010;cause mortality for PA&#x02212;/HE+, PA+/HE&#x02212;, and PA+/HE+ groups were 0.96 (0.76&#x02013;1.21), 0.61 (0.52&#x02013;0.71), and 0.62 (0.52&#x02013;0.75), respectively. These associations remained unchanged after multivariable adjustment and were similar for cardiovascular and non&#x02010;cardiovascular mortalities. Respective demographic&#x02010;adjusted hazard ratios (95% confidence intervals) for incident HF among 1954 participants without baseline HF were 1.21 (0.81&#x02013;1.81), 0.71 (0.54&#x02013;0.94), and 0.71 (0.51&#x02013;0.98). These latter associations lost significance after multivariable adjustment.</p></sec><sec id="ehf212028-sec-0003"><title>Conclusion</title><p>Among community&#x02010;dwelling older adults with normal BMI, physical activity, regardless of healthy eating, was associated with lower risk of mortality and incident HF, but healthy eating had no similar protective association in this cohort.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ehf212028-kwd-0001">Physical activity</kwd><kwd id="ehf212028-kwd-0002">Healthy eating</kwd><kwd id="ehf212028-kwd-0003">Incident heart failure</kwd><kwd id="ehf212028-kwd-0004">Older adults</kwd></kwd-group><funding-group><award-group><funding-source>NHLBI</funding-source></award-group></funding-group><counts><page-count count="5"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ehf212028</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:09.09.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ehf212028-cit-0000">
+<string-name>
+<surname>Abdelmawgoud</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>, <given-names>C. J.</given-names>
+</string-name>, <string-name>
+<surname>Sui</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Fonarow</surname>, <given-names>G. C.</given-names>
+</string-name>, <string-name>
+<surname>Kokkinos</surname>, <given-names>P. F.</given-names>
+</string-name>, <string-name>
+<surname>Bittner</surname>, <given-names>V.</given-names>
+</string-name>, <string-name>
+<surname>Aronow</surname>, <given-names>W. S.</given-names>
+</string-name>, <string-name>
+<surname>Kheirbek</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Fletcher</surname>, <given-names>R. D.</given-names>
+</string-name>, <string-name>
+<surname>Blair</surname>, <given-names>S. N.</given-names>
+</string-name>, and <string-name>
+<surname>Ahmed</surname>, <given-names>A.</given-names>
+</string-name> (<year>2015</year>), <article-title>Relationship of physical activity and healthy eating with mortality and incident heart failure among community&#x02010;dwelling older adults with normal body mass index</article-title>. <source>ESC Heart Failure</source>, <volume>2</volume>: <fpage>20</fpage>&#x02013;<lpage>24</lpage>. doi: <ext-link ext-link-type="doi" xlink:href="10.1002/ehf2.12028">10.1002/ehf2.12028</ext-link>.<pub-id pub-id-type="pmid">27499885</pub-id></mixed-citation>
+</p></notes></front><body><p>Normal body mass index (BMI) has been shown to be associated with lower mortality and incident cardiovascular (CV) events.<xref rid="ehf212028-bib-0001" ref-type="ref">1</xref>, <xref rid="ehf212028-bib-0002" ref-type="ref">2</xref>, <xref rid="ehf212028-bib-0003" ref-type="ref">3</xref>, <xref rid="ehf212028-bib-0004" ref-type="ref">4</xref>, <xref rid="ehf212028-bib-0005" ref-type="ref">5</xref> Normal BMI maybe achieved by physical activity (PA), healthy eating (HE), or both.<xref rid="ehf212028-bib-0006" ref-type="ref">6</xref> However, it is unclear which has a stronger association with lower mortality. In the current analysis, we examined the association of PA and HE with mortality and incident heart failure (HF) among older adults with a normal BMI.</p><sec id="ehf212028-sec-0005"><title>Methods</title><p>We used de&#x02010;identified data from the Cardiovascular Health Study (CHS) obtained from the National Heart, Lung and Blood Institute, which also sponsored the study. CHS is an ongoing, prospective, community&#x02010;based epidemiologic study of CV disease risk factors in older adults.<xref rid="ehf212028-bib-0007" ref-type="ref">7</xref>, <xref rid="ehf212028-bib-0008" ref-type="ref">8</xref>, <xref rid="ehf212028-bib-0009" ref-type="ref">9</xref> The 5888 CHS participants were a random sample of Medicare&#x02010;eligible older adults recruited from four US counties in two phases. The rationale and design of the CHS have been previously reported.<xref rid="ehf212028-bib-0007" ref-type="ref">7</xref> The current analysis is based on 5795 participants in the public&#x02010;use copy of the CHS data. Of the CHS participants, 93 did not consent to be included in the de&#x02010;identified public&#x02010;use data. The current analysis was restricted to 2040 community&#x02010;dwelling older adults aged &#x02265;65&#x02009;years with BMI 18.5 to 24.99&#x02009;kg/m<sup>2</sup> who had data on baseline PA and HE. PA was estimated by weekly metabolic equivalent task&#x02010;minutes (MET&#x02010;minutes) and HE as measured by daily vegetable and fruit intake.<xref rid="ehf212028-bib-0010" ref-type="ref">10</xref> Baseline leisure&#x02010;time PA was assessed using a modified Minnesota Leisure&#x02010;Time Activities questionnaire, which evaluated frequency and duration of 15 different activities during a 2&#x02009;week period and was used to estimate kilocalories of energy expended per week.<xref rid="ehf212028-bib-0011" ref-type="ref">11</xref> MET&#x02010;minutes were calculated as total kilocalories per week&#x02009;=&#x02009;total MET&#x02010;minutes per week&#x02009;&#x000d7;&#x02009;0.0175&#x02009;&#x000d7;&#x02009;body weight in kilogrammes. Based on the MET&#x02010;minutes cutoffs used in the 2008 Physical Activity Guidelines for Americans,<xref rid="ehf212028-bib-0012" ref-type="ref">12</xref> we categorized those with MET&#x02010;minutes&#x02009;&#x02265;&#x02009;500 as PA+. At baseline, study participants were asked &#x02018;How many fruits do you usually eat per day or per week not counting juices?&#x02019; and &#x02018;About how many servings of vegetables do you eat per day of the week not counting salads or potatoes?&#x02019; Based on the US Department of Agriculture Dietary Guidelines, we categorized consumption of &#x02265;5 daily servings of vegetable and fruits as HE+. Participants were then categorized into four groups: (i) PA&#x02212;/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;384); (ii) PA&#x02212;/HE+ (<italic>n</italic>&#x02009;=&#x02009;162); (iii) PA+/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;992); and (iv) PA+/HE+ (<italic>n</italic>&#x02009;=&#x02009;502).</p><p>Outcomes of interest in the current analysis were centrally adjudicated all&#x02010;cause, CV and non&#x02010;CV mortality and incident HF during over 13&#x02009;years of follow&#x02010;up.<xref rid="ehf212028-bib-0013" ref-type="ref">13</xref> For descriptive analyses, we used Pearson's chi&#x02010;square test for categorical variables and analyses of variance for continuous variables. Hazard ratios (HRs) and 95% confidence intervals (CIs) for outcomes were estimated using two different Cox proportional hazard models: (i) adjusting for age, sex, and race and (ii) with additional adjustment for income, pack&#x02010;years of smoking, weekly alcohol consumption, body mass index, self&#x02010;reported general health, instrumental activities of daily living, depression, dementia, heart failure, hypertension, prior myocardial infarction, diabetes, atrial fibrillation, stroke, peripheral arterial disease, chronic obstructive pulmonary disease, cancer, left ventricular systolic dysfunction, serum creatinine, haemoglobin, serum cholesterol, and serum C&#x02010;reactive protein. The analyses for incident HF was based on a subgroup of 1954 participants free of prevalent HF at baseline.</p></sec><sec id="ehf212028-sec-0006"><title>Results</title><p>Participants (<italic>n</italic>&#x02009;=&#x02009;2040) had a mean (&#x000b1;SD) age of 74 (&#x000b1;6) years, a mean BMI of 22.6 (&#x000b1;1.5) kg/m<sup>2</sup>, 61% were women, and 4% were African American. Participants with higher levels of baseline PA and HE were more likely to be younger, Caucasians, and more likely to have a lower prevalence of CV risk factors such as hypertension, diabetes, and coronary artery disease (<italic>Table</italic>
+<xref rid="ehf212028-tbl-0001" ref-type="table-wrap">1</xref>).</p><table-wrap id="ehf212028-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/><col align="char" char="." span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1">Mean (&#x000b1;SD) or</th><th align="center" valign="bottom" rowspan="1" colspan="1">PA&#x02212;/HE&#x02212;</th><th align="center" valign="bottom" rowspan="1" colspan="1">PA&#x02212;/HE+</th><th align="center" valign="bottom" rowspan="1" colspan="1">PA+/HE&#x02212;</th><th align="center" valign="bottom" rowspan="1" colspan="1">PA+/HE+</th><th align="center" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>n</italic> (%)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(<italic>n</italic>&#x02009;=&#x02009;384)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(<italic>n</italic>&#x02009;=&#x02009;162)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(<italic>n</italic>&#x02009;=&#x02009;992)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(<italic>n</italic>&#x02009;=&#x02009;502)</th><th align="center" valign="bottom" rowspan="1" colspan="1"/></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">76 (&#x000b1;6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">75 (&#x000b1;6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">74 (&#x000b1;6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">73 (&#x000b1;6)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Women</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">240 (63%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">98 (61%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">589 (59%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">310 (62%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.686</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">African American</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25 (7%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (6%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">31 (3%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">12 (2%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.003</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Education, college or higher</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">178 (46%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">71 (44%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">463 (47%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">256 (51%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.283</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Income &#x0003e;25&#x02009;000</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">150 (39%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">67 (41%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">382 (39%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">227 (45%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.084</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Alcohol, drinks per week</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.6 (&#x000b1;7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.1 (&#x000b1;7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.7 (&#x000b1;7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.6 (&#x000b1;7)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.837</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Smoke, pack&#x02010;years</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (&#x000b1;28)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">19 (&#x000b1;28)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15(&#x000b1;28)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17 (&#x000b1;28)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.026</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Never eat chicken skin</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">277 (73%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">119 (74%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">754 (76%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">383 (76%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.255</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22.5 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22.8 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22.5 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">22.7 (&#x000b1;2)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.115</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Systolic blood pressure, mmHg</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">135 (&#x000b1;23)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">137 (&#x000b1;24)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">134 (&#x000b1;22)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">133 (&#x000b1;22)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.167</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Diastolic blood pressure, mmHg</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">70 (&#x000b1;11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">69 (&#x000b1;11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">69 (&#x000b1;11)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">68 ((&#x000b1;11)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.460</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Medical problems</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Coronary heart diseases</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">104 (27%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">36 (22%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">167 (17%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">86 (17%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Acute myocardial infarction</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">51 (13%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">20 (12%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (9%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">43 (9%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.025</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Angina pectoris</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">91 (24%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (17%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">132 (13%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">74 (15%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Hypertension</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">209 (54%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">89 (55%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">488 (49%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">236 (47%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.085</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Diabetes mellitus</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">53 (14%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (17%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">84 (9%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">37 (7%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Stroke</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25 (7%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (4%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">23 (3%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17 (3%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Atrial fibrillation</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15 (4%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6 (4%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">26 (3%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15 (3%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.612</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Chronic obstructive pulmonary disease</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">67 (17%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25 (15%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">125 (13%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">54 (11%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.022</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Arthritis</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">193 (50%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">87 (54%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">461 (47%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">226 (45%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.149</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Cancer</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">68 (18%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25 (15%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">142 (14%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">73 (15%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.449</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Left ventricular hypertrophy</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">13 (3%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">10 (6%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">39 (4%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">27 (5%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.280</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Left ventricular ejection fraction &#x0003e;55%</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">348 (91%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">928 (94%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">146 (90%)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">461 (92%)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.177</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Geriatric problems</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Activity of daily living</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.17 (&#x000b1;0.06)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.15 (&#x000b1;0.06)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.04 (&#x000b1;0.06)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.03 (&#x000b1;0.06)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Instrumental activity of daily living</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.67 (&#x000b1;1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.52 (&#x000b1;1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.26 (&#x000b1;1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.20 (&#x000b1;1)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Blocks walked last week</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">18.80 (&#x000b1;59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21.58 (&#x000b1;59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">50.09 (&#x000b1;59)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">52.52 (&#x000b1;59)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Time to walk 15&#x02009;ft</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">6.9 (&#x000b1;3.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.9 (&#x000b1;2.2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.5 (&#x000b1;1.6)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.4 (&#x000b1;1.5)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Mini&#x02010;mental state examination score</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">27 (&#x000b1;3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">27 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (&#x000b1;3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28 (&#x000b1;2)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Depression score</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.3 (&#x000b1;5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.3 (&#x000b1;5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.3 (&#x000b1;5)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.2 (&#x000b1;5)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Laboratory measures</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum cholesterol, mg/dL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">212 (&#x000b1;41)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">206 (&#x000b1;41)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">209 (&#x000b1;41)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">209 (&#x000b1;41)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.557</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum triglyceride, mg/dL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">126 (&#x000b1;69)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">137 (&#x000b1;69)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">124 (&#x000b1;69)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">120 (&#x000b1;69)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.026</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum creatinine, mg/dL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.98 (&#x000b1;1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.01 (&#x000b1;1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.92 (&#x000b1;1)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">0.93 (&#x000b1;1)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.002</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum potassium, mEq/L</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.16 (&#x000b1;0.4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.2 (&#x000b1;0.4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.21 (&#x000b1;0.4)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.18 (&#x000b1;0.4)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.156</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum albumin, g/dL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.9 (&#x000b1;0.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.0 (&#x000b1;0.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.0 (&#x000b1;0.3)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.0 (&#x000b1;0.3)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.417</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum uric acid, mg/dL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.4 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.5 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.2 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">5.1 (&#x000b1;2)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum C&#x02010;reactive protein, mg/dL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.5 (&#x000b1;7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">4.6 (&#x000b1;7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.6 (&#x000b1;7)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">3.4 (&#x000b1;7)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.014</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum interleukin&#x02010;6, pg/mL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.5 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">2.4 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.9 (&#x000b1;2)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">1.8 (&#x000b1;2)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Serum insulin, &#x003bc;IU/mL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">12.6 (&#x000b1;34)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16.1 (&#x000b1;34)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">12.6 (&#x000b1;34)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">11.9 (&#x000b1;34)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.034</td></tr><tr><td style="padding-left:10%" align="left" valign="top" rowspan="1" colspan="1">Fibrinogen, mg/dL</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">326 (&#x000b1;70)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">318 (&#x000b1;70)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">311 (&#x000b1;70)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">313 (&#x000b1;70)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.002</td></tr></tbody></table><table-wrap-foot><fn id="ehf212028-note-0001"><p>HE, healthy eating; PA, physical activity.</p></fn></table-wrap-foot></table-wrap><p>Compared with PA&#x02212;/HE&#x02212;, age&#x02010;sex&#x02010;race&#x02010;adjusted hazard ratios (HRs) and 95% confidence intervals (CIs) for all&#x02010;cause mortality associated with PA&#x02212;/HE+, PA+/HE&#x02212;, and PA+/HE+ were 0.96 (0.76&#x02013;1.21), 0.61 (0.52&#x02013;0.71), and 0.62 (0.52&#x02013;0.75), respectively (<italic>Table</italic>
+<xref rid="ehf212028-tbl-0002" ref-type="table-wrap">2</xref> and <italic>Figure</italic>
+<xref rid="ehf212028-fig-0001" ref-type="fig">1</xref>). These associations remained unchanged after multivariable adjustment. Similar associations were observed for cardiovascular and non&#x02010;cardiovascular mortalities (<italic>Table</italic>
+<xref rid="ehf212028-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="ehf212028-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Mortality by physical activity and healthy eating</p></caption><table frame="hsides" rules="groups"><col align="center" span="1"/><col align="char" char="(" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr><th rowspan="2" align="left" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1"/><th rowspan="2" align="center" style="border-bottom:solid 1px #000000" valign="bottom" colspan="1">% (Events)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Unadjusted hazard ratio</th><th align="center" valign="bottom" rowspan="1" colspan="1">Age&#x02010;sex&#x02010;race&#x02010;adjusted hazard ratio</th><th align="center" valign="bottom" rowspan="1" colspan="1">Multivariable&#x02010;adjusted hazard ratio<xref ref-type="fn" rid="ehf212028-note-0003">a</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="center" valign="bottom" rowspan="1" colspan="1">(95% Confidence interval)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(95% Confidence interval)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(95% Confidence interval)</th></tr></thead><tbody valign="top"><tr><td colspan="2" align="left" valign="top" rowspan="1">All&#x02010;cause mortality</td><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/><td align="left" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA&#x02212;/HE&#x02212;(<italic>n</italic>&#x02009;=&#x02009;384)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">64% (245)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA&#x02212;/HE+ (<italic>n</italic>&#x02009;=&#x02009;162)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">61% (98)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.90 (0.71&#x02013;1.13); <italic>P</italic>&#x02009;=&#x02009;0.358</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.96 (0.76&#x02013;1.21); <italic>P</italic>&#x02009;=&#x02009;0.719</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.97 (0.76&#x02013;1.23); <italic>P</italic>&#x02009;=&#x02009;0.779</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA+/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;992)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">46% (452)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.56 (0.48&#x02013;0.66); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.61 (0.52&#x02013;0.71); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.76 (0.65&#x02013;0.90); <italic>P</italic>&#x02009;=&#x02009;0.001</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PA+/HE+ (<italic>n</italic>&#x02009;=&#x02009;502)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">44% (219)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.53 (0.44&#x02013;0.63); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.62 (0.52&#x02013;0.75); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.75 (0.62&#x02013;0.91); <italic>P</italic>&#x02009;=&#x02009;0.003</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Cardiovascular mortality</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA&#x02212;/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;384)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">24% (93)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA&#x02212;/HE+ (<italic>n</italic>&#x02009;=&#x02009;162)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">25% (40)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.97 (0.67&#x02013;1.41); <italic>P</italic>&#x02009;=&#x02009;0.888</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.04 (0.72&#x02013;1.51); <italic>P</italic>&#x02009;=&#x02009;0.839</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.98 (0.67&#x02013;1.44); <italic>P</italic>&#x02009;=&#x02009;0.926</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA+/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;992)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17% (169)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.56 (0.44&#x02013;0.73); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.59 (0.46&#x02013;0.77); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.79 (0.60&#x02013;1.03); <italic>P</italic>&#x02009;=&#x02009;0.083</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PA+/HE+ (<italic>n</italic>&#x02009;=&#x02009;502)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">15% (76)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.49 (0.36&#x02013;0.66); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.57 (0.42&#x02013;0.78); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.70 (0.51&#x02013;0.97); <italic>P</italic>&#x02009;=&#x02009;0.031</td></tr><tr><td colspan="2" align="left" valign="top" rowspan="1">Non&#x02010;cardiovascular mortality</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA&#x02212;/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;384)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">39% (151)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA&#x02212;/HE+ (<italic>n</italic>&#x02009;=&#x02009;162)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">35% (57)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.84 (0.62&#x02013;1.14); <italic>P</italic>&#x02009;=&#x02009;0.263</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.90 (0.66&#x02013;1.22); <italic>P</italic>&#x02009;=&#x02009;0.502</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.94 (0.69&#x02013;1.28); <italic>P</italic>&#x02009;=&#x02009;0.701</td></tr><tr><td align="center" valign="top" rowspan="1" colspan="1">PA+/HE&#x02212; (<italic>n</italic>&#x02009;=&#x02009;992)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">28% (282)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.57 (0.47&#x02013;0.69); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.62 (0.50&#x02013;0.75); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.75 (0.61&#x02013;0.93); <italic>P</italic>&#x02009;=&#x02009;0.007</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PA+/HE+ (<italic>n</italic>&#x02009;=&#x02009;502)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">29% (143)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.56 (0.44&#x02013;0.70); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.66 (0.52&#x02013;0.83); <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.001</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.79 (0.62&#x02013;1.00); <italic>P</italic>&#x02009;=&#x02009;0.053</td></tr></tbody></table><table-wrap-foot><fn id="ehf212028-note-0002"><p>HE, healthy eating; PA, physical activity.</p></fn><fn id="ehf212028-note-0003"><label>a</label><p>Adjusted with age, sex, race, education, income, alcohol, smoking, body mass index, coronary artery disease, acute myocardial infarction, hypertension, diabetes, stroke, atrial fibrillation, left ventricular hypertrophy, left ventricular systolic dysfunction, systolic blood pressure, diastolic blood pressure, depression score, mini&#x02010;mental state examination score, serum cholesterol, serum albumin, serum creatinine, and serum C&#x02010;reactive protein.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="ehf212028-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Age&#x02010;sex&#x02010;race&#x02010;adjusted survival plots. PA, physical activity; HE, healthy eating.</p></caption><graphic id="nlm-graphic-1" xlink:href="EHF2-2-20-g001"/></fig><p>Among the 1954 participants without baseline HF, compared with PA&#x02212;/HE&#x02212;, age&#x02010;sex&#x02010;race&#x02010;adjusted HRs and 95% CIs for incident HF associated with PA&#x02212;/HE+, PA+/HE&#x02212;, and PA+/HE+ were 1.21 (0.81&#x02013;1.81), 0.71 (0.54&#x02013;0.94), and 0.71 (0.51&#x02013;0.98), respectively (<italic>Table</italic>
+<xref rid="ehf212028-tbl-0003" ref-type="table-wrap">3</xref>). These associations remained unchanged after multivariable adjustment.</p><table-wrap id="ehf212028-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Incident heart failure by physical activity and healthy eating</p></caption><table frame="hsides" rules="groups"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">% (events/total)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Unadjusted hazard ratio</th><th align="center" valign="bottom" rowspan="1" colspan="1">Age&#x02010;sex&#x02010;race adjusted hazard ratio</th><th align="center" valign="bottom" rowspan="1" colspan="1">Multivariable&#x02010;adjusted hazard ratio<xref ref-type="fn" rid="ehf212028-note-0004">a</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1">(95% confidence interval)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(95% confidence interval)</th><th align="center" valign="bottom" rowspan="1" colspan="1">(95% confidence interval)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">PA&#x02013;/HE&#x02013;(n=356)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">21% (73)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.00 (Reference)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PA&#x02013;/HE+ (n=152)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">24% (37)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.16 (0.78&#x02013;1.73); p=0.458</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.21 (0.81&#x02013;1.80); p=0.351</td><td align="char" char="." valign="top" rowspan="1" colspan="1">1.26 (0.84&#x02013;1.89); p=0.266</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PA+/HE&#x02013; (n=961)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">17% (164)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.67 (0.51&#x02013;0.89); p=0.005</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.71 (0.54&#x02013;0.94); p=0.017</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.92 (0.67&#x02013;1.21); p=0.486</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">PA+/HE+ (n=485)</td><td align="char" char="(" valign="top" rowspan="1" colspan="1">16% (78)</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.62 (0.45&#x02013;0.85); p=0.003</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.71 (0.51&#x02013;0.98); p=0.037</td><td align="char" char="." valign="top" rowspan="1" colspan="1">0.88 (0.63&#x02013;1.23); p=0.450</td></tr></tbody></table><table-wrap-foot><fn id="ehf212028-note-0104"><p>HE, healthy eating; PA, physical activity.</p></fn><fn id="ehf212028-note-0004"><label>a</label><p>Adjusted with age, sex, race, education, income, alcohol, smoking, body mass index, coronary artery disease, acute myocardial infarction, hypertension, diabetes, stroke, atrial fibrillation, left ventricular hypertrophy, left ventricular systolic dysfunction, systolic blood pressure, diastolic blood pressure, depression score, Mini&#x02010;mental state examination score, serum cholesterol, serum albumin, serum creatinine and serum C&#x02010;reactive protein</p></fn></table-wrap-foot></table-wrap></sec><sec id="ehf212028-sec-0007"><title>Discussion</title><p>Findings from the current study demonstrate that among community&#x02010;dwelling older adults with a normal BMI, a total weekly PA in the range of 500 MET&#x02010;minutes or higher were associated with lower risk of all&#x02010;cause, cardiovascular and non&#x02010;cardiovascular mortalities, regardless of HE as defined by consumption of five or more daily servings of vegetables and fruits. These protective associations were independent of other risk factors. Consumption of five or more daily servings of vegetables and fruits, on the other hand, had no association with mortality, regardless of PA. HE also had no association with incident HF. However, as previously observed by us, PA had a weak association with incident HF.<xref rid="ehf212028-bib-0010" ref-type="ref">10</xref> These findings suggest that for older adults with a normal BMI, PA maybe more beneficial than HE, although bias due to confounding or misclassification of HE is possible.</p><p>Both PA and HE have been shown to be associated with lower mortality and cardiovascular events.<xref rid="ehf212028-bib-0001" ref-type="ref">1</xref>, <xref rid="ehf212028-bib-0002" ref-type="ref">2</xref>, <xref rid="ehf212028-bib-0003" ref-type="ref">3</xref>, <xref rid="ehf212028-bib-0004" ref-type="ref">4</xref>, <xref rid="ehf212028-bib-0005" ref-type="ref">5</xref>, <xref rid="ehf212028-bib-0014" ref-type="ref">14</xref>, <xref rid="ehf212028-bib-0015" ref-type="ref">15</xref>, <xref rid="ehf212028-bib-0016" ref-type="ref">16</xref>, <xref rid="ehf212028-bib-0017" ref-type="ref">17</xref>, <xref rid="ehf212028-bib-0018" ref-type="ref">18</xref> It is not clear why in our study, HE had no association with outcomes. In CHS, both PA and HE were self&#x02010;reported. However, findings from our baseline characteristics suggest that baseline characteristics that are markers of PA such as activities of daily living, walking, and time to walk correlated well with PA so that those in PA group performed them better. Although we had no such variables reflective HE habit, self&#x02010;reports of never eating chicken skin, a potential surrogate for HE, was not statistically different between those with and without HE. This suggests that self&#x02010;reports of HE may not be as reliable as self&#x02010;reports of PA, which may potentially explain the lack of association of HE with better outcomes. Also, in our study, the prevalence of coronary artery disease was lower in the PA group than in the HE group. If one assumes that both PA and HE preceded baseline coronary artery disease, then one might conclude that the beneficial health effect of PA was stronger than that of HE. However, no such correlation was observed for diabetes, the incidence of which may also be affected by PA and HE. In contrast, we observed that the prevalence of chronic obstructive pulmonary disease, the incidence of which is not known to be affected by PA or HE, varied across PA and HE subgroups, suggesting that baseline chronic obstructive pulmonary disease had a more profound impact on PA than on HE.</p><p>Another potential explanation is that health benefits of HE maybe attenuated among older adults as prior studies demonstrating associations of PA and HE with lower mortality and cardiovascular events were based on children and younger adults.<xref rid="ehf212028-bib-0001" ref-type="ref">1</xref>, <xref rid="ehf212028-bib-0002" ref-type="ref">2</xref>, <xref rid="ehf212028-bib-0003" ref-type="ref">3</xref>, <xref rid="ehf212028-bib-0004" ref-type="ref">4</xref>, <xref rid="ehf212028-bib-0005" ref-type="ref">5</xref>, <xref rid="ehf212028-bib-0014" ref-type="ref">14</xref>, <xref rid="ehf212028-bib-0015" ref-type="ref">15</xref>, <xref rid="ehf212028-bib-0016" ref-type="ref">16</xref>, <xref rid="ehf212028-bib-0017" ref-type="ref">17</xref>, <xref rid="ehf212028-bib-0018" ref-type="ref">18</xref> For example, findings from the United States National Health and Nutrition Examination Survey 2003&#x02013;06 suggest that PA and HE were associated with lower cardiovascular biomarkers.<xref rid="ehf212028-bib-0014" ref-type="ref">14</xref> However, participants in that study were children 6&#x02013;17&#x02009;years, and the authors of that study used a more comprehensive Healthy Eating Index, a measure of diet quality in terms of conformance to United States federal dietary guidance. Similarly, the Indonesia Nutrition and Health Surveillance System study suggesting an association of fruits and vegetable consumption with lower odds of mortality was based on children under the age of 5&#x02009;years.<xref rid="ehf212028-bib-0015" ref-type="ref">15</xref> In contrast, the Finnish Kuopio Ischemic Heart Disease Risk Factor study that demonstrated an association between high fruit and vegetable intake and lower risk of mortality was among middle&#x02010;aged (mean age, 53&#x02009;years) men. Findings from a study of patients with apparent treatment&#x02010;resistant hypertension (mean age, 67&#x02009;years) also have suggested that higher PA may have stronger association with lower risk for cardiovascular events and mortality than dietary factors such as moderate alcohol consumption, high Dietary Approaches to Stop Hypertension diet score, and low sodium&#x02010;to&#x02010;potassium intake ratio.<xref rid="ehf212028-bib-0019" ref-type="ref">19</xref> In contrast to these studies, CHS participants were older (mean age, 75&#x02009;years), and in addition, participants in our study had a normal BMI. Although participants in the Massachusetts Health Care Panel Study were also older adults, it only examined the association of consumption of carotene&#x02010;containing fruits and vegetables with lower cardiovascular mortality.<xref rid="ehf212028-bib-0017" ref-type="ref">17</xref>
+</p><p>Our study has several limitations. Despite attempts to adjust for confounding, risk factors using multivariable modelling, residual bias, and bias due to unmeasured confounders are possible. We had no data on PA and HE during follow&#x02010;up, and a higher degree of misclassification of HE than PA would result in a higher degree of regression dilution that could potentially result in the loss of association between HE and mortality benefit. We also had no data on duration and severity of the baseline risk factors such as CAD or diabetes, the incidence of which was affected by PA and HE and vice versa. Finally, we had no data on left ventricular ejection fraction for those with incident HF, which limited our ability to study whether the associations of PA and HE with mortality would vary between incident systolic vs. diastolic HF.</p><p>In conclusion, we observed that among community&#x02010;dwelling older adults with normal BMI, &#x02265;500 MET&#x02010;minutes of PA weekly was associated with lower risk of mortality, regardless of HE, while HE alone had no such association. These hypotheses&#x02010;generating findings need to be prospectively examined other populations.</p></sec><sec id="ehf212028-sec-0009"><title>Declaration of interest</title><p>None declared.</p></sec></body><back><ack id="ehf212028-sec-0008"><title>Acknowledgement</title><p>The Cardiovascular Health Study (CHS) was conducted and supported by the NHLBI in collaboration with the CHS investigators. This manuscript was prepared using a limited&#x02010;access dataset obtained by the NHLBI and does not necessarily reflect the opinions or views of the CHS Study or the NHLBI.</p></ack><ref-list content-type="cited-references" id="ehf212028-bibl-0001"><title>References</title><ref id="ehf212028-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="ehf212028-cit-0001">
+<string-name>
+<surname>Arnlov</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Ingelsson</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Sundstrom</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Lind</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Impact of body mass index and the metabolic syndrome on the risk of cardiovascular disease and death in middle&#x02010;aged men</article-title>. <source>Circulation</source>
+<year>2010</year>; <volume>121</volume>: <fpage>230</fpage>&#x02013;<lpage>236</lpage>.<pub-id pub-id-type="pmid">20038741</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ehf212028-cit-0002">
+<string-name>
+<surname>Berrington de Gonzalez</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Hartge</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Cerhan</surname>
+<given-names>JR</given-names>
+</string-name>, 
+<string-name>
+<surname>Flint</surname>
+<given-names>AJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Hannan</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>MacInnis</surname>
+<given-names>RJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Moore</surname>
+<given-names>SC</given-names>
+</string-name>, 
+<string-name>
+<surname>Tobias</surname>
+<given-names>GS</given-names>
+</string-name>, 
+<string-name>
+<surname>Anton&#x02010;Culver</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Freeman</surname>
+<given-names>LB</given-names>
+</string-name>, 
+<string-name>
+<surname>Beeson</surname>
+<given-names>WL</given-names>
+</string-name>, 
+<string-name>
+<surname>Clipp</surname>
+<given-names>SL</given-names>
+</string-name>, 
+<string-name>
+<surname>English</surname>
+<given-names>DR</given-names>
+</string-name>, 
+<string-name>
+<surname>Folsom</surname>
+<given-names>AR</given-names>
+</string-name>, 
+<string-name>
+<surname>Freedman</surname>
+<given-names>DM</given-names>
+</string-name>, 
+<string-name>
+<surname>Giles</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Hakansson</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Henderson</surname>
+<given-names>KD</given-names>
+</string-name>, 
+<string-name>
+<surname>Hoffman&#x02010;Bolton</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Hoppin</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Koenig</surname>
+<given-names>KL</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>IM</given-names>
+</string-name>, 
+<string-name>
+<surname>Linet</surname>
+<given-names>MS</given-names>
+</string-name>, 
+<string-name>
+<surname>Park</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Pocobelli</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Schatzkin</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Sesso</surname>
+<given-names>HD</given-names>
+</string-name>, 
+<string-name>
+<surname>Weiderpass</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Willcox</surname>
+<given-names>BJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Wolk</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Zeleniuch&#x02010;Jacquotte</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Willett</surname>
+<given-names>WC</given-names>
+</string-name>, 
+<string-name>
+<surname>Thun</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Body&#x02010;mass index and mortality among 1.46 million white adults</article-title>. <source>N Engl J Med</source>
+<year>2010</year>; <volume>363</volume>: <fpage>2211</fpage>&#x02013;<lpage>2219</lpage>.<pub-id pub-id-type="pmid">21121834</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ehf212028-cit-0003">
+<string-name>
+<surname>Farin</surname>
+<given-names>HM</given-names>
+</string-name>, 
+<string-name>
+<surname>Abbasi</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Reaven</surname>
+<given-names>GM</given-names>
+</string-name>. <article-title>Comparison of body mass index versus waist circumference with the metabolic changes that increase the risk of cardiovascular disease in insulin&#x02010;resistant individuals</article-title>. <source>Am J Cardiol</source>
+<year>2006</year>; <volume>98</volume>: <fpage>1053</fpage>&#x02013;<lpage>1056</lpage>.<pub-id pub-id-type="pmid">17027570</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ehf212028-cit-0004">
+<string-name>
+<surname>Flegal</surname>
+<given-names>KM</given-names>
+</string-name>, 
+<string-name>
+<surname>Kit</surname>
+<given-names>BK</given-names>
+</string-name>, 
+<string-name>
+<surname>Orpana</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Graubard</surname>
+<given-names>BI</given-names>
+</string-name>. <article-title>Association of all&#x02010;cause mortality with overweight and obesity using standard body mass index categories: a systematic review and meta&#x02010;analysis</article-title>. <source>JAMA</source>
+<year>2013</year>; <volume>309</volume>: <fpage>71</fpage>&#x02013;<lpage>82</lpage>.<pub-id pub-id-type="pmid">23280227</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ehf212028-cit-0005">
+<string-name>
+<surname>Lee</surname>
+<given-names>DS</given-names>
+</string-name>, 
+<string-name>
+<surname>Massaro</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>TJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Kannel</surname>
+<given-names>WB</given-names>
+</string-name>, 
+<string-name>
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Kenchaiah</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>D'Agostino</surname>
+<given-names>RB</given-names>
+<suffix>Sr</suffix>
+</string-name>, 
+<string-name>
+<surname>Vasan</surname>
+<given-names>RS</given-names>
+</string-name>. <article-title>Antecedent blood pressure, body mass index, and the risk of incident heart failure in later life</article-title>. <source>Hypertension</source>
+<year>2007</year>; <volume>50</volume>: <fpage>869</fpage>&#x02013;<lpage>876</lpage>.<pub-id pub-id-type="pmid">17893376</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ehf212028-cit-0006">
+<string-name>
+<surname>Vitale</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Jirillo</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Magrone</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Correlations between the Youth Healthy Eating Index, body mass index and the salivary nitric oxide concentration in overweight/obese children</article-title>. <source>Endocr Metab Immune Disord Drug Targets</source>
+<year>2014</year>; <volume>14</volume>: <fpage>93</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">24606838</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ehf212028-cit-0007">
+<string-name>
+<surname>Fried</surname>
+<given-names>LP</given-names>
+</string-name>, 
+<string-name>
+<surname>Borhani</surname>
+<given-names>NO</given-names>
+</string-name>, 
+<string-name>
+<surname>Enright</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Furberg</surname>
+<given-names>CD</given-names>
+</string-name>, 
+<string-name>
+<surname>Gardin</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Kronmal</surname>
+<given-names>RA</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuller</surname>
+<given-names>LH</given-names>
+</string-name>, 
+<string-name>
+<surname>Manolio</surname>
+<given-names>TA</given-names>
+</string-name>, 
+<string-name>
+<surname>Mittelmark</surname>
+<given-names>MB</given-names>
+</string-name>, 
+<string-name>
+<surname>Newman</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Leary</surname>
+<given-names>DH</given-names>
+</string-name>, 
+<string-name>
+<surname>Psaty</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Rautaharju</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Tracy</surname>
+<given-names>RP</given-names>
+</string-name>, 
+<string-name>
+<surname>Weiler</surname>
+<given-names>PG</given-names>
+</string-name>. <article-title>The Cardiovascular Health Study: design and rationale</article-title>. <source>Ann Epidemiol</source>
+<year>1991</year>; <volume>1</volume>: <fpage>263</fpage>&#x02013;<lpage>276</lpage>.<pub-id pub-id-type="pmid">1669507</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ehf212028-cit-0008">
+<string-name>
+<surname>Ekundayo</surname>
+<given-names>OJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Allman</surname>
+<given-names>RM</given-names>
+</string-name>, 
+<string-name>
+<surname>Sanders</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Aban</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Love</surname>
+<given-names>TE</given-names>
+</string-name>, 
+<string-name>
+<surname>Arnett</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Isolated systolic hypertension and incident heart failure in older adults: a propensity&#x02010;matched study</article-title>. <source>Hypertension</source>
+<year>2009</year>; <volume>53</volume>: <fpage>458</fpage>&#x02013;<lpage>465</lpage>.<pub-id pub-id-type="pmid">19188527</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ehf212028-cit-0009">
+<string-name>
+<surname>Guichard</surname>
+<given-names>JL</given-names>
+</string-name>, 
+<string-name>
+<surname>Desai</surname>
+<given-names>RV</given-names>
+</string-name>, 
+<string-name>
+<surname>Ahmed</surname>
+<given-names>MI</given-names>
+</string-name>, 
+<string-name>
+<surname>Mujib</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, 
+<string-name>
+<surname>Feller</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Ekundayo</surname>
+<given-names>OJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Bittner</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Aban</surname>
+<given-names>IB</given-names>
+</string-name>, 
+<string-name>
+<surname>White</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Aronow</surname>
+<given-names>WS</given-names>
+</string-name>, 
+<string-name>
+<surname>Love</surname>
+<given-names>TE</given-names>
+</string-name>, 
+<string-name>
+<surname>Bakris</surname>
+<given-names>GL</given-names>
+</string-name>, 
+<string-name>
+<surname>Zieman</surname>
+<given-names>SJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Isolated diastolic hypotension and incident heart failure in older adults</article-title>. <source>Hypertension</source>
+<year>2011</year>; <volume>58</volume>: <fpage>895</fpage>&#x02013;<lpage>901</lpage>.<pub-id pub-id-type="pmid">21947466</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ehf212028-cit-0010">
+<string-name>
+<surname>Patel</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Sui</surname>
+<given-names>X</given-names>
+</string-name>, 
+<string-name>
+<surname>Zhang</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Fonarow</surname>
+<given-names>GC</given-names>
+</string-name>, 
+<string-name>
+<surname>Aban</surname>
+<given-names>IB</given-names>
+</string-name>, 
+<string-name>
+<surname>Brown</surname>
+<given-names>CJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Bittner</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Kitzman</surname>
+<given-names>DW</given-names>
+</string-name>, 
+<string-name>
+<surname>Allman</surname>
+<given-names>RM</given-names>
+</string-name>, 
+<string-name>
+<surname>Banach</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Aronow</surname>
+<given-names>WS</given-names>
+</string-name>, 
+<string-name>
+<surname>Anker</surname>
+<given-names>SD</given-names>
+</string-name>, 
+<string-name>
+<surname>Blair</surname>
+<given-names>SN</given-names>
+</string-name>, 
+<string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Prevention of heart failure in older adults may require higher levels of physical activity than needed for other cardiovascular events</article-title>. <source>Int J Cardiol</source>
+<year>2013</year>; <volume>168</volume>: <fpage>1905</fpage>&#x02013;<lpage>1909</lpage>.<pub-id pub-id-type="pmid">23380700</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ehf212028-cit-0011">
+<string-name>
+<surname>Siscovick</surname>
+<given-names>DS</given-names>
+</string-name>, 
+<string-name>
+<surname>Fried</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Mittelmark</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Rutan</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Bild</surname>
+<given-names>D</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Leary</surname>
+<given-names>DH</given-names>
+</string-name>. <article-title>Exercise intensity and subclinical cardiovascular disease in the elderly. The Cardiovascular Health Study</article-title>. <source>Am J Epidemiol</source>
+<year>1997</year>; <volume>145</volume>: <fpage>977</fpage>&#x02013;<lpage>986</lpage>.<pub-id pub-id-type="pmid">9169906</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0012"><label>12</label><mixed-citation publication-type="miscellaneous" id="ehf212028-cit-0012">
+<collab collab-type="authors">U.S. Department of Health and Human Services</collab>
+. <article-title>Physical Activity Guidelines for Americans</article-title>. <ext-link ext-link-type="uri" xlink:href="http://www.health.gov/paguidelines/pdf/paguide.pdf">http://www.health.gov/paguidelines/pdf/paguide.pdf</ext-link>
+<year>2008</year> (17 March 2015).</mixed-citation></ref><ref id="ehf212028-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ehf212028-cit-0013">
+<string-name>
+<surname>Ives</surname>
+<given-names>DG</given-names>
+</string-name>, 
+<string-name>
+<surname>Fitzpatrick</surname>
+<given-names>AL</given-names>
+</string-name>, 
+<string-name>
+<surname>Bild</surname>
+<given-names>DE</given-names>
+</string-name>, 
+<string-name>
+<surname>Psaty</surname>
+<given-names>BM</given-names>
+</string-name>, 
+<string-name>
+<surname>Kuller</surname>
+<given-names>LH</given-names>
+</string-name>, 
+<string-name>
+<surname>Crowley</surname>
+<given-names>PM</given-names>
+</string-name>, 
+<string-name>
+<surname>Cruise</surname>
+<given-names>RG</given-names>
+</string-name>, 
+<string-name>
+<surname>Theroux</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Surveillance and ascertainment of cardiovascular events. The Cardiovascular Health Study</article-title>. <source>Ann Epidemiol</source>
+<year>1995</year>; <volume>5</volume>: <fpage>278</fpage>&#x02013;<lpage>285</lpage>.<pub-id pub-id-type="pmid">8520709</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ehf212028-cit-0014">
+<string-name>
+<surname>Loprinzi</surname>
+<given-names>PD</given-names>
+</string-name>, 
+<string-name>
+<surname>Lee</surname>
+<given-names>IM</given-names>
+</string-name>, 
+<string-name>
+<surname>Andersen</surname>
+<given-names>RE</given-names>
+</string-name>, 
+<string-name>
+<surname>Crespo</surname>
+<given-names>CJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Smit</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Association of concurrent healthy eating and regular physical activity with cardiovascular disease risk factors in U.S. youth</article-title>. <source>Am J Health Promot</source>
+<year>2014</year>. http://dx.doi.org/<ext-link ext-link-type="doi" xlink:href="10.4278/ajhp.140213-QUAN-71">10.4278/ajhp.140213-QUAN-71</ext-link>
+</mixed-citation></ref><ref id="ehf212028-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ehf212028-cit-0015">
+<string-name>
+<surname>Campbell</surname>
+<given-names>AA</given-names>
+</string-name>, 
+<string-name>
+<surname>Thorne&#x02010;Lyman</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Sun</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>de Pee</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Kraemer</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Moench&#x02010;Pfanner</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Sari</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Akhter</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Bloem</surname>
+<given-names>MW</given-names>
+</string-name>, 
+<string-name>
+<surname>Semba</surname>
+<given-names>RD</given-names>
+</string-name>. <article-title>Greater household expenditures on fruits and vegetables but not animal source foods are associated with decreased risk of under&#x02010;five child mortality among families in rural Indonesia</article-title>. <source>J Nutr</source>
+<year>2008</year>; <volume>138</volume>: <fpage>2244</fpage>&#x02013;<lpage>2249</lpage>.<pub-id pub-id-type="pmid">18936226</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ehf212028-cit-0016">
+<string-name>
+<surname>Rissanen</surname>
+<given-names>TH</given-names>
+</string-name>, 
+<string-name>
+<surname>Voutilainen</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Virtanen</surname>
+<given-names>JK</given-names>
+</string-name>, 
+<string-name>
+<surname>Venho</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Vanharanta</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Mursu</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Salonen</surname>
+<given-names>JT</given-names>
+</string-name>. <article-title>Low intake of fruits, berries and vegetables is associated with excess mortality in men: the Kuopio Ischaemic Heart Disease Risk Factor (KIHD) Study</article-title>. <source>J Nutr</source>
+<year>2003</year>; <volume>133</volume>: <fpage>199</fpage>&#x02013;<lpage>204</lpage>.<pub-id pub-id-type="pmid">12514290</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ehf212028-cit-0017">
+<string-name>
+<surname>Gaziano</surname>
+<given-names>JM</given-names>
+</string-name>, 
+<string-name>
+<surname>Manson</surname>
+<given-names>JE</given-names>
+</string-name>, 
+<string-name>
+<surname>Branch</surname>
+<given-names>LG</given-names>
+</string-name>, 
+<string-name>
+<surname>Colditz</surname>
+<given-names>GA</given-names>
+</string-name>, 
+<string-name>
+<surname>Willett</surname>
+<given-names>WC</given-names>
+</string-name>, 
+<string-name>
+<surname>Buring</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>A prospective study of consumption of carotenoids in fruits and vegetables and decreased cardiovascular mortality in the elderly</article-title>. <source>Ann Epidemiol</source>
+<year>1995</year>; <volume>5</volume>: <fpage>255</fpage>&#x02013;<lpage>260</lpage>.<pub-id pub-id-type="pmid">8520706</pub-id></mixed-citation></ref><ref id="ehf212028-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ehf212028-cit-0018">
+<string-name>
+<surname>Hjartaker</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Knudsen</surname>
+<given-names>MD</given-names>
+</string-name>, 
+<string-name>
+<surname>Tretli</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Weiderpass</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>Consumption of berries, fruits and vegetables and mortality among 10,000 Norwegian men followed for four decades</article-title>. <source>Eur J Nutr</source>
+<year>2014</year>. doi: <ext-link ext-link-type="doi" xlink:href="10.1007/s00394-014-0741-9">10.1007/s00394-014-0741-9</ext-link>.</mixed-citation></ref><ref id="ehf212028-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ehf212028-cit-0019">
+<string-name>
+<surname>Diaz</surname>
+<given-names>KM</given-names>
+</string-name>, 
+<string-name>
+<surname>Booth</surname>
+<given-names>JN</given-names>
+<suffix>III</suffix>
+</string-name>, 
+<string-name>
+<surname>Calhoun</surname>
+<given-names>DA</given-names>
+</string-name>, 
+<string-name>
+<surname>Irvin</surname>
+<given-names>MR</given-names>
+</string-name>, 
+<string-name>
+<surname>Howard</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Safford</surname>
+<given-names>MM</given-names>
+</string-name>, 
+<string-name>
+<surname>Muntner</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Shimbo</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Healthy lifestyle factors and risk of cardiovascular events and mortality in treatment&#x02010;resistant hypertension: the Reasons for Geographic and Racial Differences in Stroke study</article-title>. <source>Hypertension</source>
+<year>2014</year>; <volume>64</volume>: <fpage>465</fpage>&#x02013;<lpage>471</lpage>.<pub-id pub-id-type="pmid">24914189</pub-id></mixed-citation></ref></ref-list></back></article>

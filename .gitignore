@@ -1,0 +1,14 @@
+*.ini
+*.pth
+*.swp
+*.pyc
+__pycache__/
+*.iml
+.idea
+/venv/
+# excluded because of size
+embeddings/
+*.log
+logs
+..gitignore.un~
+.gitignore~

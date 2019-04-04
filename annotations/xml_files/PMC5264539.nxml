@@ -1,0 +1,502 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Braz J Med Biol Res</journal-id><journal-id journal-id-type="iso-abbrev">Braz. J. Med. Biol. Res</journal-id><journal-id journal-id-type="publisher-id">bjmbr</journal-id><journal-title-group><journal-title>Brazilian Journal of Medical and Biological Research</journal-title></journal-title-group><issn pub-type="ppub">0100-879X</issn><issn pub-type="epub">1414-431X</issn><publisher><publisher-name>Associa&#x000e7;&#x000e3;o Brasileira de Divulga&#x000e7;&#x000e3;o Cient&#x000ed;fica</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28076452</article-id><article-id pub-id-type="pmc">5264539</article-id><article-id pub-id-type="other">00604</article-id><article-id pub-id-type="doi">10.1590/1414-431X20165594</article-id><article-categories><subj-group subj-group-type="heading"><subject>Biomedical Sciences</subject></subj-group></article-categories><title-group><article-title>Angiotensin-(1-7) relieved renal injury induced by chronic intermittent
+hypoxia in rats by reducing inflammation, oxidative stress and
+fibrosis</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Lu</surname><given-names>W.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Kang</surname><given-names>J.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Hu</surname><given-names>K.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Tang</surname><given-names>S.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Zhou</surname><given-names>X.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Yu</surname><given-names>S.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Xu</surname><given-names>L.</given-names></name></contrib><aff id="aff1">Division of Respiratory Disease, Renmin Hospital of Wuhan University,
+Wuhan, China</aff></contrib-group><author-notes><corresp id="cor1">Correspondence: K. Hu: <email>huke-rmhospital@163.com</email></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>1</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>50</volume><issue>1</issue><elocation-id>e5594</elocation-id><history><date date-type="received"><day>21</day><month>6</month><year>2016</year></date><date date-type="accepted"><day>25</day><month>10</month><year>2016</year></date></history><permissions><license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an Open Access article distributed under the terms of the Creative
+Commons Attribution Non-Commercial License, which permits unrestricted
+non-commercial use, distribution, and reproduction in any medium, provided the
+original work is properly cited.</license-p></license></permissions><abstract><p>We aimed to study the renal injury and hypertension induced by chronic intermittent
+hypoxia (CIH) and the protective effects mediated by angiotensin 1-7 [Ang(1-7)]. We
+randomly assigned 32 male Sprague-Dawley rats (body weight 180-200 g) to normoxia
+control, CIH, Ang(1-7)-treated normoxia, and Ang(1-7)-treated CIH groups. Systolic
+blood pressure (SBP) was monitored at the start and end of each week. Renal
+sympathetic nerve activity (RSNA) was recorded. CTGF and TGF-&#x003b2; were detected by
+immunohistochemistry and western blotting. Tissue parameters of oxidative stress were
+also determined. In addition, renal levels of interleukin-6, tumor necrosis factor-&#x003b1;,
+nitrotyrosine, and hypoxia-inducible factor-1&#x003b1; were determined by
+immunohistochemistry, immunoblotting, and ELISA. TUNEL assay results and cleaved
+caspase 3 and 12 were also determined. Ang(1-7) induced a reduction in SBP together
+with a restoration of RSNA in the rat model of CIH. Ang(1-7) treatment also
+suppressed the production of reactive oxygen species, reduced renal tissue
+inflammation, ameliorated mesangial expansion, and decreased renal fibrosis. Thus,
+Ang(1-7) treatment exerted renoprotective effects on CIH-induced renal injury and was
+associated with a reduction of oxidative stress, inflammation and fibrosis. Ang(1-7)
+might therefore represent a promising therapy for obstructive sleep apnea-related
+hypertension and renal injury.</p></abstract><kwd-group><kwd>Ang(1-7)</kwd><kwd>Renal injury</kwd><kwd>Obstructive sleep apnea</kwd><kwd>Inflammation</kwd><kwd>Oxidative stress</kwd><kwd>Fibrosis</kwd></kwd-group><counts><fig-count count="8"/><table-count count="0"/><equation-count count="0"/><ref-count count="40"/><page-count count="13"/></counts></article-meta></front><body><sec sec-type="intro"><title>Introduction</title><p>Obstructive sleep apnea (OSA) is a chronic disease that influences several systems
+<italic>in vivo</italic>. It is characterized by the obstruction of the upper airways
+with repetitive pauses in breathing during sleep (despite efforts to breathe) as well as
+by daytime sleepiness (<xref rid="B01" ref-type="bibr">1</xref>). OSA affects at least
+2&#x02013;4% of the adult population, largely impacting older adults, and its prevalence has
+been reported to exceed 30% in those aged 65 years and above (<xref rid="B02" ref-type="bibr">2</xref>). In addition, approximately 50% of patients are hypertensive and
+an estimated 30-40% of hypertensive individuals have OSA (<xref rid="B03" ref-type="bibr">3</xref>), with OSA representing by far the most common secondary condition
+associated with resistant hypertension (<xref rid="B04" ref-type="bibr">4</xref>).
+Notably, Fletcher (<xref rid="B05" ref-type="bibr">5</xref>) has emphasized the causal
+link between chronic intermittent hypoxia (CIH) and increased arterial pressure. The
+relationship between OSA and hypertension has been extensively investigated by other
+research as well (<xref rid="B04" ref-type="bibr">4</xref>,<xref rid="B06" ref-type="bibr">6</xref>). Patients with severe OSA also exhibit a high prevalence of
+chronic kidney disease (CKD) and it has further been found to accelerate the loss of
+kidney function. Moreover, animals exposed to intermittent hypoxia suffer
+histopathological renal damage (<xref rid="B07" ref-type="bibr">7</xref>). However, the
+underlying mechanism of this association remains unclear despite the progress made by
+many studies in understanding OSA and renal injury.</p><p>OSA might contribute to renal disease through its association with vascular dysfunction
+and inflammation, oxidative stress, intra-renal hypoxia, dysregulation of the
+renin-angiotensin-aldosterone system (RAAS), and increased sympathetic nervous system
+activity (<xref rid="B08" ref-type="bibr">8</xref>
+<xref rid="B09" ref-type="bibr"/>&#x02013;<xref rid="B10" ref-type="bibr">10</xref>). It has
+been found that activation of angiotensin II (Ang II) plays an important role in the
+pathological and physiological process of CIH (<xref rid="B11" ref-type="bibr">11</xref>). RAAS activation is implicated in most forms of kidney injury and inhibiting
+its main effector, Ang II, remains a cornerstone of therapy (<xref rid="B12" ref-type="bibr">12</xref>,<xref rid="B13" ref-type="bibr">13</xref>).
+Angiotensin-converting enzyme-2 (ACE2) efficiently hydrolyzes Ang II into angiotensin
+1-7 [Ang (1&#x02013;7)], a bioactive peptide in the renin-angiotensin system that has regulatory
+actions counter to those of AngII (<xref rid="B14" ref-type="bibr">14</xref>). It was
+proposed that the activation of the ACE2-Ang(1&#x02013;7)-Mas axis might prevent or reverse
+organ damage in experimental models of renal diseases (<xref rid="B15" ref-type="bibr">15</xref>). Consistent with this, Ferrario et al. (<xref rid="B16" ref-type="bibr">16</xref>) demonstrated that increased Ang(1-7) could serve as a renoprotective
+factor. However, the role of Ang(1-7) in the CIH-exposed kidney remains unknown. In the
+present study, our aim was to explore the mechanism of OSA and renal injury and the
+potential protective role of Ang(1-7) in CIH-induced hypertensive rats.</p><p>Specifically, the present study was designed to test the hypothesis that a 4-week
+treatment with Ang(1-7) could exert renoprotective and antihypertensive effects in CIH
+rats, an OSA animal model that displays a progressive development of sleep apnea (<xref rid="B17" ref-type="bibr">17</xref>). We focused on the effects of Ang(1-7) treatment
+at various levels as indicated by oxidative stress markers, structural modifications
+(renal fibrosis), inflammation markers, and renal apoptosis.</p></sec><sec sec-type="materials|methods"><title>Material and Methods</title><sec><title>Experimental protocols</title><p>Male Sprague-Dawley rats (n=32, body weight=180-200 g) were purchased from the
+Experimental Animal Center of Wuhan University (Wuhan, China). Eight rats (exposed to
+normoxia control, Norm group) were randomly selected to establish the baseline levels
+of all the biomarkers. The remaining 24 rats were subcutaneously embedded with an
+osmotic mini-pump (Alzet model 2004, Cupertino, USA), and randomly divided into three
+groups, denoted as CIH (CIH exposure without any treatment), CIHAng (CIH
+exposure+Ang(1-7) infusion at 400 ng&#x000b7;kg<sup>-1&#x000b7;</sup>min<sup>-1</sup> for 28 days) or
+NormAng (normoxia exposure+Ang(1-7) infusion at 400
+ng&#x000b7;kg<sup>-1</sup>&#x000b7;min<sup>-1</sup> for 28 days).</p><p>This study was approved by the Ethics Committee of Wuhan University, China, and
+conducted in accordance with the Declaration of Helsinki and the Guide for the Care
+and Use of Laboratory Animals, as adopted and promulgated by the United National
+Institutes of Health. The rats were housed in departmental animal chambers and were
+maintained under a 12-12 h light-dark cycle under standard laboratory conditions
+(temperature, 25&#x000b1;2&#x000b0;C; humidity, 60&#x000b1;5%). The rats were provided standard rodent chow
+and allowed free access to water. At the end of the experiment, all rats were
+sacrificed as described below. Every effort was made to minimize the number of rats
+used and their suffering during the experiments.</p><p>The model of CIH was established according to previously published methods (<xref rid="B18" ref-type="bibr">18</xref>). Briefly, sealed chambers were used to
+generate a hypoxic environment. Pure nitrogen and compressed air were distributed
+into each chamber through timed solenoid valves. Using 90-s cycles, pure nitrogen was
+infused into each chamber for the first 30 s until the minimum oxygen concentration
+reached 5%. Compressed air was infused for the remaining 60 s to allow the oxygen
+concentration in the chambers to return gradually to 20.9%. For the Norm group, air
+was forced into the chamber. For CIHAng and CIH groups, hypoxia exposure experiments
+were performed between 8:00 am and 4:00 pm.</p></sec><sec><title>Measurement of SBP</title><p>Systolic blood pressure (SBP) was measured every week using tail cuff plethysmography
+(RBP-1 non-invasive BP analyzer, Chengdu Technology, China), in conscious animals.
+The average of three measurements was used for data analysis.</p></sec><sec><title>RSNA recording</title><p>Renal sympathetic nerve activity (RSNA) was recorded on rats under deep isoflurane
+anesthesia using fine wire bipolar electrodes placed on the left renal nerve under
+direct visualization using a surgical microscope. A left subcostal incision was made
+and the kidney was approached from the retroperitoneal space under an anatomical
+microscope. A bundle of renal nerves was identified and gently freed from the
+surrounding tissue. One of the renal nerves was dissected and hooked to a pair of
+silver electrodes. To insulate the electrodes and the nerve from the surrounding
+tissue and to prevent desiccation of the nerves, we covered the electrodes and the
+nerve preparation with liquid paraffin. Electrical changes in RSNA were amplified,
+filtered, and monitored on an oscilloscope with a low-frequency cutoff of 100 Hz and
+a high-frequency cutoff of 3000 Hz. RSNA was integrated at a time constant of 10 ms
+with a sampling frequency at 10 kHz. Rats were allowed to stabilize for 30&#x02013;60 min
+after surgery before initiating the acute experimental protocols. The bipolar
+platinum electrode was connected to a biological polygraph (RM6240BD, Chengdu
+Technology, China) to record RSNA simultaneously. After stabilization of the signal,
+the rats of the CIHAng and NormAng groups were given a daily dose of Ang(1-7) (576
+&#x000b5;g/kg) via intravenous injection into the tail vein, and changes in RSNA were
+observed. Integrated RSNA was simultaneously recorded. The postmortem background
+signal was determined and the experimental data were corrected for this value. The
+change in RSNA after the intervention is reported as the percent change from the
+baseline.</p></sec><sec><title>Collection of tissue samples and histological study</title><p>Rats from each experimental group were sacrificed via blood collection through
+intracardiac puncture. Blood samples were subjected to centrifugation at 377.3 g for
+15 min at 4&#x000b0;C and the sera were stored at &#x02212;80&#x000b0;C. Both kidneys of each animal were
+perfused with saline solution through the abdominal aorta until they were free of
+blood. For histological and immunohistochemical studies, decapsulated kidneys were
+cut longitudinally, fixed in phosphate-buffered 10% formaldehyde, pH 7.2, and
+embedded in paraffin. Then, 3-&#x000b5;m sections were cut, stained with Sirius red, and
+illuminated with a polarized light. Histological observations under light microscopy
+were performed using a Nikon E400 light microscope (Nikon Instrument Group, USA).
+Measurements were carried out with Image-Pro Plus image analyzer version 4.5 for
+Windows (Media Cybernetics, Silver Spring, MD). The remaining parts of the renal
+tissues were immediately frozen in liquid nitrogen and stored at &#x02212;80&#x000b0;C.</p></sec><sec><title>Immunohistochemical analysis</title><p>Kidney samples were fixed in 10% neutral formalin and embedded in paraffin, and then
+3-mm thick sections were cut. The sections were incubated twice in xylene for 5 min
+each, followed by dehydration in a gradient of histology-grade ethanol for 5 min
+each, then rehydrated and rinsed in phosphate-buffered saline (PBS). Slides were then
+incubated in 30% H<sub>2</sub>O<sub>2</sub> for 10 min at room temperature and washed
+twice with distilled water and PBS. Bovine serum albumin was added to the slides for
+15 min. Next, the excess serum was removed and one of the following primary
+antibodies was added (all antibodies were from Boster, China, unless otherwise
+indicated): goat polyclonal anti-IL-6 (1:200 dilution), monoclonal antibody against
+rat TNF-&#x003b1; (dilution 1:50), monoclonal antibody against anti-HIF-1&#x003b1; (dilution 1:100),
+polyclonal antibody anti-CTGF (1:100 dilution), rabbit polyclonal antibody
+anti-nitrotyrosine (dilution 1:100; Millipore, USA) or polyclonal antibody anti-TGF-&#x003b1;
+(1:100 dilution), followed by incubation for 1 h at room temperature. After three
+washes with PBS for 3 min each, secondary antibodies (goat anti-rabbit IgG-HRP,
+1:50,000, Boster) were added and incubated for 15 min at room temperature, followed
+by three 3-min washes with PBS. Integrated optical density (IOD) was measured using
+Image Pro Plus (version 6.0; Media Cybernetics, USA).</p></sec><sec><title>Measurement of plasma levels of TNF-&#x003b1;, IL-6, and Ang II</title><p>Blood samples were centrifuged at 1756 <italic>g</italic> for 10 min and stored at
+-20&#x000b0;C until use. Plasma levels of TNF-&#x003b1;, IL-6, and Ang II were detected by
+solid-phase sandwich enzyme-linked immunosorbent assay (ELISA) kits (Elabscience
+Biotechnology Co., Ltd., China) specific for these factors and absorbance was
+measured at 450 nm using a plate reader (BioTek ELx800, USA).</p></sec><sec><title>Measurement of oxidative parameters in the renal tissue</title><p>Frozen renal specimens from the rats were homogenized in tissue lysis buffer
+(Beyotime, China). After lysis for 15 min on ice, the homogenates were centrifuged at
+1756 <italic>g</italic> for 15 min at 4&#x000b0;C. The malondialdehyde (MDA) contents in the
+supernatant were measured using commercially available kits (Jiancheng Bioengineering
+Institute, China). Briefly, the MDA contents in the homogenates were determined
+spectrophotometrically by measuring the presence of thiobarbituric acid-reactive
+substances as follows: 3 mL 1% phosphoric acid and 1 mL 0.6% thiobarbituric acid
+solution were added to 0.5 mL plasma that had been pipetted into a tube. The mixture
+was then heated in boiling water for 45 min. After the mixture had cooled, the color
+was extracted into 4 mL n-butanol. Absorbance was measured using a spectrophotometer
+(UV-1601; Shimadzu, Japan) at 532 nm. The amount of lipid peroxide was calculated to
+represent the thiobarbituric acid-reactive substances subject to lipid peroxidation.
+The results are reported in nmol/mg protein, according to a standard graph prepared
+from measurements of standard solutions (1,1,3,3-tetramethoxypropane).</p><p>The activity of SOD in the renal tissues was measured using a commercial assay kit
+(Jiancheng Bioengineering Institute), following the manufacturer's instructions.
+Briefly, this assay kit employs a thiazole salt for the detection of superoxide
+anions by producing a colored product. The absorbance was measured at a wavelength of
+450 nm. One unit of SOD was defined as the total enzyme needed to produce 50%
+dismutation of superoxide radicals. To assay catalase (CAT), 100 &#x000b5;L kidney homogenate
+was diluted to a total volume of 1.2 mL with sodium phosphate buffer (50 mM), pH 7.0,
+and mixed with 1 mL H<sub>2</sub>O<sub>2</sub> solution (30 mM). The IOD of each
+sample was measured at 240 nm for 3 min against a reagent blank containing buffer
+instead of kidney homogenate. CAT values were reported as the absorbance at 405 nm.
+An enzyme activity unit was defined as the degradation of 1 &#x003bc;mol
+H<sub>2</sub>O<sub>2</sub>&#x000b7;s<sup>-1</sup>&#x000b7;mg<sup>-1</sup> protein. The enzyme
+activity is reported as units/mg protein.</p></sec><sec><title>Western blotting</title><p>Protein concentrations were measured using the bicinchoninic acid protein assay
+(Thermo Scientific, USA). Equal amounts of boiled protein (40 &#x003bc;g) in the loading
+buffer were separated via NuPAGE 10% Bis-Tris sodium dodecyl sulfate-polyacrylamide
+gel electrophoresis (Life Technologies, USA) and then electrophoretically transferred
+to polyvinylidene fluoride membranes (Millipore). The membranes were subsequently
+incubated with primary antibodies (anti-TGF- &#x003b1; antibody, 1:800 dilution, bioWORLD,
+USA; anti-CTGF antibody, 1:1,000 dilution, Cell Signaling Technology (CST), USA;
+anti-HIF-1&#x003b1;, 1:1,000 dilution, Abcam, UK; cleaved caspase 3 antibody, 1:1,000,
+dilution, CST; and cleaved caspase 12 antibody, 1:1,000 dilution, Proteintech Group,
+Inc., USA), washed three times with TBST buffer (10 mM Tris-HCl, 0.15 M NaCl, and
+0.05% Tween 20, pH 7.2), and incubated at room temperature for 1 h in the presence of
+horseradish peroxidase-conjugated secondary antibody (goat anti-rabbit IgG, 1:50,000;
+Boster). After the blots were washed three times with TBST buffer, they were
+developed and exposed using an enhanced chemiluminescence system on Hyperfilm X-ray
+films. The resultant protein bands were quantified by densitometry (QuantityOne 4.5.0
+software; Bio-Rad Laboratories, USA).</p></sec><sec><title>Terminal deoxynucleotidyl-transferase-mediated dUTP digoxigenin nick end labeling
+(TUNEL) assay</title><p>Apoptosis was evaluated via the <italic>in situ</italic> TUNEL assay, according to
+the manufacturer&#x02019;s instructions (Roche, USA). Serial sagittal sections of the kidney
+were digested with 20 &#x003bc;g/mL proteinase K (Dako, Denmark) for 15 min and then immersed
+in 3% hydrogen peroxide for 5 min and incubated with terminal deoxynucleotidyl
+transferase at 37&#x000b0;C for 1 h. The sections were subsequently incubated with an
+anti-digoxigenin-peroxidase antibody at 37&#x000b0;C for 30 min,visualized with
+diaminobenzidine, and counterstained with hematoxylin. Detection of apoptotic cells
+was performed manually under a light microscope at a magnification of 200&#x000d7;. The
+apoptotic index was calculated as the percentage of cells showing TUNEL positivity.
+TUNEL (+) cells were counted from five random fields for each rat.</p></sec><sec><title>Statistical analysis</title><p>Data are reported as means&#x000b1;SE. Statistical analysis was performed using SPSS V17.0
+software (SPSS, USA). Statistical comparisons between groups were conducted with
+one-way analysis of variance (ANOVA) and the least significant difference test was
+performed for multiple comparisons. Change of RSNA was determined by an independent
+sample <italic>t</italic>-test. A value of P<italic>&#x0003c;</italic>0.05 indicated a
+significant difference.</p></sec></sec><sec sec-type="results"><title>Results</title><sec><title>SBP</title><p>As observed by indirect determination, CIH rats displayed a significant increase in
+SBP compared with the Norm and NormAng groups from the end of the second week (14
+days: CIH <italic>vs</italic> Norm <italic>vs</italic> NormAng: 125.5&#x000b1;7.4
+<italic>vs</italic> 100.8&#x000b1;5.3 <italic>vs</italic> 100.0&#x000b1;6.1 mmHg; CIH
+<italic>vs</italic> Norm: P&#x0003c;0.0001, CIH <italic>vs</italic> CIHAng: P=0.001).
+By the end of the treatment period with Ang(1-7), SBP was restored, reaching values
+statistically different from those obtained in the CIH group (28 days: CIH
+<italic>vs</italic> CIHAng: 145.0&#x000b1;8.2 <italic>vs</italic> 127.0&#x000b1;9.3 mmHg,
+P&#x0003c;0.0001). No statistical difference in SBP was observed between the Norm and
+NormAng groups (P&#x0003e;0.05; <xref ref-type="fig" rid="f01">Figure 1</xref>).</p><fig id="f01" orientation="portrait" position="float"><label>Figure 1</label><caption><title>Systolic blood pressure (SBP) in Sprague-Dawley rats in the four groups
+(n=8). Norm: normoxia control group; NormAng: Norm and Ang(1-7) supplemented
+group; CIH: chronic intermittent hypoxia; CHIAng: CIH exposure+Ang(1-7)
+infusion. Data are reported as means&#x000b1;SE. During the experimental days:
+*P=0.0001, CIH <italic>vs</italic> CIHAng rats; 21 and 28 days: *P&#x0003c;0.0001,
+CIH <italic>vs</italic> CIHAng rats; 14 days: <sup>#</sup>P=0.001, CIHAng
+<italic>vs</italic> Norm rats and NormAng rats; 21 days:
+<sup>#</sup>P=0.006, CIHAng <italic>vs</italic> Norm rats and
+<sup>#</sup>P=0.003, CIHAng <italic>vs</italic> NormAng rats; 28 days:
+<sup>#</sup>P=0.0001, CIHAng <italic>vs</italic> Norm rats and NormAng rats
+(ANOVA followed by LSD for multiple comparisons).</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf001"/></fig></sec><sec><title>RSNA</title><p>As shown in <xref ref-type="fig" rid="f02">Figure 2</xref>, the RSNA baseline of the
+CIH group was significantly higher than that of the CIHAng group, which was higher
+compared with the Norm and NormAng groups. However, there were no significant
+differences between the Norm and NormAng groups with respect to the baseline. After
+the acute intervention of Ang(1-7), RSNA was attenuated in the NormAng group.
+However, this change was significantly greater in the CIHAng group (P&#x0003c;0.05; <xref ref-type="fig" rid="f02">Figure 2</xref>).</p><fig id="f02" orientation="portrait" position="float"><label>Figure 2</label><caption><title>Original recording and integrated renal sympathetic nerve activity (RSNA)
+in each group. Note the low baseline level of RSNA in normoxia
+(<italic>A</italic>, Norm and <italic>B</italic>, NormAng), moderate RSNA
+level in CIHAng(<italic>C</italic>), and enhanced RSNA induced by CIH
+(<italic>D</italic>). <italic>E</italic>, Baseline levels of each group.
+<italic>F</italic>, &#x00394; RSNA change compared to baseline after Ang(1-7)
+administration. Data are reported as means&#x000b1;SE for n=8 rats per group. Norm:
+normoxia control group. NormAng: Norm and Ang(1-7) supplemented group. CIH:
+untreated chronic intermittent hypoxia group. CIHAng: CIH and Ang(1-7)
+supplemented group. <italic>E</italic>, *&#x0003c;0.0001, CIH and CIHAng
+<italic>vs</italic> Norm; <sup>#</sup>&#x0003c;0.0001, CIH and CIHAng
+<italic>vs</italic> NormAng;<sup>+</sup>&#x0003c;0.0001, CIHAng
+<italic>vs</italic> CIH (ANOVA). <italic>F</italic>, <sup>*</sup>&#x0003c;0.0001,
+CIHAng <italic>vs</italic> CIH.</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf002"/></fig></sec><sec><title>Oxidative stress evaluation in kidney homogenates</title><p>As observed in <xref ref-type="fig" rid="f03">Figure 3A&#x02013;C</xref>, both CAT and SOD
+renal enzymatic activities were decreased and MDA was increased in the CIH group,
+indicating a decreased antioxidant capacity in the kidney of this animal model. After
+chronic treatment with Ang(1-7), a significant decline of MDA and rising CAT and SOD
+levels were observed. These results confirmed that Ang(1-7) treatment effectively
+attenuated the state of oxidative stress in the kidneys of CIH rats. Nitrotyrosine
+content was also determined as an additional parameter of renal oxidative stress in
+rats. The CIH group displayed increased tissue nitrotyrosine levels, whereas chronic
+treatment with Ang(1-7) led to a significant reduction of protein nitration levels in
+the kidney (<xref ref-type="fig" rid="f03">Figure 3D and E</xref>).</p><fig id="f03" orientation="portrait" position="float"><label>Figure 3</label><caption><title>Effects of Ang(1-7) on oxidative stress in renal tissues.
+<italic>A</italic>, Total superoxide dismutase (SOD) activity;
+<italic>B</italic>, content of malondialdehyde (MDA), and
+<italic>C</italic>, level of catalase (CAT). <italic>D</italic>,
+Immunohistochemistry of nitrotyrosine residues in the kidney of CIHAng rats
+subjected to chronic treatment with Ang(1-7) (&#x000d7;400). Kidney sections show
+nitrotyrosine-positive immunostaining in Norm, NormAng, CIHAng, and CIHAng
+groups. <italic>E</italic>, Quantification of nitrotyrosine in each group.
+Norm: normoxia control group; NormAng: Norm and Ang(1-7)-supplemented group;
+CIH: untreated chronic intermittent hypoxia (CIH) group; CIHAng: CIH and
+Ang(1-7)-supplemented group. Data are reported as means&#x000b1;SE for 8 rats per
+group. *P&#x0003c;0.05 <italic>vs</italic> Norm; <sup>#</sup>P&#x0003c;0.05
+<italic>vs</italic> NormAng; <sup>+</sup>P&#x0003c;0.05 <italic>vs</italic> CIH
+(ANOVA).</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf003"/></fig></sec><sec><title>Measurement of renal interstitial fibrosis in CIH</title><p>As observed in <xref ref-type="fig" rid="f04">Figure 4</xref>, renal sections
+subjected to Sirius red staining and illuminated with polarized light indicated that
+the CIH group presented an increased degree of fibrosis compared with the Norm group.
+Notably, the CIHAng group chronically treated with Ang(1-7) showed a significant
+reduction in the expansion of extracellular matrix proteins. This reduction was
+accompanied by a decreased production of CTGF and TGF-&#x003b2; (<xref ref-type="fig" rid="f05">Figure 5A, B, E and F:</xref> percentage of positive cells for CIH
+<italic>vs</italic> CIHAng: CTGF=54.7&#x000b1;4.22 <italic>vs</italic> 17.8&#x000b1;1.77%,
+P&#x0003c;0.0001; IOD: TGF-&#x003b2;=20,906.0&#x000b1;5220.9 <italic>vs</italic> 8275.4&#x000b1;629.2,
+P&#x0003c;0.0001, respectively). Accordingly, CIH rats displayed an increased abundance of
+CTGF and TGF-&#x003b2; compared with the Norm group. Ang(1-7) treatment led to a reduction of
+these markers in the kidney in CIHAng group. Immunostaining results were confirmed by
+immunoblotting analysis of kidney homogenates (<xref ref-type="fig" rid="f05">Figure
+5C, D, G, and H</xref>; CIH <italic>vs</italic> CIHAng: CTGF=0.535&#x000b1;0.08
+<italic>vs</italic> 0.378&#x000b1;0.09; TGF-&#x003b2;=0.605&#x000b1;0.07 <italic>vs</italic> 0.445&#x000b1;0.09,
+respectively). No statistical difference was observed between the Norm and NormAng
+groups (P&#x0003e;0.05).</p><fig id="f04" orientation="portrait" position="float"><label>Figure 4</label><caption><title>Sirius red staining illuminated with polarized light to illustrate areas of
+fibrosis in kidneys of chronic intermittent hypoxia (CIH) rats subjected to
+chronic treatment with Ang(1-7). In Norm (<italic>A</italic>) and NormAng
+(<italic>B</italic>) groups little collagen expression is observed; in CIH
+group (<italic>C</italic>), strong collagen expression occurred in renal
+tissue; in CIHAng (<italic>D</italic>) group, expression intensity was
+attenuated by Ang(1-7), n=8. Norm: normoxia control group; NormAng: Norm and
+Ang(1-7)-supplemented group; CIH: untreated CIH group: CIHAng: CIH and
+Ang(1-7)-supplemented group.</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf004"/></fig><fig id="f05" orientation="portrait" position="float"><label>Figure 5</label><caption><title>Representative photomicrographs of kidney immunohistochemical analysis
+(400&#x000d7;) show that in the chronic intermittent hypoxia (CIH) group, CTGF
+(<italic>A</italic>) was expressed at high levels in glomerular epithelial
+cells and tubular epithelial cells (dominantly in the nuclei) and TGF-&#x003b2;
+(<italic>E</italic>) was localized dominantly in the cytoplasm. The
+supplementation of Ang(1-7) attenuated expression of both the CTGF and TGF-&#x003b2;
+proteins. Slight expression could be seen in renal tubules and glomeruli, as
+indicated by the arrows. <italic>B</italic>, Percentage of CTGF positive cells.
+<italic>C</italic>, Representative images showing the abundance of CTGF and
+TGF-&#x003b2; (G), assessed by specific immunoblotting analysis in the kidney.
+Densitometric evaluation of independent western blot of CTGF
+(<italic>D</italic>) and TGF-&#x003b2; (<italic>H</italic>). <italic>F</italic>,
+Comparison of integrated optical density (IOD) values among the 4 groups
+*P&#x0003c;0.006, <italic>vs</italic> Norm; <sup>#</sup>P&#x0003c;0.006,
+<italic>vs</italic> NormAng; <sup>+</sup>P&#x0003c;0.006, <italic>vs</italic> CIH
+(ANOVA). Data are reported as means&#x000b1;SE. Norm: normoxia control group; NormAng:
+Normoxia and Ang(1-7)-supplement group; CIH: untreatment CIH group; CIHAng: CIH
+and Ang(1-7)-supplement group (n=8 per group).</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf005"/></fig></sec><sec><title>Determination of inflammatory markers in the CIH kidney</title><p>The local expression of IL-6, TNF-&#x003b1;, and HIF-&#x003b1; as markers of inflammation was also
+examined by immunohistochemical, immunoblotting, and ELISA. As observed in <xref ref-type="fig" rid="f06">Figure 6A&#x02013;F</xref> (IOD: CIH <italic>vs</italic> CIHAng:
+IL-6=21,607.3&#x000b1;3418.8 <italic>vs</italic> 5532.1&#x000b1;1141.8; TNF-&#x003b1;=20,497.4&#x000b1;2126.2
+<italic>vs</italic> 7547.7&#x000b1;696.7; HIF-&#x003b1;=20,883.9&#x000b1;2918.2 <italic>vs</italic>
+7199.2&#x000b1;602.1, respectively), the nontreated CIH group presented an increased renal
+expression of IL-6, TNF-&#x003b1;, and HIF-&#x003b1; compared with the Norm group. The reduction in
+renal fibrosis was accompanied by a decreased production of local proinflammatory
+markers. As was observed for other fibrosis markers evaluated, chronic treatment with
+Ang(1-7) reduced the expression of IL-6 and TNF-&#x003b1; in the CIHAng kidney. This result
+was confirmed by immunoblotting (<xref ref-type="fig" rid="f06">Figure 6G and
+H</xref>) and ELISA (CIH <italic>vs</italic> CIHAng: IL-6=1025.1&#x000b1;164.9
+<italic>vs</italic> 729.6&#x000b1;130.7 pg/mL, P&#x0003c;0.0001; TNF-&#x003b1;=906.7&#x000b1;137.4
+<italic>vs</italic> 632.7 &#x000b1;119.1, P&#x0003c;0.0001; <xref ref-type="fig" rid="f07">Figure 7A and B</xref>).</p><fig id="f06" orientation="portrait" position="float"><label>Figure 6</label><caption><title>Immunohistochemical expression of IL-6 (<italic>A</italic>), TNF-&#x003b1;
+(<italic>B</italic>), and HIF-1&#x003b1; (<italic>C</italic>) in rat renal tissue.
+Representative photomicrographs of kidney immunohistochemical analysis (400&#x000d7;)
+showing that TNF-&#x003b1; and IL-6 were expressed strongest in renal tubular
+epithelial cells whereas little expression was observed in glomerular
+epithelial cells in the chronic intermittent hypoxia (CIH) group. Ang(1-7)
+supplementation caused a lower expression of TNF-&#x003b1; and IL-6. Slight expression
+could be seen in renal tubules and glomeruli in the Norm and NormAng groups
+(arrows). The expression of the HIF-1&#x003b1; protein was high in CIH both in the
+cytoplasm and nucleus in tubular and glomerular epithelial cells. The
+administration of Ang(1-7) significantly reduced the expression of HIF-&#x003b1;. Norm
+and NormAng groups showed little expression of HIF-&#x003b1; in renal tissue.
+Comparison of integrated optical density (IOD) values for IL-6
+(<italic>D</italic>), TNF-a (<italic>E</italic>), and HIF-1&#x003b1;
+(<italic>F</italic>). Representative images showing the abundance of HIF-&#x003b1;
+(<italic>G</italic>) assessed by specific immunoblotting analysis in the
+kidney and its quatification (<italic>H</italic>). Data are reported as the
+means&#x000b1;SE. *P&#x0003c;0.02, <italic>vs</italic> Norm; <sup>#</sup>P&#x0003c;0.02
+<italic>vs</italic> NormAng; <sup>+</sup>P=0.001 <italic>vs</italic> CIH
+(ANOVA). Norm: normoxia control group (n=8); NormAng: Norm and
+Ang(1-7)-supplemented group (n=8); CIH: untreated CIH group (n=8); CIHAng: CIH
+and Ang(1-7)-supplemented groups (n=8).</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf006"/></fig><fig id="f07" orientation="portrait" position="float"><label>Figure 7</label><caption><title>
+<italic>A</italic>, IL-6, <italic>B</italic>, TNF-&#x003b1;, <italic>C</italic>, Ang II
+levels in renal tissue. Data are reported as means&#x000b1;SE. Norm: normoxia control
+group; NormAng: Norm and Ang(1-7)-supplemented group; CIH: untreated CIH group;
+CIHAng: CIH and Ang(1-7)-supplemented group (n =8 per group). *P&#x0003c;0.01
+<italic>vs</italic> Norm; <sup>#</sup>P&#x0003c;0.01 <italic>vs</italic> NormAng;
+<sup>+</sup>P&#x0003c;0.01 <italic>vs</italic> CIH (ANOVA).</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf007"/></fig></sec><sec><title>Level of AngII</title><p>As shown in <xref ref-type="fig" rid="f07">Figure 7C</xref>, the CIH group displayed
+a significant increase in AngII levels compared with the Norm and NormAng groups (CIH
+<italic>vs</italic> Norm <italic>vs</italic> NormAng=2533.66&#x000b1;247.94
+<italic>vs</italic> 1362.98&#x000b1;192.45 <italic>vs</italic> 1255.22&#x000b1;197.79 pg/mL,
+P&#x0003c;0.0001). The AngII level was lower in the CIHAng group (1935.63&#x000b1;266.13 pg/mL)
+than in the CIH group but higher than in the Norm and NormAng groups (P&#x0003c;0.0001).
+There were no significant differences between the Norm and NormAng groups
+(P=0.353).</p></sec><sec><title>Renal cell apoptosis</title><p>TUNEL staining (<xref ref-type="fig" rid="f08">Figure 8A and B</xref>) showed that
+the percentage of TUNEL-positive cells was higher in the CIH group (25.99&#x000b1;1.38%) than
+in both Norm (5.01&#x000b1;0.77%) and NormAng groups (4.96&#x000b1;1.27%) (all P&#x0003c;0.05). The ratio
+of TUNEL-positive cells in the CIHAng group (14.71&#x000b1;1.84%) was lower than in the CIH
+group but higher than in the Norm and NormAng groups (all P&#x0003c;0.05). There were no
+significant differences in the ratio of TUNEL-positive cells between the Norm and
+NormAng groups (P&#x0003e;0.05). The protein levels of cleaved caspase-3 and cleaved
+caspase-12 (<xref ref-type="fig" rid="f08">Figure 8C and D</xref>) were significantly
+elevated in the CIH and CIHAng groups compared to the Norm and NormAng groups;
+however, the levels in the CIH group were higher than those in the CIHAng group (all
+P&#x0003c;0.05). No differences were observed between the Norm and NormAng groups
+(P&#x0003e;0.05).</p><fig id="f08" orientation="portrait" position="float"><label>Figure 8</label><caption><title>
+<italic>A</italic>, Representative microscopy images of tubular epithelial cell
+apoptosis (TUNEL assay, original magnification &#x000d7;200). <italic>B</italic>,
+Percentage of TUNEL (+) cells in kidney tissues. <italic>C</italic>, Protein
+levels of cleaved caspase-3 and cleaved caspase-12 in the four groups.
+<italic>D</italic>, Densitometric evaluation of the independent western
+blot. Data are reported as means&#x000b1;SE. Norm: normoxia control group; NormAng:
+Norm and Ang(1-7)-supplemented group; CIH: untreated CIH group; CIHAng: CIH and
+Ang(1-7)-supplemented group (n=8 per group). *P&#x02264;0.001, <italic>vs</italic>
+Norm; <sup>#</sup>P&#x02264;0.001, <italic>vs</italic> NormAng; <sup>+</sup>P&#x02264;0.001,
+<italic>vs</italic> CIH.</title></caption><graphic xlink:href="1414-431X-bjmbr-1414-431X20165594-gf008"/></fig></sec></sec><sec sec-type="discussion"><title>Discussion</title><p>The incidence of OSA is associated with CKD. The prevalence of sleep apnea has been
+found to be as high as 54-94% in non-dialysis dependent patients with CKD and 30-93% in
+end-stage renal disease populations. In addition, the prevalence of OSA has been
+increasing worldwide over recent decades. As OSA is usually associated with a reduction
+in blood oxygen saturation (<xref rid="B01" ref-type="bibr">1</xref>), rats with
+CIH-induced hypoxia-reoxygenation represent a widely used animal model of human OSA.</p><p>Hypoxia and altered O<sub>2</sub> perfusion are potential players in the development of
+renal injury. Many of the redox-sensitive cytokines such as IL-6 and TNF-&#x003b1; are
+proinflammatory and might play a critical role in the initiation and progression of
+renal injury. In addition, several factors including oxidative stress, fibrosis, and
+activation of the renin-angiotensin system (RAS) are involved in the pathogenesis of
+renal injury and lead to the impaired control of RSNA and resistant hypertension. In
+this study, CIH rats were randomized to receive Ang(1-7) to assess the effect of this
+treatment on OSA-induced renal injury. We determined that Ang(1-7) induced a protective
+role and antihyperactive effect in the kidney of CIH animals. First, we demonstrated
+that CIH could induce hypertension and renal cell apoptosis as well as oxidative stress,
+inflammation, and fibrosis. Then, we found that Ang(1-7) lowered blood pressure and
+ameliorated CIH-induced renal injury, reducing the fibrosis and inflammation in the
+kidney as well as the associated oxidative stress.</p><p>Ang(1-7) is formed from Ang II by a prolyl-endopeptidase, prolyl-carboxypeptidase, or
+ACE2, or directly from Ang I through hydrolysis by a prolyl-endopeptidase and an
+endopeptidase and is metabolized by ACE to Ang-(1-5). In general, Ang(1-7) opposes the
+vascular and proliferative effects of Ang II and exerts complex renal actions in chronic
+renal diseases and hypertension. Xu et al. (<xref rid="B19" ref-type="bibr">19</xref>)
+demonstrated that genetic deletion of the Ang(1-7) receptor Mas produces an extremely
+complex phenotype that includes increased blood pressure and decreased baroreflex
+function. Casali et al. (<xref rid="B20" ref-type="bibr">20</xref>) reported that the
+deletion of the Mas receptor is associated with an increase of systolic arterial
+pressure and with increased blood pressure variability, indicating that the Ang(1-7)/Mas
+axis is important in the autonomic modulation of arterial pressure. In turn, our results
+suggest that a chronic subcutaneous perfusion of Ang(1-7) manifested BP-lowering effects
+under conditions of chronic hypoxia. This concept is further supported by recent
+findings in other hypertensive models (i.e., in two-kidney, one-clip (2K1C) Goldblatt
+hypertensive rats and in Ren-2 transgenic rats, a well-defined monogenetic model of
+hypertension (<xref rid="B21" ref-type="bibr">21</xref>,<xref rid="B22" ref-type="bibr">22</xref>).</p><p>Glomerular or interstitial inflammation is thought to play an important role in the
+initiation of CKD. Furthermore, the release of inflammatory cytokines has been shown to
+play a pivotal role in the pathogenesis of OSA-associated renal injury. In the present
+study, the induction of CIH in rats resulted in a significant increase in IL-6 and
+TNF-&#x003b1;. Ang II has been shown to have a proinflammatory role in OSA and inhibiting its
+actions improves inflammation. Consistent with this, Fang et al. (<xref rid="B14" ref-type="bibr">14</xref>) demonstrated that deletion of the <italic>Ace2</italic> gene
+significantly increases cellular inflammation, pro-inflammatory cytokine expression, and
+apoptosis following ischemia/reperfusion (I/R). Liu et al. (<xref rid="B23" ref-type="bibr">23</xref>) have demonstrated that higher ratios of Ang II/Ang-(1-7)
+increased concentrations of inflammatory factors such as TNF-&#x003b1; at renal tissue.
+Accordingly, the present results provide strong evidence for an anti-inflammatory effect
+of Ang(1-7) in the kidney as evinced by its ability to improve the levels of several
+proinflammatory cytokines (IL-6 and TNF-&#x003b1;) in CIH rats. In addition, we found that the
+level of Ang II in the CIH group was higher than that in the CIHAng group. Dilauro et
+al. (<xref rid="B24" ref-type="bibr">24</xref>) demonstrated that treatment with
+Ang(1-7) significantly decreased plasma levels of AngII and hypothesized that Ang(1-7)
+could promote the increased degradation of Ang II and thereby confer protection in CKD.
+It was proposed that the activation of the counter-regulatory RAS axis,
+ACE2-Ang(1-7)-Mas, could oppose the effects of the ACE-Ang II-AT1 axis and prevent or
+reverse organ damage.</p><p>Intermittent hypoxia (IH) is believed to induce oxidative stress, which contributes to
+renal injury. Welch et al. (<xref rid="B25" ref-type="bibr">25</xref>) reported that the
+administration of Ang II to rats using osmotic minipumps resulted in hypertension and
+elevated oxidative stress. In addition, reactive oxygen species (ROS), whether
+mitochondrial- or cell membrane-derived, might also be responsible for the activation of
+classical RAS components, contributing further to the compromise of renal functions. Sun
+et al. (<xref rid="B26" ref-type="bibr">26</xref>) demonstrated that when mice were
+exposed to long-term IH, the kidney became incapable of tolerating IH-induced changes,
+reflected by a second increase of renal inflammation along with lipid peroxidation, cell
+death, and fibrosis. In comparison, our study found that the level of oxidative stress
+increased in the kidney tissue in the CIH group. This finding is also in accordance with
+other reports that CIH caused the production of ROS (<xref rid="B27" ref-type="bibr">27</xref>
+<xref rid="B28" ref-type="bibr"/>&#x02013;<xref rid="B29" ref-type="bibr">29</xref>). Wysocki et
+al. (<xref rid="B30" ref-type="bibr">30</xref>) demonstrated that the genetic ablation
+of ACE2 in mice was associated with increased kidney ROS owing to elevated levels of
+NADPH oxidase activity. Other studies demonstrated that both apoptosis and oxidative
+stress, two processes that are associated with I/R and are influenced by Ang II, were
+exacerbated by the loss of the <italic>Ace2</italic> gene (<xref rid="B31" ref-type="bibr">31</xref>,<xref rid="B32" ref-type="bibr">32</xref>) and that repetitive
+episodes of hypoxia/reoxygenation that are associated with the transient cessation of
+breathing during sleep in OSA resemble I/R injury (<xref rid="B33" ref-type="bibr">33</xref>). Consistent with these findings, the present study demonstrated that the
+enhanced oxidative stress in CIH appeared to be significantly inhibited by Ang(1-7)
+treatment. Thus, it can be hypothesized that the ability of Ang(1-7) to notably inhibit
+oxidative stress renders a protective effect on CIH rats.</p><p>A hypoxic environment accelerates fibrosis, which results in a loss of peritubular
+capillaries that correlates with the deterioration in renal function. In addition,
+tubulointerstitial hypoxia stimulates the production of collagen, an indicator of
+increased fibrogenesis. In 1998, Fine et al. (<xref rid="B34" ref-type="bibr">34</xref>)
+suggested chronic hypoxia served as the common mediator of the development of
+progressive renal disease, with hypoxia acting as the transmitter of glomerular injury
+to the tubulointerstitium. The stipulated &#x0201c;chronic hypoxia hypothesis&#x0201d; suggested that
+the hypoxic milieu triggers a fibrotic response and the development of fibrosis in
+tubulointerstitial cells. In this model, hypoxia causes a decrease in anti-fibrotic
+factors in parallel with an increased expression of fibrogenic factors, e.g., TGF-&#x003b2;,
+CTGF and Ang II (<xref rid="B35" ref-type="bibr">35</xref>,<xref rid="B36" ref-type="bibr">36</xref>). According to Kagami et al. (<xref rid="B37" ref-type="bibr">37</xref>), Ang II and ROS play an important role in cellular signaling and the
+activation of genes of extracellular matrix proteins, such as collagens and fibronectin
+via TGF-&#x003b2; (<xref rid="B37" ref-type="bibr">37</xref>). By affecting the tissue adjacent
+to capillaries and nephrons, the fibrotic response, in turn, exacerbates the hypoxia and
+fibrosis, leading to a vicious cycle (<xref rid="B38" ref-type="bibr">38</xref>). A
+protective role for Ang(1-7) in this process was evidenced in Mas receptor knockout
+mice, which display renal dysfunction associated with increased interstitial fibrosis
+and the upregulation of mRNA for TGF-&#x003b2; (<xref rid="B39" ref-type="bibr">39</xref>,<xref rid="B40" ref-type="bibr">40</xref>). In accordance with these reports, in the
+present study we determined that the chronic subcutaneous perfusion of Ang(1-7)
+ameliorated renal fibrosis and improved the hypoxic condition in the kidney of CIH
+animals.</p><p>In summary, our findings indicated that Ang(1-7) lowered blood pressure and induced a
+protective role in the kidneys of CIH animals and that these effects appeared to be
+mediated, at least in part, by inhibiting the release of proinflammatory cytokines and
+ameliorating oxidative stress and fibrosis. These results highlight the therapeutic
+potential of enhancing Ang(1-7) action as a novel therapy for CIH-induced target organ
+damage.</p></sec></body><back><ack><title>Acknowledgments</title><p>We thank Dr. Jing Feng and Prof. Baoyuan Chen, from the Respiratory Department, Tianjin
+Medical University General Hospital, China, for their support with the intermittent
+hypoxia chamber and the gas control delivery system used in this study. This work was
+supported by grants from the National Natural Science Foundation of China (#81070065 and
+#81370181).</p></ack><ref-list><title>References</title><ref id="B01"><label>1</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Passali</surname><given-names>D</given-names></name><name><surname>Corallo</surname><given-names>G</given-names></name><name><surname>Yaremchuk</surname><given-names>S</given-names></name><name><surname>Longini</surname><given-names>M</given-names></name><name><surname>Proietti</surname><given-names>F</given-names></name><name><surname>Passali</surname><given-names>GC</given-names></name><etal/></person-group><article-title>Oxidative stress in patients with obstructive sleep apnoea
+syndrome</article-title><source>Acta Otorhinolaryngol Ital</source><year>2015</year><volume>35</volume><fpage>420</fpage><lpage>425</lpage><pub-id pub-id-type="doi">10.14639/0392-100X-895</pub-id><pub-id pub-id-type="pmid">26900248</pub-id></element-citation></ref><ref id="B02"><label>2</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Epstein</surname><given-names>LJ</given-names></name><name><surname>Kristo</surname><given-names>D</given-names></name><name><surname>Strollo</surname><given-names>PJ</given-names><suffix>Jr</suffix></name><name><surname>Friedman</surname><given-names>N</given-names></name><name><surname>Malhotra</surname><given-names>A</given-names></name><name><surname>Patil</surname><given-names>SP</given-names></name><etal/></person-group><article-title>Clinical guideline for the evaluation, management and long-term care
+of obstructive sleep apnea in adults</article-title><source>J Clin Sleep Med</source><year>2009</year><volume>5</volume><fpage>263</fpage><lpage>276</lpage><pub-id pub-id-type="pmid">19960649</pub-id></element-citation></ref><ref id="B03"><label>3</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Calhoun</surname><given-names>DA</given-names></name></person-group><article-title>Obstructive sleep apnea and hypertension</article-title><source>Curr Hypertens Rep</source><year>2010</year><volume>12</volume><fpage>189</fpage><lpage>195</lpage><pub-id pub-id-type="doi">10.1007/s11906-010-0112-8</pub-id><pub-id pub-id-type="pmid">20424946</pub-id></element-citation></ref><ref id="B04"><label>4</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pedrosa</surname><given-names>RP</given-names></name><name><surname>Drager</surname><given-names>LF</given-names></name><name><surname>Gonzaga</surname><given-names>CC</given-names></name><name><surname>Sousa</surname><given-names>MG</given-names></name><name><surname>de Paula</surname><given-names>LK</given-names></name><name><surname>Amaro</surname><given-names>AC</given-names></name><etal/></person-group><article-title>Obstructive sleep apnea: the most common secondary cause of
+hypertension associated with resistant hypertension</article-title><source>Hypertension</source><year>2011</year><volume>58</volume><fpage>811</fpage><lpage>817</lpage><pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.111.179788</pub-id><pub-id pub-id-type="pmid">21968750</pub-id></element-citation></ref><ref id="B05"><label>5</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fletcher</surname><given-names>EC</given-names></name></person-group><article-title>Effect of episodic hypoxia on sympathetic activity and blood
+pressure</article-title><source>Respir Physiol</source><year>2000</year><volume>119</volume><fpage>189</fpage><lpage>197</lpage><pub-id pub-id-type="doi">10.1016/S0034-5687(99)00114-0</pub-id><pub-id pub-id-type="pmid">10722862</pub-id></element-citation></ref><ref id="B06"><label>6</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lavie</surname><given-names>P</given-names></name><name><surname>Herer</surname><given-names>P</given-names></name><name><surname>Hoffstein</surname><given-names>V</given-names></name></person-group><article-title>Obstructive sleep apnoea syndrome as a risk factor for hypertension:
+population study</article-title><source>BMJ</source><year>2000</year><volume>320</volume><fpage>479</fpage><lpage>482</lpage><pub-id pub-id-type="doi">10.1136/bmj.320.7233.479</pub-id><pub-id pub-id-type="pmid">10678860</pub-id></element-citation></ref><ref id="B07"><label>7</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Abuyassin</surname><given-names>B</given-names></name><name><surname>Sharma</surname><given-names>K</given-names></name><name><surname>Ayas</surname><given-names>NT</given-names></name><name><surname>Laher</surname><given-names>I</given-names></name></person-group><article-title>Obstructive sleep apnea and kidney disease: a potential bidirectional
+relationship?</article-title><source>J Clin Sleep Med</source><year>2015</year><volume>11</volume><fpage>915</fpage><lpage>924</lpage><pub-id pub-id-type="doi">10.5664/jcsm.4946</pub-id><pub-id pub-id-type="pmid">25845900</pub-id></element-citation></ref><ref id="B08"><label>8</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Turek</surname><given-names>NF</given-names></name><name><surname>Ricardo</surname><given-names>AC</given-names></name><name><surname>Lash</surname><given-names>JP</given-names></name></person-group><article-title>Sleep disturbances as nontraditional risk factors for development and
+progression of CKD: review of the evidence</article-title><source>Am J Kidney Dis</source><year>2012</year><volume>60</volume><fpage>823</fpage><lpage>833</lpage><pub-id pub-id-type="doi">10.1053/j.ajkd.2012.04.027</pub-id><pub-id pub-id-type="pmid">22727724</pub-id></element-citation></ref><ref id="B09"><label>9</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ozkok</surname><given-names>A</given-names></name><name><surname>Kanbay</surname><given-names>A</given-names></name><name><surname>Odabas</surname><given-names>AR</given-names></name><name><surname>Covic</surname><given-names>A</given-names></name><name><surname>Kanbay</surname><given-names>M</given-names></name></person-group><article-title>Obstructive sleep apnea syndrome and chronic kidney disease: a new
+cardiorenal risk factor</article-title><source>Clin Exp Hypertens</source><year>2014</year><volume>36</volume><fpage>211</fpage><lpage>216</lpage><pub-id pub-id-type="doi">10.3109/10641963.2013.804546</pub-id><pub-id pub-id-type="pmid">24432915</pub-id></element-citation></ref><ref id="B10"><label>10</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hanly</surname><given-names>PJ</given-names></name><name><surname>Ahmed</surname><given-names>SB</given-names></name></person-group><article-title>Sleep apnea and the kidney: is sleep apnea a risk factor for chronic
+kidney disease?</article-title><source>Chest</source><year>2014</year><volume>146</volume><fpage>1114</fpage><lpage>1122</lpage><pub-id pub-id-type="doi">10.1378/chest.14-0596</pub-id><pub-id pub-id-type="pmid">25288001</pub-id></element-citation></ref><ref id="B11"><label>11</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Lykouras</surname><given-names>D</given-names></name><name><surname>Theodoropoulos</surname><given-names>K</given-names></name><name><surname>Sampsonas</surname><given-names>F</given-names></name><name><surname>Lagiou</surname><given-names>O</given-names></name><name><surname>Lykouras</surname><given-names>M</given-names></name><name><surname>Spiropoulou</surname><given-names>A</given-names></name><etal/></person-group><article-title>The impact of obstructive sleep apnea syndrome on renin and
+aldosterone</article-title><source>Eur Rev Med Pharmacol Sci</source><year>2015</year><volume>19</volume><fpage>4164</fpage><lpage>4170</lpage><pub-id pub-id-type="pmid">26592843</pub-id></element-citation></ref><ref id="B12"><label>12</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>de Zeeuw</surname><given-names>D</given-names></name><name><surname>Lewis</surname><given-names>EJ</given-names></name><name><surname>Remuzzi</surname><given-names>G</given-names></name><name><surname>Brenner</surname><given-names>BM</given-names></name><name><surname>Cooper</surname><given-names>ME</given-names></name></person-group><article-title>Renoprotective effects of renin-angiotensin-system
+inhibitors</article-title><source>Lancet</source><year>2006</year><volume>367</volume><fpage>899</fpage><lpage>900</lpage><pub-id pub-id-type="doi">10.1016/S0140-6736(06)68374-8</pub-id><pub-id pub-id-type="pmid">16546533</pub-id></element-citation></ref><ref id="B13"><label>13</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Taal</surname><given-names>MW</given-names></name><name><surname>Brenner</surname><given-names>BM</given-names></name></person-group><article-title>Renoprotective benefits of RAS inhibition: from ACEI to angiotensin II
+antagonists</article-title><source>Kidney Int</source><year>2000</year><volume>57</volume><fpage>1803</fpage><lpage>1817</lpage><pub-id pub-id-type="doi">10.1046/j.1523-1755.2000.00031.x</pub-id><pub-id pub-id-type="pmid">10792600</pub-id></element-citation></ref><ref id="B14"><label>14</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fang</surname><given-names>F</given-names></name><name><surname>Liu</surname><given-names>GC</given-names></name><name><surname>Zhou</surname><given-names>X</given-names></name><name><surname>Yang</surname><given-names>S</given-names></name><name><surname>Reich</surname><given-names>HN</given-names></name><name><surname>Williams</surname><given-names>V</given-names></name><etal/></person-group><article-title>Loss of ACE2 exacerbates murine renal ischemia-reperfusion
+injury</article-title><source>PLoS One</source><year>2013</year><volume>8</volume><fpage>e71433</fpage><pub-id pub-id-type="doi">10.1371/journal.pone.0071433</pub-id><pub-id pub-id-type="pmid">23951161</pub-id></element-citation></ref><ref id="B15"><label>15</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Barroso</surname><given-names>LC</given-names></name><name><surname>Silveira</surname><given-names>KD</given-names></name><name><surname>Lima</surname><given-names>CX</given-names></name><name><surname>Borges</surname><given-names>V</given-names></name><name><surname>Bader</surname><given-names>M</given-names></name><name><surname>Rachid</surname><given-names>M</given-names></name><etal/></person-group><article-title>Renoprotective effects of AVE0991, a nonpeptide mas receptor agonist,
+in experimental acute renal injury</article-title><source>Int J Hypertens</source><year>2012</year><volume>2012</volume><fpage>808726</fpage><pub-id pub-id-type="doi">10.1155/2012/808726</pub-id><pub-id pub-id-type="pmid">22319645</pub-id></element-citation></ref><ref id="B16"><label>16</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ferrario</surname><given-names>CM</given-names></name><name><surname>Jessup</surname><given-names>J</given-names></name><name><surname>Gallagher</surname><given-names>PE</given-names></name><name><surname>Averill</surname><given-names>DB</given-names></name><name><surname>Brosnihan</surname><given-names>KB</given-names></name><name><surname>Ann</surname><given-names>TE</given-names></name><etal/></person-group><article-title>Effects of renin-angiotensin system blockade on renal
+angiotensin-(1-7) forming enzymes and receptors</article-title><source>Kidney Int</source><year>2005</year><volume>68</volume><fpage>2189</fpage><lpage>2196</lpage><pub-id pub-id-type="doi">10.1111/j.1523-1755.2005.00675.x</pub-id><pub-id pub-id-type="pmid">16221218</pub-id></element-citation></ref><ref id="B17"><label>17</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dumitrascu</surname><given-names>R</given-names></name><name><surname>Heitmann</surname><given-names>J</given-names></name><name><surname>Seeger</surname><given-names>W</given-names></name><name><surname>Weissmann</surname><given-names>N</given-names></name><name><surname>Schulz</surname><given-names>R</given-names></name></person-group><article-title>Obstructive sleep apnea, oxidative stress and cardiovascular disease:
+lessons from animal studies</article-title><source>Oxid Med Cell Longev</source><year>2013</year><volume>2013</volume><fpage>234631</fpage><pub-id pub-id-type="doi">10.1155/2013/234631</pub-id><pub-id pub-id-type="pmid">23533685</pub-id></element-citation></ref><ref id="B18"><label>18</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Feng</surname><given-names>SZ</given-names></name><name><surname>Tian</surname><given-names>JL</given-names></name><name><surname>Zhang</surname><given-names>Q</given-names></name><name><surname>Wang</surname><given-names>H</given-names></name><name><surname>Sun</surname><given-names>N</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><etal/></person-group><article-title>An experimental research on chronic intermittent hypoxia leading to
+liver injury</article-title><source>Sleep Breath</source><year>2011</year><volume>15</volume><fpage>493</fpage><lpage>502</lpage><pub-id pub-id-type="doi">10.1007/s11325-010-0370-3</pub-id><pub-id pub-id-type="pmid">20582634</pub-id></element-citation></ref><ref id="B19"><label>19</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Xu</surname><given-names>P</given-names></name><name><surname>Costa-Goncalves</surname><given-names>AC</given-names></name><name><surname>Todiras</surname><given-names>M</given-names></name><name><surname>Rabelo</surname><given-names>LA</given-names></name><name><surname>Sampaio</surname><given-names>WO</given-names></name><name><surname>Moura</surname><given-names>MM</given-names></name><etal/></person-group><article-title>Endothelial dysfunction and elevated blood pressure in MAS
+gene-deleted mice</article-title><source>Hypertension</source><year>2008</year><volume>51</volume><fpage>574</fpage><lpage>580</lpage><pub-id pub-id-type="doi">10.1161/HYPERTENSIONAHA.107.102764</pub-id><pub-id pub-id-type="pmid">18180400</pub-id></element-citation></ref><ref id="B20"><label>20</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rabello Casali</surname><given-names>K</given-names></name><name><surname>Ravizzoni Dartora</surname><given-names>D</given-names></name><name><surname>Moura</surname><given-names>M</given-names></name><name><surname>Bertagnolli</surname><given-names>M</given-names></name><name><surname>Bader</surname><given-names>M</given-names></name><name><surname>Haibara</surname><given-names>A</given-names></name><etal/></person-group><article-title>Increased vascular sympathetic modulation in mice with Mas receptor
+deficiency</article-title><source>J Renin Angiotensin Aldosterone Syst</source><year>2016</year><volume>17</volume><pub-id pub-id-type="doi">10.1177/1470320316643643</pub-id></element-citation></ref><ref id="B21"><label>21</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Prieto</surname><given-names>MC</given-names></name><name><surname>Gonzalez-Villalobos</surname><given-names>RA</given-names></name><name><surname>Botros</surname><given-names>FT</given-names></name><name><surname>Martin</surname><given-names>VL</given-names></name><name><surname>Pagan</surname><given-names>J</given-names></name><name><surname>Satou</surname><given-names>R</given-names></name><etal/></person-group><article-title>Reciprocal changes in renal ACE/ANG II and ACE2/ANG 1-7 are associated
+with enhanced collecting duct renin in Goldblatt hypertensive rats</article-title><source>Am J Physiol Renal Physiol</source><year>2011</year><volume>300</volume><fpage>F749</fpage><lpage>F755</lpage><pub-id pub-id-type="doi">10.1152/ajprenal.00383.2009</pub-id><pub-id pub-id-type="pmid">21209009</pub-id></element-citation></ref><ref id="B22"><label>22</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cervenka</surname><given-names>L</given-names></name><name><surname>Bibova</surname><given-names>J</given-names></name><name><surname>Huskova</surname><given-names>Z</given-names></name><name><surname>Vanourkova</surname><given-names>Z</given-names></name><name><surname>Kramer</surname><given-names>HJ</given-names></name><name><surname>Herget</surname><given-names>J</given-names></name><etal/></person-group><article-title>Combined suppression of the intrarenal and circulating vasoconstrictor
+renin-ACE-ANG II axis and augmentation of the vasodilator ACE2-ANG 1-7-Mas axis
+attenuates the systemic hypertension in Ren-2 transgenic rats exposed to chronic
+hypoxia</article-title><source>Physiol Res</source><year>2015</year><volume>64</volume><fpage>11</fpage><lpage>24</lpage><pub-id pub-id-type="pmid">25194129</pub-id></element-citation></ref><ref id="B23"><label>23</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Liu</surname><given-names>Z</given-names></name><name><surname>Huang</surname><given-names>XR</given-names></name><name><surname>Chen</surname><given-names>HY</given-names></name><name><surname>Penninger</surname><given-names>JM</given-names></name><name><surname>Lan</surname><given-names>HY</given-names></name></person-group><article-title>Loss of angiotensin-converting enzyme 2 enhances
+TGF-beta/Smad-mediated renal fibrosis and NF-kappaB-driven renal inflammation in a
+mouse model of obstructive nephropathy</article-title><source>Lab Invest</source><year>2012</year><volume>92</volume><fpage>650</fpage><lpage>661</lpage><pub-id pub-id-type="doi">10.1038/labinvest.2012.2</pub-id><pub-id pub-id-type="pmid">22330342</pub-id></element-citation></ref><ref id="B24"><label>24</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Dilauro</surname><given-names>M</given-names></name><name><surname>Zimpelmann</surname><given-names>J</given-names></name><name><surname>Robertson</surname><given-names>SJ</given-names></name><name><surname>Genest</surname><given-names>D</given-names></name><name><surname>Burns</surname><given-names>KD</given-names></name></person-group><article-title>Effect of ACE2 and angiotensin-(1-7) in a mouse model of early chronic
+kidney disease</article-title><source>Am J Physiol Renal Physiol</source><year>2010</year><volume>298</volume><fpage>F1523</fpage><lpage>F1532</lpage><pub-id pub-id-type="doi">10.1152/ajprenal.00426.2009</pub-id><pub-id pub-id-type="pmid">20357030</pub-id></element-citation></ref><ref id="B25"><label>25</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Welch</surname><given-names>WJ</given-names></name><name><surname>Blau</surname><given-names>J</given-names></name><name><surname>Xie</surname><given-names>H</given-names></name><name><surname>Chabrashvili</surname><given-names>T</given-names></name><name><surname>Wilcox</surname><given-names>CS</given-names></name></person-group><article-title>Angiotensin-induced defects in renal oxygenation: role of oxidative
+stress</article-title><source>Am J Physiol Heart Circ Physiol</source><year>2005</year><volume>288</volume><fpage>H22</fpage><lpage>H28</lpage><pub-id pub-id-type="doi">10.1152/ajpheart.00626.2004</pub-id><pub-id pub-id-type="pmid">15598867</pub-id></element-citation></ref><ref id="B26"><label>26</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Sun</surname><given-names>W</given-names></name><name><surname>Yin</surname><given-names>X</given-names></name><name><surname>Wang</surname><given-names>Y</given-names></name><name><surname>Tan</surname><given-names>Y</given-names></name><name><surname>Cai</surname><given-names>L</given-names></name><name><surname>Wang</surname><given-names>B</given-names></name><etal/></person-group><article-title>Intermittent hypoxia-induced renal antioxidants and oxidative damage
+in male mice: hormetic dose response</article-title><source>Dose Response</source><year>2012</year><volume>11</volume><fpage>385</fpage><lpage>400</lpage><pub-id pub-id-type="doi">10.2203/dose-response.12-027.Cai</pub-id><pub-id pub-id-type="pmid">23983666</pub-id></element-citation></ref><ref id="B27"><label>27</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ding</surname><given-names>W</given-names></name><name><surname>Cai</surname><given-names>Y</given-names></name><name><surname>Wang</surname><given-names>W</given-names></name><name><surname>Ji</surname><given-names>L</given-names></name><name><surname>Dong</surname><given-names>Y</given-names></name><name><surname>Zhang</surname><given-names>X</given-names></name><etal/></person-group><article-title>Adiponectin protects the kidney against chronic intermittent
+hypoxia-induced injury through inhibiting endoplasmic reticulum
+stress</article-title><source>Sleep Breath</source><year>2016</year><volume>20</volume><fpage>1069</fpage><lpage>1074</lpage><pub-id pub-id-type="doi">10.1007/s11325-016-1321-4</pub-id><pub-id pub-id-type="pmid">26993339</pub-id></element-citation></ref><ref id="B28"><label>28</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Chen</surname><given-names>L</given-names></name><name><surname>Einbinder</surname><given-names>E</given-names></name><name><surname>Zhang</surname><given-names>Q</given-names></name><name><surname>Hasday</surname><given-names>J</given-names></name><name><surname>Balke</surname><given-names>CW</given-names></name><name><surname>Scharf</surname><given-names>SM</given-names></name></person-group><article-title>Oxidative stress and left ventricular function with chronic
+intermittent hypoxia in rats</article-title><source>Am J Respir Crit Care Med</source><year>2005</year><volume>172</volume><fpage>915</fpage><lpage>920</lpage><pub-id pub-id-type="doi">10.1164/rccm.200504-560OC</pub-id><pub-id pub-id-type="pmid">15976378</pub-id></element-citation></ref><ref id="B29"><label>29</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ding</surname><given-names>W</given-names></name><name><surname>Yang</surname><given-names>L</given-names></name><name><surname>Zhang</surname><given-names>M</given-names></name><name><surname>Gu</surname><given-names>Y</given-names></name></person-group><article-title>Reactive oxygen species-mediated endoplasmic reticulum stress
+contributes to aldosterone-induced apoptosis in tubular epithelial
+cells</article-title><source>Biochem Biophys Res Commun</source><year>2012</year><volume>418</volume><fpage>451</fpage><lpage>456</lpage><pub-id pub-id-type="doi">10.1016/j.bbrc.2012.01.037</pub-id><pub-id pub-id-type="pmid">22281495</pub-id></element-citation></ref><ref id="B30"><label>30</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Wysocki</surname><given-names>J</given-names></name><name><surname>Ortiz-Melo</surname><given-names>DI</given-names></name><name><surname>Mattocks</surname><given-names>NK</given-names></name><name><surname>Xu</surname><given-names>K</given-names></name><name><surname>Prescott</surname><given-names>J</given-names></name><name><surname>Evora</surname><given-names>K</given-names></name><etal/></person-group><article-title>ACE2 deficiency increases NADPH-mediated oxidative stress in the
+kidney</article-title><source>Physiol Rep</source><year>2014</year><volume>2</volume><fpage>e00264</fpage><pub-id pub-id-type="doi">10.1002/phy2.264</pub-id><pub-id pub-id-type="pmid">24760518</pub-id></element-citation></ref><ref id="B31"><label>31</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kelly</surname><given-names>KJ</given-names></name><name><surname>Plotkin</surname><given-names>Z</given-names></name><name><surname>Vulgamott</surname><given-names>SL</given-names></name><name><surname>Dagher</surname><given-names>PC</given-names></name></person-group><article-title>P53 mediates the apoptotic response to GTP depletion after renal
+ischemia-reperfusion: protective role of a p53 inhibitor</article-title><source>J Am Soc Nephrol</source><year>2003</year><volume>14</volume><fpage>128</fpage><lpage>138</lpage><pub-id pub-id-type="doi">10.1097/01.ASN.0000040596.23073.01</pub-id><pub-id pub-id-type="pmid">12506145</pub-id></element-citation></ref><ref id="B32"><label>32</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matsumoto</surname><given-names>M</given-names></name><name><surname>Makino</surname><given-names>Y</given-names></name><name><surname>Tanaka</surname><given-names>T</given-names></name><name><surname>Tanaka</surname><given-names>H</given-names></name><name><surname>Ishizaka</surname><given-names>N</given-names></name><name><surname>Noiri</surname><given-names>E</given-names></name><etal/></person-group><article-title>Induction of renoprotective gene expression by cobalt ameliorates
+ischemic injury of the kidney in rats</article-title><source>J Am Soc Nephrol</source><year>2003</year><volume>14</volume><fpage>1825</fpage><lpage>1832</lpage><pub-id pub-id-type="doi">10.1097/01.ASN.0000074239.22357.06</pub-id><pub-id pub-id-type="pmid">12819242</pub-id></element-citation></ref><ref id="B33"><label>33</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Li</surname><given-names>C</given-names></name><name><surname>Jackson</surname><given-names>RM</given-names></name></person-group><article-title>Reactive species mechanisms of cellular hypoxia-reoxygenation
+injury</article-title><source>Am J Physiol Cell Physiol</source><year>2002</year><volume>282</volume><fpage>C227</fpage><lpage>C241</lpage><pub-id pub-id-type="doi">10.1152/ajpcell.00112.2001</pub-id><pub-id pub-id-type="pmid">11788333</pub-id></element-citation></ref><ref id="B34"><label>34</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Fine</surname><given-names>LG</given-names></name><name><surname>Orphanides</surname><given-names>C</given-names></name><name><surname>Norman</surname><given-names>JT</given-names></name></person-group><article-title>Progressive renal disease: the chronic hypoxia
+hypothesis</article-title><source>Kidney Int Suppl</source><year>1998</year><volume>65</volume><fpage>S74</fpage><lpage>S78</lpage><pub-id pub-id-type="pmid">9551436</pub-id></element-citation></ref><ref id="B35"><label>35</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Nangaku</surname><given-names>M</given-names></name></person-group><article-title>Chronic hypoxia and tubulointerstitial injury: a final common pathway
+to end-stage renal failure</article-title><source>J Am Soc Nephrol</source><year>2006</year><volume>17</volume><fpage>17</fpage><lpage>25</lpage><pub-id pub-id-type="doi">10.1681/ASN.2005070757</pub-id><pub-id pub-id-type="pmid">16291837</pub-id></element-citation></ref><ref id="B36"><label>36</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Norman</surname><given-names>JT</given-names></name><name><surname>Fine</surname><given-names>LG</given-names></name></person-group><article-title>Intrarenal oxygenation in chronic renal failure</article-title><source>Clin Exp Pharmacol Physiol</source><year>2006</year><volume>33</volume><fpage>989</fpage><lpage>996</lpage><pub-id pub-id-type="doi">10.1111/j.1440-1681.2006.04476.x</pub-id><pub-id pub-id-type="pmid">17002678</pub-id></element-citation></ref><ref id="B37"><label>37</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kagami</surname><given-names>S</given-names></name><name><surname>Border</surname><given-names>WA</given-names></name><name><surname>Miller</surname><given-names>DE</given-names></name><name><surname>Noble</surname><given-names>NA</given-names></name></person-group><article-title>Angiotensin II stimulates extracellular matrix protein synthesis
+through induction of transforming growth factor-beta expression in rat glomerular
+mesangial cells</article-title><source>J Clin Invest</source><year>1994</year><volume>93</volume><fpage>2431</fpage><lpage>2437</lpage><pub-id pub-id-type="doi">10.1172/JCI117251</pub-id><pub-id pub-id-type="pmid">8200978</pub-id></element-citation></ref><ref id="B38"><label>38</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Palm</surname><given-names>F</given-names></name><name><surname>Nordquist</surname><given-names>L</given-names></name></person-group><article-title>Renal tubulointerstitial hypoxia: cause and consequence of kidney
+dysfunction</article-title><source>Clin Exp Pharmacol Physiol</source><year>2011</year><volume>38</volume><fpage>474</fpage><lpage>480</lpage><pub-id pub-id-type="doi">10.1111/j.1440-1681.2011.05532.x</pub-id><pub-id pub-id-type="pmid">21545630</pub-id></element-citation></ref><ref id="B39"><label>39</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Pinheiro</surname><given-names>SV</given-names></name><name><surname>Ferreira</surname><given-names>AJ</given-names></name><name><surname>Kitten</surname><given-names>GT</given-names></name><name><surname>da Silveira</surname><given-names>KD</given-names></name><name><surname>da Silva</surname><given-names>DA</given-names></name><name><surname>Santos</surname><given-names>SH</given-names></name><etal/></person-group><article-title>Genetic deletion of the angiotensin-(1-7) receptor Mas leads to
+glomerular hyperfiltration and microalbuminuria</article-title><source>Kidney Int</source><year>2009</year><volume>75</volume><fpage>1184</fpage><lpage>1193</lpage><pub-id pub-id-type="doi">10.1038/ki.2009.61</pub-id><pub-id pub-id-type="pmid">19262461</pub-id></element-citation></ref><ref id="B40"><label>40</label><element-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Deelman</surname><given-names>L</given-names></name><name><surname>Sharma</surname><given-names>K</given-names></name></person-group><article-title>Mechanisms of kidney fibrosis and the role of antifibrotic
+therapies</article-title><source>Curr Opin Nephrol Hypertens</source><year>2009</year><volume>18</volume><fpage>85</fpage><lpage>90</lpage><pub-id pub-id-type="doi">10.1097/MNH.0b013e32831c50a1</pub-id><pub-id pub-id-type="pmid">19077695</pub-id></element-citation></ref></ref-list></back></article>

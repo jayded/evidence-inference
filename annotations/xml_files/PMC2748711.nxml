@@ -1,0 +1,408 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">19789647</article-id><article-id pub-id-type="pmc">2748711</article-id><article-id pub-id-type="publisher-id">09-PONE-RA-11755R1</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0007277</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline"><subject>Infectious Diseases/Bacterial Infections</subject><subject>Infectious Diseases/Infectious Diseases of the Nervous System</subject><subject>Infectious Diseases/Respiratory Infections</subject></subj-group></article-categories><title-group><article-title>Dexamethasone, Cerebrospinal Fluid Matrix Metalloproteinase Concentrations and Clinical Outcomes in Tuberculous Meningitis</article-title><alt-title alt-title-type="running-head">MMPs in TBM</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Green</surname><given-names>Justin A.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tran</surname><given-names>Chau T. H.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Farrar</surname><given-names>Jeremy J.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Nguyen</surname><given-names>Mai T. H.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Nguyen</surname><given-names>Phu H.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Dinh</surname><given-names>Sinh X.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ho</surname><given-names>Nghia D. T.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Ly</surname><given-names>Chuong V.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Tran</surname><given-names>Hien T.</given-names></name><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Friedland</surname><given-names>Jon S.</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Thwaites</surname><given-names>Guy E.</given-names></name><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Infectious Diseases and Immunity, Imperial College London, London, United Kingdom</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Oxford University Clinical Research Unit, Hospital for Tropical Diseases, Ho Chi Minh City, Vietnam</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Centre for Molecular Microbiology and Infection, Imperial College London, London, United Kingdom</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Marais</surname><given-names>Ben</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">University of Stellenbosch, South Africa</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>j.friedland@imperial.ac.uk</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: JAG JF JSF GET. Performed the experiments: JAG CTHT. Analyzed the data: JAG GET. Contributed reagents/materials/analysis tools: MTHN PHN SXD NDTH CVL HTT. Wrote the paper: JAG CTHT JF HTT JSF GET. Recruited patients to the original trial: CTHT MTHN PHN SXD NDTH CVL HTT. Collected samples for the original trial: MTHN PHN SXD NDTH CVL HTT.</p></fn></author-notes><pub-date pub-type="collection"><year>2009</year></pub-date><pub-date pub-type="epub"><day>30</day><month>9</month><year>2009</year></pub-date><volume>4</volume><issue>9</issue><elocation-id>e7277</elocation-id><history><date date-type="received"><day>21</day><month>7</month><year>2009</year></date><date date-type="accepted"><day>26</day><month>8</month><year>2009</year></date></history><permissions><copyright-statement>Green et al.</copyright-statement><copyright-year>2009</copyright-year><license xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are properly credited.</license-p></license></permissions><abstract><sec><title>Background</title><p>Adjunctive dexamethasone reduces mortality from tuberculous meningitis, but how it produces this effect is not known. Matrix metalloproteinases (MMPs) are important in the immunopathology of many inflammatory CNS diseases thus we hypothesized that that their secretion is important in TBM and might be influenced by dexamethasone.</p></sec><sec><title>Methodology/Principal Findings</title><p>The kinetics of cerebrospinal fluid (CSF) MMP and tissue inhibitors of MMPs (TIMPs) concentrations were studied in a subset of HIV uninfected adults (n&#x0200a;=&#x0200a;37) with TBM recruited to a randomized, placebo-controlled trial of adjuvant dexamethasone. Analysis followed a pre-defined plan. Dexamethasone significantly reduced CSF MMP-9 concentrations in early follow up samples (median 5 days (range 3&#x02013;8) of treatment), but had no significant influence on other MMPs/TIMPs. Additionally CSF MMP-9 concentration was strongly correlated to concomitant CSF neutrophil count.</p></sec><sec><title>Conclusions/Significance</title><p>Dexamethasone decreased CSF MMP-9 concentrations early in treatment and this may represent one mechanism by which corticosteroids improve outcome in TBM. The strong correlation between CSF MMP-9 and neutrophil count suggests that polymorphonuclear leukocytes may play a central role in the early pathogenesis of TBM.</p></sec></abstract><counts><page-count count="8"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Tuberculous meningitis (TBM) is the most feared presentation of extra-pulmonary tuberculosis (TB) because about a third of all patients die from disease. We and others have previously shown that adjunctive dexamethasone, administered with anti-tuberculosis drugs, improved the outcome of adults with TBM <xref rid="pone.0007277-Thwaites1" ref-type="bibr">[1]</xref>, but the mechanism underlying this effect is not understood. Dexamethasone did not have any significant effect on cerebrospinal (CSF) white cell infiltration or cytokine expression in 93 patients recruited to the clinical trial <xref rid="pone.0007277-Simmons1" ref-type="bibr">[2]</xref>. A subset of patients had serial brain magnetic resonance imaging, which suggested dexamethasone might decrease the incidence of hydrocephalus and infarction <xref rid="pone.0007277-Thwaites2" ref-type="bibr">[3]</xref>. In children steroids have been shown to reduce CSF protein and cause a more rapid normalization in CSF glucose over placebo <xref rid="pone.0007277-Schoeman1" ref-type="bibr">[4]</xref>. However, no study has demonstrated the mechanism by which dexamethasone reduced case-fatality from TBM.</p><p>We hypothesized that dexamethasone improved outcome from TBM by altering the intra-cerebral expression of MMP and the tissue inhibitors of MMPs (TIMPs). MMPs are important mediators of extracellular matrix degradation and are implicated not only in inflammatory central nervous system (CNS) diseases such as multiple sclerosis, HIV dementia and Alzheimer's disease but also in TB <xref rid="pone.0007277-McGeer1" ref-type="bibr">[5]</xref>&#x02013;<xref rid="pone.0007277-Zhang1" ref-type="bibr">[7]</xref>. The blood brain barrier (BBB) is rich in type IV collagen, a substrate of MMP-9 (gelatinase B), and its breakdown is a key initial step in the pathophysiology of CNS leukocyte influx <xref rid="pone.0007277-Okada1" ref-type="bibr">[8]</xref>, <xref rid="pone.0007277-vanHorssen1" ref-type="bibr">[9]</xref>. We and others have shown that CSF concentrations of MMP-9 are elevated in all forms of meningitis and CSF MMP-9 concentrations (corrected for CSF white cell count) were significantly associated with fatal TBM and the extent of cerebral tissue damage <xref rid="pone.0007277-Matsuura1" ref-type="bibr">[10]</xref>, <xref rid="pone.0007277-Price1" ref-type="bibr">[11]</xref>. We found that IFN-&#x003b3; synergistically increases MMP-9 secretion from astrocytes, the most abundant CNS cell and a key component of the BBB <xref rid="pone.0007277-Harris1" ref-type="bibr">[12]</xref>. Mouse models of pyogenic bacterial meningitis demonstrate MMP-9&#x02236;TIMP-1 ratios are important predictors of tissue destruction, although MMP-9 may also have a significant role in host defense <xref rid="pone.0007277-Bottcher1" ref-type="bibr">[13]</xref>, <xref rid="pone.0007277-Sellner1" ref-type="bibr">[14]</xref>. Our cellular studies on TB-infected macrophages implicate MMP-1 (collagenase-1), -3 (stromelysin-1), -7 (matrilysin) and -10 (stromelysin-2) as critical in the host response to TB <xref rid="pone.0007277-Elkington1" ref-type="bibr">[15]</xref>.</p><p>In this study, we measured serial CSF concentrations of a number of MMPs/TIMPs identified as key in TB in a sub-set of adults with TBM recruited to a randomized, placebo-controlled trial of adjunctive dexamethasone <xref rid="pone.0007277-Thwaites1" ref-type="bibr">[1]</xref>. Our aim was to investigate the relationship between dexamethasone treatment, CSF MMP/TIMP expression, and clinical outcome.</p></sec><sec id="s2"><title>Results</title><sec id="s2a"><title>Comparison of baseline variables</title><p>We have compared the baseline clinical features of those included in the MMP study (n&#x0200a;=&#x0200a;37) with the rest of the proven HIV uninfected patients recruited to the controlled trial (n&#x0200a;=&#x0200a;400) (<xref ref-type="table" rid="pone-0007277-t001">table 1</xref>). Comparison of the patients who received placebo or dexamethasone in the MMP study revealed only CSF opening pressure was significantly different between the groups. The patients were well-balanced with regard to the most important prognostic variables (MRC grade and coma score). Comparison of the patients in the MMP study with the rest of the HIV uninfected patients recruited to the trial revealed some important similarities and differences. Clinical assessments of disease severity (by MRC grade and Glasgow coma score) were not significantly different between the two study groups. However, the patients not included in the MMP study were significantly older and lighter, had lower numbers of white cells in the CSF, and had worse outcomes (<xref ref-type="table" rid="pone-0007277-t001">table 1</xref>).</p><table-wrap id="pone-0007277-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0007277.t001</object-id><label>Table 1</label><caption><title>Comparison of the baseline clinical features from patients in the study of MMPs with all other HIV uninfected patients recruited to the controlled trial of dexamethasone.</title></caption><alternatives><graphic id="pone-0007277-t001-1" xlink:href="pone.0007277.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">MMP study sub-group</td><td align="left" rowspan="1" colspan="1">MMP study sub-group</td><td align="left" rowspan="1" colspan="1">All other HIV uninfected patients in dexamethasone trial</td><td align="left" rowspan="1" colspan="1">P-value <xref ref-type="table-fn" rid="nt102">b</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Variable <xref ref-type="table-fn" rid="nt101">a</xref>
+</td><td align="left" rowspan="1" colspan="1">Placebo</td><td align="left" rowspan="1" colspan="1">Dexamethasone</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number (n)</bold>
+</td><td align="left" rowspan="1" colspan="1">19</td><td align="left" rowspan="1" colspan="1">18</td><td align="left" rowspan="1" colspan="1">400</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age (yrs)</bold>
+</td><td align="left" rowspan="1" colspan="1">31 (23.0&#x02013;44.0)</td><td align="left" rowspan="1" colspan="1">25 (19.3&#x02013;40.5)</td><td align="left" rowspan="1" colspan="1">40 (29&#x02013;58)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Gender (M&#x02236;F) n</bold>
+</td><td align="left" rowspan="1" colspan="1">7&#x02236;12</td><td align="left" rowspan="1" colspan="1">8&#x02236;10</td><td align="left" rowspan="1" colspan="1">13&#x02236;10</td><td align="left" rowspan="1" colspan="1">0.098</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TBM grade n (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>I</bold>
+</td><td align="left" rowspan="1" colspan="1">2 (10.5)</td><td align="left" rowspan="1" colspan="1">6 (33.3)</td><td align="left" rowspan="1" colspan="1">142 (35.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>II</bold>
+</td><td align="left" rowspan="1" colspan="1">11 (57.9)</td><td align="left" rowspan="1" colspan="1">7 (38.9)</td><td align="left" rowspan="1" colspan="1">180 (45.0)</td><td align="left" rowspan="1" colspan="1">0.224</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>III</bold>
+</td><td align="left" rowspan="1" colspan="1">6 (31.6)</td><td align="left" rowspan="1" colspan="1">5 (27.8)</td><td align="left" rowspan="1" colspan="1">78 (19.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Weight mean (sd&#x02013;kg)</bold>
+</td><td align="left" rowspan="1" colspan="1">49.3 (8.5)</td><td align="left" rowspan="1" colspan="1">48.4 (6.5)</td><td align="left" rowspan="1" colspan="1">45.0 (40.0&#x02013;50.0)</td><td align="left" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Temperature <sup>o</sup>C</bold>
+</td><td align="left" rowspan="1" colspan="1">38.7 (38.0&#x02013;39.3)</td><td align="left" rowspan="1" colspan="1">39.0 (38.0&#x02013;39.5)</td><td align="left" rowspan="1" colspan="1">38.0 (37.5&#x02013;39.0)</td><td align="left" rowspan="1" colspan="1">0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>GCS at presentation</bold>
+</td><td align="left" rowspan="1" colspan="1">13 (10&#x02013;14)</td><td align="left" rowspan="1" colspan="1">13.5 (10&#x02013;15)</td><td align="left" rowspan="1" colspan="1">14 (12&#x02013;15)</td><td align="left" rowspan="1" colspan="1">0.210</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Duration of symptoms (days)</bold>
+</td><td align="left" rowspan="1" colspan="1">17 (12&#x02013;21)</td><td align="left" rowspan="1" colspan="1">17 (12&#x02013;26.25)</td><td align="left" rowspan="1" colspan="1">15 (10&#x02013;30)</td><td align="left" rowspan="1" colspan="1">0.617</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Cranial Nerve Palsy n (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">8 (42.1)</td><td align="left" rowspan="1" colspan="1">6 (33.3)</td><td align="left" rowspan="1" colspan="1">115 (28.8)</td><td align="left" rowspan="1" colspan="1">0.353</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Hemiparesis n (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">2 (10.5)</td><td align="left" rowspan="1" colspan="1">3 (16.7)</td><td align="left" rowspan="1" colspan="1">59 (14.8)</td><td align="left" rowspan="1" colspan="1">0.552</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Paraparesis n (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">0 (0)</td><td align="left" rowspan="1" colspan="1">1 (5.6)</td><td align="left" rowspan="1" colspan="1">33 (8.3)</td><td align="left" rowspan="1" colspan="1">0.241</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Opening pressure (cm)</bold>
+<xref ref-type="table-fn" rid="nt103">c</xref>
+</td><td align="left" rowspan="1" colspan="1">18 (16&#x02013;32)</td><td align="left" rowspan="1" colspan="1">33 (19&#x02013;39)</td><td align="left" rowspan="1" colspan="1">22 (13&#x02013;39)</td><td align="left" rowspan="1" colspan="1">0.478</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Total WCC (cells/&#x000b5;l)</bold>
+</td><td align="left" rowspan="1" colspan="1">470 (130&#x02013;625)</td><td align="left" rowspan="1" colspan="1">250 (147&#x02013;613)</td><td align="left" rowspan="1" colspan="1">104 (27&#x02013;251)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Neutrophils (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">30 (18&#x02013;43)</td><td align="left" rowspan="1" colspan="1">40 (24.5&#x02013;67.5)</td><td align="left" rowspan="1" colspan="1">5 (0&#x02013;20.0)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Lymphocytes (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">70 (57&#x02013;82)</td><td align="left" rowspan="1" colspan="1">60 (42&#x02013;75.5)</td><td align="left" rowspan="1" colspan="1">95 (80.0&#x02013;100)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Protein (g/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">1.6 (1.0&#x02013;3.0)</td><td align="left" rowspan="1" colspan="1">2.0 (1.5&#x02013;3.0)</td><td align="left" rowspan="1" colspan="1">1.4 (0.8&#x02013;2.2)</td><td align="left" rowspan="1" colspan="1">0.020</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Lactate (mmol/L)</bold>
+</td><td align="left" rowspan="1" colspan="1">6.2 (4.6&#x02013;8.1)</td><td align="left" rowspan="1" colspan="1">6.6 (5.2&#x02013;8.9)</td><td align="left" rowspan="1" colspan="1">5.1 (3.6&#x02013;6.9)</td><td align="left" rowspan="1" colspan="1">0.024</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Glucose ratio&#x02013;CSF/blood</bold>
+</td><td align="left" rowspan="1" colspan="1">0.17 (0.09&#x02013;0.30)</td><td align="left" rowspan="1" colspan="1">0.25 (0.14&#x02013;0.34)</td><td align="left" rowspan="1" colspan="1">0.29 (0.19&#x02013;0.39)</td><td align="left" rowspan="1" colspan="1">0.004</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Albumin ratio&#x02013;CSF/blood (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">1.12 (0.58&#x02013;2.84)</td><td align="left" rowspan="1" colspan="1">2.03 (0.65&#x02013;2.73)</td><td align="left" rowspan="1" colspan="1">NA <xref ref-type="table-fn" rid="nt104">d</xref>
+</td><td align="left" rowspan="1" colspan="1">NA <xref ref-type="table-fn" rid="nt104">d</xref>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Death n (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">3 (15.8)</td><td align="left" rowspan="1" colspan="1">2 (11.1)</td><td align="left" rowspan="1" colspan="1">120 (30.0)</td><td align="left" rowspan="1" colspan="1">0.016</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Combined poor outcome n (&#x00025;)</bold>
+</td><td align="left" rowspan="1" colspan="1">4 (21.1)</td><td align="left" rowspan="1" colspan="1">4 (22.2)</td><td align="left" rowspan="1" colspan="1">171 (42.8)</td><td align="left" rowspan="1" colspan="1">0.006</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label>a</label><p>Values are median (IQR) or number (percentage) unless stated otherwise.</p></fn><fn id="nt102"><label>b</label><p>Comparison between the variables of patients in the MMP study with all other patients recruited to the controlled trial (continuous variables compared by the Mann-Whitney U test; categorical variables by the Chi square test).</p></fn><fn id="nt103"><label>c</label><p>Comparison of baseline variables between patients given placebo or dexamethasone in the MMP study showed only CSF opening pressure was significantly different (P&#x0003c;0.05) between the groups.</p></fn><fn id="nt104"><label>d</label><p>Data not available in this group.</p></fn></table-wrap-foot></table-wrap><p>185 CSF specimens were taken from the 37 patients included in the MMP study. 141 (76&#x00025;) specimens were available for analysis of longitudinal changes in MMP/TIMP concentrations: 66/94 (70&#x00025;) were from placebo and 75/91 (82&#x00025;) from dexamethasone group patients (a mean of 3.8 (&#x0002b;/&#x02212;1.2) samples per patient).</p></sec><sec id="s2b"><title>Baseline CSF MMP and TIMP concentrations</title><p>Baseline pre-treatment concentrations of MMPs and TIMPs are summarized in <xref ref-type="table" rid="pone-0007277-t002">table 2</xref> and are similar between the two groups with the exception of TIMP-2, which was significantly higher in the patients give placebo. MMP-2, -3 and -9 concentrations were detectable in all 30 pre-treatment CSF samples analyzed and MMP-8 concentrations were detectable in 29 (97&#x00025;). CSF concentrations of MMP-1 and -7 were only detectable in 9 (30&#x00025;) patients and MMP-10 in 10 (33&#x00025;) patients. All 30 patients had detectable TIMP-1 and -2 and 29 (97&#x00025;) patients had detectable CSF TIMP-4.</p><table-wrap id="pone-0007277-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0007277.t002</object-id><label>Table 2</label><caption><title>Baseline CSF MMP/TIMP concentrations.</title></caption><alternatives><graphic id="pone-0007277-t002-2" xlink:href="pone.0007277.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Variable<xref ref-type="table-fn" rid="nt105">&#x0002a;</xref>
+</td><td align="left" rowspan="1" colspan="1">Placebo</td><td align="left" rowspan="1" colspan="1">Dexamethasone</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Number (n)</bold>
+</td><td align="left" rowspan="1" colspan="1">15</td><td align="left" rowspan="1" colspan="1">15</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-1 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.13 (0.13&#x02013;0.49)</td><td align="left" rowspan="1" colspan="1">0.13 (0.13&#x02013;0.24)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-2 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">47.0 (37.5&#x02013;53.2)</td><td align="left" rowspan="1" colspan="1">42.2 (33.3&#x02013;48.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-3 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">1.22 (0.80&#x02013;1.46)</td><td align="left" rowspan="1" colspan="1">0.97 (0.27&#x02013;1.66)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-7 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.078 (0.078&#x02013;0.079)</td><td align="left" rowspan="1" colspan="1">0.078 (0.075&#x02013;0.12)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-8 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">18.9 (10.9&#x02013;28.4)</td><td align="left" rowspan="1" colspan="1">12.6 (7.9&#x02013;28.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-9 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">108.3 (37.8&#x02013;226.5)</td><td align="left" rowspan="1" colspan="1">110.8 (93.4&#x02013;269.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-10 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.04 (0.04&#x02013;0.11)</td><td align="left" rowspan="1" colspan="1">0.04 (0.04&#x02013;0.11)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TIMP-1 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">248.6 (116.2&#x02013;421.1)</td><td align="left" rowspan="1" colspan="1">180.1 (83.9&#x02013;241.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TIMP-2 (ng/ml)</bold>
+<xref ref-type="table-fn" rid="nt106">#</xref>
+</td><td align="left" rowspan="1" colspan="1">31.6 (28.2&#x02013;38.6)</td><td align="left" rowspan="1" colspan="1">23.0 (20.9&#x02013;29.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TIMP-4 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.43 (0.32&#x02013;0.47)</td><td align="left" rowspan="1" colspan="1">0.49 (0.32&#x02013;0.87)</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt105"><label>&#x0002a;</label><p>Values are median (IQR) unless stated otherwise.</p></fn><fn id="nt106"><label>#</label><p>p&#x0200a;=&#x0200a;0.01 for group comparison.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s2c"><title>Dexamethasone specifically reduces CSF MMP-9 concentration at day 5 of TBM treatment</title><p>22 patients had both a pre-treatment and at least one paired &#x02018;early&#x02019; follow up sample available for analysis, taken a median 5 days (range 3&#x02013;8) into anti-tuberculosis treatment, equally spilt between placebo and dexamethasone groups. Only CSF MMP-9 concentrations were significantly lower in the early follow-up samples of patients given dexamethasone compared to placebo (p&#x0200a;=&#x0200a;0.01, <xref ref-type="fig" rid="pone-0007277-g001">figure 1</xref>), confirmed by repeated measures ANOVA with CSF white cell count as a covariate (p&#x0200a;=&#x0200a;0.002). 3/11 (27&#x00025;) patients in the placebo group had a fall in their CSF MMP-9 concentration compared with 9/11 (82&#x00025;) of the dexamethasone group between pre-treatment and the early follow-up sample (p&#x0200a;=&#x0200a;0.03). However, we could not find a significant relationship between those patients whose CSF MMP-9 concentration fell and outcome; 1/12 (8&#x00025;) patients with a fall in CSF MMP-9 died and 1/10 (10&#x00025;) died in the non-faller group, the data were similar for death or disability (data not shown). There was a similar but less marked effect of dexamethasone on MMP-8 concentrations. A trend for lower CSF MMP-8 concentrations in the dexamethasone arm (p&#x0200a;=&#x0200a;0.08) was not significant in the repeated measures ANOVA. TIMPs are the natural inhibitors of MMPs but we were unable to find any effect of dexamethasone on changes in CSF TIMP concentration in the same early follow-up (day 5) samples (<xref ref-type="fig" rid="pone-0007277-g002">figure 2</xref>).</p><fig id="pone-0007277-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0007277.g001</object-id><label>Figure 1</label><caption><title>Dexamethasone reduces CSF MMP-9 concentrations in early follow up samples.</title><p>Paired CSF samples from patients with tuberculous meningitis were taken pre-treatment and at early follow up, a median 5 days (range 3&#x02013;8) into anti-tuberculosis therapy, and analyzed for MMP-1, -2, -3, -7, -8, -9 &#x00026; -10 concentration by ELISA (MMP-6, -7 &#x00026; -8 do not exist). Patients who received placebo (light grey bars, n&#x0200a;=&#x0200a;11) had significantly higher MMP-9 concentrations in their early follow-up CSF samples than those who received dexamethasone (dark grey bars, n&#x0200a;=&#x0200a;11). &#x0002a;, p&#x0200a;=&#x0200a;0.01. The black line represents the median value and the box the interquartile range. Whiskers represent 1.5 times the interquartile range away from the box.</p></caption><graphic xlink:href="pone.0007277.g001"/></fig><fig id="pone-0007277-g002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0007277.g002</object-id><label>Figure 2</label><caption><title>CSF TIMP concentrations in early follow up samples are not affected by dexamethasone.</title><p>Paired CSF samples from patients with tuberculous meningitis were taken pre-treatment and at early follow up, a median 5 days (range 3&#x02013;8) into anti-tuberculosis therapy, and analyzed for TIMP-1, -2, &#x00026; -4 concentrations by ELISA. The black line represents the median value and the box the interquartile range. Whiskers represent 1.5 times the interquartile range away from the box.</p></caption><graphic xlink:href="pone.0007277.g002"/></fig><p>MMP-9 concentrations at later time points were not statistically different between the two groups. At day 30 CSF MMP-9 concentration was 252.6 ng/ml (IQR 154.6&#x02013;298.6) in the placebo group and 249.9 ng/ml (IQR 67.5&#x02013;406.6) in the dexamethasone group. At day 60 CSF MMP-9 concentration was 281.6 ng/ml (IQR 94.1&#x02013;345.0) in the placebo group and 181.9 ng/ml (IQR 101.8&#x02013;300.7) in the dexamethasone group. Day 270 concentrations for all CSF MMP/TIMP and their statistical change from baseline are summarized in <xref ref-type="table" rid="pone-0007277-t003">table 3</xref>. Of note MMP-3, -8, -9 and TIMP-1 fell and TIMP-4 rose significantly over the course of 9 months anti-tuberculosis treatment. No other significant relationships were found at any time points for any other MMPs and treatment group. MMP/TIMP concentrations at all time points for both groups have been summarized in supplementary <xref ref-type="supplementary-material" rid="pone.0007277.s001">table S1</xref>.</p><table-wrap id="pone-0007277-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0007277.t003</object-id><label>Table 3</label><caption><title>Day 270 CSF MMP/TIMP concentrations (n&#x0200a;=&#x0200a;19).</title></caption><alternatives><graphic id="pone-0007277-t003-3" xlink:href="pone.0007277.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Variable</td><td align="left" rowspan="1" colspan="1">CSF Concentration [median (IQR)]<xref ref-type="table-fn" rid="nt107">&#x0002a;</xref>
+</td><td align="left" rowspan="1" colspan="1">P value<xref ref-type="table-fn" rid="nt108">#</xref>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-1 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.13 (0.13&#x02013;0.13)</td><td align="left" rowspan="1" colspan="1">0.34</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-2 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">36.7 (33.0&#x02013;50.7)</td><td align="left" rowspan="1" colspan="1">0.26</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-3 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.26 (0.12&#x02013;0.45)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-7 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.08 (0.07&#x02013;0.11)</td><td align="left" rowspan="1" colspan="1">0.63</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-8 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.03 (0.03&#x02013;0.03)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-9 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">4.7 (0.9&#x02013;12.2)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MMP-10 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">0.04 (0.04&#x02013;0.05)</td><td align="left" rowspan="1" colspan="1">0.20</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TIMP-1 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">23.9 (15.2&#x02013;36.0)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TIMP-2 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">26.4 (23.1&#x02013;37.4)</td><td align="left" rowspan="1" colspan="1">0.82</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TIMP-4 (ng/ml)</bold>
+</td><td align="left" rowspan="1" colspan="1">2.1 (1.4&#x02013;3.1)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt107"><label>&#x0002a;</label><p>Data are presented unstratified for treatment group.</p></fn><fn id="nt108"><label>#</label><p>Comparison to baseline value in <xref ref-type="table" rid="pone-0007277-t002">table 2</xref>.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s2d"><title>The relationship between CSF WCC and MMP-9 concentrations</title><p>Neutrophils play a key but possibly under-recognized role in host defense to mycobacteria and release preformed MMP-9 from granzymes to cross the BBB <xref rid="pone.0007277-Cuadrado1" ref-type="bibr">[16]</xref>, <xref rid="pone.0007277-Martineau1" ref-type="bibr">[17]</xref>. CSF MMP-9 concentration and neutrophil count were strongly correlated on analysis of all 141 samples (R<sup>2</sup>&#x0200a;=&#x0200a;0.19, p&#x0003c;0.001). There was a significant correlation between MMP-9 concentration and CSF WCC (R<sup>2</sup>&#x0200a;=&#x0200a;0.31, P&#x0200a;=&#x0200a;0.004) in all 29 available early follow-up (day 5) samples and a stronger correlation with CSF neutrophil count (<xref ref-type="fig" rid="pone-0007277-g003">Figure 3</xref>, R<sup>2</sup>&#x0200a;=&#x0200a;0.52, p&#x0003c;0.001) which was dexamethasone independent. CSF neutrophil count was not independently related to outcome.</p><fig id="pone-0007277-g003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0007277.g003</object-id><label>Figure 3</label><caption><title>CSF MMP-9 concentration and CSF neutrophil count are significantly correlated in early follow up samples.</title><p>Early follow-up CSF samples, taken a median of 5 days (range 3&#x02013;8, n&#x0200a;=&#x0200a;29) into anti-tuberculosis treatment, from patients with tuberculous meningitis were analyzed for correlation between absolute neutrophil count and MMP-9 concentration (measured by ELISA). The R<sup>2</sup> value for the correlation was 0.52 (p&#x0003c;0.001). Patients who received placebo are represented by light grey circles and dexamethasone by dark grey circles.</p></caption><graphic xlink:href="pone.0007277.g003"/></fig></sec><sec id="s2e"><title>The relationship between MMP-9 and other CSF inflammatory parameters</title><p>BBB disruption is potentially related to MMP activity <xref rid="pone.0007277-Rosenberg2" ref-type="bibr">[18]</xref>. There were significant correlations between CSF total protein (the only CSF analyte to fall significantly due to dexamethasone <xref rid="pone.0007277-Simmons1" ref-type="bibr">[2]</xref>) and MMP-9 (R<sup>2</sup>&#x0200a;=&#x0200a;0.18, p&#x0003c;0.001) concentrations but we could find no relationship between the albumin index (a marker of BBB permeability) and CSF MMP/TIMP concentration. At the day 5 time point MMP-8 and -9 were closely correlated (R<sup>2</sup>&#x0200a;=&#x0200a;0.67, p&#x0003c;0.001, n&#x0200a;=&#x0200a;29) but there was only a weak relationship between MMP-9 and its specific inhibitor TIMP-1 (R<sup>2</sup>&#x0200a;=&#x0200a;0.13, p&#x0003c;0.05, n&#x0200a;=&#x0200a;29). There were no other relationships between MMP-9 and any of the other MMP/TIMP concentrations at this time point.</p><p>We investigated the relationship between CSF concentrations of TNF-&#x003b1;, IFN-&#x003b3;, IL-6, IL-8, IL-10 (data not presented) and MMP-9 in all 141 specimens and found only IL-10 and MMP-9 to be correlated (R<sup>2</sup>&#x0200a;=&#x0200a;0.22, p&#x0003c;0.001). Concentrations of IL-1&#x003b2; and IL-12p70 levels were below the level of detection in all but 6 and 8 specimens respectively so were not analyzed. Specific examination of pre-treatment and early follow-up samples did not reveal any other significant relationships.</p></sec><sec id="s2f"><title>Analysis of all baseline clinical and laboratory variables and relationship to baseline clinical severity and treatment outcome measurements</title><p>We investigated the relationship between increasing severity of coma (i.e. GCS of &#x0003c;15 or not on admission to hospital) and clinical and laboratory variables including CSF MMP/TIMP concentrations by logistic regression. In univariate analysis only gender and CSF chloride concentration went forward to entry into the final model, but neither remained significant.</p><p>We then performed univariate analysis to look for relationships between combined poor outcome (death and disability) and clinical and laboratory findings. Gender, baseline GCS, cranial nerve palsy and hemiparesis on presentation went forward into multivariate analysis where only hemiparesis remained significant in the final model (OR&#x0200a;=&#x0200a;0.05, p&#x0200a;=&#x0200a;0.04 [95&#x00025; CI 0.003, 0.92]).</p><p>We found no other significant relationships between pre-treatment MMP/TIMP concentrations (n&#x0200a;=&#x0200a;30) and mortality, cranial nerve palsy, hemiparesis and paraparesis on admission by multivariate analysis, although there was a significant relationship between lower pre-treatment MMP-2 concentrations in CSF and hemiparesis (OR&#x0200a;=&#x0200a;0, p&#x0200a;=&#x0200a;0.02 [95&#x00025; CI 0, 0.24]) on univariate analysis. There was no relationship between duration of symptoms and MMP/TIMP concentrations.</p></sec></sec><sec id="s3"><title>Discussion</title><p>In this study we have investigated the influence of dexamethasone on the CSF secretion of MMPs/TIMPs in (n&#x0200a;=&#x0200a;37) adults with TBM. Despite the small number of patients we found dexamethasone significantly decreased CSF MMP-9 concentrations early in the course of TBM treatment and thus may represent one mechanism by which corticosteroids improve outcome. As dexamethasone did not influence the CSF concentrations of other MMPs this suggests a specific mode of action. Our previous investigations failed to demonstrate a significant effect of dexamethasone on serial CSF cytokines or chemokines, although CSF protein fell faster in the dexamethasone treated group and there was a trend toward lower IFN-&#x003b3; concentrations <xref rid="pone.0007277-Simmons1" ref-type="bibr">[2]</xref>. These data are consistent with our <italic>in vitro</italic> data that indicate IFN-&#x003b3; influences intra-cerebral MMP-9 secretion<xref rid="pone.0007277-Harris1" ref-type="bibr">[12]</xref>.</p><p>MMP-9 is quantitatively the most significant MMP released by macrophages and concentrations are increased in lungs and pleural fluid of TB patients <xref rid="pone.0007277-Chang1" ref-type="bibr">[19]</xref>, <xref rid="pone.0007277-Hoheisel1" ref-type="bibr">[20]</xref>. Serum MMP-9 concentrations may be raised and associated with pulmonary disease severity <xref rid="pone.0007277-Hrabec1" ref-type="bibr">[21]</xref>. <italic>In vitro</italic>, MMP-9 is secreted from monocyte cell lines in response to stimulation by a number of TB components such as lipoarabinomannan (LAM), a process dependent upon the transcription factor AP-1 <xref rid="pone.0007277-Chang1" ref-type="bibr">[19]</xref>, <xref rid="pone.0007277-RiveraMarrero1" ref-type="bibr">[22]</xref>. Previous studies suggest MMP-9 may be an important molecule in TBM pathogenesis. A study of adults with TBM, viral, and bacterial meningitis found increased CSF MMP-9 concentrations were associated with more severe disease and death in all cases <xref rid="pone.0007277-Price1" ref-type="bibr">[11]</xref>. A study of TBM alone has replicated this finding <xref rid="pone.0007277-Matsuura1" ref-type="bibr">[10]</xref>. Other cellular work demonstrates that <italic>M.tb</italic>-infected monocytes drive a network involving IFN-&#x003b3;, TNF-&#x003b1;, IL-1&#x003b2; and NF&#x003ba;B resulting in increased astrocyte MMP-9 secretion without altered TIMP-1/2 secretion indicating a role for glial cells in the development of the matrix degrading phenotype present in CNS TB <xref rid="pone.0007277-Harris1" ref-type="bibr">[12]</xref>, <xref rid="pone.0007277-Harris2" ref-type="bibr">[23]</xref>. However, murine studies suggest MMP-9 is also important in host defense to <italic>M. tuberculosis</italic>. Macrophages from mice resistant to <italic>M. tuberculosis</italic> produce more MMP-9 mRNA in response to intracellular infection than susceptible mice <xref rid="pone.0007277-Keller1" ref-type="bibr">[24]</xref>. Non-specific MMP inhibition blocked early dissemination of <italic>M. tuberculosis</italic> and MMP-9-knockout mice had reduced pulmonary recruitment of macrophages and poorer granuloma formation <xref rid="pone.0007277-Taylor1" ref-type="bibr">[25]</xref>. Therefore <italic>in vivo</italic> a balance may exist between the MMP-9 necessary for host-defense and excess causing the unwanted effects opposed by dexamethasone.</p><p>Our data suggest that the majority of early CSF MMP-9 is released from neutrophils as there was a strong correlation between both baseline values. Other studies have reported strong correlations between MMP-9 and neutrophils in viral meningitis and with total white cells in TBM <xref rid="pone.0007277-Lee1" ref-type="bibr">[26]</xref>, <xref rid="pone.0007277-Sulik1" ref-type="bibr">[27]</xref>. Neutrophils release large amounts of preformed MMP-9 in response to many inflammatory stimuli, which may explain the lack of correlation observed between CSF MMP-9 and the pro-inflammatory cytokines measured <xref rid="pone.0007277-Opdenakker1" ref-type="bibr">[28]</xref>. Additionally there was a trend in our data to suggest that MMP-8, a collagenase principally derived from neutrophils and important in bacterial meningitis, might also be decreased by dexamethasone <xref rid="pone.0007277-Cuadrado1" ref-type="bibr">[16]</xref>, <xref rid="pone.0007277-Leppert1" ref-type="bibr">[29]</xref>. The role of the neutrophil in the pathogenesis of TB is not well understood. Peripheral neutrophil counts have been inversely related to risk of TB in contacts of infectious cases and neutrophil depletion <italic>ex vivo</italic> impaired the ability of whole blood to restrict mycobacterial growth via depletion of secreted anti-microbial peptides <xref rid="pone.0007277-Martineau1" ref-type="bibr">[17]</xref>. A report that neutrophil derived anti-microbial peptides are released in response to <italic>M. tuberculosis</italic> infection but not expressed in the tuberculous granuloma is consistent with the proposed early role for neutrophils in TB <xref rid="pone.0007277-RiveraMarrero1" ref-type="bibr">[22]</xref>. In addition, adults with TBM and a high proportion of neutrophils in the CSF have an increased chance of survival <xref rid="pone.0007277-Thwaites3" ref-type="bibr">[30]</xref>.</p><p>Given the strong correlation between CSF neutrophils and MMP-9 concentrations we investigated the influence of dexamethasone on CSF neutrophil numbers, but did not observe any differences between the treatment groups at any time point. However, dexamethasone may affect function rather than absolute numbers. Corticosteroids can rapidly prevent neutrophil degranulation independently of effects on protein synthesis <xref rid="pone.0007277-Liu1" ref-type="bibr">[31]</xref>. The restricted release of neutrophil-derived proteins in dexamethasone treated patients may have contributed to the significant reduction in CSF protein observed in the dexamethasone group in the published study involving a larger number of patients from the parent trial <xref rid="pone.0007277-Simmons1" ref-type="bibr">[2]</xref>.</p><p>The study has a number of limitations. First, we only studied a small sub-group of patients recruited to the controlled trial. In addition we only studied time points at 0 and 5 days that lead to our conclusions, further work must delineate more clearly when dexamethasone is having this early effect. We could only study patients from one centre, with bacteriologically confirmed disease, in whom multiple serial CSF specimens were available. Therefore because of its small size the study lacked power to detect small effects of dexamethasone and to link effects with outcome. In addition, the patients selected may not be representative of all the patients in the trial. However, the baseline clinical variables most strongly associated with outcome &#x02013; disease severity grade and coma score - were well matched, both within the patients included in the MMP study and when these patients were compared with the rest of the trial patients. The worse outcomes in patients not included in the MMP study may be partly explained by their older age and lower numbers of white cells in the CSF, both independent risk factors for death from TBM <xref rid="pone.0007277-Thwaites1" ref-type="bibr">[1]</xref>. Also, we used ELISAs that detected both active and pro-MMP-9 and thus could not differentiate between biologically active and inactive or degraded MMP-9 <xref rid="pone.0007277-SnoekvanBeurden1" ref-type="bibr">[32]</xref>. Differences in the activity of MMP-9 (assessed by zymography) have been reported in experimental pyogenic meningitis where treatment with antibiotics alone increased CSF MMP-9 activity, but dexamethasone co-administration suppressed this effect <xref rid="pone.0007277-Liu2" ref-type="bibr">[33]</xref>.</p><p>In summary, this investigation has shown that dexamethasone may influence outcome from TBM by reducing MMP-9 secretion. However, future research needs to delineate the roles of neutrophils and their MMPs, specifically MMP-8 and -9, in the early stages of TBM treatment more clearly. Targeting neutrophil-derived, MMP-driven, inflammatory responses early in TBM may be a potential therapeutic strategy.</p></sec><sec id="s4"><title>Methods</title><sec id="s4a"><title>Study participants and setting</title><p>We studied a subset of patients from a previously reported randomized, double-blind, placebo-controlled trial of adjunctive dexamethasone for the treatment of TBM in 545 Vietnamese adults <xref rid="pone.0007277-Thwaites1" ref-type="bibr">[1]</xref>. To be eligible for selection for the current study patients had to have been recruited at the Hospital for Tropical Diseases (HTD), Ho Chi Minh City, have a microbiologically confirmed diagnosis of TBM (<italic>Mycobacterium tuberculosis</italic> cultured from the CSF), negative HIV-1 &#x00026; 2 antibodies, and at least two serial CSF specimens taken within the first 60 days of treatment (when dexamethasone was stopped) available for analysis, unless they had died within this period.</p><p>Disease severity at admission was defined by the Glasgow coma scale (GCS). Assessment of GCS was performed by summation of clinical assessment of eye opening (awarded 1&#x02013;4 points), best verbal response (1&#x02013;5 points) and best motor function (1&#x02013;6 points) where lower values indicate more severe neurological dysfunction <xref rid="pone.0007277-Teasdale1" ref-type="bibr">[34]</xref>. Disease severity was also assessed using the United Kingdom Medical Research Council grade (UK MRC) for TBM <xref rid="pone.0007277-Teasdale1" ref-type="bibr">[34]</xref>: patients in grade I had a GCS of 15 (fully conscious) and no focal neurological signs; patients in grade II had a GCS of between 11 and 14 and/or focal neurological signs; and patients in grade III had severe coma with a GCS of less than 11.</p><p>The ethical and scientific committees of Imperial College, Oxford University and the Hospital for Tropical Diseases approved the study and written, informed consent to participate in the study was obtained from the patients or their relatives. All clinical investigation was conducted according to the principles expressed in the Declaration of Helsinki.</p></sec><sec id="s4b"><title>Treatment and specimen collection</title><p>Adults were allocated randomly to start dexamethasone sodium phosphate or placebo as soon as possible after the start of four drug anti-tuberculosis therapy as previously described <xref rid="pone.0007277-Thwaites1" ref-type="bibr">[1]</xref>. Briefly, adults with grade II or III disease received intra-venous study drug for 4 weeks (week 1 0.4 mg/kg/day); week 2 0.3 mg/kg/day, week 3 0.2 mg/kg/day, week 4 0.1 mg/kg/day), then 4 weeks of tablets starting at 4 mg total dose per day, reducing by 1 mg per week until zero. Those with grade I disease received 2 weeks of intra-venous study drug (week 1 0.3 mg/kg/day, week 2 0.2 mg/kg/day) then 4 weeks of tablets (week 3 0.1 mg/kg/day; then 3 mg total per day reducing by 1 mg per week until zero). Serial CSF samples (frozen at &#x02212;70&#x000b0;C) and routine clinical investigations were collected as part of normal clinical care pre-treatment and on study days 3, 7, 30, 60 and 270.</p></sec><sec id="s4c"><title>Assessment of the clinical and CSF inflammatory response to treatment</title><p>The primary outcome of the trial was death or severe disability 9 months after randomization and was assessed blind to the treatment allocation <xref rid="pone.0007277-Thwaites1" ref-type="bibr">[1]</xref>. Likewise, treatment allocation was unknown to those assessing conventional and experimental CSF inflammatory responses including MMPs/TIMPs. CSF white cell count, protein, glucose and lactate concentrations were determined by standard methods. Blood brain barrier integrity was assessed by measurement of paired CSF and plasma albumin concentrations by standard methods. The albumin index was calculated using the formula [albumin<italic><sub>csf</sub></italic>]/[albumin<italic><sub>plasma</sub></italic>] <xref rid="pone.0007277-Thwaites3" ref-type="bibr">[30]</xref>. The concentrations of CSF cytokines (IFN-&#x003b3;, TNF-&#x003b1;, and the interleukins -1&#x003b2;, -6, -8, -10, and 12p70) were determined by cytometric bead array assay (BD Biosciences) as described <xref rid="pone.0007277-Simmons1" ref-type="bibr">[2]</xref>.</p></sec><sec id="s4d"><title>CSF MMP and TIMP concentration measurement</title><p>MMP-1, -2, -3, -7, -8, -9 and -10 and TIMP-1, -2 and -4 were measured by ELISA (R&#x00026;D, Abingdon, UK) according to the manufacturer's instructions. The lower level of sensitivity for the ELISAs were 156 pg/ml for MMP-1 and -7, 78 pg/ml for MMP-2 and -10, and 31 pg/ml for MMP-3, -8, -9, TIMP-1, -2 and -4. Samples with high MMP/TIMP concentrations were diluted as appropriate. Values below the level of detection were assigned an arbitrary value halfway between 0 and the lower level of sensitivity.</p></sec><sec id="s4e"><title>Statistical analysis</title><p>The analysis followed a pre-defined plan, unless otherwise stated as exploratory analysis. Continuous variables were compared by Student's t-test if normally distributed and Mann-Whitney U test if non-normally distributed. Where more than two groups were compared the Kruskal-Wallis test was used for non-parametric data. Categorical data were compared using Fisher's exact test or the &#x003a7;<sup>2</sup> test. All p-values were two sided and a value of &#x0003c;0.05 was taken as significant. The changes in MMP/TIMP concentration between pre-treatment and follow-up samples were calculated using repeated measures ANOVA with dexamethasone as a covariate. Baseline MMPs and TIMPs were analyzed by univariate analysis to examine relationships between presenting clinical features and the specific outcomes of death and combined poor outcome (defined in the original trial as death or severe disability at 9 month follow-up). Clinical and laboratory features with P&#x0003c;0.15 were then entered into a multivariate model using forward and backward likelihood ratio logistic regression. All analyses were performed using SPSS version 15.0 (SPSS Corp, Chicago, IL, US).</p></sec></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0007277.s001"><label>Table S1</label><caption><p>Summary of CSF MMP/TIMP concentrations at all time points. # Data for all patients presented, paired analysis presented in text.</p><p>(0.05 MB DOC)</p></caption><media xlink:href="pone.0007277.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack><p>The authors wish to thank the doctors and nurses at The Hospital for Tropical Diseases who cared for the patients and allowed collection of samples for this study to occur.</p></ack><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>JAG is a Medical Research Council (UK) Clinical Training Fellow. This work was supported by grants from the Wellcome Trust (GET, JF) and the Hammersmith Hospital Special Trustees (JAG). JSF is grateful for support from the NIHR Biomedical Research Centre funding scheme. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0007277-Thwaites1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thwaites</surname><given-names>GE</given-names></name><name><surname>Nguyen</surname><given-names>DB</given-names></name><name><surname>Nguyen</surname><given-names>HD</given-names></name><name><surname>Hoang</surname><given-names>TQ</given-names></name><name><surname>Do</surname><given-names>TT</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Dexamethasone for the treatment of tuberculous meningitis in adolescents and adults.</article-title>
+<source>N Engl J Med</source>
+<volume>351</volume>
+<fpage>1741</fpage>
+<lpage>1751</lpage>
+<pub-id pub-id-type="pmid">15496623</pub-id></element-citation></ref><ref id="pone.0007277-Simmons1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Simmons</surname><given-names>CP</given-names></name><name><surname>Thwaites</surname><given-names>GE</given-names></name><name><surname>Quyen</surname><given-names>NT</given-names></name><name><surname>Chau</surname><given-names>TT</given-names></name><name><surname>Mai</surname><given-names>PP</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>The clinical benefit of adjunctive dexamethasone in tuberculous meningitis is not associated with measurable attenuation of peripheral or local immune responses.</article-title>
+<source>J Immunol</source>
+<volume>175</volume>
+<fpage>579</fpage>
+<lpage>590</lpage>
+<pub-id pub-id-type="pmid">15972695</pub-id></element-citation></ref><ref id="pone.0007277-Thwaites2"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thwaites</surname><given-names>GE</given-names></name><name><surname>Macmullen-Price</surname><given-names>J</given-names></name><name><surname>Tran</surname><given-names>TH</given-names></name><name><surname>Pham</surname><given-names>PM</given-names></name><name><surname>Nguyen</surname><given-names>TD</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Serial MRI to determine the effect of dexamethasone on the cerebral pathology of tuberculous meningitis: an observational study.</article-title>
+<source>Lancet Neurol</source>
+<volume>6</volume>
+<fpage>230</fpage>
+<lpage>236</lpage>
+<pub-id pub-id-type="pmid">17303529</pub-id></element-citation></ref><ref id="pone.0007277-Schoeman1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schoeman</surname><given-names>JF</given-names></name><name><surname>Elshof</surname><given-names>JW</given-names></name><name><surname>Laubscher</surname><given-names>JA</given-names></name><name><surname>Janse van Rensburg</surname><given-names>A</given-names></name><name><surname>Donald</surname><given-names>PR</given-names></name></person-group>
+<year>2001</year>
+<article-title>The effect of adjuvant steroid treatment on serial cerebrospinal fluid changes in tuberculous meningitis.</article-title>
+<source>Ann Trop Paediatr</source>
+<volume>21</volume>
+<fpage>299</fpage>
+<lpage>305</lpage>
+<pub-id pub-id-type="pmid">11732147</pub-id></element-citation></ref><ref id="pone.0007277-McGeer1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McGeer</surname><given-names>PL</given-names></name><name><surname>McGeer</surname><given-names>EG</given-names></name></person-group>
+<year>1999</year>
+<article-title>Inflammation of the brain in Alzheimer's disease: implications for therapy.</article-title>
+<source>J Leukoc Biol</source>
+<volume>65</volume>
+<fpage>409</fpage>
+<lpage>415</lpage>
+<pub-id pub-id-type="pmid">10204568</pub-id></element-citation></ref><ref id="pone.0007277-Rosenberg1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rosenberg</surname><given-names>GA</given-names></name></person-group>
+<year>2005</year>
+<article-title>Matrix metalloproteinases biomarkers in multiple sclerosis.</article-title>
+<source>Lancet</source>
+<volume>365</volume>
+<fpage>1291</fpage>
+<lpage>1293</lpage>
+<pub-id pub-id-type="pmid">15823367</pub-id></element-citation></ref><ref id="pone.0007277-Zhang1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zhang</surname><given-names>K</given-names></name><name><surname>McQuibban</surname><given-names>GA</given-names></name><name><surname>Silva</surname><given-names>C</given-names></name><name><surname>Butler</surname><given-names>GS</given-names></name><name><surname>Johnston</surname><given-names>JB</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>HIV-induced metalloproteinase processing of the chemokine stromal cell derived factor-1 causes neurodegeneration.</article-title>
+<source>Nat Neurosci</source>
+<volume>6</volume>
+<fpage>1064</fpage>
+<lpage>1071</lpage>
+<pub-id pub-id-type="pmid">14502291</pub-id></element-citation></ref><ref id="pone.0007277-Okada1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Okada</surname><given-names>S</given-names></name><name><surname>Kita</surname><given-names>H</given-names></name><name><surname>George</surname><given-names>TJ</given-names></name><name><surname>Gleich</surname><given-names>GJ</given-names></name><name><surname>Leiferman</surname><given-names>KM</given-names></name></person-group>
+<year>1997</year>
+<article-title>Migration of eosinophils through basement membrane components in vitro: role of matrix metalloproteinase-9.</article-title>
+<source>Am J Respir Cell Mol Biol</source>
+<volume>17</volume>
+<fpage>519</fpage>
+<lpage>528</lpage>
+<pub-id pub-id-type="pmid">9376127</pub-id></element-citation></ref><ref id="pone.0007277-vanHorssen1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>van Horssen</surname><given-names>J</given-names></name><name><surname>Bo</surname><given-names>L</given-names></name><name><surname>Vos</surname><given-names>CM</given-names></name><name><surname>Virtanen</surname><given-names>I</given-names></name><name><surname>de Vries</surname><given-names>HE</given-names></name></person-group>
+<year>2005</year>
+<article-title>Basement membrane proteins in multiple sclerosis-associated inflammatory cuffs: potential role in influx and transport of leukocytes.</article-title>
+<source>J Neuropathol Exp Neurol</source>
+<volume>64</volume>
+<fpage>722</fpage>
+<lpage>729</lpage>
+<pub-id pub-id-type="pmid">16106221</pub-id></element-citation></ref><ref id="pone.0007277-Matsuura1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Matsuura</surname><given-names>E</given-names></name><name><surname>Umehara</surname><given-names>F</given-names></name><name><surname>Hashiguchi</surname><given-names>T</given-names></name><name><surname>Fujimoto</surname><given-names>N</given-names></name><name><surname>Okada</surname><given-names>Y</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Marked increase of matrix metalloproteinase 9 in cerebrospinal fluid of patients with fungal or tuberculous meningoencephalitis.</article-title>
+<source>J Neurol Sci</source>
+<volume>173</volume>
+<fpage>45</fpage>
+<lpage>52</lpage>
+<pub-id pub-id-type="pmid">10675579</pub-id></element-citation></ref><ref id="pone.0007277-Price1"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Price</surname><given-names>NM</given-names></name><name><surname>Farrar</surname><given-names>J</given-names></name><name><surname>Tran</surname><given-names>TT</given-names></name><name><surname>Nguyen</surname><given-names>TH</given-names></name><name><surname>Tran</surname><given-names>TH</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Identification of a matrix-degrading phenotype in human tuberculosis in vitro and in vivo.</article-title>
+<source>J Immunol</source>
+<volume>166</volume>
+<fpage>4223</fpage>
+<lpage>4230</lpage>
+<pub-id pub-id-type="pmid">11238675</pub-id></element-citation></ref><ref id="pone.0007277-Harris1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harris</surname><given-names>JE</given-names></name><name><surname>Fernandez-Vilaseca</surname><given-names>M</given-names></name><name><surname>Elkington</surname><given-names>PT</given-names></name><name><surname>Horncastle</surname><given-names>DE</given-names></name><name><surname>Graeber</surname><given-names>MB</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>IFNgamma synergizes with IL-1beta to up-regulate MMP-9 secretion in a cellular model of central nervous system tuberculosis.</article-title>
+<source>FASEB J</source>
+<volume>21</volume>
+<fpage>356</fpage>
+<lpage>365</lpage>
+<pub-id pub-id-type="pmid">17158965</pub-id></element-citation></ref><ref id="pone.0007277-Bottcher1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bottcher</surname><given-names>T</given-names></name><name><surname>Spreer</surname><given-names>A</given-names></name><name><surname>Azeh</surname><given-names>I</given-names></name><name><surname>Nau</surname><given-names>R</given-names></name><name><surname>Gerber</surname><given-names>J</given-names></name></person-group>
+<year>2003</year>
+<article-title>Matrix metalloproteinase-9 deficiency impairs host defense mechanisms against Streptococcus pneumoniae in a mouse model of bacterial meningitis.</article-title>
+<source>Neurosci Lett</source>
+<volume>338</volume>
+<fpage>201</fpage>
+<lpage>204</lpage>
+<pub-id pub-id-type="pmid">12581831</pub-id></element-citation></ref><ref id="pone.0007277-Sellner1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sellner</surname><given-names>J</given-names></name><name><surname>Leib</surname><given-names>SL</given-names></name></person-group>
+<year>2006</year>
+<article-title>In bacterial meningitis cortical brain damage is associated with changes in parenchymal MMP-9/TIMP-1 ratio and increased collagen type IV degradation.</article-title>
+<source>Neurobiol Dis</source>
+<volume>21</volume>
+<fpage>647</fpage>
+<lpage>656</lpage>
+<pub-id pub-id-type="pmid">16257222</pub-id></element-citation></ref><ref id="pone.0007277-Elkington1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Elkington</surname><given-names>PT</given-names></name><name><surname>Nuttall</surname><given-names>RK</given-names></name><name><surname>Boyle</surname><given-names>JJ</given-names></name><name><surname>O'Kane C</surname><given-names>M</given-names></name><name><surname>Horncastle</surname><given-names>DE</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Mycobacterium tuberculosis but not vaccine BCG specifically up-regulates matrix metalloproteinase-1.</article-title>
+<source>Am J Respir Crit Care Med</source>
+<volume>172</volume>
+<fpage>1596</fpage>
+<lpage>1604</lpage>
+<pub-id pub-id-type="pmid">16141443</pub-id></element-citation></ref><ref id="pone.0007277-Cuadrado1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cuadrado</surname><given-names>E</given-names></name><name><surname>Ortega</surname><given-names>L</given-names></name><name><surname>Hernandez-Guillamon</surname><given-names>M</given-names></name><name><surname>Penalba</surname><given-names>A</given-names></name><name><surname>Fernandez-Cadenas</surname><given-names>I</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Tissue plasminogen activator (t-PA) promotes neutrophil degranulation and MMP-9 release.</article-title>
+<source>J Leukoc Biol</source>
+<volume>84</volume>
+<fpage>207</fpage>
+<lpage>214</lpage>
+<pub-id pub-id-type="pmid">18390930</pub-id></element-citation></ref><ref id="pone.0007277-Martineau1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Martineau</surname><given-names>AR</given-names></name><name><surname>Newton</surname><given-names>SM</given-names></name><name><surname>Wilkinson</surname><given-names>KA</given-names></name><name><surname>Kampmann</surname><given-names>B</given-names></name><name><surname>Hall</surname><given-names>BM</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Neutrophil-mediated innate immune resistance to mycobacteria.</article-title>
+<source>J Clin Invest</source>
+<volume>117</volume>
+<fpage>1988</fpage>
+<lpage>1994</lpage>
+<pub-id pub-id-type="pmid">17607367</pub-id></element-citation></ref><ref id="pone.0007277-Rosenberg2"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rosenberg</surname><given-names>GA</given-names></name></person-group>
+<year>2002</year>
+<article-title>Matrix metalloproteinases in neuroinflammation.</article-title>
+<source>Glia</source>
+<volume>39</volume>
+<fpage>279</fpage>
+<lpage>291</lpage>
+<pub-id pub-id-type="pmid">12203394</pub-id></element-citation></ref><ref id="pone.0007277-Chang1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chang</surname><given-names>JC</given-names></name><name><surname>Wysocki</surname><given-names>A</given-names></name><name><surname>Tchou-Wong</surname><given-names>KM</given-names></name><name><surname>Moskowitz</surname><given-names>N</given-names></name><name><surname>Zhang</surname><given-names>Y</given-names></name><etal/></person-group>
+<year>1996</year>
+<article-title>Effect of Mycobacterium tuberculosis and its components on macrophages and the release of matrix metalloproteinases.</article-title>
+<source>Thorax</source>
+<volume>51</volume>
+<fpage>306</fpage>
+<lpage>311</lpage>
+<pub-id pub-id-type="pmid">8779137</pub-id></element-citation></ref><ref id="pone.0007277-Hoheisel1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hoheisel</surname><given-names>G</given-names></name><name><surname>Sack</surname><given-names>U</given-names></name><name><surname>Hui</surname><given-names>DS</given-names></name><name><surname>Huse</surname><given-names>K</given-names></name><name><surname>Chan</surname><given-names>KS</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Occurrence of matrix metalloproteinases and tissue inhibitors of metalloproteinases in tuberculous pleuritis.</article-title>
+<source>Tuberculosis (Edinb)</source>
+<volume>81</volume>
+<fpage>203</fpage>
+<lpage>209</lpage>
+<pub-id pub-id-type="pmid">11466032</pub-id></element-citation></ref><ref id="pone.0007277-Hrabec1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hrabec</surname><given-names>E</given-names></name><name><surname>Strek</surname><given-names>M</given-names></name><name><surname>Zieba</surname><given-names>M</given-names></name><name><surname>Kwiatkowska</surname><given-names>S</given-names></name><name><surname>Hrabec</surname><given-names>Z</given-names></name></person-group>
+<year>2002</year>
+<article-title>Circulation level of matrix metalloproteinase-9 is correlated with disease severity in tuberculosis patients.</article-title>
+<source>Int J Tuberc Lung Dis</source>
+<volume>6</volume>
+<fpage>713</fpage>
+<lpage>719</lpage>
+<pub-id pub-id-type="pmid">12150484</pub-id></element-citation></ref><ref id="pone.0007277-RiveraMarrero1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rivera-Marrero</surname><given-names>CA</given-names></name><name><surname>Schuyler</surname><given-names>W</given-names></name><name><surname>Roser</surname><given-names>S</given-names></name><name><surname>Roman</surname><given-names>J</given-names></name></person-group>
+<year>2000</year>
+<article-title>Induction of MMP-9 mediated gelatinolytic activity in human monocytic cells by cell wall components of Mycobacterium tuberculosis.</article-title>
+<source>Microb Pathog</source>
+<volume>29</volume>
+<fpage>231</fpage>
+<lpage>244</lpage>
+<pub-id pub-id-type="pmid">10993742</pub-id></element-citation></ref><ref id="pone.0007277-Harris2"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harris</surname><given-names>JE</given-names></name><name><surname>Nuttall</surname><given-names>RK</given-names></name><name><surname>Elkington</surname><given-names>PT</given-names></name><name><surname>Green</surname><given-names>JA</given-names></name><name><surname>Horncastle</surname><given-names>DE</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Monocyte-astrocyte networks regulate matrix metalloproteinase gene expression and secretion in central nervous system tuberculosis in vitro and in vivo.</article-title>
+<source>J Immunol</source>
+<volume>178</volume>
+<fpage>1199</fpage>
+<lpage>1207</lpage>
+<pub-id pub-id-type="pmid">17202385</pub-id></element-citation></ref><ref id="pone.0007277-Keller1"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Keller</surname><given-names>C</given-names></name><name><surname>Lauber</surname><given-names>J</given-names></name><name><surname>Blumenthal</surname><given-names>A</given-names></name><name><surname>Buer</surname><given-names>J</given-names></name><name><surname>Ehlers</surname><given-names>S</given-names></name></person-group>
+<year>2004</year>
+<article-title>Resistance and susceptibility to tuberculosis analysed at the transcriptome level: lessons from mouse macrophages.</article-title>
+<source>Tuberculosis (Edinb)</source>
+<volume>84</volume>
+<fpage>144</fpage>
+<lpage>158</lpage>
+<pub-id pub-id-type="pmid">15207484</pub-id></element-citation></ref><ref id="pone.0007277-Taylor1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taylor</surname><given-names>JL</given-names></name><name><surname>Hattle</surname><given-names>JM</given-names></name><name><surname>Dreitz</surname><given-names>SA</given-names></name><name><surname>Troudt</surname><given-names>JM</given-names></name><name><surname>Izzo</surname><given-names>LS</given-names></name><etal/></person-group>
+<year>2006</year>
+<article-title>A role for matrix metalloproteinase-9 in granuloma formation during pulmonary Mycobacterium tuberculosis infection.</article-title>
+<source>Infect Immun</source>
+<volume>74</volume>
+<fpage>6135</fpage>
+<lpage>6144</lpage>
+<pub-id pub-id-type="pmid">16982845</pub-id></element-citation></ref><ref id="pone.0007277-Lee1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lee</surname><given-names>KY</given-names></name><name><surname>Kim</surname><given-names>EH</given-names></name><name><surname>Yang</surname><given-names>WS</given-names></name><name><surname>Ryu</surname><given-names>H</given-names></name><name><surname>Cho</surname><given-names>SN</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Persistent increase of matrix metalloproteinases in cerebrospinal fluid of tuberculous meningitis.</article-title>
+<source>J Neurol Sci</source>
+<volume>220</volume>
+<fpage>73</fpage>
+<lpage>78</lpage>
+<pub-id pub-id-type="pmid">15140609</pub-id></element-citation></ref><ref id="pone.0007277-Sulik1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sulik</surname><given-names>A</given-names></name><name><surname>Wojtkowska</surname><given-names>M</given-names></name><name><surname>Oldak</surname><given-names>E</given-names></name></person-group>
+<year>2008</year>
+<article-title>Elevated Levels of MMP-9 and TIMP-1 in the Cerebrospinal Fluid of Children with Echovirus Type 30 and Mumps Meningitis.</article-title>
+<source>Scand J Immunol</source>
+<volume>68</volume>
+<fpage>323</fpage>
+<lpage>327</lpage>
+<pub-id pub-id-type="pmid">18565120</pub-id></element-citation></ref><ref id="pone.0007277-Opdenakker1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Opdenakker</surname><given-names>G</given-names></name><name><surname>Van den Steen</surname><given-names>PE</given-names></name><name><surname>Dubois</surname><given-names>B</given-names></name><name><surname>Nelissen</surname><given-names>I</given-names></name><name><surname>Van Coillie</surname><given-names>E</given-names></name><etal/></person-group>
+<year>2001</year>
+<article-title>Gelatinase B functions as regulator and effector in leukocyte biology.</article-title>
+<source>J Leukoc Biol</source>
+<volume>69</volume>
+<fpage>851</fpage>
+<lpage>859</lpage>
+<pub-id pub-id-type="pmid">11404367</pub-id></element-citation></ref><ref id="pone.0007277-Leppert1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leppert</surname><given-names>D</given-names></name><name><surname>Leib</surname><given-names>SL</given-names></name><name><surname>Grygar</surname><given-names>C</given-names></name><name><surname>Miller</surname><given-names>KM</given-names></name><name><surname>Schaad</surname><given-names>UB</given-names></name><etal/></person-group>
+<year>2000</year>
+<article-title>Matrix metalloproteinase (MMP)-8 and MMP-9 in cerebrospinal fluid during bacterial meningitis: association with blood-brain barrier damage and neurological sequelae.</article-title>
+<source>Clin Infect Dis</source>
+<volume>31</volume>
+<fpage>80</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="pmid">10913401</pub-id></element-citation></ref><ref id="pone.0007277-Thwaites3"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thwaites</surname><given-names>GE</given-names></name><name><surname>Simmons</surname><given-names>CP</given-names></name><name><surname>Than Ha Quyen</surname><given-names>N</given-names></name><name><surname>Thi Hong Chau</surname><given-names>T</given-names></name><name><surname>Phuong Mai</surname><given-names>P</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Pathophysiology and prognosis in vietnamese adults with tuberculous meningitis.</article-title>
+<source>J Infect Dis</source>
+<volume>188</volume>
+<fpage>1105</fpage>
+<lpage>1115</lpage>
+<pub-id pub-id-type="pmid">14551879</pub-id></element-citation></ref><ref id="pone.0007277-Liu1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>L</given-names></name><name><surname>Wang</surname><given-names>YX</given-names></name><name><surname>Zhou</surname><given-names>J</given-names></name><name><surname>Long</surname><given-names>F</given-names></name><name><surname>Sun</surname><given-names>HW</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Rapid non-genomic inhibitory effects of glucocorticoids on human neutrophil degranulation.</article-title>
+<source>Inflamm Res</source>
+<volume>54</volume>
+<fpage>37</fpage>
+<lpage>41</lpage>
+<pub-id pub-id-type="pmid">15723203</pub-id></element-citation></ref><ref id="pone.0007277-SnoekvanBeurden1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Snoek-van Beurden</surname><given-names>PA</given-names></name><name><surname>Von den Hoff</surname><given-names>JW</given-names></name></person-group>
+<year>2005</year>
+<article-title>Zymographic techniques for the analysis of matrix metalloproteinases and their inhibitors.</article-title>
+<source>Biotechniques</source>
+<volume>38</volume>
+<fpage>73</fpage>
+<lpage>83</lpage>
+<pub-id pub-id-type="pmid">15679089</pub-id></element-citation></ref><ref id="pone.0007277-Liu2"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Liu</surname><given-names>X</given-names></name><name><surname>Han</surname><given-names>Q</given-names></name><name><surname>Sun</surname><given-names>R</given-names></name><name><surname>Li</surname><given-names>Z</given-names></name></person-group>
+<year>2008</year>
+<article-title>Dexamethasone regulation of matrix metalloproteinase expression in experimental pneumococcal meningitis.</article-title>
+<source>Brain Res</source>
+<volume>1207</volume>
+<fpage>237</fpage>
+<lpage>243</lpage>
+<pub-id pub-id-type="pmid">18374903</pub-id></element-citation></ref><ref id="pone.0007277-Teasdale1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Teasdale</surname><given-names>G</given-names></name><name><surname>Jennett</surname><given-names>B</given-names></name></person-group>
+<year>1974</year>
+<article-title>Assessment of coma and impaired consciousness. A practical scale.</article-title>
+<source>Lancet</source>
+<volume>2</volume>
+<fpage>81</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="pmid">4136544</pub-id></element-citation></ref></ref-list></back></article>

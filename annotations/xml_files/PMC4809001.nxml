@@ -1,0 +1,548 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="iso-abbrev">Int J Environ Res Public Health</journal-id><journal-id journal-id-type="publisher-id">ijerph</journal-id><journal-title-group><journal-title>International Journal of Environmental Research and Public Health</journal-title></journal-title-group><issn pub-type="ppub">1661-7827</issn><issn pub-type="epub">1660-4601</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26999186</article-id><article-id pub-id-type="pmc">4809001</article-id><article-id pub-id-type="doi">10.3390/ijerph13030338</article-id><article-id pub-id-type="publisher-id">ijerph-13-00338</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Mitigating Physiological Responses to Layoff Threat: An Experimental Test of the Efficacy of Two Coping Interventions</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Probst</surname><given-names>Tahira M.</given-names></name><xref ref-type="aff" rid="af1-ijerph-13-00338">1</xref><xref rid="c1-ijerph-13-00338" ref-type="corresp">*</xref></contrib><contrib contrib-type="author"><name><surname>Jiang</surname><given-names>Lixin</given-names></name><xref ref-type="aff" rid="af2-ijerph-13-00338">2</xref></contrib></contrib-group><contrib-group><contrib contrib-type="editor"><name><surname>Cooper</surname><given-names>Cary</given-names></name><role>Academic Editor</role></contrib></contrib-group><aff id="af1-ijerph-13-00338"><label>1</label>Department of Psychology, Washington State University Vancouver, 14204 NE Salmon Creek Ave., Vancouver, WA 98686, USA</aff><aff id="af2-ijerph-13-00338"><label>2</label>Department of Psychology, University of Wisconsin Oshkosh, 800 Algoma Blvd., Oshkosh, WI 54901, USA; <email>jiangl@uwosh.edu</email></aff><author-notes><corresp id="c1-ijerph-13-00338"><label>*</label>Correspondence: <email>probst@wsu.edu</email>; Tel.: +1-360-546-9746; Fax: +1-360-546-9038</corresp></author-notes><pub-date pub-type="epub"><day>18</day><month>3</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2016</year></pub-date><volume>13</volume><issue>3</issue><elocation-id>338</elocation-id><history><date date-type="received"><day>07</day><month>1</month><year>2016</year></date><date date-type="accepted"><day>14</day><month>3</month><year>2016</year></date></history><permissions><copyright-statement>&#x000a9; 2016 by the authors; licensee MDPI, Basel, Switzerland.</copyright-statement><copyright-year>2016</copyright-year><license><license-p><!--CREATIVE COMMONS-->This article is an open access article distributed under the terms and conditions of the Creative Commons by Attribution (CC-BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>The purpose of the current study was to assess real-time physiological reactions to the threat of layoffs and to determine whether the use of an emotion-focused <italic>vs.</italic> problem-focused coping intervention would be more efficacious in attenuating these physiological reactions. A 2 (coping intervention) &#x000d7; 4 (within-subjects time points) mixed experimental design was used to test the hypotheses. Eighty-four undergraduates participated in this laboratory experiment during which their galvanic skin response (GSR) and heart rate (HR) were continuously monitored. Analyses indicate that individuals instructed to utilize an emotion-focused coping strategy experienced a significantly greater decline in their GSR compared to those utilizing the problem-focused coping method. Results suggest organizations conducting layoffs might focus first on dealing with the emotional aftermath of downsizing before focusing on problem-solving tasks, such as resume writing and other traditional outplacement activities.</p></abstract><kwd-group><kwd>emotion-focused coping</kwd><kwd>problem-focused coping</kwd><kwd>expressive writing</kwd><kwd>anticipated job loss</kwd><kwd>galvanic skin response</kwd></kwd-group></article-meta></front><body><sec id="sec1-ijerph-13-00338"><title>1. Introduction</title><p>Even in the absence of a recession, organizations frequently downsize for a variety of reasons (e.g., in response to global competition, need to reduce costs, technology changes, <italic>etc.</italic>). In 2012 alone, there were 6500 extended mass layoff events across the United States, resulting in the layoff of more than 1.25 million workers [<xref rid="B1-ijerph-13-00338" ref-type="bibr">1</xref>]. Not surprisingly, nearly half of all Americans report being concerned about the future stability of their job [<xref rid="B2-ijerph-13-00338" ref-type="bibr">2</xref>]. Therefore, one of the most pressing issues for human resource professionals is to better understand not only the effects of such job insecurity concerns on employee health and well-being, but also how best to manage the inevitable career transitions when layoffs need to be implemented.</p><p>Over four decades of research suggest that the threat of job loss can have negative health consequences for employees. In one of the earliest studies, Cobb [<xref rid="B3-ijerph-13-00338" ref-type="bibr">3</xref>] found that the stress of possible job termination was associated with significant increases in norepinephrine excretion, serum creatinine, serum uric acid, and serum cholesterol. Research since then (e.g., [<xref rid="B4-ijerph-13-00338" ref-type="bibr">4</xref>,<xref rid="B5-ijerph-13-00338" ref-type="bibr">5</xref>,<xref rid="B6-ijerph-13-00338" ref-type="bibr">6</xref>,<xref rid="B7-ijerph-13-00338" ref-type="bibr">7</xref>,<xref rid="B8-ijerph-13-00338" ref-type="bibr">8</xref>]) has supported the finding that employees worried about job loss report a greater incidence of adverse physical health symptoms and conditions compared to secure employees. More recent longitudinal research (e.g., [<xref rid="B9-ijerph-13-00338" ref-type="bibr">9</xref>,<xref rid="B10-ijerph-13-00338" ref-type="bibr">10</xref>,<xref rid="B11-ijerph-13-00338" ref-type="bibr">11</xref>]) has also demonstrated that chronic job insecurity predicted changes over time in physical symptoms.</p><p>While research on the effects of job insecurity and threatened layoffs has consistently found significant negative effects on physical health outcomes, no research to date has yet collected real-time data to demonstrate the immediate physiological reactions of individuals who are notified of an impending layoff. This is understandable given the practical limitations of doing so in the context of an actual organizational layoff. In the current laboratory experiment, we measured in real-time the physiological reactions (galvanic skin response and heart rate) of research participants prior to receiving a layoff notice and during the reading of the notice. Galvanic skin response (GSR) and heart rate (HR) are commonly used in psychophysiology experiments to infer emotional state and cortical arousal in response to stressful situations. It was expected that GSR and HR would increase significantly when participants read the layoff notice.</p><p>The more central contribution of this study was to examine the effectiveness of two coping interventions at alleviating the stress response experienced by participants following the layoff notice. Such information can have practical applicability for human resource professionals as they assist their employees with difficult career transitions. In particular, there has been a significant amount of research examining the efficacy of problem-focused <italic>vs.</italic> emotion-focused coping at reducing the negative outcomes of unemployment. However, this research has been largely correlational taking an individual differences approach in the self-reported coping styles utilized by layoff victims, rather than using an intervention-based approach manipulating which coping strategy layoff victims are asked to utilize. While research indicates that a problem-focused approach may be better in regaining employment [<xref rid="B12-ijerph-13-00338" ref-type="bibr">12</xref>,<xref rid="B13-ijerph-13-00338" ref-type="bibr">13</xref>,<xref rid="B14-ijerph-13-00338" ref-type="bibr">14</xref>,<xref rid="B15-ijerph-13-00338" ref-type="bibr">15</xref>], it remains an empirical question as to whether an emotion- <italic>vs.</italic> problem-focused approach might be better in the <italic>immediate</italic> aftermath of a layoff at alleviating the victim&#x02019;s stress response.</p><p>To explore the effectiveness of the emotion-focused coping and the problem-focused coping, participants in our study were instructed to either utilize an emotion-focused or problem-focused coping method during a five-minute writing period following the receipt of the layoff notice. It was expected that individuals utilizing the emotion-focused writing approach would experience a greater reduction in their stress-response compared to individuals instructed to use a problem-focused writing approach after receiving the layoff notice.</p><p>The following sections summarize the literature on the consequences of anticipated job loss, with the specific focus on physical health reactions of employees. Next, we utilize existing theory and research on problem-focused and emotion-focused coping methods to develop hypotheses regarding reactions to anticipated job loss.</p><sec id="sec1dot1-ijerph-13-00338"><title>1.1. Physical Health Consequences of Anticipated Job Loss</title><p>For the purpose of this study, anticipated job loss is defined as <italic>advance notice of involuntary job loss due to layoffs</italic>, rather than job loss due to being fired for cause [<xref rid="B16-ijerph-13-00338" ref-type="bibr">16</xref>]. Anticipated job loss differs from subjective job insecurity in a sense that the latter is regarded as <italic>the perception that the future of one&#x02019;s job is unstable or at risk</italic>, regardless of any actual objective level of job security [<xref rid="B16-ijerph-13-00338" ref-type="bibr">16</xref>]. Unlike anticipated job loss, job insecurity is most commonly conceptualized as a subjective phenomenon that is best understood and described &#x0201c;in the eye of the beholder&#x0201d; (e.g., [<xref rid="B17-ijerph-13-00338" ref-type="bibr">17</xref>,<xref rid="B18-ijerph-13-00338" ref-type="bibr">18</xref>,<xref rid="B19-ijerph-13-00338" ref-type="bibr">19</xref>,<xref rid="B20-ijerph-13-00338" ref-type="bibr">20</xref>]), and is often measured by asking employees to indicate the perceived likelihood of losing one&#x02019;s job. Upon receipt of an advance notice of layoffs, however, there is no ambiguity regarding one&#x02019;s job security (<italic>i.e.</italic>, it is known that one&#x02019;s job will end on a set date). Thus, while the stressor of impending job loss remains, the employee can begin to prepare and plan for re-entry into the job market [<xref rid="B21-ijerph-13-00338" ref-type="bibr">21</xref>].</p><p>Anticipated job loss also differs from job loss and unemployment. Job loss is a life event when paid employment is involuntarily removed from an individual (e.g., [<xref rid="B22-ijerph-13-00338" ref-type="bibr">22</xref>,<xref rid="B23-ijerph-13-00338" ref-type="bibr">23</xref>]), whereas unemployment is a state of being unemployed or not involved in a gainful occupation [<xref rid="B22-ijerph-13-00338" ref-type="bibr">22</xref>]. On the other hand, anticipated job loss is a state of being employed with the knowledge of impending job loss at a future date. Thus, anticipated job loss is differentiated from job loss and unemployment in that the affected individual remains employed for the time being.</p><p>Anticipated job loss can also be characterized as a transition process from being employed to being unemployed. Anticipated job loss leads to actual job loss, which, in turn, results in unemployment, unless an individual becomes immediately employed following job displacement. In this study, we will explore how individuals physiologically react to anticipated job loss and further explore how those reactions may differ as a function of the coping method employed in response to that job loss notification.</p><p>Lazarus and Folkman&#x02019;s [<xref rid="B24-ijerph-13-00338" ref-type="bibr">24</xref>] transactional model of stress and coping provides a foundation for why threatened layoffs often lead to adverse outcomes. Stress occurs when individuals perceive a threat to their well-being or resources that exceeds their ability to cope with that event. Anticipated job loss inherently implies a potential threat to one&#x02019;s well-being in the form of lost employment, income, and potentially-valued social status. As such, anticipated job loss is a stressor with expected detrimental physical reactions and other negative outcomes. Due to the unique nature of anticipated job loss (e.g., a short period of time) and the difficulties of data collection [<xref rid="B25-ijerph-13-00338" ref-type="bibr">25</xref>,<xref rid="B26-ijerph-13-00338" ref-type="bibr">26</xref>], studies on anticipated job loss are rare [<xref rid="B27-ijerph-13-00338" ref-type="bibr">27</xref>]. As such, we sought insights on this phenomenon from the job insecurity and unemployment literatures.</p><p>Past research has overwhelmingly documented adverse effects of both job insecurity (see [<xref rid="B28-ijerph-13-00338" ref-type="bibr">28</xref>] for meta-analyses, [<xref rid="B29-ijerph-13-00338" ref-type="bibr">29</xref>]) and unemployment (see [<xref rid="B22-ijerph-13-00338" ref-type="bibr">22</xref>,<xref rid="B23-ijerph-13-00338" ref-type="bibr">23</xref>] for reviews) ranging from negative cognitive, affective, and attitudinal reactions to reduced employee well-being and more negative employee behaviors. In our review below, we will mainly focus on the physical health outcomes of job insecurity and unemployment.</p><p>Job insecurity has negative physical health implications for employees on par with the health effects of a serious illness [<xref rid="B9-ijerph-13-00338" ref-type="bibr">9</xref>]. One of the earliest studies on this topic found that the stress of possible termination is associated with physiological responses such as increased norepinephrine excretion, serum creatinine levels, serum uric acid levels, and serum cholesterol levels [<xref rid="B3-ijerph-13-00338" ref-type="bibr">3</xref>]. More recent studies have shown that job insecurity is linked to decrements in general physical health [<xref rid="B28-ijerph-13-00338" ref-type="bibr">28</xref>,<xref rid="B29-ijerph-13-00338" ref-type="bibr">29</xref>], poor eating habits [<xref rid="B30-ijerph-13-00338" ref-type="bibr">30</xref>], high blood pressure, high cholesterol [<xref rid="B31-ijerph-13-00338" ref-type="bibr">31</xref>], and negative perceptions of good health across 16 European countries [<xref rid="B32-ijerph-13-00338" ref-type="bibr">32</xref>]. In a longitudinal study over extended periods of time ranging from three to 10 years, Burgard and colleagues [<xref rid="B9-ijerph-13-00338" ref-type="bibr">9</xref>] found that persistent job insecurity is consistently associated with significantly worse self-rated health than episodic or no job insecurity even after controlling for objective job loss over time, prior health, job characteristics, and socio-demographic characteristics.</p><p>Similar outcomes have also been documented in the unemployment literature. Unemployed individuals are reported to suffer from more headaches, stomachaches, sleep problems, lack of energy, and death from stroke, heart, and kidney disease than individuals who are employed [<xref rid="B33-ijerph-13-00338" ref-type="bibr">33</xref>]. Moreover, unemployment is related to an increase in disability, hypertension, ulcers, vision problems, cholesterol levels, and other doctor-diagnosed illnesses [<xref rid="B22-ijerph-13-00338" ref-type="bibr">22</xref>]. Recently, with two complementary, longitudinal population-based samples followed for periods of 15 to 35 years, Burgard, Brand, and House [<xref rid="B9-ijerph-13-00338" ref-type="bibr">9</xref>] found that even after controlling for numerous social background characteristics and baseline health, involuntary job loss is associated with significantly poorer overall self-rated health and more depressive symptoms.</p><p>The current laboratory experiment measured in real-time the GSR and HR of participants at multiple time points (e.g., prior, during, and after the receipt of the layoff notice). Based on the results from job insecurity [<xref rid="B9-ijerph-13-00338" ref-type="bibr">9</xref>] and unemployment literature (e.g., [<xref rid="B9-ijerph-13-00338" ref-type="bibr">9</xref>,<xref rid="B34-ijerph-13-00338" ref-type="bibr">34</xref>]), we proposed that participants would experience a significant increase in GSR and HR after reading the layoff notice.</p><p><italic>Hypothesis 1</italic>: GSR and HR will significantly increase following receipt of a layoff notice (Time main effect).</p></sec><sec id="sec1dot2-ijerph-13-00338"><title>1.2. Coping with a Layoff Notice: The Effect of Expressive Writing</title><p>Although we expected significant physiological responses to the layoff threat, we were primarily interested in examining the effectiveness of two coping interventions aimed at alleviating the stress response experienced by participants. As noted by Lazarus, stress occurs when a potential threat is perceived to exceed one&#x02019;s ability to cope with or manage that threat [<xref rid="B35-ijerph-13-00338" ref-type="bibr">35</xref>]. Coping is about what people do in specific situations without reference to whether it works [<xref rid="B36-ijerph-13-00338" ref-type="bibr">36</xref>]. Coping has generally been classified into two broad categories: problem-focused coping and emotion-focused coping [<xref rid="B37-ijerph-13-00338" ref-type="bibr">37</xref>]. While problem-focused coping involves actually controlling and/or eliminating the cause of the actual problem, emotion-focused coping is aimed at improving the short-term well-being of the individual, primarily through decreasing the immediate feelings of distress [<xref rid="B24-ijerph-13-00338" ref-type="bibr">24</xref>]. In terms of coping with layoff notice, problem-focused coping strategies might include job search activities, retraining efforts, or geographic relocation to better job markets; in contrast, emotion-focused coping might include seeking out social support from friends and family, getting involved in community political action programs, and trying to block out thoughts about layoffs from one&#x02019;s mind [<xref rid="B38-ijerph-13-00338" ref-type="bibr">38</xref>].</p><p>In general, researchers have theorized that problem-focused coping should be more closely related to job re-attainment and better psychological health than emotion-focused coping because problem-focused coping most directly reduces the source of the stressful situations [<xref rid="B39-ijerph-13-00338" ref-type="bibr">39</xref>]. The empirical evidence suggests, however, that the relationship between coping strategies and various outcomes is much more complex [<xref rid="B40-ijerph-13-00338" ref-type="bibr">40</xref>]. While some research (e.g., [<xref rid="B12-ijerph-13-00338" ref-type="bibr">12</xref>,<xref rid="B13-ijerph-13-00338" ref-type="bibr">13</xref>,<xref rid="B15-ijerph-13-00338" ref-type="bibr">15</xref>]), found that job search behaviors were associated with reemployment, other studies demonstrated that problem-focused coping did not facilitate reemployment (e.g., [<xref rid="B38-ijerph-13-00338" ref-type="bibr">38</xref>,<xref rid="B41-ijerph-13-00338" ref-type="bibr">41</xref>,<xref rid="B42-ijerph-13-00338" ref-type="bibr">42</xref>]).</p><p>In fact, Leana and Feldman [<xref rid="B43-ijerph-13-00338" ref-type="bibr">43</xref>] have argued that individuals who do not address the negative emotions associated with job loss, and who engage in job search too soon may not increase the opportunity of reemployment. Specifically, they suggested that if individuals do not address negative emotions following job loss, they may appear to be nervous and insecure in interviews and show low self-esteem, not to mention the increased possibility of making bad decisions about job search activities resulted from the trauma of the job loss. Conversely, individuals who are able to manage their negative emotions may improve the chances of receiving satisfied job offers by being stable and confident in interviews. This implies that individuals who try to use problem-focused coping too soon after a stressful event may actually prolong its negative consequences. Instead, a brief period of emotion-focused coping strategy might be suggested to precede problem-focused coping for problem-focused coping to be optimally successful [<xref rid="B43-ijerph-13-00338" ref-type="bibr">43</xref>].</p><p>It is also important to acknowledge that recent researchers have questioned the utility of a taxonomic system that distinguishes between emotion-focused <italic>vs.</italic> problem-focused coping [<xref rid="B44-ijerph-13-00338" ref-type="bibr">44</xref>,<xref rid="B45-ijerph-13-00338" ref-type="bibr">45</xref>]. We agree with previous researchers who note that these coping functions and strategies are likely complementary rather than competing in the face of a stressful situation [<xref rid="B44-ijerph-13-00338" ref-type="bibr">44</xref>]. Thus, individuals may spontaneously engage in more than one coping strategy and both may be functional in coping with the stressor at hand. While acknowledging this perspective, the purpose of the current study was to test the effectiveness of two coping interventions (one emotion-focused and one problem-focused) to evaluate which might be more effective in the <italic>immediate</italic> aftermath of receiving a layoff notice. In other words, while both may be functional, their utility may differ as a function of the timing in which they are utilized. In particular, we argue that the emotion-focused coping intervention (<italic>i.e.</italic>, expressive writing task) would be more effective than a problem-focused approach in the <italic>immediate</italic> aftermath of receiving a layoff notice. This hypothesis is particularly important to test, given that the focus of many outplacement activities often emphasizes a problem-solving approach (e.g., job search strategies, resume updating, <italic>etc.</italic>).</p><p>Expressive writing as an emotion-focused coping strategy has been shown to have a variety of benefits [<xref rid="B46-ijerph-13-00338" ref-type="bibr">46</xref>]. For example, respondents in an expressive writing condition showed a steady and significant decline in skin conductance levels [<xref rid="B47-ijerph-13-00338" ref-type="bibr">47</xref>,<xref rid="B48-ijerph-13-00338" ref-type="bibr">48</xref>], significant drops in physician visits from before to after writing (e.g., [<xref rid="B49-ijerph-13-00338" ref-type="bibr">49</xref>]), long-term improvements in mood and indicators of well-being (e.g., [<xref rid="B50-ijerph-13-00338" ref-type="bibr">50</xref>]), and lower subsequent absentee rate (e.g., [<xref rid="B51-ijerph-13-00338" ref-type="bibr">51</xref>]). Indeed, a recent meta-analysis confirmed that &#x0201c;expressive disclosure is effective, with a positive and significant average <italic>r</italic>-effect size of 0.075&#x0201d; [<xref rid="B47-ijerph-13-00338" ref-type="bibr">47</xref>] (p. 823).</p><p>Although the effects of expressive writing has been examined in various experimental settings and increasingly extended to the clinical setting (e.g., [<xref rid="B52-ijerph-13-00338" ref-type="bibr">52</xref>]), utilizing expressive writing to cope with stress in the workplace is still rare. An exception to this is a 1994 study conducted by Spera, Buhrfeind, and Pennebaker [<xref rid="B53-ijerph-13-00338" ref-type="bibr">53</xref>]. In their study conducted in an outplacement firm, 41 unemployed professionals were randomly assigned to either the expressive writing group or the writing control group, and the other 22 individuals were a non-writing control group. Participants in the expressive writing (writing about their deepest thoughts and feelings about the layoff) and writing control (writing about their activities in the job search) groups were required to write for five consecutive days, for 20 min each day. Eight months later, it was found that 52.6% of the expressive writing participants had found full-time employment, compared to 23.8% and 13.6% of writing control and non-writing control participants, respectively. Moreover, these outcomes were not related to the increased job search activities. In other words, participants in the expressive writing condition did not receive more phone calls, make more contacts, or send out more letters than controls. While their study sheds light on the important role of addressing the psychological issues of job loss in achieving the ultimate goal of reemployment, it only utilized self-report measures and did not capture any physiological results.</p><p>In the current laboratory experiment, we utilized the expressive writing paradigm to explore the effects of emotion-focused <italic>vs.</italic> problem-focused coping strategies in the face of impending job loss. Specifically, participants were told that they were going to be reading about an employee&#x02019;s daily work activities, and they should try to imagine that they are in the same situation and consider how they might react to the various workplace situations for the effects of expressive writing on imaginary-trauma (see [<xref rid="B54-ijerph-13-00338" ref-type="bibr">54</xref>]). After receiving the layoff notice, participants were asked to write about either their emotional reactions to the layoff notice (<italic>i.e.</italic>, emotion-focused intervention) or to outline their next steps for their job search plan <italic>i.e.</italic>, problem-focused intervention; for the effects of a single writing session (see [<xref rid="B55-ijerph-13-00338" ref-type="bibr">55</xref>]). We expected that the emotion-focused writing group would show a greater drop in GSR and HR compared to that of the problem-focused writing group.</p><p><italic>Hypothesis 2</italic>: GSR and HR will decrease to a greater extent among participants in the emotion-focused condition compared to the problem-solving condition (Time X Coping interaction).</p></sec></sec><sec id="sec2-ijerph-13-00338"><title>2. Method</title><sec id="sec2dot1-ijerph-13-00338"><title>2.1. Pilot Study</title><p>In our laboratory experiment, we used an artificial scenario-based experiment where a layoff notice (<italic>vs</italic>. control condition) was manipulated. In an attempt to demonstrate the ecological validity of the scenario-based experiment, we conducted a pilot study to examine the effectiveness of the layoff manipulation before testing our hypotheses. If exposure to anticipated job loss would result in heightened job insecurity in the laboratory setting, this would provide support for ecological validity of the scenario-based experiment.</p><sec id="sec2dot1dot1-ijerph-13-00338" sec-type="subjects"><title>2.1.1. Participants</title><p>Sixty undergraduates (<italic>M</italic> = 21.92 years, <italic>SD</italic> = 5.81) from a public university in the Midwestern United States participated in this pilot study in exchange for one point of extra credit. Of this group, 62% was female while 34% were male. 73% self-identified as Caucasian/White, while 25% self-identified as a racial/ethnic minority. 53% of the sample was employed at the time of the data collection, while 47% was not. 32% of the sample was holding or have had a supervisory role at work.</p></sec><sec id="sec2dot1dot2-ijerph-13-00338"><title>2.1.2. Procedure</title><p>This pilot study was conducted using the online survey system Qualtrics (Qualtrics LLC, Provo, UT, USA). Once participants provided their informed consent, they were informed that they would be reading the background information about an employee and his daily work activities, and that they should try to imagine they are in the same situation and consider how they might react to the various workplace situations. The workplace scenario that followed described an employee named Kris Buford:
+<disp-quote><p>Kris Buford is a 45-year old man who works as a day-shift manager in a mid-sized food-processing company called PDX Industries. Kris has worked for PDX Industries for 15 years now working his way up to manager and has been pretty happy there. He receives full health care benefits, including medical, dental, and vision care, and is given three weeks of vacation each year, in addition to sick leave and a personal holiday.</p><p>Kris earns $45,000 per year, which is just enough for him and his family to get by. Kris and his wife have three children: one in college, one in high school, and just last year, an unexpected third child who is now six-months old. Kris&#x02019; wife quit her job to stay at home with the newborn, so they are dependent on his income to pay for the mortgage, tuition bills, groceries, car payments, and other necessities. They do not really have any family savings, which concerns Kris, but they have been able to get by.</p></disp-quote></p><p>Following the background information on Kris, participants read a summary of his daily activities as follows:
+<disp-quote><p>During a typical day, Kris arrives at the office at 8 am before the start of the day shift which begins at 8:30 am. He spends the half hour reading through and responding to company e-mails, and then makes his way out to the floor to greet his employees as they arrive. As one of the longest tenured employees in his company, Kris knows everyone by name and makes a point to inquire each day about his employees&#x02019; families, birthdays, and anniversaries, and other events that are going on in his employees&#x02019; lives. Although Kris is well-liked by his subordinates, he is not as close to upper-management at PDX Industries, but, he figures that is okay as long as they do not interfere with his job.</p></disp-quote></p><p>After that, participants were informed that the employee had just received an &#x0201c;Urgent Company Memo&#x0201d; in his Inbox. Participants were then randomly assigned to one of the two conditions (The randomization was implemented using the &#x0201c;randomizer&#x0201d; function in Qualtrics. We tested differences in demographics across two conditions to verify the effectiveness of randomization. There were no significant differences on the basis of: gender, age, race, employment status, part-time/full-time work status, managerial status, whether the participant had conducted layoffs in the past, or whether the participant him/herself had been laid off in the past). In the <italic>layoff</italic> condition, participants received notice that he was to be laid off from his/her organization. In the <italic>control</italic> condition, no mention of layoffs was given, but rather the memo concerned a flu outbreak among the employees and appropriate steps that should be taken to contain it. </p></sec><sec id="sec2dot1dot3-ijerph-13-00338"><title>2.1.3. Measures</title><p>Afterwards, participants were instructed to answer questions measuring their job insecurity levels. The <italic>Job Security Satisfaction</italic> scale [<xref rid="B56-ijerph-13-00338" ref-type="bibr">56</xref>]. Participants responded on a three-point scale (<italic>yes, ?, no</italic>) measuring the extent to which nine adjectives or phrases described their job security (e.g., &#x0201c;never been more secure&#x0201d;, &#x0201c;nerve-wracking&#x0201d;, &#x0201c;sufficient amount of security&#x0201d;). Responses were coded such that higher numbers reflected more job insecurity. The reliability of this measure (<italic>i.e.</italic>, Cronbach&#x02019;s alpha) was 0.92.</p><p>Finally, a brief post-task questionnaire was administered to all participants to assess how easy or difficult it was for them to imagine that they were Kris in the scenario, and how concerned they were for Kris and his situation. All those questions were answered on a 1&#x02013;7 Likert-type scale. Afterwards, all participants were debriefed.</p></sec><sec id="sec2dot1dot4-ijerph-13-00338"><title>2.1.4. Pilot Test Results</title><p>As a manipulation check, an independent-samples <italic>t</italic>-test revealed that there was no significant difference between participants in the layoff condition and those in the control condition regarding how difficult to imagine themselves as Kris; overall participants reported it was relatively easy to imagine themselves in Kris&#x02019; place (<italic>M</italic> = 4.77, <italic>SD</italic> = 1.71). As expected, participants in the layoff condition (<italic>M</italic> = 5.90, <italic>SD</italic> = 1.19) expressed more concern for Kris than those in the control condition (<italic>M</italic> = 4.03, <italic>SD</italic> = 1.73), <italic>t</italic> (58) = 4.87, <italic>p</italic> &#x0003c; 0.001. Moreover, participants in the layoff condition reported a significantly higher level of job insecurity (<italic>M</italic> = 2.55, <italic>SD</italic> = 0.71) than those in the flu condition (<italic>M</italic> = 1.11, <italic>SD</italic> = 0.92), <italic>t</italic> (58) = 6.78, <italic>p</italic> &#x0003c; 0.001. Therefore, the results of the pilot study demonstrated the effectiveness of the layoff notice manipulation (Although we used a male character in the scenario, there were no significant gender differences on any of these measures). In other words, manipulating a layoff (<italic>vs.</italic> flu) notice might actually result in heightened job insecurity in the laboratory setting, thus providing support for ecological validity of the scenario-based experiment. Below we describe the physiological results from the second study as a function of the expressive writing task.</p></sec></sec><sec id="sec2dot2-ijerph-13-00338"><title>2.2. Laboratory Experiment</title><sec id="sec2dot2dot1-ijerph-13-00338" sec-type="subjects"><title>2.2.1. Participants and Design</title><p>Eight-four undergraduates (<italic>M</italic> = 23.90 years, <italic>SD</italic> = 8.68) from a university located in the Pacific Northwest of the United States participated in this study. Fifty-seven of those who participated were female. Sixty-seven self-identified as Caucasian/White, while 17 self-identified as a racial/ethnic minority. 50% were currently employed (6% full-time). 30% currently or had held a supervisory position at work. Further, eight of the participants had conducted layoffs and 21 had been laid off in the past. Thus, those participants might easily relate to the described scenario.</p><p>Participants were randomly assigned to one of two conditions: the problem-focused coping writing condition (<italic>N</italic> = 42) or emotion-focused coping writing condition (<italic>N</italic> = 42) and their physiological responses were measured over four time periods (In order to extend the manipulation check results of the pilot test to our physiological outcomes of interest, a small number of additional participants (<italic>N</italic> = 14) were assigned to a control condition in which they were presented with a notice about a flu outbreak at work. The purpose of this control condition was to test the effectiveness of the artificial laboratory manipulation of a layoff notice at inducing physiologically-detectable levels of stress as measured by the GSR and HR, compared to the receipt of an alternative mildly stressful notice. Individuals exposed to layoff notices experienced a significantly greater increase in GSR compared to individuals in the flu notice control condition, <italic>F</italic> (1, 96) = 4.23, <italic>p</italic> &#x0003c; 0.05, &#x003b7;<sup>2</sup> = 0.04, with GSR for those in the layoff condition increasing from 0.07 (<italic>SD</italic> = 0.13) to 0.36 (<italic>SD</italic> = 0.25), compared to 0.12 (<italic>SD</italic> = 0.05) to 0.23 (<italic>SD</italic> = 0.15) in the flu notice condition. However, this effect was not demonstrated for HR, <italic>F</italic> (1, 96) = 0.58, <italic>ns</italic>). Thus, this study employed a 2 (between-subjects expressive writing condition) &#x000d7; 4 (within-subjects timepoints) mixed experimental design.</p></sec><sec id="sec2dot2dot2-ijerph-13-00338"><title>2.2.2. Procedure and Materials</title><p>Due to the monitoring equipment used, each participant was individually scheduled for the one-hour experiment. Upon entering the lab, all participants were provided with informed consent materials and given a brief orientation to the GSR and HR monitoring system and told that their participation would involve reading and writing about a workplace scenario. After signing the informed consent, participants were connected to a computerized system (Biopac BSL Psychophysiology and Neurophysiology system, Biopac Systems Inc., Goleta, CA, USA) that non-invasively measured physiological changes in GSR and HR for the duration of the one-hour study. The Biopac system uses sensors that attach to the skin with a temporary adhesive to monitor and record the autonomic nervous system (ANS) functioning (e.g., GSR and HR).</p><p>After being connected to the Biopac system, participants were given further instruction about the procedure of this experiment: first, they were asked to complete a demographic profile (<italic>i.e.</italic>, gender, age, race), after which they were given the hypothetical scenario to read. Although the Biopac system recorded the ANS through the whole study, we selected four time points to compare participants&#x02019; reactions: (1) while reading the background information of the hypothetical employee (a baseline reading); (2) while reading the Urgent Company Memo to the hypothetical employee containing the layoff manipulation (a notice reading); (3) while completing the coping writing intervention (a coping reading); and, (4) while completing their post-task questionnaire (a survey reading).</p><p>As in the pilot study, all participants read the background information about Kris and his daily work activities and were asked to imagine themselves in the same situation. Then all participants were informed of the Urgent Company Memo regarding the layoff notice.</p><p>Next, participants were randomly (As aforementioned, data were collected from one participant at a time, usually 2&#x02013;3 participants each day over the course of a week. We randomized assignment condition in blocks of 14 switching back and forth (<italic>i.e.</italic>, 14 in the emotion-focused coping condition, 14 in the problem-focused coping condition, 14 in the emotion-focused coping condition, 14 in the problem-focused coping condition, <italic>etc.</italic>) until all 84 individuals were run) assigned to one of the two coping conditions and were told to begin their five-minute free-writing exercise. In the <italic>emotion-focused coping</italic> condition, participants were asked to write about their thoughts and emotions after receiving the layoff notice, <italic>i.e.</italic>, to express their feelings. Specifically, their instructions were as follows:
+<disp-quote><p>Imagining you were Kris and had just received a layoff notice, we would like you to take the next few minutes and write down what feelings you might have. In addition, describe how you might deal with the negative feelings often associated with unemployment (for example: isolation, anxiety, and depression).</p></disp-quote></p><p>In the <italic>problem-focused coping</italic> condition, participants were asked to think about how they might solve the problem of their impending job loss. Specifically, they were told:<disp-quote><p>Imagining you were Kris and had just received a layoff notice, we would like you to take the next few minutes and write down some ideas for how you might go about finding a new job. In other words, what specifically would you do to get a new job?</p></disp-quote></p><p>Following the free-writing exercise, a brief post-task questionnaire was administered to all participants to assess: (1) how realistic participants thought the scenario was; (2) how easy or difficult it was for them to imagine that they were Kris in the scenario; and (3) how concerned they were for Kris and his situation. All of those questions were answered on a 1&#x02013;7 Likert-type scale. Following these questions, there was an open-ended question probing for any hypothesis guessing on the part of participants. Finally, all participants were debriefed.</p></sec></sec><sec id="sec2dot3-ijerph-13-00338"><title>2.3. Ethical Statement </title><p>All subjects gave their informed consent for inclusion before they participated in the study. The study was conducted in accordance with the Declaration of Helsinki, and the protocol was approved by the Institutional Review Board of Washington State University (05901-004).</p></sec></sec><sec id="sec3-ijerph-13-00338"><title>3. Results</title><sec id="sec3dot1-ijerph-13-00338"><title>3.1. Manipulation Checks</title><p>The open-ended question indicated that none of the participants guessed the purpose of the research. Preliminary analyses revealed that there was no significant difference between participants in the emotional-focused condition and those in the problem-focused condition regarding (1) how realistic the scenario was; (2) how difficult to image themselves as Kris; and (3) how concerned they were for Kris. Participants believed the scenario was quite realistic (<italic>M</italic> = 6.14, <italic>SD</italic> = 0.85), indicated that it was fairly easy to imagine themselves in Kris&#x02019; place (<italic>M</italic> = 5.20, <italic>SD</italic> = 1.45), and expressed relatively high concern for Kris (<italic>M</italic> = 5.88, <italic>SD</italic> = 1.00).</p><p>Analyses were also conducted to verify the effectiveness of randomization by testing for differences in demographics across the two conditions. There were no significant differences on the basis of gender, age, race, marital status, employment status, part-time/full-time work status, managerial status, or whether the participant had conducted layoffs in the past. The only variable where randomization was not completely successful was whether the participant him/herself had been laid off in the past, &#x003c7;<sup>2</sup> (1) = 5.14, <italic>p</italic> &#x0003c; 0.05, such that 35.7% of participants in the problem-solving condition had been laid off in the past, whereas only 14.3% of the expressive-writing participants had been. However, that variable was unrelated to our measures of GSR and did not interact with coping condition to predict changes in GSR during the study.</p><p>We also examined the content of writing samples provided during the expressive writing stage to verify that respondents followed the directions to provide emotion-focused <italic>vs.</italic> problem-focused narratives. Although these were not formally content-coded, sample emotion-focused statements included: &#x0201c;Feeling anger toward the company, worry and nervousness about how to break the news to my family&#x0201d; and &#x0201c;I feel very lost and confused. I am scared for what my family has to go through if I do not find another job&#x0201d;. Sample problem-focused statements included: &#x0201c;Use job search engine on the web; retraining myself and get a higher-level or related educational degree; find past bosses&#x0201d; and &#x0201c;Write a resume, get letters of recommendation. Search the internet job sites and go to local job services to find out who is hiring&#x0201d;.</p></sec><sec id="sec3dot2-ijerph-13-00338"><title>3.2. Effects on GSR and HR</title><p>We first conducted a repeated-measures MANOVA including expressive writing condition (two), all time points (four), and both dependent variables (GSR and HR). The multivariate test of changes in GSR and HR over time was significant, F (6, 492) = 39.09, <italic>p</italic> &#x0003c; 0.001, &#x003b7;<sup>2</sup> = 0.32. To specifically test Hypothesis 1, we conducted a planned comparison of GSR and HR at the two time points of reading the background information and receiving the urgent company memo. Using two univariate repeated-measures analyses, we found that individuals exposed to the layoff notice experienced a significant increase in their GSR (<italic>F</italic> (1, 83) = 69.43, <italic>p</italic> &#x0003c; 0.001, &#x003b7;<sup>2</sup> = 0.46), and HR (<italic>F</italic> (1, 83) = 7.39, <italic>p</italic> &#x0003c; 0.01, &#x003b7;<sup>2</sup> = 0.08). The GSR increased from 0.07 (<italic>SD</italic> = 0.13) to 0.36 (<italic>SD</italic> = 0.25) and the HR increased from 83.38 (<italic>SD</italic> = 13.45) to 84.89 (<italic>SD</italic> = 14.74). These results indicate that the layoff manipulation caused a significant increase in physiological GSR and HR. Thus, Hypothesis 1 was supported.</p><p>The multivariate test of changes in GSR and HR over time as a function expressive writing condition was also significant, F (6, 492) = 2.57, <italic>p</italic> &#x0003c; 0.05, &#x003b7;<sup>2</sup> = 0.03. An inspection of the univariate effects, however, indicated that the expected Time x Writing interaction was only significant for GSR, F (3, 246) = 3.99, <italic>p</italic> &#x0003c; 0.05, &#x003b7;<sup>2</sup> = 0.05. Thus, Hypothesis 2 was partly supported (similar to the pilot study, there was no gender difference in any analyses). <xref ref-type="fig" rid="ijerph-13-00338-f001">Figure 1</xref> below displays the form of the interaction. As can be seen, individuals in both groups began with similar GSR levels (emotion-focused mean = 0.06 and <italic>SD</italic> = 0.08; problem-focused mean = 0.09 and <italic>SD</italic> = 0.17). As noted above in our test of Hypothesis 1, GSR increased significantly for both groups. However, those instructed to utilize an emotion-focused coping strategy experienced a significantly greater decline in their GSR compared to those utilizing the problem-focused coping method. From reading the notice to writing the coping exercise, the GSR of participants in the emotion-focused group decreased from 0.42 (<italic>SD</italic> = 0.30) to 0.13 (<italic>SD</italic> = 0.03), while the participants&#x02019; GSR in the problem-focused group decreased from 0.31 (<italic>SD</italic> = 0.17) to 0.12 (<italic>SD</italic> = 0.04). Thus, while both groups experienced a decline in GSR, that decline was significantly greater in the emotion-focused writing condition. Both groups maintained low GSR levels (<italic>M</italic> = 0.15; <italic>SD</italic> = 0.03 in both groups) during the post-task survey completion phase.</p></sec></sec><sec id="sec4-ijerph-13-00338"><title>4. Conclusions</title><p>The aim of the present study was to examine the real-time physiological responses to layoff threats and to determine the effectiveness of two possible coping strategies in a laboratory setting. Consistent with our predictions, we found that participants (even in an artificial laboratory setting) experienced an immediate measurable stress response in reaction to the layoff notice, as demonstrated by an increased level of GSR and HR. This result was consistent with the transactional theory of stress and coping [<xref rid="B24-ijerph-13-00338" ref-type="bibr">24</xref>] and past research documenting the negative health consequences of possible job termination [<xref rid="B9-ijerph-13-00338" ref-type="bibr">9</xref>] and unemployment [<xref rid="B22-ijerph-13-00338" ref-type="bibr">22</xref>].</p><p>Furthermore, those who were asked to write about their emotional reactions to the layoff notice experienced a significantly greater reduction in their stress response compared to those in the problem-focused condition. These results were consistent with the benefits of expressive writing [<xref rid="B53-ijerph-13-00338" ref-type="bibr">53</xref>] and confirmed Leana and Feldman&#x02019;s [<xref rid="B43-ijerph-13-00338" ref-type="bibr">43</xref>] advice to address the emotional reactions to the layoff notice before taking further job search actions. Indeed, vocational counseling (e.g., [<xref rid="B57-ijerph-13-00338" ref-type="bibr">57</xref>]), job loss theory (e.g., [<xref rid="B58-ijerph-13-00338" ref-type="bibr">58</xref>]), and the process model for understanding victims&#x02019; responses to worksite/function closure [<xref rid="B59-ijerph-13-00338" ref-type="bibr">59</xref>] have argued that the grieving stages begin with the layoff notice and such grieving stages may be necessary for a layoff victim to go through in order to transition onto the next job. Despite the positive effects of such problem-focused coping as job search training on people&#x02019;s mental health and reemployment (e.g., [<xref rid="B60-ijerph-13-00338" ref-type="bibr">60</xref>]), it may be more effective for human resource professionals to assist layoff victims with addressing their <italic>emotional</italic> reactions to the layoff notice <italic>before</italic> engaging in the job search activities. The results of our current study appear to provide empirical support for the importance of emotional coping, not only in the long term, but also in the immediate aftermath of receiving a layoff notice.</p><p>Although the GSR responses to the layoff notice and the writing exercise were as expected, HR did not appear to respond to the writing exercise. It may be that HR was not as sensitive as GSR to stressful situations such as the imaginary layoff notice among participants. Moreover, there was greater HR variability among the participants; as a result, while the effects were in the expected direction, there may not have been enough power to detect a significant effect.</p><sec id="sec4dot1-ijerph-13-00338"><title>4.1. Strengths and Implications</title><p>The majority of the literature on anticipated job loss, job insecurity, and unemployment has resulted from correlational, cross-sectional, and self-report data with few studies being able to establish the causal relationships between impending job loss and physical health consequences. Our laboratory study addressed this limitation of prior research by manipulating the experiences of the layoff notice and measuring the real-time physiological responses to the layoff notice. As predicted, we found increased levels of GSR and HR after the layoff notice, and confirmed the negative physiological effect of anticipated job loss on participants.</p><p>Similar to the job loss literature, the cross-sectional nature of research about coping with job loss precludes the assessment of causality. Moreover, the majority of research regarding coping with job loss has been conducted among participants who were looking for reemployment or have been reemployed. As such, this previous research was unable to demonstrate the efficacy of emotion-focused coping and problem-focused coping <italic>immediately</italic> following the layoffs notice. In our current study, in addition to manipulating the layoff experiences, we further manipulated the coping strategies used by participants. Participants were asked to either write about their emotional reactions to the layoff notice or their job search plan. Consistent with the expressive writing literature [<xref rid="B54-ijerph-13-00338" ref-type="bibr">54</xref>], we found that the emotion-focused writing decreased participants&#x02019; GSR to a larger extent than the problem-focused writing. This result might be able to explain the inconsistent findings regarding the effectiveness of emotion-focused coping and problem-focused coping strategies in the face of job loss because it seems that (at least, some) layoff victims might experience grieving stages and it is beneficial for victims to address their emotional reactions before engaging in job search activities.</p><p>These results have interesting implications for placement centers, employers, and employees faced with the threat of downsizing. Although we are not suggesting that organizations should offer the same five-minute writing task in the aftermath of a layoff notice, the empirical success of <italic>focusing on emotions</italic> (rather than problem solving) suggests that in the immediate aftermath of a layoff notice, placement centers and human resource managers should perhaps be more concerned with providing appropriate psychological counseling rather than with immediately focusing on outplacement assistance activities such as new job skills training or resume development. Moreover, such an emotion-focused intervention in the aftermath of a layoff notice might offset other forms of emotion-focused coping that have the potential to exacerbate the situation, e.g., harmful forms of emotional contagion from colleagues (see [<xref rid="B61-ijerph-13-00338" ref-type="bibr">61</xref>]).</p></sec><sec id="sec4dot2-ijerph-13-00338"><title>4.2. Limitations and Directions for Future Research</title><p>Since this was a laboratory experiment, one could certainly critique the ecological validity of the study. The method used in this study was a scenario-based, role-playing study in which participants indicated how they would have responded to a situation described for them. Consequently, one could argue it is uncertain how real employees in a natural setting would react to actual layoff notices and whether the different coping mechanisms would be differentially effective in real situations. On the other hand, the manipulation checks performed in the pilot and main study did suggest that even in this artificial scenario-based experiment, there were pronounced effects on the research participants. Thus, one could also argue that true organization layoff victims might experience even more detrimental physiological responses to anticipated job loss, and derive more benefit from the emotion-focused writing. Indeed, Mook [<xref rid="B62-ijerph-13-00338" ref-type="bibr">62</xref>] argues that laboratory experiments are useful because they demonstrate the power of a phenomenon by showing it can happen even under artificial lab conditions.</p><p>Although we cannot claim that these results replicate a natural setting, they are noteworthy as the first known attempt to examine real-time physiological responses to layoff threats and coping strategies, something that would be exceedingly difficult to do within the context of an actual distribution of layoff notices. Nevertheless, constructive replications with other samples and research methods would certainly be advantageous in both confirming and further exploring the results that we found.</p><p>An additional limitation of the current study was the lack of a non-writing control group as a comparison to the emotion-focused writing and problem-focused writing conditions. It is possible that participants might naturally rebound to the original level of GSR without any intervention. Similarly, a problem-focused intervention may be arousing in and of itself because it inspires the worker to respond to the challenges of the layoff situation, whereas an emotion-focused coping intervention reduces arousal. To better tease out these effects, future research should add a third non-writing control group to compare the effects of emotion-focused and problem-focused writing with a non-writing group.</p><p>Although the participants&#x02019; GSR in the emotion-focused writing condition dropped to a greater extent than those in the problem-focused writing condition, the initial levels of GSR during the reading notice period among participants in the emotion-focused writing condition were higher than those in the problem-focused writing condition. This occurred despite the random assignment to conditions; nevertheless, of primary importance in the current study was that the slope of the decrease in GSR was significantly different between the two groups.</p><p>Finally, unlike traditional expressive writing tasks conducted over several days, our manipulation only involved one five-minute writing exercise. Future research might follow the traditional expressive writing procedure to explore the long-term effects of expressive writing on layoff victims&#x02019; physiological responses. However, we would argue that the current results are intriguing in that even with a brief intervention, significant effects were found between the expressive writing and job search conditions.</p><p>Despite the above limitations and the need for additional research to address those limitations, we believe that this study can serve as a useful starting point for better understanding employee responses to layoff threats and may have practical implications for downsizing organizations. Although prior research has found mixed results for the effectiveness of problem-focused <italic>vs.</italic> emotion-focused coping, both strategies are likely necessary and complementary for alleviating the negative consequences of being laid off; <italic>cf.</italic> [<xref rid="B44-ijerph-13-00338" ref-type="bibr">44</xref>,<xref rid="B45-ijerph-13-00338" ref-type="bibr">45</xref>]. Nevertheless, our results empirically support prior speculation that it may be more effective (from an acute physiological stress response perspective) to <italic>immediately</italic> deal with the emotional aftermath of a layoff notice before directing employees to problem-focused outplacement and job search services.</p></sec></sec></body><back><ack><title>Acknowledgments</title><p>The authors would like to thank Bradley Tierney for his invaluable assistance with the Biopac data collection.</p></ack><notes><title>Author Contributions</title><p>Tahira M. Probst contributed to the study design, creation of study materials, data analysis and interpretation, and preparation of the manuscript. Lixin Jiang assisted with pilot data collection, data analysis and interpretation, and preparation of the manuscript.</p></notes><notes><title>Conflicts of Interest</title><p>The authors declare no conflict of interest.</p></notes><ref-list><title>References</title><ref id="B1-ijerph-13-00338"><label>1.</label><element-citation publication-type="gov">
+<person-group person-group-type="author"><collab>U. S. Bureau of Labor Statistics</collab></person-group>
+<article-title>Extended Mass Layoffs in 2012</article-title>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.bls.gov/mls/mlsreport1043.pdf">http://www.bls.gov/mls/mlsreport1043.pdf</ext-link></comment>
+<date-in-citation>(assessed on 14 November 2015)</date-in-citation>
+</element-citation></ref><ref id="B2-ijerph-13-00338"><label>2.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>American Psychological Association</collab></person-group>
+<article-title>Stress in America Findings</article-title>
+<comment>Avaiable online: <ext-link ext-link-type="uri" xlink:href="https://www.apa.org/news/press/releases/stress/2010/national-report.pdf">https://www.apa.org/news/press/releases/stress/2010/national-report.pdf</ext-link></comment>
+<date-in-citation>(assessed on 14 November 2015)</date-in-citation>
+</element-citation></ref><ref id="B3-ijerph-13-00338"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cobb</surname><given-names>S.</given-names></name></person-group>
+<article-title>Physiologic changes in men whose jobs were abolished</article-title>
+<source>J. Psychosom. Res.</source>
+<year>1974</year>
+<volume>18</volume>
+<fpage>245</fpage>
+<lpage>258</lpage>
+<pub-id pub-id-type="doi">10.1016/0022-3999(74)90005-1</pub-id>
+<pub-id pub-id-type="pmid">4459457</pub-id></element-citation></ref><ref id="B4-ijerph-13-00338"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cottington</surname><given-names>E.M.</given-names></name><name><surname>Matthew</surname><given-names>K.A.</given-names></name><name><surname>Talbott</surname><given-names>E.</given-names></name><name><surname>Kuller</surname><given-names>L.H.</given-names></name></person-group>
+<article-title>Occupational stress, suppressed anger, and hypertension</article-title>
+<source>Psychosom. Med.</source>
+<year>1986</year>
+<volume>48</volume>
+<fpage>249</fpage>
+<lpage>260</lpage>
+<pub-id pub-id-type="doi">10.1097/00006842-198603000-00010</pub-id>
+<pub-id pub-id-type="pmid">3704088</pub-id></element-citation></ref><ref id="B5-ijerph-13-00338"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dooley</surname><given-names>D.</given-names></name><name><surname>Rook</surname><given-names>K.</given-names></name><name><surname>Catalano</surname><given-names>R.</given-names></name></person-group>
+<article-title>Job and non-job stressors and their moderators</article-title>
+<source>J. Occup. Psychol.</source>
+<year>1987</year>
+<volume>60</volume>
+<fpage>115</fpage>
+<lpage>132</lpage>
+<pub-id pub-id-type="doi">10.1111/j.2044-8325.1987.tb00245.x</pub-id>
+</element-citation></ref><ref id="B6-ijerph-13-00338"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kuhnert</surname><given-names>K.W.</given-names></name><name><surname>Sims</surname><given-names>R.R.</given-names></name><name><surname>Lahey</surname><given-names>M.A.</given-names></name></person-group>
+<article-title>The relationship between job security and employee health</article-title>
+<source>Group Organ. Manag.</source>
+<year>1989</year>
+<volume>14</volume>
+<fpage>399</fpage>
+<lpage>410</lpage>
+<pub-id pub-id-type="doi">10.1177/105960118901400403</pub-id>
+</element-citation></ref><ref id="B7-ijerph-13-00338"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Probst</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Wedded to the job: Moderating effects of job involvement on the consequences of job insecurity</article-title>
+<source>J. Occup. Health Psychol.</source>
+<year>2000</year>
+<volume>5</volume>
+<fpage>63</fpage>
+<lpage>73</lpage>
+<pub-id pub-id-type="doi">10.1037/1076-8998.5.1.63</pub-id>
+<pub-id pub-id-type="pmid">10658886</pub-id></element-citation></ref><ref id="B8-ijerph-13-00338"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Roskies</surname><given-names>E.</given-names></name><name><surname>Louis-Guerin</surname><given-names>C.</given-names></name></person-group>
+<article-title>Job insecurity in managers: Antecedents and consequences</article-title>
+<source>J. Organ. Behav.</source>
+<year>1990</year>
+<volume>11</volume>
+<fpage>345</fpage>
+<lpage>359</lpage>
+<pub-id pub-id-type="doi">10.1002/job.4030110503</pub-id>
+</element-citation></ref><ref id="B9-ijerph-13-00338"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burgard</surname><given-names>S.A.</given-names></name><name><surname>Brand</surname><given-names>J.E.</given-names></name><name><surname>House</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Perceived job insecurity and worker health in the United States</article-title>
+<source>Soc. Sci. Med.</source>
+<year>2009</year>
+<volume>69</volume>
+<fpage>777</fpage>
+<lpage>785</lpage>
+<pub-id pub-id-type="doi">10.1016/j.socscimed.2009.06.029</pub-id>
+<pub-id pub-id-type="pmid">19596166</pub-id></element-citation></ref><ref id="B10-ijerph-13-00338"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ferrie</surname><given-names>J.E.</given-names></name><name><surname>Shipley</surname><given-names>M.J.</given-names></name><name><surname>Newman</surname><given-names>K.</given-names></name><name><surname>Stansfeld</surname><given-names>S.A.</given-names></name><name><surname>Marmot</surname><given-names>M.</given-names></name></person-group>
+<article-title>Self-reported job insecurity and health in the Whitehall II study: Potential explanations of the relationship</article-title>
+<source>Soc. Sci. Med.</source>
+<year>2005</year>
+<volume>60</volume>
+<fpage>1593</fpage>
+<lpage>1602</lpage>
+<pub-id pub-id-type="doi">10.1016/j.socscimed.2004.08.006</pub-id>
+<pub-id pub-id-type="pmid">15652690</pub-id></element-citation></ref><ref id="B11-ijerph-13-00338"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Heaney</surname><given-names>C.A.</given-names></name><name><surname>Israel</surname><given-names>B.A.</given-names></name><name><surname>House</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Chronic job insecurity among automobile workers: Effects on job satisfaction and health</article-title>
+<source>Soc. Sci. Med.</source>
+<year>1994</year>
+<volume>38</volume>
+<fpage>1431</fpage>
+<lpage>1437</lpage>
+<pub-id pub-id-type="doi">10.1016/0277-9536(94)90281-X</pub-id>
+<pub-id pub-id-type="pmid">8023192</pub-id></element-citation></ref><ref id="B12-ijerph-13-00338"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kanfer</surname><given-names>R.</given-names></name><name><surname>Wanberg</surname><given-names>C.R.</given-names></name><name><surname>Kantrowitz</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Job search and employment: A personality-motivational analysis and meta-analytic review</article-title>
+<source>J. Appl. Psychol.</source>
+<year>2001</year>
+<volume>86</volume>
+<fpage>837</fpage>
+<lpage>855</lpage>
+<pub-id pub-id-type="doi">10.1037/0021-9010.86.5.837</pub-id>
+<pub-id pub-id-type="pmid">11596801</pub-id></element-citation></ref><ref id="B13-ijerph-13-00338"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schaufeli</surname><given-names>W.B.</given-names></name><name><surname>Vanyperen</surname><given-names>N.W.</given-names></name></person-group>
+<article-title>Success and failure in the labour market</article-title>
+<source>J. Organ. Behav.</source>
+<year>1993</year>
+<volume>14</volume>
+<fpage>559</fpage>
+<lpage>572</lpage>
+<pub-id pub-id-type="doi">10.1002/job.4030140605</pub-id>
+</element-citation></ref><ref id="B14-ijerph-13-00338"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wanberg</surname><given-names>C.R.</given-names></name></person-group>
+<article-title>Antecedents and outcomes of coping behaviors among unemployed and reemployed individuals</article-title>
+<source>J. Appl. Psychol.</source>
+<year>1997</year>
+<volume>82</volume>
+<fpage>731</fpage>
+<lpage>744</lpage>
+<pub-id pub-id-type="doi">10.1037/0021-9010.82.5.731</pub-id>
+<pub-id pub-id-type="pmid">9337607</pub-id></element-citation></ref><ref id="B15-ijerph-13-00338"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wanberg</surname><given-names>C.R.</given-names></name><name><surname>Kanfer</surname><given-names>R.</given-names></name><name><surname>Rotundo</surname><given-names>M.</given-names></name></person-group>
+<article-title>Unemployed individuals: Motives, job-search competencies, and job-search constraints as predictors of job seeking and reemployment</article-title>
+<source>J. Appl. Psychol.</source>
+<year>1999</year>
+<volume>84</volume>
+<fpage>897</fpage>
+<lpage>910</lpage>
+<pub-id pub-id-type="doi">10.1037/0021-9010.84.6.897</pub-id>
+<pub-id pub-id-type="pmid">10639909</pub-id></element-citation></ref><ref id="B16-ijerph-13-00338"><label>16.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Probst</surname><given-names>T.M.</given-names></name><name><surname>Jiang</surname><given-names>L.</given-names></name><name><surname>Benson</surname><given-names>W.</given-names></name></person-group>
+<article-title>Job insecurity and anticipated job loss: A primer and exploration of possible interventions</article-title>
+<source>The Oxford Handbook of Job Loss and Job Search</source>
+<person-group person-group-type="editor"><name><surname>Klehe</surname><given-names>U.</given-names></name><name><surname>Hooft</surname><given-names>E.V.</given-names></name></person-group>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>Oxford, UK</publisher-loc>
+<year>2015</year>
+</element-citation></ref><ref id="B17-ijerph-13-00338"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Davy</surname><given-names>J.A.</given-names></name><name><surname>Kinicki</surname><given-names>A.J.</given-names></name><name><surname>Scheck</surname><given-names>C.L.</given-names></name></person-group>
+<article-title>A test of job security&#x02019;s direct and mediated effects on withdrawal cognitions</article-title>
+<source>J. Organ. Behav.</source>
+<year>1997</year>
+<volume>18</volume>
+<fpage>323</fpage>
+<lpage>349</lpage>
+<pub-id pub-id-type="doi">10.1002/(SICI)1099-1379(199707)18:4&#x0003c;323::AID-JOB801&#x0003e;3.0.CO;2-#</pub-id>
+</element-citation></ref><ref id="B18-ijerph-13-00338"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greenhalgh</surname><given-names>L.</given-names></name><name><surname>Rosenblatt</surname><given-names>Z.</given-names></name></person-group>
+<article-title>Job insecurity: Toward conceptual clarity</article-title>
+<source>Acad. Manag. R.</source>
+<year>1984</year>
+<fpage>438</fpage>
+<lpage>448</lpage>
+</element-citation></ref><ref id="B19-ijerph-13-00338"><label>19.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Probst</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>The impact of job insecurity on employee work attitudes, job adaptation, and organizational withdrawal behaviors</article-title>
+<source>The Psychology of Work: Theoretically Based Empirical Research</source>
+<person-group person-group-type="editor"><name><surname>Brett</surname><given-names>J.M.</given-names></name><name><surname>Drasgow</surname><given-names>F.</given-names></name></person-group>
+<publisher-name>Erlbaum</publisher-name>
+<publisher-loc>Mahwah, NJ, USA</publisher-loc>
+<year>2002</year>
+<fpage>141</fpage>
+<lpage>168</lpage>
+</element-citation></ref><ref id="B20-ijerph-13-00338"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sverke</surname><given-names>M.</given-names></name><name><surname>Hellgren</surname><given-names>J.</given-names></name></person-group>
+<article-title>The nature of job insecurity: Understanding employment uncertainty on the brink of a new Millennium</article-title>
+<source>Appl. Psychol. Int. Rev.</source>
+<year>2002</year>
+<volume>51</volume>
+<fpage>23</fpage>
+<lpage>42</lpage>
+<pub-id pub-id-type="doi">10.1111/1464-0597.0077z</pub-id>
+</element-citation></ref><ref id="B21-ijerph-13-00338"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Swaim</surname><given-names>P.</given-names></name><name><surname>Podgursky</surname><given-names>M.</given-names></name></person-group>
+<article-title>Advance notice and job search: The value of an early start</article-title>
+<source>J. Hum. Resour.</source>
+<year>1990</year>
+<volume>25</volume>
+<fpage>141</fpage>
+<lpage>178</lpage>
+<pub-id pub-id-type="doi">10.2307/145752</pub-id>
+</element-citation></ref><ref id="B22-ijerph-13-00338"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanisch</surname><given-names>K.A.</given-names></name></person-group>
+<article-title>Job loss and unemployment research from 1994 to 1998: A review and recommendations for research and intervention</article-title>
+<source>J. Vocat. Behav.</source>
+<year>1999</year>
+<volume>55</volume>
+<fpage>188</fpage>
+<lpage>220</lpage>
+<pub-id pub-id-type="doi">10.1006/jvbe.1999.1722</pub-id>
+</element-citation></ref><ref id="B23-ijerph-13-00338"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>McKee-Ryan</surname><given-names>F.</given-names></name><name><surname>Song</surname><given-names>Z.</given-names></name><name><surname>Wanberg</surname><given-names>C.R.</given-names></name><name><surname>Kinicki</surname><given-names>A.J.</given-names></name></person-group>
+<article-title>Psychological and physical well-being during unemployment: A meta-analytic study</article-title>
+<source>J. Appl. Psychol.</source>
+<year>2005</year>
+<volume>90</volume>
+<fpage>53</fpage>
+<lpage>76</lpage>
+<pub-id pub-id-type="doi">10.1037/0021-9010.90.1.53</pub-id>
+<pub-id pub-id-type="pmid">15641890</pub-id></element-citation></ref><ref id="B24-ijerph-13-00338"><label>24.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lazarus</surname><given-names>R.</given-names></name><name><surname>Folkman</surname><given-names>S.</given-names></name></person-group>
+<source>Stress, Appraisal, and Coping</source>
+<publisher-name>Springer</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1984</year>
+</element-citation></ref><ref id="B25-ijerph-13-00338"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mansour-Cole</surname><given-names>D.</given-names></name><name><surname>Scott</surname><given-names>S.</given-names></name></person-group>
+<article-title>Hearing it through the grapevine: The influence of source, leader relations, and legitimacy on survivors&#x02019; fairness perceptions</article-title>
+<source>Pers. Psychol.</source>
+<year>1998</year>
+<volume>51</volume>
+<fpage>25</fpage>
+<lpage>54</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1744-6570.1998.tb00715.x</pub-id>
+</element-citation></ref><ref id="B26-ijerph-13-00338"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blau</surname><given-names>G.</given-names></name></person-group>
+<article-title>Partially testing a process model for understanding victim responses to an anticipated worksite closure</article-title>
+<source>J. Vocat. Behav.</source>
+<year>2007</year>
+<volume>71</volume>
+<fpage>401</fpage>
+<lpage>428</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jvb.2007.08.005</pub-id>
+</element-citation></ref><ref id="B27-ijerph-13-00338"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Osthus</surname><given-names>S.</given-names></name></person-group>
+<article-title>Health effects of downsizing survival and job loss in Norway</article-title>
+<source>Soc. Sci. Med.</source>
+<year>2012</year>
+<volume>75</volume>
+<fpage>946</fpage>
+<lpage>953</lpage>
+<pub-id pub-id-type="doi">10.1016/j.socscimed.2012.04.036</pub-id>
+<pub-id pub-id-type="pmid">22682662</pub-id></element-citation></ref><ref id="B28-ijerph-13-00338"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sverke</surname><given-names>M.</given-names></name><name><surname>Hellgren</surname><given-names>J.</given-names></name><name><surname>Naswall</surname><given-names>K.</given-names></name></person-group>
+<article-title>No security: A meta-analysis and review of job insecurity and its consequences</article-title>
+<source>J. Occup. Health Psychol.</source>
+<year>2002</year>
+<volume>7</volume>
+<fpage>242</fpage>
+<lpage>264</lpage>
+<pub-id pub-id-type="doi">10.1037/1076-8998.7.3.242</pub-id>
+<pub-id pub-id-type="pmid">12148956</pub-id></element-citation></ref><ref id="B29-ijerph-13-00338"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cheng</surname><given-names>G.H.L.</given-names></name><name><surname>Chan</surname><given-names>D.K.S.</given-names></name></person-group>
+<article-title>Who suffers more from job insecurity? A meta-analytic review</article-title>
+<source>Appl. Psychol. Int. Rev.</source>
+<year>2008</year>
+<volume>57</volume>
+<fpage>272</fpage>
+<lpage>303</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1464-0597.2007.00312.x</pub-id>
+</element-citation></ref><ref id="B30-ijerph-13-00338"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hannerz</surname><given-names>H.</given-names></name><name><surname>Albertsen</surname><given-names>K.</given-names></name><name><surname>Nielsen</surname><given-names>M.L.</given-names></name><name><surname>Tuchsen</surname><given-names>F.</given-names></name><name><surname>Burr</surname><given-names>H.</given-names></name></person-group>
+<article-title>Occupational factors and 5-year weight change among men in a Danish national cohort</article-title>
+<source>Health Psychol.</source>
+<year>2004</year>
+<volume>23</volume>
+<fpage>283</fpage>
+<lpage>288</lpage>
+<pub-id pub-id-type="doi">10.1037/0278-6133.23.3.283</pub-id>
+<pub-id pub-id-type="pmid">15099169</pub-id></element-citation></ref><ref id="B31-ijerph-13-00338"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pollard</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Changes in mental well-being, blood pressure and total cholesterol levels during workplace reorganization: The impact of uncertainty</article-title>
+<source>Work. Stress</source>
+<year>2001</year>
+<volume>15</volume>
+<fpage>14</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1080/02678370110064609</pub-id>
+</element-citation></ref><ref id="B32-ijerph-13-00338"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>L&#x000e1;szl&#x000f3;</surname><given-names>K.D.</given-names></name><name><surname>Pikhart</surname><given-names>H.</given-names></name><name><surname>Kopp</surname><given-names>M.S.</given-names></name><name><surname>Bobak</surname><given-names>M.</given-names></name><name><surname>Pajak</surname><given-names>A.</given-names></name><name><surname>Malyutina</surname><given-names>S.</given-names></name><name><surname>Salavecz</surname><given-names>G.</given-names></name><name><surname>Marmotc</surname><given-names>M.</given-names></name></person-group>
+<article-title>Job insecurity and health: A study of 16 European countries</article-title>
+<source>Soc. Sci. Med.</source>
+<year>2010</year>
+<volume>70</volume>
+<fpage>867</fpage>
+<lpage>874</lpage>
+<pub-id pub-id-type="doi">10.1016/j.socscimed.2009.11.022</pub-id>
+<pub-id pub-id-type="pmid">20060634</pub-id></element-citation></ref><ref id="B33-ijerph-13-00338"><label>33.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Probst</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Economic stressors</article-title>
+<source>Handbook of Work Stress</source>
+<person-group person-group-type="editor"><name><surname>Barling</surname><given-names>J.</given-names></name><name><surname>Kelloway</surname><given-names>K.</given-names></name><name><surname>Frone</surname><given-names>M.</given-names></name></person-group>
+<publisher-name>Sage Publication, Inc.</publisher-name>
+<publisher-loc>Thousand Oaks, CA, USA</publisher-loc>
+<year>2005</year>
+<fpage>267</fpage>
+<lpage>297</lpage>
+</element-citation></ref><ref id="B34-ijerph-13-00338"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Burgard</surname><given-names>S.A.</given-names></name><name><surname>Brand</surname><given-names>J.E.</given-names></name><name><surname>House</surname><given-names>J.S.</given-names></name></person-group>
+<article-title>Toward a better estimation of the effect of job loss on health</article-title>
+<source>J. Health Soc. Behav.</source>
+<year>2007</year>
+<volume>48</volume>
+<fpage>369</fpage>
+<lpage>384</lpage>
+<pub-id pub-id-type="doi">10.1177/002214650704800403</pub-id>
+<pub-id pub-id-type="pmid">18198685</pub-id></element-citation></ref><ref id="B35-ijerph-13-00338"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Folkman</surname><given-names>S.</given-names></name><name><surname>Lazarus</surname><given-names>R.S.</given-names></name><name><surname>Dunkel-Schetter</surname><given-names>C.</given-names></name><name><surname>DeLongis</surname><given-names>A.</given-names></name><name><surname>Gruen</surname><given-names>R.J.</given-names></name></person-group>
+<article-title>Dynamics of a stressful encounter: Cognitive appraisal, coping, and encounter outcomes</article-title>
+<source>J. Pers. Soc. Psychol.</source>
+<year>1986</year>
+<volume>50</volume>
+<fpage>992</fpage>
+<lpage>1003</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-3514.50.5.992</pub-id>
+<pub-id pub-id-type="pmid">3712234</pub-id></element-citation></ref><ref id="B36-ijerph-13-00338"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Latack</surname><given-names>J.C.</given-names></name><name><surname>Havlovic</surname><given-names>S.J.</given-names></name></person-group>
+<article-title>Coping with job stress: A conceptual evaluation framework for coping measures</article-title>
+<source>J. Organ. Behav.</source>
+<year>1992</year>
+<volume>13</volume>
+<fpage>479</fpage>
+<lpage>508</lpage>
+<pub-id pub-id-type="doi">10.1002/job.4030130505</pub-id>
+</element-citation></ref><ref id="B37-ijerph-13-00338"><label>37.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Folkman</surname><given-names>S.</given-names></name><name><surname>Lazarus</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>An analysis of coping in a middle-aged community sample</article-title>
+<source>J. Health Soc. Behav.</source>
+<year>1980</year>
+<volume>21</volume>
+<fpage>219</fpage>
+<lpage>239</lpage>
+<pub-id pub-id-type="doi">10.2307/2136617</pub-id>
+<pub-id pub-id-type="pmid">7410799</pub-id></element-citation></ref><ref id="B38-ijerph-13-00338"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gowan</surname><given-names>M.A.</given-names></name><name><surname>Riordan</surname><given-names>C.M.</given-names></name><name><surname>Gatewood</surname><given-names>R.D.</given-names></name></person-group>
+<article-title>Test of a model of coping with involuntary job loss following a company closing</article-title>
+<source>J. Appl. Psychol.</source>
+<year>1999</year>
+<volume>84</volume>
+<fpage>75</fpage>
+<lpage>86</lpage>
+<pub-id pub-id-type="doi">10.1037/0021-9010.84.1.75</pub-id>
+</element-citation></ref><ref id="B39-ijerph-13-00338"><label>39.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leana</surname><given-names>C.R.</given-names></name><name><surname>Feldman</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>Individual responses to job loss: Perceptions, reactions, and coping behaviors</article-title>
+<source>J. Manag.</source>
+<year>1988</year>
+<volume>14</volume>
+<fpage>375</fpage>
+<lpage>389</lpage>
+<pub-id pub-id-type="doi">10.1177/014920638801400302</pub-id>
+</element-citation></ref><ref id="B40-ijerph-13-00338"><label>40.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Leana</surname><given-names>C.R.</given-names></name><name><surname>Feldman</surname><given-names>D.C.</given-names></name></person-group>
+<source>Coping with Job Loss: How Individuals, Organizationas, and Communities Respond to Layoffs</source>
+<publisher-name>Macmillan/Lexington Books</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>1992</year>
+</element-citation></ref><ref id="B41-ijerph-13-00338"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kinicki</surname><given-names>A.J.</given-names></name><name><surname>Prussia</surname><given-names>R.E.</given-names></name><name><surname>McKee-Ryan</surname><given-names>F.M.</given-names></name></person-group>
+<article-title>A panel study of coping with involuntary job loss</article-title>
+<source>Acad. Manag. J.</source>
+<year>2000</year>
+<volume>43</volume>
+<fpage>90</fpage>
+<lpage>100</lpage>
+<pub-id pub-id-type="doi">10.2307/1556388</pub-id>
+</element-citation></ref><ref id="B42-ijerph-13-00338"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Leana</surname><given-names>C.R.</given-names></name><name><surname>Feldman</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>Finding new jobs after a plant closing: Antecedents and outcomes of the occurrence and quality of reemploymen</article-title>
+<source>Hum. Relat.</source>
+<year>1995</year>
+<volume>48</volume>
+<fpage>1381</fpage>
+<lpage>1401</lpage>
+<pub-id pub-id-type="doi">10.1177/001872679504801201</pub-id>
+</element-citation></ref><ref id="B43-ijerph-13-00338"><label>43.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Leana</surname><given-names>C.R.</given-names></name><name><surname>Feldman</surname><given-names>D.C.</given-names></name></person-group>
+<article-title>The psychology of job loss</article-title>
+<source>Research in Personnel and Human Resources Management</source>
+<person-group person-group-type="editor"><name><surname>Ferris</surname><given-names>G.R.</given-names></name></person-group>
+<publisher-name>JAI Press</publisher-name>
+<publisher-loc>Greenwich, CT, USA</publisher-loc>
+<year>1994</year>
+<fpage>271</fpage>
+<lpage>302</lpage>
+</element-citation></ref><ref id="B44-ijerph-13-00338"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lazarus</surname><given-names>R.S.</given-names></name></person-group>
+<article-title>Emotions and interpersonal relationships: Toward a person-centered conceptualization of emotions and coping</article-title>
+<source>J. Pers.</source>
+<year>2006</year>
+<volume>74</volume>
+<fpage>9</fpage>
+<lpage>46</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1467-6494.2005.00368.x</pub-id>
+<pub-id pub-id-type="pmid">16451225</pub-id></element-citation></ref><ref id="B45-ijerph-13-00338"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Skinner</surname><given-names>E.A.</given-names></name><name><surname>Edge</surname><given-names>K.</given-names></name><name><surname>Altman</surname><given-names>J.</given-names></name><name><surname>Sherwood</surname><given-names>H.</given-names></name></person-group>
+<article-title>Searching for the structure of coping: A review and critique of category systems for classifying ways of coping</article-title>
+<source>Psychol. Bull.</source>
+<year>2003</year>
+<volume>129</volume>
+<fpage>216</fpage>
+<lpage>269</lpage>
+<pub-id pub-id-type="doi">10.1037/0033-2909.129.2.216</pub-id>
+<pub-id pub-id-type="pmid">12696840</pub-id></element-citation></ref><ref id="B46-ijerph-13-00338"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Frattaroli</surname><given-names>J.</given-names></name></person-group>
+<article-title>Experimental disclosure and its moderators: A meta-analysis</article-title>
+<source>Psychol. Bull.</source>
+<year>2006</year>
+<volume>132</volume>
+<fpage>823</fpage>
+<lpage>865</lpage>
+<pub-id pub-id-type="doi">10.1037/0033-2909.132.6.823</pub-id>
+<pub-id pub-id-type="pmid">17073523</pub-id></element-citation></ref><ref id="B47-ijerph-13-00338"><label>47.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hughes</surname><given-names>C.F.</given-names></name><name><surname>Uhlmann</surname><given-names>C.</given-names></name><name><surname>Pennebaker</surname><given-names>J.W.</given-names></name></person-group>
+<article-title>The body&#x02019;s response to processing emotional trauma: Linking verbal text with autonomic activity</article-title>
+<source>J. Pers.</source>
+<year>1994</year>
+<volume>62</volume>
+<fpage>565</fpage>
+<lpage>585</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1467-6494.1994.tb00309.x</pub-id>
+<pub-id pub-id-type="pmid">7861305</pub-id></element-citation></ref><ref id="B48-ijerph-13-00338"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Petrie</surname><given-names>K.J.</given-names></name><name><surname>Booth</surname><given-names>R.J.</given-names></name><name><surname>Pennebaker</surname><given-names>J.W.</given-names></name><name><surname>Davison</surname><given-names>K.P.</given-names></name><name><surname>Thomas</surname><given-names>M.G.</given-names></name></person-group>
+<article-title>Disclosure of trauma and immune response to a hepatitis B vaccination program</article-title>
+<source>J. Consult. Clin. Psychol.</source>
+<year>1995</year>
+<volume>63</volume>
+<fpage>787</fpage>
+<lpage>792</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-006X.63.5.787</pub-id>
+<pub-id pub-id-type="pmid">7593871</pub-id></element-citation></ref><ref id="B49-ijerph-13-00338"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Cameron</surname><given-names>L.D.</given-names></name><name><surname>Nicholls</surname><given-names>G.</given-names></name></person-group>
+<article-title>Expression of stressful experiences through writing: Effects of a self-regulation manipulation for pessimists and optimists</article-title>
+<source>Health Psychol.</source>
+<year>1998</year>
+<volume>17</volume>
+<fpage>84</fpage>
+<lpage>92</lpage>
+<pub-id pub-id-type="doi">10.1037/0278-6133.17.1.84</pub-id>
+<pub-id pub-id-type="pmid">9459075</pub-id></element-citation></ref><ref id="B50-ijerph-13-00338"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greenberg</surname><given-names>M.A.</given-names></name><name><surname>Stone</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>Emotional disclosure about traumas and its relation to health: Effects of previous disclosure and trauma severity</article-title>
+<source>J. Pers. Soc. Psychol.</source>
+<year>1992</year>
+<volume>63</volume>
+<fpage>75</fpage>
+<lpage>84</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-3514.63.1.75</pub-id>
+<pub-id pub-id-type="pmid">1494986</pub-id></element-citation></ref><ref id="B51-ijerph-13-00338"><label>51.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Francis</surname><given-names>M.F.</given-names></name><name><surname>Pennebaker</surname><given-names>J.W.</given-names></name></person-group>
+<article-title>Putting stress into words: Writing about personal upheavals and health</article-title>
+<source>Am. J. Health Promot.</source>
+<year>1992</year>
+<volume>6</volume>
+<fpage>280</fpage>
+<lpage>287</lpage>
+<pub-id pub-id-type="doi">10.4278/0890-1171-6.4.280</pub-id>
+<pub-id pub-id-type="pmid">10146806</pub-id></element-citation></ref><ref id="B52-ijerph-13-00338"><label>52.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Emmerik</surname><given-names>A.A.</given-names></name><name><surname>Reijntjes</surname><given-names>A.</given-names></name><name><surname>Kamphuis</surname><given-names>J.H.</given-names></name></person-group>
+<article-title>Writing therapy for posttraumatic stress: A meta-analysis</article-title>
+<source>Psychother. Psychosom.</source>
+<year>2013</year>
+<volume>82</volume>
+<fpage>82</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="doi">10.1159/000343131</pub-id>
+<pub-id pub-id-type="pmid">23295550</pub-id></element-citation></ref><ref id="B53-ijerph-13-00338"><label>53.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Spera</surname><given-names>S.P.</given-names></name><name><surname>Buhrfeind</surname><given-names>E.D.</given-names></name><name><surname>Pennebaker</surname><given-names>J.W.</given-names></name></person-group>
+<article-title>Expressive writing and coping with job loss</article-title>
+<source>Acad. Manag. J.</source>
+<year>1994</year>
+<volume>37</volume>
+<fpage>722</fpage>
+<lpage>733</lpage>
+<pub-id pub-id-type="doi">10.2307/256708</pub-id>
+</element-citation></ref><ref id="B54-ijerph-13-00338"><label>54.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Greenberg</surname><given-names>M.A.</given-names></name><name><surname>Wortman</surname><given-names>C.B.</given-names></name><name><surname>Stone</surname><given-names>A.A.</given-names></name></person-group>
+<article-title>Emotional expression and physical health: Revising traumatic memories or fostering self-regulation?</article-title>
+<source>J. Pers. Soc. Psychol.</source>
+<year>1996</year>
+<volume>71</volume>
+<fpage>588</fpage>
+<lpage>602</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-3514.71.3.588</pub-id>
+<pub-id pub-id-type="pmid">8831163</pub-id></element-citation></ref><ref id="B55-ijerph-13-00338"><label>55.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Smyth</surname><given-names>J.</given-names></name><name><surname>True</surname><given-names>N.</given-names></name><name><surname>Souto</surname><given-names>J.</given-names></name></person-group>
+<article-title>Effects of writing about traumatic experiences: The necessity for narrative structuring</article-title>
+<source>J. Soc. Clin. Psychol.</source>
+<year>2001</year>
+<volume>20</volume>
+<fpage>161</fpage>
+<lpage>172</lpage>
+<pub-id pub-id-type="doi">10.1521/jscp.20.2.161.22266</pub-id>
+</element-citation></ref><ref id="B56-ijerph-13-00338"><label>56.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Probst</surname><given-names>T.M.</given-names></name></person-group>
+<article-title>Development and validation of the job security index and the job security satisfaction scale: A classical test theory and IRT approach</article-title>
+<source>J. Occup. Organ. Psych.</source>
+<year>2003</year>
+<volume>76</volume>
+<fpage>451</fpage>
+<lpage>467</lpage>
+<pub-id pub-id-type="doi">10.1348/096317903322591587</pub-id>
+</element-citation></ref><ref id="B57-ijerph-13-00338"><label>57.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Amundson</surname><given-names>N.E.</given-names></name><name><surname>Borgen</surname><given-names>W.A.</given-names></name></person-group>
+<article-title>The dynamics of unemployment: Job loss and job search</article-title>
+<source>Pers. Guid. J.</source>
+<year>1982</year>
+<volume>60</volume>
+<fpage>562</fpage>
+<lpage>564</lpage>
+<pub-id pub-id-type="doi">10.1002/j.2164-4918.1982.tb00723.x</pub-id>
+</element-citation></ref><ref id="B58-ijerph-13-00338"><label>58.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Latack</surname><given-names>J.C.</given-names></name><name><surname>Dozier</surname><given-names>J.B.</given-names></name></person-group>
+<article-title>After the ax falls: Job loss as a career transition</article-title>
+<source>Acad. Manag. Rev.</source>
+<year>1986</year>
+<volume>11</volume>
+<fpage>375</fpage>
+<lpage>392</lpage>
+</element-citation></ref><ref id="B59-ijerph-13-00338"><label>59.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Blau</surname><given-names>G.</given-names></name></person-group>
+<article-title>A process model for understanding victim responses to worksite/function closure</article-title>
+<source>Hum. Resour. Manag. R.</source>
+<year>2006</year>
+<volume>16</volume>
+<fpage>12</fpage>
+<lpage>28</lpage>
+<pub-id pub-id-type="doi">10.1016/j.hrmr.2006.02.003</pub-id>
+</element-citation></ref><ref id="B60-ijerph-13-00338"><label>60.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Caplan</surname><given-names>R.D.</given-names></name><name><surname>Vinokur</surname><given-names>A.D.</given-names></name><name><surname>Price</surname><given-names>R.H.</given-names></name><name><surname>van Ryn</surname><given-names>M.</given-names></name></person-group>
+<article-title>Job seeking, reemployment, and mental health: A randomized field experiment in coping with job loss</article-title>
+<source>J. Appl. Psychol.</source>
+<year>1989</year>
+<volume>74</volume>
+<fpage>759</fpage>
+<lpage>769</lpage>
+<pub-id pub-id-type="doi">10.1037/0021-9010.74.5.759</pub-id>
+<pub-id pub-id-type="pmid">2793774</pub-id></element-citation></ref><ref id="B61-ijerph-13-00338"><label>61.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ilies</surname><given-names>R.</given-names></name><name><surname>Wagner</surname><given-names>D.T.</given-names></name><name><surname>Morgeson</surname><given-names>F.P.</given-names></name></person-group>
+<article-title>Explaining affective linkages in teams: Individual differences in susceptibility to contagion and individualism-collectivism</article-title>
+<source>J. Appl. Psychol.</source>
+<year>2007</year>
+<volume>92</volume>
+<fpage>1140</fpage>
+<lpage>1148</lpage>
+<pub-id pub-id-type="doi">10.1037/0021-9010.92.4.1140</pub-id>
+<pub-id pub-id-type="pmid">17638471</pub-id></element-citation></ref><ref id="B62-ijerph-13-00338"><label>62.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mook</surname><given-names>D.G.</given-names></name></person-group>
+<article-title>In defense of external invalidity</article-title>
+<source>Am. Psychol.</source>
+<year>1983</year>
+<volume>38</volume>
+<fpage>379</fpage>
+<lpage>387</lpage>
+<pub-id pub-id-type="doi">10.1037/0003-066X.38.4.379</pub-id>
+</element-citation></ref></ref-list></back><floats-group><fig id="ijerph-13-00338-f001" position="float"><label>Figure 1</label><caption><p>Coping method effects on GSR.</p></caption><graphic xlink:href="ijerph-13-00338-g001"/></fig></floats-group></article>

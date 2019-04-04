@@ -1,0 +1,436 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Nutrients</journal-id><journal-id journal-id-type="iso-abbrev">Nutrients</journal-id><journal-id journal-id-type="publisher-id">nutrients</journal-id><journal-title-group><journal-title>Nutrients</journal-title></journal-title-group><issn pub-type="epub">2072-6643</issn><publisher><publisher-name>MDPI</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">28230732</article-id><article-id pub-id-type="pmc">5331589</article-id><article-id pub-id-type="doi">10.3390/nu9020158</article-id><article-id pub-id-type="publisher-id">nutrients-09-00158</article-id><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Effects of Acute Blueberry Flavonoids on Mood in Children and Young Adults</article-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Khalid</surname><given-names>Sundus</given-names></name><xref ref-type="author-notes" rid="fn1-nutrients-09-00158">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>Barfoot</surname><given-names>Katie L.</given-names></name><xref ref-type="author-notes" rid="fn1-nutrients-09-00158">&#x02020;</xref></contrib><contrib contrib-type="author"><name><surname>May</surname><given-names>Gabrielle</given-names></name></contrib><contrib contrib-type="author"><name><surname>Lamport</surname><given-names>Daniel J.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Reynolds</surname><given-names>Shirley A.</given-names></name></contrib><contrib contrib-type="author"><name><surname>Williams</surname><given-names>Claire M.</given-names></name><xref rid="c1-nutrients-09-00158" ref-type="corresp">*</xref></contrib></contrib-group><aff id="af1-nutrients-09-00158">School of Psychology and Clinical Language Sciences, University of Reading, Earley Gate, Whiteknights, Reading RG6 7BE, UK; <email>sundus.khalid@pgr.reading.ac.uk</email> (S.K.); <email>k.l.barfoot@pgr.reading.ac.uk</email> (K.L.B.); <email>gabrielle.may@pgr.reading.ac.uk</email> (G.M.); <email>daniel.lamport@reading.ac.uk</email> (D.J.L.); <email>s.a.reynolds@reading.ac.uk</email> (S.A.R.)</aff><author-notes><corresp id="c1-nutrients-09-00158"><label>*</label>Correspondence: <email>claire.williams@reading.ac.uk</email>; Tel.: +44-118-378-7540</corresp><fn id="fn1-nutrients-09-00158"><label>&#x02020;</label><p>These authors contributed equally to this work.</p></fn></author-notes><pub-date pub-type="epub"><day>20</day><month>2</month><year>2017</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2017</year></pub-date><volume>9</volume><issue>2</issue><elocation-id>158</elocation-id><history><date date-type="received"><day>23</day><month>12</month><year>2016</year></date><date date-type="accepted"><day>07</day><month>2</month><year>2017</year></date></history><permissions><copyright-statement>&#x000a9; 2017 by the authors.</copyright-statement><copyright-year>2017</copyright-year><license license-type="open-access"><license-p>Licensee MDPI, Basel, Switzerland. This article is an open access article distributed under the terms and conditions of the Creative Commons Attribution (CC BY) license (<ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link>).</license-p></license></permissions><abstract><p>Epidemiological evidence suggests that consumption of flavonoids (usually via fruits and vegetables) is associated with decreased risk of developing depression. One plausible explanation for this association is the well-documented beneficial effects of flavonoids on executive function (EF). Impaired EF is linked to cognitive processes (e.g., rumination) that maintain depression and low mood; therefore, improved EF may reduce depressionogenic cognitive processes and improve mood. Study 1: 21 young adults (18&#x02013;21 years old) consumed a flavonoid-rich blueberry drink and a matched placebo in a counterbalanced cross-over design. Study 2: 50 children (7&#x02013;10 years old) were randomly assigned to a flavonoid-rich blueberry drink or a matched placebo. In both studies, participants and researchers were blind to the experimental condition, and mood was assessed using the Positive and Negative Affect Schedule before and 2 h after consumption of the drinks. In both studies, the blueberry intervention increased positive affect (significant drink by session interaction) but had no effect on negative affect. This observed effect of flavonoids on positive affect in two independent samples is of potential practical value in improving public health. If the effect of flavonoids on positive affect is replicated, further investigation will be needed to identify the mechanisms that link flavonoid interventions with improved positive mood.</p></abstract><kwd-group><kwd>depression</kwd><kwd>mood</kwd><kwd>affect</kwd><kwd>dysphoria</kwd><kwd>cognition</kwd><kwd>flavonoid</kwd><kwd>blueberries</kwd><kwd>children</kwd><kwd>young adults</kwd></kwd-group></article-meta></front><body><sec id="sec1-nutrients-09-00158"><title>1. Introduction</title><p>Major depressive disorder is the leading international cause of disability and is estimated to affect 350 million people worldwide [<xref rid="B1-nutrients-09-00158" ref-type="bibr">1</xref>]. It is the second most common cause of death in 15&#x02013;29 years old, via suicide [<xref rid="B1-nutrients-09-00158" ref-type="bibr">1</xref>]. Current treatments for depression include psychological therapies and a range of pharmacological agents. The treatment options recommended for children and adolescents are limited, with only one recommended pharmacological treatment, fluoxetine, in addition to psychotherapy. These treatment options are further constrained because of concerns about the use of anti-depressant medication with young people, and because most young people do not have easy access to psychological therapies [<xref rid="B2-nutrients-09-00158" ref-type="bibr">2</xref>,<xref rid="B3-nutrients-09-00158" ref-type="bibr">3</xref>,<xref rid="B4-nutrients-09-00158" ref-type="bibr">4</xref>]. Therefore, there is a pressing need for alternative interventions, especially those that offer a cost-effective and practical means of preventing, or alleviating, depression in this population.</p><p>A common symptom of depression is impaired cognitive functioning, with significant deficits in executive functioning (EF). EF is an umbrella term, describing cognitive processes such as working memory, planning, problem-solving, cognitive flexibility, inhibitory control, directing attention, thoughts and, therefore, behaviours. Impaired EF is believed to maintain depressive symptoms, such as negative self-perception and low mood, via perseveration and rumination [<xref rid="B5-nutrients-09-00158" ref-type="bibr">5</xref>,<xref rid="B6-nutrients-09-00158" ref-type="bibr">6</xref>,<xref rid="B7-nutrients-09-00158" ref-type="bibr">7</xref>,<xref rid="B8-nutrients-09-00158" ref-type="bibr">8</xref>]. Importantly, EF is associated with the development of the frontal area of the brain, an area that continues to mature and develop throughout adolescence and into early adulthood [<xref rid="B9-nutrients-09-00158" ref-type="bibr">9</xref>,<xref rid="B10-nutrients-09-00158" ref-type="bibr">10</xref>]. Thus, any disturbance to the development of the frontal region during this critical period (for example because of an episode of depression) can have a long-lasting impact, and may explain why depression that occurs during adolescence and early adulthood is associated with long-term impairments into adult life [<xref rid="B11-nutrients-09-00158" ref-type="bibr">11</xref>,<xref rid="B12-nutrients-09-00158" ref-type="bibr">12</xref>].</p><p>Flavonoids are a class of polyphenols (micronutrients) found naturally in fruits, vegetables, tea, coffee and cocoa. Flavonoid consumption has been associated with both vascular and cognitive benefits across the lifespan [<xref rid="B13-nutrients-09-00158" ref-type="bibr">13</xref>,<xref rid="B14-nutrients-09-00158" ref-type="bibr">14</xref>,<xref rid="B15-nutrients-09-00158" ref-type="bibr">15</xref>,<xref rid="B16-nutrients-09-00158" ref-type="bibr">16</xref>,<xref rid="B17-nutrients-09-00158" ref-type="bibr">17</xref>]. Single-dose flavonoid interventions have produced improvements in attention, inhibition, visuospatial memory, and executive function between 2&#x02013;6 h post-consumption [<xref rid="B14-nutrients-09-00158" ref-type="bibr">14</xref>,<xref rid="B18-nutrients-09-00158" ref-type="bibr">18</xref>,<xref rid="B19-nutrients-09-00158" ref-type="bibr">19</xref>,<xref rid="B20-nutrients-09-00158" ref-type="bibr">20</xref>], whilst supplementation of flavonoids for 1.5&#x02013;8 weeks has been associated with improved visuospatial memory and improved long-term memory [<xref rid="B15-nutrients-09-00158" ref-type="bibr">15</xref>,<xref rid="B21-nutrients-09-00158" ref-type="bibr">21</xref>,<xref rid="B22-nutrients-09-00158" ref-type="bibr">22</xref>]. Numerous mechanisms of action have been investigated to explain the beneficial effects of flavonoids on cognition. These include increases in cerebral blood flow, protecting against neuronal stress via anti-inflammatory and anti-oxidative effects, and positively stimulating neural signaling pathways, such as Extracellular Signal-Regulated Kinase (ERK), Serine/Threonine-specific Protein Kinase (Akt) and Brain-Derived Neurotrophic Factor (BDNF), leading to improved neural signaling [<xref rid="B15-nutrients-09-00158" ref-type="bibr">15</xref>,<xref rid="B21-nutrients-09-00158" ref-type="bibr">21</xref>,<xref rid="B23-nutrients-09-00158" ref-type="bibr">23</xref>,<xref rid="B24-nutrients-09-00158" ref-type="bibr">24</xref>].</p><p>Independently of the experimental evidence that shows flavonoids improve cognitive performance, there is emerging evidence that flavonoids may also support mental health and well-being. Epidemiological data shows that lifetime consumption of fruit and vegetables (and therefore higher flavonoid consumption) predicts a lower incidence of depression in later life [<xref rid="B25-nutrients-09-00158" ref-type="bibr">25</xref>,<xref rid="B26-nutrients-09-00158" ref-type="bibr">26</xref>,<xref rid="B27-nutrients-09-00158" ref-type="bibr">27</xref>,<xref rid="B28-nutrients-09-00158" ref-type="bibr">28</xref>,<xref rid="B29-nutrients-09-00158" ref-type="bibr">29</xref>]. The benefits are also seen earlier in life; a recent systematic review concluded that whilst the quality of evidence was weak, there was a consistent body of research reporting cross-sectional and longitudinal associations between nutrition and mental health in children and young people [<xref rid="B30-nutrients-09-00158" ref-type="bibr">30</xref>]. Similar findings have been shown by other authors [<xref rid="B31-nutrients-09-00158" ref-type="bibr">31</xref>,<xref rid="B32-nutrients-09-00158" ref-type="bibr">32</xref>]. However, there is an absence of studies exploring the effects of flavonoid-rich interventions on mood.</p><p>Given the well-documented links between flavonoid consumption and cognition, and between cognition and depression, the studies reported in this paper assess the acute effects of flavonoid-rich wild blueberries (WBB) on mood two hours post-consumption. This two-hour interval coincides with the time-frame for the peak absorption and metabolism of the anthocyanins present in blueberries [<xref rid="B33-nutrients-09-00158" ref-type="bibr">33</xref>]. In addition, it is important to establish whether acute effects on mood are observable prior to considering a chronic flavonoid-based intervention for mood outcomes. Two independent groups, healthy children and young adults, were recruited. These groups represent individuals who are at crucial stages of mental and cognitive development and thus plausible points at which prevention and public health interventions may be particularly powerful.</p></sec><sec id="sec2-nutrients-09-00158"><title>2. Materials and Methods</title><p>The research was reviewed and given a favorable ethical opinion for conduct by the University of Reading Research Ethics Committee (2015-148-CW &#x00026; UREC 15/10) and was conducted in accordance with the Declaration of Helsinki. All participants were screened for food related allergies or other health conditions, e.g., diabetes, heart disease, blood pressure, thyroid, kidney and liver diseases which would exclude them from the study.</p><sec id="sec2dot1-nutrients-09-00158"><title>2.1. Study 1 (Young Adults)</title><p>Participants: 21 undergraduate students were recruited from University of Reading; 19 females and two males aged between 18 and 21 years (Mean (M) = 20.14 years, Standard Deviation (SD) = 1.01).</p><p>Drink preparation and consumption: All interventions were prepared on site, no more than 20 min before consumption, by an independent researcher who did not administer the drink to participants. The flavonoid-rich wild blueberry (WBB) drink contained 253 mg anthocyanins and was prepared by mixing 30 g of freeze-dried WBB with 30 mL of low-flavonoid Rocks Orange Squash and 220 mL of water. The placebo drink was matched to the WBB drink for vitamin C (4 mg), sugars (8.90 g fructose, 7.99 g glucose), 30 mL Rocks Orange Squash and 220 mL of water. Drinks were prepared in an opaque cup and straw to ensure that double-blinding was maintained.</p><p>Mood Measure: The Positive and Negative Affect Schedule-NOW (PANAS-NOW) was used to assess current mood. The PANAS-NOW is a valid and reliable 20-item (10 positive and 10 negative mood states) self-report measure of Positive Affect (PA) and Negative Affect (NA) [<xref rid="B34-nutrients-09-00158" ref-type="bibr">34</xref>,<xref rid="B35-nutrients-09-00158" ref-type="bibr">35</xref>] which can be used on multiple test occasions. Participants were asked to rate the degree to which they were currently experiencing each item, on a five-point Likert scale. The ratings of positive and negative items were summed to calculate an overall positive and overall negative affect score, ranging from 10&#x02013;50 (lower scores indicating lower levels of positive or negative affect). A cognitive performance assessment (Modified Flanker Task; MFT) was also administered after each presentation of the PANAS, the data for which will be reported elsewhere.</p><p>Procedure: This was a double-blind, placebo-controlled, crossover study. Informed consent was obtained from all participants for inclusion before they participated in the study. To minimise variability caused by prior flavonoid consumption, participants were given a list of high polyphenol food items (such as tea, coffee, chocolates, most fruit and vegetables) and asked not to consume these for 24 h before each test session, including the morning of the sessions. All test sessions were scheduled in the morning and all participants attended three test sessions separated by a minimum three-day wash-out period (range three to seven days; median three days). This included a practice test day (Screening), which was described to the participants as the first test day, where all participants received the placebo drink. This was to ensure participants were fully versed in the experimental procedures before testing began. Thereafter they were tested on two further occasions, during which the placebo or flavonoid intervention was administered to each individual in a random order (10 received WBB first).</p><p>On each of the three visits to the laboratory, participants completed the baseline mood measure (PANAS-NOW) on arrival. Immediately following this they consumed the drink. They were asked to return to the laboratory 2 h later and refrain from eating, exercising or drinking during this time. However, water consumption was permitted before and during the 2 h break. Upon their return, participants completed the PANAS-NOW again. Overall, each visit to the laboratory lasted approximately 30 min.</p></sec><sec id="sec2dot2-nutrients-09-00158"><title>2.2. Study 2 (Children)</title><p>Participants: 52 participants (29 female) aged seven to ten years old (Mean age = 8.241, SD = 0.965) were recruited from two local primary schools in Berkshire, UK.</p><p>Drink preparation and consumption: On the test day, participants were randomly allocated to receive the wild blueberry drink (<italic>n</italic> = 28; 17 females; Mean age = 8.236, SD = 0.869) or a matched placebo (<italic>n</italic> = 24; 12 females; Mean age = 8.227, SD = 1.031). The contents of each drink were identical to Study 1, but instead only included 170 mL of water to aid consumption and palatability in a child population. A confederate prepared all drinks at the school immediately before they were administered to the participants by the researcher. Drinks were offered in an opaque drinking cup with a black straw placed through the lid to ensure double blinding.</p><p>Measures: A computerised version of the children&#x02019;s Raven&#x02019;s Coloured Progressive Matrices (RCPM) was administered at screening to measure fluid intelligence. This is a well validated measure assessing non-verbal and reasoning abilities [<xref rid="B36-nutrients-09-00158" ref-type="bibr">36</xref>]. This measure was included to ensure all participants were of healthy cognitive functioning for their age, and to ascertain intervention effects in relation to intelligence. The York Assessment of Reading Comprehension was administered to ascertain whether participants were at an age-appropriate reading comprehension level. A modified Continuous Performance Task was also employed to assess possible attentional deficits. Data from these three tasks were not used in the analysis of the current study. A practice of the child version of the Positive and Negative Affect Scale (PANAS-C) and cognitive task battery was also undertaken to ensure understanding of the tasks and reduce practice effects. This practice data was not analysed.</p><p>For the main test sessions, the PANAS-C was administered alongside a 40 min cognitive battery which included Rey&#x02019;s Auditory Verbal Learning Task (RAVLT), Modified Flanker Task (MFT) and Test of Word Reading Efficiency (TOWRE-2) [<xref rid="B37-nutrients-09-00158" ref-type="bibr">37</xref>,<xref rid="B38-nutrients-09-00158" ref-type="bibr">38</xref>,<xref rid="B39-nutrients-09-00158" ref-type="bibr">39</xref>]. The cognitive performance data is reported elsewhere [<xref rid="B40-nutrients-09-00158" ref-type="bibr">40</xref>].</p><p>PA and NA were calculated by summing positive and negative items using the validated children&#x02019;s version of the PANAS; PANAS-C [<xref rid="B36-nutrients-09-00158" ref-type="bibr">36</xref>]. The PANAS-C has 30 items (15 positive and 15 negative emotions) and includes the original 20 items from PANAS-NOW and 10 additional child-friendly synonym items derived from the PANAS-X (Expanded Form). This was administered and analysed as in study one.</p><p>Procedure: This study was also double-blind and placebo-controlled. A between-groups design was used to minimise disruption to the school and demand on participants. All children took part in a screening session one to two days before the main test day. The main test day consisted of a baseline session and a post-consumption session 2 h later. All parents or legal guardians gave written consent for their child to take part, and each child gave verbal assent before any research began. Parents confirmed that their child had no allergies or food intolerances that would prevent them from taking part. To accommodate school hours, children were tested during the afternoon at school. They were not required to fast prior to testing. However, parents were asked to make sure that their child consumed a low-flavonoid diet for 24 h before the baseline session, including breakfast and lunch on the main test day. Parents were telephoned after their child&#x02019;s screening session to give them the date of their child&#x02019;s next test day, and to remind them about the dietary restrictions. School canteen staff members were also asked to monitor children&#x02019;s meals on the day of testing and to remind the children taking part in the study not to eat high-flavonoid foods for lunch that day.</p><p>Children were tested individually in a quiet space at school on two separate occasions, one to two days apart. On day one, children completed the screening and practice tasks outlined previously. On testing day 2, after a low-flavonoid lunch, participants completed the PANAS-C and cognitive battery (data reported elsewhere [<xref rid="B40-nutrients-09-00158" ref-type="bibr">40</xref>]), before consuming the placebo or flavonoid drink. They then returned to their classrooms and were asked not to exercise or consume anything except water. After 2 h, participants individually completed the PANAS-C and a matched version of the cognitive battery again in the presence of the researcher. Participants were given a written debrief about the study aims and were given similar debrief information to take home to their parents.</p></sec><sec id="sec2dot3-nutrients-09-00158"><title>2.3. Analysis</title><p>Data was analysed using SPSS (Version 22.0). In both studies, PA and NA were dependent variables in a two-way analysis of variance (ANOVA) with Drink (placebo, WBB) and Session (pre- and post-consumption) as independent variables. For study 1, this was a fully repeated measures 2 &#x000d7; 2 ANOVA (as participant consumed both drinks and were tested at all time points), and for study 2 this was a mixed 2 &#x000d7; 2 ANOVA (as participants consumed either the placebo or WBB, and were tested at both time points). Significant main effects and interactions were explored with Bonferroni corrected post-hoc t-tests. Baseline differences in intelligence quotient (IQ (study 2) were examined using one-way ANOVAs with Drink (placebo and WBB) as the independent variable.</p></sec></sec><sec id="sec3-nutrients-09-00158"><title>3. Results</title><sec id="sec3dot1-nutrients-09-00158"><title>3.1. Study 1 (Young Adults)</title><p><xref ref-type="fig" rid="nutrients-09-00158-f001">Figure 1</xref> shows PA and NA before and after consumption of the placebo and WBB drinks. There was no significant main effect of Drink on positive affect (<italic>F</italic>(1,20) = 1.24, <italic>p</italic> = 0.28). There was a significant main effect of Session (<italic>F</italic>(1,20) = 10.67, <italic>p</italic> = 0.004) and a significant Drink &#x000d7; Session interaction (<italic>F</italic>(1,20) = 7.5, <italic>p</italic> = 0.013). Subsequent Bonferroni-corrected post-hoc t-tests demonstrated that there was a significant increase in PA after consuming the WBB drink (pre: M = 22.76, SD = 9.01 and post: M = 29.48, SD = 8.60; <italic>t</italic>(20) = &#x02212;4.68, <italic>p</italic> &#x0003c; 0.001). There was no change in PA after consuming the placebo drink (pre: M = 24.0, SD = 9.59 and post: M = 25.24, SD = 8.50; <italic>t</italic>(20) = &#x02212;0.73, <italic>p</italic> = 0.48, <xref ref-type="fig" rid="nutrients-09-00158-f001">Figure 1</xref>a). Post-hoc tests showed no significance difference in PA and NA between drinks at baseline (<italic>p</italic> &#x0003e; 0.05) but there was a significant difference in PA scores post-consumption between the placebo and WBB drink (<italic>t</italic>(20) = 2.286, <italic>p</italic> = 0.033). The main effect of Session was explained by an increase in PA post-consumption (M = 27.36, SD = 8.55) relative to pre-consumption (M = 23.38, SD = 9.3), which, as indicated by the significant interaction, was driven by the WBB drink.</p><p>There was a significant main effect of Session on NA (<italic>F</italic>(1,20) = 8.30, <italic>p</italic> = 0.009). After consuming both placebo and WBB drinks, the participants reported a reduction in NA (pre: M = 13.17, SD = 2.67 and post: M = 12.19, SD = 2.49; <xref ref-type="fig" rid="nutrients-09-00158-f001">Figure 1</xref>b). This may be explained by postprandial blood glucose effects due to the matched sugar content of both drinks. There was no significant main effect of Drink on NA (<italic>F</italic>(1,20) = 0.67, <italic>p</italic> = 0.42) and no significant Drink x Session interaction on NA (<italic>F</italic>(1,20) = 0.51, <italic>p</italic> = 0.49).</p></sec><sec id="sec3dot2-nutrients-09-00158"><title>3.2. Study 2 (Children)</title><p>Forty-nine participants were included in the analysis of IQ due to three missing data files. There were no significant differences at baseline between groups for IQ (Ravens: WBB group, M = 26.78, SD = 4.31; Placebo group, M = 26.55, SD = 5. 98; <italic>F</italic>(1,47) = 0.024, <italic>p</italic> = 0.878), PA (WBB group, M = 49.00, SD = 11.96; Placebo group, M = 49.21, SD = 10.04; <italic>F</italic>(1,50) = 0.005, <italic>p</italic> = 0.947) or NA (WBB group, M = 20.79, SD = 7.43; Placebo group, M = 19.25, SD = 3.86; <italic>F</italic>(1,50) = 0.832, <italic>p</italic> = 0.366).</p><p><xref ref-type="fig" rid="nutrients-09-00158-f002">Figure 2</xref> shows PA and NA in both groups before and after the intervention. There was no significant main effect of Session (<italic>F</italic>(1,50) = 1.362, <italic>p</italic> = 0.249) or Drink (<italic>F</italic>(1,50) = 0.456, <italic>p</italic> = 0.503) for PA. However, there was a significant Session &#x000d7; Drink interaction (<italic>F</italic>(1,50) = 4.176, <italic>p</italic> = 0.046). Paired samples <italic>t</italic>-tests for each condition revealed no significant change in PA after consuming the placebo drink (pre: M = 49.21, SD = 16.04 and post: M = 48.29, SD = 15.51; <italic>t</italic>(23) = 0.564, <italic>p</italic> = 0.578), but a significant increase in PA after consuming the WBB drink (pre: M = 49.0, SD = 14.86 and post: M = 52.36, SD = 14.36; <italic>t</italic>(27) = &#x02212;2.495, <italic>p</italic> = 0.019; <xref ref-type="fig" rid="nutrients-09-00158-f002">Figure 2</xref>a). There was no significant difference in PA between placebo and WBB at the post-consumption time point (<italic>t</italic>(52) = &#x02212;1.597, <italic>p</italic> = 0.116).</p><p>Negative Affect in both groups is shown in <xref ref-type="fig" rid="nutrients-09-00158-f002">Figure 2</xref>b. There was no significant main effect of Session (<italic>F</italic>(1,50) = 0.009, <italic>p</italic> = 0.927) or Drink (<italic>F</italic>(1,50) = 0.355, <italic>p</italic> = 0.554) on NA. There was also no significant Session &#x000d7; Drink interaction (<italic>F</italic>(1,50) = 0.453, <italic>p</italic> = 0.504; <xref ref-type="fig" rid="nutrients-09-00158-f002">Figure 2</xref>b). NA did not change 2 h after consuming either the placebo (pre: M = 19.25, SD = 8.73 and post: M = 19.79, SD = 9.78) or the WBB drink (pre: M = 20.79, SD = 8.09 and post: M = 20.07, SD = 9.06).</p></sec></sec><sec id="sec4-nutrients-09-00158"><title>4. Discussion</title><p>These randomised, placebo-controlled, double-blind studies investigated the effects of acute consumption of a flavonoid-rich wild blueberry drink on the mood of healthy children and young adults. In both studies, increased Positive Affect was observed 2 h after consumption of the flavonoid-rich WBB drink (significant drink by session interaction). The flavonoid drink had no effect on Negative Affect. The effect of flavonoids on mood was consistent across two populations, at two different time points (morning and afternoon), and in a between- and within-subject design. Thus, the positive effect of blueberry flavonoids on Positive Affect appears to be robust to variations in experimental design.</p><p>The distinctive effect of flavonoids on PA but not NA is notable. PA and NA reflect orthogonal facets of mood. A low PA is more highly linked to depression, and high NA is more closely related to anxiety [<xref rid="B34-nutrients-09-00158" ref-type="bibr">34</xref>,<xref rid="B35-nutrients-09-00158" ref-type="bibr">35</xref>,<xref rid="B36-nutrients-09-00158" ref-type="bibr">36</xref>]. Thus, these data suggest that the effect of flavonoid consumption on mood may be specific to depressive disorders, rather than pervasive across different mood states. In the young adult study, both drinks led to a decrease in NA. This may be due to the sugar content of both the drinks, as dietary carbohydrates have been shown to enhance the uptake of circulating tryptophan (a precursor of serotonin) into the brain by promoting insulin secretion [<xref rid="B41-nutrients-09-00158" ref-type="bibr">41</xref>,<xref rid="B42-nutrients-09-00158" ref-type="bibr">42</xref>].</p><p>Although preliminary, these results are intriguing and warrant focused investigation of the relationship between flavonoids and mood, as well as with mental health more generally. It is important to note that diagnosis of mental health disorders or consumption of medication were not specific exclusion criteria; however, the data showed normal levels of PA and NA [<xref rid="B34-nutrients-09-00158" ref-type="bibr">34</xref>,<xref rid="B43-nutrients-09-00158" ref-type="bibr">43</xref>], indicating a healthy sample. The young adult participants were predominantly female, and therefore these results may not be generalisable to a male population; however, there is no evidence to suggest a gender-specific mechanism underlying the effects of flavonoids on the brain. The child sample was of average IQ, and the young adult population was recruited from a University population and thus likely to have an average to above-average IQ. No carry-over effects of flavonoids are expected as the half-life of flavonoids is estimated to range from 2&#x02013;28 h and there was a minimum of three days insured between the test days [<xref rid="B44-nutrients-09-00158" ref-type="bibr">44</xref>].</p><p>Mood is by definition a short-term experience. In non-clinical populations mood is usually labile. However, sustained periods of low mood (dysphoria) are a strong predictor of the emergence of major depressive disorder. Therefore, if acute flavonoid consumption improves Positive Affect, sustained consumption of flavonoids may help prevent dysphoria, and thus, major depression. Given that depression tends to emerge for the first time during adolescence or early adulthood, and is likely to reemerge as a relapse later in life, an intervention which increases flavonoid consumption during this critical period of development could decrease the incidence of adolescent and life-long depression.</p><p>The mechanism linking flavonoids and mood is not known and requires greater consideration. There are a number of plausible mechanisms which may explain these results. First is the finding that flavonoids increase cerebral blood flow [<xref rid="B45-nutrients-09-00158" ref-type="bibr">45</xref>]. One of the last brain structures to mature is the dorsolateral prefrontal cortex (DLPFC), a site within the frontal lobes highly associated with cognitive control [<xref rid="B46-nutrients-09-00158" ref-type="bibr">46</xref>] and emotional regulation [<xref rid="B47-nutrients-09-00158" ref-type="bibr">47</xref>]. Increased cerebral blood flow to this area may help strengthen neural circuitry in the frontal lobes, where cognitive and emotional control is located. This is consistent with the evidence linking executive functioning with low mood, and suggests an indirect pathway whereby flavonoid consumption enhances cerebral blood flow, boosting executive functioning, and thus helping to inhibit cognitive features (i.e., rumination) that maintain depression.</p><p>A second, alternative explanation for the link between flavonoids and mood is the effect of anthocyanins (a subtype of flavonoids) on Monoamine Oxidase (MAO) inhibition. MAO is involved in the oxidation of monoamines, some of which are neurotransmitters involved in the regulation of mood (e.g., serotonin, dopamine, and noradrenaline). MAO inhibitors have been used to treat mood disorders. Thus, the consumption of fruits high in flavonoids, such as blackcurrants, may significantly reduce MAO activity, thereby increasing circulating monoamines, and elevating mood [<xref rid="B48-nutrients-09-00158" ref-type="bibr">48</xref>]. This would suggest a direct pathway between flavonoid consumption and mood.</p><p>A third possible mechanism is the ability for flavonoids to mimic anxiolytic-like effects by binding to benzodiazepine receptors, which influences the effects of Gamma Amino Butyric Acid (GABA) via GABA<sub>A</sub> receptors [<xref rid="B49-nutrients-09-00158" ref-type="bibr">49</xref>,<xref rid="B50-nutrients-09-00158" ref-type="bibr">50</xref>]. GABA is an inhibitory neurotransmitter present exclusively in the central nervous system. In addition to regulating cognition, decreased levels of GABA are associated with mood disorders. However, in the two studies reported here, the absence of an effect of flavonoid consumption on NA (a strong indicator of anxiety) suggests that the GABA hypothesis may not be a plausible explanation for the observed acute effects on PA.</p></sec><sec id="sec5-nutrients-09-00158"><title>5. Conclusions</title><p>This study demonstrated acute effects of blueberry flavonoid consumption on Positive Affect and no effect on Negative Affect in healthy children and young adults. Dietary interventions could play a key role in promoting positive mood and are a possible way to prevent dysphoria and depression. Given the potential implications of these findings for preventing depression, a disabling and common mental health problem in adolescents and adults, it is important to replicate the study and assess the potential to translate these findings to practical, cost-effective and acceptable interventions.</p></sec></body><back><ack><title>Acknowledgments</title><p>We are grateful to the Wild Blueberry Association of North America who provided the freeze-dried wild blueberry powder used for this study.</p></ack><notes><title>Author Contributions</title><p>All the authors were involved in the design of the experiments; S.K., K.L.B. and G.M. performed the experiments and analysed the data. S.K. and K.L.B. wrote the paper. S.A.R., C.M.W. and D.J.L. were involved in revisions of the manuscript.</p></notes><notes notes-type="COI-statement"><title>Conflicts of Interest</title><p>The authors declare no conflicts of interest.</p></notes><ref-list><title>References</title><ref id="B1-nutrients-09-00158"><label>1.</label><element-citation publication-type="webpage">
+<person-group person-group-type="author"><collab>World Health Organization (WHO)</collab></person-group>
+<article-title>Depression-Fact Sheet</article-title>
+<year>2016</year>
+<comment>Available online: <ext-link ext-link-type="uri" xlink:href="http://www.who.int/mediacentre/factsheets/fs369/en/">http://www.who.int/mediacentre/factsheets/fs369/en/</ext-link></comment>
+<date-in-citation>(accessed on 20 October 2016)</date-in-citation>
+</element-citation></ref><ref id="B2-nutrients-09-00158"><label>2.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whittington</surname><given-names>C.J.</given-names></name><name><surname>Kendall</surname><given-names>T.</given-names></name><name><surname>Fonag</surname><given-names>P.</given-names></name><name><surname>Cottrell</surname><given-names>D.</given-names></name><name><surname>Cotgrove</surname><given-names>A.</given-names></name><name><surname>Boddington</surname><given-names>E.</given-names></name></person-group>
+<article-title>Selective serotonin reuptake inhibitors in childhood depression: Systematic review of published versus unpublished data</article-title>
+<source>Lancet</source>
+<year>2004</year>
+<volume>363</volume>
+<fpage>1341</fpage>
+<lpage>1345</lpage>
+<pub-id pub-id-type="doi">10.1016/S0140-6736(04)16043-1</pub-id>
+<pub-id pub-id-type="pmid">15110490</pub-id></element-citation></ref><ref id="B3-nutrients-09-00158"><label>3.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kennard</surname><given-names>B.</given-names></name><name><surname>Silva</surname><given-names>S.G.</given-names></name><name><surname>Tonev</surname><given-names>S.</given-names></name><name><surname>Rohde</surname><given-names>P.</given-names></name><name><surname>Hughes</surname><given-names>J.L.</given-names></name><name><surname>Vitiello</surname><given-names>B.</given-names></name><name><surname>Kratochvil</surname><given-names>C.J.</given-names></name><name><surname>Curry</surname><given-names>J.F.</given-names></name><name><surname>Emslie</surname><given-names>G.J.</given-names></name><name><surname>Reinecke</surname><given-names>M.</given-names></name><etal/></person-group>
+<article-title>Remission and Recovery in the Treatment for Adolescents with Depression Study (TADS): Acute and Long-term Outcomes</article-title>
+<source>JAACAP</source>
+<year>2009</year>
+<volume>48</volume>
+<fpage>186</fpage>
+<lpage>195</lpage>
+<pub-id pub-id-type="doi">10.1097/CHI.0b013e31819176f9</pub-id>
+<pub-id pub-id-type="pmid">19127172</pub-id></element-citation></ref><ref id="B4-nutrients-09-00158"><label>4.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Goodyer</surname><given-names>I.</given-names></name><name><surname>Dubicka</surname><given-names>B.</given-names></name><name><surname>Wilkinson</surname><given-names>P.</given-names></name><name><surname>Kelvin</surname><given-names>R.</given-names></name><name><surname>Roberts</surname><given-names>C.</given-names></name><name><surname>Byford</surname><given-names>S.</given-names></name><name><surname>Breen</surname><given-names>S.</given-names></name><name><surname>Ford</surname><given-names>C.</given-names></name><name><surname>Barrett</surname><given-names>B.</given-names></name><name><surname>Leech</surname><given-names>A.</given-names></name><etal/></person-group>
+<article-title>Selective serotonin reuptake inhibitors (SSRIs) and routine specialist care with and without cognitive behaviour therapy in adolescents with major depression: Randomised controlled trial</article-title>
+<source>BMJ</source>
+<year>2007</year>
+<volume>335</volume>
+<fpage>142</fpage>
+<pub-id pub-id-type="doi">10.1136/bmj.39224.494340.55</pub-id>
+<pub-id pub-id-type="pmid">17556431</pub-id></element-citation></ref><ref id="B5-nutrients-09-00158"><label>5.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Gohier</surname><given-names>B.</given-names></name><name><surname>Ferracci</surname><given-names>L.</given-names></name><name><surname>Surguladze</surname><given-names>S.A.</given-names></name><name><surname>Lawrence</surname><given-names>E.</given-names></name><name><surname>El Hage</surname><given-names>W.</given-names></name><name><surname>Kefi</surname><given-names>M.Z.</given-names></name><name><surname>Allain</surname><given-names>P.</given-names></name><name><surname>Garre</surname><given-names>J.B.</given-names></name><name><surname>Le Gall</surname><given-names>D.</given-names></name></person-group>
+<article-title>Cognitive inhibition and working memory in unipolar depression</article-title>
+<source>J. Affect. Disord.</source>
+<year>2009</year>
+<volume>116</volume>
+<fpage>100</fpage>
+<lpage>105</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jad.2008.10.028</pub-id>
+<pub-id pub-id-type="pmid">19042027</pub-id></element-citation></ref><ref id="B6-nutrients-09-00158"><label>6.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Naismith</surname><given-names>S.L.</given-names></name><name><surname>Hickie</surname><given-names>I.B.</given-names></name><name><surname>Turner</surname><given-names>K.</given-names></name><name><surname>Little</surname><given-names>C.L.</given-names></name><name><surname>Winter</surname><given-names>V.</given-names></name><name><surname>Ward</surname><given-names>P.B.</given-names></name><name><surname>Wilhelm</surname><given-names>K.</given-names></name><name><surname>Mitchell</surname><given-names>P.</given-names></name><name><surname>Parker</surname><given-names>G.</given-names></name></person-group>
+<article-title>Neuropsychological performance in patients with depression is associated with clinical, etiological and genetic risk factors</article-title>
+<source>J. Clin. Exp. Neuropsychol.</source>
+<year>2003</year>
+<volume>25</volume>
+<fpage>866</fpage>
+<lpage>877</lpage>
+<pub-id pub-id-type="doi">10.1076/jcen.25.6.866.16472</pub-id>
+<pub-id pub-id-type="pmid">13680463</pub-id></element-citation></ref><ref id="B7-nutrients-09-00158"><label>7.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Taylor Tavares</surname><given-names>J.V.</given-names></name><name><surname>Clark</surname><given-names>L.</given-names></name><name><surname>Cannon</surname><given-names>D.M.</given-names></name><name><surname>Erickson</surname><given-names>K.</given-names></name><name><surname>Drevets</surname><given-names>W.C.</given-names></name><name><surname>Sahakian</surname><given-names>B.J.</given-names></name></person-group>
+<article-title>Distinct profiles of neurocognitive function in unmedicated unipolar depression and bipolar II depression</article-title>
+<source>Biol. Psychiatry</source>
+<year>2007</year>
+<volume>62</volume>
+<fpage>917</fpage>
+<lpage>924</lpage>
+<pub-id pub-id-type="doi">10.1016/j.biopsych.2007.05.034</pub-id>
+<pub-id pub-id-type="pmid">17825802</pub-id></element-citation></ref><ref id="B8-nutrients-09-00158"><label>8.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Marazziti</surname><given-names>D.</given-names></name><name><surname>Consoli</surname><given-names>G.</given-names></name><name><surname>Picchetti</surname><given-names>M.</given-names></name><name><surname>Carlini</surname><given-names>M.</given-names></name><name><surname>Faravelli</surname><given-names>L.</given-names></name></person-group>
+<article-title>Cognitive impairment in major depression</article-title>
+<source>Eur. J. Pharmacol.</source>
+<year>2010</year>
+<volume>626</volume>
+<fpage>83</fpage>
+<lpage>86</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ejphar.2009.08.046</pub-id>
+<pub-id pub-id-type="pmid">19835870</pub-id></element-citation></ref><ref id="B9-nutrients-09-00158"><label>9.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>De Luca</surname><given-names>C.R.</given-names></name><name><surname>Wood</surname><given-names>S.J.</given-names></name><name><surname>Anderson</surname><given-names>V.</given-names></name><name><surname>Buchanan</surname><given-names>J.A.</given-names></name><name><surname>Proffitt</surname><given-names>T.M.</given-names></name><name><surname>Mahony</surname><given-names>K.</given-names></name><name><surname>Pantelis</surname><given-names>C.</given-names></name></person-group>
+<article-title>Normative data from the CANTAB. I: Development of executive function over the lifespan</article-title>
+<source>J. Clin. Exp. Neuropsychol.</source>
+<year>2003</year>
+<volume>25</volume>
+<fpage>242</fpage>
+<lpage>254</lpage>
+<pub-id pub-id-type="doi">10.1076/jcen.25.2.242.13639</pub-id>
+<pub-id pub-id-type="pmid">12754681</pub-id></element-citation></ref><ref id="B10-nutrients-09-00158"><label>10.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Best</surname><given-names>J.R.</given-names></name><name><surname>Miller</surname><given-names>P.H.</given-names></name></person-group>
+<article-title>A developmental perspective on executive function</article-title>
+<source>Child Dev.</source>
+<year>2010</year>
+<volume>81</volume>
+<fpage>1641</fpage>
+<lpage>1660</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1467-8624.2010.01499.x</pub-id>
+<pub-id pub-id-type="pmid">21077853</pub-id></element-citation></ref><ref id="B11-nutrients-09-00158"><label>11.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lamport</surname><given-names>D.J.</given-names></name><name><surname>Dye</surname><given-names>L.</given-names></name><name><surname>Wightman</surname><given-names>J.D.</given-names></name><name><surname>Lawton</surname><given-names>C.L.</given-names></name></person-group>
+<article-title>The effects of flavonoid and other polyphenol consumption on cognitive performance: A systematic research review of human experimental and epidemiologic studies</article-title>
+<source>Nutr. Aging</source>
+<year>2012</year>
+<volume>1</volume>
+<fpage>5</fpage>
+<lpage>25</lpage>
+</element-citation></ref><ref id="B12-nutrients-09-00158"><label>12.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Whyte</surname><given-names>A.R.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Effects of a single dose of a flavonoid-rich blueberry drink on memory in 8 to 10 year old children</article-title>
+<source>Nutrition</source>
+<year>2015</year>
+<volume>31</volume>
+<fpage>531</fpage>
+<lpage>534</lpage>
+<pub-id pub-id-type="doi">10.1016/j.nut.2014.09.013</pub-id>
+<pub-id pub-id-type="pmid">25701345</pub-id></element-citation></ref><ref id="B13-nutrients-09-00158"><label>13.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vita</surname><given-names>J.A.</given-names></name></person-group>
+<article-title>Polyphenols and cardiovascular disease: Effects on endothelial and platelet function</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2005</year>
+<volume>81</volume>
+<fpage>292S</fpage>
+<lpage>297S</lpage>
+<pub-id pub-id-type="pmid">15640493</pub-id></element-citation></ref><ref id="B14-nutrients-09-00158"><label>14.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Macready</surname><given-names>A.L.</given-names></name><name><surname>Kennedy</surname><given-names>O.B.</given-names></name><name><surname>Ellis</surname><given-names>J.A.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name><name><surname>Spencer</surname><given-names>J.P.</given-names></name><name><surname>Butler</surname><given-names>L.T.</given-names></name></person-group>
+<article-title>Flavonoids and cognitive function: A review of human randomized controlled trial studies and recommendations for future studies</article-title>
+<source>Genes Nutr.</source>
+<year>2009</year>
+<volume>4</volume>
+<fpage>227</fpage>
+<lpage>242</lpage>
+<pub-id pub-id-type="doi">10.1007/s12263-009-0135-4</pub-id>
+<pub-id pub-id-type="pmid">19680703</pub-id></element-citation></ref><ref id="B15-nutrients-09-00158"><label>15.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>M.G.</given-names></name><name><surname>Shukitt-Hale</surname><given-names>B.</given-names></name></person-group>
+<article-title>Berry fruit enhances beneficial signalling in the brain</article-title>
+<source>J. Agric. Food Chem.</source>
+<year>2012</year>
+<volume>60</volume>
+<fpage>5709</fpage>
+<lpage>5715</lpage>
+<pub-id pub-id-type="doi">10.1021/jf2036033</pub-id>
+<pub-id pub-id-type="pmid">22264107</pub-id></element-citation></ref><ref id="B16-nutrients-09-00158"><label>16.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pipingas</surname><given-names>A.</given-names></name><name><surname>Silberstein</surname><given-names>R.B.</given-names></name><name><surname>Vitetta</surname><given-names>L.</given-names></name><name><surname>Rooy</surname><given-names>C.V.</given-names></name><name><surname>Harris</surname><given-names>E.V.</given-names></name><name><surname>Young</surname><given-names>J.M.</given-names></name><name><surname>Frampton</surname><given-names>C.M.</given-names></name><name><surname>Sali</surname><given-names>A.</given-names></name><name><surname>Nastasi</surname><given-names>J.</given-names></name></person-group>
+<article-title>Improved cognitive performance after dietary supplementation with a Pinus radiata bark extract formulation</article-title>
+<source>Phytother. Res.</source>
+<year>2008</year>
+<volume>22</volume>
+<fpage>1168</fpage>
+<lpage>1174</lpage>
+<pub-id pub-id-type="doi">10.1002/ptr.2388</pub-id>
+<pub-id pub-id-type="pmid">18683195</pub-id></element-citation></ref><ref id="B17-nutrients-09-00158"><label>17.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Van Praag</surname><given-names>H.</given-names></name><name><surname>Lucero</surname><given-names>M.J.</given-names></name><name><surname>Yeo</surname><given-names>G.W.</given-names></name><name><surname>Stecker</surname><given-names>K.</given-names></name><name><surname>Heivand</surname><given-names>N.</given-names></name><name><surname>Zhao</surname><given-names>C.</given-names></name><name><surname>Yip</surname><given-names>E.</given-names></name><name><surname>Afanador</surname><given-names>M.</given-names></name><name><surname>Schroeter</surname><given-names>H.</given-names></name><name><surname>Hammerstone</surname><given-names>J.</given-names></name><etal/></person-group>
+<article-title>Plant-derived flavanol (-)epicatechin enhances angiogenesis and retention of spatial memory in mice</article-title>
+<source>J. Neurosci.</source>
+<year>2007</year>
+<volume>27</volume>
+<fpage>5869</fpage>
+<lpage>5878</lpage>
+<pub-id pub-id-type="doi">10.1523/JNEUROSCI.0914-07.2007</pub-id>
+<pub-id pub-id-type="pmid">17537957</pub-id></element-citation></ref><ref id="B18-nutrients-09-00158"><label>18.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Field</surname><given-names>D.T.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name><name><surname>Butler</surname><given-names>L.T.</given-names></name></person-group>
+<article-title>Consumption of cocoa flavanols results in an acute improvement in visual and cognitive functions</article-title>
+<source>Physiol. Behav.</source>
+<year>2011</year>
+<volume>103</volume>
+<fpage>255</fpage>
+<lpage>260</lpage>
+<pub-id pub-id-type="doi">10.1016/j.physbeh.2011.02.013</pub-id>
+<pub-id pub-id-type="pmid">21324330</pub-id></element-citation></ref><ref id="B19-nutrients-09-00158"><label>19.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Scholey</surname><given-names>A.B.</given-names></name><name><surname>French</surname><given-names>S.J.</given-names></name><name><surname>Morris</surname><given-names>P.J.</given-names></name><name><surname>Kennedy</surname><given-names>D.O.</given-names></name><name><surname>Milne</surname><given-names>A.L.</given-names></name><name><surname>Haskell</surname><given-names>C.F.</given-names></name></person-group>
+<article-title>Consumption of cocoa flavanols results in acute improvements in mood and cognitive performance during sustained mental effort</article-title>
+<source>J. Psychopharmacol.</source>
+<year>2009</year>
+<volume>24</volume>
+<fpage>1505</fpage>
+<lpage>1514</lpage>
+<pub-id pub-id-type="doi">10.1177/0269881109106923</pub-id>
+<pub-id pub-id-type="pmid">19942640</pub-id></element-citation></ref><ref id="B20-nutrients-09-00158"><label>20.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Alharbi</surname><given-names>M.H.</given-names></name><name><surname>Lamport</surname><given-names>D.J.</given-names></name><name><surname>Dodd</surname><given-names>G.F.</given-names></name><name><surname>Kennedy</surname><given-names>D.O.</given-names></name><name><surname>Milne</surname><given-names>A.L.</given-names></name><name><surname>Haskell</surname><given-names>C.F.</given-names></name></person-group>
+<article-title>Flavonoid-rich orange juice is associated with acute improvement in cognitive function in healthy middle-aged males</article-title>
+<source>Eur. J. Nutr.</source>
+<year>2016</year>
+<volume>55</volume>
+<fpage>2021</fpage>
+<lpage>2029</lpage>
+<pub-id pub-id-type="doi">10.1007/s00394-015-1016-9</pub-id>
+<pub-id pub-id-type="pmid">26280945</pub-id></element-citation></ref><ref id="B21-nutrients-09-00158"><label>21.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rendeiro</surname><given-names>C.</given-names></name><name><surname>Vazour</surname><given-names>D.</given-names></name><name><surname>Rattray</surname><given-names>M.</given-names></name><name><surname>Waffo-T&#x000e9;guo</surname><given-names>P.</given-names></name><name><surname>M&#x000e9;rillon</surname><given-names>J.M.</given-names></name><name><surname>Butler</surname><given-names>L.T.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name><name><surname>Spencer</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Dietary levels of pure flavonoids improve spatial memory performance and increase hippocampal brain derived neurotrophic factor</article-title>
+<source>PLoS ONE</source>
+<year>2013</year>
+<volume>8</volume>
+<elocation-id>e63535</elocation-id>
+<pub-id pub-id-type="doi">10.1371/journal.pone.0063535</pub-id>
+<pub-id pub-id-type="pmid">23723987</pub-id></element-citation></ref><ref id="B22-nutrients-09-00158"><label>22.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kean</surname><given-names>R.J.</given-names></name><name><surname>Lamport</surname><given-names>D.J.</given-names></name><name><surname>Dodd</surname><given-names>G.F.</given-names></name><name><surname>Freeman</surname><given-names>J.E.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name><name><surname>Ellis</surname><given-names>J.A.</given-names></name><name><surname>Butler</surname><given-names>L.T.</given-names></name><name><surname>Spencer</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>Chronic consumption of flavanone-rich orange juice is associated with cognitive benefits: An 8-week, randomized, double-blind, placebo-controlled trial in healthy older adults</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2015</year>
+<volume>101</volume>
+<fpage>506</fpage>
+<lpage>514</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.114.088518</pub-id>
+<pub-id pub-id-type="pmid">25733635</pub-id></element-citation></ref><ref id="B23-nutrients-09-00158"><label>23.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Francis</surname><given-names>S.T.</given-names></name><name><surname>Head</surname><given-names>K.</given-names></name><name><surname>Morris</surname><given-names>P.G.</given-names></name><name><surname>Macdonals</surname><given-names>I.A.</given-names></name></person-group>
+<article-title>The effect of flavanol-rich cocoa on the fMRI response to a cognitive task in healthy young people</article-title>
+<source>J. Cardiovasc. Pharmacol.</source>
+<year>2006</year>
+<volume>47</volume>
+<fpage>S215</fpage>
+<lpage>S220</lpage>
+<pub-id pub-id-type="doi">10.1097/00005344-200606001-00018</pub-id>
+<pub-id pub-id-type="pmid">16794461</pub-id></element-citation></ref><ref id="B24-nutrients-09-00158"><label>24.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Shukitt-Hale</surname><given-names>B.</given-names></name></person-group>
+<article-title>Blueberries and neuronal aging</article-title>
+<source>Gerontology</source>
+<year>2012</year>
+<volume>58</volume>
+<fpage>518</fpage>
+<lpage>523</lpage>
+<pub-id pub-id-type="doi">10.1159/000341101</pub-id>
+<pub-id pub-id-type="pmid">22907211</pub-id></element-citation></ref><ref id="B25-nutrients-09-00158"><label>25.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Chang</surname><given-names>S.C.</given-names></name><name><surname>Cassidy</surname><given-names>A.</given-names></name><name><surname>Willett</surname><given-names>W.C.</given-names></name><name><surname>Rimm</surname><given-names>E.B.</given-names></name><name><surname>O&#x02019;Reilly</surname><given-names>E.J.</given-names></name><name><surname>Okereke</surname><given-names>O.I.</given-names></name></person-group>
+<article-title>Dietary flavonoid intake and risk of incident depression in midlife and older women</article-title>
+<source>Am. J. Clin. Nutr.</source>
+<year>2016</year>
+<volume>104</volume>
+<fpage>704</fpage>
+<lpage>714</lpage>
+<pub-id pub-id-type="doi">10.3945/ajcn.115.124545</pub-id>
+<pub-id pub-id-type="pmid">27413131</pub-id></element-citation></ref><ref id="B26-nutrients-09-00158"><label>26.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mihrshahi</surname><given-names>S.</given-names></name><name><surname>Dobson</surname><given-names>A.J.</given-names></name><name><surname>Mishra</surname><given-names>G.D.</given-names></name></person-group>
+<article-title>Fruit and vegetable consumption and prevalence and incidence of depressive symptoms in mid-age women: Results from the Australian longitudinal study on women&#x02019;s health</article-title>
+<source>Eur. J. Clin. Nutr.</source>
+<year>2015</year>
+<volume>69</volume>
+<fpage>585</fpage>
+<lpage>589</lpage>
+<pub-id pub-id-type="doi">10.1038/ejcn.2014.222</pub-id>
+<pub-id pub-id-type="pmid">25351653</pub-id></element-citation></ref><ref id="B27-nutrients-09-00158"><label>27.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bondonno</surname><given-names>C.P.</given-names></name><name><surname>Downey</surname><given-names>L.A.</given-names></name><name><surname>Croft</surname><given-names>K.D.</given-names></name><name><surname>Scholey</surname><given-names>A.</given-names></name><name><surname>Stough</surname><given-names>C.</given-names></name><name><surname>Yang</surname><given-names>X.</given-names></name><name><surname>Considine</surname><given-names>M.J.</given-names></name><name><surname>Ward</surname><given-names>N.C.</given-names></name><name><surname>Puddey</surname><given-names>I.B.</given-names></name><name><surname>Swinny</surname><given-names>E.</given-names></name><etal/></person-group>
+<article-title>The acute effect of flavonoid-rich apples and nitrate-rich spinach on cognitive performance and mood in healthy men and women</article-title>
+<source>Food Funct.</source>
+<year>2014</year>
+<volume>5</volume>
+<fpage>849</fpage>
+<lpage>858</lpage>
+<pub-id pub-id-type="doi">10.1039/c3fo60590f</pub-id>
+<pub-id pub-id-type="pmid">24676365</pub-id></element-citation></ref><ref id="B28-nutrients-09-00158"><label>28.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Bouayed</surname><given-names>J.</given-names></name></person-group>
+<article-title>Polyphenols: A Potential New Strategy for the Prevention and Treatment of Anxiety and Depression</article-title>
+<source>Curr. Nutr. Food Sci.</source>
+<year>2010</year>
+<volume>6</volume>
+<fpage>13</fpage>
+<lpage>18</lpage>
+<pub-id pub-id-type="doi">10.2174/157340110790909608</pub-id>
+</element-citation></ref><ref id="B29-nutrients-09-00158"><label>29.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pase</surname><given-names>M.P.</given-names></name><name><surname>Scholey</surname><given-names>A.B.</given-names></name><name><surname>Pipingas</surname><given-names>A.</given-names></name><name><surname>Kras</surname><given-names>M.</given-names></name><name><surname>Nolidin</surname><given-names>K.</given-names></name><name><surname>Gibbs</surname><given-names>A.</given-names></name><name><surname>Wesnes</surname><given-names>K.</given-names></name><name><surname>Stough</surname><given-names>C.</given-names></name></person-group>
+<article-title>Cocoa polyphenols enhance positive mood states but not cognitive performance: A randomized, placebo-controlled trial</article-title>
+<source>J. Psychopharmacol.</source>
+<year>2013</year>
+<volume>27</volume>
+<fpage>451</fpage>
+<lpage>458</lpage>
+<pub-id pub-id-type="doi">10.1177/0269881112473791</pub-id>
+<pub-id pub-id-type="pmid">23364814</pub-id></element-citation></ref><ref id="B30-nutrients-09-00158"><label>30.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khalid</surname><given-names>S.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name><name><surname>Reynolds</surname><given-names>S.A.</given-names></name></person-group>
+<article-title>Is there an association between diet and depression in children and adolescents? A systematic review</article-title>
+<source>Br. J. Nutr.</source>
+<year>2016</year>
+<volume>116</volume>
+<fpage>2097</fpage>
+<lpage>2108</lpage>
+<pub-id pub-id-type="doi">10.1017/S0007114516004359</pub-id>
+<pub-id pub-id-type="pmid">28093091</pub-id></element-citation></ref><ref id="B31-nutrients-09-00158"><label>31.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Oddy</surname><given-names>W.H.</given-names></name><name><surname>Robinson</surname><given-names>M.</given-names></name><name><surname>Ambrosini</surname><given-names>G.L.</given-names></name><name><surname>O&#x02019;Sullivan</surname><given-names>T.A.</given-names></name><name><surname>de Klerk</surname><given-names>N.H.</given-names></name><name><surname>Beilin</surname><given-names>L.J.</given-names></name><name><surname>Silburn</surname><given-names>S.R.</given-names></name><name><surname>Zubrick</surname><given-names>S.R.</given-names></name><name><surname>Stanley</surname><given-names>F.J.</given-names></name></person-group>
+<article-title>The association between dietary patterns and mental health in early adolescence</article-title>
+<source>Prev. Med.</source>
+<year>2009</year>
+<volume>49</volume>
+<fpage>39</fpage>
+<lpage>44</lpage>
+<pub-id pub-id-type="doi">10.1016/j.ypmed.2009.05.009</pub-id>
+<pub-id pub-id-type="pmid">19467256</pub-id></element-citation></ref><ref id="B32-nutrients-09-00158"><label>32.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Renzaho</surname><given-names>M.N.</given-names></name><name><surname>Kumanyika</surname><given-names>S.</given-names></name><name><surname>Tucker</surname><given-names>K.L.</given-names></name></person-group>
+<article-title>Family functioning, parental psychological distress, child behavioral problems, socio-economic disadvantage and fruit and vegetable consumption among 4&#x02013;12 year-old Victorians, Australia</article-title>
+<source>Health Promot. Int.</source>
+<year>2011</year>
+<volume>26</volume>
+<fpage>263</fpage>
+<lpage>275</lpage>
+<pub-id pub-id-type="doi">10.1093/heapro/daq054</pub-id>
+<pub-id pub-id-type="pmid">20713413</pub-id></element-citation></ref><ref id="B33-nutrients-09-00158"><label>33.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Rendeiro</surname><given-names>C.</given-names></name><name><surname>Vauzour</surname><given-names>D.</given-names></name><name><surname>Kean</surname><given-names>R.J.</given-names></name><name><surname>Butler</surname><given-names>L.T.</given-names></name><name><surname>Rattray</surname><given-names>M.</given-names></name><name><surname>Spencer</surname><given-names>J.P.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>Blueberry supplementation induces spatial memory improvements and region-specific regulation of hippocampal BDNF mRNA expression in young rats</article-title>
+<source>Psychopharmacology</source>
+<year>2012</year>
+<volume>223</volume>
+<fpage>319</fpage>
+<lpage>330</lpage>
+<pub-id pub-id-type="doi">10.1007/s00213-012-2719-8</pub-id>
+<pub-id pub-id-type="pmid">22569815</pub-id></element-citation></ref><ref id="B34-nutrients-09-00158"><label>34.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Watson</surname><given-names>D.</given-names></name><name><surname>Clark</surname><given-names>L.A.</given-names></name><name><surname>Tellegen</surname><given-names>A.</given-names></name></person-group>
+<article-title>Development and validation of brief measures of positive and negative affect: The PANAS scales</article-title>
+<source>J. Pers. Soc. Psychol.</source>
+<year>1988</year>
+<volume>54</volume>
+<fpage>1063</fpage>
+<lpage>1070</lpage>
+<pub-id pub-id-type="doi">10.1037/0022-3514.54.6.1063</pub-id>
+<pub-id pub-id-type="pmid">3397865</pub-id></element-citation></ref><ref id="B35-nutrients-09-00158"><label>35.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Crawford</surname><given-names>J.R.</given-names></name><name><surname>Henry</surname><given-names>J.D.</given-names></name></person-group>
+<article-title>The Positive and Negative Affect Schedule (PANAS); Construct validity, measurement properties and normative data in a large non-clinical sample</article-title>
+<source>Br. J. Clin. Psychol.</source>
+<year>2004</year>
+<volume>43</volume>
+<fpage>245</fpage>
+<lpage>265</lpage>
+<pub-id pub-id-type="doi">10.1348/0144665031752934</pub-id>
+<pub-id pub-id-type="pmid">15333231</pub-id></element-citation></ref><ref id="B36-nutrients-09-00158"><label>36.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hughes</surname><given-names>A.A.</given-names></name><name><surname>Kendall</surname><given-names>P.C.</given-names></name></person-group>
+<article-title>Psychometric Properties of the Positive and Negative Affect Scale for Children (PANAS-C) in Children with Anxiety Disorders</article-title>
+<source>Child Psychiatry Hum. Dev.</source>
+<year>2009</year>
+<volume>3</volume>
+<fpage>343</fpage>
+<lpage>352</lpage>
+<pub-id pub-id-type="doi">10.1007/s10578-009-0130-4</pub-id>
+<pub-id pub-id-type="pmid">19142724</pub-id></element-citation></ref><ref id="B37-nutrients-09-00158"><label>37.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Lezak</surname><given-names>M.D.</given-names></name><name><surname>Howieson</surname><given-names>D.B.</given-names></name><name><surname>Loring</surname><given-names>D.W.</given-names></name></person-group>
+<source>Neuropsychological Assessment</source>
+<edition>4th ed.</edition>
+<publisher-name>Oxford University Press</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2004</year>
+</element-citation></ref><ref id="B38-nutrients-09-00158"><label>38.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hillman</surname><given-names>C.H.</given-names></name><name><surname>Pontifex</surname><given-names>M.B.</given-names></name><name><surname>Raine</surname><given-names>L.B.</given-names></name><name><surname>Castelli</surname><given-names>D.M.</given-names></name><name><surname>Hall</surname><given-names>E.E.</given-names></name><name><surname>Kramer</surname><given-names>A.F.</given-names></name></person-group>
+<article-title>The effect of acute treadmill walking on cognitive control and academic achievement in preadolescent children</article-title>
+<source>Neuroscience</source>
+<year>2009</year>
+<volume>159</volume>
+<fpage>1044</fpage>
+<lpage>1054</lpage>
+<pub-id pub-id-type="doi">10.1016/j.neuroscience.2009.01.057</pub-id>
+<pub-id pub-id-type="pmid">19356688</pub-id></element-citation></ref><ref id="B39-nutrients-09-00158"><label>39.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Torgesen</surname><given-names>J.K.</given-names></name><name><surname>Wagner</surname><given-names>R.</given-names></name><name><surname>Rashotte</surname><given-names>C.</given-names></name></person-group>
+<source>TOWRE&#x02013;2 Test of Word Reading Efficiency</source>
+<edition>pro-ed.</edition>
+<publisher-name>ProED Publishing Co.</publisher-name>
+<publisher-loc>Austin, TX, USA</publisher-loc>
+<year>1999</year>
+</element-citation></ref><ref id="B40-nutrients-09-00158"><label>40.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Barfoot</surname><given-names>K.L.</given-names></name><name><surname>May</surname><given-names>G.</given-names></name><name><surname>Lamport</surname><given-names>D.J.</given-names></name><name><surname>Ricketts</surname><given-names>J.</given-names></name><name><surname>Riddell</surname><given-names>P.</given-names></name><name><surname>Williams</surname><given-names>C.M.</given-names></name></person-group>
+<article-title>An investigation into the effects of wild blueberry supplementation on the cognition of seven to ten year-old schoolchildren</article-title>
+<publisher-name>University of Reading</publisher-name>
+<publisher-loc>Reading, UK</publisher-loc>
+<comment>Unpublished work</comment>
+<year>2017</year>
+</element-citation></ref><ref id="B41-nutrients-09-00158"><label>41.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wurtman</surname><given-names>R.J.</given-names></name><name><surname>Wurtman</surname><given-names>J.J.</given-names></name></person-group>
+<article-title>Brain serotonin, carbohydrate-carving obesity and depression</article-title>
+<source>Obes. Res.</source>
+<year>1995</year>
+<volume>3</volume>
+<fpage>477S</fpage>
+<lpage>480S</lpage>
+<pub-id pub-id-type="doi">10.1002/j.1550-8528.1995.tb00215.x</pub-id>
+<pub-id pub-id-type="pmid">8697046</pub-id></element-citation></ref><ref id="B42-nutrients-09-00158"><label>42.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Benton</surname><given-names>D.</given-names></name><name><surname>Nabb</surname><given-names>S.</given-names></name></person-group>
+<article-title>Carbohydrate, Memory and Mood</article-title>
+<source>Nutr. Rev.</source>
+<year>2003</year>
+<volume>61</volume>
+<fpage>S61</fpage>
+<lpage>S65</lpage>
+<pub-id pub-id-type="doi">10.1301/nr.2003.may.S61-S67</pub-id>
+<pub-id pub-id-type="pmid">12828194</pub-id></element-citation></ref><ref id="B43-nutrients-09-00158"><label>43.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Laurent</surname><given-names>J.</given-names></name><name><surname>Catanzaro</surname><given-names>S.J.</given-names></name><name><surname>Joiner</surname><given-names>T.E.</given-names><suffix>Jr.</suffix></name><name><surname>Gathright</surname><given-names>T.</given-names></name></person-group>
+<article-title>A measure of positive and negative affect for children: Scale development and preliminary validation</article-title>
+<source>Psychol. Assess.</source>
+<year>1999</year>
+<volume>11</volume>
+<fpage>326</fpage>
+<lpage>338</lpage>
+<pub-id pub-id-type="doi">10.1037/1040-3590.11.3.326</pub-id>
+</element-citation></ref><ref id="B44-nutrients-09-00158"><label>44.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Manach</surname><given-names>C.</given-names></name><name><surname>Donovan</surname><given-names>J.L.</given-names></name></person-group>
+<article-title>Pharmacokinetics and metabolism of dietary flavonoids in humans</article-title>
+<source>Free Radic. Res.</source>
+<year>2004</year>
+<volume>38</volume>
+<fpage>771</fpage>
+<lpage>785</lpage>
+<pub-id pub-id-type="doi">10.1080/10715760410001727858</pub-id>
+<pub-id pub-id-type="pmid">15493450</pub-id></element-citation></ref><ref id="B45-nutrients-09-00158"><label>45.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vauzour</surname><given-names>D.</given-names></name><name><surname>Vafeiadou</surname><given-names>K.</given-names></name><name><surname>Rodriguez-Mateos</surname><given-names>A.</given-names></name><name><surname>Rendeiro</surname><given-names>C.</given-names></name><name><surname>Spencer</surname><given-names>J.P.</given-names></name></person-group>
+<article-title>The neuroprotective potential of flavonoids: A multiplicity of effects</article-title>
+<source>Genes Nutr.</source>
+<year>2008</year>
+<volume>3</volume>
+<fpage>115</fpage>
+<lpage>126</lpage>
+<pub-id pub-id-type="doi">10.1007/s12263-008-0091-4</pub-id>
+<pub-id pub-id-type="pmid">18937002</pub-id></element-citation></ref><ref id="B46-nutrients-09-00158"><label>46.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Miller</surname><given-names>E.K.</given-names></name></person-group>
+<article-title>The prefrontal cortex and cognitive control</article-title>
+<source>Nat. Rev. Neurosci.</source>
+<year>2000</year>
+<volume>1</volume>
+<fpage>59</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="doi">10.1038/35036228</pub-id>
+<pub-id pub-id-type="pmid">11252769</pub-id></element-citation></ref><ref id="B47-nutrients-09-00158"><label>47.</label><element-citation publication-type="book">
+<person-group person-group-type="author"><name><surname>Schore</surname><given-names>A.N.</given-names></name></person-group>
+<source>Affect Regulation and the Origin of Self: The Neurobiology of Emotional Development</source>
+<edition>Classic ed.</edition>
+<publisher-name>Routledge</publisher-name>
+<publisher-loc>New York, NY, USA</publisher-loc>
+<year>2016</year>
+</element-citation></ref><ref id="B48-nutrients-09-00158"><label>48.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Watson</surname><given-names>A.W.</given-names></name><name><surname>Haskell-Ramsay</surname><given-names>C.F.</given-names></name><name><surname>Kennedy</surname><given-names>D.O.</given-names></name><name><surname>Cooney</surname><given-names>J.M.</given-names></name><name><surname>Trower</surname><given-names>T.</given-names></name><name><surname>Scheepens</surname><given-names>A.</given-names></name></person-group>
+<article-title>Acute supplementation with blackcurrant extracts modulates cognitive functioning and inhibits monoamine oxidase-B in healthy young adults</article-title>
+<source>J. Funct. Foods</source>
+<year>2015</year>
+<volume>17</volume>
+<fpage>524</fpage>
+<lpage>539</lpage>
+<pub-id pub-id-type="doi">10.1016/j.jff.2015.06.005</pub-id>
+</element-citation></ref><ref id="B49-nutrients-09-00158"><label>49.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Hanrahan</surname><given-names>J.R.</given-names></name><name><surname>Chebib</surname><given-names>M.</given-names></name><name><surname>Johnston</surname><given-names>G.A.R.</given-names></name></person-group>
+<article-title>Flavonoid modulation of GABA(A) receptors</article-title>
+<source>Br. J. Pharmacol.</source>
+<year>2011</year>
+<volume>163</volume>
+<fpage>234</fpage>
+<lpage>245</lpage>
+<pub-id pub-id-type="doi">10.1111/j.1476-5381.2011.01228.x</pub-id>
+<pub-id pub-id-type="pmid">21244373</pub-id></element-citation></ref><ref id="B50-nutrients-09-00158"><label>50.</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wasowski</surname><given-names>C.</given-names></name><name><surname>Marder</surname><given-names>M.</given-names></name></person-group>
+<article-title>Flavonoids as GABAA receptor ligands: The whole story?</article-title>
+<source>J. Exp. Pharmacol.</source>
+<year>2012</year>
+<volume>4</volume>
+<fpage>9</fpage>
+<lpage>24</lpage>
+<pub-id pub-id-type="pmid">27186113</pub-id></element-citation></ref></ref-list></back><floats-group><fig id="nutrients-09-00158-f001" position="float"><label>Figure 1</label><caption><p>Mean PANAS-NOW Mood scores in adults aged 18&#x02013;21 years: (<bold>a</bold>) Mean PA scores pre- and post-consumption of placebo and WBB drinks; (<bold>b</bold>) Mean NA scores pre- and post-consumption of placebo and WBB drinks.</p></caption><graphic xlink:href="nutrients-09-00158-g001"/></fig><fig id="nutrients-09-00158-f002" position="float"><label>Figure 2</label><caption><p>Mean PANAS-C scores in children aged 7&#x02013;10 years: (<bold>a</bold>) Mean PA scores pre- and post-consumption of placebo and WBB drinks; (<bold>b</bold>) Mean NA scores pre- and post-consumption of placebo and WBB drinks. * Significant at &#x0003c;0.05. Attained from post-hoc paired samples <italic>t</italic>-test.</p></caption><graphic xlink:href="nutrients-09-00158-g002"/></fig></floats-group></article>

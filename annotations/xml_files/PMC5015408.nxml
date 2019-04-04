@@ -1,0 +1,718 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27451467</article-id><article-id pub-id-type="pmc">5015408</article-id><article-id pub-id-type="doi">10.1161/JAHA.116.003776</article-id><article-id pub-id-type="publisher-id">JAH31637</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Preventive Cardiology</subject></subj-group></subj-group></article-categories><title-group><article-title>Electronic Alert System for Improving Stroke Prevention Among Hospitalized Oral&#x02010;Anticoagulation&#x02010;Na&#x000ef;ve Patients With Atrial Fibrillation: A Randomized Trial</article-title><alt-title alt-title-type="left-running-head">Silbernagel et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah31637-cr-0001" contrib-type="author"><name><surname>Silbernagel</surname><given-names>G&#x000fc;nther</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31637-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah31637-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31637-cr-0002" contrib-type="author"><name><surname>Spirk</surname><given-names>David</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31637-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah31637-cr-0003" contrib-type="author"><name><surname>Hager</surname><given-names>Adrian</given-names></name><degrees>MA</degrees><xref ref-type="aff" rid="jah31637-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31637-cr-0004" contrib-type="author"><name><surname>Baumgartner</surname><given-names>Iris</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31637-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31637-cr-0005" contrib-type="author" corresp="yes"><name><surname>Kucher</surname><given-names>Nils</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31637-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jah31637-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Division of Angiology</named-content><named-content content-type="organisation-division">Department of Internal Medicine</named-content><institution>Medical University of Graz</institution><country country="AT">Austria</country></aff><aff id="jah31637-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Department of Angiology</named-content><named-content content-type="organisation-division">Swiss Cardiovascular Center</named-content><named-content content-type="organisation-division">Inselspital</named-content><institution>University of Bern</institution><country country="CH">Switzerland</country></aff><aff id="jah31637-aff-0003"><label><sup>3</sup></label><named-content content-type="organisation-division">Department of Medical Informatics</named-content><named-content content-type="organisation-division">Inselspital</named-content><institution>University of Bern</institution><country country="CH">Switzerland</country></aff><aff id="jah31637-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Institute of Pharmacology</named-content><institution>University of Bern</institution><country country="CH">Switzerland</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Nils Kucher, MD, Department of Vascular Medicine, Swiss Cardiovascular Center, Inselspital, University of Bern, 3010 Bern, Switzerland. E&#x02010;mail: <email>nils.kucher@insel.ch</email></corresp></author-notes><pub-date pub-type="epub"><day>22</day><month>7</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>7</month><year>2016</year></pub-date><volume>5</volume><issue>7</issue><issue-id pub-id-type="doi">10.1002/jah3.2016.5.issue-7</issue-id><elocation-id>e003776</elocation-id><history><date date-type="received"><day>24</day><month>5</month><year>2016</year></date><date date-type="accepted"><day>15</day><month>6</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-5-e003776.pdf"/><abstract id="jah31637-abs-0001"><sec id="jah31637-sec-0001"><title>Background</title><p>Many patients with atrial fibrillation (<styled-content style="fixed-case">AF</styled-content>) do not receive oral anticoagulants (<styled-content style="fixed-case">OAC</styled-content>) for the prevention of stroke and systemic embolism. We aimed to improve the prescription of (<styled-content style="fixed-case">OAC</styled-content>) among hospitalized patients with <styled-content style="fixed-case">AF</styled-content>.</p></sec><sec id="jah31637-sec-0002"><title>Methods and Results</title><p>We developed a computer&#x02010;based electronic alert system for identifying hospitalized <styled-content style="fixed-case">OAC</styled-content>&#x02010;na&#x000ef;ve patients with <styled-content style="fixed-case">AF</styled-content>. The alert system contained a <styled-content style="fixed-case">CHA</styled-content>
+<sub>2</sub>
+<styled-content style="fixed-case">DS</styled-content>
+<sub>2</sub>&#x02010;<styled-content style="fixed-case">VAS</styled-content>c score calculation tool and provided recommendations for <styled-content style="fixed-case">OAC</styled-content> prescription. The alert system was tested in a 1:1 randomized controlled trial at the University Hospital Bern: Patients with suspected <styled-content style="fixed-case">AF</styled-content> without an active prescription order were allocated to an alert group in which an alert was issued in the electronic patient chart and order entry system or to a control group in which no alert was issued. The primary end point was the rate of adequate <styled-content style="fixed-case">OAC</styled-content> prescription at hospital discharge, defined as prescription in <styled-content style="fixed-case">OAC</styled-content>&#x02010;na&#x000ef;ve men and women with <styled-content style="fixed-case">CHA</styled-content>
+<sub>2</sub>
+<styled-content style="fixed-case">DS</styled-content>
+<sub>2</sub>&#x02010;<styled-content style="fixed-case">VAS</styled-content>c score &#x02265;1 and &#x02265;2, respectively. Overall, 889 <styled-content style="fixed-case">OAC</styled-content>&#x02010;na&#x000ef;ve patients (455 from the alert group and 434 from the control group) were eligible for analysis. Although the <styled-content style="fixed-case">CHA</styled-content>
+<sub>2</sub>
+<styled-content style="fixed-case">DS</styled-content>
+<sub>2</sub>&#x02010;<styled-content style="fixed-case">VAS</styled-content>c score module was used in only 48 (10.5%) patients from the alert group, 100 (22.0%) patients from the alert group versus 69 (15.9%) from the control group received adequate <styled-content style="fixed-case">OAC</styled-content> prescription (relative risk 1.38; <italic>P</italic>=0.021). <styled-content style="fixed-case">OAC</styled-content> or antiplatelet therapy was prescribed in 325 (71.4%) patients from the alert group versus 271 (62.4%) from the control group (<italic>P</italic>=0.004).</p></sec><sec id="jah31637-sec-0003"><title>Conclusions</title><p>Versus standard care, the alert system modestly improved <styled-content style="fixed-case">OAC</styled-content> prescription among consecutive hospitalized <styled-content style="fixed-case">AF</styled-content> patients.</p></sec><sec id="jah31637-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="https://www.clinicaltrials.gov">https://www.clinicaltrials.gov</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>02455102.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah31637-kwd-0001">anticoagulants</kwd><kwd id="jah31637-kwd-0002">arrhythmia</kwd><kwd id="jah31637-kwd-0003">atrial fibrillation</kwd><kwd id="jah31637-kwd-0004">electronic alert system</kwd><kwd id="jah31637-kwd-0005">embolism</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Atrial Fibrillation</kwd><kwd>Quality and Outcomes</kwd><kwd>Anticoagulants</kwd></kwd-group><funding-group><award-group><funding-source>Bayer Healthcare AG</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Inselspital Foundation</funding-source></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah31637</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>July 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:01.09.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah31637-cit-1001">(<source>J Am Heart Assoc</source>. <year>2016</year>;<volume>5</volume>:e003776 doi: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.116.003776">10.1161/JAHA.116.003776</ext-link>)</mixed-citation>
+</p></notes></front><body><sec id="jah31637-sec-0005"><title>Introduction</title><p>Atrial fibrillation (AF) is the most common heart rhythm disorder and its prevalence is consistently increasing.<xref rid="jah31637-bib-0001" ref-type="ref">1</xref>, <xref rid="jah31637-bib-0002" ref-type="ref">2</xref> One quarter of all 40&#x02010;year&#x02010;olds will develop this arrhythmia during the course of their lives.<xref rid="jah31637-bib-0003" ref-type="ref">3</xref> AF increases the risk of stroke by 5 times<xref rid="jah31637-bib-0004" ref-type="ref">4</xref> and doubles the risk of cardiovascular deaths and strokes after just 1&#x000a0;year.<xref rid="jah31637-bib-0005" ref-type="ref">5</xref>
+</p><p>Oral anticoagulation therapy (OAC) with vitamin K antagonists reduces the risk of stroke and systemic embolism by &#x02248;80% compared with placebo.<xref rid="jah31637-bib-0006" ref-type="ref">6</xref> The direct oral anticoagulants are at least as effective as vitamin K antagonists. However, direct oral anticoagulants confer improved safety as compared with vitamin K antagonists in terms of bleeding complications.<xref rid="jah31637-bib-0007" ref-type="ref">7</xref>, <xref rid="jah31637-bib-0008" ref-type="ref">8</xref>, <xref rid="jah31637-bib-0009" ref-type="ref">9</xref>, <xref rid="jah31637-bib-0010" ref-type="ref">10</xref>
+</p><p>Current guidelines of the American Heart Association, the American College of Cardiology, and the European Society of Cardiology recommend the calculation of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score in all patients with AF.<xref rid="jah31637-bib-0006" ref-type="ref">6</xref>, <xref rid="jah31637-bib-0011" ref-type="ref">11</xref> In patients with a score of &#x02265;1 point with the exception of women without additional risk factor, OAC is recommended for the prevention of stroke and systemic embolism.<xref rid="jah31637-bib-0011" ref-type="ref">11</xref> However, many patients with AF do not take OAC as recommended by the guidelines.<xref rid="jah31637-bib-0012" ref-type="ref">12</xref>
+</p><p>Undertreatment can be reduced by increasing adherence rates to medications at the patient level.<xref rid="jah31637-bib-0013" ref-type="ref">13</xref> However, better quality of treatment may also be achieved by making the physicians in charge aware of a problem that needs to be addressed. In this respect, computer&#x02010;based electronic alert systems or clinical decision support systems may improve the prescription of recommended therapy among hospitalized patients.<xref rid="jah31637-bib-0014" ref-type="ref">14</xref>, <xref rid="jah31637-bib-0015" ref-type="ref">15</xref>
+</p><p>In a randomized controlled clinical trial, a single computer alert to the physician in charge increased the rate of adequate prescriptions of thromboprophylaxis and reduced the rate of venous thromboembolism by 41%.<xref rid="jah31637-bib-0016" ref-type="ref">16</xref> It remains unclear whether computer&#x02010;based electronic alert systems improve adequate OAC prescription among hospitalized AF patients.</p></sec><sec id="jah31637-sec-0006"><title>Methods</title><sec id="jah31637-sec-0007"><title>Alert System</title><p>We developed a computer&#x02010;based electronic alert system for identifying consecutive hospitalized OAC&#x02010;na&#x000ef;ve patients with AF and tested the hypothesis that such an alert system would improve OAC prescription.</p><p>The alert system automatically identified hospitalized patients with AF without an active OAC prescription in the electronic order entry system. The alert system was incorporated into the electronic medical chart and order entry system of the University Hospital in Bern, Switzerland. It recognized AF by permanently searching diagnosis lists and physician notes of the entire electronic patient chart database for free text entries of AF or its various abbreviations. Alerts were issued 24&#x000a0;hours after the onset of hospital stay if the following 4 criteria for an individual patient were present: (1) AF detected by search criteria; (2) no active prescription order for anticoagulants, including unfractionated or low&#x02010;molecular&#x02010;weight heparin, fondaparinux, direct oral anticoagulants, or vitamin K antagonists; (3) at least 1 electronic drug prescription order other than an anticoagulant had to be in place in the order entry system; and (4) the patient was randomized to the alert group. Once the criteria were fulfilled, the alert was issued in the electronic patient chart. The alert was visible to physicians and nurses, but only physicians were enabled to respond to the alert. In the first alert screen (Figure&#x000a0;<xref rid="jah31637-fig-0001" ref-type="fig">1</xref>), the physician was notified that this patient had suspected AF without an active OAC prescription. In addition, the physician was asked to confirm the presence of AF. The physician in charge had the option to complete the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score electronically or to reject the alert if there was no AF. If AF was present but the physician was unable to complete the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score, he or she was able to postpone the action 3 times. During this time, the alert remained active. After 3 times of rejecting the alert, the physician in charge was informed that the alert would permanently disappear from the electronic patient chart. If the physician in charge agreed to calculate the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score, a new screen with the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score items opened (Figure&#x000a0;S1). The system automatically entered the information for the score items sex and age. The system also calculated the score once the remaining items of the score were entered. In men with a calculated score &#x0003c;1 and women with a score &#x0003c;2, no further information was provided to the physician and the alert disappeared. For all other patients with increased CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score, an additional screen opened, containing the current recommendations from the European Society of Cardiology for stroke prevention in patients with AF with the following text.<xref rid="jah31637-bib-0011" ref-type="ref">11</xref>
+</p><fig fig-type="Figure" xml:lang="en" id="jah31637-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Electronic alert screen that is sent to physicians in charge of patients with atrial fibrillation but without oral anticoagulation treatment.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-5-e003776-g001"/></fig><p>The alert system was tested and adjusted in a passive run&#x02010;in phase in collaboration with the IT Department of the University Hospital (Inselspital) Bern. Instructions for use of the alert system were provided in the electronic medical chart and order entry system. In addition, the heads of the medical departments were asked to inform their medical staff about the study.</p></sec><sec id="jah31637-sec-0008"><title>Study Design</title><p>From September 2014 until October 2015 at the University Hospital Bern, we randomly assigned 1707 patients in a 1:1 fashion to the alert group (n=877) and to the control group (n=830) where no alert was issued. Randomization was performed electronically by automatically generating a number between 1 and 65&#x000a0;535 for each eligible patient. Patients with odd numbers were randomized to the alert group, whereas patients with even numbers were randomized to the control group.</p><p>All hospitalized patients aged &#x02265;18&#x000a0;years with AF but without an active OAC prescription in the order entry system were included. There were no exclusion criteria.</p><p>The study (<ext-link ext-link-type="uri" xlink:href="http://ClinicalTrials.gov">ClinicalTrials.gov</ext-link>. Identifier: NCT02455102) was approved by the institutional review board at the University of Bern. Informed consent by the patients was waived for the following reasons: (1) The study did not involve an intervention to patients but to physicians. The intervention served to remind the responsible physician to assess the stroke risk in patients with AF and to consider the prescription of preventive measures if an increased risk of stroke was present. Therefore, the alert was regarded as a clinical decision support system to help the physician to comply with current international consensus guidelines. However, the responsible physician solely carried the responsibility for ordering or not ordering measures to prevent stroke in patients with AF; (2) there was no direct or indirect patient contact during the study (chart review from the hospital stay only; and (3) a consent procedure in control group patients without alert was regarded as unethical and would have confounded the outcome.</p><p>As this was a hospital&#x02010;wide quality improvement initiative, which involved all departments except pediatrics, approval was also obtained from the hospital management.</p></sec><sec id="jah31637-sec-0009"><title>End Points</title><p>The primary end point of the study was the rate of adequate OAC prescription at hospital discharge, defined as prescription of any of the recommended drug regimens in OAC&#x02010;na&#x000ef;ve men with CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score &#x02265;1 and in OAC&#x02010;na&#x000ef;ve women with CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score &#x02265;2. Patients were considered OAC&#x02010;na&#x000ef;ve if they were not receiving OAC within 30&#x000a0;days prior to randomization. The secondary end point was the use of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score calculation tool by the physician in charge. We also collected data to calculate the HASBLED score. This score indicates bleeding risk and includes the risk factors hypertension, abnormal renal or liver function, stroke, bleeding history or predisposition, labile INR, elderly, and drugs or alcohol abuse.<xref rid="jah31637-bib-0017" ref-type="ref">17</xref>
+</p></sec><sec id="jah31637-sec-0010"><title>Statistical Analysis</title><p>For sample size calculation, we assumed a 30% rate of adequate OAC prescription in the alert group and a 20% rate in the control group. Using a power of 90% and a 2&#x02010;sided alpha of 5%, at least 412 OAC&#x02010;na&#x000ef;ve AF patients per group were required to reject the null hypothesis. During the recruitment phase, we continuously monitored all randomized patients whether they were OAC na&#x000ef;ve and had confirmed AF by medical record review. We planned to terminate the patient recruitment phase once at least 412 OAC&#x02010;na&#x000ef;ve AF patients per group were eligible for analysis.</p><p>Data for baseline characteristics and the primary and secondary end points are presented as absolute numbers and percentages or as means and standard deviations for categorical or continuous variables, respectively. <italic>P</italic>&#x02010;values for differences between the groups with regard to end points are calculated with &#x003c7;<sup>2</sup> tests. All <italic>P</italic>&#x02010;values are 2&#x02010;sided and <italic>P</italic>&#x02010;values &#x0003c;0.05 were considered significant. For the primary end point, we additionally calculated the relative risk for ordering adequate OAC prescription comparing the alert and control groups. All analyses were performed with IBM SPSS Statistics for Windows, Version 21.0 (IBM Corp, Armonk, NY).</p></sec></sec><sec id="jah31637-sec-0011"><title>Results</title><sec id="jah31637-sec-0012"><title>Patient Characteristics</title><p>A total of 889 OAC&#x02010;na&#x000ef;ve AF patients were eligible for analysis (Figure&#x000a0;<xref rid="jah31637-fig-0002" ref-type="fig">2</xref>). Mean (SD) age was 73.9 (11.3) years. Overall, 359 (40.3%), 48 (5.4%), and 31 (3.5%) patients had paroxysmal, permanent, and persistent AF, respectively, whereas in 451 (50.7%) patients, the type of AF was unknown. Both groups were balanced with respect to baseline characteristics with the exception of a higher rate of systemic hypertension, a trend toward a higher rate of transient ischemic attack, and a trend toward a lower rate of renal dysfunction in the alert group (Table<italic>&#x000a0;</italic>
+<xref rid="jah31637-tbl-0001" ref-type="table-wrap">1</xref>). The most frequent reasons for hospital admission were acute coronary syndrome or other cardiovascular disease (30.0%), cancer (10.6%), nonpulmonary infection (7.9%), stroke (6.9%), and heart failure (6.4%) (Table<italic>&#x000a0;</italic>
+<xref rid="jah31637-tbl-0002" ref-type="table-wrap">2</xref>). The mean duration of the hospital stay was 9.4 (10.8) days.</p><fig fig-type="Figure" xml:lang="en" id="jah31637-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Flow chart of the patients whose physicians in charge received electronic alerts reminding them about patients with atrial fibrillation without ongoing oral anticoagulant treatment. AF indicates atrial fibrillation; OAC, oral anticoagulation therapy.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-5-e003776-g002"/></fig><table-wrap id="jah31637-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Clinical Baseline Characteristics of the Patients Stratified for Randomization Group</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Randomization Group</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Control</th><th align="left" valign="top" rowspan="1" colspan="1">Alert</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Number</td><td align="left" rowspan="1" colspan="1">434</td><td align="left" rowspan="1" colspan="1">455</td></tr><tr><td align="left" colspan="3" rowspan="1">Sex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="left" rowspan="1" colspan="1">292 (67.3)</td><td align="left" rowspan="1" colspan="1">300 (65.9)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="left" rowspan="1" colspan="1">142 (32.7)</td><td align="left" rowspan="1" colspan="1">155 (34.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Age (y)</td><td align="left" rowspan="1" colspan="1">73.3 (11.8)</td><td align="left" rowspan="1" colspan="1">74.4 (10.9)</td></tr><tr><td align="left" colspan="3" rowspan="1">Type of atrial fibrillation</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Paroxysmal</td><td align="left" rowspan="1" colspan="1">174 (40.1)</td><td align="left" rowspan="1" colspan="1">185 (40.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Permanent</td><td align="left" rowspan="1" colspan="1">25 (5.8)</td><td align="left" rowspan="1" colspan="1">23 (5.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Persistent</td><td align="left" rowspan="1" colspan="1">15 (3.5)</td><td align="left" rowspan="1" colspan="1">16 (3.5)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Unknown</td><td align="left" rowspan="1" colspan="1">220 (50.7)</td><td align="left" rowspan="1" colspan="1">231 (50.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of stroke</td><td align="left" rowspan="1" colspan="1">27 (6.2)</td><td align="left" rowspan="1" colspan="1">41 (9.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of transient ischemic attack</td><td align="left" rowspan="1" colspan="1">13 (3.0)</td><td align="left" rowspan="1" colspan="1">26 (5.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of venous thromboembolism</td><td align="left" rowspan="1" colspan="1">25 (5.8)</td><td align="left" rowspan="1" colspan="1">35 (7.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">History of systemic embolism</td><td align="left" rowspan="1" colspan="1">4 (0.9)</td><td align="left" rowspan="1" colspan="1">3 (0.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Vascular disease<xref ref-type="fn" rid="jah31637-note-0003">a</xref>
+</td><td align="left" rowspan="1" colspan="1">154 (35.5)</td><td align="left" rowspan="1" colspan="1">179 (39.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Congestive heart failure<xref ref-type="fn" rid="jah31637-note-0004">b</xref>
+</td><td align="left" rowspan="1" colspan="1">134 (30.9)</td><td align="left" rowspan="1" colspan="1">137 (30.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes mellitus</td><td align="left" rowspan="1" colspan="1">93 (21.4)</td><td align="left" rowspan="1" colspan="1">104 (22.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Systemic hypertension</td><td align="left" rowspan="1" colspan="1">229 (52.8)</td><td align="left" rowspan="1" colspan="1">276 (60.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Bleeding<xref ref-type="fn" rid="jah31637-note-0005">c</xref>
+</td><td align="left" rowspan="1" colspan="1">143 (32.9)</td><td align="left" rowspan="1" colspan="1">140 (30.8)</td></tr><tr><td align="left" rowspan="1" colspan="1">Renal dysfunction<xref ref-type="fn" rid="jah31637-note-0006">d</xref>
+</td><td align="left" rowspan="1" colspan="1">100 (23.0)</td><td align="left" rowspan="1" colspan="1">80 (17.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hepatic impairment<xref ref-type="fn" rid="jah31637-note-0007">e</xref>
+</td><td align="left" rowspan="1" colspan="1">16 (3.7)</td><td align="left" rowspan="1" colspan="1">15 (3.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Alcohol intake<xref ref-type="fn" rid="jah31637-note-0008">f</xref>
+</td><td align="left" rowspan="1" colspan="1">23 (5.3)</td><td align="left" rowspan="1" colspan="1">20 (4.4)</td></tr><tr><td align="left" rowspan="1" colspan="1">Antiplatelet or nonsteroidal antirheumatic drug</td><td align="left" rowspan="1" colspan="1">235 (54.1)</td><td align="left" rowspan="1" colspan="1">265 (58.2)</td></tr></tbody></table><table-wrap-foot><fn id="jah31637-note-0002"><p>Values are numbers and percentages for categorical data or means with standard deviation for continuous data.</p></fn><fn id="jah31637-note-0003"><label>a</label><p>Myocardial infarction, peripheral artery disease, or aortic plaque.</p></fn><fn id="jah31637-note-0004"><label>b</label><p>Chronic heart failure or left ventricular ejection fraction &#x02264;40%.</p></fn><fn id="jah31637-note-0005"><label>c</label><p>History of major bleeding and predisposition (anemia).</p></fn><fn id="jah31637-note-0006"><label>d</label><p>Creatinine clearance &#x0003c;30&#x000a0;mL/min.</p></fn><fn id="jah31637-note-0007"><label>e</label><p>Aminotransferase &#x0003e;3&#x000d7; upper limit of normal.</p></fn><fn id="jah31637-note-0008"><label>f</label><p>&#x02265;Eight&#x000a0;units alcohol per week.</p></fn></table-wrap-foot></table-wrap><table-wrap id="jah31637-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Diagnoses, Which Were the Main Reason for Hospital Admission, Stratified by Randomization Group</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Reason</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Group</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Control</th><th align="left" valign="top" rowspan="1" colspan="1">Alert</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Cardiovascular disease/rhythm disorder</td><td align="left" rowspan="1" colspan="1">129 (29.7)</td><td align="left" rowspan="1" colspan="1">138 (30.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart failure (NYHA III and IV)</td><td align="left" rowspan="1" colspan="1">31 (7.1)</td><td align="left" rowspan="1" colspan="1">26 (5.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Acute stroke (ischemic or hemorrhagic)</td><td align="left" rowspan="1" colspan="1">27 (6.2)</td><td align="left" rowspan="1" colspan="1">35 (7.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Cancer</td><td align="left" rowspan="1" colspan="1">48 (11.1)</td><td align="left" rowspan="1" colspan="1">46 (10.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Nonpulmonary infection or sepsis</td><td align="left" rowspan="1" colspan="1">35 (8.1)</td><td align="left" rowspan="1" colspan="1">35 (7.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Gastrointestinal bleeding</td><td align="left" rowspan="1" colspan="1">11 (2.5)</td><td align="left" rowspan="1" colspan="1">6 (1.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Pneumonia</td><td align="left" rowspan="1" colspan="1">8 (1.8)</td><td align="left" rowspan="1" colspan="1">6 (1.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">COPD</td><td align="left" rowspan="1" colspan="1">3 (0.7)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Renal failure<xref ref-type="fn" rid="jah31637-note-0010">a</xref>
+</td><td align="left" rowspan="1" colspan="1">8 (1.8)</td><td align="left" rowspan="1" colspan="1">5 (1.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Inflammatory or rheumatic disease</td><td align="left" rowspan="1" colspan="1">4 (0.9)</td><td align="left" rowspan="1" colspan="1">4 (0.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Liver cirrhosis or hepatobiliary disease</td><td align="left" rowspan="1" colspan="1">2 (0.5)</td><td align="left" rowspan="1" colspan="1">7 (1.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Endocrine disease (including diabetes)</td><td align="left" rowspan="1" colspan="1">1 (0.2)</td><td align="left" rowspan="1" colspan="1">3 (0.7)</td></tr><tr><td align="left" rowspan="1" colspan="1">Hematological disease (nonmalignant)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">1 (0.2)</td></tr><tr><td align="left" rowspan="1" colspan="1">Other medical condition</td><td align="left" rowspan="1" colspan="1">127 (29.3)</td><td align="left" rowspan="1" colspan="1">143 (31.4)</td></tr></tbody></table><table-wrap-foot><fn id="jah31637-note-0009"><p>Values are numbers and percentages. COPD indicates chronic obstructive pulmonary disease; NYHA, New York Heart Association.</p></fn><fn id="jah31637-note-0010"><label>a</label><p>Creatinine clearance &#x0003c;30&#x000a0;mL/min.</p></fn></table-wrap-foot></table-wrap><p>Very few patients had a CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASC score of 0, and there were only 10 women with a CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASC score of 1 (Table&#x000a0;S1). Overall, 856 (96.3%) of the patients were OAC candidates based on the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASC score. There was no difference in the proportion of OAC candidates based on the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASC score between the alert (443; 97.4%) and the control (413; 95.2%) groups (<italic>P</italic>=0.083). On the other hand, 391 (44.0%) patients had a HASBLED score of &#x02265;3. There was no difference in the proportion of patients with HASBLED score of &#x02265;3 between the alert (208; 45.7%) and the control (183; 42.2%) groups (<italic>P</italic>=0.287). There were only 32 (3.6%) patients with a HASBLED score &#x02265;5 (Table&#x000a0;S2). There was no difference in the proportion of patients with HASBLED score of &#x02265;5 between the alert (16; 3.5%) and the control (16; 3.7%) groups (<italic>P</italic>=0.892).</p></sec><sec id="jah31637-sec-0013"><title>End Points</title><p>Overall, 100 (22.0%) patients from the alert group versus 69 (15.9%) from the control group received an adequate OAC prescription (Table<italic>&#x000a0;</italic>
+<xref rid="jah31637-tbl-0003" ref-type="table-wrap">3</xref>) (relative risk 1.38; <italic>P</italic>=0.021). In patients who did not receive an adequate OAC prescription at discharge, aspirin 100&#x000a0;mg per day was ordered in 199 (56.1%) patients from the alert group and 183 (50.3%) patients from the control group (<italic>P</italic>=0.12); an adenosine diphosphate&#x02010;receptor antagonist was ordered in 81 (22.8%) versus 81 (22.3%), respectively (<italic>P</italic>=0.86); dual antiplatelet therapy was ordered in 55 (15.5%) and 63 (17.3%), respectively (<italic>P</italic>=0.51). OAC or antiplatelet therapy was prescribed in 325 (71.4%) patients from the alert group versus 271 (62.4%) from the control group (<italic>P</italic>=0.004).</p><table-wrap id="jah31637-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Vitamin K Antagonist and Direct Oral Anticoagulant Therapy Stratified for Randomization Group</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Group</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>P</italic> Value<xref ref-type="fn" rid="jah31637-note-0012">a</xref>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Control</th><th align="left" valign="top" rowspan="1" colspan="1">Alert</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">Any prescription</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vitamin K antagonist</td><td align="left" rowspan="1" colspan="1">32 (7.4)</td><td align="left" rowspan="1" colspan="1">52 (11.4)</td><td align="left" rowspan="1" colspan="1">0.039</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Direct oral anticoagulant</td><td align="left" rowspan="1" colspan="1">38 (8.8)</td><td align="left" rowspan="1" colspan="1">48 (10.5)</td><td align="left" rowspan="1" colspan="1">0.366</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">70 (16.1)</td><td align="left" rowspan="1" colspan="1">100 (22.0)</td><td align="left" rowspan="1" colspan="1">0.027</td></tr><tr><td align="left" colspan="4" rowspan="1">Adequate prescription</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Vitamin K antagonist</td><td align="left" rowspan="1" colspan="1">32 (7.4)</td><td align="left" rowspan="1" colspan="1">52 (11.4)</td><td align="left" rowspan="1" colspan="1">0.039</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Direct oral anticoagulant</td><td align="left" rowspan="1" colspan="1">37 (8.5)</td><td align="left" rowspan="1" colspan="1">48 (10.5)</td><td align="left" rowspan="1" colspan="1">0.305</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Total</td><td align="left" rowspan="1" colspan="1">69 (15.9)</td><td align="left" rowspan="1" colspan="1">100 (22.0)</td><td align="left" rowspan="1" colspan="1">0.021</td></tr></tbody></table><table-wrap-foot><fn id="jah31637-note-0011"><p>Values are numbers and percentages.</p></fn><fn id="jah31637-note-0012"><label>a</label><p>Calculated with &#x003c7;<sup>2</sup> test.</p></fn></table-wrap-foot></table-wrap><p>In 48 (10.5%) patients from the alert group, physicians used the electronic entry system to calculate the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score. Among these, 19 (39.6%) calculations were identical as compared with data obtained from discharge letters and 16 (37.5%) calculations differed by 1 point. Only 1 patient judged to have an increased score according to information from the discharge letter was classified as a low&#x02010;risk patient by the physician in charge. In patients from the alert group, an OAC prescription was present in 11 (22.9%) patients whose physicians used the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score calculation tool and 89 (21.9%) patients whose physicians did not use it (<italic>P</italic>=0.87).</p></sec></sec><sec id="jah31637-sec-0014"><title>Discussion</title><p>In this randomized controlled clinical trial, the computer&#x02010;based alert system increased adequate OAC prescription rates as compared to standard of care among consecutive hospitalized OAC&#x02010;na&#x000ef;ve patients with AF.</p><p>The finding is in agreement with the results of a previous study from our group testing the effectiveness of a clinical decision support system in the prevention of venous thromboembolism.<xref rid="jah31637-bib-0016" ref-type="ref">16</xref> Taken the findings from these 2 randomized trials together, there is increasing evidence supporting the implementation of computerized decision support systems in cardiovascular medicine. Both alert systems significantly increased adequate prescription rates. In the present study, the observed rates of adequate OAC prescription of 22.0% in the alert group and 15.9% in the control group were somewhat lower than expected (30% versus 20%), respectively.</p><p>Of note, the tool to calculate the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score was used in a minority of patients. Nevertheless, a simple reminder of untreated AF has obviously increased awareness and improved treatment quality offered by the physicians in charge.</p><p>Due to the poor use of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score tool, we were only able to evaluate the accuracy of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score calculation in about 10% of the patients from the alert group. As compared with our calculations of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score based on information from discharge letters, the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc scores calculated with the tool were quite accurate. Only 1 patient was classified as low risk by the tool but as high risk by information from the discharge letter. Interestingly, the use of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score calculation tool had no impact on the OAC prescription rate. Reasons for not using the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score tool may include knowledge of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score prior to the alert, time constraints, the high rate of non&#x02010;sense alerts, and known contraindication to OAC because of an increased risk of bleeding. In this respect it was notable that &#x02248;40% of the patients in the study had a HASBLED score &#x02265;3, indicating increased bleeding risk.<xref rid="jah31637-bib-0011" ref-type="ref">11</xref> This may also be a reason for the overall low OAC prescription rate in the study. Of relevance, a considerable amount of patients received antiplatelet therapy, and as compared with the control group more patients from&#x000a0;the alert group received OAC or antiplatelet therapy. A&#x000a0;previous clinical decision support system was developed to facilitate clinical decision making with regard to OAC treatment in AF patients.<xref rid="jah31637-bib-0018" ref-type="ref">18</xref> This system included both the calculation of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc and the HASBLED scores. However, it did not include what we think is the main benefit of our electronic alert system, namely, to issue alerts to patients with suspected AF without an active OAC prescription.</p><p>A limitation of our alert system was the high rate of non&#x02010;sense alerts for patients who were not OAC&#x02010;na&#x000ef;ve because alerts were often issued before anticoagulation treatment was ordered through the electronic prescription system. Prior to the randomization phase, the rate of non&#x02010;sense alerts was reduced by issuing alerts not directly on admission but 24&#x000a0;hours after the onset of the hospital stay. Very few departments at the Inselspital did use the electronic patient chart only for entering diagnoses but not for prescription of pharmaceutical treatments. This problem was then solved through sending alerts only if at least 1 drug has been prescribed through the alert system at 24&#x000a0;hours. Another problem was that many patients had paused OAC therapy due to planned surgical procedures. Patients with paused OAC therapy were identified by reviewing medical discharge letters and then excluded from the analysis. In addition, alerts were issued for several patients in whom AF was identified by the alert system but not confirmed by the treating physician. We think that the use of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score calculation tool and the rate of adequate OAC prescription can be further improved by reducing the rate of non&#x02010;sense alerts. We plan to continuously improve the identification of OAC&#x02010;na&#x000ef;ve patients and integrate the alert system in routine clinical practice. Further limitations of our study were the single&#x02010;center setting, and the lack of systematic evaluation of why anticoagulation was not given. Physicians' acceptance of the alert was not assessed systematically either, nor was the potential impact of other electronic alert systems on the present alert system considered. The strengths of the present study include its randomized design and chart reviews of bleeding and stroke risks. The intervention was designed to modify physician behavior, but randomization was at the patient level. Since individual physicians may have treated several patients, the observations are not independent, and the outcome analysis typically should account for clustering of patients within physicians. However, since more than 500 physicians were involved in the study, such a cluster analysis was deemed less helpful.</p><p>An increase in the prescription rate of anticoagulant treatment in AF may translate into a reduction of the future risk of stroke. We did not collect data to investigate the effect of the alert system on the risk of stroke and systemic embolism. A prospective multicenter trial testing the effects of the alert system on end points is therefore encouraged. The total cost for the entire project was US $230&#x000a0;000, of which the majority was used for developing and testing of the alert system. Therefore, the implementation of the alert system in other hospitals seems feasible.</p><p>In conclusion, we developed and tested a novel electronic decision support system for improving adequate stroke prevention measures among hospitalized OAC&#x02010;na&#x000ef;ve patients with AF. In comparison to routine clinical practice, this alert system modestly increased adequate OAC prescription. Our results suggest that hospitals with electronic patient chart and order entry systems may consider implementing similar computer&#x02010;based alerts to increase physician awareness of untreated AF.</p></sec><sec id="jah31637-sec-0016"><title>Sources of Funding</title><p>The project was supported by an unrestricted grant from Bayer Healthcare AG (Leverkusen, Germany) and by a grant from the Inselspital Foundation (Bern, Switzerland).</p></sec><sec id="jah31637-sec-0017"><title>Disclosures</title><p>Silbernagel received minor honoraria, travel funding, and a research grant from Amgen Inc., Thousand Oaks, CA. Kucher received speaker honoraria from Bayer Healthcare AG, Leverkusen, Germany. Spirk is an employee of Sanofi&#x02010;Aventis (Suisse) SA (Vernier, Switzerland).</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah31637-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1.</bold> The Categories of the CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc Score Stratified for Randomization Group</p><p>
+<bold>Table&#x000a0;S2.</bold> The Categories of the HASBLED Score Stratified for Randomization Group</p><p>
+<bold>Figure&#x000a0;S1.</bold> CHA<sub>2</sub>DS<sub>2</sub>&#x02010;VASc score calculation tool for physicians in charge of patients with atrial fibrillation but without ongoing oral anticoagulant treatment.</p></caption><media xlink:href="JAH3-5-e003776-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah31637-sec-0015"><title>Acknowledgments</title><p>The authors thank Stefanie Reusser and Diego Lopez for their technical assistance.</p></ack><ref-list content-type="cited-references" id="jah31637-bibl-0001"><title>References</title><ref id="jah31637-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah31637-cit-0001">
+<string-name>
+<surname>Schnabel</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Yin</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Gona</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Larson</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Beiser</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>McManus</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Newton&#x02010;Cheh</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Lubitz</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Magnani</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Ellinor</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Seshadri</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wolf</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Vasan</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>50&#x000a0;year trends in atrial fibrillation prevalence, incidence, risk factors, and mortality in the Framingham Heart Study: a cohort study</article-title>. <source>Lancet</source>. <year>2015</year>;<volume>386</volume>:<fpage>154</fpage>&#x02013;<lpage>162</lpage>.<pub-id pub-id-type="pmid">25960110</pub-id></mixed-citation></ref><ref id="jah31637-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah31637-cit-0002">
+<string-name>
+<surname>Chugh</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Havmoeller</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Narayanan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rienstra</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Benjamin</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Gillum</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>McAnulty</surname>
+<given-names>JH</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Zheng</surname>
+<given-names>ZJ</given-names>
+</string-name>, <string-name>
+<surname>Forouzanfar</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Naghavi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mensah</surname>
+<given-names>GA</given-names>
+</string-name>, <string-name>
+<surname>Ezzati</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>Worldwide epidemiology of atrial fibrillation: a Global Burden of Disease 2010 Study</article-title>. <source>Circulation</source>. <year>2014</year>;<volume>129</volume>:<fpage>837</fpage>&#x02013;<lpage>847</lpage>.<pub-id pub-id-type="pmid">24345399</pub-id></mixed-citation></ref><ref id="jah31637-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah31637-cit-0003">
+<string-name>
+<surname>Steger</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pratter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Martinek&#x02010;Bregel</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Avanzini</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Valentin</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Slany</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>St&#x000f6;llberger</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Stroke patients with atrial fibrillation have a worse prognosis than patients without: data from the Austrian Stroke registry</article-title>. <source>Eur Heart J</source>. <year>2004</year>;<volume>25</volume>:<fpage>1734</fpage>&#x02013;<lpage>1740</lpage>.<pub-id pub-id-type="pmid">15451152</pub-id></mixed-citation></ref><ref id="jah31637-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah31637-cit-0004">
+<string-name>
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Auricchio</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bax</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Crijns</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Camm</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Diener</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Goette</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hindricks</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hohnloser</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kappenberger</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kuck</surname>
+<given-names>KH</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Olsson</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Meinertz</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Priori</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ravens</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Steinbeck</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Svernhage</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Tijssen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Vincent</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Breithardt</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Outcome parameters for trials in atrial fibrillation: executive summary</article-title>. <source>Eur Heart J</source>. <year>2007</year>;<volume>28</volume>:<fpage>2803</fpage>&#x02013;<lpage>2817</lpage>.<pub-id pub-id-type="pmid">17897924</pub-id></mixed-citation></ref><ref id="jah31637-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah31637-cit-0005">
+<string-name>
+<surname>Goto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Bhatt</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Rother</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Alberts</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Ikeda</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Uchiyama</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>D'Agostino</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ohman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Liau</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Hirsch</surname>
+<given-names>AT</given-names>
+</string-name>, <string-name>
+<surname>Mas</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>PW</given-names>
+</string-name>, <string-name>
+<surname>Corbal&#x000e1;n</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Aichner</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>; <collab collab-type="authors">REACH Registry Investigators</collab>
+. <article-title>Prevalence, clinical profile, and cardiovascular outcomes of atrial fibrillation patients with atherothrombosis</article-title>. <source>Am Heart J</source>. <year>2008</year>;<volume>156</volume>:<fpage>855</fpage>&#x02013;<lpage>863</lpage>.<pub-id pub-id-type="pmid">19061698</pub-id></mixed-citation></ref><ref id="jah31637-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah31637-cit-0006">
+<string-name>
+<surname>January</surname>
+<given-names>CT</given-names>
+</string-name>, <string-name>
+<surname>Wann</surname>
+<given-names>LS</given-names>
+</string-name>, <string-name>
+<surname>Alpert</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Calkins</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Cigarroa</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Cleveland</surname>
+<given-names>JC</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Conti</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Ellinor</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Ezekowitz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Field</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Murray</surname>
+<given-names>KT</given-names>
+</string-name>, <string-name>
+<surname>Sacco</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Stevenson</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Tchou</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Tracy</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>; <collab collab-type="authors">ACC/AHA Task Force Members</collab>
+. <article-title>2014 AHA/ACC/HRS guideline for the management of patients with atrial fibrillation: executive summary: a report of the American College of Cardiology/American Heart Association Task Force on practice guidelines and the Heart Rhythm Society</article-title>. <source>Circulation</source>. <year>2014</year>;<volume>130</volume>:<fpage>2071</fpage>&#x02013;<lpage>2104</lpage>.<pub-id pub-id-type="pmid">24682348</pub-id></mixed-citation></ref><ref id="jah31637-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah31637-cit-0007">
+<string-name>
+<surname>Connolly</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Ezekowitz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Yusuf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eikelboom</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Oldgren</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Parekh</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pogue</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Reilly</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Themeles</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Varrone</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Alings</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Xavier</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Darius</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Diener</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>Joyner</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>; <collab collab-type="authors">RE&#x02010;LY Steering Committee and Investigators</collab>
+. <article-title>Dabigatran versus warfarin in patients with atrial fibrillation</article-title>. <source>N Engl J Med</source>. <year>2009</year>;<volume>361</volume>:<fpage>1139</fpage>&#x02013;<lpage>1151</lpage>.<pub-id pub-id-type="pmid">19717844</pub-id></mixed-citation></ref><ref id="jah31637-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah31637-cit-0008">
+<string-name>
+<surname>Connolly</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Ezekowitz</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Yusuf</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Reilly</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Newly identified events in the RE&#x02010;LY trial</article-title>. <source>N Engl J Med</source>. <year>2010</year>;<volume>363</volume>:<fpage>1875</fpage>&#x02013;<lpage>1876</lpage>.<pub-id pub-id-type="pmid">21047252</pub-id></mixed-citation></ref><ref id="jah31637-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah31637-cit-0009">
+<string-name>
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Alexander</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>McMurray</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Lopes</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Hylek</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Hanna</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Khalidi</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Ansell</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Atar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Avezum</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Bahit</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Diaz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Easton</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Ezekowitz</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Flaker</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Garcia</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Geraldes</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gersh</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Golitsyn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Goto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hermosillo</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Hohnloser</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Horowitz</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mohan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Jansky</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Lopez&#x02010;Sendon</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Pais</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Parkhomenko</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Verheugt</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Zhu</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Wallentin</surname>
+<given-names>L</given-names>
+</string-name>; <collab collab-type="authors">ARISTOTLE Committees and Investigators</collab>
+. <article-title>Apixaban versus warfarin in patients with atrial fibrillation</article-title>. <source>N Engl J Med</source>. <year>2011</year>;<volume>365</volume>:<fpage>981</fpage>&#x02013;<lpage>992</lpage>.<pub-id pub-id-type="pmid">21870978</pub-id></mixed-citation></ref><ref id="jah31637-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah31637-cit-0010">
+<string-name>
+<surname>Patel</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Garg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Singer</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Hacke</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Breithardt</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Halperin</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Hankey</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Piccini</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Nessel</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Paolini</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Berkowitz</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Fox</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Califf</surname>
+<given-names>RM</given-names>
+</string-name>; <collab collab-type="authors">ROCKET AF Investigators</collab>
+. <article-title>Rivaroxaban versus warfarin in nonvalvular atrial fibrillation</article-title>. <source>N Engl J Med</source>. <year>2011</year>;<volume>365</volume>:<fpage>883</fpage>&#x02013;<lpage>891</lpage>.<pub-id pub-id-type="pmid">21830957</pub-id></mixed-citation></ref><ref id="jah31637-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah31637-cit-0011">
+<string-name>
+<surname>Camm</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>De Caterina</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Savelieva</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Atar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Hohnloser</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Hindricks</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kirchhof</surname>
+<given-names>P</given-names>
+</string-name>; <collab collab-type="authors">ESC Committee for Practice Guidelines (CPG)</collab>
+. <article-title>2012 focused update of the ESC guidelines for the management of atrial fibrillation: an update of the 2010 ESC guidelines for the management of atrial fibrillation. Developed with the special contribution of the European Heart Rhythm Association</article-title>. <source>Eur Heart J</source>. <year>2012</year>;<volume>33</volume>:<fpage>2719</fpage>&#x02013;<lpage>2747</lpage>.<pub-id pub-id-type="pmid">22922413</pub-id></mixed-citation></ref><ref id="jah31637-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah31637-cit-0012">
+<string-name>
+<surname>Kakkar</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Bassand</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Fitzmaurice</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Goldhaber</surname>
+<given-names>SZ</given-names>
+</string-name>, <string-name>
+<surname>Goto</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Haas</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Hacke</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Mantovani</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Verheugt</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Jamal</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Misselwitz</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rushton&#x02010;Smith</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Turpie</surname>
+<given-names>AG</given-names>
+</string-name>. <article-title>Risk profiles and antithrombotic treatment of patients newly diagnosed with atrial fibrillation at risk of stroke: perspectives from the international, observational, prospective GARFIELD registry</article-title>. <source>PLoS One</source>. <year>2013</year>;<volume>8</volume>:<fpage>e63479</fpage>.<pub-id pub-id-type="pmid">23704912</pub-id></mixed-citation></ref><ref id="jah31637-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah31637-cit-0013">
+<string-name>
+<surname>Fuster</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>A first dilemma in cardiovascular medicine: adherence versus personalized therapy</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>64</volume>:<fpage>1059</fpage>&#x02013;<lpage>1060</lpage>.<pub-id pub-id-type="pmid">25190242</pub-id></mixed-citation></ref><ref id="jah31637-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah31637-cit-0014">
+<string-name>
+<surname>Dexter</surname>
+<given-names>PR</given-names>
+</string-name>, <string-name>
+<surname>Perkins</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Overhage</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Maharry</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kohler</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>CJ</given-names>
+</string-name>. <article-title>A computerized reminder system to increase the use of preventive care for hospitalized patients</article-title>. <source>N Engl J Med</source>. <year>2001</year>;<volume>345</volume>:<fpage>965</fpage>&#x02013;<lpage>970</lpage>.<pub-id pub-id-type="pmid">11575289</pub-id></mixed-citation></ref><ref id="jah31637-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah31637-cit-0015">
+<string-name>
+<surname>Durieux</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Nizard</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Ravaud</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mounier</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Lepage</surname>
+<given-names>E</given-names>
+</string-name>. <article-title>A clinical decision support system for prevention of venous thromboembolism: effect on physician behavior</article-title>. <source>JAMA</source>. <year>2000</year>;<volume>283</volume>:<fpage>2816</fpage>&#x02013;<lpage>2821</lpage>.<pub-id pub-id-type="pmid">10838650</pub-id></mixed-citation></ref><ref id="jah31637-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah31637-cit-0016">
+<string-name>
+<surname>Kucher</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Koo</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Quiroz</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Paterno</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Soukonnikov</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Goldhaber</surname>
+<given-names>SZ</given-names>
+</string-name>. <article-title>Electronic alerts to prevent venous thromboembolism among hospitalized patients</article-title>. <source>N Engl J Med</source>. <year>2005</year>;<volume>352</volume>:<fpage>969</fpage>&#x02013;<lpage>977</lpage>.<pub-id pub-id-type="pmid">15758007</pub-id></mixed-citation></ref><ref id="jah31637-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah31637-cit-0017">
+<string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Frison</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Halperin</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Lane</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Comparative validation of a novel risk score for predicting bleeding risk in anticoagulated patients with atrial fibrillation: the HAS&#x02010;BLED (Hypertension, Abnormal Renal/Liver Function, Stroke, Bleeding History or Predisposition, Labile INR, Elderly, Drugs/Alcohol Concomitantly) score</article-title>. <source>J Am Coll Cardiol</source>. <year>2011</year>;<volume>57</volume>:<fpage>173</fpage>&#x02013;<lpage>180</lpage>.<pub-id pub-id-type="pmid">21111555</pub-id></mixed-citation></ref><ref id="jah31637-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah31637-cit-0018">
+<string-name>
+<surname>LaHaye</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Gibbens</surname>
+<given-names>SL</given-names>
+</string-name>, <string-name>
+<surname>Ball</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Day</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Olesen</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Skanes</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>A clinical decision aid for the selection of antithrombotic therapy for the prevention of stroke due to atrial fibrillation</article-title>. <source>Eur Heart J</source>. <year>2012</year>;<volume>33</volume>:<fpage>2163</fpage>&#x02013;<lpage>2171</lpage>.<pub-id pub-id-type="pmid">22752615</pub-id></mixed-citation></ref></ref-list></back></article>

@@ -1,0 +1,596 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">PLoS One</journal-id><journal-id journal-id-type="iso-abbrev">PLoS ONE</journal-id><journal-id journal-id-type="publisher-id">plos</journal-id><journal-id journal-id-type="pmc">plosone</journal-id><journal-title-group><journal-title>PLoS ONE</journal-title></journal-title-group><issn pub-type="epub">1932-6203</issn><publisher><publisher-name>Public Library of Science</publisher-name><publisher-loc>San Francisco, USA</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">22412837</article-id><article-id pub-id-type="pmc">3296686</article-id><article-id pub-id-type="publisher-id">PONE-D-11-18100</article-id><article-id pub-id-type="doi">10.1371/journal.pone.0031516</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Article</subject></subj-group><subj-group subj-group-type="Discipline-v2"><subject>Medicine</subject><subj-group><subject>Drugs and Devices</subject></subj-group><subj-group><subject>Endocrinology</subject><subj-group><subject>Diabetic Endocrinology</subject></subj-group></subj-group><subj-group><subject>Gastroenterology and Hepatology</subject><subj-group><subject>Liver Diseases</subject><subj-group><subject>Infectious Hepatitis</subject></subj-group></subj-group></subj-group><subj-group><subject>Global Health</subject></subj-group><subj-group><subject>Infectious Diseases</subject></subj-group></subj-group></article-categories><title-group><article-title>Pioglitazone Decreases Hepatitis C Viral Load in Overweight, Treatment Na&#x000ef;ve, Genotype 4 Infected-Patients: A Pilot Study</article-title><alt-title alt-title-type="running-head">Pioglitazone and Hepatitis C Viral Load</alt-title></title-group><contrib-group><contrib contrib-type="author"><name><surname>Chojkier</surname><given-names>Mario</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref><xref ref-type="corresp" rid="cor1">
+<sup>&#x0002a;</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Elkhayat</surname><given-names>Hisham</given-names></name><xref ref-type="aff" rid="aff5">
+<sup>5</sup>
+</xref><xref ref-type="aff" rid="aff6">
+<sup>6</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Sabry</surname><given-names>Dina</given-names></name><xref ref-type="aff" rid="aff7">
+<sup>7</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Donohue</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="aff4">
+<sup>4</sup>
+</xref><xref ref-type="aff" rid="aff8">
+<sup>8</sup>
+</xref></contrib><contrib contrib-type="author"><name><surname>Buck</surname><given-names>Martina</given-names></name><xref ref-type="aff" rid="aff1">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="aff2">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="aff3">
+<sup>3</sup>
+</xref></contrib></contrib-group><aff id="aff1">
+<label>1</label>
+<addr-line>Department of Medicine, San Diego VA Healthcare System, San Diego, California, United States of America</addr-line>
+</aff><aff id="aff2">
+<label>2</label>
+<addr-line>Department of Medicine, University of California San Diego, La Jolla, California, United States</addr-line>
+</aff><aff id="aff3">
+<label>3</label>
+<addr-line>Biomedical Sciences Program, University of California San Diego, La Jolla, California, United States of America</addr-line>
+</aff><aff id="aff4">
+<label>4</label>
+<addr-line>Clinical Translational Research Institute, University of California San Diego, La Jolla, California, United States of America</addr-line>
+</aff><aff id="aff5">
+<label>5</label>
+<addr-line>Hepatology Department, Theodor Bilharz Research Institute, Giza, Egypt</addr-line>
+</aff><aff id="aff6">
+<label>6</label>
+<addr-line>Hepatology Clinic, Agouza Hospital, Ministry of Health, Giza, Egypt</addr-line>
+</aff><aff id="aff7">
+<label>7</label>
+<addr-line>Department of Medical Biochemistry, Faculty of Medicine, Cairo University, Cairo, Egypt</addr-line>
+</aff><aff id="aff8">
+<label>8</label>
+<addr-line>Division of Biostatistics and Bioinformatics, Department of Family and Preventive, University of California San Diego, San Diego, California, United States of America</addr-line>
+</aff><contrib-group><contrib contrib-type="editor"><name><surname>Tavis</surname><given-names>John E.</given-names></name><role>Editor</role><xref ref-type="aff" rid="edit1"/></contrib></contrib-group><aff id="edit1">Saint Louis University, United States of America</aff><author-notes><corresp id="cor1">&#x0002a; E-mail: <email>mchojkier@ucsd.edu</email></corresp><fn fn-type="con"><p>Conceived and designed the experiments: MC MB. Performed the experiments: HE DS. Analyzed the data: MC MB MD. Contributed reagents/materials/analysis tools: HE MC MB MD. Wrote the paper: MC MB.</p></fn></author-notes><pub-date pub-type="collection"><year>2012</year></pub-date><pub-date pub-type="epub"><day>7</day><month>3</month><year>2012</year></pub-date><volume>7</volume><issue>3</issue><elocation-id>e31516</elocation-id><history><date date-type="received"><day>14</day><month>9</month><year>2011</year></date><date date-type="accepted"><day>9</day><month>1</month><year>2012</year></date></history><permissions><copyright-statement>This is an open-access article, free of all copyright, and may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose. The work is made available under the Creative Commons CC0 public domain dedication.</copyright-statement><copyright-year>2012</copyright-year><license xlink:href="https://creativecommons.org/publicdomain/zero/1.0/"><license-p>This is an open-access article distributed under the terms of the Creative Commons Public Domain declaration, which stipulates that, once placed in the public domain, this work may be freely reproduced, distributed, transmitted, modified, built upon, or otherwise used by anyone for any lawful purpose.</license-p></license></permissions><abstract><sec><title>Background</title><p>Insulin resistance (IR) is induced by chronic hepatitis C virus (HCV) genotypes 1 and 4 infections. It is not known whether drugs that affect IR such as Pioglitazone and Prednisone also affect serum HCV RNA titers independently of PEG-Interferon-&#x003b1;2/ribavirin treatment. The primary aim was to assess whether Pioglitazone by improving IR and/or inflammation decreases HCV viral load independently of standard of care HCV treatment. A secondary aim was to assess whether Prednisone, a drug that induces insulin resistance and stimulates HCV viral entry and replication in replicon culture systems, increases HCV viral load in this population.</p></sec><sec><title>Methodology/Principal Findings</title><p>We designed a two-arm, parallel Pilot Study of overweight, treatment na&#x000ef;ve genotype 4 HCV-infected patients at a public referral Liver Clinic in Giza, Egypt. The subjects received Pioglitazone (30 mg/day for 14 days) or Prednisone (40 mg/day for 4 days) in a randomized fashion, but the two arms can be considered independent pilot studies. Only changes from baseline within each arm were assessed and no contrasts of the interventions were made, as this was not an aim of the study. Among 105 consecutive HCV genotype 4 patients, 39 were enrolled based on the optimal sample size and power analysis according to the CONSORT statement; 20 to the Pioglitazone group and 19 to the Prednisone group. Pioglitazone was effective in decreasing serum HCV RNA at day-14 (n&#x0200a;=&#x0200a;10; difference of means&#x0200a;=&#x0200a;205,618 IU/ml; 95&#x00025; CI 26,600 to 384,600; <italic>P</italic>&#x0003c;0.001). Although Prednisone did increase serum HCV RNA at day-4 (n&#x0200a;=&#x0200a;10; change from baseline&#x0200a;=&#x0200a;&#x02212;42,786 IU/ml; 95&#x00025; CI &#x02212;85,500 to &#x02212;15,700; <italic>P</italic>&#x0200a;=&#x0200a;0.049), the log<sub>10</sub> HCV RNA titers were statistically not different from baseline day-0.</p></sec><sec><title>Conclusion/Significance</title><p>This is the first documentation that Pioglitazone decreases the serum HCV RNA titers independently of PEG-Interferon-&#x003b1;2/ribavirin treatment. The novel findings of our Study provide the foundation for basic and clinical investigations on the molecular mechanisms responsible for the Pioglitazone-induced decrease in HCV genotype 4 RNA titers.</p></sec><sec><title>Trial Registration</title><p>ClinicalTrials.gov <ext-link ext-link-type="uri" xlink:href="http://clinicaltrials.gov/ct2/show/NCT01157975">NCT01157975</ext-link>
+</p></sec></abstract><counts><page-count count="9"/></counts></article-meta></front><body><sec id="s1"><title>Introduction</title><p>Chronic hepatitis C viral (HCV) infection markedly increased the risk for type 2 diabetes in cohorts with recognized diabetes risk factors <xref rid="pone.0031516-Mehta1" ref-type="bibr">[1]</xref>. A meta-analysis also found that HCV infection is associated with excess type 2 diabetes risk <xref rid="pone.0031516-White1" ref-type="bibr">[2]</xref>. Moreover, IR is a specific feature of chronic HCV genotypes 1 and 4 infections since its prevalence is &#x0223c;7-fold higher among these patients compared to chronic Hepatitis B-infected patients <xref rid="pone.0031516-Moucari1" ref-type="bibr">[3]</xref>, and changes in IR occur among patients with chronic HCV infection during and after treatment of HCV with PEG-interferon-&#x003b1; and ribavirin <xref rid="pone.0031516-Conjeevaram1" ref-type="bibr">[4]</xref>.</p><p>In patients with genotypes 1, 2 and 3 increased IR was associated with decreased sustained virological response (SVR) <xref rid="pone.0031516-RomeroGomez1" ref-type="bibr">[5]</xref>. Among patients infected with genotype 1, decreases in Homeostasis Model Assessment (HOMA)-IR correlated with obtaining an SVR and increases in HOMA-IR were observed in patients who relapsed <xref rid="pone.0031516-Torres1" ref-type="bibr">[6]</xref>. Similarly, IR may correlate with the virological response to standard of care treatment of HCV genotype 4 patients in Egypt <xref rid="pone.0031516-Khattab1" ref-type="bibr">[7]</xref>.</p><p>Because Pioglitazone, a peroxisome proliferator-activated receptor (PPAR)-&#x003b3; agonist, improves insulin sensitivity <xref rid="pone.0031516-DeFronzo1" ref-type="bibr">[8]</xref> and it is also effective in controlling liver inflammation in subjects with non-alcoholic steatohepatitis (NASH) <xref rid="pone.0031516-Sanyal1" ref-type="bibr">[9]</xref>, it has been used as triple therapy in addition to PEG-interferon-&#x003b1; and ribavirin to treat HCV-infected patients. The study in HCV genotype 1 non-responders was terminated when none of the five patients responded to the triple therapy at week 12 <xref rid="pone.0031516-Overbeck1" ref-type="bibr">[10]</xref>. In contrast, Pioglitazone improved virological response to PEG-interferon &#x003b1;-2b/ribavirin combination therapy in hepatitis C genotype 4 treatment na&#x000ef;ve patients with insulin resistance <xref rid="pone.0031516-Khattab2" ref-type="bibr">[11]</xref>.</p><p>However, the mechanisms by which Pioglitazone influenced SVR in treatment na&#x000ef;ve patients with HCV genotype 4 infection remain unknown. It is unknown whether Pioglitazone modifies the bioavailability of PEG-interferon &#x003b1;-2b/ribavirin or directly or indirectly affects HCV infection and replication.</p><p>Therefore, we designed a Pilot Study to assess whether Pioglitazone decreases HCV viral load in overweight HCV genotype 4, treatment na&#x000ef;ve patients independently of standard of care PEG-interferon &#x003b1;-2b/ribavirin treatment. A secondary end-point was to analyze whether Prednisone, a drug that induces insulin resistance in susceptible patients <xref rid="pone.0031516-Willi1" ref-type="bibr">[12]</xref> and stimulates HCV viral entry and replication in replicon culture systems <xref rid="pone.0031516-Ciesek1" ref-type="bibr">[13]</xref>, increases HCV viral load in this population.</p><p>There were no data available on the effect of Pioglitazone or Prednisone on HCV RNA viral load in patients. Here, we provide the first documentation that Pioglitazone decreases the serum HCV genotype 4 RNA titers independently of treatment with PEG-Interferon-&#x003b1;2/ribavirin. Prednisone did increase serum HCV RNA viral load at day-4 in this cohort.</p></sec><sec sec-type="methods" id="s2"><title>Methods</title><p>The protocol for this trial and supporting CONSORT checklist are available as supporting information; see <xref ref-type="supplementary-material" rid="pone.0031516.s001">Checklist S1</xref> and <xref ref-type="supplementary-material" rid="pone.0031516.s002">Protocol S1</xref>.</p><sec id="s2a"><title>Participants</title><p>Eligible participants were all overweight (BMI&#x0003e;25 kg/m<sup>2</sup>), given their susceptibility for IR, adults age 25 to 65 years, with active HCV genotype 4 chronic infection (&#x0003e;10,000 IU/ml viral load) who had a liver biopsy within two years of recruitment (added to the protocol), were treatment na&#x000ef;ve (never treated for HCV infection) and met the eligibility criteria for the Study. Exclusion criteria included cirrhosis, the presence of other liver diseases, diabetes, pregnancy, significant clinical co-morbidities, and the inability to provide informed consent. Participants were recruited from July 2010 to February 2011 at the primary care referral of subjects of a disadvantaged social-economical group at the Agouza Hospital in Giza, Egypt. The estimated prevalence of Hepatitis C in Egypt is 12&#x00025; in adults.</p></sec><sec id="s2b"><title>Ethics</title><p>Written informed consent was obtained by the medical staff before entry into the Study. The study was registered at the clinicaltrials.gov website (NCT-01157975) and received Human Subjects' Research approval at the University of California, San Diego (UCSD Human Research protections Program) and at the Agouza Hospital, Giza, Egypt (Director's Research Board) before starting the study. The study protocol conforms to the ethical guidelines of the 1975 Declaration of Helsinki.</p></sec><sec id="s2c"><title>Objectives</title><p>Because the objective of the Study was to determine whether Pioglitazone and Prednisone treatment would affect the HCV RNA viral load (decrease and increase it, respectively), and these were not a treatment of the HCV infection in this situation, we decided not to use a placebo since we utilized de-identified samples to blinding the investigators analyzing the outcomes.</p></sec><sec id="s2d"><title>Interventions</title><p>Eligible subjects were randomly assigned to receive orally Pioglitazone 30 mg/day for 14 days or Prednisone 40 mg/day for 4 days. These medications were taken in the morning. Visits were at screening (up to 30 days before randomization); randomization (day -2); baseline visit (day 0); and follow-up visits for the Pioglitazone group (on days 2, 4, 7 and 14) and the Prednisone group (on days 2 and 4). For safety issues subjects were continued to be seen off protocol at day-7 post-treatment. Blood samples were obtained at each visit for HCV RNA viral load and for inflammatory, adipogenic, and insulin resistance markers. In addition, a 2-hr oral 75 g glucose tolerance test (OGTT) was performed after a 10-hr fast at day-0 before administration of the medication and at the last day of treatment (day-14 for Pioglitazone and day-4 for Prednisone). On all other visits, patients were also fasting. Patients received the first dose of the study drug (oral Pioglitazone 30 mg or Prednisone 40 mg) after blood samples were obtained on day 0. Compliance with the medication was &#x0003e;90&#x00025; as assessed at each visit.</p></sec><sec id="s2e"><title>Outcomes</title><p>The primary outcome with respect to the effect of Pioglitazone in HCV genotype 4 infections was the decrease in HCV RNA viral load at day 14. The secondary outcome with respect to the effect of Prednisone in HCV genotype 4 infections was the increase in HCV RNA viral load at day 4 instead of at day 14 for safety reasons given the potential adverse events associated with longer corticosteroid treatment.</p><p>Additional secondary outcome measures were insulin resistance (oral glucose tolerance test; serum insulin, C-peptide; HOMA-IR; insulin sensitivity check index (QUICKI); HOMA-B; sex hormone BG (SHBG); resistin; adiponectin) and liver injury (alanine aminotransferase (ALT); aspartate aminotransferase (AST)) and inflammation (serum interleukin (IL)-8, IL-28B, tumor necrosis factor (TNF), IL-1&#x003b1;, IL-1&#x003b2;, IL-6, IL-8, IL-10, IFN-&#x003b3;, monocyte chemokine protein (MCP) and hepatocyte growth factor (HGF)).</p><p>De-identified blood samples from all the enrolled subjects that received the treatments were analyzed for the standard clinical laboratory tests and for HCV RNA viral load using PCR amplification (COBAS, TACKMAN) (lowest detectable limit: 50 IU/ml).</p><p>A multiplex peptide detection system (Quansys Biosciences, Logan, UT) was utilized according to the manufacturer's protocol to determine inflammatory, adipogenic, and insulin resistance markers. Values calculated from individual pixels using the Q-View Imager system. An enzyme-linked immunosorbent assay kit was used to determine human adiponectin according to the manufacturer's protocol (BioVision, Mountain View, CA).</p><p>Surrogate indicators of insulin resistance and &#x003b2;-cell function were analyzed as described previously <xref rid="pone.0031516-HerzbergSchafer1" ref-type="bibr">[14]</xref>. The indicators of insulin resistance HOMA1-IR and QUICKI were determined. HOMA1-IR&#x0200a;=&#x0200a;(FSI&#x000d7;FSG)/22.5 where FSI is fasting serum insulin concentration (&#x000b5;U/l) and FSG is fasting serum glucose (mmol/l). QUICKI&#x0200a;=&#x0200a;1/[log (fasting insulin-&#x000b5;U/ml)&#x0002b;log (fasting glucose- mg/dl)]. &#x003b2;-Cell function was assessed by the HOMA &#x02013;B 20.I<sub>0</sub>/(G<sub>0</sub> -3.5); I<sub>0</sub>&#x0200a;=&#x0200a;fasting insulin in &#x000b5;U/ml and G<sub>0</sub>&#x0200a;=&#x0200a;fasting glucose in mmol/l <xref rid="pone.0031516-HerzbergSchafer1" ref-type="bibr">[14]</xref>.</p></sec><sec id="s2f"><title>Sample size</title><p>There were no data available on the effect of Pioglitazone or Prednisone on HCV RNA viral load. However, we considered a reduction of 25&#x00025; in HCV RNA viral load in 14 days to be relevant as proof of principle of the effects of Pioglitazone on HCV RNA titers. To detect a reduction of 25&#x00025; in HCV RNA in the Pioglitazone group at day-14 assuming a standard deviation of 20&#x00025; with a two-sided 5&#x00025; significance level and a power of 90&#x00025;, a sample size of 9 patients per group completing the study was necessary, and it was decided to enroll at least 19 subjects per group given an anticipated dropout rate of 50&#x00025; mainly prior to dosing. Because the cultural environment (unwillingness to tell the research staff that they cannot participate in the study) and the social conditions (such as severe problems with transportation and employer's authorization) were expected to prevent a significant proportion of patients to attend the Clinic for follow-up visits after randomization, a larger number of eligible subjects were randomized to achieve the desirable number of subjects completing the Study. To recruit this number of patients a 12-month inclusion period was anticipated. No interim analysis was performed during the trial. An intention-to-treat analysis was conducted in patients who had received &#x02265;1 dose of study medication (10 patients in each group was optimal based on sample size and power analysis).</p></sec><sec id="s2g"><title>Randomization&#x02014;Sequence generation</title><p>Participants were randomly assigned following simple randomization procedures (computerized random numbers) to one of two treatment groups. Independent pharmacists dispensed either Pioglitazone or Prednisone according to a computer generated randomization list.</p></sec><sec id="s2h"><title>Randomization&#x02014;Allocation concealment</title><p>The decision to accept or reject a participant was made, and informed consent was obtained from the participant, in ignorance of the next assignment in the sequence.</p></sec><sec id="s2i"><title>Randomization&#x02014;Implementation</title><p>Block randomization was by a computer generated random number list prepared by a pharmacist with no clinical involvement in the trial. After the research nurse had obtained the subject's consent, she contacted the pharmacist who was independent of the recruitment process for allocation consignment.</p></sec><sec id="s2j"><title>Blinding</title><p>Whereas patients and physicians allocated to the intervention groups were aware of the allocated arm, outcome assessors and data analysts of primary and secondary end-points were kept blinded to the allocation.</p></sec><sec id="s2k"><title>Statistical methods</title><p>An intention-to-treat analysis was conducted in patients who had received &#x02265;1 dose of study medication. The primary and secondary endpoints were assessed with a paired-sample t-test. We also explored correlations between IL8 and TNF&#x003b1; using Pearson's correlation coefficient with 95&#x00025; confidence intervals. The significance level was fixed at &#x003b1;&#x0200a;=&#x0200a;5&#x00025; for all tests. All analyses were carried using R version 2.12.2 (2011 Vienna, Austria; <ext-link ext-link-type="uri" xlink:href="http://www.R-project.org">http://www.R-project.org</ext-link>).</p></sec></sec><sec id="s3"><title>Results</title><sec id="s3a"><title>Participant Flow</title><p>The optimal subjects' recruitment number was pre-determined by sample size and power analysis as described above. One hundredth and five consecutive patients with chronic Hepatitis C genotype 4 referred to the Hepatology Clinic were assessed for eligibility (<xref ref-type="fig" rid="pone-0031516-g001">
+<bold>Fig. 1</bold>
+</xref>). Among these 105 patients, 66 were excluded because they did not meet the eligibility criteria (42 subjects), they refused to participate (8 subjects), or for other reasons (16 subjects). Therefore, 39 patients were randomized; 20 to the Pioglitazone group and 19 to the Prednisone group. Ten patients in each group received the allocated intervention, while 10 patients in the Pioglitazone group and 9 patients in the Prednisone group were unable to participate because of their inability to attend the Clinic visits. These patients did not receive the allocated intervention (<xref ref-type="fig" rid="pone-0031516-g001">
+<bold>Fig. 1</bold>
+</xref>). The randomized groups that received the allocated intervention were balanced in regards to age, gender, HCV genotype and titers and the severity of their liver disease (<xref ref-type="table" rid="pone-0031516-t001">
+<bold>Table 1</bold>
+</xref>).</p><fig id="pone-0031516-g001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.g001</object-id><label>Figure 1</label><caption><title>Participant Flow.</title><p>Patients with chronic Hepatitis C genotype 4 referred to the Hepatology Clinic were assessed for eligibility as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></caption><graphic xlink:href="pone.0031516.g001"/></fig><table-wrap id="pone-0031516-t001" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t001</object-id><label>Table 1</label><caption><title>Baseline demographic and clinical characteristics of treated subjects.</title></caption><alternatives><graphic id="pone-0031516-t001-1" xlink:href="pone.0031516.t001"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Pioglitazone (N&#x0200a;=&#x0200a;10)</td><td align="left" rowspan="1" colspan="1">Prednisone (N&#x0200a;=&#x0200a;10)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age</bold> (years)</td><td align="left" rowspan="1" colspan="1">44 (9.3)</td><td align="left" rowspan="1" colspan="1">42(10.4)</td><td align="left" rowspan="1" colspan="1">0.592</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Sex</bold> (male)</td><td align="left" rowspan="1" colspan="1">7 (70&#x00025;)</td><td align="left" rowspan="1" colspan="1">8 (80&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.429</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Ethnic origin: Arab</bold>
+</td><td align="left" rowspan="1" colspan="1">10 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">10 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.000</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Height</bold> (cm)</td><td align="left" rowspan="1" colspan="1">173 (5.8)</td><td align="left" rowspan="1" colspan="1">175(8.7)</td><td align="left" rowspan="1" colspan="1">0.458</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Weight</bold> (kg)</td><td align="left" rowspan="1" colspan="1">88.3 (9.2)</td><td align="left" rowspan="1" colspan="1">85.7(9.9)</td><td align="left" rowspan="1" colspan="1">0.550</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>BMI</bold> (kg/m<sup>2</sup>)</td><td align="left" rowspan="1" colspan="1">29.5(1.5)</td><td align="left" rowspan="1" colspan="1">27.9(1.6)</td><td align="left" rowspan="1" colspan="1">0.027</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HCV Genotype 4</bold>
+</td><td align="left" rowspan="1" colspan="1">10 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">10 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.000</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HCV RNA</bold> (log<sub>10</sub>)</td><td align="left" rowspan="1" colspan="1">5.41(0.80)</td><td align="left" rowspan="1" colspan="1">5.10(0.92)</td><td align="left" rowspan="1" colspan="1">0.432</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Albumin</bold> (g/dl)</td><td align="left" rowspan="1" colspan="1">3.8(0.3)</td><td align="left" rowspan="1" colspan="1">3.8(0.3)</td><td align="left" rowspan="1" colspan="1">0.939</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Total bilirubin</bold> (mg/dl)</td><td align="left" rowspan="1" colspan="1">0.97(0.15)</td><td align="left" rowspan="1" colspan="1">0.90 (0.16)</td><td align="left" rowspan="1" colspan="1">0.319</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>ALT</bold> (IU/ml)</td><td align="left" rowspan="1" colspan="1">63 (23)</td><td align="left" rowspan="1" colspan="1">53 (14)</td><td align="left" rowspan="1" colspan="1">0.283</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>AST</bold>(IU/ml)</td><td align="left" rowspan="1" colspan="1">54 (17)</td><td align="left" rowspan="1" colspan="1">52 (11)</td><td align="left" rowspan="1" colspan="1">0.795</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Metavir score:</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>A</bold> (inflammation)</td><td align="left" rowspan="1" colspan="1">A1(n:5) A2(n:5)</td><td align="left" rowspan="1" colspan="1">A1(n:5) A2(n:5)</td><td align="left" rowspan="1" colspan="1">1.000</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>F</bold>(fibrosis)</td><td align="left" rowspan="1" colspan="1">F1(n:7); F2(n:3)</td><td align="left" rowspan="1" colspan="1">F1(n:6); F2(n:4)</td><td align="left" rowspan="1" colspan="1">0.639</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt101"><label/><p>Data are means (SD) or numbers (&#x00025;).</p></fn></table-wrap-foot></table-wrap><p>The patients that did receive the allocated intervention were similar in demographics, ethnicity and degree of liver disease to those that did not receive the allocated intervention (<xref ref-type="table" rid="pone-0031516-t002">
+<bold>Table 2</bold>
+</xref>). By chance allocation, the serum ALT was lower in the group that received Prednisone than in the group that did not received the allocated Prednisone (53 vs 69 IU/ml; <italic>P</italic>&#x0200a;=&#x0200a;0.012) (<xref ref-type="table" rid="pone-0031516-t001">
+<bold>Tables 1</bold>
+</xref>
+<bold>and</bold>
+<xref ref-type="table" rid="pone-0031516-t002">
+<bold>2</bold>
+</xref>).</p><table-wrap id="pone-0031516-t002" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t002</object-id><label>Table 2</label><caption><title>Baseline demographic and clinical characteristics of non-treated subjects.</title></caption><alternatives><graphic id="pone-0031516-t002-2" xlink:href="pone.0031516.t002"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">Pioglitazone (N&#x0200a;=&#x0200a;10)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">Prednisone (N&#x0200a;=&#x0200a;9)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Age</bold> (years)</td><td align="left" rowspan="1" colspan="1">39 (4.2)</td><td align="left" rowspan="1" colspan="1">0.139</td><td align="left" rowspan="1" colspan="1">43(11.2)</td><td align="left" rowspan="1" colspan="1">0.842</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Sex</bold> (male)</td><td align="left" rowspan="1" colspan="1">6 (60&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.660</td><td align="left" rowspan="1" colspan="1">5 (55&#x00025;)</td><td align="left" rowspan="1" colspan="1">0.277</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Ethnic origin: Arab</bold>
+</td><td align="left" rowspan="1" colspan="1">10 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.000</td><td align="left" rowspan="1" colspan="1">9 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.000</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Height</bold> (cm)</td><td align="left" rowspan="1" colspan="1">172 (5.9)</td><td align="left" rowspan="1" colspan="1">0.706</td><td align="left" rowspan="1" colspan="1">177(8.1)</td><td align="left" rowspan="1" colspan="1">0.612</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Weight</bold> (kg)</td><td align="left" rowspan="1" colspan="1">85.7 (7.6)</td><td align="left" rowspan="1" colspan="1">0.499</td><td align="left" rowspan="1" colspan="1">84.8(8.8)</td><td align="left" rowspan="1" colspan="1">0.837</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>BMI</bold> (kg/m<sup>2</sup>)</td><td align="left" rowspan="1" colspan="1">28.8(2.1)</td><td align="left" rowspan="1" colspan="1">0.402</td><td align="left" rowspan="1" colspan="1">28.2(3.7)</td><td align="left" rowspan="1" colspan="1">0.818</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HCV Genotype 4</bold>
+</td><td align="left" rowspan="1" colspan="1">10 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.000</td><td align="left" rowspan="1" colspan="1">9 (100&#x00025;)</td><td align="left" rowspan="1" colspan="1">1.000</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>ALT</bold> (IU/ml)</td><td align="left" rowspan="1" colspan="1">68 (10)</td><td align="left" rowspan="1" colspan="1">0.536</td><td align="left" rowspan="1" colspan="1">69 (10)</td><td align="left" rowspan="1" colspan="1">0.012</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>AST</bold>(IU/ml)</td><td align="left" rowspan="1" colspan="1">63 (12)</td><td align="left" rowspan="1" colspan="1">0.188</td><td align="left" rowspan="1" colspan="1">57 (8)</td><td align="left" rowspan="1" colspan="1">0.278</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Metavir score:</bold>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>A</bold> (inflammation)</td><td align="left" rowspan="1" colspan="1">A1(n:4); A2(n:6)</td><td align="left" rowspan="1" colspan="1">0.673</td><td align="left" rowspan="1" colspan="1">A1(n:4); A2(n:5)</td><td align="left" rowspan="1" colspan="1">0.821</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>F</bold>(fibrosis)</td><td align="left" rowspan="1" colspan="1">F1(n:5); F2(n:5)</td><td align="left" rowspan="1" colspan="1">0.388</td><td align="left" rowspan="1" colspan="1">F1(n:5); F2(n:4)</td><td align="left" rowspan="1" colspan="1">0.855</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt102"><label/><p>Data are means (SD) or numbers (&#x00025;). <italic>P</italic> values are for comparisons between treated and untreated subjects within the same arm.</p></fn></table-wrap-foot></table-wrap><p>No participant was excluded after randomization because they were found not to meet eligibility criteria. All the patients allocated to the interventions (10 in each arm) completed the study (<xref ref-type="fig" rid="pone-0031516-g001">
+<bold>Fig. 1</bold>
+</xref>).</p></sec><sec id="s3b"><title>Baseline demographic and clinical characteristics</title><p>An intention-to-treat analysis was conducted in patients who had received &#x02265;1 dose of study medication; all of these patients had a subsequent efficacy observation (10 patients in each group). As outlined in <xref ref-type="table" rid="pone-0031516-t001">
+<bold>Table 1</bold>
+</xref>, all patients were middle age Egyptian Arabs, predominantly males that had HCV genotype 4 with mild or moderate inflammation (A1 and A2, respectively) and mild or moderate fibrosis (F1 and F2, respectively) on their liver biopsy. They had normal albumin and total bilirubin and mild increase in ALT/AST. All subjects were overweight and five were obese (body mass index, BMI; the weight in kg divided by the square of the height in meters was &#x0003e;29 kg/m<sup>2</sup>: 3 in the Pioglitazone group and 2 in the Prednisone group). By chance allocation, the BMI was higher in the group receiving Pioglitazone than in the group receiving Prednisone (29.5 vs 27.9 kg/m<sup>2</sup>; <italic>P</italic>&#x0200a;=&#x0200a;0.027) (<xref ref-type="table" rid="pone-0031516-t001">
+<bold>Table 1</bold>
+</xref>).</p><p>There was no indication that significant chance imbalances had occurred between the two groups. Further, no direct analysis between the two groups was intended for the primary or secondary end points. Rather, a comparison between baseline and post-treatment results within each group was the Pilot Study's intent.</p></sec><sec id="s3c"><title>Effect of Pioglitazone on Serum HCV RNA Titers</title><p>Pioglitazone decreased serum HCV RNA titers in overweight HCV genotype 4, treatment na&#x000ef;ve patients. In the Pioglitazone-treated group, the log<sub>10</sub> transformed HCV RNA titers were statistically different from baseline day-0 (5.41&#x0002b;/&#x02212;0.80) on day-14 (5.24&#x0002b;/&#x02212;0.79; <italic>P</italic>&#x0003c;0.001) and day-7 (5.30&#x0002b;/&#x02212;0.78; <italic>P</italic>&#x0200a;=&#x0200a;0.009) (<xref ref-type="table" rid="pone-0031516-t003">
+<bold>Table 3</bold>
+</xref>), providing evidence that Pioglitazone was effective in decreasing HCV RNA in this cohort of patients. Pioglitazone treatment decreased the HCV RNA from baseline in 9 out of 10 subjects at day-7. The log<sub>10</sub> HCV RNA values were also decreased by day-4 but they were statistically not different from baseline (5.38&#x0002b;/&#x02212;0.78; <italic>P</italic>&#x0200a;=&#x0200a;0.059). The log<sub>10</sub> HCV RNA values were not affected at day-2 by Pioglitazone treatment. Further, the decrease in the log<sub>10</sub> HCV RNA between day-7 and day-14 was highly significant (mean change&#x0200a;=&#x0200a;0.063; 95&#x00025; CI, 0.045; <italic>P</italic>&#x0003c;0.001) (<xref ref-type="table" rid="pone-0031516-t003">
+<bold>Table 3</bold>
+</xref>).</p><table-wrap id="pone-0031516-t003" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t003</object-id><label>Table 3</label><caption><title>Effects of Pioglitazone on serum HCV RNA titers.</title></caption><alternatives><graphic id="pone-0031516-t003-3" xlink:href="pone.0031516.t003"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Day</td><td align="left" rowspan="1" colspan="1">HCV (IU/ml &#x000d7;10<sup>&#x02212;3</sup>)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td><td align="left" rowspan="1" colspan="1">HCV log<sub>10</sub>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>0</bold>
+</td><td align="left" rowspan="1" colspan="1">608.2(696.4)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">5.41(0.80)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>2</bold>
+</td><td align="left" rowspan="1" colspan="1">586.9(663.9)</td><td align="left" rowspan="1" colspan="1">0.178</td><td align="left" rowspan="1" colspan="1">&#x02212;11.5, 53.9</td><td align="left" rowspan="1" colspan="1">5.41(0.78)</td><td align="left" rowspan="1" colspan="1">0.854</td><td align="left" rowspan="1" colspan="1">&#x02212;0.029</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>4</bold>
+</td><td align="left" rowspan="1" colspan="1">531.5(553.6)</td><td align="left" rowspan="1" colspan="1">0.151</td><td align="left" rowspan="1" colspan="1">&#x02212;33.6, 186.9</td><td align="left" rowspan="1" colspan="1">5.38(0.78)</td><td align="left" rowspan="1" colspan="1">0.077</td><td align="left" rowspan="1" colspan="1">&#x02212;0.002</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>7</bold>
+</td><td align="left" rowspan="1" colspan="1">455.3(504.4)</td><td align="left" rowspan="1" colspan="1">0.044</td><td align="left" rowspan="1" colspan="1">4.8, 300.7</td><td align="left" rowspan="1" colspan="1">5.30(0.78)</td><td align="left" rowspan="1" colspan="1">0.001</td><td align="left" rowspan="1" colspan="1">&#x02212;0.156</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>14</bold>
+</td><td align="left" rowspan="1" colspan="1">402.5(452.4)</td><td align="left" rowspan="1" colspan="1">0.029</td><td align="left" rowspan="1" colspan="1">26.6, 384.6</td><td align="left" rowspan="1" colspan="1">5.24(0.79)</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td><td align="left" rowspan="1" colspan="1">&#x02212;0.215</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt103"><label/><p>Values are mean (SD) of HCV RNA titers determined as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap><p>In spite of the variable baseline HCV RNA viral load, Pioglitazone also decreased significantly the absolute HCV RNA levels at day-14 (mean change&#x0200a;=&#x0200a;205,618 IU/ml; <italic>P</italic>&#x0200a;=&#x0200a;0.028) and at day-7 (mean change&#x0200a;=&#x0200a;152,772 IU/ml; <italic>P</italic>&#x0200a;=&#x0200a;0.044) (<xref ref-type="table" rid="pone-0031516-t003">
+<bold>Table 3</bold>
+</xref>).</p></sec><sec id="s3d"><title>Effect of Pioglitazone on Indices of Insulin Resistance</title><p>Pioglitazone treatment decreased by day-14 fasting serum glucose (Glucose-0) (mean change&#x0200a;=&#x0200a;8.2 mg/dL; <italic>P</italic>&#x0200a;=&#x0200a;0.024) as well as the 2-hr glucose (Glucose-120 min) after an OGTT (mean change&#x0200a;=&#x0200a;18.8 mg/dL; <italic>P</italic>&#x0200a;=&#x0200a;0.001) (<xref ref-type="table" rid="pone-0031516-t004">
+<bold>Table 4</bold>
+</xref>).</p><table-wrap id="pone-0031516-t004" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t004</object-id><label>Table 4</label><caption><title>Effects of Pioglitazone on glucose homeostasis, insulin resistance and secretion.</title></caption><alternatives><graphic id="pone-0031516-t004-4" xlink:href="pone.0031516.t004"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Test</td><td align="left" rowspan="1" colspan="1">Day-0</td><td align="left" rowspan="1" colspan="1">Day-14</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Glucose-0</bold> (mg/dL)</td><td align="left" rowspan="1" colspan="1">105 (11.4)</td><td align="left" rowspan="1" colspan="1">96.8 (6.8)</td><td align="left" rowspan="1" colspan="1">0.024</td><td align="left" rowspan="1" colspan="1">1.3, 15.1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Glucose-120</bold> (mg/dL)</td><td align="left" rowspan="1" colspan="1">120.6 (11.9)</td><td align="left" rowspan="1" colspan="1">101.8 (7.4)</td><td align="left" rowspan="1" colspan="1">0.0004</td><td align="left" rowspan="1" colspan="1">10.9, 26.7</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HOMA-IR</bold>
+</td><td align="left" rowspan="1" colspan="1">2.71 (1.61)</td><td align="left" rowspan="1" colspan="1">2.38 (1.60)</td><td align="left" rowspan="1" colspan="1">0.326</td><td align="left" rowspan="1" colspan="1">&#x02212;0.95</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>QUICK-I</bold>
+</td><td align="left" rowspan="1" colspan="1">0.339 (0.031)</td><td align="left" rowspan="1" colspan="1">0.348 (0.036)</td><td align="left" rowspan="1" colspan="1">0.587</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02026;&#x02026;</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HOMA-B</bold>
+</td><td align="left" rowspan="1" colspan="1">92.65 (57.5)</td><td align="left" rowspan="1" colspan="1">115.26 (90.85)</td><td align="left" rowspan="1" colspan="1">0.52</td><td align="left" rowspan="1" colspan="1">&#x02212;99.6, 54.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Insulin</bold> (&#x000b5;IU/ml)</td><td align="left" rowspan="1" colspan="1">10.4 (6.2)</td><td align="left" rowspan="1" colspan="1">10.1 (7.0)</td><td align="left" rowspan="1" colspan="1">0.914</td><td align="left" rowspan="1" colspan="1">&#x02212;6.2, 6.8</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>C-peptide</bold> (nmol/L)</td><td align="left" rowspan="1" colspan="1">6.4 (9.4)</td><td align="left" rowspan="1" colspan="1">9.6 (8.5)</td><td align="left" rowspan="1" colspan="1">0.278</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02212;</bold>9.5, 3.1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>SHBG</bold> (&#x000b5;g/ml)</td><td align="left" rowspan="1" colspan="1">3.8 (2.4)</td><td align="left" rowspan="1" colspan="1">1.7 (2.1)</td><td align="left" rowspan="1" colspan="1">0.062</td><td align="left" rowspan="1" colspan="1">&#x02212;140</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Adiponectin</bold> (&#x000b5;g/ml)</td><td align="left" rowspan="1" colspan="1">3.19 (1.32)</td><td align="left" rowspan="1" colspan="1">3.64 (1.71)</td><td align="left" rowspan="1" colspan="1">0.512</td><td align="left" rowspan="1" colspan="1">
+<bold>&#x02026;&#x02026;&#x02025;</bold>
+</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Resistin</bold> (ng/ml)</td><td align="left" rowspan="1" colspan="1">2,0 (0.2)</td><td align="left" rowspan="1" colspan="1">1,7 (0.6)</td><td align="left" rowspan="1" colspan="1">0.116</td><td align="left" rowspan="1" colspan="1">&#x02212;2.0</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt104"><label/><p>Values are mean (&#x0002b;/&#x02212; SD). Tests were performed as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap><p>However, Pioglitazone treatment did not affect by day-14 the following surrogate indicators of insulin resistance and secretion: HOMA-IR; QUICK-I; and HOMA-B. In addition, other surrogate indicators of insulin resistance were not affected by Pioglitazone treatment on day-14, including fasting serum insulin; C-peptide; SHBG; resistin; and adiponectin (<xref ref-type="table" rid="pone-0031516-t004">
+<bold>Table 4</bold>
+</xref>).</p></sec><sec id="s3e"><title>Effect of Pioglitazone on Indicators of Liver Injury and Inflammation</title><p>Elevated serum ALT and AST values are surrogate indicators of liver injury used in patient care and clinical research <xref rid="pone.0031516-Sanyal1" ref-type="bibr">[9]</xref>. Pioglitazone treatment decreased at day-14 serum ALT levels (mean change&#x0200a;=&#x0200a;7.5 IU/ml; 95&#x00025; CI: 2.1 to 12.9; <italic>P</italic>&#x0200a;=&#x0200a;0.012) and to a smaller degree serum AST levels (mean change&#x0200a;=&#x0200a;2.6 IU/ml; 95&#x00025; CI: &#x02212;0.6 to 5.8; <italic>P</italic>&#x0200a;=&#x0200a;0.096) (<xref ref-type="table" rid="pone-0031516-t005">
+<bold>Table 5</bold>
+</xref>).</p><table-wrap id="pone-0031516-t005" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t005</object-id><label>Table 5</label><caption><title>Effects of Pioglitazone on liver injury indicators.</title></caption><alternatives><graphic id="pone-0031516-t005-5" xlink:href="pone.0031516.t005"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Day</td><td align="left" rowspan="1" colspan="1">ALT (IU/L)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td><td align="left" rowspan="1" colspan="1">AST (IU/L)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>0</bold>
+</td><td align="left" rowspan="1" colspan="1">62.7 (23.1)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">53.6 (15.6)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>14</bold>
+</td><td align="left" rowspan="1" colspan="1">55.2(18.7)</td><td align="left" rowspan="1" colspan="1">0.0118</td><td align="left" rowspan="1" colspan="1">2.1, 12.9</td><td align="left" rowspan="1" colspan="1">51.0 (14.0)</td><td align="left" rowspan="1" colspan="1">0.0963</td><td align="left" rowspan="1" colspan="1">&#x02212;0.6, 5.8</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt105"><label/><p>Values are mean (&#x0002b;/&#x02212; SD). ALT and AST were determined as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap><p>It has been suggested that serum IL-8 values are elevated in HCV infection and that these values may reflect the effects of the HCV on <italic>il-8</italic> gene transcription <xref rid="pone.0031516-Wagoner1" ref-type="bibr">[15]</xref>. Pioglitazone increased serum IL-8 levels at day-14 when compared to baseline day-0 values (mean change&#x0200a;=&#x0200a;&#x02212;166.8 IU/ml; 95&#x00025; CI: &#x02212;300.1 to &#x02212;33.5; <italic>P</italic>&#x0200a;=&#x0200a;0.019) (<xref ref-type="table" rid="pone-0031516-t006">
+<bold>Table 6</bold>
+</xref>). Given the possible induction of IL-8 expression by TNF-&#x003b1; <xref rid="pone.0031516-Wagoner1" ref-type="bibr">[15]</xref>, we analyzed post-hoc their correlation by a Pearson's correlation coefficient. We found that there was a relatively strong correlation between serum IL-8 and serum TNF-&#x003b1; levels for day-0 and day-14 (n&#x0200a;=&#x0200a;20; r&#x0200a;=&#x0200a;0.64; 95&#x00025; CI&#x0200a;=&#x0200a;0.28 to 0.85; <italic>P</italic>&#x0200a;=&#x0200a;0.002).</p><table-wrap id="pone-0031516-t006" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t006</object-id><label>Table 6</label><caption><title>Effects of Pioglitazine on serum cytokines.</title></caption><alternatives><graphic id="pone-0031516-t006-6" xlink:href="pone.0031516.t006"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Serum Cytokine</td><td align="left" rowspan="1" colspan="1">Day-0</td><td align="left" rowspan="1" colspan="1">Day-14</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-8</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">181.0 (182.8)</td><td align="left" rowspan="1" colspan="1">347.8 (123.9)</td><td align="left" rowspan="1" colspan="1">0.020</td><td align="left" rowspan="1" colspan="1">&#x02212;300, &#x02212;33.5</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-28B</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">837.2 (1,068)</td><td align="left" rowspan="1" colspan="1">1,597 (955.5)</td><td align="left" rowspan="1" colspan="1">0.060</td><td align="left" rowspan="1" colspan="1">&#x02212;1,564, 47</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TNF-&#x003b1;</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">92.9 (139.6)</td><td align="left" rowspan="1" colspan="1">275.5 (268.5)</td><td align="left" rowspan="1" colspan="1">0.056</td><td align="left" rowspan="1" colspan="1">&#x02212;371.7, 6.6</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-1&#x003b1;</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">136.6 (324.4)</td><td align="left" rowspan="1" colspan="1">223.6 (452.1)</td><td align="left" rowspan="1" colspan="1">0.415</td><td align="left" rowspan="1" colspan="1">&#x02212;317, 143</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-1&#x003b2;</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">627.4 (1,046)</td><td align="left" rowspan="1" colspan="1">724.0 (1,098)</td><td align="left" rowspan="1" colspan="1">0.748</td><td align="left" rowspan="1" colspan="1">&#x02212;760, 566</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-2</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">13.9 (11.1)</td><td align="left" rowspan="1" colspan="1">16.1 (10.1)</td><td align="left" rowspan="1" colspan="1">0.632</td><td align="left" rowspan="1" colspan="1">&#x02212;12.3, 7.9</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-4</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">10.9 (4.9)</td><td align="left" rowspan="1" colspan="1">10.4 (4.3)</td><td align="left" rowspan="1" colspan="1">0.817</td><td align="left" rowspan="1" colspan="1">&#x02212;4.8, 5.9</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-6</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">337.9 (454.8)</td><td align="left" rowspan="1" colspan="1">560.5 (482.1)</td><td align="left" rowspan="1" colspan="1">0.280</td><td align="left" rowspan="1" colspan="1">&#x02212;661, 216</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-10</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">32.4 (58.2)</td><td align="left" rowspan="1" colspan="1">27.6 (44.6)</td><td align="left" rowspan="1" colspan="1">0.831</td><td align="left" rowspan="1" colspan="1">&#x02212;44.7, 54.3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IFN-&#x003b3;</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">5.7(4.2)</td><td align="left" rowspan="1" colspan="1">7.4 (4.6)</td><td align="left" rowspan="1" colspan="1">0.403</td><td align="left" rowspan="1" colspan="1">&#x02212;5.9, 2.6</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MCP-1</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">338.4(151.4)</td><td align="left" rowspan="1" colspan="1">330.6(157.9)</td><td align="left" rowspan="1" colspan="1">0.915</td><td align="left" rowspan="1" colspan="1">155, 170</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HGF</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">1008 (736)</td><td align="left" rowspan="1" colspan="1">975 (603)</td><td align="left" rowspan="1" colspan="1">0.914</td><td align="left" rowspan="1" colspan="1">&#x02212;665, 732</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt106"><label/><p>Values are mean (&#x0002b;/&#x02212; SD). Serum cytokines were determined as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap><p>We found no statistically significant differences between day-0 and day-14 in serum IL-28B, TNF-&#x003b1;, IL-1&#x003b1;, IL-1&#x003b2;, IL-6, IL-8, IL-10, IFN-&#x003b3;, MCP-1 and HGF (<xref ref-type="table" rid="pone-0031516-t006">
+<bold>Table 6</bold>
+</xref>).</p></sec><sec id="s3f"><title>Effect of Prednisone on Serum HCV RNA</title><p>Prednisone increased the absolute HCV RNA level at day-2 (mean change&#x0200a;=&#x0200a;&#x02212;35,636 IU/ml; 95&#x00025; CI &#x02212;64,665 to &#x02212;6,607; <italic>P</italic>&#x0200a;=&#x0200a;0.021) and at day-4 (mean change&#x0200a;=&#x0200a;&#x02212;42,786 IU/ml; 95&#x00025; CI &#x02212;85,556 to &#x02212;15.7; <italic>P</italic>&#x0200a;=&#x0200a;0.049) (<xref ref-type="table" rid="pone-0031516-t007">
+<bold>Table 7</bold>
+</xref>), providing some evidence that Prednisone may be effective in increasing HCV RNA in this cohort of patients for that short period of time. When compared to their baseline day-0 values, eight of 10 subjects had an increase in HCV RNA at day-4. Prednisone treatment also increased HCV RNA from baseline day-0 in 9 of 10 subjects at day-2 (<xref ref-type="table" rid="pone-0031516-t007">
+<bold>Table 7</bold>
+</xref>). However, in the Prednisone-treated group, the HCV RNA titers expressed as log<sub>10</sub> values on day-2 and day-4 were not statistically different from baseline day-0 (<xref ref-type="table" rid="pone-0031516-t007">
+<bold>Table 7</bold>
+</xref>).</p><table-wrap id="pone-0031516-t007" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t007</object-id><label>Table 7</label><caption><title>Effects of Prednisone on serum HCV RNA titers.</title></caption><alternatives><graphic id="pone-0031516-t007-7" xlink:href="pone.0031516.t007"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Day</td><td align="left" rowspan="1" colspan="1">HCV (IU/ml &#x000d7;10<sup>&#x02212;3</sup>)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td><td align="left" rowspan="1" colspan="1">HCV log<sub>10</sub>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>0</bold>
+</td><td align="left" rowspan="1" colspan="1">498.0(805.3)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">5.10(0.92)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>2</bold>
+</td><td align="left" rowspan="1" colspan="1">533.7(834.4)</td><td align="left" rowspan="1" colspan="1">0.0215</td><td align="left" rowspan="1" colspan="1">&#x02212;64.6,&#x02212;6.6</td><td align="left" rowspan="1" colspan="1">5.14(0.94)</td><td align="left" rowspan="1" colspan="1">0.059</td><td align="left" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>4</bold>
+</td><td align="left" rowspan="1" colspan="1">540.8(855.2)</td><td align="left" rowspan="1" colspan="1">0.0499</td><td align="left" rowspan="1" colspan="1">&#x02212;85.5,&#x02212;15.7</td><td align="left" rowspan="1" colspan="1">5.13(0.92)</td><td align="left" rowspan="1" colspan="1">0.18</td><td align="left" rowspan="1" colspan="1">0.03</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt107"><label/><p>Values are mean (SD). HCV RNA titers were determined as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3g"><title>Effect of Prednisone on Indices of Insulin Resistance</title><p>Prednisone treatment increased by day-4, when compared to baseline day-0 values, fasting serum glucose (Glucose-0) (mean change&#x0200a;=&#x0200a;9.0 mg/dL; 95&#x00025; CI: 20.4 to &#x02212;2.4; <italic>P</italic>&#x0200a;=&#x0200a;0.108) as well as the 2-hr (Glucose-120 min) after an OGTT (mean change&#x0200a;=&#x0200a;11.0 mg/dL; 95&#x00025; CI: 17.9 to 4.1; <italic>P</italic>&#x0200a;=&#x0200a;0.006). Collectively, the CI and t-tests suggest that Prednisone increased serum glucose levels at day-4 (<xref ref-type="table" rid="pone-0031516-t008">
+<bold>Table 8</bold>
+</xref>). However, Prednisone treatment did not affect by day-4 other surrogate indicators of insulin resistance and secretion (<xref ref-type="table" rid="pone-0031516-t008">
+<bold>Table 8</bold>
+</xref>).</p><table-wrap id="pone-0031516-t008" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t008</object-id><label>Table 8</label><caption><title>Effects of Prednisone on glucose homeostasis, insulin resistance and secretion.</title></caption><alternatives><graphic id="pone-0031516-t008-8" xlink:href="pone.0031516.t008"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Test</td><td align="left" rowspan="1" colspan="1">Day-0</td><td align="left" rowspan="1" colspan="1">Day-4</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>Glucose-0</bold> (mg/dL)</td><td align="left" rowspan="1" colspan="1">88.0 (14.7)</td><td align="left" rowspan="1" colspan="1">97.0 (12.9)</td><td align="left" rowspan="1" colspan="1">0.107</td><td align="left" rowspan="1" colspan="1">&#x02212;20.4, 2.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Glucose-120</bold> (mg/dL)</td><td align="left" rowspan="1" colspan="1">96.4 (10.5)</td><td align="left" rowspan="1" colspan="1">107.4 (12.3)</td><td align="left" rowspan="1" colspan="1">0.0055</td><td align="left" rowspan="1" colspan="1">&#x02212;17.9, &#x02212;4.1</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HOMA-IR</bold>
+</td><td align="left" rowspan="1" colspan="1">1.73 (1.06)</td><td align="left" rowspan="1" colspan="1">2.55(1.96)</td><td align="left" rowspan="1" colspan="1">0.162</td><td align="left" rowspan="1" colspan="1">&#x02212;1.06</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>QUICK-I</bold>
+</td><td align="left" rowspan="1" colspan="1">0.358(0.022)</td><td align="left" rowspan="1" colspan="1">0.345 (0.032)</td><td align="left" rowspan="1" colspan="1">0.275</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HOMA-B</bold>
+</td><td align="left" rowspan="1" colspan="1">95.48 (49.35)</td><td align="left" rowspan="1" colspan="1">115.86 (95.96)</td><td align="left" rowspan="1" colspan="1">0.623</td><td align="left" rowspan="1" colspan="1">&#x02212;20.38</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Insulin</bold> (&#x000b5;IU/ml)</td><td align="left" rowspan="1" colspan="1">7.5(3.9)</td><td align="left" rowspan="1" colspan="1">10.5 (8.2)</td><td align="left" rowspan="1" colspan="1">0.374</td><td align="left" rowspan="1" colspan="1">&#x02212;10.2, 4.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>C-peptide</bold> (nmol/L)</td><td align="left" rowspan="1" colspan="1">11.3 (8.9)</td><td align="left" rowspan="1" colspan="1">4.1 (1.3)</td><td align="left" rowspan="1" colspan="1">0.061</td><td align="left" rowspan="1" colspan="1">&#x02212;0.5, 14.9</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>SHBG</bold> (&#x000b5;g/ml)</td><td align="left" rowspan="1" colspan="1">3.4(2.5)</td><td align="left" rowspan="1" colspan="1">2.7 (2.2)</td><td align="left" rowspan="1" colspan="1">0.591</td><td align="left" rowspan="1" colspan="1">&#x02212;2.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Adiponectin</bold> (&#x000b5;g/ml)</td><td align="left" rowspan="1" colspan="1">5.9 (8.2)</td><td align="left" rowspan="1" colspan="1">2.6 (2.1)</td><td align="left" rowspan="1" colspan="1">0.306</td><td align="left" rowspan="1" colspan="1">&#x02212;4.5</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>Resistin</bold> (ng/ml)</td><td align="left" rowspan="1" colspan="1">3.4 (2.5)</td><td align="left" rowspan="1" colspan="1">2.7 (2.2)</td><td align="left" rowspan="1" colspan="1">0.591</td><td align="left" rowspan="1" colspan="1">&#x02212;2.4</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt108"><label/><p>Values are mean (&#x0002b;/&#x02212; SD). Tests were performed as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3h"><title>Effect of Prednisone on Indicators of Liver Injury and Inflammation</title><p>Prednisone treatment did not affect at day-4 either serum ALT, AST, IL-8 or other inflammatory mediators (<xref ref-type="table" rid="pone-0031516-t009">
+<bold>Tables 9</bold>
+</xref>
+<bold> and </bold>
+<xref ref-type="table" rid="pone-0031516-t010">
+<bold>10</bold>
+</xref>).</p><table-wrap id="pone-0031516-t009" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t009</object-id><label>Table 9</label><caption><title>Effects of Prednisone on liver injury indicators.</title></caption><alternatives><graphic id="pone-0031516-t009-9" xlink:href="pone.0031516.t009"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Day</td><td align="left" rowspan="1" colspan="1">ALT (IU/L)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td><td align="left" rowspan="1" colspan="1">AST (IU/L)</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>0</bold>
+</td><td align="left" rowspan="1" colspan="1">53.2 (14.4)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1">52.0(11.3)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>4</bold>
+</td><td align="left" rowspan="1" colspan="1">55.7 (15.7)</td><td align="left" rowspan="1" colspan="1">0.080</td><td align="left" rowspan="1" colspan="1">5.4, &#x02212;0.4</td><td align="left" rowspan="1" colspan="1">52.2 (12.8)</td><td align="left" rowspan="1" colspan="1">0.896</td><td align="left" rowspan="1" colspan="1">3.6, &#x02212;3.2</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt109"><label/><p>Values are mean (&#x0002b;/&#x02212; SD). ALT and AST were determined as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap><table-wrap id="pone-0031516-t010" position="float"><object-id pub-id-type="doi">10.1371/journal.pone.0031516.t010</object-id><label>Table 10</label><caption><title>Effects of Prednisone on serum cytokines.</title></caption><alternatives><graphic id="pone-0031516-t010-10" xlink:href="pone.0031516.t010"/><table frame="hsides" rules="groups"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="center" span="1"/></colgroup><thead><tr><td align="left" rowspan="1" colspan="1">Serum Cytokine</td><td align="left" rowspan="1" colspan="1">Day-0</td><td align="left" rowspan="1" colspan="1">Day-4</td><td align="left" rowspan="1" colspan="1">
+<italic>P value</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>95&#x00025; CI</italic>
+</td></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-8</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">123.1 (163.5)</td><td align="left" rowspan="1" colspan="1">159.5 (185.1)</td><td align="left" rowspan="1" colspan="1">0.353</td><td align="left" rowspan="1" colspan="1">&#x02212;123, 50</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-28B</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">485.9(876.4)</td><td align="left" rowspan="1" colspan="1">610.8 (857.7)</td><td align="left" rowspan="1" colspan="1">0.120</td><td align="left" rowspan="1" colspan="1">&#x02212;292, 42</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>TNF-&#x003b1;</bold>(pg/ml)</td><td align="left" rowspan="1" colspan="1">146.6 (268.8)</td><td align="left" rowspan="1" colspan="1">146.1 (284.4)</td><td align="left" rowspan="1" colspan="1">0.996</td><td align="left" rowspan="1" colspan="1">&#x02212;275, 276</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-1&#x003b1;</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">80.1 (208.3)</td><td align="left" rowspan="1" colspan="1">19.2(38.3)</td><td align="left" rowspan="1" colspan="1">0.450</td><td align="left" rowspan="1" colspan="1">&#x02212;119, 240</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-1&#x003b2;</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">92.7 (120.3)</td><td align="left" rowspan="1" colspan="1">144.8 (293.0)</td><td align="left" rowspan="1" colspan="1">0.682</td><td align="left" rowspan="1" colspan="1">&#x02212;348, 244</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-2</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">11.8 (9.8)</td><td align="left" rowspan="1" colspan="1">11.3 (9.6)</td><td align="left" rowspan="1" colspan="1">0.742</td><td align="left" rowspan="1" colspan="1">&#x02212;3.1, 4.2</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-4</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">19.3 (19.1)</td><td align="left" rowspan="1" colspan="1">10.9 (7.2)</td><td align="left" rowspan="1" colspan="1">0.329</td><td align="left" rowspan="1" colspan="1">&#x02212;10.5, 27.3</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-6</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">292.8 (445.7)</td><td align="left" rowspan="1" colspan="1">359.9 (501.4)</td><td align="left" rowspan="1" colspan="1">0.492</td><td align="left" rowspan="1" colspan="1">&#x02212;282, 149</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IL-10</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">67.4 (106.8)</td><td align="left" rowspan="1" colspan="1">30.8 (51.2)</td><td align="left" rowspan="1" colspan="1">0.144</td><td align="left" rowspan="1" colspan="1">&#x02212;16.1, 89.4</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>IFN&#x003b3;</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">13.9 (24.9)</td><td align="left" rowspan="1" colspan="1">4.9 (4.3)</td><td align="left" rowspan="1" colspan="1">0.342</td><td align="left" rowspan="1" colspan="1">&#x02212;11.9, 29.9</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>MCP-1</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">232.7 (126.1)</td><td align="left" rowspan="1" colspan="1">266.8 (112.8)</td><td align="left" rowspan="1" colspan="1">0.469</td><td align="left" rowspan="1" colspan="1">&#x02212;139, 71</td></tr><tr><td align="left" rowspan="1" colspan="1">
+<bold>HGF</bold> (pg/ml)</td><td align="left" rowspan="1" colspan="1">1345 (800)</td><td align="left" rowspan="1" colspan="1">1022 (681)</td><td align="left" rowspan="1" colspan="1">0.483</td><td align="left" rowspan="1" colspan="1">&#x02212;711, 1357</td></tr></tbody></table></alternatives><table-wrap-foot><fn id="nt110"><label/><p>Values are mean (&#x0002b;/&#x02212; SD). Serum cytokines were determined as described in <xref ref-type="sec" rid="s2">Methods</xref>.</p></fn></table-wrap-foot></table-wrap></sec><sec id="s3i"><title>Adverse Events</title><p>There were no serious adverse events in either treatment group. Mild or moderate adverse events unrelated to the allocated treatment occurred in 20&#x00025; of subjects in the Prednisone group and in 30&#x00025; of the subjects in the Pioglitazone group. There were no significant changes from baseline during treatment in safety laboratory tests in either treatment group.</p></sec></sec><sec id="s4"><title>Discussion</title><p>It was not known whether Pioglitazone and Prednisone affect serum HCV genotype 4 RNA titers independently of PEG-Interferon-&#x003b1;2/ribavirin treatment. This Study documented for the first time that Pioglitazone (30 mg daily) decreases the serum HCV RNA titers after a 14-day treatment in overweight subjects with treatment na&#x000ef;ve, chronic HCV genotype 4 infections. The statistical differences between the mean at day-0 (baseline) and day-14 were highly significant whether the serum HCV RNA was analyzed as IU/ml or log<sub>10</sub> values (<xref ref-type="table" rid="pone-0031516-t003">
+<bold>Table 3</bold>
+</xref>). Pioglitazone treatment also decreased the HCV genotype 4 titers on day-4 and day-7, suggesting a rapid effect on HCV RNA titers. The comparable mean decrease in HCV RNA for the first week and for the second week indicates a continuing effect during the 14-day treatment.</p><p>It remains to be studied whether the rate of decrease of serum HCV RNA titers continues after day-14 in the Pioglitazone group. If the effects of Pioglitazone on in HCV genotype 4 RNA titers would continue at the same rate as for the first 2 weeks, it would achieve a clinically significant decrease of &#x0223c;1 log<sub>10</sub> in HCV RNA titers by week-12, an important predictive timeline for a sustained virological response in HCV treatments <xref rid="pone.0031516-Zeuzem1" ref-type="bibr">[16]</xref>. Given the relative safety of Pioglitazone administration <xref rid="pone.0031516-Sanyal1" ref-type="bibr">[9]</xref>,<xref rid="pone.0031516-Lincoff1" ref-type="bibr">[17]</xref>, it could be, as a co-adjuvant, a valuable therapeutic effect for difficult to treat HCV genotype 4-infected patients.</p><p>This Study also documented for the first time that Prednisone (40 mg daily) increases the serum HCV RNA titers after a 4-day treatment of HCV genotype 4 overweighed patients (<xref ref-type="table" rid="pone-0031516-t007">
+<bold>Table 7</bold>
+</xref>). Our results with Prednisone treatment are congruent with the recently reported increased HCV replication by corticosteroids in the Huh-7 replicon system <xref rid="pone.0031516-Ciesek1" ref-type="bibr">[13]</xref>, but whether in HCV genotype 4-infected patients, this reflects a direct corticosteroid effect on HCV replication, an indirect effect mediated by insulin resistance, or another mechanism is unknown. Because the Huh-7 replicon system uses de-differentiated, tumoral liver cells that have higher expression of glucose metabolism enzymes (glucose-6-phosphate 1-dehydrogenase and isocitrate dehydrogenase) and of the mitochondrial dicarboxylate carrier <xref rid="pone.0031516-Yokoo1" ref-type="bibr">[18]</xref>, it may not be suitable for the evaluation of interaction between glucose homeostasis and HCV replication. To minimize potential adverse events associated with the administration of Prednisone, its use was limited to 40 mg/day for a 4-day treatment, a relatively safe and frequent standard of care practice for some clinical conditions <xref rid="pone.0031516-Vondracek1" ref-type="bibr">[19]</xref>. It remains to be determined whether a more prolonged corticosteroid treatment in HCV-infected patients has detrimental effects on RNA titers of different HCV genotypes.</p><p>The subjects' recruitment number was pre-determined by the sample size and power analysis. An appropriate sample size was utilized in this study, which achieved the primary and secondary end-points with a relatively small cohort of patients. If the sample size of the study were unnecessarily large, then the risks to the subjects would have been excessive according to the CONSORT statement <xref rid="pone.0031516-Schulz1" ref-type="bibr">[20]</xref>. An intention-to-treat analysis was conducted in patients who had received &#x02265;1 dose of study medication; all of these subjects completed the study and had a subsequent efficacy observation. Because these randomized arms were not treatments of the HCV infection in this Study, and because during chronic infection, the level of serum HCV RNA is in a steady state with only minor fluctuations in untreated patients <xref rid="pone.0031516-Nguyen1" ref-type="bibr">[21]</xref>, instead of using demanding placebo arms, we utilized randomization as well as de-identified samples to blinding the investigators analyzing the outcomes. These approaches minimize biases in executing the study and in analyzing the outcomes according to the CONSORT statement <xref rid="pone.0031516-Schulz1" ref-type="bibr">[20]</xref>.</p><p>Triple combination therapy of Pioglitazone/PEG-Interferon-&#x003b1;2/ribavirin has been used for previously treated HCV genotype 1 infection unsuccessfully in Switzerland <xref rid="pone.0031516-Overbeck1" ref-type="bibr">[10]</xref> and in the USA <xref rid="pone.0031516-Harrison1" ref-type="bibr">[22]</xref>, <xref rid="pone.0031516-Conjeevaram2" ref-type="bibr">[23]</xref> or for treatment naive HCV genotype 4 infection successfully in Egypt <xref rid="pone.0031516-Khattab2" ref-type="bibr">[11]</xref>. It is unknown whether the beneficial effects of Pioglitazone together with PEG-Interferon-&#x003b1;2/ribavirin are circumscribed to HCV genotype 4 or to treatment na&#x000ef;ve HCV of various genotypes. Although, the relatively low 15 mg Pioglitazone dose used in the INSPIRED-HCV trial in Switzerland <xref rid="pone.0031516-Overbeck1" ref-type="bibr">[10]</xref> could have been insufficient to achieve efficacy, higher Pioglitazone doses (30 mg or 45 mg per day) have been utilized in HCV genotype 1 infection trials together with PEG-Interferon-&#x003b1;2/ribavirin without improving the sustained virological response <xref rid="pone.0031516-Harrison1" ref-type="bibr">[22]</xref>, <xref rid="pone.0031516-Conjeevaram2" ref-type="bibr">[23]</xref>. These higher Pioglitazone doses (30 mg or 45 mg per day) have been successfully utilized to prevent the development of type 2 diabetes in patients with impaired glucose tolerance in the USA <xref rid="pone.0031516-DeFronzo1" ref-type="bibr">[8]</xref>, in the treatment of HCV genotype 4 treatment naive patients together with PEG-Interferon-&#x003b1;2/ribavirin in Egypt <xref rid="pone.0031516-Khattab2" ref-type="bibr">[11]</xref> and in our Study. Further, the known effects of Pioglitazone and related PPAR&#x003b3; agonists on glucose homeostasis <xref rid="pone.0031516-DeFronzo1" ref-type="bibr">[8]</xref>,<xref rid="pone.0031516-Willi1" ref-type="bibr">[12]</xref> and as documented in our Study, and their effects on serum HCV RNA titers (<xref ref-type="table" rid="pone-0031516-t003">
+<bold>Table 3</bold>
+</xref>) suggest, but does not prove, that improving insulin sensitivity lowers HCV RNA titers. This has been proposed by Harrison on the basis that patients with QUICK-I values &#x0003c;0.35 (equivalent to HOMA-IR&#x0003e;1.8) have significantly higher HCV titers than patients with QUICK-I values &#x0003e;0.35 <xref rid="pone.0031516-Harrison2" ref-type="bibr">[24]</xref>. Further, treating patients with hepatitis C genotype 1 and insulin resistance using metformin improves insulin sensitivity and increases SVR rate in patients who reached HOMA lower than 2 at week 24 of therapy and in women, in whom the therapy doubled the SVR rate <xref rid="pone.0031516-RomeroGmez1" ref-type="bibr">[25]</xref>.</p><p>The findings of our Study support the notion that sequential treatment with Pioglitazone and PEG-Interferon-&#x003b1;2/ribavirin rather than concomitant administration should be considered in the treatment of chronic HCV genotype 4 infections, as suggested by Serfaty and coworkers <xref rid="pone.0031516-Serfaty1" ref-type="bibr">[26]</xref>.</p><p>The beneficial effects of Pioglitazone treatment on glucose homeostasis have been well documented in patients with impaired glucose tolerance <xref rid="pone.0031516-DeFronzo1" ref-type="bibr">[8]</xref>, and it was also reported in triple combination therapy of Pioglitazone/PEG-Interferon-&#x003b1;2/ribavirin in patients with HCV genotype 1 or 4 <xref rid="pone.0031516-Overbeck1" ref-type="bibr">[10]</xref>,<xref rid="pone.0031516-Khattab2" ref-type="bibr">[11]</xref>. In our Study, Pioglitazone treatment decreased by day-14 and Prednisone increased by day-4 fasting serum glucose as well as the 2-hr glucose after an OGTT (<xref ref-type="table" rid="pone-0031516-t004">
+<bold>Table 4</bold>
+</xref>
+<bold> and </bold>
+<xref ref-type="table" rid="pone-0031516-t008">
+<bold>8</bold>
+</xref>
+<bold>)</bold>. However, when compared to baseline day-0 values, neither Pioglitazone treatment at day-14 nor Prednisone treatment at day-4 affected HOMA-IR; QUICK-I; and HOMA-B, surrogate indicators of insulin resistance and secretion (<xref ref-type="table" rid="pone-0031516-t004">
+<bold>Tables 4</bold>
+</xref>
+<bold> and </bold>
+<xref ref-type="table" rid="pone-0031516-t008">
+<bold>8</bold>
+</xref>). It would probably require a more prolonged treatment with Pioglitazone and Prednisone to induce changes in these surrogate indicators of insulin resistance and secretion <xref rid="pone.0031516-Serfaty1" ref-type="bibr">[26]</xref>.</p><p>Elevated serum ALT and AST values are surrogate indicators of liver injury used in patient care and clinical research <xref rid="pone.0031516-Sanyal1" ref-type="bibr">[9]</xref>. Pioglitazone treatment decreased at day-14 serum ALT levels and to a smaller degree serum AST levels (<xref ref-type="table" rid="pone-0031516-t005">
+<bold>Table 5</bold>
+</xref>). Additional insights into the mechanisms of Pioglitazone on liver injury in chronic HCV infection would require assessment of liver biopsies before and after prolonged treatment since the effects on serum ALT were clinically modest at day-14. Prednisone treatment did not affect at day-4 serum ALT or AST levels (<xref ref-type="table" rid="pone-0031516-t009">
+<bold>Table 9</bold>
+</xref>).</p><p>Many experimental and clinical studies have shown that PPAR&#x003b3; signaling has anti-inflammatory properties in the liver <xref rid="pone.0031516-Dharancy1" ref-type="bibr">[27]</xref>. Interestingly, HCV infection in Huh-7 cells and in humans inhibits PPAR&#x003b3; expression and function <xref rid="pone.0031516-Dharancy1" ref-type="bibr">[27]</xref>. Two studies suggested therapeutic effects of bezafibrate, a non-selective agonist of PPAR &#x003b1;/&#x003b4;/&#x003b3;, during chronic HCV infection. Patients with HCV genotype 1 and 2 unresponsive to interferon therapy were treated for 8 weeks or 6 months with bezafibrate <xref rid="pone.0031516-Kurihara1" ref-type="bibr">[28]</xref>, <xref rid="pone.0031516-Fujita1" ref-type="bibr">[29]</xref>. At endpoint, HCV viral load (&#x02212;0.5 log<sub>10</sub>) and ALT were statistically significantly decreased, suggesting anti-inflammatory and antiviral activities of the PPAR &#x003b1;/&#x003b4;/&#x003b3; signaling pathways in patients with chronic HCV infection. Given the non-selective nature of the PPAR &#x003b1;/&#x003b4;/&#x003b3; agonist, it is difficult to determine whether induction of PPAR&#x003b3; pathways occurred and played a role in the decreased HCV RNA.</p><p>Pioglitazone also has shown improvement in liver injury and inflammation in patients with non-alcoholic steatohepatitis <xref rid="pone.0031516-Sanyal1" ref-type="bibr">[9]</xref> and this has been attributed to the beneficial effects of Pioglitazone on insulin signaling <xref rid="pone.0031516-DeFronzo1" ref-type="bibr">[8]</xref>. An alternative explanation is a possible direct effect of Pioglitazone either as a PPAR&#x003b3; agonist or through other mechanisms on liver injury, independently of its insulin sensitizing actions <xref rid="pone.0031516-DeFronzo1" ref-type="bibr">[8]</xref>. Indeed, PPAR&#x003b3; agonists induce alternative, anti-inflammatory M2 macrophage activation <xref rid="pone.0031516-Olefsky1" ref-type="bibr">[30]</xref>, possibly linking insulin sensitivity with decreased liver injury in patients with HCV infection. At the molecular level, insulin resistance is promoted by a transition from an anti-inflammatory macrophage M2 state maintained by STAT6 and PPAR&#x003b3; to a pro-inflammatory macrophage M1 state driven by C/EBP&#x003b2; and NF-&#x003ba;B activation and other transcription factors that play important roles in innate immunity <xref rid="pone.0031516-Olefsky1" ref-type="bibr">[30]</xref>. Relevant to the management of HCV infected patients, liver fibrogenesis is expected to be ameliorated by PPAR&#x003b3; signaling <xref rid="pone.0031516-Galli1" ref-type="bibr">[31]</xref> as well as by decreased inflammatory pathways arising from M2 macrophages <xref rid="pone.0031516-Pesce1" ref-type="bibr">[32]</xref> and resulting in decreased activation of hepatic stellate cells <xref rid="pone.0031516-Duffield1" ref-type="bibr">[33]</xref>.</p><p>Pioglitazone increased serum IL-8 levels at day-14 when compared to baseline day-0 values (<xref ref-type="table" rid="pone-0031516-t006">
+<bold>Table 6</bold>
+</xref>). Serum IL-8 values are elevated in HCV infection <xref rid="pone.0031516-Polyak1" ref-type="bibr">[34]</xref> and these values may reflect the effects of the HCV on <italic>il-8</italic> gene transcription as well as its induction by TNF&#x003b1; <xref rid="pone.0031516-Wagoner1" ref-type="bibr">[15]</xref>. We found that there was a relatively strong correlation between serum IL-8 and serum TNF-&#x003b1; levels for day-0 and day-14. Although it has been suggested that elevated levels of serum IL-8 may be associated with HCV resistance to Interferon-&#x003b1;2 therapy, the clinical or biological significance of the elevated serum IL-8 in HCV genotype 4 patients treated with Pioglitazone remains to be determined.</p><p>Prednisone did not affect serum IL-8 levels at day-4 when compared to baseline day-0 values (<xref ref-type="table" rid="pone-0031516-t010">
+<bold>Table 10</bold>
+</xref>). We found no differences between day-0 and day-14 in the Pioglitazone group and day-4 in the Prednisone group in other inflammatory markers such as serum IL-28B, TNF-&#x003b1;, IL-1&#x003b1;, IL-1&#x003b2;, IL-6, IL-8, IL-10, IFN-&#x003b3;, MCP-1 and HGF (<xref ref-type="table" rid="pone-0031516-t006">
+<bold>Tables 6</bold>
+</xref>
+<bold> and </bold>
+<xref ref-type="table" rid="pone-0031516-t010">
+<bold>10</bold>
+</xref>). The lack of changes in IL-28B (IFN-&#x003b3;3) is relevant since genetic variation in <italic>IL-28B</italic> affects the spontaneous clearance of HCV in patients <xref rid="pone.0031516-Thomas1" ref-type="bibr">[35]</xref>.</p><p>Our study has some limitations: i] there were, as expected, clinically modest decreases in HCV RNA at day-14 in the Pioglitazone group; ii] the relatively small cohort could introduce potential biases; and iii] the findings may not be applicable for patients with HCV genotype 4 in other ethnic groups</p><p>It remains to be elucidated whether the effects of Pioglitazone also occur in HCV genotype 4 infections in previously treated patients. The novel findings of our Study provide the foundation for basic and clinical investigations on the molecular mechanisms responsible for the Pioglitazone-induced decrease in HCV genotype 4 RNA titers. Future research should characterize whether the effects of Pioglitazone on HCV genotype 4 RNA titers are mediated indirectly by insulin signaling pathways or directly by affecting HCV genotype 4 hepatocyte entry and/or replication.</p></sec><sec sec-type="supplementary-material" id="s5"><title>Supporting Information</title><supplementary-material content-type="local-data" id="pone.0031516.s001"><label>Checklist S1</label><caption><p>
+<bold>CONSORT Checklist.</bold> CONSORT 2010 checklist of information to include when reporting a randomised trial.</p><p>(DOC)</p></caption><media xlink:href="pone.0031516.s001.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material><supplementary-material content-type="local-data" id="pone.0031516.s002"><label>Protocol S1</label><caption><p>
+<bold>Trial Protocol.</bold>
+</p><p>(DOC)</p></caption><media xlink:href="pone.0031516.s002.doc"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><fn-group><fn fn-type="COI-statement"><p><bold>Competing Interests: </bold>The authors have declared that no competing interests exist.</p></fn><fn fn-type="financial-disclosure"><p><bold>Funding: </bold>This trial was supported by discretionary funds from the University of California, San Diego and the Agouza Hospital, Ministry of Health, Giza, Egypt. Additional support was from grants from the National Institutes of Health (RC1 Challenge-DK 087031; MERIT R37-DK-46071; R01-DK-38652, R01-DK-084139 and K-22-CA-96932), and the Department of Veterans Affairs (Merit Review). The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.</p></fn></fn-group><ref-list><title>References</title><ref id="pone.0031516-Mehta1"><label>1</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Mehta</surname><given-names>SH</given-names></name><name><surname>Brancati</surname><given-names>FL</given-names></name><name><surname>Strathdee</surname><given-names>SA</given-names></name><name><surname>Pankow</surname><given-names>JS</given-names></name><name><surname>Netski</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2003</year>
+<article-title>Hepatitis C Virus Infection and Incidence Type 2 Diabetes.</article-title>
+<source>Hepatology</source>
+<volume>38</volume>
+<fpage>50</fpage>
+<lpage>56</lpage>
+<comment>10.1053/jhep.2003.50291</comment>
+<pub-id pub-id-type="pmid">12829986</pub-id></element-citation></ref><ref id="pone.0031516-White1"><label>2</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>White</surname><given-names>DL</given-names></name><name><surname>Ratziu</surname><given-names>V</given-names></name><name><surname>El-Serag</surname><given-names>HB</given-names></name></person-group>
+<year>2008</year>
+<article-title>Hepatitis C infection and risk of diabetes: A systematic review and meta-analysis.</article-title>
+<source>Journal of Hepatology</source>
+<volume>49</volume>
+<fpage>831</fpage>
+<lpage>844</lpage>
+<comment>10.1016/j.jhep.2008.08.006</comment>
+<pub-id pub-id-type="pmid">18814931</pub-id></element-citation></ref><ref id="pone.0031516-Moucari1"><label>3</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Moucari</surname><given-names>R</given-names></name><name><surname>Asselah</surname><given-names>T</given-names></name><name><surname>Cazals-Hatem</surname><given-names>D</given-names></name><name><surname>Voitot</surname><given-names>H</given-names></name><name><surname>Boyer</surname><given-names>N</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>Insulin resistance in chronic hepatitis C: association with genotypes 1 and 4, serum HCV RNA level, and liver fibrosis.</article-title>
+<source>Gastroenterology</source>
+<volume>134</volume>
+<fpage>416</fpage>
+<lpage>423</lpage>
+<pub-id pub-id-type="pmid">18164296</pub-id></element-citation></ref><ref id="pone.0031516-Conjeevaram1"><label>4</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Conjeevaram</surname><given-names>HS</given-names></name><name><surname>Wahed</surname><given-names>AS</given-names></name><name><surname>Afdhal</surname><given-names>N</given-names></name><name><surname>Howell</surname><given-names>CD</given-names></name><name><surname>Everhart</surname><given-names>JE</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Changes in Insulin Sensitivity and Body Weight During and After Peginterferon and Ribavirin Therapy for Hepatitis C.</article-title>
+<source>Gastroenterology</source>
+<volume>140</volume>
+<fpage>469</fpage>
+<lpage>477</lpage>
+<pub-id pub-id-type="pmid">21070775</pub-id></element-citation></ref><ref id="pone.0031516-RomeroGomez1"><label>5</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Romero-Gomez</surname><given-names>M</given-names></name><name><surname>Del Mar Viloria</surname><given-names>M</given-names></name><name><surname>Andrade</surname><given-names>RJ</given-names></name><name><surname>Salmeron</surname><given-names>J</given-names></name><name><surname>Diago</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Insulin resistance impairs sustained response rate to peginterferon plus ribavirin in chronic hepatitis C patients.</article-title>
+<source>Gastroenterology</source>
+<volume>128</volume>
+<fpage>636</fpage>
+<lpage>641</lpage>
+<pub-id pub-id-type="pmid">15765399</pub-id></element-citation></ref><ref id="pone.0031516-Torres1"><label>6</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Torres</surname><given-names>DM</given-names></name><name><surname>Harrison</surname><given-names>SA</given-names></name></person-group>
+<year>2008</year>
+<article-title>Insulin resistance in chronic hepatitis C, genotypes 1 and 4: the unfortunate reality.</article-title>
+<source>Hepatology</source>
+<volume>47</volume>
+<fpage>2137</fpage>
+<lpage>2139</lpage>
+<pub-id pub-id-type="pmid">18508298</pub-id></element-citation></ref><ref id="pone.0031516-Khattab1"><label>7</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khattab</surname><given-names>M</given-names></name><name><surname>Eslam</surname><given-names>M</given-names></name><name><surname>Sharwae</surname><given-names>MA</given-names></name><name><surname>Shatat</surname><given-names>M</given-names></name><name><surname>Ali</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Insulin resistance predicts rapid virologic response to peginterferon/ribavirin combination therapy in hepatitis C genotype 4 patients.</article-title>
+<source>American Journal of Gastroenterology</source>
+<volume>105</volume>
+<fpage>1970</fpage>
+<lpage>1977</lpage>
+<pub-id pub-id-type="pmid">20234345</pub-id></element-citation></ref><ref id="pone.0031516-DeFronzo1"><label>8</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>DeFronzo</surname><given-names>RA</given-names></name><name><surname>Tripathy</surname><given-names>D</given-names></name><name><surname>Schwenke</surname><given-names>DC</given-names></name><name><surname>Banerji</surname><given-names>M</given-names></name><name><surname>Bray</surname><given-names>GA</given-names></name><etal/></person-group>
+<year>2011</year>
+<article-title>Pioglitazone for Diabetes Prevention in Impaired Glucose Tolerance.</article-title>
+<source>New England Journal of Medicine</source>
+<volume>364</volume>
+<fpage>1104</fpage>
+<lpage>1115</lpage>
+<comment>10.1056/NEJMoa1010949</comment>
+<pub-id pub-id-type="pmid">21428766</pub-id></element-citation></ref><ref id="pone.0031516-Sanyal1"><label>9</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Sanyal</surname><given-names>AJ</given-names></name><name><surname>Chalasani</surname><given-names>N</given-names></name><name><surname>Kowdley</surname><given-names>KV</given-names></name><name><surname>McCullough</surname><given-names>A</given-names></name><name><surname>Diehl</surname><given-names>AM</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Pioglitazone, Vitamin E, or Placebo for Nonalcoholic Steatohepatitis.</article-title>
+<source>New England Journal of Medicine</source>
+<volume>362</volume>
+<fpage>1675</fpage>
+<lpage>1685</lpage>
+<comment>10.1056/NEJMoa0907929</comment>
+<pub-id pub-id-type="pmid">20427778</pub-id></element-citation></ref><ref id="pone.0031516-Overbeck1"><label>10</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Overbeck</surname><given-names>K</given-names></name><name><surname>Genne</surname><given-names>D</given-names></name><name><surname>Golay</surname><given-names>A</given-names></name><name><surname>Negro</surname><given-names>F</given-names></name></person-group>
+<collab>Swiss Association for the Study of the Liver (SASL)</collab>
+<year>2008</year>
+<article-title>Pioglitazone in chronic hepatitis C not responding to pegylated interferon-alpha and ribavirin.</article-title>
+<source>Journal of Hepatology</source>
+<volume>49</volume>
+<fpage>295</fpage>
+<lpage>298</lpage>
+<pub-id pub-id-type="pmid">18555553</pub-id></element-citation></ref><ref id="pone.0031516-Khattab2"><label>11</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Khattab</surname><given-names>M</given-names></name><name><surname>Emad</surname><given-names>M</given-names></name><name><surname>Abdelaleem</surname><given-names>A</given-names></name><name><surname>Eslam</surname><given-names>M</given-names></name><name><surname>Atef</surname><given-names>R</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Pioglitazone improves virological response to peginterferon alpha-2b/ribavirin combination therapy in hepatitis C genotype 4 patients with insulin resistance.</article-title>
+<source>Liver International</source>
+<volume>30</volume>
+<fpage>447</fpage>
+<lpage>454</lpage>
+<pub-id pub-id-type="pmid">19919569</pub-id></element-citation></ref><ref id="pone.0031516-Willi1"><label>12</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Willi</surname><given-names>SM</given-names></name><name><surname>Kennedy</surname><given-names>A</given-names></name><name><surname>Wallace</surname><given-names>P</given-names></name><name><surname>Ganaway</surname><given-names>E</given-names></name><name><surname>Rogers</surname><given-names>NL</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Troglitazone antagonizes metabolic effects of glucocorticoids in humans: effects on glucose tolerance, insulin sensitivity, suppression of free fatty acids, and leptin.</article-title>
+<source>Diabetes</source>
+<volume>51</volume>
+<fpage>2895</fpage>
+<lpage>2902</lpage>
+<pub-id pub-id-type="pmid">12351424</pub-id></element-citation></ref><ref id="pone.0031516-Ciesek1"><label>13</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Ciesek</surname><given-names>S</given-names></name><name><surname>Steinmann</surname><given-names>E</given-names></name><name><surname>Iken</surname><given-names>M</given-names></name><name><surname>Ott</surname><given-names>M</given-names></name><name><surname>Helfritz</surname><given-names>FA</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Glucocorticosteroids increase cell entry by hepatitis C virus.</article-title>
+<source>Gastroenterology</source>
+<volume>138</volume>
+<fpage>1875</fpage>
+<lpage>1884</lpage>
+<pub-id pub-id-type="pmid">20152835</pub-id></element-citation></ref><ref id="pone.0031516-HerzbergSchafer1"><label>14</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Herzberg-Schafer</surname><given-names>SA</given-names></name><name><surname>Staiger</surname><given-names>H</given-names></name><name><surname>Heni</surname><given-names>M</given-names></name><name><surname>Ketterer</surname><given-names>C</given-names></name><name><surname>Guthoff</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2010</year>
+<article-title>Evaluation of fasting state-/oral glucose tolerance test-derived measures of insulin release for the detection of genetically impaired &#x000df;-cell function.</article-title>
+<source>PLOS One</source>
+<volume>5</volume>
+<fpage>e14194</fpage>
+<pub-id pub-id-type="pmid">21152029</pub-id></element-citation></ref><ref id="pone.0031516-Wagoner1"><label>15</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Wagoner</surname><given-names>J</given-names></name><name><surname>Austin</surname><given-names>M</given-names></name><name><surname>Green</surname><given-names>J</given-names></name><name><surname>Imaizumi</surname><given-names>T</given-names></name><name><surname>Casola</surname><given-names>A</given-names></name><etal/></person-group>
+<year>2007</year>
+<article-title>Regulation of CXCL-8 (interleukin-8) induction by double-stranded RNA signaling pathways during Hepatitis C virus infection.</article-title>
+<source>Journal of Virology</source>
+<volume>81</volume>
+<fpage>309</fpage>
+<lpage>318</lpage>
+<pub-id pub-id-type="pmid">17035306</pub-id></element-citation></ref><ref id="pone.0031516-Zeuzem1"><label>16</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Zeuzem</surname><given-names>S</given-names></name></person-group>
+<year>2008</year>
+<article-title>Interferon-based therapy for chronic Hepatitis C: current and future perspectives.</article-title>
+<source>Nature Clinical Practice Gastroenterology &#x00026; hepatology</source>
+<volume>5</volume>
+<fpage>610</fpage>
+<lpage>622</lpage>
+</element-citation></ref><ref id="pone.0031516-Lincoff1"><label>17</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Lincoff</surname><given-names>AM</given-names></name><name><surname>Wolski</surname><given-names>K</given-names></name><name><surname>Nicholls</surname><given-names>SJ</given-names></name><name><surname>Nissen</surname><given-names>SE</given-names></name></person-group>
+<year>2007</year>
+<article-title>Pioglitazone and risk of cardiovascular events in patients with Type 2 Diabetes Mellitus. A meta-analysis of randomized trials.</article-title>
+<source>JAMA</source>
+<volume>298</volume>
+<fpage>1180</fpage>
+<lpage>1188</lpage>
+<comment>10.1001/jama.298.10.1180</comment>
+<pub-id pub-id-type="pmid">17848652</pub-id></element-citation></ref><ref id="pone.0031516-Yokoo1"><label>18</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Yokoo</surname><given-names>H</given-names></name><name><surname>Kondo</surname><given-names>T</given-names></name><name><surname>Fujii</surname><given-names>K</given-names></name><name><surname>Yamada</surname><given-names>T</given-names></name><name><surname>Todo</surname><given-names>S</given-names></name><etal/></person-group>
+<year>2004</year>
+<article-title>Proteomic signature corresponding to alpha fetoprotein expression in liver cancer cells.</article-title>
+<source>Hepatology</source>
+<volume>40</volume>
+<fpage>609</fpage>
+<lpage>617</lpage>
+<pub-id pub-id-type="pmid">15349899</pub-id></element-citation></ref><ref id="pone.0031516-Vondracek1"><label>19</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Vondracek</surname><given-names>SF</given-names></name><name><surname>Hemstreet</surname><given-names>BA</given-names></name></person-group>
+<year>2006</year>
+<article-title>Is there an optimal corticosteroid regimen for the management of an acute exacerbation of chronic obstructive pulmonary disease?</article-title>
+<source>Pharmacotherapy</source>
+<volume>26</volume>
+<fpage>522</fpage>
+<lpage>532</lpage>
+<pub-id pub-id-type="pmid">16553512</pub-id></element-citation></ref><ref id="pone.0031516-Schulz1"><label>20</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Schulz</surname><given-names>KF</given-names></name><name><surname>Altman</surname><given-names>DG</given-names></name><name><surname>Moher</surname><given-names>D</given-names></name></person-group>
+<collab>for the CONSORT Group</collab>
+<year>2010</year>
+<article-title>CONSORT 2010 Statement: Updated Guidelines for Reporting Parallel Group Randomised Trials.</article-title>
+<source>PLoS Med</source>
+<volume>7</volume>
+<fpage>e1000251</fpage>
+<comment>10.1371/journal.pmed.1000251</comment>
+<pub-id pub-id-type="pmid">20352064</pub-id></element-citation></ref><ref id="pone.0031516-Nguyen1"><label>21</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Nguyen</surname><given-names>TT</given-names></name><name><surname>Sedghi-Vaziri</surname><given-names>A</given-names></name><name><surname>Wilkes</surname><given-names>LB</given-names></name><name><surname>Mondala</surname><given-names>T</given-names></name><name><surname>Pockros</surname><given-names>PJ</given-names></name><etal/></person-group>
+<year>1996</year>
+<article-title>Fluctations in viral load (HCV RNA) are relatively insignificant in untreated patients with chronic HCV infection.</article-title>
+<source>Journal of Viral Hepatitis</source>
+<volume>3</volume>
+<fpage>75</fpage>
+<lpage>78</lpage>
+<comment>10.1111/j.1365-2893.1996.tb00084.x</comment>
+<pub-id pub-id-type="pmid">8811641</pub-id></element-citation></ref><ref id="pone.0031516-Harrison1"><label>22</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harrison</surname><given-names>SA</given-names></name><name><surname>Hamzeh</surname><given-names>F</given-names></name><name><surname>Han</surname><given-names>J</given-names></name><name><surname>Vierling</surname><given-names>JM</given-names></name></person-group>
+<year>2011</year>
+<article-title>Efficacy, Safety, and Metabolic Effects in Chronic Hepatitis C (CHC) Genotype 1 (G1) Patients With Insulin Resistance (IR) Treated With Pioglitazone (PIO) and Peginterferon Alfa-2a Plus Ribavirin (P/R).</article-title>
+<source>Hepatology</source>
+<volume>54</volume>
+<fpage>439</fpage>
+</element-citation></ref><ref id="pone.0031516-Conjeevaram2"><label>23</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Conjeevaram</surname><given-names>H</given-names></name><name><surname>Burant</surname><given-names>CF</given-names></name><name><surname>McKenna</surname><given-names>B</given-names></name><name><surname>Harsh</surname><given-names>D</given-names></name><name><surname>Kang</surname><given-names>H</given-names></name><etal/></person-group>
+<year>2008</year>
+<article-title>A randomized, double-blind, placebo-controlled study of ppar-gamma agonist pioglitazone given in combination with peginterferon and ribavirin in patients with genotype-1 chronic hepatitis C.</article-title>
+<source>Hepatology</source>
+<volume>48</volume>
+<fpage>384</fpage>
+</element-citation></ref><ref id="pone.0031516-Harrison2"><label>24</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Harrison</surname><given-names>SA</given-names></name></person-group>
+<year>2006</year>
+<article-title>Correlation between insulin resistance and hepatitis C viral load.</article-title>
+<source>Hepatology</source>
+<volume>43</volume>
+<fpage>1168</fpage>
+<comment>10.1002/hep.21125</comment>
+<pub-id pub-id-type="pmid">16628642</pub-id></element-citation></ref><ref id="pone.0031516-RomeroGmez1"><label>25</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Romero-G&#x000f3;mez</surname><given-names>M</given-names></name><name><surname>Diago</surname><given-names>M</given-names></name><name><surname>Andrade</surname><given-names>RJ</given-names></name><name><surname>Calleja</surname><given-names>JL</given-names></name><name><surname>Salmer&#x000f3;n</surname><given-names>J</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Spanish Treatment of Resistance to Insulin in Hepatitis C Genotype 1 Group. Treatment of insulin resistance with metformin in na&#x000ef;ve genotype 1 chronic hepatitis C patients receiving peginterferon alfa-2a plus ribavirin.</article-title>
+<source>Hepatology</source>
+<volume>Dec;50</volume>
+<issue>6</issue>
+<fpage>1702</fpage>
+<lpage>8</lpage>
+</element-citation></ref><ref id="pone.0031516-Serfaty1"><label>26</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Serfaty</surname><given-names>L</given-names></name><name><surname>Fartoux</surname><given-names>L</given-names></name><name><surname>Poupon</surname><given-names>R</given-names></name></person-group>
+<year>2009</year>
+<article-title>Pioglitazone as adjuvant therapy in chronic hepatitis C: Sequential rather than concomitant administration with pegylated interferon and ribavirin?</article-title>
+<source>Journal of Hepatology</source>
+<volume>50</volume>
+<fpage>1269</fpage>
+<lpage>1271</lpage>
+<comment>10.1016/j.jhep.2009.02.014</comment>
+<pub-id pub-id-type="pmid">19395115</pub-id></element-citation></ref><ref id="pone.0031516-Dharancy1"><label>27</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Dharancy</surname><given-names>S</given-names></name><name><surname>Lemoine</surname><given-names>M</given-names></name><name><surname>Mathurin</surname><given-names>P</given-names></name><name><surname>Serfaty</surname><given-names>L</given-names></name><name><surname>Dubuquoy</surname><given-names>L</given-names></name></person-group>
+<year>2009</year>
+<article-title>Peroxisome Proliferator- Activated Receptors in HCV-Related Infection.</article-title>
+<source>PPAR Res</source>
+<fpage>357204</fpage>
+<comment>doi:<ext-link ext-link-type="uri" xlink:href="http://dx.doi.org/10.1155/2009/357204">10.1155/2009/357204</ext-link></comment>
+<pub-id pub-id-type="pmid">19343188</pub-id></element-citation></ref><ref id="pone.0031516-Kurihara1"><label>28</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Kurihara</surname><given-names>T</given-names></name><name><surname>Niimi</surname><given-names>A</given-names></name><name><surname>Maeda</surname><given-names>A</given-names></name><name><surname>Shigemoto</surname><given-names>M</given-names></name><name><surname>Yamashita</surname><given-names>K</given-names></name></person-group>
+<year>2001</year>
+<article-title>Study of effectiveness of bezafibrate in the treatment of chronic hepatitis C.</article-title>
+<source>The American Journal of Gastroenterology</source>
+<volume>96</volume>
+<fpage>1659</fpage>
+<lpage>1660</lpage>
+<pub-id pub-id-type="pmid">11374732</pub-id></element-citation></ref><ref id="pone.0031516-Fujita1"><label>29</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Fujita</surname><given-names>N</given-names></name><name><surname>Kaito</surname><given-names>M</given-names></name><name><surname>Tanaka</surname><given-names>H</given-names></name><name><surname>Horiike</surname><given-names>S</given-names></name><name><surname>Adachi</surname><given-names>Y</given-names></name></person-group>
+<year>2004</year>
+<article-title>Reduction of serum HCV RNA titer by bezafibrate therapy in patients with chronic hepatitis C.</article-title>
+<source>The American Journal of Gastroenterology</source>
+<volume>99</volume>
+<fpage>2280</fpage>
+<pub-id pub-id-type="pmid">15555013</pub-id></element-citation></ref><ref id="pone.0031516-Olefsky1"><label>30</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Olefsky</surname><given-names>JM</given-names></name><name><surname>Glass</surname><given-names>CK</given-names></name></person-group>
+<year>2010</year>
+<article-title>Macrophages, inflammation and insulin resistance.</article-title>
+<source>Annual Review of Physiology</source>
+<volume>72</volume>
+<fpage>219</fpage>
+<lpage>246</lpage>
+</element-citation></ref><ref id="pone.0031516-Galli1"><label>31</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Galli</surname><given-names>A</given-names></name><name><surname>Crabb</surname><given-names>DW</given-names></name><name><surname>Ceni</surname><given-names>E</given-names></name><name><surname>Salzano</surname><given-names>R</given-names></name><name><surname>Svegliati-Baroni</surname><given-names>G</given-names></name><etal/></person-group>
+<year>2002</year>
+<article-title>Antidiabetic thiazolidinediones inhibit collagen synthesis and hepatic stellate cell activation in vivo and in vitro.</article-title>
+<source>Gastroenterology</source>
+<volume>122</volume>
+<fpage>1924</fpage>
+<lpage>1940</lpage>
+<pub-id pub-id-type="pmid">12055599</pub-id></element-citation></ref><ref id="pone.0031516-Pesce1"><label>32</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Pesce</surname><given-names>JT</given-names></name><name><surname>Ramalingam</surname><given-names>TR</given-names></name><name><surname>Mentink-Kane</surname><given-names>MM</given-names></name><name><surname>Wilson</surname><given-names>MS</given-names></name><name><surname>El Kasmi</surname><given-names>KC</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Arginase-1-Expressing Macrophages Suppress Th2 Cytokine-Driven Inflammation and Fibrosis.</article-title>
+<source>PLoS Pathog</source>
+<volume>5</volume>
+<fpage>e1000371</fpage>
+<comment>10.1371/journal.ppat.1000371</comment>
+<pub-id pub-id-type="pmid">19360123</pub-id></element-citation></ref><ref id="pone.0031516-Duffield1"><label>33</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Duffield</surname><given-names>JS</given-names></name><name><surname>Forbes</surname><given-names>SJ</given-names></name><name><surname>Constandinou</surname><given-names>CM</given-names></name><name><surname>Clay</surname><given-names>S</given-names></name><name><surname>Partolina</surname><given-names>M</given-names></name><etal/></person-group>
+<year>2005</year>
+<article-title>Selective depletion of macrophages reveals distinct, opposing roles during liver injury and repair.</article-title>
+<source>J Clin Invest</source>
+<volume>115</volume>
+<fpage>56</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="pmid">15630444</pub-id></element-citation></ref><ref id="pone.0031516-Polyak1"><label>34</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Polyak</surname><given-names>SJ</given-names></name><name><surname>Khabar</surname><given-names>KSA</given-names></name><name><surname>Rezeiq</surname><given-names>M</given-names></name><name><surname>Gretch</surname><given-names>DR</given-names></name></person-group>
+<year>2001</year>
+<article-title>Elevated Levels of Interleukin-8 in Serum Are Associated with Hepatitis C Virus Infection and Resistance to Interferon Therapy.</article-title>
+<source>Journal of Virology</source>
+<volume>75</volume>
+<fpage>6209</fpage>
+<lpage>6211</lpage>
+<comment>10.1128/JVI.75.13.6209-6211.2001</comment>
+<pub-id pub-id-type="pmid">11390624</pub-id></element-citation></ref><ref id="pone.0031516-Thomas1"><label>35</label><element-citation publication-type="journal">
+<person-group person-group-type="author"><name><surname>Thomas</surname><given-names>DL</given-names></name><name><surname>Thio</surname><given-names>CL</given-names></name><name><surname>Martin</surname><given-names>MP</given-names></name><name><surname>Qi</surname><given-names>Y</given-names></name><name><surname>Ge</surname><given-names>D</given-names></name><etal/></person-group>
+<year>2009</year>
+<article-title>Genetic variation in IL28B and spontaneous clearance of hepatitis C virus.</article-title>
+<source>Nature</source>
+<volume>461</volume>
+<fpage>798</fpage>
+<lpage>802</lpage>
+<comment>10.1038/nature08463</comment>
+<pub-id pub-id-type="pmid">19759533</pub-id></element-citation></ref></ref-list></back></article>

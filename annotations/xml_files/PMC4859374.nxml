@@ -1,0 +1,786 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26764412</article-id><article-id pub-id-type="pmc">4859374</article-id><article-id pub-id-type="doi">10.1161/JAHA.115.002566</article-id><article-id pub-id-type="publisher-id">JAH31279</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Congenital Heart Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Association of Digoxin With Interstage Mortality: Results From the Pediatric Heart Network Single Ventricle Reconstruction Trial Public Use Dataset</article-title><alt-title alt-title-type="left-running-head">Oster et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah31279-cr-0001" contrib-type="author" corresp="yes"><name><surname>Oster</surname><given-names>Matthew E.</given-names></name><degrees>MD, MPH</degrees><xref ref-type="aff" rid="jah31279-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah31279-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31279-cr-0002" contrib-type="author"><name><surname>Kelleman</surname><given-names>Michael</given-names></name><degrees>MSPH</degrees><xref ref-type="aff" rid="jah31279-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31279-cr-0003" contrib-type="author"><name><surname>McCracken</surname><given-names>Courtney</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah31279-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah31279-cr-0004" contrib-type="author"><name><surname>Ohye</surname><given-names>Richard G.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31279-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah31279-cr-0005" contrib-type="author"><name><surname>Mahle</surname><given-names>William T.</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah31279-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="jah31279-aff-0002">
+<sup>2</sup>
+</xref></contrib></contrib-group><aff id="jah31279-aff-0001"><label><sup>1</sup></label><institution>Children's Healthcare of Atlanta</institution><named-content content-type="country-part">GA</named-content></aff><aff id="jah31279-aff-0002"><label><sup>2</sup></label><institution>Emory University School of Medicine</institution><named-content content-type="city">Atlanta</named-content><named-content content-type="country-part">GA</named-content></aff><aff id="jah31279-aff-0003"><label><sup>3</sup></label><institution>University of Michigan Medical School</institution><named-content content-type="city">Ann Arbor</named-content><named-content content-type="country-part">MI</named-content></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Matthew E. Oster, MD, MPH, Children's Healthcare of Atlanta, Sibley Heart Center Cardiology, 2835 Brandywine Rd, Ste 300, Atlanta, GA 30341. E&#x02010;mail: <email>osterm@kidsheart.com</email></corresp></author-notes><pub-date pub-type="epub"><day>13</day><month>1</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>1</month><year>2016</year></pub-date><volume>5</volume><issue>1</issue><issue-id pub-id-type="doi">10.1002/jah3.2016.5.issue-1</issue-id><elocation-id>e002566</elocation-id><history><date date-type="received"><day>24</day><month>8</month><year>2015</year></date><date date-type="accepted"><day>18</day><month>11</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-5-e002566.pdf"/><abstract id="jah31279-abs-0001"><sec id="jah31279-sec-0001"><title>Background</title><p>Mortality for infants with single ventricle congenital heart disease remains as high as 8% to 12% during the interstage period, the time between discharge after the Norwood procedure and before the stage II palliation. The objective of our study was to determine the association between digoxin use and interstage mortality in these infants.</p></sec><sec id="jah31279-sec-0002"><title>Methods and Results</title><p>We conducted a retrospective cohort study using the Pediatric Heart Network Single Ventricle Reconstruction Trial public use dataset, which includes data on infants with single right ventricle congenital heart disease randomized to receive either a Blalock&#x02010;Taussig shunt or right ventricle&#x02010;to&#x02010;pulmonary artery shunt during the Norwood procedure at 15 institutions in North America from 2005 to 2008. Parametric survival models were used to compare the risk of interstage mortality between those discharged to home on digoxin versus those discharged to home not on digoxin, adjusting for center volume, ascending aorta diameter, shunt type, and socioeconomic status. Of the 330 infants eligible for this study, 102 (31%) were discharged home on digoxin. Interstage mortality for those not on digoxin was 12.3%, compared to 2.9% among those on digoxin, with an adjusted hazard ratio of 3.5 (95% CI, 1.1&#x02013;11.7; <italic>P</italic>=0.04). The number needed to treat to prevent 1 death was 11 patients. There were no differences in complications between the 2 groups during the interstage period.</p></sec><sec id="jah31279-sec-0003"><title>Conclusions</title><p>Digoxin use in infants with single ventricle congenital heart disease is associated with significantly reduced interstage mortality.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah31279-kwd-0001">congenital</kwd><kwd id="jah31279-kwd-0002">digoxin</kwd><kwd id="jah31279-kwd-0003">heart defects</kwd><kwd id="jah31279-kwd-0004">mortality</kwd><kwd id="jah31279-kwd-0005">pediatrics</kwd><kwd id="jah31279-kwd-0006">single ventricle</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Congenital Heart Disease</kwd><kwd>Mortality/Survival</kwd><kwd>Quality and Outcomes</kwd><kwd>Treatment</kwd><kwd>Pediatrics</kwd></kwd-group><counts><page-count count="7"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah31279</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>January 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.9 mode:remove_FC converted:04.05.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah31279-cit-1001">(<source>J Am Heart Assoc</source>. <year>2016</year>;<volume>5</volume>:e002566 doi: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.115.002566">10.1161/JAHA.115.002566</ext-link>)</mixed-citation>
+</p></notes></front><body><sec id="jah31279-sec-0004"><title>Introduction</title><p>Although great strides have been made in the surgical and medical management of infants with single ventricle congenital heart disease, early mortality remains high. In the last decade, postoperative in&#x02010;hospital mortality after the Norwood procedure has ranged from 7% to 19%, and mortality before the stage II palliation among those discharged to home after the Norwood procedure has ranged from 2% to 12%.<xref rid="jah31279-bib-0001" ref-type="ref">1</xref>, <xref rid="jah31279-bib-0002" ref-type="ref">2</xref>, <xref rid="jah31279-bib-0003" ref-type="ref">3</xref>, <xref rid="jah31279-bib-0004" ref-type="ref">4</xref>, <xref rid="jah31279-bib-0005" ref-type="ref">5</xref>, <xref rid="jah31279-bib-0006" ref-type="ref">6</xref> This interstage period, the time between discharge to home after the Norwood procedure and the stage II operation, has been the focus of many efforts to reduce mortality. The effects of altering surgical options, such as use of the hybrid procedure<xref rid="jah31279-bib-0007" ref-type="ref">7</xref> and closer monitoring of infants with the use of home oxygen saturation or weight monitoring on interstage mortality, have been reported on.<xref rid="jah31279-bib-0008" ref-type="ref">8</xref> Though initial results have been promising, particularly in single&#x02010;center studies, sustainability of improved interstage mortality has not been demonstrated in multicenter studies.</p><p>Digoxin was traditionally a mainstay of treatment for heart failure (HF) in children.<xref rid="jah31279-bib-0009" ref-type="ref">9</xref>, <xref rid="jah31279-bib-0010" ref-type="ref">10</xref>, <xref rid="jah31279-bib-0011" ref-type="ref">11</xref>, <xref rid="jah31279-bib-0012" ref-type="ref">12</xref>, <xref rid="jah31279-bib-0013" ref-type="ref">13</xref> Over the last 2 decades, however, digoxin has lost favor with many pediatric cardiologists, with only 28% of patients in the National Pediatric Cardiology Quality Improvement Collaborative (NPC&#x02010;QIC) discharged home on the medicine.<xref rid="jah31279-bib-0014" ref-type="ref">14</xref> Reasons for the decreased use of digoxin include question about its mechanism of action, concerns about toxicity, and availability of other pharmacological options.<xref rid="jah31279-bib-0015" ref-type="ref">15</xref> However, it has recently been suggested that digoxin might play a role in reducing interstage mortality.<xref rid="jah31279-bib-0016" ref-type="ref">16</xref>
+</p><p>The objective of our study was to evaluate the association of outpatient digoxin use with interstage mortality in infants with single ventricle congenital heart disease in a multicenter study using data from the Pediatric Heart Network Single Ventricle Reconstruction (SVR) trial. We hypothesized that the use of digoxin would be associated with reduced interstage mortality.</p></sec><sec id="jah31279-sec-0005"><title>Methods</title><sec id="jah31279-sec-0006"><title>Data Source and Study Design</title><p>We performed a retrospective cohort study using data from the Pediatric Heart Network SVR Trial public use dataset (available at <ext-link ext-link-type="uri" xlink:href="http://www.pediatricheartnetwork.org/ForResearchers/PHNPublicUseDatasets.aspx">http://www.pediatricheartnetwork.org/ForResearchers/PHNPublicUseDatasets.aspx</ext-link>). The SVR trial has previously been well described.<xref rid="jah31279-bib-0017" ref-type="ref">17</xref> Briefly, the SVR trial enrolled infants in 2005&#x02013;2008 with single ventricle congenital heart disease with a dominant morphologically right ventricle with the purpose of comparing outcomes for the Norwood procedure with the modified Blalock&#x02010;Taussig shunt (MBTS) versus the right ventricle&#x02010;to&#x02010;pulmonary artery shunt (RVPAS). Infants were randomized to either of the 2 surgical treatment options and followed until 14&#x000a0;months of age. Institutional review board approval and informed consent were obtained at participating institutions for the initial trial, and the public use dataset contains no personally identifiable information.</p><p>For our study, the primary aim was to compare the interstage mortality for infants in the SVR trial for those who were discharged to home on digoxin compared to those discharged to home without digoxin. Interstage mortality was defined as death before stage II palliation. The inclusion criterion was any patient discharged to home after the Norwood procedure before stage II palliation. In order to avoid the potential confounder for mortality attributable to arrhythmia, which may be collinear with digoxin treatment, we excluded all infants with a history of arrhythmia during their Norwood hospitalization. In the SVR trial, arrhythmias that required medication or other treatment during the Norwood hospitalization were recorded; these included atrial fibrillation, atrial flutter, supraventricular tachycardia, junctional ectopic tachycardia, ventricular tachycardia, and second&#x02010; or third&#x02010;degree atrioventricular block. The secondary aim was to compare the occurrence of complications during the interstage period amongst the 2 groups.</p></sec><sec id="jah31279-sec-0007"><title>Statistical Analysis</title><p>Descriptive statistics were calculated for all variables of interest and include medians and ranges or counts and percentages, when appropriate. Demographics and clinical characteristics (pre&#x02010;Norwood, during Norwood hospitalization, and after discharge for Norwood) were compared between patients on digoxin at Norwood discharge to those not on digoxin at discharge. Comparisons were made using chi&#x02010;square tests for categorical variables and Wilcoxon rank&#x02010;sum tests for continuous variables. When expected cell counts were small (&#x0003c;5), an exact test was used in place of the chi&#x02010;square test. The majority of patients died or received their stage II surgery within 6&#x000a0;months of their Norwood surgery, with less than 13% of the original sample size remaining at risk at 7&#x000a0;months. As a result, survival estimates were based on 6&#x000a0;months after Norwood surgery.</p><p>The time&#x02010;dependent outcome of interstage mortality after Norwood was parametrically modeled. Parametric probability estimates for the time&#x02010;dependent outcome were derived from a model based on multiple, overlapping phases of risk (available for use with the SAS system at <ext-link ext-link-type="uri" xlink:href="https://www.lerner.ccf.org/qhs/software/hazard/documents/hazard.pdf">https://www.lerner.ccf.org/qhs/software/hazard/documents/hazard.pdf</ext-link>). The HAZARD procedure uses maximum likelihood estimates to resolve risk distribution of time to event in up to 3 phases of risk (early, constant, and late). For the outcome of interstage mortality, an early&#x02010;phase model best described the data, given that the vast majority of the deaths occurred within 2 to 3&#x000a0;months after the Norwood procedure.</p><p>Variables potentially influencing the likelihood of interstage mortality and included in the adjusted model were chosen a priori from demographic and clinical variables previously identified in the literature, namely: center volume (enrolled &#x0003c;20 patients in SVR trial vs &#x02265;20 patients); ascending aorta diameter (&#x0003c;0.3&#x000a0;cm preoperative measurement vs &#x02265;0.3&#x000a0;cm); shunt type (MBTS vs RVPAS); and socioeconomic status (census block poverty level, as a continuous variable).<xref rid="jah31279-bib-0002" ref-type="ref">2</xref> Before multivariable modeling, mean imputation was used to reduce list&#x02010;wise deletion of patients with missing data. Mean imputation was used only when data were missing at random, and provided that no more than 5% of the data for a specific variable were missing (ie, for socioeconomic status only). Effects of digoxin use on the probability of interstage mortality are given as a hazard ratio (HR) with an associated 95% CI. Statistical analyses were performed using SAS software (version 9.4; SAS Institute Inc., Cary, NC), and statistical significance was assessed at the 0.05 level.</p><p>We performed additional analyses to examine the impact of some of our assumptions on our results. First, though the HAZARD procedure in SAS allows us to parametrically model early hazard of mortality, it does not allow for modeling of random effects such as individual center. Therefore, to examine the possible influence of clustering of patients within centers, we further compared the estimate for the effect of digoxin on interstage mortality using a shared frailty model with PHREG treating center effects as independent and identically distributed random variables. Second, to assess the impact that removing children with a history of arrhythmia may have had on our findings, we performed a sensitivity analysis using our multivariate model in which we (1) analyzed the association of digoxin with mortality in only those with tachyarrhythmia and (2) analyzed the association of digoxin with mortality in all patients, both those without any arrhythmia and those with any tachyarrhythmia. For these sensitivity analyses, we excluded those with a history of second&#x02010; or third&#x02010;degree atrioventricular block, given that digoxin would be contraindicated in this population.</p></sec></sec><sec id="jah31279-sec-0008"><title>Results</title><p>Of 549 patients in the SVR trial, 330 met inclusion criteria for this study (Figure&#x000a0;<xref rid="jah31279-fig-0001" ref-type="fig">1</xref>). Of these, 102 (31%) were discharged to home on digoxin after the Norwood procedure. Those discharged home on digoxin did not differ from those not on digoxin with regard to demographic, preoperative, or operative characteristics, but those discharged home on digoxin were more likely to have longer length of stay after the Norwood procedure and were more likely to be of a younger age at the time of stage II palliation (Table&#x000a0;<xref rid="jah31279-tbl-0001" ref-type="table-wrap">1</xref>). There was wide variation with regard to use of digoxin by center, with use of digoxin at discharge ranging from 0% to 100% (Table&#x000a0;<xref rid="jah31279-tbl-0002" ref-type="table-wrap">2</xref>). Of the 12 centers that discharged more than 0%, but less than 100%, of infants home on digoxin, interstage mortality was lower in the digoxin group at 10 centers.</p><fig fig-type="Figure" xml:lang="en" id="jah31279-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Selection criteria. All patients enrolled in the Pediatric Heart Network Single Ventricle Reconstruction Trial were eligible for enrollment. Those who had a history of arrhythmia during hospitalization for the Norwood procedure, who did not survive to hospital discharge, or who remained in the hospital until their stage <styled-content style="fixed-case">II</styled-content> operation were excluded.</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-5-e002566-g001"/></fig><table-wrap id="jah31279-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Demographics of Digoxin vs No Dgoxin Groups</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Patient Characteristics</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Digoxin (N=102)</th><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">No Digoxin (N=228)</th><th align="left" rowspan="2" valign="top" colspan="1">
+<italic>P</italic> Value</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">N (%) or Median (IQR)</th><th align="left" valign="top" rowspan="1" colspan="1">N (%) or Median (IQR)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Sex, male</td><td align="left" rowspan="1" colspan="1">66 (64.7)</td><td align="left" rowspan="1" colspan="1">145 (63.6)</td><td align="left" rowspan="1" colspan="1">0.85</td></tr><tr><td align="left" colspan="4" rowspan="1">Race</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td><td align="left" rowspan="1" colspan="1">82 (80.4)</td><td align="left" rowspan="1" colspan="1">175 (76.8)</td><td align="left" rowspan="1" colspan="1">0.46</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Nonwhite</td><td align="left" rowspan="1" colspan="1">20 (19.6)</td><td align="left" rowspan="1" colspan="1">53 (23.2)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Hispanic</td><td align="left" rowspan="1" colspan="1">23 (22.5)</td><td align="left" rowspan="1" colspan="1">46 (20.4)</td><td align="left" rowspan="1" colspan="1">0.67</td></tr><tr><td align="left" rowspan="1" colspan="1">Birthweight, kg</td><td align="left" rowspan="1" colspan="1">3.07 (2.80&#x02013;3.45)</td><td align="left" rowspan="1" colspan="1">3.20 (2.78&#x02013;3.50)</td><td align="left" rowspan="1" colspan="1">0.51</td></tr><tr><td align="left" rowspan="1" colspan="1">Gestational age, weeks</td><td align="left" rowspan="1" colspan="1">39 (38&#x02013;39)</td><td align="left" rowspan="1" colspan="1">38 (38&#x02013;39)</td><td align="left" rowspan="1" colspan="1">0.58</td></tr><tr><td align="left" rowspan="1" colspan="1">Aortic atresia at screening</td><td align="left" rowspan="1" colspan="1">64 (62.7)</td><td align="left" rowspan="1" colspan="1">148 (64.9)</td><td align="left" rowspan="1" colspan="1">0.70</td></tr><tr><td align="left" rowspan="1" colspan="1">Age at Norwood, days</td><td align="left" rowspan="1" colspan="1">6 (4&#x02013;8)</td><td align="left" rowspan="1" colspan="1">6 (4&#x02013;8)</td><td align="left" rowspan="1" colspan="1">0.59</td></tr><tr><td align="left" colspan="4" rowspan="1">Norwood perfusion type</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">DHCA only</td><td align="left" rowspan="1" colspan="1">57 (56.4)</td><td align="left" rowspan="1" colspan="1">131 (58.0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">RCP only or RCP/DHCA time &#x02264;10&#x000a0;min</td><td align="left" rowspan="1" colspan="1">25 (24.8)</td><td align="left" rowspan="1" colspan="1">51 (22.5%)</td><td align="left" rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">DHCA and RCP time &#x0003e;10&#x000a0;min</td><td align="left" rowspan="1" colspan="1">19 (18.8)</td><td align="left" rowspan="1" colspan="1">44 (19.5)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Number of complications post&#x02010;Norwood</td><td align="left" rowspan="1" colspan="1">2.0 (1.0&#x02013;4.0)</td><td align="left" rowspan="1" colspan="1">2.0 (1.0&#x02013;5.0)</td><td align="left" rowspan="1" colspan="1">0.85</td></tr><tr><td align="left" rowspan="1" colspan="1">Syndrome or genetic anomaly</td><td align="left" rowspan="1" colspan="1">26 (31.3)</td><td align="left" rowspan="1" colspan="1">52 (30.8)</td><td align="left" rowspan="1" colspan="1">0.93</td></tr><tr><td align="left" colspan="4" rowspan="1">Shunt type at end of Norwood</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">MBTS</td><td align="left" rowspan="1" colspan="1">44 (43.1)</td><td align="left" rowspan="1" colspan="1">102 (44.7)</td><td align="left" rowspan="1" colspan="1">0.79</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">RVPAS</td><td align="left" rowspan="1" colspan="1">58 (56.9)</td><td align="left" rowspan="1" colspan="1">126 (55.3)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Not on oral feeds at Norwood discharge</td><td align="left" rowspan="1" colspan="1">21 (20.6)</td><td align="left" rowspan="1" colspan="1">53 (23.3)</td><td align="left" rowspan="1" colspan="1">0.58</td></tr><tr><td align="left" colspan="4" rowspan="1">AVVR grade PRE Norwood</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mild/none</td><td align="left" rowspan="1" colspan="1">88 (86.3)</td><td align="left" rowspan="1" colspan="1">203 (89.0)</td><td align="left" rowspan="1" colspan="1">0.47</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Moderate/severe</td><td align="left" rowspan="1" colspan="1">14 (13.7)</td><td align="left" rowspan="1" colspan="1">25 (11.0)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="4" rowspan="1">AVVR grade POST Norwood</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Mild/none</td><td align="left" rowspan="1" colspan="1">80 (78.4)</td><td align="left" rowspan="1" colspan="1">184 (80.7)</td><td align="left" rowspan="1" colspan="1">0.63</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Moderate/severe</td><td align="left" rowspan="1" colspan="1">22 (21.6)</td><td align="left" rowspan="1" colspan="1">44 (19.3)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Right ventricular fractional area change POST Norwood, N=314</td><td align="left" rowspan="1" colspan="1">0.36 (0.32&#x02013;0.41)</td><td align="left" rowspan="1" colspan="1">0.36 (0.32&#x02013;0.41)</td><td align="left" rowspan="1" colspan="1">0.60</td></tr><tr><td align="left" colspan="4" rowspan="1">Pre Norwood ascending aorta diameter, cm</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x0003c;0.3</td><td align="left" rowspan="1" colspan="1">45 (45.5)</td><td align="left" rowspan="1" colspan="1">121 (54.3)</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">&#x02265;0.3</td><td align="left" rowspan="1" colspan="1">54 (54.5)</td><td align="left" rowspan="1" colspan="1">102 (45.7)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Mitral valve or aortic Aatresia at baseline</td><td align="left" rowspan="1" colspan="1">54 (52.9)</td><td align="left" rowspan="1" colspan="1">121 (53.3)</td><td align="left" rowspan="1" colspan="1">0.95</td></tr><tr><td align="left" rowspan="1" colspan="1">Census block poverty level (%)</td><td align="left" rowspan="1" colspan="1">8.3 (3.1&#x02013;17.1)</td><td align="left" rowspan="1" colspan="1">8.9 (4.8&#x02013;17.1)</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Oxygen saturation at discharge</td><td align="left" rowspan="1" colspan="1">82 (80&#x02013;85)</td><td align="left" rowspan="1" colspan="1">83 (80&#x02013;86)</td><td align="left" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Postoperative length of stay, days</td><td align="left" rowspan="1" colspan="1">26 (19&#x02013;40)</td><td align="left" rowspan="1" colspan="1">21 (15&#x02013;33)</td><td align="left" rowspan="1" colspan="1">0.005*</td></tr><tr><td align="left" rowspan="1" colspan="1">Age at stage II palliation, days, N=289</td><td align="left" rowspan="1" colspan="1">148 (120&#x02013;187)</td><td align="left" rowspan="1" colspan="1">163 (137&#x02013;195)</td><td align="left" rowspan="1" colspan="1">0.005*</td></tr><tr><td align="left" colspan="4" rowspan="1">Center volume</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Small (&#x0003c;20 patients)</td><td align="left" rowspan="1" colspan="1">18 (17.6)</td><td align="left" rowspan="1" colspan="1">60 (26.3)</td><td align="left" rowspan="1" colspan="1">0.09</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Large (&#x02265;20 patients)</td><td align="left" rowspan="1" colspan="1">84 (82.4)</td><td align="left" rowspan="1" colspan="1">168 (73.7)</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><table-wrap-foot><fn id="jah31279-note-0001"><p>AVVR indicates atrioventricular valve regurgitation; DHCA, deep hypothermic circulatory arrest; MBTS, modified Blalock&#x02010;Taussig shunt; RCP, regional cerebral perfusion; RVPAS, right ventricle&#x02010;to&#x02010;pulmonary artery shunt.</p></fn></table-wrap-foot></table-wrap><table-wrap id="jah31279-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Percent of Infants Discharged to Home on Digoxin and Interstage Mortality by Center</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Center</th><th align="left" rowspan="2" valign="top" colspan="1">% on Digoxin</th><th align="left" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Interstage Mortality (%)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">On Digoxin</th><th align="left" valign="top" rowspan="1" colspan="1">NOT on Digoxin</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">A</td><td align="left" rowspan="1" colspan="1">0.0</td><td align="left" rowspan="1" colspan="1">N/A</td><td align="left" rowspan="1" colspan="1">40.0</td></tr><tr><td align="left" rowspan="1" colspan="1">B</td><td align="left" rowspan="1" colspan="1">5.6</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">11.8</td></tr><tr><td align="left" rowspan="1" colspan="1">C</td><td align="left" rowspan="1" colspan="1">8.3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">9.1</td></tr><tr><td align="left" rowspan="1" colspan="1">D</td><td align="left" rowspan="1" colspan="1">15.8</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">6.3</td></tr><tr><td align="left" rowspan="1" colspan="1">E</td><td align="left" rowspan="1" colspan="1">16.1</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">5.8</td></tr><tr><td align="left" rowspan="1" colspan="1">F</td><td align="left" rowspan="1" colspan="1">19.4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">13.8</td></tr><tr><td align="left" rowspan="1" colspan="1">G</td><td align="left" rowspan="1" colspan="1">21.4</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">21.2</td></tr><tr><td align="left" rowspan="1" colspan="1">H</td><td align="left" rowspan="1" colspan="1">21.7</td><td align="left" rowspan="1" colspan="1">20</td><td align="left" rowspan="1" colspan="1">27.8</td></tr><tr><td align="left" rowspan="1" colspan="1">I</td><td align="left" rowspan="1" colspan="1">22.7</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">5.9</td></tr><tr><td align="left" rowspan="1" colspan="1">J</td><td align="left" rowspan="1" colspan="1">28.6</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">20.0</td></tr><tr><td align="left" rowspan="1" colspan="1">K</td><td align="left" rowspan="1" colspan="1">33.3</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">16.7</td></tr><tr><td align="left" rowspan="1" colspan="1">L</td><td align="left" rowspan="1" colspan="1">65.0</td><td align="left" rowspan="1" colspan="1">3.9</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">M</td><td align="left" rowspan="1" colspan="1">81.5</td><td align="left" rowspan="1" colspan="1">4.6</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">N</td><td align="left" rowspan="1" colspan="1">100.0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">N/A</td></tr><tr><td align="left" rowspan="1" colspan="1">O</td><td align="left" rowspan="1" colspan="1">100.0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">N/A</td></tr></tbody></table><table-wrap-foot><fn id="jah31279-note-0003"><p>N/A indicates not applicable.</p></fn></table-wrap-foot></table-wrap><p>Overall, interstage mortality was significantly different between the 2 groups, with 28 of 228 (12.3%) of those not on digoxin dying before stage II palliation compared to 3 of 102 (2.9%) of those on digoxin (Figure&#x000a0;<xref rid="jah31279-fig-0002" ref-type="fig">2</xref>). With an absolute risk reduction of 9.4%, the number needed to treat (1/absolute risk reduction) in order to prevent 1 interstage death in this population is 11 patients. After adjusting for center volume, ascending aorta diameter, shunt type, and socioeconomic status, those not on digoxin had an HR for interstage mortality of 3.5 (95% CI, 1.1&#x02013;11.7; <italic>P</italic>=0.04) compared to those on digoxin (Table&#x000a0;<xref rid="jah31279-tbl-0003" ref-type="table-wrap">3</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah31279-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Parametric survival curve. This survival curves shows the interstage mortality for infants discharged to home after the Norwood procedure from 2005 to 2008 in the Pediatric Heart Network Single Ventricle Reconstruction Trial. Patients were censored at the time of the stage <styled-content style="fixed-case">II</styled-content> operation or at 6&#x000a0;months of age, whichever occurred earlier. Those discharged to home not on digoxin had significantly higher mortality than those on digoxin (<italic>P</italic>=0.02). After adjusting for center volume, ascending aorta diameter, shunt type, and socioeconomic status, those not on digoxin had a hazard ratio for interstage mortality of 3.5 (95% <styled-content style="fixed-case">CI,</styled-content> 1.1&#x02013;11.7; <italic>P</italic>=0.04) compared to those on digoxin.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-5-e002566-g002"/></fig><table-wrap id="jah31279-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Hazard Ratio for Interstage Mortality</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Outcome</th><th align="left" valign="top" rowspan="1" colspan="1">Group</th><th align="left" valign="top" rowspan="1" colspan="1">Number of Deaths (%)</th><th align="left" valign="top" rowspan="1" colspan="1">6&#x02010;Month Survival Rate (95% CI)</th><th align="left" valign="top" rowspan="1" colspan="1">Hazard Ratio<xref ref-type="fn" rid="jah31279-note-0004">a</xref>
+</th></tr></thead><tbody><tr><td align="left" rowspan="2" colspan="1">Interstage mortality</td><td align="left" rowspan="1" colspan="1">No Digoxin (N=228)</td><td align="left" rowspan="1" colspan="1">28 (12.3)</td><td align="left" rowspan="1" colspan="1">87.0% (84.2&#x02013;94.1)</td><td align="left" rowspan="2" colspan="1">
+3.5 (1.1&#x02013;11.7)<break/>
+<italic>P</italic>=0.04
+</td></tr><tr><td align="left" rowspan="1" colspan="1">Digoxin (N=102)</td><td align="left" rowspan="1" colspan="1">3 (2.9)</td><td align="left" rowspan="1" colspan="1">96.7% (94.1&#x02013;98.1)</td></tr></tbody></table><table-wrap-foot><fn id="jah31279-note-0004"><label>a</label><p>Adjusted for center volume, ascending aorta diameter, shunt type, and socioeconomic status.</p></fn></table-wrap-foot></table-wrap><p>Our additional analyses yielded similar results to this primary analysis. In the shared frailty model with center as a random effect, the estimated hazard of mortality in those not on digoxin was 3.8 times that of those that were on digoxin (95% CI, 1.1&#x02013;12.8; <italic>P</italic>=0.03). Moreover, the random effect for center was not statistically significant (<italic>P</italic>=0.15). In examination of the patients excluded on account of an arrhythmia, 91 had a tachyarrhythmia and survived to hospital discharge after the Norwood procedure. Of these, 50 were discharged to home on digoxin. Interstage mortality in the group not on digoxin was 17.1% (7 of 41) compared to 8.0% (4 of 50) for the group on digoxin (HR, 2.4; 95% CI, 0.7&#x02013;8.3; <italic>P</italic>=0.17). When adding these patients to the original analyses, the overall estimated hazard for mortality for the group not on digoxin was 3.2 times that of the group on digoxin (95% CI, 1.4&#x02013;7.2; <italic>P</italic>=0.005).</p><p>Overall, 52% of children experienced an adverse event during the interstage period. In the digoxin group, 56 of the 102 children experienced a total of 111 complications; among the children not on digoxin, 116 of the 228 infants had a total of 242 complications. There were no significant differences in the number of complications among any category (Table&#x000a0;<xref rid="jah31279-tbl-0004" ref-type="table-wrap">4</xref>).</p><table-wrap id="jah31279-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Complications Among Those on Digoxin vs Those Not on Digoxin During the Interstage Period</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Complication</th><th align="left" valign="top" rowspan="1" colspan="1">Digoxin (%) (N=102)</th><th align="left" valign="top" rowspan="1" colspan="1">No Digoxin (%) (N=228)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Arrhythmia</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">6 (2.6)</td><td align="left" rowspan="1" colspan="1">0.18</td></tr><tr><td align="left" rowspan="1" colspan="1">All other cardiac</td><td align="left" rowspan="1" colspan="1">15 (14.7)</td><td align="left" rowspan="1" colspan="1">31 (13.6)</td><td align="left" rowspan="1" colspan="1">0.79</td></tr><tr><td align="left" rowspan="1" colspan="1">Respiratory</td><td align="left" rowspan="1" colspan="1">25 (24.5)</td><td align="left" rowspan="1" colspan="1">44 (19.3)</td><td align="left" rowspan="1" colspan="1">0.28</td></tr><tr><td align="left" rowspan="1" colspan="1">Neurological</td><td align="left" rowspan="1" colspan="1">5 (4.9)</td><td align="left" rowspan="1" colspan="1">13 (5.7)</td><td align="left" rowspan="1" colspan="1">0.77</td></tr><tr><td align="left" rowspan="1" colspan="1">Gastrointestinal</td><td align="left" rowspan="1" colspan="1">15 (14.7)</td><td align="left" rowspan="1" colspan="1">28 (12.3)</td><td align="left" rowspan="1" colspan="1">0.55</td></tr><tr><td align="left" rowspan="1" colspan="1">Infectious</td><td align="left" rowspan="1" colspan="1">26 (25.5)</td><td align="left" rowspan="1" colspan="1">61 (26.8)</td><td align="left" rowspan="1" colspan="1">0.81</td></tr><tr><td align="left" rowspan="1" colspan="1">Renal</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">2 (0.9)</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Hematologic/vascular</td><td align="left" rowspan="1" colspan="1">2 (2.0)</td><td align="left" rowspan="1" colspan="1">7 (3.1)</td><td align="left" rowspan="1" colspan="1">0.73</td></tr><tr><td align="left" rowspan="1" colspan="1">Other</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td><td align="left" rowspan="1" colspan="1">8 (3.5)</td><td align="left" rowspan="1" colspan="1">0.06</td></tr><tr><td align="left" rowspan="1" colspan="1">Any complication</td><td align="left" rowspan="1" colspan="1">56 (54.9)</td><td align="left" rowspan="1" colspan="1">116 (50.9)</td><td align="left" rowspan="1" colspan="1">0.50</td></tr></tbody></table></table-wrap></sec><sec id="jah31279-sec-0009"><title>Discussion</title><p>In this large, multicenter cohort study of infants with single right ventricle congenital heart disease, we found the use of digoxin to be associated with significantly reduced interstage mortality. Those subjects not discharged on digoxin had a more than 3&#x02010;fold higher hazard of interstage mortality as compared to those prescribed the drug. For every 11 children treated with digoxin, 1 interstage death would be prevented. Given this potential benefit and the lack of difference between significant adverse events observed between the 2 cohorts, the routine use of digoxin should be considered during the interstage period.</p><p>Our findings are in agreement with the only other multicenter study, to our knowledge, to examine the association of digoxin with interstage mortality. In a study using data from the NPC&#x02010;QIC in June 2008 to July 2013, Brown et&#x000a0;al. found that not being on digoxin at the time of discharge after the Norwood procedure conferred an increase in the absolute risk of interstage mortality of 11% and an adjusted odds ratio for interstage mortality of 2.9.<xref rid="jah31279-bib-0016" ref-type="ref">16</xref> We found similar results in our study, but by using survival analysis methods instead of logistic regression, our study accounted for the fact that there are varying durations of time at risk for each individual. Nevertheless, the fact that 2 separate independent multicenter studies with different time periods (minimal overlap of 6&#x000a0;months, during which the NPC&#x02010;QIC enrolled fewer than 10 patients) found similar results with similar effect sizes lends credence to the finding that digoxin may bestow a protective effect against interstage mortality for infants with single ventricle congenital heart disease.<xref rid="jah31279-bib-0018" ref-type="ref">18</xref>
+</p><p>If digoxin may have such important effects on improving cardiac function and hemodynamics, why then is it not more commonly prescribed? Indeed, digoxin, the oldest drug available for treatment of HF, was formerly the mainstay of treatment for HF in both adults and children given its supposed effects on inotropy, chronotropy, and the sympathetic nervous system, although its demonstration in laboratory studies did not always translate to clinical improvement.<xref rid="jah31279-bib-0019" ref-type="ref">19</xref>, <xref rid="jah31279-bib-0020" ref-type="ref">20</xref>, <xref rid="jah31279-bib-0021" ref-type="ref">21</xref>, <xref rid="jah31279-bib-0022" ref-type="ref">22</xref>, <xref rid="jah31279-bib-0023" ref-type="ref">23</xref> However, in 1997, the Digitalis Investigation Group conducted a randomized, placebo&#x02010;controlled trial of 7800 adults and found no improvement in mortality.<xref rid="jah31279-bib-0024" ref-type="ref">24</xref> Digoxin use subsequently declined both among adults and children.<xref rid="jah31279-bib-0025" ref-type="ref">25</xref> With no proven benefit and concerns about toxicity, many advocated against its use in children.<xref rid="jah31279-bib-0026" ref-type="ref">26</xref>
+</p><p>Episodes of digoxin toxicity were observed neither in our study nor in a recent randomized, double&#x02010;blind, multicenter study comparing the use of digoxin versus propranolol for treatment of supraventricular tachycardia.<xref rid="jah31279-bib-0027" ref-type="ref">27</xref> However, the risk of digoxin toxicity should not be ignored, particularly given that there is a decreased clearance of digoxin in children as compared to adults.<xref rid="jah31279-bib-0028" ref-type="ref">28</xref>, <xref rid="jah31279-bib-0029" ref-type="ref">29</xref> Although rare, digoxin toxicity is a well&#x02010;recognized entity in children, characterized by nausea, vomiting, anorexia, weakness, and atrioventricular block.<xref rid="jah31279-bib-0010" ref-type="ref">10</xref>, <xref rid="jah31279-bib-0030" ref-type="ref">30</xref>
+</p><p>There are important limitations to our study. First, this was an observational study and participants were not randomized to receive digoxin. Whereas a randomized control trial would be ideal, this may not be feasible. With a recent baseline interstage mortality rate of 8%,<xref rid="jah31279-bib-0031" ref-type="ref">31</xref> a study would need to enroll 1000 infants with single ventricle who survived to Norwood discharge in order to have 80% power to detect a difference of 10% interstage mortality in the no digoxin group versus 5% in the digoxin group. Second, our analyses were all intention to treat. Though we know whether kids were discharged from the hospital to home on digoxin after the Norwood procedure, we do not know whether those on digoxin took the medicine or were continued on the medicine, nor do we know whether those not discharged to home on the medicine were later prescribed it as an outpatient. Regardless, the approach that we used did reflect real&#x02010;world conditions, and our findings can be used to dictate decision making at the time of discharge after the Norwood procedure. Third, we do not know what dosing regimen was used. The recommended dosing regimen for infants 1&#x000a0;month to 2&#x000a0;years of age is 10 to 15&#x000a0;&#x003bc;g/kg/day, although lower dosing may be needed for treatment of HF.<xref rid="jah31279-bib-0015" ref-type="ref">15</xref> Future research into the optimal dosing regimen for children during the interstage period is still needed. Finally, we do not have information regarding an indication for why a child was on digoxin. We excluded all children with a history of arrhythmia in our initial analyses, and children with single ventricle congenital heart disease typically have some degree of HF.<xref rid="jah31279-bib-0021" ref-type="ref">21</xref> In our experience, the choice of whether to treat a child with digoxin is driven by physician preference, but it may be possible that children treated with digoxin had some unmeasured variable that influenced the decision to treat them. We attempted to control for such factors, including effects of surgical center, and found no such associations in our study. Furthermore, we found similar effect sizes for digoxin in patients both with and without arrhythmia. Of note, if the choice was made to treat these children because they were felt to be in more&#x02010;severe HF and digoxin were to have no effect on mortality, one would expect their outcomes to be worse, not better.</p></sec><sec id="jah31279-sec-0010"><title>Conclusions</title><p>In the Pediatric Heart Network SVR trial, infants with single right ventricle congenital heart disease who were not prescribed digoxin upon discharge after the Norwood procedure had greater than 3 times the hazards of interstage mortality as compared to those prescribed digoxin.</p></sec><sec id="jah31279-sec-0012"><title>Disclosures</title><p>None.</p></sec></body><back><ack id="jah31279-sec-0011"><title>Acknowledgments</title><p>The NIH/NHLBI Pediatric Heart Network Single Ventricle Reconstruction Trial dataset was used in preparation of this work. Data were downloaded from <ext-link ext-link-type="uri" xlink:href="http://www.pediatricheartnetwork.org/ForResearchers/PHNPublicUseDatasets/SingleVentricleReconstructionTrial.aspx">http://www.pediatricheartnetwork.org/ForResearchers/PHNPublicUseDatasets/SingleVentricleReconstructionTrial.aspx</ext-link> on January 4, 2016. The authors acknowledge all those who have contributed to the Pediatric Heart Network. The authors specifically thank Victor Zak, PhD, at New England Research Institutes, for his help in working with the Pediatric Heart Network SVR Public Use Dataset.</p></ack><ref-list content-type="cited-references" id="jah31279-bibl-0001"><title>References</title><ref id="jah31279-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah31279-cit-0001">
+<string-name>
+<surname>Ohye</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Sleeper</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Mahony</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Newburger</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Lu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Tabbutt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Frommelt</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Ghanayem</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Laussen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Rhodes</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Mital</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ravishankar</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Dunbar&#x02010;Masterson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Atz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Colan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Minich</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Pizarro</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Kanter</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Jaggers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Krawczeski</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Pike</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>McCrindle</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Virzi</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Gaynor</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>Comparison of shunt types in the Norwood procedure for single&#x02010;ventricle lesions</article-title>. <source>N Engl J Med</source>. <year>2010</year>;<volume>362</volume>:<fpage>1980</fpage>&#x02013;<lpage>1992</lpage>.<pub-id pub-id-type="pmid">20505177</pub-id></mixed-citation></ref><ref id="jah31279-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah31279-cit-0002">
+<string-name>
+<surname>Ghanayem</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Tabbutt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Atz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Clabby</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Cooper</surname>
+<given-names>DS</given-names>
+</string-name>, <string-name>
+<surname>Eghtesady</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Frommelt</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Gruber</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Kaltman</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Laussen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Lurito</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Minich</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Ohye</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Schonbeck</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Schwartz</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>RK</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Interstage mortality after the Norwood procedure: results of the multicenter Single Ventricle Reconstruction trial</article-title>. <source>J Thorac Cardiovasc Surg</source>. <year>2012</year>;<volume>144</volume>:<fpage>896</fpage>&#x02013;<lpage>906</lpage>.<pub-id pub-id-type="pmid">22795436</pub-id></mixed-citation></ref><ref id="jah31279-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah31279-cit-0003">
+<string-name>
+<surname>Ohye</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Schonbeck</surname>
+<given-names>JV</given-names>
+</string-name>, <string-name>
+<surname>Eghtesady</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Laussen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Pizarro</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Shrader</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Frank</surname>
+<given-names>DU</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Kanter</surname>
+<given-names>KR</given-names>
+</string-name>, <string-name>
+<surname>Kirsh</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Lambert</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>AB</given-names>
+</string-name>, <string-name>
+<surname>Ravishankar</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tweddell</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>IA</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>GD</given-names>
+</string-name>. <article-title>Cause, timing, and location of death in the Single Ventricle Reconstruction trial</article-title>. <source>J Thorac Cardiovasc Surg</source>. <year>2012</year>;<volume>144</volume>:<fpage>907</fpage>&#x02013;<lpage>914</lpage>.<pub-id pub-id-type="pmid">22901498</pub-id></mixed-citation></ref><ref id="jah31279-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah31279-cit-0004">
+<string-name>
+<surname>Jacobs</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>O'Brien</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Pasquali</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Lacour&#x02010;Gayet</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Tchervenkov</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name>
+<surname>Austin</surname>
+<given-names>EH</given-names>
+<suffix>III</suffix>
+</string-name>, <string-name>
+<surname>Pizarro</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Pourmoghadam</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Scholl</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Welke</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name>
+<surname>Mavroudis</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Variation in outcomes for benchmark operations: an analysis of the Society of Thoracic Surgeons Congenital Heart Surgery Database</article-title>. <source>Ann Thorac Surg</source>. <year>2011</year>;<volume>92</volume>:<fpage>2184</fpage>&#x02013;<lpage>2191</lpage>; discussion 2191&#x02010;2182.<pub-id pub-id-type="pmid">22115229</pub-id></mixed-citation></ref><ref id="jah31279-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah31279-cit-0005">
+<string-name>
+<surname>Tweddell</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Hoffman</surname>
+<given-names>GM</given-names>
+</string-name>, <string-name>
+<surname>Mussatto</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Fedderly</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Berger</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Jaquiss</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Ghanayem</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Frisbee</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Litwin</surname>
+<given-names>SB</given-names>
+</string-name>. <article-title>Improved survival of patients undergoing palliation of hypoplastic left heart syndrome: lessons learned from 115 consecutive patients</article-title>. <source>Circulation</source>. <year>2002</year>;<volume>106</volume>:<fpage>I82</fpage>&#x02013;<lpage>I89</lpage>.<pub-id pub-id-type="pmid">12354714</pub-id></mixed-citation></ref><ref id="jah31279-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah31279-cit-0006">
+<string-name>
+<surname>Rudd</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Frommelt</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Tweddell</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Hehir</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Mussatto</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Frontier</surname>
+<given-names>KD</given-names>
+</string-name>, <string-name>
+<surname>Slicker</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Bartz</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Ghanayem</surname>
+<given-names>NS</given-names>
+</string-name>. <article-title>Improving interstage survival after norwood operation: outcomes from 10&#x000a0;years of home monitoring</article-title>. <source>J Thorac Cardiovasc Surg</source>. <year>2014</year>;<volume>148</volume>:<fpage>1540</fpage>&#x02013;<lpage>1547</lpage>.<pub-id pub-id-type="pmid">24667026</pub-id></mixed-citation></ref><ref id="jah31279-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah31279-cit-0007">
+<string-name>
+<surname>Chetan</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kotani</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Jacques</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Poynter</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Benson</surname>
+<given-names>LN</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Chaturvedi</surname>
+<given-names>RR</given-names>
+</string-name>, <string-name>
+<surname>Friedberg</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Van Arsdell</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Caldarone</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Honjo</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>Surgical palliation strategy does not affect interstage ventricular dysfunction or atrioventricular valve regurgitation in children with hypoplastic left heart syndrome and variants</article-title>. <source>Circulation</source>. <year>2013</year>;<volume>128</volume>:<fpage>S205</fpage>&#x02013;<lpage>S212</lpage>.<pub-id pub-id-type="pmid">24030408</pub-id></mixed-citation></ref><ref id="jah31279-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah31279-cit-0008">
+<string-name>
+<surname>Oster</surname>
+<given-names>ME</given-names>
+</string-name>, <string-name>
+<surname>Ehrlich</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>King</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Petit</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Clabby</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Glanville</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Darbie</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Beekman</surname>
+<given-names>RH</given-names>
+<suffix>III</suffix>
+</string-name>. <article-title>Association of interstage home monitoring with mortality, readmissions, and weight gain: a multicenter study from the National Pediatric Cardiology Quality Improvement Collaborative</article-title>. <source>Circulation</source>. <year>2015</year>;<volume>132</volume>:<fpage>502</fpage>&#x02013;<lpage>508</lpage>.<pub-id pub-id-type="pmid">26260497</pub-id></mixed-citation></ref><ref id="jah31279-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah31279-cit-0009">
+<string-name>
+<surname>Jackson</surname>
+<given-names>PL</given-names>
+</string-name>. <article-title>Congenital heart disease. Digoxin therapy at home: keeping the child safe</article-title>. <source>MCN Am J Matern Child Nurs</source>. <year>1979</year>;<volume>4</volume>:<fpage>105</fpage>&#x02013;<lpage>109</lpage>.<pub-id pub-id-type="pmid">104114</pub-id></mixed-citation></ref><ref id="jah31279-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah31279-cit-0010">
+<string-name>
+<surname>Artman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Graham</surname>
+<given-names>TP</given-names>
+<suffix>Jr</suffix>
+</string-name>. <article-title>Congestive heart failure in infancy: recognition and management</article-title>. <source>Am Heart J</source>. <year>1982</year>;<volume>103</volume>:<fpage>1040</fpage>&#x02013;<lpage>1055</lpage>.<pub-id pub-id-type="pmid">7044083</pub-id></mixed-citation></ref><ref id="jah31279-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah31279-cit-0011">
+<string-name>
+<surname>Kaplan</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>New drug approaches to the treatment of heart failure in infants and children</article-title>. <source>Drugs</source>. <year>1990</year>;<volume>39</volume>:<fpage>388</fpage>&#x02013;<lpage>393</lpage>.<pub-id pub-id-type="pmid">2184007</pub-id></mixed-citation></ref><ref id="jah31279-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah31279-cit-0012">
+<string-name>
+<surname>Moodie</surname>
+<given-names>DS</given-names>
+</string-name>. <article-title>Medical management of infants and children with congenital heart disease</article-title>. <source>Cardiovasc Clin</source>. <year>1981</year>;<volume>12</volume>:<fpage>177</fpage>&#x02013;<lpage>186</lpage>.<pub-id pub-id-type="pmid">7201345</pub-id></mixed-citation></ref><ref id="jah31279-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah31279-cit-0013">
+<string-name>
+<surname>Rheuban</surname>
+<given-names>KS</given-names>
+</string-name>. <article-title>The infant with congenital heart disease: guidelines for care in the first year of life</article-title>. <source>Clin Perinatol</source>. <year>1984</year>;<volume>11</volume>:<fpage>199</fpage>&#x02013;<lpage>212</lpage>.<pub-id pub-id-type="pmid">6370548</pub-id></mixed-citation></ref><ref id="jah31279-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah31279-cit-0014">
+<string-name>
+<surname>Ghelani</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Spurney</surname>
+<given-names>CF</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Cross</surname>
+<given-names>RR</given-names>
+</string-name>. <article-title>Impact of pharmacotherapy on interstage mortality and weight gain in children with single ventricle</article-title>. <source>Congenit Heart Dis</source>. <year>2013</year>;<volume>8</volume>:<fpage>219</fpage>&#x02013;<lpage>227</lpage>.<pub-id pub-id-type="pmid">23157489</pub-id></mixed-citation></ref><ref id="jah31279-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah31279-cit-0015">
+<string-name>
+<surname>Ross</surname>
+<given-names>RD</given-names>
+</string-name>. <article-title>Medical management of chronic heart failure in children</article-title>. <source>Am J Cardiovasc Drugs</source>. <year>2001</year>;<volume>1</volume>:<fpage>37</fpage>&#x02013;<lpage>44</lpage>.<pub-id pub-id-type="pmid">14728050</pub-id></mixed-citation></ref><ref id="jah31279-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah31279-cit-0016">
+<string-name>
+<surname>Brown</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Mangeot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>King</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lihn</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Neish</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Beekman</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lannon</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Digoxin use at discharge is associated with reduced interstage mortality after stage I palliation for single ventricle heart disease</article-title>. <source>J&#x000a0;Am Coll Cardiol</source>. <year>2015</year>; doi: <ext-link ext-link-type="doi" xlink:href="10.1016/S0735-1097(15)60488-0">10.1016/S0735&#x02010;1097(15)60488&#x02010;0</ext-link> (Abs).</mixed-citation></ref><ref id="jah31279-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah31279-cit-0017">
+<string-name>
+<surname>Ohye</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Gaynor</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Ghanayem</surname>
+<given-names>NS</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>CS</given-names>
+</string-name>, <string-name>
+<surname>Laussen</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Frommelt</surname>
+<given-names>PC</given-names>
+</string-name>, <string-name>
+<surname>Newburger</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Tabbutt</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wernovsky</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Wruck</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Atz</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Colan</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Jaggers</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>McCrindle</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Prakash</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Puchalski</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Sleeper</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Stylianou</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Mahony</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Design and rationale of a randomized trial comparing the Blalock&#x02010;Taussig and right ventricle&#x02010;pulmonary artery shunts in the Norwood procedure</article-title>. <source>J Thorac Cardiovasc Surg</source>. <year>2008</year>;<volume>136</volume>:<fpage>968</fpage>&#x02013;<lpage>975</lpage>.<pub-id pub-id-type="pmid">18954638</pub-id></mixed-citation></ref><ref id="jah31279-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah31279-cit-0018">
+<string-name>
+<surname>Anderson</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Iyer</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Beekman</surname>
+<given-names>RH</given-names>
+<suffix>III</suffix>
+</string-name>, <string-name>
+<surname>Jenkins</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Klitzner</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Kugler</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Neish</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Lannon</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>National pediatric cardiology quality improvement: lessons from development and early years</article-title>. <source>Prog Pediatr Cardiol</source>. <year>2011</year>;<volume>32</volume>:<fpage>103</fpage>&#x02013;<lpage>109</lpage>.</mixed-citation></ref><ref id="jah31279-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah31279-cit-0019">
+<string-name>
+<surname>Venables</surname>
+<given-names>AW</given-names>
+</string-name>. <article-title>The total management of congenital heart disease in infancy</article-title>. <source>Med J Aust</source>. <year>1964</year>;<volume>2</volume>:<fpage>748</fpage>&#x02013;<lpage>750</lpage>.<pub-id pub-id-type="pmid">14225411</pub-id></mixed-citation></ref><ref id="jah31279-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah31279-cit-0020">
+<string-name>
+<surname>Bautista&#x02010;Hernandez</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Sanchez&#x02010;Andres</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Portela</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Fynn&#x02010;Thompson</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Current pharmacologic management of pediatric heart failure in congenital heart disease</article-title>. <source>Curr Vasc Pharmacol</source>. <year>2011</year>;<volume>9</volume>:<fpage>619</fpage>&#x02013;<lpage>628</lpage>.<pub-id pub-id-type="pmid">21314633</pub-id></mixed-citation></ref><ref id="jah31279-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah31279-cit-0021">
+<string-name>
+<surname>Kantor</surname>
+<given-names>PF</given-names>
+</string-name>, <string-name>
+<surname>Redington</surname>
+<given-names>AN</given-names>
+</string-name>. <article-title>Pathophysiology and management of heart failure in repaired congenital heart disease</article-title>. <source>Heart Fail Clin</source>. <year>2010</year>;<volume>6</volume>:<fpage>497</fpage>&#x02013;<lpage>506</lpage>, ix.<pub-id pub-id-type="pmid">20869649</pub-id></mixed-citation></ref><ref id="jah31279-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah31279-cit-0022">
+<string-name>
+<surname>Redington</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name>
+<surname>Carvalho</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Shinebourne</surname>
+<given-names>EA</given-names>
+</string-name>. <article-title>Does digoxin have a place in the treatment of the child with congenital heart disease?</article-title>
+<source>Cardiovasc Drugs Ther</source>. <year>1989</year>;<volume>3</volume>:<fpage>21</fpage>&#x02013;<lpage>24</lpage>.<pub-id pub-id-type="pmid">2487520</pub-id></mixed-citation></ref><ref id="jah31279-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah31279-cit-0023">
+<string-name>
+<surname>Ferguson</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Berg</surname>
+<given-names>WJ</given-names>
+</string-name>, <string-name>
+<surname>Sanders</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Roach</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Kempf</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kienzle</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Sympathoinhibitory responses to digitalis glycosides in heart failure patients. Direct evidence from sympathetic neural recordings</article-title>. <source>Circulation</source>. <year>1989</year>;<volume>80</volume>:<fpage>65</fpage>&#x02013;<lpage>77</lpage>.<pub-id pub-id-type="pmid">2736756</pub-id></mixed-citation></ref><ref id="jah31279-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah31279-cit-0024">
+<article-title>The effect of digoxin on mortality and morbidity in patients with heart failure</article-title>. <source>N Engl J Med</source>. <year>1997</year>;<volume>336</volume>:<fpage>525</fpage>&#x02013;<lpage>533</lpage>.<pub-id pub-id-type="pmid">9036306</pub-id></mixed-citation></ref><ref id="jah31279-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah31279-cit-0025">
+<string-name>
+<surname>Ambrosy</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Ahmed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Vaduganathan</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>van Veldhuisen</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Colucci</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Gheorghiade</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>The use of digoxin in patients with worsening chronic heart failure: reconsidering an old drug to reduce hospital admissions</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>1823</fpage>&#x02013;<lpage>1832</lpage>.<pub-id pub-id-type="pmid">24613328</pub-id></mixed-citation></ref><ref id="jah31279-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah31279-cit-0026">
+<string-name>
+<surname>Rychik</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Goldberg</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Dodds</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Long&#x02010;term results and consequences of single ventricle palliation</article-title>. <source>Prog Pediatr Cardiol</source>. <year>2010</year>;<volume>29</volume>:<fpage>19</fpage>&#x02013;<lpage>23</lpage>.</mixed-citation></ref><ref id="jah31279-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah31279-cit-0027">
+<string-name>
+<surname>Sanatani</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Potts</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Reed</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Saul</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Stephenson</surname>
+<given-names>EA</given-names>
+</string-name>, <string-name>
+<surname>Gibbs</surname>
+<given-names>KA</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Mackie</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Ro</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Tisma&#x02010;Dupanovic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kanter</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Batra</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Fournier</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Blaufox</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Singh</surname>
+<given-names>HR</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Wong</surname>
+<given-names>KK</given-names>
+</string-name>, <string-name>
+<surname>Bar&#x02010;Cohen</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>McCrindle</surname>
+<given-names>BW</given-names>
+</string-name>, <string-name>
+<surname>Etheridge</surname>
+<given-names>SP</given-names>
+</string-name>. <article-title>The study of antiarrhythmic medications in infancy (SAMIS): a multicenter, randomized controlled trial comparing the efficacy and safety of digoxin versus propranolol for prophylaxis of supraventricular tachycardia in infants</article-title>. <source>Circ Arrhythm Electrophysiol</source>. <year>2012</year>;<volume>5</volume>:<fpage>984</fpage>&#x02013;<lpage>991</lpage>.<pub-id pub-id-type="pmid">22962431</pub-id></mixed-citation></ref><ref id="jah31279-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah31279-cit-0028">
+<string-name>
+<surname>Bajcetic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Uzelac</surname>
+<given-names>TV</given-names>
+</string-name>, <string-name>
+<surname>Jovanovic</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Heart failure pharmacotherapy: differences between adult and paediatric patients</article-title>. <source>Curr Med Chem</source>. <year>2014</year>;<volume>21</volume>:<fpage>3108</fpage>&#x02013;<lpage>3120</lpage>.<pub-id pub-id-type="pmid">24606511</pub-id></mixed-citation></ref><ref id="jah31279-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah31279-cit-0029">
+<string-name>
+<surname>Hayes</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>
+<given-names>VP</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Gersony</surname>
+<given-names>WM</given-names>
+</string-name>. <article-title>Serum digoxin studies in infants and children</article-title>. <source>Pediatrics</source>. <year>1973</year>;<volume>52</volume>:<fpage>561</fpage>&#x02013;<lpage>568</lpage>.<pub-id pub-id-type="pmid">4742251</pub-id></mixed-citation></ref><ref id="jah31279-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah31279-cit-0030">
+<string-name>
+<surname>Moffett</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Garner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Zapata</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Orcutt</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Niu</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lopez</surname>
+<given-names>KN</given-names>
+</string-name>. <article-title>Serum digoxin concentrations and clinical signs and symptoms of digoxin toxicity in the paediatric population</article-title>. <source>Cardiol Young</source>. <year>2015</year>;<fpage>1</fpage>&#x02013;<lpage>6</lpage>.</mixed-citation></ref><ref id="jah31279-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah31279-cit-0031">
+<string-name>
+<surname>Anderson</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Beekman</surname>
+<given-names>RH</given-names>
+<suffix>III</suffix>
+</string-name>, <string-name>
+<surname>Kugler</surname>
+<given-names>JD</given-names>
+</string-name>, <string-name>
+<surname>Rosenthal</surname>
+<given-names>GL</given-names>
+</string-name>, <string-name>
+<surname>Jenkins</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Klitzner</surname>
+<given-names>TS</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>Neish</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Mangeot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>King</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Provost</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lannon</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Improvement in interstage survival in a national pediatric cardiology learning network</article-title>. <source>Circ Cardiovasc Qual Outcomes</source>. <year>2015</year>;<volume>8</volume>:<fpage>428</fpage>&#x02013;<lpage>436</lpage>.<pub-id pub-id-type="pmid">26058717</pub-id></mixed-citation></ref></ref-list></back></article>

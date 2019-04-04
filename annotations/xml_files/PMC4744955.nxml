@@ -1,0 +1,542 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Clin Periodontol</journal-id><journal-id journal-id-type="iso-abbrev">J. Clin. Periodontol</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1600-051X</journal-id><journal-id journal-id-type="publisher-id">JCPE</journal-id><journal-title-group><journal-title>Journal of Clinical Periodontology</journal-title></journal-title-group><issn pub-type="ppub">0303-6979</issn><issn pub-type="epub">1600-051X</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26087864</article-id><article-id pub-id-type="pmc">4744955</article-id><article-id pub-id-type="doi">10.1111/jcpe.12428</article-id><article-id pub-id-type="publisher-id">JCPE12428</article-id><article-categories><subj-group subj-group-type="overline"><subject>Randomized Clinical Trial</subject></subj-group><subj-group subj-group-type="heading"><subject>Periodontal Therapy</subject></subj-group></article-categories><title-group><article-title>A randomized trial of ethyl lauroyl arginate&#x02010;containing mouthrinse in the control of gingivitis</article-title><alt-title alt-title-type="left-running-head">Gallob et&#x000a0;al.</alt-title></title-group><contrib-group><contrib id="jcpe12428-cr-0001" contrib-type="author"><name><surname>Gallob</surname><given-names>John T.</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0002" contrib-type="author" corresp="yes"><name><surname>Lynch</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0003" contrib-type="author"><name><surname>Charles</surname><given-names>Christine</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0004" contrib-type="author"><name><surname>Ricci&#x02010;Nittel</surname><given-names>Danette</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0005" contrib-type="author"><name><surname>Mordas</surname><given-names>Carolyn</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0006" contrib-type="author"><name><surname>Gambogi</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0007" contrib-type="author"><name><surname>Revankar</surname><given-names>Ratna</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0008" contrib-type="author"><name><surname>Mutti</surname><given-names>Bruna</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jcpe12428-cr-0009" contrib-type="author"><name><surname>Labella</surname><given-names>Roberto</given-names></name><xref ref-type="aff" rid="jcpe12428-aff-0005">
+<sup>5</sup>
+</xref></contrib></contrib-group><aff id="jcpe12428-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">School of Dental Medicine</named-content><institution>University of Nevada</institution><named-content content-type="city">Las Vegas</named-content><named-content content-type="country-part">NV</named-content><country country="US">USA</country></aff><aff id="jcpe12428-aff-0002"><label><sup>2</sup></label><institution>Johnson &#x00026; Johnson Consumer and Personal Products Worldwide</institution><named-content content-type="city">Skillman</named-content><named-content content-type="country-part">NJ</named-content><country country="US">USA</country></aff><aff id="jcpe12428-aff-0003"><label><sup>3</sup></label><institution>Johnson &#x00026; Johnson Consumer Companies</institution><named-content content-type="city">Morris Plains</named-content><named-content content-type="country-part">NJ</named-content><country country="US">USA</country></aff><aff id="jcpe12428-aff-0004"><label><sup>4</sup></label><institution>Johnson &#x00026; Johnson GmbH</institution><named-content content-type="city">Neuss</named-content><country country="DE">Germany</country></aff><aff id="jcpe12428-aff-0005"><label><sup>5</sup></label><institution>Johnson &#x00026; Johnson Consumer Services EAME Ltd.</institution><named-content content-type="city">Maidenhead</named-content><country country="GB">UK</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label>
+Address:<break/><italic>Michael Lynch</italic><break/><italic>Division of Johnson &#x00026; Johnson</italic><break/><italic>Johnson &#x00026; Johnson Consumer and Personal Products Worldwide</italic><break/><italic>199 Grandview Road</italic><break/><italic>Skillman</italic><break/><italic>NJ 08558</italic><break/><italic>USA</italic><break/>
+E&#x02010;mail: <email>mlynch23@its.jnj.com</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>15</day><month>8</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>8</month><year>2015</year></pub-date><volume>42</volume><issue>8</issue><issue-id pub-id-type="doi">10.1111/jcpe.2015.42.issue-8</issue-id><fpage>740</fpage><lpage>747</lpage><history><date date-type="accepted"><day>22</day><month>2</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2015 John Wiley & Sons A/S. Published by John Wiley & Sons Ltd <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. <italic>Journal of Clinical Periodontology</italic> Published by John Wiley &#x00026; Sons Ltd.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JCPE-42-740.pdf"/><abstract id="jcpe12428-abs-0001"><title>Abstract</title><sec id="jcpe12428-sec-0001"><title>Aim</title><p>This 4&#x02010;week, single&#x02010;centre, randomized, examiner&#x02010;blind, controlled study investigated the efficacy and safety of 0.15% ethyl lauroyl arginate (<styled-content style="fixed-case">LAE</styled-content>)&#x02010;containing mouthrinse in adults with mild&#x02010;to&#x02010;moderate gingivitis.</p></sec><sec id="jcpe12428-sec-0002"><title>Material and Methods</title><p>Subjects were randomized to use 0.15% <styled-content style="fixed-case">LAE</styled-content>&#x02010;containing mouthrinse or 5% hydroalcohol&#x02010;negative control twice daily after brushing with standard fluoride toothpaste. Plaque, gingivitis and bleeding were assessed at baseline and Weeks 2 and 4. The oral microflora was analysed at baseline and Week 4.</p></sec><sec id="jcpe12428-sec-0003"><title>Results</title><p>Eighty&#x02010;seven subjects were randomized to treatment. The 0.15% <styled-content style="fixed-case">LAE</styled-content>&#x02010;containing mouthrinse was associated with statistically significantly (<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001) greater reductions in mean plaque and gingivitis scores <italic>versus</italic> the negative control at Week 2 (difference [95% confidence interval]: plaque 0.83 [0.64, 1.02], 29.1%; gingivitis 0.11 [0.07, 0.14], 4.8%) and Week 4 (co&#x02010;primary endpoints: plaque 1.23 [1.07, 1.39], 42.6%; gingivitis 0.23 [0.19, 0.28], 10.7%). Bleeding&#x02010;index scores were significantly (<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001) reduced <italic>versus</italic> the control at Weeks 2 (by 0.04 [0.03, 0.06], 36.3%) and 4 (by 0.06 [0.04, 0.08], 50.9%). No shifts were detected in the oral microflora. There were no treatment&#x02010;related adverse events.</p></sec><sec id="jcpe12428-sec-0004"><title>Conclusions</title><p>The 0.15% <styled-content style="fixed-case">LAE</styled-content>&#x02010;containing mouthrinse was well tolerated and significantly reduced plaque, gingivitis and bleeding when used as an adjunct to tooth brushing for 4&#x000a0;weeks.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jcpe12428-kwd-0001">adjunct</kwd><kwd id="jcpe12428-kwd-0002">bleeding</kwd><kwd id="jcpe12428-kwd-0003">ethyl lauroyl arginate</kwd><kwd id="jcpe12428-kwd-0004">gingivitis</kwd><kwd id="jcpe12428-kwd-0005">mouthrinse</kwd><kwd id="jcpe12428-kwd-0006">plaque</kwd></kwd-group><funding-group><award-group><funding-source>Johnson &#x00026; Johnson Consumer Products Company</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Division of Johnson &#x00026; Johnson Consumer Companies, Inc.</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Johnson &#x00026; Johnson Consumer Services EAME Ltd.</funding-source></award-group></funding-group><counts><page-count count="8"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jcpe12428</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>August 2015</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.7.6 mode:remove_FC converted:04.02.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jcpe12428-cit-1001">
+<string-name>
+<surname>Gallob</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Lynch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Charles</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Ricci&#x02010;Nittel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Mordas</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gambogi</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Revankar</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Mutti</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Labella</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>A randomized trial of ethyl lauroyl arginate&#x02010;containing mouthrinse in the control of gingivitis</article-title>. <source>J Clin Periodontol</source>
+<year>2015</year>; <volume>42</volume>: <fpage>740</fpage>&#x02013;<lpage>747</lpage>. doi:<ext-link ext-link-type="doi" xlink:href="10.1111/jcpe.12428">10.1111/jcpe.12428</ext-link>.</mixed-citation>
+</p></notes><notes><fn-group id="jcpe12428-ntgp-0001"><fn id="jcpe12428-note-0001"><p>
+<bold>Conflict of interest and source of funding statement</bold>
+</p><p>The study was funded by Johnson &#x00026; Johnson Consumer Products Company, a Division of Johnson &#x00026; Johnson Consumer Companies, Inc. Editorial support was funded by Johnson &#x00026; Johnson Consumer Services EAME Ltd.JT Gallob declares no conflict of interest. M Lynch, D Ricci&#x02010;Nittel, C Mordas, R Gambogi and R Revankar are full&#x02010;time employees of Johnson &#x00026; Johnson Consumer &#x00026; Personal Products Worldwide, a Division of Johnson &#x00026; Johnson, USA. C Charles was a full&#x02010;time employee of Johnson &#x00026; Johnson Consumer Companies, USA. B Mutti is a full&#x02010;time employee of Johnson &#x00026; Johnson GmbH, Germany. R Labella was a full&#x02010;time employee of Johnson &#x00026; Johnson Consumer Services EAME Ltd., UK.</p></fn><fn id="jcpe12428-note-0002"><p>ClinicalTrials.gov ID #NCT01462110.</p></fn></fn-group></notes></front><body><p>Inflammation of gingival tissue (gingivitis) is an established risk factor for the development of periodontal disease and tooth loss (Lang et&#x000a0;al. <xref rid="jcpe12428-bib-0017" ref-type="ref">2009</xref>). It has been recognized since the 1960s that accumulation of plaque is the primary cause of gingivitis (L&#x000f6;e et&#x000a0;al. <xref rid="jcpe12428-bib-0021" ref-type="ref">1965</xref>). The dental plaque biofilm comprises colonizing bacterial species of the oral microflora that attach to the dental pellicle (protein film on the surface enamel). This can cause inflammatory changes in the gingival tissue, characterized by bleeding, redness and swelling (reviewed by Page &#x00026; Kornman <xref rid="jcpe12428-bib-0023" ref-type="ref">1997</xref>, Rosan &#x00026; Lamont <xref rid="jcpe12428-bib-0025" ref-type="ref">2000</xref>).</p><p>The Adult Dental Health Survey, which was conducted in England, Wales and Northern Ireland in 2009 and involved over 6000 adults (Steele &#x00026; O'Sullivan <xref rid="jcpe12428-bib-0032" ref-type="ref">2011</xref>), reported that 83% of dentate adults showed evidence of bleeding, calculus or periodontal pocketing (&#x02265;4&#x000a0;mm). Gingival bleeding on probing was recorded for 54% of all dentate adults and for 51% of those dentate adults who claimed to brush their teeth twice daily (Steele &#x00026; O'Sullivan <xref rid="jcpe12428-bib-0032" ref-type="ref">2011</xref>). As many as 66% of dentate adults had visible plaque on at least one tooth and 65% of these subjects also had bleeding gums. In contrast, only 33% of those adults without visible plaque experienced gingival bleeding on probing (Steele &#x00026; O'Sullivan <xref rid="jcpe12428-bib-0032" ref-type="ref">2011</xref>).</p><p>Mechanical methods of removing the adherent dental plaque biofilm, including brushing with manual or powered toothbrushes and regular adjunctive use of inter&#x02010;dental brushes and dental floss, have demonstrated some degree of effectiveness in reducing plaque and gingivitis (Slot et&#x000a0;al. <xref rid="jcpe12428-bib-0028" ref-type="ref">2008</xref>, <xref rid="jcpe12428-bib-0029" ref-type="ref">2012</xref>, Sambunjak et&#x000a0;al. <xref rid="jcpe12428-bib-0026" ref-type="ref">2011</xref>, Yaacob et&#x000a0;al. <xref rid="jcpe12428-bib-0043" ref-type="ref">2014</xref>). However, these methods are limited by their inability to access the most posterior teeth and their reliance on the individual's compliance, ability, technique and motivation (Warren &#x00026; Chater <xref rid="jcpe12428-bib-0040" ref-type="ref">1996</xref>). Use of oral care products formulated with anti&#x02010;plaque ingredients can also help to prevent development of the plaque biofilm. For example, toothpastes containing antimicrobial agents (e.g. triclosan and stannous fluoride) provide benefits compared with standard toothpastes (Gunsolley <xref rid="jcpe12428-bib-0012" ref-type="ref">2006</xref>, Gerlach &#x00026; Amini <xref rid="jcpe12428-bib-0010" ref-type="ref">2012</xref>). Mouthrinses containing antimicrobials, such as chlorhexidine and essential oils, have also demonstrated a significant effect on plaque and gingivitis when used as an adjunct to tooth brushing (Gunsolley <xref rid="jcpe12428-bib-0012" ref-type="ref">2006</xref>, Swango <xref rid="jcpe12428-bib-0033" ref-type="ref">2012</xref>, Van Strydonck et&#x000a0;al. <xref rid="jcpe12428-bib-0038" ref-type="ref">2012</xref>, Boyle et&#x000a0;al. <xref rid="jcpe12428-bib-0007" ref-type="ref">2014</xref>, Charles et&#x000a0;al. <xref rid="jcpe12428-bib-0008" ref-type="ref">2014</xref>). Although several systematic reviews provide evidence to support the effects of chlorhexidine mouthrinse (Van Leeuwen et&#x000a0;al. <xref rid="jcpe12428-bib-0036" ref-type="ref">2011</xref>, Van Strydonck et&#x000a0;al. <xref rid="jcpe12428-bib-0038" ref-type="ref">2012</xref>), it has been associated with an increase in staining scores with long&#x02010;term use (Van Strydonck et&#x000a0;al. <xref rid="jcpe12428-bib-0038" ref-type="ref">2012</xref>), which may impact on its utility. Studies on chlorhexidine mouthrinses containing anti&#x02010;discolouration agents have not demonstrated consistent beneficial effects on plaque and gingivitis (Bernardi et&#x000a0;al. <xref rid="jcpe12428-bib-0006" ref-type="ref">2004</xref>, Solis et&#x000a0;al. <xref rid="jcpe12428-bib-0031" ref-type="ref">2011</xref>, Van Maanen&#x02010;Schakel et&#x000a0;al. <xref rid="jcpe12428-bib-0037" ref-type="ref">2012</xref>, Li et&#x000a0;al. <xref rid="jcpe12428-bib-0018" ref-type="ref">2014</xref>). Alternative anti&#x02010;plaque mouthrinses would provide more options for longer term use.</p><p>Ethyl lauroyl arginate HCl (ethyl&#x02010;<italic>N</italic>&#x02010;dodecanoyl&#x02010;<sc>l</sc>&#x02010;arginate HCl; LAE) is a cationic surfactant that has been widely used as an antimicrobial agent/preservative in both food and food packaging (Joint FAO/WHO Expert Committee on Food Additives <xref rid="jcpe12428-bib-0014" ref-type="ref">2009</xref>, Woodcock et&#x000a0;al. <xref rid="jcpe12428-bib-0041" ref-type="ref">2009</xref>, Aznar et&#x000a0;al. <xref rid="jcpe12428-bib-0005" ref-type="ref">2013</xref>). In the context of oral health, LAE is thought to exert its effects by creating a barrier on teeth, thus preventing the adherence/attachment of plaque bacteria by physical means (Giertsen et&#x000a0;al. <xref rid="jcpe12428-bib-0011" ref-type="ref">2007</xref>). In a placebo&#x02010;controlled in&#x000a0;situ study, 0.5% LAE&#x02010;containing mouthrinse exerted a strong plaque&#x02010;inhibitory effect, significantly reducing the number of bacteria adhering to a protein&#x02010;coated biosurface (Giertsen et&#x000a0;al. <xref rid="jcpe12428-bib-0011" ref-type="ref">2007</xref>). LAE is believed to reduce the enamel surface free energy (SFE) by coating dental surfaces (<xref rid="jcpe12428-bib-0035" ref-type="ref">US Patent Application 20100330136</xref>; Johnson &#x00026; Johnson, data on file). Low SFE has been associated with reduced plaque growth compared with surfaces with high SFE (Quirynen et&#x000a0;al. <xref rid="jcpe12428-bib-0024" ref-type="ref">1990</xref>). A plaque&#x02010;inhibiting effect has also been demonstrated in a clinical study of LAE&#x02010;containing toothpaste (Auschill et&#x000a0;al. <xref rid="jcpe12428-bib-0004" ref-type="ref">2007</xref>). In humans, LAE is rapidly metabolized to lauric acid and arginine, both naturally occurring dietary components (Hawkins et&#x000a0;al. <xref rid="jcpe12428-bib-0013" ref-type="ref">2009</xref>).</p><p>The objective of this 4&#x02010;week study was to evaluate the efficacy and safety of an experimental 0.15% LAE&#x02010;containing mouthrinse in reducing plaque and gingivitis when used as an adjunct to tooth brushing in subjects with mild&#x02010;to&#x02010;moderate gingivitis.</p><sec id="jcpe12428-sec-0006"><title>Materials and methods</title><sec id="jcpe12428-sec-0007"><title>Study design</title><p>This randomized, examiner&#x02010;blind, parallel&#x02010;design, controlled, single&#x02010;centre study was conducted in the USA between 1 November and 2 December 2011. The primary objective was to compare the efficacy in reducing gingivitis and plaque of an experimental mouthrinse containing 0.15% LAE with that of a mouthrinse containing 5% hydroalcohol (negative control) after 4&#x000a0;weeks of use as adjuncts to tooth brushing. The secondary objective was to compare the efficacy of these mouthrinses in reducing gingivitis and plaque after 2&#x000a0;weeks&#x02019; use and their ability to reduce gingival bleeding after 2 and 4&#x000a0;weeks&#x02019; use. The study protocol was reviewed and approved by an institutional review board. The study was conducted in accordance with the protocol, the Abbreviated Investigational Device Exemption Regulations (21 CFR Part 812), International Conference on Harmonisation Harmonised Tripartite Guideline for Good Clinical Practice (1996), the Declaration of Helsinki (2000) and applicable local regulatory requirements and laws. The trial was registered in ClinicalTrials.gov as NCT01462110.</p><p>During the 4&#x02010;week study period, subjects made three visits to the clinic: on Day 1 (screening/baseline Visit 1), Day 15&#x000a0;&#x000b1;&#x000a0;1&#x000a0;day (Visit 2) and Day 29&#x000a0;&#x000b1;&#x000a0;1&#x000a0;day (Visit 3). Subjects were required to refrain from oral hygiene practices for 12&#x02013;18&#x000a0;h and from eating, drinking or smoking for &#x02265;4&#x000a0;h before study visits. Subjects were to refrain from using unassigned oral care products (including inter&#x02010;dental cleaning devices except for the removal of impacted food) or having any dental work done (except for emergency procedures) throughout the study. The dental examiner was blinded to treatment throughout the study period. Subjects received test materials in blinded packaging, although taste differences were perceivable upon product use. The sponsor provided blinded test materials; personnel dispensing the test products or supervising their use did not participate in the examination of subjects.</p><p>At the screening visit, qualifying subjects provided written informed consent before their participation in the study. Subjects completed a medical/dental history questionnaire and underwent an oral examination and evaluation for plaque, gingivitis and bleeding. Supragingival dental plaque was collected for microbiological analysis. Subjects then received dental prophylaxis to remove plaque (confirmed by disclosure), stains and calculus.</p><p>The subjects were randomly assigned to one of two treatment groups to receive either an experimental 0.15% LAE&#x02010;containing mouthrinse or a 5% hydroalcohol negative&#x02010;control mouthrinse (both manufactured by Johnson &#x00026; Johnson Healthcare Products Division of McNeil&#x02010;PPC Inc., Skillman, NJ, USA). Subjects were assigned a unique randomization number, allocated sequentially by site staff, based on a randomization schedule provided by the study sponsor. Treatment allocations were made randomly (1:1) with a block size of two. All subjects received a standard fluoride toothpaste (Colgate<sup>&#x000ae;</sup> Cavity Protection Toothpaste; manufactured by Colgate&#x02013;Palmolive Company, New York, NY, USA) and a soft&#x02010;bristled toothbrush (Reach Advanced Design Toothbrush; distributed by Johnson &#x00026; Johnson Healthcare Products Division of McNeil&#x02010;PPC, Inc.), instruction on oral hygiene, and diary cards. Subjects were instructed to brush their teeth twice daily in their usual manner and to rinse for 30&#x000a0;s after each brushing with 20&#x000a0;ml of their assigned mouthrinse. Subjects documented their use of the mouthrinse daily on their diary card. Use of the mouthrinse was supervised at Visits 1 and 2.</p><p>At Visits 2 and 3 subjects underwent assessment of plaque accumulation, gingival inflammation and gingival bleeding. Oral tissue examinations were also conducted. Supragingival plaque was collected from buccal surfaces for microbiological analysis at Visit 3. Subjects&#x02019; compliance with study&#x02010;product usage instructions was assessed by review of their completed diary cards and by collecting and weighing mouthrinse bottles at Visits 2 and 3.</p><p>Three indices were used to assess clinical efficacy: the Turesky modification of the Quigley&#x02010;Hein Plaque Index (PI; Turesky et&#x000a0;al. <xref rid="jcpe12428-bib-0034" ref-type="ref">1970</xref>, Lobene et&#x000a0;al. <xref rid="jcpe12428-bib-0019" ref-type="ref">1982</xref>), the Modified Gingival Index (MGI; Lobene et&#x000a0;al. <xref rid="jcpe12428-bib-0020" ref-type="ref">1986</xref>) and the Bleeding Index (BI; Ainamo &#x00026; Bay <xref rid="jcpe12428-bib-0002" ref-type="ref">1975</xref>, Saxton &#x00026; van der Ouderaa <xref rid="jcpe12428-bib-0027" ref-type="ref">1989</xref>). The co&#x02010;primary endpoints of the study were whole&#x02010;mouth mean PI score at Visit 3 (Week 4) and whole&#x02010;mouth mean MGI score at Visit 3. Secondary endpoints included whole&#x02010;mouth mean PI and MGI scores at Visit 2 (Week 2); whole&#x02010;mouth mean BI scores at Visits 2 and 3; and microbiological absolute and log counts for oral microbes derived from plaque samples collected at Visit 1 and Visit 3.</p></sec><sec id="jcpe12428-sec-0008"><title>Subjects</title><p>Men and women aged &#x02265;18&#x000a0;years and in good general health with signs of adequate oral hygiene (i.e. daily tooth brushing and no signs of oral neglect) were eligible for inclusion in the study. All subjects had to have: &#x02265;20 natural teeth with scorable surfaces; a mean MGI score &#x02265;1.95; a baseline mean PI score &#x02265;1.95 for overnight plaque accumulation; and an absence of significant oral soft tissue pathology, periodontitis or extensive subgingival calculus.</p><p>Exclusion criteria included: a history of significant adverse events following use of oral hygiene products; conditions requiring prophylactic use of antibiotics before dental surgery according to United States&#x02019; clinical practice; use of antibiotics, anti&#x02010;inflammatory or anti&#x02010;coagulant therapy or any medication that might interfere with efficacy evaluations in the 4&#x000a0;weeks before the study; regular use of anti&#x02010;plaque/&#x02010;gingivitis dental products within 2&#x000a0;weeks of the study; and any severe acute or chronic medical condition or laboratory abnormality that might pose a risk to the participant or interfere with interpretation of the results of the study.</p></sec><sec id="jcpe12428-sec-0009"><title>Assessments</title><p>All clinical assessments were performed by a qualified dental examiner. Subjects were assessed for adverse events, gingivitis, gingival bleeding and plaque, in that order.</p><p>Plaque accumulation was scored at all visits using the PI (Turesky et&#x000a0;al. <xref rid="jcpe12428-bib-0034" ref-type="ref">1970</xref>, Lobene et&#x000a0;al. <xref rid="jcpe12428-bib-0019" ref-type="ref">1982</xref>) for six surfaces (distobuccal, midbuccal, mesiobuccal, distolingual, midlingual and mesiolingual) of all scorable teeth after disclosing (0: no plaque; 1: separate flecks or discontinuous band of plaque at the gingival margin; 2: thin [up to 1&#x000a0;mm] continuous band of plaque at the gingival margin; 3: band of plaque wider than 1&#x000a0;mm but less than one&#x02010;third of surface; 4: plaque covering more than one&#x02010;third but less than two&#x02010;thirds of surface; 5: plaque covering more than two&#x02010;thirds of surface). Gingivitis was assessed at all visits on the buccal and lingual marginal gingivae and inter&#x02010;dental papillae of all scorable teeth using the MGI (0: normal; 1: mild inflammation of any point of the gingival unit; 2: mild inflammation of the entire gingival unit; 3: moderate inflammation of the gingival unit; 4: severe inflammation of the gingival unit; Lobene et&#x000a0;al. <xref rid="jcpe12428-bib-0020" ref-type="ref">1986</xref>). Gingival bleeding was assessed at all visits. A periodontal probe (0.5&#x000a0;mm diameter tip) was inserted into the gingival crevice and swept distal to mesial at a 60&#x000b0; angle while maintaining contact with the sulcular epithelium. Four areas around each tooth were assessed (distobuccal, midbuccal, midlingual and mesiolingual). Bleeding was recorded using the gingival BI (0: absence after 30&#x000a0;s; 1: bleeding after 30&#x000a0;s; 2: immediate bleeding; Ainamo &#x00026; Bay <xref rid="jcpe12428-bib-0002" ref-type="ref">1975</xref>, Saxton &#x00026; van der Ouderaa <xref rid="jcpe12428-bib-0027" ref-type="ref">1989</xref>) 30&#x000a0;s after an entire surface (e.g., buccal) in each quadrant was probed.</p><p>Plaque samples were collected, using a sterile curette, from the buccal surfaces of teeth 2&#x02013;8 in the upper right quadrant by a trained dental professional at Visits 1 and 3 following the clinical assessments. Microbiological assessment of the plaque samples using DNA:DNA hybridization was conducted to assess shifts in the oral microflora. DNA isolated from the bacteria in the plaque samples was fixed in lanes to nylon membranes using a MiniSlot&#x02122; 60 device (Immunetics, Cambridge, MA, USA) and hybridized by checkerboard hybridization (Socransky et&#x000a0;al. <xref rid="jcpe12428-bib-0030" ref-type="ref">2004</xref>) in a Miniblotter 45 (Immunetics) to digoxigenin&#x02010;labelled whole genomic DNA probes for 41 species. The bacterial species recognized by the probes were categorized as shown in Table&#x000a0;<xref rid="jcpe12428-tbl-0001" ref-type="table-wrap">1</xref>. DNA probes were detected using an antibody to digoxigenin conjugated with alkaline phosphatase, and chemifluorescence detection. Signals were detected using AttoPhos substrate (Amersham Life Sciences, Arlington Heights, IL, USA) and read with a Storm Fluoroimager (Molecular Dynamics, Sunnyvale, CA, USA). Standards for each species were included at a concentration of 10<sup>5</sup> and 10<sup>6</sup> cells on the membrane as controls. The assay sensitivity was adjusted to permit detection of 10<sup>4</sup> cells of a given species by adjusting the concentration of the DNA probe. Signals were converted to absolute counts by comparison with the standards on the same membrane. Failure to detect a signal was recorded as zero.</p><table-wrap id="jcpe12428-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Bacterial species detected by genomic <styled-content style="fixed-case">DNA</styled-content> probes in <styled-content style="fixed-case">DNA</styled-content>:<styled-content style="fixed-case">DNA</styled-content> hybridization analysis of dental plaque samples</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><tbody><tr><td align="left" colspan="2" rowspan="1">Actinomyces species</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Actinomyces gerencseriae</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinomyces naeslundii</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Actinomyces israelii</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Actinomyces viscosus</italic>
+</td></tr><tr><td align="left" colspan="2" rowspan="1">Purple complex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Actinomyces odontolyticus</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Veillonella parvula</italic>
+</td></tr><tr><td align="left" colspan="2" rowspan="1">Yellow complex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Streptococcus gordonii</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptococcus oralis</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Streptococcus intermedius</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptococcus sanguinis</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Streptococcus mitis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptococcus mutans</italic>
+</td></tr><tr><td align="left" colspan="2" rowspan="1">Green complex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Aggregatibacter actinomycetemcomitans</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Capnocytophaga sputigena</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Capnocytophaga gingivalis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Eikenella corrodens</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Capnocytophaga ochracea</italic>
+</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" rowspan="1">Red complex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Bacteroides forsythus</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Treponema denticola</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Porphyromonas gingivalis</italic>
+</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" colspan="2" rowspan="1">Orange complex</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Campylobacter gracilis</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Fusobacterium nucleatum ss vincentii</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Campylobacter rectus</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Fusobacterium periodonticum</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Campylobacter showae</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Parvimonas micra</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Eubacterium nodatum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Prevotella intermedia</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Fusobacterium nucleatum ss nucleatum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Prevotella nigrescens</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Fusobacterium nucleatum ss polymorphum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptococcus constellatus</italic>
+</td></tr><tr><td align="left" colspan="2" rowspan="1">Other species</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Eubacterium saburreum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Selenomonas noxia</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Gemella morbillorum</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Streptococcus anginosus</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Neisseria mucosa</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Treponema socranskii</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Prevotella melaninogenica</italic>
+</td><td align="left" rowspan="1" colspan="1">
+<italic>Leptotrichia buccalis</italic>
+</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">
+<italic>Propionobacterium acnes</italic>
+</td><td align="left" rowspan="1" colspan="1"/></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="jcpe12428-sec-0010"><title>Safety</title><p>Oral examinations of the buccal and sublingual mucosa, lips/labial mucosa, mucobuccal fold, gingiva, tongue, hard and soft palate, uvula, oropharynx, teeth and dental restorations were conducted at each visit to monitor oral tolerability. Emergent or worsening adverse events were recorded at each recall visit, after a review of medical history and a thorough examination of the oral cavity. Abnormalities, such as lip bites, food burns and traumatic ulcers, that were not considered clinically significant by the investigator were not recorded as adverse events. The safety analysis was conducted on all randomized subjects who used at least one dose of the study products. The number and proportion of subjects experiencing adverse events throughout the study period were summarized according to the Medical Dictionary for Regulatory Activities System Organ Class and Preferred Term Version 14.1.</p></sec><sec id="jcpe12428-sec-0011"><title>Statistical analyses</title><p>The planned sample size of 40 subjects in each treatment group was based on estimates of standard deviations and means from a 4&#x02010;week pilot study, and provides 95% power to detect a difference in means of 0.102 (assuming a standard deviation of 0.125) for whole&#x02010;mouth mean PI and whole&#x02010;mouth mean MGI at the 0.05 level of significance (two&#x02010;sided).</p><p>Demographics and baseline characteristics were compared betweenV treatment groups using analysis of variance or a chi&#x02010;squared test. Fisher's exact test was used instead of a chi&#x02010;squared test if the number of subjects was sufficiently small.</p><p>The primary and secondary efficacy analyses were based on the full analysis set (i.e. randomized subjects who used at least one dose of study product and had at least one post&#x02010;baseline efficacy assessment) using an analysis of covariance with treatment as a factor and corresponding baseline value as the covariate. All comparisons were made at a two&#x02010;sided 0.05 significance level. Microbiological counts for each category of oral microbe were reported using summary statistics. For this study, data imputations were not performed as the number of missing data was expected to be negligible.</p></sec></sec><sec id="jcpe12428-sec-0012"><title>Results</title><p>Eighty&#x02010;seven subjects were randomized to the two study treatments: 43 to receive the 0.15% LAE mouthrinse and 44 to receive the negative control. Eighty&#x02010;six subjects completed the study. One subject in the control group experienced a serious adverse event (testicular swelling, unrelated to the mouthrinse) and discontinued study treatment. Subject disposition in the study is shown in Fig.&#x000a0;<xref rid="jcpe12428-fig-0001" ref-type="fig">1</xref>. The majority of the subjects who participated in the study were female and non&#x02010;smokers. The demographic and baseline variables of the two study groups are shown in Table&#x000a0;<xref rid="jcpe12428-tbl-0002" ref-type="table-wrap">2</xref>; no statistically significant differences were noted between the groups.</p><table-wrap id="jcpe12428-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Demographics and baseline characteristics (all randomized subjects)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Parameter</th><th align="center" valign="top" rowspan="1" colspan="1">0.15% LAE mouthrinse (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>43)</th><th align="center" valign="top" rowspan="1" colspan="1">0.5% hydroalcohol control mouthrinse (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>44)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, mean (range), years</td><td align="char" char=" " rowspan="1" colspan="1">34.0 (21&#x02013;52)</td><td align="char" char=" " rowspan="1" colspan="1">35.6 (18&#x02013;61)</td></tr><tr><td align="left" colspan="3" rowspan="1">Sex, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Male</td><td align="char" char=" " rowspan="1" colspan="1">13 (30.2)</td><td align="char" char=" " rowspan="1" colspan="1">21 (47.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Female</td><td align="char" char=" " rowspan="1" colspan="1">30 (69.8)</td><td align="char" char=" " rowspan="1" colspan="1">23 (52.3)</td></tr><tr><td align="left" colspan="3" rowspan="1">Race, <italic>n</italic> (%)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">White</td><td align="char" char=" " rowspan="1" colspan="1">26 (60.5)</td><td align="char" char=" " rowspan="1" colspan="1">23 (52.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Black</td><td align="char" char=" " rowspan="1" colspan="1">9 (20.9)</td><td align="char" char=" " rowspan="1" colspan="1">14 (31.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Asian</td><td align="char" char=" " rowspan="1" colspan="1">3 (7.0)</td><td align="char" char=" " rowspan="1" colspan="1">3 (6.8)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Native Hawaiian or other Pacific Islander</td><td align="char" char=" " rowspan="1" colspan="1">4 (9.3)</td><td align="char" char=" " rowspan="1" colspan="1">4 (9.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">American Indian or Alaskan native</td><td align="char" char=" " rowspan="1" colspan="1">1 (2.3)</td><td align="char" char=" " rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Non&#x02010;smoker, <italic>n</italic> (%)</td><td align="char" char=" " rowspan="1" colspan="1">37 (86.0)</td><td align="char" char=" " rowspan="1" colspan="1">40 (90.9)</td></tr><tr><td align="left" colspan="3" rowspan="1">Whole&#x02010;mouth scores, mean (SD)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">PI</td><td align="char" char=" " rowspan="1" colspan="1">2.93 (0.29)</td><td align="char" char=" " rowspan="1" colspan="1">3.00 (0.22)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">MGI</td><td align="char" char=" " rowspan="1" colspan="1">2.17 (0.11)</td><td align="char" char=" " rowspan="1" colspan="1">2.20 (0.10)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">BI</td><td align="char" char=" " rowspan="1" colspan="1">0.13 (0.06)</td><td align="char" char=" " rowspan="1" colspan="1">0.14 (0.06)</td></tr></tbody></table><table-wrap-foot><fn id="jcpe12428-note-0004"><p>BI, Bleeding Index; LAE, ethyl lauroyl arginate; MGI, Modified Gingival Index; PI, Plaque Index; SD, standard deviation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="jcpe12428-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Disposition of subjects in the study. <styled-content style="fixed-case">LAE</styled-content>, ethyl lauroyl arginate.</p></caption><graphic id="nlm-graphic-1" xlink:href="JCPE-42-740-g001"/></fig><p>After 4&#x000a0;weeks of use, the 0.15% LAE&#x02010;containing mouthrinse was associated with a statistically significantly greater reduction from baseline in the whole&#x02010;mouth mean PI score compared with the control mouthrinse, with a between&#x02010;treatment difference in the least squares means of 1.23 (95% confidence interval [95% CI]: 1.07, 1.39), equating to a 42.6% greater reduction <italic>versus</italic> control (<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001; Table&#x000a0;<xref rid="jcpe12428-tbl-0003" ref-type="table-wrap">3</xref>). The reduction in the whole&#x02010;mouth mean MGI score was also statistically significantly greater with the LAE mouthrinse (difference: 0.23 [95% CI: 0.19, 0.28]; 10.7% reduction compared with the control; <italic>p&#x000a0;</italic>&#x0003c; 0.001). Statistically significant differences in whole&#x02010;mouth mean PI and MGI scores between the 0.15% LAE mouthrinse and control mouthrinse, in favour of the LAE mouthrinse, were also evident after 2&#x000a0;weeks of treatment (Table&#x000a0;<xref rid="jcpe12428-tbl-0003" ref-type="table-wrap">3</xref>).</p><table-wrap id="jcpe12428-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Whole&#x02010;mouth mean <styled-content style="fixed-case">PI</styled-content>,<styled-content style="fixed-case"> MGI</styled-content> and <styled-content style="fixed-case">BI</styled-content> scores (full analysis set)</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Assessment</th><th align="center" valign="top" rowspan="1" colspan="1">0.15% LAE mouthrinse (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>43)</th><th align="center" valign="top" rowspan="1" colspan="1">0.5% hydroalcohol control mouthrinse (<italic>n&#x000a0;</italic>=<italic>&#x000a0;</italic>44)</th></tr></thead><tbody><tr><td align="left" colspan="3" rowspan="1">Whole&#x02010;mouth PI score</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Baseline mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">2.93 (0.29)</td><td align="char" char=" " rowspan="1" colspan="1">3.00 (0.22)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Week 2 adjusted mean (SE)</td><td align="char" char=" " rowspan="1" colspan="1">2.02 (0.07)<xref ref-type="fn" rid="jcpe12428-note-0005">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">2.85 (0.07)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Reduction <italic>versus</italic> control (95% CI) [%]</td><td align="char" char=" " rowspan="1" colspan="1">0.83 (0.64, 1.02) [29.1]</td><td align="char" char=" " rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Week 4 adjusted mean (SE)</td><td align="char" char=" " rowspan="1" colspan="1">1.66 (0.06)<xref ref-type="fn" rid="jcpe12428-note-0005">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">2.89 (0.06)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Reduction <italic>versus</italic> control (95% CI) [%]</td><td align="char" char=" " rowspan="1" colspan="1">1.23 (1.07, 1.39) [42.6]</td><td align="char" char=" " rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" colspan="3" rowspan="1">Whole&#x02010;mouth MGI score</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Baseline mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">2.17 (0.11)</td><td align="char" char=" " rowspan="1" colspan="1">2.20 (0.10)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Week 2 adjusted mean (SE)</td><td align="char" char=" " rowspan="1" colspan="1">2.08 (0.01)<xref ref-type="fn" rid="jcpe12428-note-0005">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">2.18 (0.01)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Reduction <italic>versus</italic> control (95% CI) [%]</td><td align="char" char=" " rowspan="1" colspan="1">0.11 (0.07, 0.14) [4.8]</td><td align="char" char=" " rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Week 4 adjusted mean (SE)</td><td align="char" char=" " rowspan="1" colspan="1">1.96 (0.01)<xref ref-type="fn" rid="jcpe12428-note-0005">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">2.19 (0.01)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Reduction <italic>versus</italic> control (95% CI) [%]</td><td align="char" char=" " rowspan="1" colspan="1">0.23 (0.19, 0.28) [10.7]</td><td align="char" char=" " rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" colspan="3" rowspan="1">Whole&#x02010;mouth BI score</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Baseline mean (SD)</td><td align="char" char=" " rowspan="1" colspan="1">0.13 (0.06)</td><td align="char" char=" " rowspan="1" colspan="1">0.14 (0.06)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Week 2 adjusted mean (SE)</td><td align="char" char=" " rowspan="1" colspan="1">0.08 (0.01)<xref ref-type="fn" rid="jcpe12428-note-0005">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0.12 (0.01)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Reduction <italic>versus</italic> control (95% CI) [%]</td><td align="char" char=" " rowspan="1" colspan="1">0.04 (0.03, 0.06) [36.3]</td><td align="char" char=" " rowspan="1" colspan="1">&#x02013;</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Week 4 adjusted mean (SE)</td><td align="char" char=" " rowspan="1" colspan="1">0.06 (0.01)<xref ref-type="fn" rid="jcpe12428-note-0005">a</xref>
+</td><td align="char" char=" " rowspan="1" colspan="1">0.12 (0.01)</td></tr><tr><td align="left" style="padding-left:15%" rowspan="1" colspan="1">Reduction <italic>versus</italic> control (95% CI) [%]</td><td align="char" char=" " rowspan="1" colspan="1">0.06 (0.04, 0.08) [50.9]</td><td align="char" char=" " rowspan="1" colspan="1">&#x02013;</td></tr></tbody></table><table-wrap-foot><fn id="jcpe12428-note-0005"><label>a</label><p>
+<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001 <italic>versus</italic> control (based on analysis of covariance model).</p></fn><fn id="jcpe12428-note-0006"><p>BI, Bleeding Index; CI, confidence interval; LAE, ethyl lauroyl arginate; MGI, Modified Gingival Index; PI, Plaque Index; SD, standard deviation; SE, standard error.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>In the gingival bleeding assessment (Table&#x000a0;<xref rid="jcpe12428-tbl-0003" ref-type="table-wrap">3</xref>), the 0.15% LAE&#x02010;containing mouthrinse was associated with statistically significantly greater reductions from baseline in whole&#x02010;mouth mean BI score (<italic>p&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.001) at both Weeks 2 and 4 compared with the control. At Week 2, a 36.3% reduction in the proportion of bleeding sites was observed compared with the control group (0.077 <italic>versus</italic> 0.121; difference 0.04 [95% CI: 0.03, 0.06]). At Week 4, a 50.9% reduction in the proportion of bleeding sites was observed compared with the control group (0.058 <italic>versus</italic> 0.119; difference 0.06 [95% CI: 0.04, 0.08]). All bleeding scores were either 0 or 1 in both treatment groups across all study visits. Therefore, in this study, the mean scores were equivalent to proportions of bleeding sites. Microbiological analysis of the plaque samples collected at baseline and Week 4 (Visit 3) revealed no significant compositional changes in the oral microflora. Total microbiological counts (log<sub>10</sub>) of complexes at baseline and Week 4 were similar for both treatment groups, with most differences within 0.5 log (Fig.&#x000a0;<xref rid="jcpe12428-fig-0002" ref-type="fig">2</xref>a). Proportions of each complex were also similar at baseline and Week 4 (Fig.&#x000a0;<xref rid="jcpe12428-fig-0002" ref-type="fig">2</xref>b), with the exception of the purple complex, which was slightly less common at Week 4 than at baseline following treatment with both the LAE&#x02010;containing mouthrinse (4.19% <italic>versus</italic> 5.43% respectively) and the control mouthrinse (5.12% <italic>versus</italic> 7.86% respectively); and the orange complex, which was slightly more common at Week 4 than at baseline (23.82% <italic>versus</italic> 16.87% respectively) in the LAE&#x02010;containing mouthrinse group.</p><fig fig-type="Figure" xml:lang="en" id="jcpe12428-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Microbiological analysis of supragingival plaque collected at baseline and after 4&#x000a0;weeks of treatment with 0.15% <styled-content style="fixed-case">LAE</styled-content>&#x02010;containing mouthrinse or 0.5% hydroalcohol control mouthrinse. (a) Total microbiological counts (log<sub>10</sub>) for each complex of bacterial species; (b) Summary of percentage of counts represented by each complex. For details of bacterial species detected by each category of probe, see Table&#x000a0;<xref rid="jcpe12428-tbl-0001" ref-type="table-wrap">1</xref>. <styled-content style="fixed-case">LAE</styled-content>, ethyl lauroyl arginate.</p></caption><graphic id="nlm-graphic-3" xlink:href="JCPE-42-740-g002"/></fig><p>No adverse events related to oral soft tissue were recorded during the study in either treatment group. One subject who received the control mouthrinse experienced a serious adverse event of testicular swelling requiring hospitalization and discontinued from the study. This was related to testicular cancer and not to the use of the control mouthrinse. One subject who received the LAE&#x02010;containing mouthrinse experienced gastroenteritis. This was not considered to be related to the test product. The subject continued in the study and the gastroenteritis resolved. No incidences of tooth staining were recorded as adverse events. In both groups there were minor protocol deviations, but no violations associated with subject compliance.</p></sec><sec id="jcpe12428-sec-0013"><title>Discussion</title><p>The findings of this 4&#x02010;week randomized controlled study show that twice&#x02010;daily use of an experimental 0.15% LAE&#x02010;containing mouthrinse as an adjunct to tooth brushing resulted in statistically significant reductions from baseline in plaque accumulation, gingivitis and bleeding after 2 and 4&#x000a0;weeks of use in subjects with mild&#x02010;to&#x02010;moderate gingivitis. Plaque was reduced by 42.6% (difference in least squares means of scores: 1.23 [95% CI: 1.07, 1.39] relative to the negative control by Week 4, and gingivitis reduced by 10.7% (difference 0.23 [95% CI: 0.19, 0.28]). Notably, a reduction in bleeding of 50.9% <italic>versus</italic> the negative control was evident after 4&#x000a0;weeks of use (difference 0.06 [95% CI: 0.04, 0.08]). The 0.15% LAE&#x02010;containing mouthrinse was well tolerated, with no adverse events affecting the oral soft tissue. Microbiological analysis of plaque samples obtained throughout the study indicated no microbial shift in the oral microflora tested, suggesting that there are no safety concerns with use of the 0.15% LAE&#x02010;containing mouthrinse when used over a 4&#x02010;week period. In addition, no tooth staining or taste alterations were reported as adverse events.</p><p>One drawback of the present study is its duration. A longer study (e.g. 6&#x000a0;months) would provide more information on the efficacy and safety of 0.15% LAE&#x02010;containing mouthrinse when used over the long term. In addition, no formal assessment of tooth staining or calculus was included in this study.</p><p>The effects of the mouthrinse are consistent with its proposed action of reducing the adhesion of dental plaque to the dental pellicle (Giertsen et&#x000a0;al. <xref rid="jcpe12428-bib-0011" ref-type="ref">2007</xref>). In a previous in&#x000a0;situ study, in which subjects wore acrylic appliances containing protein&#x02010;coated discs on the buccal surface of their teeth, use of a 0.5% LAE&#x02010;containing mouthrinse three&#x02010;times daily significantly reduced the total number of bacteria and most of the taxa tested in plaque collected from the discs (Giertsen et&#x000a0;al. <xref rid="jcpe12428-bib-0011" ref-type="ref">2007</xref>).</p><p>The control of plaque, and the subsequent reduction in gingivitis, is a key goal in the maintenance of gingival and oral health (American Academy of Periodontology <xref rid="jcpe12428-bib-0003" ref-type="ref">2005</xref>). Many factors influence oral health; some are controllable, e.g. tooth&#x02010;brushing time, frequency and duration, while others are difficult to control or change, e.g. host response, motivation and dexterity. For example, of those individuals who use dental floss, less than half utilize it correctly (Lang et&#x000a0;al. <xref rid="jcpe12428-bib-0016" ref-type="ref">1995</xref>). The efforts of dentists and hygienists to improve their patients&#x02019; oral hygiene habits could be significantly assisted by the use of adjunctive oral care products, which are easy to use and help to mitigate the compliance/technique issues associated with inter&#x02010;dental cleaning (van der Ouderaa <xref rid="jcpe12428-bib-0022" ref-type="ref">1991</xref>, Warren &#x00026; Chater <xref rid="jcpe12428-bib-0040" ref-type="ref">1996</xref>). Ideally, an oral anti&#x02010;plaque agent should prevent biofilm formation yet have no adverse effects on the oral microflora.</p><p>In this study, the negligible changes in plaque and gingivitis levels in the control group effectively confirmed the lack of change in the subjects&#x02019; mechanical plaque&#x02010;control practices. Any meaningful change in these levels (worsening or improvement) would suggest a change from their pre&#x02010;study habits; worsening in the control group would suggest that study instructions inhibited subjects&#x02019; usual oral hygiene practices, while improvement in the control group would likely suggest greater compliance with the mechanical regimen. The fact that the control group started and completed the study with significant (and nearly identical) levels of plaque and gingivitis indicates that, in this population, brushing twice daily in their usual manner was not sufficient. This observation is also applicable to the general population. The results of this study thus demonstrate that mechanical oral hygiene alone does not adequately improve the gingival health of individuals with gingivitis. It is well recognized that mechanical cleaning is the most important component of oral hygiene; however, it only appears to maintain control at a certain level of plaque and gingivitis. Therefore, to improve upon an individual's &#x0201c;baseline level&#x0201d;, a mouthrinse is a useful adjunct to mechanical home care. However, as with any therapeutic intervention, adequate compliance with recommended product usage is of paramount importance. It is recognized that compliance with rinsing twice a day, to achieve the added benefit, may represent a challenge to some individuals.</p><p>Therapeutic components of oral care rinses have been shown to be effective in reducing gingivitis in numerous clinical trials and systematic reviews (Wu &#x00026; Savitt <xref rid="jcpe12428-bib-0042" ref-type="ref">2002</xref>, Zimmer et&#x000a0;al. <xref rid="jcpe12428-bib-0044" ref-type="ref">2006</xref>, Van Leeuwen et&#x000a0;al. <xref rid="jcpe12428-bib-0036" ref-type="ref">2011</xref>, Van Strydonck et&#x000a0;al. <xref rid="jcpe12428-bib-0038" ref-type="ref">2012</xref>, Boyle et&#x000a0;al. <xref rid="jcpe12428-bib-0007" ref-type="ref">2014</xref>). More generalized use of chlorhexidine&#x02010;containing mouthrinses for plaque and gingivitis control is limited by the potential for poor compliance due to tooth staining and calculus formation with daily use (Charles et&#x000a0;al. <xref rid="jcpe12428-bib-0009" ref-type="ref">2004</xref>). There is therefore a need for daily&#x02010;use products with comparable efficacy but which lack these side effects. The results of this study suggest that the LAE&#x02010;containing mouthrinse may be a suitable alternative adjunctive treatment for the control of mild&#x02010;to&#x02010;moderate gingivitis in adults. The mechanism of action of LAE differs from chlorhexidine in that LAE has a physical effect by preventing attachment of bacteria to the pellicle (Giertsen et&#x000a0;al. <xref rid="jcpe12428-bib-0011" ref-type="ref">2007</xref>) rather than bactericidal or bacteriostatic effects. The surface&#x02010;active compound delmopinol, which is available as an antimicrobial mouthrinse, also binds to the pellicle and prevents adherence of dental plaque (Vassilakos et&#x000a0;al. <xref rid="jcpe12428-bib-0039" ref-type="ref">1993</xref>, Klinge et&#x000a0;al. <xref rid="jcpe12428-bib-0015" ref-type="ref">1996</xref>, Addy et&#x000a0;al. <xref rid="jcpe12428-bib-0001" ref-type="ref">2007</xref>, Boyle et&#x000a0;al. <xref rid="jcpe12428-bib-0007" ref-type="ref">2014</xref>).</p><p>In conclusion, the results of this study show that a mouthrinse containing 0.15% LAE used as an adjunct to tooth brushing was effective in the reduction of plaque, gingivitis and bleeding at both 2 and 4&#x000a0;weeks of use in subjects with mild&#x02010;to&#x02010;moderate gingivitis, and was well tolerated. Future longer term, randomized studies are warranted.</p></sec><sec id="jcpe12428-sec-0015"><p>
+<boxed-text position="anchor" content-type="box" id="jcpe12428-blkfxd-0001" orientation="portrait"><caption><title>Clinical Relevance</title></caption><p>
+<italic>Scientific rationale for the study</italic>: To investigate the efficacy and safety of an experimental mouthrinse containing ethyl lauroyl arginate (LAE) in treating mild&#x02010;to&#x02010;moderate gingivitis.</p><p>
+<italic>Principal findings</italic>: Twice&#x02010;daily use of 0.15% LAE&#x02010;containing mouthrinse as an adjunct to tooth brushing for up to 4&#x000a0;weeks resulted in significantly lower levels of plaque and gingivitis, and significantly reduced bleeding compared with a negative&#x02010;control mouthrinse. At Week 4, a 50.9% reduction from baseline compared with the control group in the proportion of bleeding sites (0.058 <italic>versus</italic> 0.119; difference: 0.06, 95% confidence interval: 0.04, 0.08) was observed. Treatment was well tolerated and no shifts in the oral microflora were detected.</p><p>
+<italic>Practical implications</italic>: A 0.15% LAE mouthrinse could represent an effective adjunct to tooth brushing for the control of gingivitis.</p></boxed-text>
+</p></sec></body><back><ack id="jcpe12428-sec-0014"><title>Acknowledgements</title><p>Editorial assistance was provided by Dr Kirsteen Munn of Anthemis Consulting Ltd, funded by Johnson &#x00026; Johnson Consumer Services EAME Ltd. The authors thank the following contributors: M Mantzourani (Johnson &#x00026; Johnson Consumer &#x00026; Personal Products Worldwide, a Division of Johnson &#x00026; Johnson, USA) for coordinating publication of the manuscript; C Feinberg (consultant for Johnson &#x00026; Johnson Consumer &#x00026; Personal Products Worldwide, a Division of Johnson &#x00026; Johnson, USA) for preparing the clinical study report; P Amini (BioSci Research America, Inc., Las Vegas, NV, USA) for carrying out clinical assessments; and R Teles (The Forsyth Institute, Boston, MA, USA) for all microbiological assessments. MedDRA(r) trademark is owned by IFPMA on behalf of ICH.</p></ack><ref-list content-type="cited-references" id="jcpe12428-bibl-0001"><title>References</title><ref id="jcpe12428-bib-0001"><mixed-citation publication-type="journal" id="jcpe12428-cit-0001">
+<string-name>
+<surname>Addy</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Moran</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Newcombe</surname>, <given-names>R. G.</given-names>
+</string-name> (<year>2007</year>) <article-title>Meta&#x02010;analyses of studies of 0.2% delmopinol mouth rinse as an adjunct to gingival health and plaque control measures</article-title>. <source>Journal of Clinical Periodontology</source>
+<volume>34</volume>, <fpage>58</fpage>&#x02013;<lpage>65</lpage>.<pub-id pub-id-type="pmid">17116159</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0002"><mixed-citation publication-type="journal" id="jcpe12428-cit-0002">
+<string-name>
+<surname>Ainamo</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Bay</surname>, <given-names>I.</given-names>
+</string-name> (<year>1975</year>) <article-title>Problems and proposals for recording plaque and gingivitis</article-title>. <source>International Dentistry Journal</source>
+<volume>25</volume>, <fpage>229</fpage>&#x02013;<lpage>235</lpage>.</mixed-citation></ref><ref id="jcpe12428-bib-0003"><mixed-citation publication-type="journal" id="jcpe12428-cit-0003">
+<collab collab-type="authors">American Academy of Periodontology Research, Science, and Therapy Committee &#x00026; American Academy of Pediatric Dentistry</collab>
+(<year>2005</year>&#x02013;2006) <article-title>Treatment of plaque&#x02010;induced gingivitis, chronic periodontitis, and other clinical conditions</article-title>. <source>Pediatric Dentistry</source>
+<volume>27</volume>(<issue>Suppl. 7</issue>), <fpage>202</fpage>&#x02013;<lpage>211</lpage>.<pub-id pub-id-type="pmid">16541924</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0004"><mixed-citation publication-type="journal" id="jcpe12428-cit-0004">
+<string-name>
+<surname>Auschill</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Sculean</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Hellwig</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Haug</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Arweiler</surname>, <given-names>N. B.</given-names>
+</string-name> (<year>2007</year>) <article-title>Clinical and antibacterial effect of toothpastes with a new ingredient</article-title>. <source>Journal of Dental Research</source>
+<volume>86</volume>(<issue>Special Issue A</issue>), Abstract No. 0491.</mixed-citation></ref><ref id="jcpe12428-bib-0005"><mixed-citation publication-type="journal" id="jcpe12428-cit-0005">
+<string-name>
+<surname>Aznar</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>G&#x000f3;mez&#x02010;Estaca</surname>, <given-names>J.</given-names>
+</string-name>, <string-name>
+<surname>V&#x000e9;lez</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Devesa</surname>, <given-names>D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Ner&#x000ed;n</surname>, <given-names>C.</given-names>
+</string-name> (<year>2013</year>) <article-title>Migrants determination and bioaccessibility study of ethyl lauroyl arginate (LAE) from a LAE&#x02010;based antimicrobial food packaging material</article-title>. <source>Food and Chemical Toxicology</source>
+<volume>56</volume>, <fpage>363</fpage>&#x02013;<lpage>370</lpage>.<pub-id pub-id-type="pmid">23485618</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0006"><mixed-citation publication-type="journal" id="jcpe12428-cit-0006">
+<string-name>
+<surname>Bernardi</surname>, <given-names>F.</given-names>
+</string-name>, <string-name>
+<surname>Pincelli</surname>, <given-names>M. R.</given-names>
+</string-name>, <string-name>
+<surname>Carloni</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gatto</surname>, <given-names>M. R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Montebugnoli</surname>, <given-names>L.</given-names>
+</string-name> (<year>2004</year>) <article-title>Chlorhexidine with an anti discoloration system: a comparative study</article-title>. <source>International Journal of Dental Hygiene</source>
+<volume>2</volume>, <fpage>122</fpage>&#x02013;<lpage>126</lpage>.<pub-id pub-id-type="pmid">16451475</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0007"><mixed-citation publication-type="journal" id="jcpe12428-cit-0007">
+<string-name>
+<surname>Boyle</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Koechlin</surname>, <given-names>A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Autier</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>) <article-title>Mouthwash use and prevention of plaque, gingivitis and caries</article-title>. <source>Oral Diseases</source>
+<volume>20</volume>(<issue>Suppl. 1</issue>), <fpage>1</fpage>&#x02013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">24341773</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0008"><mixed-citation publication-type="journal" id="jcpe12428-cit-0008">
+<string-name>
+<surname>Charles</surname>, <given-names>C. A.</given-names>
+</string-name>, <string-name>
+<surname>Lisante</surname>, <given-names>T. A.</given-names>
+</string-name>, <string-name>
+<surname>Revankar</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Cortelli</surname>, <given-names>J. R.</given-names>
+</string-name>, <string-name>
+<surname>Cortelli</surname>, <given-names>S. C.</given-names>
+</string-name>, <string-name>
+<surname>Aquino</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Goyal</surname>, <given-names>C. R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Amini</surname>, <given-names>P.</given-names>
+</string-name> (<year>2014</year>) <article-title>Early benefits with daily rinsing on gingival health improvements with an essential oil mouthrinse&#x02013;posthoc analysis of 5 clinical trials</article-title>. <source>Journal of Dental Hygiene</source>
+<volume>88</volume>(<issue>Suppl. 1</issue>), <fpage>40</fpage>&#x02013;<lpage>50</lpage>.<pub-id pub-id-type="pmid">25071149</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0009"><mixed-citation publication-type="journal" id="jcpe12428-cit-0009">
+<string-name>
+<surname>Charles</surname>, <given-names>C. H.</given-names>
+</string-name>, <string-name>
+<surname>Mostler</surname>, <given-names>K. M.</given-names>
+</string-name>, <string-name>
+<surname>Bartels</surname>, <given-names>L. L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Mankodi</surname>, <given-names>S. M.</given-names>
+</string-name> (<year>2004</year>) <article-title>Comparative antiplaque and antigingivitis effectiveness of a chlorhexidine and an essential oil mouthrinse: 6&#x02010;month clinical trial</article-title>. <source>Journal of Clinical Periodontology</source>
+<volume>31</volume>, <fpage>878</fpage>&#x02013;<lpage>884</lpage>.<pub-id pub-id-type="pmid">15367192</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0010"><mixed-citation publication-type="journal" id="jcpe12428-cit-0010">
+<string-name>
+<surname>Gerlach</surname>, <given-names>R. W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Amini</surname>, <given-names>P.</given-names>
+</string-name> (<year>2012</year>) <article-title>Randomized controlled trial of 0.454% stannous fluoride dentifrice to treat gingival bleeding</article-title>. <source>Compendium of Continuing Education in Dentistry</source>
+<volume>33</volume>, <fpage>134</fpage>&#x02013;<lpage>136</lpage>.<pub-id pub-id-type="pmid">22545431</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0011"><mixed-citation publication-type="journal" id="jcpe12428-cit-0011">
+<string-name>
+<surname>Giertsen</surname>, <given-names>E.</given-names>
+</string-name>, <string-name>
+<surname>Guggenheim</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Gm&#x000fc;r</surname>, <given-names>R.</given-names>
+</string-name> (<year>2007</year>) <article-title>Antiplaque effects of ethyl lauroyl arginine in&#x000a0;situ</article-title>. <source>Journal of Dental Research</source>
+<volume>86</volume>(<issue>Special Issue A</issue>), Abstract No. 2293.</mixed-citation></ref><ref id="jcpe12428-bib-0012"><mixed-citation publication-type="journal" id="jcpe12428-cit-0012">
+<string-name>
+<surname>Gunsolley</surname>, <given-names>J. C.</given-names>
+</string-name> (<year>2006</year>) <article-title>A meta&#x02010;analysis of 6&#x000a0;month studies of antiplaque and antigingivitis agents</article-title>. <source>Journal of the American Dental Association</source>
+<volume>137</volume>, <fpage>1649</fpage>&#x02013;<lpage>1657</lpage>.<pub-id pub-id-type="pmid">17138709</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0013"><mixed-citation publication-type="journal" id="jcpe12428-cit-0013">
+<string-name>
+<surname>Hawkins</surname>, <given-names>D. R.</given-names>
+</string-name>, <string-name>
+<surname>Rocabayera</surname>, <given-names>X.</given-names>
+</string-name>, <string-name>
+<surname>Ruckman</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Segret</surname>, <given-names>R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Shaw</surname>, <given-names>D.</given-names>
+</string-name> (<year>2009</year>) <article-title>Metabolism and pharmacokinetics of ethyl <italic>N</italic>(alpha)&#x02010;lauroyl&#x02010;<sc>l</sc>&#x02010;arginate hydrochloride in human volunteers</article-title>. <source>Food and Chemical Toxicology</source>
+<volume>47</volume>, <fpage>2711</fpage>&#x02013;<lpage>2715</lpage>.<pub-id pub-id-type="pmid">19651183</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0014"><mixed-citation publication-type="journal" id="jcpe12428-cit-0014">
+<collab collab-type="authors">Joint FAO/WHO Expert Committee on Food Additives</collab>
+(<year>2009</year>) <article-title>Evaluation of certain food additives</article-title>. <source>World Health Organization Technical Report Series</source>
+<volume>952</volume>, <fpage>1</fpage>&#x02013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">20112497</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0015"><mixed-citation publication-type="journal" id="jcpe12428-cit-0015">
+<string-name>
+<surname>Klinge</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<surname>Matsson</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Attstrom</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<surname>Edwardsson</surname>, <given-names>S.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Sjodin</surname>, <given-names>T.</given-names>
+</string-name> (<year>1996</year>) <article-title>Effect of local application of delmopinol hydrochloride on developing and early established supragingival plaque in humans</article-title>. <source>Journal of Clinical Periodontology</source>
+<volume>23</volume>, <fpage>543</fpage>&#x02013;<lpage>547</lpage>.<pub-id pub-id-type="pmid">8811473</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0016"><mixed-citation publication-type="journal" id="jcpe12428-cit-0016">
+<string-name>
+<surname>Lang</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name>
+<surname>Ronis</surname>, <given-names>D. L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Farghaly</surname>, <given-names>M. M.</given-names>
+</string-name> (<year>1995</year>) <article-title>Preventative behaviours as correlates of periodontal health status</article-title>. <source>Journal of Public Health Dentistry</source>
+<volume>55</volume>, <fpage>10</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">7776285</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0017"><mixed-citation publication-type="journal" id="jcpe12428-cit-0017">
+<string-name>
+<surname>Lang</surname>, <given-names>N. P.</given-names>
+</string-name>, <string-name>
+<surname>Sch&#x000e4;tzle</surname>, <given-names>M. A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>L&#x000f6;e</surname>, <given-names>H.</given-names>
+</string-name> (<year>2009</year>) <article-title>Gingivitis as a risk factor in periodontal disease</article-title>. <source>Journal of Clinical Periodontology</source>
+<volume>36</volume>(<issue>Suppl. 10</issue>), <fpage>3</fpage>&#x02013;<lpage>8</lpage>.<pub-id pub-id-type="pmid">19432625</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0018"><mixed-citation publication-type="journal" id="jcpe12428-cit-0018">
+<string-name>
+<surname>Li</surname>, <given-names>W.</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>, <given-names>R. E.</given-names>
+</string-name>, <string-name>
+<surname>Finger</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lang</surname>, <given-names>N. P.</given-names>
+</string-name> (<year>2014</year>) <article-title>Evaluation of the antigingivitis effect of a chlorhexidine mouthwash with or without an antidiscoloration system compared to placebo during experimental gingivitis</article-title>. <source>Journal of Investigative Clinical Dentistry</source>
+<volume>5</volume>, <fpage>15</fpage>&#x02013;<lpage>22</lpage>.<pub-id pub-id-type="pmid">23766285</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0019"><mixed-citation publication-type="journal" id="jcpe12428-cit-0019">
+<string-name>
+<surname>Lobene</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name>
+<surname>Soparkar</surname>, <given-names>P. M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Newman</surname>, <given-names>M. B.</given-names>
+</string-name> (<year>1982</year>) <article-title>Use of dental floss. Effect on plaque and gingivitis</article-title>. <source>Clinical Preventative Dentistry</source>
+<volume>4</volume>, <fpage>5</fpage>&#x02013;<lpage>8</lpage>.</mixed-citation></ref><ref id="jcpe12428-bib-0020"><mixed-citation publication-type="journal" id="jcpe12428-cit-0020">
+<string-name>
+<surname>Lobene</surname>, <given-names>R. R.</given-names>
+</string-name>, <string-name>
+<surname>Weatherford</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>, <given-names>N. M.</given-names>
+</string-name>, <string-name>
+<surname>Lamm</surname>, <given-names>R. A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Menaker</surname>, <given-names>L.</given-names>
+</string-name> (<year>1986</year>) <article-title>A modified gingival index for use in clinical trials</article-title>. <source>Clinical Preventative Dentistry</source>
+<volume>8</volume>, <fpage>3</fpage>&#x02013;<lpage>6</lpage>.</mixed-citation></ref><ref id="jcpe12428-bib-0021"><mixed-citation publication-type="journal" id="jcpe12428-cit-0021">
+<string-name>
+<surname>L&#x000f6;e</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<surname>Theilade</surname>, <given-names>E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>B&#x000f8;rglum Jensen</surname>, <given-names>S.</given-names>
+</string-name> (<year>1965</year>) <article-title>Experimental gingivitis in man</article-title>. <source>Journal of Periodontology</source>
+<volume>36</volume>, <fpage>177</fpage>&#x02013;<lpage>187</lpage>.<pub-id pub-id-type="pmid">14296927</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0022"><mixed-citation publication-type="journal" id="jcpe12428-cit-0022">
+<string-name>
+<surname>van der Ouderaa</surname>, <given-names>F. J.</given-names>
+</string-name> (<year>1991</year>) <article-title>Anti&#x02010;plaque agents. Rationale and prospects for prevention of gingivitis and periodontal disease</article-title>. <source>Journal of Clinical Periodontology</source>
+<volume>18</volume>, <fpage>447</fpage>&#x02013;<lpage>454</lpage>.<pub-id pub-id-type="pmid">1890227</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0023"><mixed-citation publication-type="journal" id="jcpe12428-cit-0023">
+<string-name>
+<surname>Page</surname>, <given-names>R. C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Kornman</surname>, <given-names>R. S.</given-names>
+</string-name> (<year>1997</year>) <article-title>The pathogenesis of human periodontitis: an introduction</article-title>. <source>Periodontology 2000</source>
+<volume>14</volume>, <fpage>9</fpage>&#x02013;<lpage>11</lpage>.<pub-id pub-id-type="pmid">9567963</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0024"><mixed-citation publication-type="journal" id="jcpe12428-cit-0024">
+<string-name>
+<surname>Quirynen</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Marechal</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Busscher</surname>, <given-names>H. J.</given-names>
+</string-name>, <string-name>
+<surname>Weerkamp</surname>, <given-names>A. H.</given-names>
+</string-name>, <string-name>
+<surname>Darius</surname>, <given-names>P. L.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van Steenbergh</surname>, <given-names>D.</given-names>
+</string-name> (<year>1990</year>) <article-title>The influence of surface&#x02010;free energy and surface roughness on early plaque formation</article-title>. <source>Journal of Clinical Periodontology</source>
+<volume>17</volume>, <fpage>138</fpage>&#x02013;<lpage>144</lpage>.<pub-id pub-id-type="pmid">2319000</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0025"><mixed-citation publication-type="journal" id="jcpe12428-cit-0025">
+<string-name>
+<surname>Rosan</surname>, <given-names>B.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Lamont</surname>, <given-names>R. J.</given-names>
+</string-name> (<year>2000</year>) <article-title>Dental plaque formation</article-title>. <source>Microbes and Infection</source>
+<volume>2</volume>, <fpage>1599</fpage>&#x02013;<lpage>1607</lpage>.<pub-id pub-id-type="pmid">11113379</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0026"><mixed-citation publication-type="journal" id="jcpe12428-cit-0026">
+<string-name>
+<surname>Sambunjak</surname>, <given-names>D.</given-names>
+</string-name>, <string-name>
+<surname>Nickerson</surname>, <given-names>J. W.</given-names>
+</string-name>, <string-name>
+<surname>Poklepovic</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>, <given-names>T. M.</given-names>
+</string-name>, <string-name>
+<surname>Imai</surname>, <given-names>P.</given-names>
+</string-name>, <string-name>
+<surname>Tugwell</surname>, <given-names>P.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Worthington</surname>, <given-names>H. V.</given-names>
+</string-name> (<year>2011</year>) <article-title>Flossing for the management of periodontal diseases and dental caries in adults</article-title>. <source>Cochrane Database of Systematic Reviews</source>
+<volume>7</volume>, <fpage>CD008829</fpage>.<pub-id pub-id-type="pmid">22161438</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0027"><mixed-citation publication-type="journal" id="jcpe12428-cit-0027">
+<string-name>
+<surname>Saxton</surname>, <given-names>C. A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>van der Ouderaa</surname>, <given-names>F. J. G.</given-names>
+</string-name> (<year>1989</year>) <article-title>The effect of a dentifrice containing zinc citrate and Triclosan on developing gingivitis</article-title>. <source>Journal of Periodontal Research</source>
+<volume>24</volume>, <fpage>75</fpage>&#x02013;<lpage>80</lpage>.<pub-id pub-id-type="pmid">2524573</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0028"><mixed-citation publication-type="journal" id="jcpe12428-cit-0028">
+<string-name>
+<surname>Slot</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>D&#x000f6;rfer</surname>, <given-names>C. E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Van der Weijden</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>2008</year>) <article-title>The efficacy of interdental brushes on plaque and parameters of periodontal inflammation: a systematic review</article-title>. <source>International Journal of Dental Hygiene</source>
+<volume>6</volume>, <fpage>253</fpage>&#x02013;<lpage>264</lpage>.<pub-id pub-id-type="pmid">19138177</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0029"><mixed-citation publication-type="journal" id="jcpe12428-cit-0029">
+<string-name>
+<surname>Slot</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Wiggelinkhuizen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Rosema</surname>, <given-names>N. A.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Van der Weijden</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>2012</year>) <article-title>The efficacy of manual toothbrushes following a brushing exercise: a systematic review</article-title>. <source>International Journal of Dental Hygiene</source>
+<volume>10</volume>, <fpage>187</fpage>&#x02013;<lpage>197</lpage>.<pub-id pub-id-type="pmid">22672101</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0030"><mixed-citation publication-type="journal" id="jcpe12428-cit-0030">
+<string-name>
+<surname>Socransky</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<surname>Haffajee</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<surname>Haffajee</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<surname>Uzel</surname>, <given-names>N. J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Goodson</surname>, <given-names>J. M.</given-names>
+</string-name> (<year>2004</year>) <article-title>Use of checkerboard DNA&#x02013;DNA hybridisation to study complex microbial ecosystems</article-title>. <source>Oral Microbiology and Immunology</source>
+<volume>19</volume>, <fpage>352</fpage>&#x02013;<lpage>362</lpage>.<pub-id pub-id-type="pmid">15491460</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0031"><mixed-citation publication-type="journal" id="jcpe12428-cit-0031">
+<string-name>
+<surname>Solis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Saantos</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<surname>Nart</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Violant</surname>, <given-names>D.</given-names>
+</string-name> (<year>2011</year>) <article-title>0.2% chlorhexidine mouthwash with an antidiscoloration system versus 0.2% chlorhexidine mouthwash: a prospective clinical comparative study</article-title>. <source>Journal of Periodontology</source>
+<volume>82</volume>, <fpage>80</fpage>&#x02013;<lpage>85</lpage>.<pub-id pub-id-type="pmid">20653433</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0032"><mixed-citation publication-type="miscellaneous" id="jcpe12428-cit-0032">
+<string-name>
+<surname>Steele</surname>, <given-names>J.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>O'Sullivan</surname>, <given-names>I.</given-names>
+</string-name> (<year>2011</year>) <article-title>Adult Dental Health Survey 2009: Summary report and thematic series</article-title>. Publication date March 24, 2011. <ext-link ext-link-type="uri" xlink:href="http://www.hscic.gov.uk/pubs/dentalsurveyfullreport09">http://www.hscic.gov.uk/pubs/dentalsurveyfullreport09</ext-link> (accessed on 16 September 2014).</mixed-citation></ref><ref id="jcpe12428-bib-0033"><mixed-citation publication-type="journal" id="jcpe12428-cit-0033">
+<string-name>
+<surname>Swango</surname>, <given-names>P. A.</given-names>
+</string-name> (<year>2012</year>) <article-title>Regular use of antimicrobial mouthrinses can effectively augment the benefits of oral prophylaxis and oral hygiene instructions at 6&#x02010;month recall intervals in reducing the occurrence of dental plaque and gingivitis</article-title>. <source>Journal of Evidence Based Dental Practice</source>
+<volume>12</volume>, <fpage>87</fpage>&#x02013;<lpage>89</lpage>.<pub-id pub-id-type="pmid">22726787</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0034"><mixed-citation publication-type="journal" id="jcpe12428-cit-0034">
+<string-name>
+<surname>Turesky</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Gilmore</surname>, <given-names>N. D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Glickman</surname>, <given-names>I.</given-names>
+</string-name> (<year>1970</year>) <article-title>Reduced plaque formation by the chlormethyl analogue of vitamin C</article-title>. <source>Journal of Periodontology</source>
+<volume>41</volume>, <fpage>41</fpage>&#x02013;<lpage>43</lpage>.<pub-id pub-id-type="pmid">5264376</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0035"><mixed-citation publication-type="miscellaneous" id="jcpe12428-cit-0035">
+<collab collab-type="authors">United States Patent Application no. 20100330136</collab>
+. <article-title>Use of cationic surfactants for the protection against tooth erosion</article-title>. 
+<ext-link ext-link-type="uri" xlink:href="http://appft1.uspto.gov/netacgi/nph-Parser?amp;Sect1=PTO1&#x00026;Sect2=HITOFF&#x00026;d=PG01&#x00026;p=1&#x00026;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&#x00026;r=1&#x00026;f=G&#x00026;l=50&#x00026;s1=%2220100330136%22.PGNR.&#x00026;OS=DN/20100330136&#x00026;RS=DN/20100330136">http://appft1.uspto.gov/netacgi/nph-Parser?amp;Sect1=PTO1&#x00026;Sect2=HITOFF&#x00026;d=PG01&#x00026;p=1&#x00026;u=%2Fnetahtml%2FPTO%2Fsrchnum.html&#x00026;r=1&#x00026;f=G&#x00026;l=50&#x00026;s1=%2220100330136%22.PGNR.&#x00026;OS=DN/20100330136&#x00026;RS=DN/20100330136</ext-link> (accessed on 11 August 2010).</mixed-citation></ref><ref id="jcpe12428-bib-0036"><mixed-citation publication-type="journal" id="jcpe12428-cit-0036">
+<string-name>
+<surname>Van Leeuwen</surname>, <given-names>M. P.</given-names>
+</string-name>, <string-name>
+<surname>Slot</surname>, <given-names>D. E.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Van der Weijden</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>2011</year>) <article-title>Essential oils compared to chlorhexidine with respect to plaque and parameters of gingival inflammation: a systematic review</article-title>. <source>Journal of Periodontology</source>
+<volume>82</volume>, <fpage>174</fpage>&#x02013;<lpage>194</lpage>.<pub-id pub-id-type="pmid">21043801</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0037"><mixed-citation publication-type="journal" id="jcpe12428-cit-0037">
+<string-name>
+<surname>Van Maanen&#x02010;Schakel</surname>, <given-names>N. W.</given-names>
+</string-name>, <string-name>
+<surname>Slot</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Baker</surname>, <given-names>E. W.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Van der Weijden</surname>, <given-names>G. A.</given-names>
+</string-name> (<year>2012</year>) <article-title>The effects of an oxygenating agent on chlorhexidine&#x02010;induced extrinsic tooth staining: a systematic review</article-title>. <source>International Journal of Dental Hygiene</source>
+<volume>10</volume>, <fpage>198</fpage>&#x02013;<lpage>208</lpage>.<pub-id pub-id-type="pmid">22594687</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0038"><mixed-citation publication-type="journal" id="jcpe12428-cit-0038">
+<string-name>
+<surname>Van Strydonck</surname>, <given-names>D. A.</given-names>
+</string-name>, <string-name>
+<surname>Slot</surname>, <given-names>D. E.</given-names>
+</string-name>, <string-name>
+<surname>Van der Velden</surname>, <given-names>U.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Van der Weijden</surname>, <given-names>F.</given-names>
+</string-name> (<year>2012</year>) <article-title>Effect of a chlorhexidine mouthrinse on plaque, gingival inflammation and staining in gingivitis patients: a systematic review</article-title>. <source>Journal of Clinical Periodontology</source>
+<volume>39</volume>, <fpage>1042</fpage>&#x02013;<lpage>1055</lpage>.<pub-id pub-id-type="pmid">22957711</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0039"><mixed-citation publication-type="journal" id="jcpe12428-cit-0039">
+<string-name>
+<surname>Vassilakos</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<surname>Arnebrant</surname>, <given-names>T.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Rundegren</surname>, <given-names>J.</given-names>
+</string-name> (<year>1993</year>) <article-title>In vitro interactions of delmopinol hydrochloride with salivary films adsorbed at solid/liquid interfaces</article-title>. <source>Caries Research</source>
+<volume>27</volume>, <fpage>176</fpage>&#x02013;<lpage>182</lpage>.<pub-id pub-id-type="pmid">8390919</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0040"><mixed-citation publication-type="journal" id="jcpe12428-cit-0040">
+<string-name>
+<surname>Warren</surname>, <given-names>P. R.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Chater</surname>, <given-names>B. V.</given-names>
+</string-name> (<year>1996</year>) <article-title>An overview of established interdental cleaning methods</article-title>. <source>The Journal of Clinical Dentistry</source>
+<volume>7</volume>(<issue>3 Special No.</issue>), <fpage>65</fpage>&#x02013;<lpage>69</lpage>.<pub-id pub-id-type="pmid">9238867</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0041"><mixed-citation publication-type="journal" id="jcpe12428-cit-0041">
+<string-name>
+<surname>Woodcock</surname>, <given-names>N. H.</given-names>
+</string-name>, <string-name>
+<surname>Hammond</surname>, <given-names>B. H.</given-names>
+</string-name>, <string-name>
+<surname>Ralyea</surname>, <given-names>R. D.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Boor</surname>, <given-names>K. J.</given-names>
+</string-name> (<year>2009</year>) <article-title>
+<italic>N</italic>alpha&#x02010;lauroyl&#x02010;<sc>l</sc>&#x02010;arginine ethylester monohydrochloride reduces bacterial growth in pasteurized milk</article-title>. <source>Journal of Dairy Science</source>
+<volume>92</volume>, <fpage>4207</fpage>&#x02013;<lpage>4210</lpage>.<pub-id pub-id-type="pmid">19700681</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0042"><mixed-citation publication-type="journal" id="jcpe12428-cit-0042">
+<string-name>
+<surname>Wu</surname>, <given-names>C.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Savitt</surname>, <given-names>E. D.</given-names>
+</string-name> (<year>2002</year>) <article-title>Evaluation of the safety and efficacy of over the counter oral hygiene products for the reduction and control of plaque and gingivitis</article-title>. <source>Periodontology 2000</source>
+<volume>28</volume>, <fpage>91</fpage>&#x02013;<lpage>105</lpage>.<pub-id pub-id-type="pmid">12013351</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0043"><mixed-citation publication-type="journal" id="jcpe12428-cit-0043">
+<string-name>
+<surname>Yaacob</surname>, <given-names>M.</given-names>
+</string-name>, <string-name>
+<surname>Worthington</surname>, <given-names>H. V.</given-names>
+</string-name>, <string-name>
+<surname>Deacon</surname>, <given-names>S. A.</given-names>
+</string-name>, <string-name>
+<surname>Deery</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Walmsley</surname>, <given-names>A. D.</given-names>
+</string-name>, <string-name>
+<surname>Robinson</surname>, <given-names>P. G.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Glenney</surname>, <given-names>A. M.</given-names>
+</string-name> (<year>2014</year>) <article-title>Powered versus manual toothbrushing for oral health</article-title>. <source>Cochrane Database of Systematic Reviews</source>
+<volume>6</volume>, <fpage>CD002281</fpage>.<pub-id pub-id-type="pmid">24934383</pub-id></mixed-citation></ref><ref id="jcpe12428-bib-0044"><mixed-citation publication-type="journal" id="jcpe12428-cit-0044">
+<string-name>
+<surname>Zimmer</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<surname>Kolbe</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<surname>Kaiser</surname>, <given-names>G.</given-names>
+</string-name>, <string-name>
+<surname>Krage</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<surname>Ommerborn</surname>, <given-names>M.</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Barthel</surname>, <given-names>C.</given-names>
+</string-name> (<year>2006</year>) <article-title>Clinical efficacy of flossing versus use of antimicrobial rinses</article-title>. <source>Journal of Periodontology</source>
+<volume>77</volume>, <fpage>1380</fpage>&#x02013;<lpage>1385</lpage>.<pub-id pub-id-type="pmid">16881807</pub-id></mixed-citation></ref></ref-list></back></article>

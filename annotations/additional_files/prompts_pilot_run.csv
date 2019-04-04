@@ -1,0 +1,95 @@
+PromptID,PMCID,Outcome,Intervention,Comparator
+2,3298351,venous ulcer healing,four-layer bandage,compression stocking
+3,3298351,venous ulcer healing,compression therapy,no treatment
+4,3298351,venous ulcer healing,four-layer bandage,two-layer bandage
+5,3298351,CEAP scores,four-layer bandage,two-layer bandage
+6,3298351,CEAP scores,four-layer bandage,compression stocking
+7,3298351,CEAP scores,two-layer bandage,compression stocking
+8,3298351,venous ulcer healing,ProGuide system,Profore compression
+9,3298351,faster healing dynamics,layer compression,Compression stocking
+10,3298351,higher percentage of healed area,layer compression,Compression stocking
+11,2366143,interval to delivery,tocolysis,antibiotic therapy and tocolysis
+12,2366143,birth weight,tocolysis,antibiotic therapy and tocolysis
+13,2366143,neonatal outcomes,tocolysis,antibiotic therapy and tocolysis
+14,2366143,infection,antibiotic therapy,placebo
+15,2366143,gestational age,antibiotic therapy,placebo
+16,2366143,frequency of contractions,antibiotic therapy,placebo
+20,3233526,pregnancy,weekly supplements of two iron tablets,daily single iron tablets
+21,3233526,pregnancy,daily single iron tablets,twice weekly single iron tablet
+22,3233526,birth outcome,twice weekly single iron tablet,weekly supplements of two iron tablets
+23,3233526,birth outcome,weekly supplements of two iron tablets,daily single iron tablets
+24,3233526,birth outcome,daily single iron tablets,twice weekly single iron tablet
+25,3233526,side effects,weekly supplements of two iron tablets,no treatment
+26,3233526,side effects,daily single iron tablets,no treatment
+27,3233526,side effects,twice weekly single iron tablet,no treatment
+28,3233526,hemoglobin levels at week 28,weekly supplements of two iron tablets,no treatment
+29,3233526,hemoglobin levels at week 28,daily single iron tablets,no treatment
+30,3233526,hemoglobin levels at week 28,twice weekly single iron tablet,no treatment
+31,3233526,hemoglobin levels at week 38,weekly supplements of two iron tablets,twice weekly single iron tablet
+33,3233526,ferritin levels at week 28,daily single iron tablets,weekly supplements of two iron tablets
+34,3233526,ferritin levels at week 28,daily single iron tablets,twice weekly single iron tablet
+35,3233526,ferritin levels at week 38,weekly supplements of two iron tablets,twice weekly single iron tablet
+36,3233526,ferritin levels at week 38,weekly supplements of two iron tablets,daily single iron tablets
+37,3233526,ferritin levels at week 38,daily single iron tablets,twice weekly single iron tablet
+38,2674549,symptoms of RA,golimumab and methotrexate,methotrexate
+39,2674549,physical function,golimumab and methotrexate,methotrexate
+40,2674549,ACR20 ,placebo and methotrexate,Golimumab 100 mg and placebo
+41,2674549,Median HAQ-DI score,placebo and methotrexate,Golimumab 100 mg and placebo
+42,2674549,HAQ-DI score,50mg of Golimumab and methotrexate,placebo and methotrexate
+43,2674549,HAQ-DI score,100mg of Golimumab and methotrexate,placebo and methotrexate
+44,2674549,serious adverse events,100mg of Golimumab and methotrexate,placebo and methotrexate
+45,2674549,serious adverse events,100mg of Golimumab and methotrexate,Golimumab 100 mg and placebo
+46,2674549,serious adverse events,100mg of Golimumab and methotrexate,50mg of Golimumab and methotrexate
+47,524504,induction-delivery interval,misoprostol,dinoprostone
+48,524504,number of women who deliver within 12 hours,misoprostol,dinoprostone
+49,524504,number of women who deliver within 24 hours,misoprostol,dinoprostone
+50,524504,spontaneous rupture of membranes,misoprostol,dinoprostone
+51,524504,administration of oxytocin augmentation,misoprostol,dinoprostone
+52,524504,Caesarean section rate,dinoprostone,misoprostol
+53,524504,abnormal fetal heart rate,dinoprostone,misoprostol
+54,524504,uterine tachysystole,misoprostol,dinoprostone
+55,524504,Uterine Hyperstimulation,misoprostol,dinoprostone
+56,524504,Meconium stained AF,dinoprostone,misoprostol
+57,524504,perinatal death,dinoprostone,misoprostol
+58,524504,Neonatal resuscitation,dinoprostone,misoprostol
+59,524504,Core blood pH,dinoprostone,misoprostol
+60,524504,Hyperbilirubinemia,dinoprostone,misoprostol
+61,524504,Birth trauma,dinoprostone,misoprostol
+62,1764008,rates of vacuum-assisted delivery rate,Meperidine analgesia,epidural analgesia
+63,1764008,c-section,Meperidine analgesia,epidural analgesia
+64,1764008,duration of labor stages,Meperidine analgesia,epidural analgesia
+65,1764008,oxytocin augmentation,Meperidine analgesia,epidural analgesia
+66,1764008,preanalgesic visual analog pain,Meperidine analgesia,epidural analgesia
+67,1764008,pain levels during first stage labor,epidural analgesia,Meperidine analgesia
+68,1764008,pain levels during second stage labor,epidural analgesia,Meperidine analgesia
+69,1764008,hypotension,epidural analgesia,Meperidine analgesia
+70,1764008,nausea and vomiting,Meperidine analgesia,epidural analgesia
+71,1764008,obstetric outcome,Meperidine analgesia,epidural analgesia
+72,1764008,obstetric intervention,Meperidine analgesia,epidural analgesia
+73,1764008,neonatal outcome,Meperidine analgesia,epidural analgesia
+74,3281242,continuous abstienence at week 12,varenicline,placebo
+75,3281242,continuous abstienence at 24 week follow up,varenicline,placebo
+76,3281242,frequency of quit events by day 35,varenicline,placebo
+77,3281242,time to make first quit attempt,varenicline,placebo
+78,2875419,improved A1C,detemir,glargine
+79,2875419,number of patients with A1C <7%,detemir,glargine
+80,2875419,number of patients with A1C <6.5%,detemir,glargine
+81,2875419,Hypoglycemia,detemir,glargine
+82,2875419,Weight Gain,glargine,detemir
+83,2875419,frequency of insulin doses,glargine,detemir
+84,2875419,drop-out rate,detemir,glargine
+85,2944158,IVD comlication rates,routine replacement,staff inclination replacement
+86,2944158,time until first complication,routine replacement,staff inclination replacement
+87,2944158,infections,routine replacement,staff inclination replacement
+88,2944158,therapy duration,routine replacement,staff inclination replacement
+89,2944158,frequency of replacements,routine replacement,staff inclination replacement
+90,2944158,cost per patient,routine replacement,staff inclination replacement
+91,2944158,IVD complications per person,routine replacement,staff inclination replacement
+92,2944158,phlebitis,routine replacement,staff inclination replacement
+93,2944158,infiltration,routine replacement,staff inclination replacement
+94,2944158,occlusion,routine replacement,staff inclination replacement
+95,2944158,IVD dwell times,staff inclination replacement,routine replacement
+96,2858204,frequency of healed index ucler after 1 year,HBOT ,placebo
+97,2858204,hypoglycemia occuring after treatment,HBOT ,placebo
+98,2858204,downsizing of ucler area 2 weeks after treatment,HBOT ,placebo
+99,2871176,HbA1c level at 26 weeks,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
