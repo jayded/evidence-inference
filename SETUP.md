@@ -8,3 +8,7 @@ Experiments were run on a mix of 1080Tis, K40ms, K80ms, and P100s.
 You should be able to (approximately) reproduce the main experiments via the
 programs in `scripts/paper/` (you may wish to modify the code to run multiple
 trials). The main results should finish in fewer than 10 hours.
+
+
+To run the heuristics, you'll need a mysql server. On Ubuntu, the packages
+mysql-server and libmysqlclient-dev should suffice (or equivalent, e.g. Maria).
