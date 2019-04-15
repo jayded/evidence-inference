@@ -56,7 +56,7 @@ def main(config, init_save, final_save):
     if config == 'LR_Pipeline':
         run_scan_net_regression(init_save)
         run_lr_pipeline(100, True, path = init_save)
-    elif config == 'scan_net ICO':
+    elif config == 'scan_net_ICO':
         run_scan_net_redux(init_save)
         run_scan_net(init_save, final_save, data_config = 'scan_net_ICO')
     elif config == 'scan_net':
@@ -75,7 +75,7 @@ def main(config, init_save, final_save):
 
 parser = argparse.ArgumentParser(description="Run a single baseline experiment.")
 parser.add_argument('--config',       dest='config', help='Which experiment to run.')
-parser.add_argument('--init_save',  dest='half_save',     default='tmp.pth', help='Where to save the part of the pipeline to.')
+parser.add_argument('--init_save',  dest='init_save',     default='tmp.pth', help='Where to save the part of the pipeline to.')
 parser.add_argument('--final_save', dest='final_save',    default='tmp_f.pth', help='Where to save the second part of the pipeline to.')
 args = parser.parse_args()
 

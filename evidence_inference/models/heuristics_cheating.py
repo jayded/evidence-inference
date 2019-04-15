@@ -11,7 +11,7 @@ sys.path.insert(0, abspath(join(dirname(abspath(__file__)), '..', '..')))
 import numpy as np
 from sklearn.metrics import accuracy_score, f1_score
 import evidence_inference.preprocess.preprocessor as preprocessor
-from heuristics import try_except_parse, eval_sentence
+from evidence_inference.models.heuristics import try_except_parse, eval_sentence
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 
 
