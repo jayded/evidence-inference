@@ -107,9 +107,14 @@ def infer_direction(sen, default):
         all_pw.extend(pos_words)
        
     # add in different forms of the word based on english rules
-    all_nw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_nw, []))
-    all_pw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_pw, []))
-    
+    try:
+        all_nw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_nw, []))
+        all_pw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_pw, []))
+    except:
+        print("Error. Continue.")
+        return infer_direction(sen, default)
+
+        
     # remove duplicates
     all_nw = [x for x in iter(set(all_nw))]
     all_pw = [x for x in iter(set(all_pw))]

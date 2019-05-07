@@ -30,7 +30,7 @@ LBL_COL_NAME = "Label Code"
 EVIDENCE_COL_NAME = "Annotations"
 STUDY_ID_COL = "PMCID"
 
-USE_CUDA = True
+USE_CUDA = False
 
 def load_model_scan(inference_vectorizer, loc = './model_lr.pth'):
     """ Load in the model (with proper weights). """
@@ -135,7 +135,7 @@ def run_lr_pipeline(iterations, use_test, path = './model_lr.pth'):
     model = train_model(x_train, y_train, x_val, y_val, iterations, learning_rate=0.001)
     preds = test_model(model, x_test)
     
-    preds = preds.cpu()
+    preds = preds
     y_test = y_test.cpu()
     # calculate f1 and accuracy
     print(classification_report(y_test, preds))
@@ -152,4 +152,4 @@ def run_lr_pipeline(iterations, use_test, path = './model_lr.pth'):
     return acc, f1, prec, rec
 
 if __name__ == "__main__":
-    print(run_lr_pipeline(25, True))
+    print(run_lr_pipeline(1, True))

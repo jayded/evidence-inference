@@ -35,7 +35,7 @@ class ScanNet(nn.Module):
         
         super(ScanNet, self).__init__()
         self.vectorizer = inference_vector
-        init_embedding_weights = InferenceNet.init_word_vectors("./embeddings/PubMed-w2v.bin", inference_vector)
+        init_embedding_weights = InferenceNet.init_word_vectors("embeddings/PubMed-w2v.bin", inference_vector)
         vocab_size = len(self.vectorizer.idx_to_str)
         
         print("Loading Article encoder...")
@@ -278,12 +278,12 @@ def train_scan(scan_net, inference_vectorizer, train_Xy, val_Xy, epochs = 1, bat
             y_preds = torch.FloatTensor(y_preds).cuda()
             val_loss = criterion(y_preds, y_true)
             y_bin = [1 if y > .5 else 0 for y in y_preds]
-        
+            y_true = y_true.cpu()
             acc = accuracy_score(y_true, y_bin)
             f1  = f1_score(y_true, y_bin)
             prc = precision_score(y_true, y_bin)
             rc  = recall_score(y_true, y_bin)
-            
+            y_true = y_true.cuda()
 
             print("epoch {}. train loss: {}; val loss: {}; val acc: {:.3f}; val f1: {:.3f}; val precision: {:.3f}; val recall: {:.3f}".format(
                         epoch, epoch_loss, val_loss, acc, f1, prc, rc))  

@@ -48,24 +48,24 @@ def run_scan_net(sn_loc, save_model, data_config = 'scan_net_ICO'):
     val_metrics, attn_metrics = results[0]
     df = results_to_csv(config, val_metrics, attn_metrics)
     print("<csvsnippet>")
-    df.to_csv(sys.out, index=False, compression=None)
+    df.to_csv(sys.stdout, index=False, compression=None)
     print("</csvsnippet>")
     
     
 def main(config, init_save, final_save):
     if config == 'LR_Pipeline':
         run_scan_net_regression(init_save)
-        run_lr_pipeline(100, True, path = init_save)
-    elif config == 'scan_net_ICO':
-        run_scan_net_redux(init_save)
-        run_scan_net(init_save, final_save, data_config = 'scan_net_ICO')
+        run_lr_pipeline(25, True, path = init_save)
     elif config == 'scan_net':
+        run_scan_net_redux(init_save)
+        run_scan_net(init_save, final_save, data_config = 'scan_net')
+    elif config == 'scan_net_ICO':
         run_scan_net_ico(init_save)
         run_scan_net(init_save, final_save, data_config = 'scan_net_ICO')
     elif config == 'heuristic':
-        heuristics()
+        print(heuristics())
     elif config == 'heuristic_cheating':
-        heuristics_cheating()
+        print(heuristics_cheating())
     elif config == 'lr':
         lr(100, True)
     elif config == 'lr_cheating':

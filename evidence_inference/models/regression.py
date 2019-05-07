@@ -28,8 +28,7 @@ LBL_COL_NAME = "Label Code"
 EVIDENCE_COL_NAME = "Annotations"
 STUDY_ID_COL = "PMCID"
 
-USE_CUDA = True
-
+USE_CUDA = False
 
 def flatten(x):
     """
@@ -195,7 +194,7 @@ def train_model(x_train, y_train_e, x_val, y_val_e, num_epochs, learning_rate):
         with torch.no_grad():
             preds = test_model(model, x_val)
             
-        preds = preds.cpu()
+        preds = preds
         y_val_e = y_val_e.cpu()
         acc = accuracy_score(y_val_e, preds)
         if acc > best_accuracy:
@@ -221,7 +220,7 @@ def test_model(model, x_test):
         outputs = model(x_test)
         _, predicted = torch.max(outputs.data, 1)
         
-    return predicted
+    return predicted.cpu().numpy()
 
 
 def main(iterations, use_test):
@@ -237,7 +236,8 @@ def main(iterations, use_test):
     print("Loaded {} training examples, {} validation examples, {} testing examples".format(len(x_train), len(x_val), len(x_test)))
     model = train_model(x_train, y_train, x_val, y_val, iterations, learning_rate=0.001)
     preds = test_model(model, x_test)
-
+    
+    y_test = y_test.cpu()
     # calculate f1 and accuracy
     acc  = accuracy_score(y_test, preds)
     f1   = f1_score(y_test, preds, average='macro')
@@ -245,7 +245,7 @@ def main(iterations, use_test):
     rec  = recall_score(y_test, preds, average = 'macro')
 
     # calculate the majority class f1 and accuracy
-    mode = stats.mode(y_train)[0][0][0]
+    mode = stats.mode(y_train.cpu())[0][0][0]
     majority_guess = [mode for _ in preds]
     guess_acc = accuracy_score(y_test, majority_guess)
     guess_f1 = f1_score(y_test, majority_guess, average='macro')
