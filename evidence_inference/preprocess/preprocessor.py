@@ -68,7 +68,7 @@ def extract_raw_text(article, sections_of_interest=None):
         #sections_of_interest = ["results", ""]
         sections_of_interest = article.article_dict.keys()
    
-    ti_ab = article.ti_ab_str()
+    ti_ab = "TITLE: " + article.get_title() + "\n\n"
 
     article_sections = [sec for sec in article.article_dict.keys() if any(
                             [s in sec for s in sections_of_interest])]
