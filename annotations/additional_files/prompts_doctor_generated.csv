@@ -1,10 +1,8 @@
 PromptID,PMCID,Outcome,Intervention,Comparator
 213,2206488,IL-6r (ng/ml),dextran-70 infusion was administered at a dose of 7.5 ml/kg before the initiation of cardiopulmonary bypass and at a dose of 12.5 ml/kg after the cessation of cardiopulmonary bypass,identical amounts of gelatin infusion
-98,2858204,downsizing of ucler area 2 weeks after treatment,HBOT ,placebo
 150,2871176,Incidence of minor hypoglycaemia,Liraglutide (1.2 mg) plus glimepiride,Rosiglitazone plus glimepiride
 191,2517154,Dysmenorrhea scores,Infliximab,Placebo
 113,2871176,Patients reaching HbA1c goals less than 7.0% and equal or less than 6.5%,Liraglutide (1.8 mg) plus glimepiride,Rosiglitazone plus glimepiride
-95,2944158,IVD dwell times,staff inclination replacement,routine replacement
 163,2708184,Berg Balance Scale score,Body-weight supported treadmill training combined with Lokomat (Post-test),Body-weight supported treadmill training combined with Lokomat (Pre-test)
 140,2871176,HOMA-IR,Liraglutide (all doses) plus glimepiride,Rosiglitazone plus glimepiride
 106,2871176,HbA1c level at 26 weeks,Liraglutide (0.6 mg) plus glimepiride,Placebo plus glimepiride
@@ -16,7 +14,6 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 196,3187863,Pain relief: Epidural anesthesia,Midwife-led unit,Normal unit & Special unit
 148,2871176,Pulse variations,Liraglutide (1.2 mg) plus glimepiride,Rosiglitazone plus glimepiride
 152,2871176,Incidence of minor hypoglycaemia,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
-92,2944158,phlebitis,routine replacement,staff inclination replacement
 154,2871176,Changes in calcitonin at week 26,Liraglutide (all doses) plus glimepiride,Placebo plus glimepiride
 125,2871176,Postprandial plasma glucose,Liraglutide (1.8 mg) plus glimepiride,Rosiglitazone plus glimepiride
 121,2871176,ADA fasting plasma glucose goals between 5.0 mmol/l and less than 7.2 mmol/l,Liraglutide (1.2 mg) plus glimepiride,Rosiglitazone plus glimepiride
@@ -29,8 +26,6 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 156,2708184,Paretic step length ratio,Body-weight supported treadmill training combined with Lokomat,Manually-assisted body-weight supported treadmill training
 171,2864284,Superiority of treatment given by survival curves,Dihydroartemisinin-piperaquine,Chloroquine
 176,2864284,Headache,Dihydroartemisinin-piperaquine,Chloroquine
-91,2944158,IVD complications per person,routine replacement,staff inclination replacement
-90,2944158,cost per patient,routine replacement,staff inclination replacement
 105,2871176,HbA1c level at 26 weeks,Liraglutide (1.8 mg) plus glimepiride,Placebo plus glimepiride
 187,2517154,Bleeding during surgery,Infliximab,Placebo
 133,2871176,Proinsulin : insulin ratio,Liraglutide (1.8 mg) plus glimepiride ,Rosiglitazone plus glimepiride 
@@ -77,9 +72,7 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 139,2871176,HOMA-IR,Liraglutide (all doses) plus glimepiride,Placebo plus glimepiride
 183,2517154,Endometrial thickness,Infliximab,Placebo
 101,2871176,Fasting plasma glucose at week 26,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
-94,2944158,occlusion,routine replacement,staff inclination replacement
 212,2206488,IL-6 (pg/ml),dextran-70 infusion was administered at a dose of 7.5 ml/kg before the initiation of cardiopulmonary bypass and at a dose of 12.5 ml/kg after the cessation of cardiopulmonary bypass,identical amounts of gelatin infusion
-99,2871176,HbA1c level at 26 weeks,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
 144,2871176,Reductions in systolic blood pressure,Liraglutide (1.8 mg) plus glimepiride ,Rosiglitazone plus glimepiride 
 189,2517154,Pain estimates after surgery,Infliximab,Placebo
 160,2708184,Late Life Function and Disability Instrument,Body-weight supported treadmill training combined with Lokomat (Post-test),Body-weight supported treadmill training combined with Lokomat (Pre-test)
@@ -91,7 +84,6 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 143,2871176,Reductions in systolic blood pressure,Liraglutide (1.2 mg) plus glimepiride ,Rosiglitazone plus glimepiride 
 166,3001156,Care-seeking from the Kumudini Hospital for ill newborns ,Promotion by CHWs of maternal and newborn-care interventions ,Comparison arm 
 111,2871176,Patients reaching HbA1c goals less than 7.0% and equal or less than 6.5%,Liraglutide (1.8 mg) plus glimepiride,Placebo plus glimepiride
-97,2858204,hypoglycemia occuring after treatment,HBOT ,placebo
 137,2871176,HOMA-B,Liraglutide (1.2 mg) plus glimepiride ,Placebo plus glimepiride 
 114,2871176,Patients reaching HbA1c goals less than 7.0% ,Liraglutide (1.8 mg) plus glimepiride,Liraglutide (1.2 mg) plus glimepiride
 210,2206488,systemic vascular resistance,dextran-70 infusion was administered at a dose of 7.5 ml/kg before the initiation of cardiopulmonary bypass and at a dose of 12.5 ml/kg after the cessation of cardiopulmonary bypass,identical amounts of gelatin infusion
@@ -108,10 +100,8 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 127,2871176,ADA postprandial plasma glucose goals less than 10.0 mmol/l,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
 131,2871176,Proinsulin : insulin ratio,Liraglutide (1.2 mg) plus glimepiride ,Rosiglitazone plus glimepiride 
 109,2871176,HbA1c level at 26 weeks,Rosiglitazone plus glimepiride,Placebo plus glimepiride
-96,2858204,frequency of healed index ucler after 1 year,HBOT ,placebo
 146,2871176,Decreases in diastolic blood pressure,Liraglutide (all doses) plus glimepiride,Rosiglitazone plus glimepiride
 205,4106715,Prolonged abstinence from smoking rates to 12 months,low Ab group,placebo
-93,2944158,infiltration,routine replacement,staff inclination replacement
 192,1852268,obstetric/postpartum infection or gynecologic/postoperative infection,"Inravenous ertapenem, 1 g once a day","Intravenous piperacillin–tazobactam, 3.375 g every 6 hours"
 110,2871176,Patients reaching HbA1c goals less than 7.0% and equal or less than 6.5%,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
 100,2871176,HbA1c level at 26 weeks,Liraglutide (1.2 mg) plus glimepiride,Rosiglitazone plus glimepiride
