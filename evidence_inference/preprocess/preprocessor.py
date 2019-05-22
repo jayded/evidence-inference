@@ -38,13 +38,12 @@ EVIDENCE_END = "Evidence End"
 STUDY_ID_COL = "PMCID"
 VALID_LABEL = "Valid Label"
 VALID_REASONING = "Valid Reasoning"
-
+USE_PLAIN_TEXT = True
 
 def get_article(article_id):
     xml_str = "PMC{}.nxml".format(article_id)
     xml_path = os.path.join(base_XML_path, xml_str)
-    return article_reader.Article(xml_path)
-
+    return article_reader.Article(xml_path, use_plain_text = USE_PLAIN_TEXT)
 
 def read_in_articles(article_ids=None):
 
