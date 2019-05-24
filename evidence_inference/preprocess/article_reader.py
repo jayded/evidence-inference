@@ -44,60 +44,76 @@ class Article:
         except:
             # this means that the article here has only an abstract.
             self.body = []
-        
 
     def __str__(self):
         return self.get_title()
     
     def format_xmlns(self, s, el):
-      nsmap_inverse = { v: k for k, v in el.nsmap.items() }
-      # universal non-specified namespace as per:
-      #     https://www.w3.org/TR/xml-names/
-      nsmap_inverse['http://www.w3.org/XML/1998/namespace'] = 'xml'
-      prefix, suffix = s[1:].split('}', 1)
-      ns = nsmap_inverse.get(prefix, '')
-      if not ns:
-        pass
-      return '{}:{}'.format(ns, suffix)
+        nsmap_inverse = { v: k for k, v in el.nsmap.items() }
+        # universal non-specified namespace as per:
+        #     https://www.w3.org/TR/xml-names/
+        nsmap_inverse['http://www.w3.org/XML/1998/namespace'] = 'xml'
+        prefix, suffix = s[1:].split('}', 1)
+        ns = nsmap_inverse.get(prefix, '')
+        if not ns:
+          pass
+        return '{}:{}'.format(ns, suffix)
 
-    def parse_fname(self, fname, output_dir = './'):
-      txt_out = ''   
-      newline_tags = ['p', 'sec', 'title', 'td']
-      collected_tags = ['abstract', 'body']
-      collect_txt = False
+    def gen_plain_text(self, fname = None):
+        """
+        Get the plain text version of the NXML file.
+        
+        @param fname     is the full path/location of the XML file.
+        @return txt_out  is a string that is the plain text version of the xml.
+        @return all_sections is a dictionary with section names and their character offsets.
+        """
+        fname = fname or self.id
+        txt_out = ''   
+        newline_tags = ['p', 'sec', 'title', 'td']
+        collected_tags = ['abstract', 'body']
+        collect_txt = False
+        tag_list = []
+        all_sections = {}
     
-      for e, el in etree.iterparse(open(fname, 'rb'), ('start', 'end')):
-    
-        if e == 'start':
-          tag = el.tag
-          if el.tag.startswith('{'):
-            tag = self.format_xmlns(tag, el)
-    
-          if tag in collected_tags:
-            collect_txt = True
-            txt_out += '<{}>\n'.format(tag.upper())
-    
-          if el.text:
-            if collect_txt:
-              txt_out += el.text
-    
-        elif e == 'end':
-          tag = el.tag
-          if el.tag.startswith('{'):
-            tag = self.format_xmlns(tag, el)
-    
-          if collect_txt and tag in newline_tags:
-            txt_out += '\n'
-    
-          # wrap tail in a special html tag since the start index is no longer linked to the opening tag
-          if el.tail:
-            if collect_txt:
-              txt_out += el.tail
-    
-          if tag in collected_tags:
-            collect_txt = False
-    
-      return txt_out
+        for e, el in etree.iterparse(open(fname, 'rb'), ('start', 'end')):
+            if e == 'start':
+                tag = el.tag
+                if el.tag.startswith('{'):
+                  tag = self.format_xmlns(tag, el)
+                
+                if tag in collected_tags or ((tag == 'sec' or tag == 'title') and el.text != None):
+                    tag_list.append(tag if tag in collected_tags else el.text)
+                    all_sections[".".join(tag_list)] = {'start': len(txt_out)}
+                       
+                if tag in collected_tags:
+                    collect_txt = True
+                    txt_out += '<{}>\n'.format(tag.upper())
+            
+                if el.text:
+                    if collect_txt:  
+                      txt_out += el.text
+            
+            elif e == 'end':
+                tag = el.tag
+                if el.tag.startswith('{'):
+                    tag = self.format_xmlns(tag, el)
+            
+                if collect_txt and tag in newline_tags:
+                    txt_out += '\n'
+                    
+                if tag in collected_tags or tag == 'sec':
+                    all_sections[".".join(tag_list)]['end'] = len(txt_out)
+                    del tag_list[-1]
+            
+                # wrap tail in a special html tag since the start index is no longer linked to the opening tag
+                if el.tail:
+                    if collect_txt:
+                      txt_out += el.tail
+            
+                if tag in collected_tags:
+                    collect_txt = False
+                    
+        return txt_out, all_sections
 
     def get_title(self):
         # note that we return an empty string if the title is missing.
@@ -122,7 +138,7 @@ class Article:
         subset of the article specified by the optional 'fields' argument.
         '''
         if self.use_plain_text:
-            return self.parse_fname(self.id)
+            return self.gen_plain_text(self.id)[0]
         
         if fields is None:
             fields = self.article_dict.keys()
