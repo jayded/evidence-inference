@@ -1,0 +1,634 @@
+TITLE: Modulation of gut microbiota dysbioses in type 2 diabetic patients by
+macrobiotic Ma-Pi 2 diet
+
+ABSTRACT 
+  ABSTRACT: The gut microbiota exerts a role in type 2 diabetes (T2D), and deviations from a
+mutualistic ecosystem layout are considered a key environmental factor contributing to the
+disease. Thus, the possibility of improving metabolic control in T2D by correcting gut
+microbiome dysbioses through diet has been evaluated. Here, we explore the potential of
+two different energy-restricted dietary approaches – the fibre-rich macrobiotic Ma-Pi 2
+diet or a control diet recommended by Italian professional societies for T2D treatment –
+to correct gut microbiota dysbioses in T2D patients. In a previous 21-d open-label MADIAB
+trial, fifty-six overweight T2D patients were randomised to the Ma-Pi 2 or the control
+diet. For the present study, stools were collected before and after intervention from a
+subset of forty MADIAB participants, allowing us to characterise the gut microbiota by 16S
+rRNA sequencing and imputed metagenomics. To highlight microbiota dysbioses in T2D, the
+gut microbiota of thirteen normal-weight healthy controls were characterised. According to
+our findings, both diets were effective in modulating gut microbiome dysbioses in T2D,
+resulting in an increase of the ecosystem diversity and supporting the recovery of a
+balanced community of health-promoting SCFA producers, such as
+Faecalibacterium, Roseburia,
+Lachnospira, Bacteroides and
+Akkermansia. The Ma-Pi 2 diet, but not the control diet, was also
+effective in counteracting the increase of possible pro-inflammatory groups, such as
+Collinsella and Streptococcus, in the gut ecosystem,
+showing the potential to reverse pro-inflammatory dysbioses in T2D, and possibly
+explaining the greater efficacy in improving the metabolic control.
+
+BODY: Type 2 diabetes (T2D) is markedly increasing its prevalence in Westernised countries(
+
+1
+
+), and it represents a challenging problem for national healthcare systems(
+
+2
+
+). Recent insights provided evidence of an altered gut microbiota (GM) in T2D
+subjects, suggesting a possible role for gut micro-organisms in the disease onset(
+
+3
+
+–
+
+7
+
+).  Intestinal micro-organisms, and their metabolic products, have been shown to exert relevant
+functions in regulating host metabolic pathways(
+
+8
+
+). Indeed, GM components can modulate different factors contributing to the host
+metabolic phenotype, such as intestinal gluconeogenesis, insulin sensitivity, lipid
+accumulation and glucose control(
+
+9
+
+,
+
+10
+
+). Although a mutualistic GM composition is crucial to support the host energy
+homeostasis, certain GM dysbioses can result in profound deregulations of the host metabolism,
+supporting the onset and consolidation of metabolic diseases, such as T2D(
+
+11
+
+,
+
+12
+
+). Moreover, a pro-inflammatory layout of the gut microbial ecosystem has been
+suggested to be the basis of chronic inflammatory processes observed in T2D, and the new
+concept of metabolic infection has been proposed(
+
+13
+
+,
+
+14
+
+). As a result of an increased gut permeability, endotoxins from pro-inflammatory
+GM components can penetrate the epithelial barrier and aggravate metabolic inflammation and
+insulin resistance in T2D(
+
+15
+
+). Thus, the GM has the potential to exert a multifactorial role in T2D, and
+deviations from a health-promoting GM composition could represent a key determinant
+contributing to the disease onset(
+
+11
+
+,
+
+16
+
+–
+
+18
+
+). As diet has been recognised as a potent modulator of the composition and
+metabolism of the human GM(
+
+19
+
+), the possibility to improve metabolic control in T2D by developing selective
+diets that are able to correct the GM dysbioses has been considered(
+
+11
+
+,
+
+16
+
+,
+
+20
+
+).  Very recently, the Ma-Pi 2 macrobiotic diet has been reported to be more effective than a
+control (CTR) diet, which is based on the dietary guidelines recommended by professional
+societies in Italy, for the improvement of metabolic control in T2D patients(
+
+21
+
+). Conceived by Mario Pianesi, the Ma-Pi 2 diet is a fibre-rich macrobiotic diet
+with a prebiotic potential, which is in line with the dietary recommendations of the Academy
+of Nutrition and Dietetics(
+
+22
+
+). Specifically, the Ma-Pi 2 diet is enriched in complex carbohydrates, legumes,
+fermented products, sea salt and green tea, and it excludes fat and protein from animal source
+and added sugars. In a 21-d controlled open-label trial (MADIAB trial), fifty-six overweight
+T2D patients were randomised (1:1 ratio) to the Ma-Pi 2 macrobiotic diet or the CTR diet. At
+the end of this short-term nutritional intervention, the Ma-Pi 2 macrobiotic diet proved to be
+more effective in reducing fasting and postprandial blood glucose, glycated Hb (HbA1c), serum
+cholesterol, homeostasis model assessment of insulin resistance (HOMA-IR), BMI and waist and
+hip circumferences compared with the CTR diet(
+
+21
+
+). According to the authors, the greater effect of the high-fibre Ma-Pi 2 diet on
+several metabolic parameters of T2D patients was probably because of, at least in part, an
+inherent capability of favouring the recovery of a mutualistic GM layout. To verify this
+hypothesis, in this study, we specifically compared the efficacy of the Ma-Pi 2 and the CTR
+diet in modulating GM dysbioses in a subset of forty overweight T2D patients participating in
+the MADIAB trial, for whom stools were successfully collected before and after intervention.
+To this aim, stools were analysed for the microbiota composition by next-generation sequencing
+(NGS) of the 16S rRNA gene and imputed metagenomics. To provide a picture of the baseline GM
+dysbioses in the enrolled T2D patients, their microbiota profiles were compared with those of
+thirteen normal-weight healthy controls. Our findings suggest that the Ma-Pi 2 diet has the
+potential to reverse compositional and functional GM dysbioses in T2D, favouring the recovery
+of a mutualistic configuration capable of supporting the host energy homeostasis.
+
+BODY.METHODS.STUDY DESIGN: Anthropometric characteristics of type 2 diabetes (T2D) patients, measured at T0
+and T1 (after 21-d Ma-Pi 2 or control diet (CTR) intervention), and normal-weight
+healthy controls (Mean values and standard deviations)  Stratified random sampling was used to ensure that the groups contained similar numbers
+of patients with BMI≥35·0 kg/m2 (the median in the cohort of eligible patients)
+and similar number of male patients. The menus were designed as a 2-d diet repeated
+cyclically along the whole duration of the study. Both diets were energy intake restricted
+to 7949 kJ (1900 kcal) for men and 7113 kJ (1700 kcal) for women (online Supplementary
+Table S2). In particular, the CTR diet derived energy from 40–60 % carbohydrate, 10–20 %
+protein, 30 % fat and ≥20 g/4184 kJ (1000 kcal) fibre. It was adapted to the Mediterranean
+culinary style. Vegetables, fruit, cereal, fish and white meat typical of the
+Mediterranean style were used; alcohol and sucrose consumption was forbidden. Diet meal
+plans and recipes are described in the Additional File 1 of the study by Soare et
+al.(
+
+21
+
+). Briefly, daily diet administration was organised in three meals (breakfast,
+lunch and dinner) and two snacks, 2·5 h after breakfast and lunch. Every participant was
+informed that a leftover ≥5 % of the total food intake meant the dismissal from the trial.
+Participants were asked to keep their exercise habits unvaried during the intervention
+period, and their physical activity was registered using a pedometer (Tri-axial activity
+monitor, XL-18/XL-18 CN-AND; A&D Medical). Primary outcomes were the change in
+fasting blood glucose (FBG) and postprandial blood glucose (PPBG) levels from the baseline
+(T0) to the 21st day of treatment (T1). Secondary outcomes included changes from baseline
+in plasma concentration of HbA1c, total cholesterol, LDL-cholesterol, HDL-cholesterol and
+the LDL:HDL ratio, C-reactive protein (CRP), TNF-α and IL-6, as well as
+insulin resistance, body weight, BMI, waist and hip circumference and GM composition. For
+GM analysis, participants were asked to provide a faecal sample before (T0) and after the
+21-d nutritional intervention (T1). Stool samples were successfully collected from a
+subset of forty T2D patients participating in the MADIAB trial aged 50–77 years (mean age
+66 years): twenty-one assigned to the Ma-Pi 2 diet and nineteen to the CTR diet. The gut
+microbiome study was conducted in this subset of forty MADIAB participants.  In addition, thirteen healthy controls, aged 21–40 years (mean age 32 years) and with
+18·3–24·6 kg/m2 BMI, were enrolled for the study (Table 1). They were asked to provide a faecal sample, and their eating
+habits were assessed using qualitative and quantitative questionnaires as well (online
+Supplementary Table S1). All samples were immediately frozen at −20°C, and then
+transferred within 1 week to −80°C and stored there until processing.
+
+BODY.METHODS.16S : Total microbial DNA was extracted from faeces using the DNeasy Blood & Tissue Kit
+(Qiagen) by introducing three FastPrep (MP Biomedicals) bead-beating 1-min steps at 5·5
+movements/s, with 5-min incubation in ice between treatments(
+
+23
+
+). DNA recovery was evaluated using the NanoDrop ND-1000 spectrophotometer
+(NanoDrop Technologies) and 2200 TapeStation instrument (Agilent Technologies). For each
+sample, the V3–V4 region of the 16S rRNA gene was PCR-amplified in 25-μl volumes
+containing 12·5 ng of microbial DNA, 2× KAPA HiFi HotStart ReadyMix (Kapa Biosystems) and
+200 nmol/l of S-D-Bact-0341-b-S-17/S-D-Bact-0785-a-A-21 primers(
+
+24
+
+) carrying Illumina overhang adapter sequences (Bio-Fab Research). Thermal
+cycle consisted of an initial denaturation at 95°C for 3 min, twenty-five cycles of
+denaturation at 95°C for 30 s, annealing at 55°C for 30 s, extension at 72°C for 30 s and
+a final extension step at 72°C for 5 min. Amplicons of about 460 bp were purified with a
+magnetic bead-based clean-up system (Agencourt AMPure XP; Beckman Coulter) and sequenced
+on Illumina MiSeq platform using a 2×300 bp paired end protocol, according to the
+manufacturer's instructions (Illumina). Briefly, indexed libraries were prepared by
+limited-cycle PCR using Nextera technology and further cleaned up with AMPure XP magnetic
+beads (Beckman Coulter). Libraries were pooled at equimolar concentrations, denatured and
+diluted to 6 pmol/l before loading onto the MiSeq flow cell. Amplicon sequences were
+deposited in the MG-RAST database
+(http://metagenomics.anl.gov/linkin.cgi?project=17675).
+
+BODY.METHODS.BIOINFORMATICS AND STATISTICS: Raw sequences were processed using a pipeline combining PANDAseq (paired-end assembler
+for Illumina sequences)(
+
+25
+
+) and QIIME (Quantitative Insights Into Microbial Ecology)(
+
+26
+
+). High-quality reads were binned into operational taxonomic units (OTU) at a
+0·97 similarity threshold using UCLUST(
+
+27
+
+). Taxonomy was assigned using the RDP (Ribosomal Database Project) classifier
+against Greengenes database (May 2013 release). Chimera filtering was performed by
+discarding all singleton OTU. α Rarefaction was analysed by using the
+Faith's phylogenetic diversity, Chao1, observed species and Shannon index metrics.
+β Diversity was estimated by computing weighted and unweighted UniFrac
+distances. Weighted UniFrac distances were used for principal coordinates analysis (PCoA)
+and plotted by the rgl and vegan packages of R. Data separation in the PCoA was tested
+using a permutation test with pseudo F ratios (function adonis in the
+vegan package). Heat-map analysis was performed using the R ggplot2 package.  Metagenome imputation of Greengenes-picked OTU was performed using PICRUSt (Phylogenetic
+Investigation of Communities by Reconstruction of Unobserved States)(
+
+28
+
+) with default settings. The KEGG (Kyoto Encyclopedia of Genes and Genomes)
+Orthology (KO) database(
+
+29
+
+) was used for functional annotation. Procrustes superimposition was conducted
+on the normalised KO gene data set and phylogenetic compositional data using vegan and
+rgl.  The correlation between age and GM diversity was computed by Kendall τ
+correlation test. To identify which feature in each diet contributed to the modulation of
+single bacterial groups, a graphical representation of phylogenetic data and dietary
+metadata was obtained using GraPhlAn(
+
+30
+
+).  All statistical analyses were performed in R, version 3.1.3. Significant differences were
+assessed by Wilcoxon's signed rank-sum test. When appropriate, a paired test was used.
+Where necessary, P values were corrected for multiple comparisons using
+the Benjamini–Hochberg method. P<0·05 was considered statistically
+significant.  Statistical analysis of the primary and other secondary outcomes from the subset of forty
+MADIAB participants who provided stool samples was carried out as reported by Soare
+et al.(
+
+21
+
+). Briefly, quantitative variables were summarised using percentiles, and the
+comparison between time points and dietary groups was performed using the Wilcoxon's
+signed rank-sum test.
+
+BODY.RESULTS.COMPARISON OF THE GUT MICROBIOTA COMPOSITIONAL STRUCTURE BETWEEN OVERWEIGHT TYPE 2
+DIABETES PATIENTS AND HEALTHY CONTROLS: The phylogenetic structure of the GM ecosystem of forty overweight T2D patients before
+(T0) and after (T1) nutritional intervention, and thirteen normal-weight healthy adults,
+was characterised by NGS of the V3–V4 region of the 16S ribosomal DNA (rDNA) (online
+Supplementary Fig. S1). A total of 3 198 509 high-quality reads were obtained, with a mean
+of 30 277 (sd 4850) reads per sample. Reads were clustered in 30 874 OTU at 97 %
+identity. Rarefaction curves obtained with Shannon, Chao1, PD (phylogenetic diversity)
+whole tree and observed species phylogenetic metrics approximated the saturation level
+after 3300 reads (online Supplementary Fig. S1).  Comparison of the gut microbiota compositional structure between overweight type 2
+diabetes (T2D) patients at baseline and healthy controls. (a) Principal coordinates
+analysis (PCoA) based on weighted UniFrac distances shows separation between forty
+overweight T2D patients at T0 and thirteen normal-weight healthy controls.
+, Healthy controls; ,
+T2D patients. P<0·001; permutation test with pseudo
+F ratios. (b) Superimposition of microbial genera on the PCoA
+plot in order to identify the genera involved in this separation. Sphere width is
+proportional to the mean relative abundance of the genus across all samples. The two
+components explain 37·8 and 23·9 % of the variance, respectively. ,
+, Centroids for each group with indication
+of standard errors on each coordinate axis; uncl, unclassified.
+
+BODY.RESULTS.STRUCTURAL MODULATION OF THE GUT MICROBIOTA OF TYPE 2 DIABETES PATIENTS AFTER
+NUTRITIONAL INTERVENTION: Primary and secondary outcome comparison between Ma-Pi 2 and control (CTR) diet at
+T0 and T1 (Medians and 1st–3rd quartile ranges)  Variation of the weighted UniFrac PC2 coordinates between the study groups.
+, Ma-Pi 2 diet group at T0;
+, control (CTR) diet group at T0;
+, healthy controls; ,
+Ma-Pi 2 diet group at T1; , CTR diet group at T1. For each group,
+average (±sem, error bar) PC2 coordinates are shown. The significance of
+the differences between the PC2 coordinates of the groups is indicated as follows: *
+P<0·001 (Ma-Pi 2 diet group at T0 v. T1),
+** P=0·01 (CTR diet group at T0 v. T1), ***
+P=0·01 (Ma-Pi 2 diet group at T0 v. healthy
+controls), **** P=0·03 (CTR diet group at T0 v.
+healthy controls); Wilcoxon's signed rank-sum test.  Comparison of the gut microbiota compositional structure of type 2 diabetes (T2D)
+patients before and after the nutritional interventions. (a) Principal coordinates
+analysis (PCoA) based on weighted UniFrac distances for T2D subjects following the
+Ma-Pi 2 diet (n 21) shows separation between T0 ()
+and T1 (). The two components explain 35·0 and
+24·8 % of the variance, respectively. P=0·01; permutation test with
+pseudo F ratios. (b) PCoA based on weighted UniFrac distances for
+T2D subjects following the control (CTR) diet (n 19).
+, T0; , T1. The two
+components explain 32·0 and 20·2 % of the variance, respectively.
+P=0·04; permutation test with pseudo F ratios.
+Lines connect T0 and T1 samples from the same patient. ,
+ responding bacterial genera and
+biochemical parameters, respectively; , direction of
+significant correlations; , , ,
+, centroids for each time point.  Impact of dietary interventions on the taxonomic structure of the core microbiota
+in type 2 diabetes (T2D) patients. Heat maps were calculated for both Ma-Pi 2 and
+control (CTR) diet, based on the log-ratio of the median genus abundance in T2D
+patients (T0 and T1 samples) and healthy controls. The colour code and segment line
+reveal the deviation in terms of fold change from the median profile of healthy
+subjects (). T2D patients following the Ma-Pi 2
+diet (n 21); T2D patients following the CTR diet
+(n 19); healthy controls (n 13).  Impact of dietary components on the gut microbiota taxonomic structure. Cladogram
+obtained with the GraPhlAn tool, showing the family-level gut microbiota profile of
+T1 samples from both intervention groups with a phylum-based colour code
+(, Firmicutes; ,
+Bacteroidetes; , Proteobacteria; ,
+Actinobacteria; , Verrucomicrobia; ,
+Synergistetes). Families with relative abundance of at least 0·5 % in at least two
+samples are plotted. Larger circles identify bacterial families having a positive
+correlation with at least one dietary component; the names of these families are
+reported. Filled circles identify bacterial families that showed significantly
+higher abundance in T1 samples of the Ma-Pi 2 diet group ()
+or the CTR diet group (). Bacterial family-food component
+correlations are indicated by filled boxes in the external rings of the plot,
+referring to the list of dietary components. T2D patients following the Ma-Pi 2 diet
+(n 21); T2D patients following the CTR diet (n
+19).
+
+BODY.RESULTS.IMPACT OF NUTRITIONAL INTERVENTION ON THE FUNCTIONAL CONFIGURATION OF THE GUT
+MICROBIOME OF TYPE 2 DIABETES PATIENTS: To gain insight into the GM functions, gut metagenomes structures were inferred from the
+respective phylogenetic profiles using PICRUSt(
+
+28
+
+), as previously performed by David et al.(
+
+19
+
+) and Morgan et al.(
+
+33
+
+). A total of 329 KEGG pathways were generated, of these 249 showed a
+significantly different abundance between healthy controls and T2D patients, and
+thirty-four showed a significant variation in response to the Ma-Pi 2 diet, whereas no
+KEGG pathway responded significantly to the CTR diet. The Procrustes analysis of the 16S
+rDNA sequences and imputed KO gene data set co-illustrates the data, supporting the
+significant association between taxonomic and inferred functional profiles of the gut
+microbiome across our study cohort (P=0·001, Protest; online
+Supplementary Fig. S4). The PCoA of the imputed functional GM profiles showing segregation
+among the Ma-Pi 2 and CTR groups at T0 and T1 and healthy controls is provided as the
+online Supplementary Fig. S5.  Functional dysbioses of the gut microbiome in type 2 diabetes (T2D) patients.
+Metabolic pathways were superimposed on the principal component analysis plot based
+on Euclidean distances, and the pathways responsible for the separation are shown.
+, Healthy controls (n
+13); , T2D patients (n 40).
+Sphere width is proportional to the mean relative abundance of the function across
+all samples. The two components explain 14·0 and 9·2 % of the variance,
+respectively. P=0·03; permutation test with pseudo
+F ratios. , , Centroids for each
+group with indication of standard errors on each coordinate axis.  Impact of Ma-Pi 2 dietary intervention on the functional configuration of the gut
+microbiome in type 2 diabetes (T2D) patients. Metabolic pathways were superimposed
+on the principal component analysis plot based on Euclidean distances in T2D
+patients before (T0, ) and after (T1, )
+the Ma-Pi 2 diet (n 21). The two components explain 22·3 and 14·9 %
+of the variance, respectively. P=0·007; permutation test with
+pseudo F ratios. , ,
+Centroids for each group with indication of standard errors on each coordinate
+axis.
+
+BODY.DISCUSSION: In the present study, the GM phylogenetic and functional dysbioses in forty overweight T2D
+patients participating in the MADIAB trial(
+
+21
+
+) were explored. In agreement with previous findings(
+
+11
+
+), T2D involved a significant reduction of the GM diversity, which is a common
+feature shared by several disease-associated dysbiotic microbiome configurations, such as
+those associated with inflammatory bowel disease and age(
+
+41
+
+,
+
+42
+
+). According to our results, the reduction of the GM compositional diversity in
+T2D corresponded to phylogenetic changes. T2D patients were indeed enriched in
+Lactobacillus, Lachnospiraceae:Ruminococcus and in
+several potential pro-inflammatory GM components, such as Enterobacteriaceae,
+Collinsella and Streptococcus
+(
+
+32
+
+,
+
+39
+
+,
+
+43
+
+–
+
+46
+
+), whereas they were depleted in important health-promoting SCFA producers, such
+as members of Lachnospiraceae, Faecalibacterium,
+Bacteroides and Prevotella. Strengthening these findings,
+analogous T2D-associated GM structural dysbioses have already been identified in previous
+studies(
+
+3
+
+,
+
+6
+
+,
+
+7
+
+,
+
+47
+
+). Subsequently, we explored the changes in GM functions matching these
+compositional perturbations by inferred metagenomics. Our data suggest deregulation in
+pathways involved in the metabolism of amino acids, lipids and secondary metabolites in the
+GM of T2D patients, including a reduced abundance of functions for the metabolism of
+d-arginine and d-ornithine, as well as of d-glutamine and
+d-glutamate, a corresponding increase in the metabolism of tyrosine, alanine,
+aspartate and glutamate, and a higher load of functions involved in arachidonic acid
+metabolism and polyketide sugar biosynthesis.  The observed T2D-related dysbiotic microbial community could exert a multifactorial role in
+the disease onset, contributing to metabolic and immune deregulation. Indeed, the T2D GM is
+slightly depleted in fibrolytic health-promoting mutualists, fundamental for providing
+butyrate and propionate from the degradation of indigestible plant polysaccharides and
+starch, such as the butyrate-producing Dorea, Lachnospira,
+Roseburia and Faecalibacterium, and the
+propionate-producing Bacteroides and Prevotella
+(
+
+48
+
+). Even if the biological relevance of this depletion of SCFA producers remains
+to be determined, it could result in the reduction of bioavailability of these crucial GM
+metabolites in the gut, with consequences on the host metabolic and immunological
+homeostasis. For instance, butyrate and propionate are important for host glucose
+control(
+
+11
+
+), insulin sensitivity regulation, insulin signalling and intestinal
+gluconeogenesis(
+
+9
+
+,
+
+49
+
+); also, they represent potent immune modulators, being involved in peripheral
+regulatory T-cell generation(
+
+50
+
+) and in the regulation of pro-inflammatory cytokine production(
+
+51
+
+). In parallel, the observed increase of potential pro-inflammatory
+micro-organisms in the gut of T2D patients, such as Enterobacteriaceae,
+Collinsella and Streptococcus
+(
+
+32
+
+,
+
+39
+
+,
+
+43
+
+–
+
+46
+
+), could further contribute to raise the host inflammatory level, supporting the
+evolution of insulin resistance(
+
+52
+
+). Finally, the functional GM layout of T2D patients we obtained by imputed
+metagenomics suggests additional mechanisms involved in the GM contribution to the disease,
+including the reduced production of the insulinogenic arginine(
+
+34
+
+), and the increased production of alanine, a recognised marker of higher energy
+intake and cholesterol level(
+
+35
+
+), which could contribute to the loss of metabolic control in T2D. Moreover, the
+higher potential for the production of tyrosine metabolites could further boost
+pro-inflammatory stimuli in the gut(
+
+36
+
+). Interestingly, the survey of GM in T2D patients allowed us to find traces of
+functions related to immune escaping, such as pathways involved in the metabolism of
+arachidonic acid and polyketide sugar biosynthesis, further highlighting the ongoing bloom
+of pro-inflammatory GM components in T2D(
+
+39
+
+). However, the functional conclusions derived from imputed metagenomics must be
+taken with caution until experimentally confirmed by shotgun metagenomics.  In the subset of forty MADIAB participants – twenty-one assigned to the Ma-Pi 2 diet and
+nineteen to the CTR diet – we then explored the efficacy of the nutritional interventions in
+supporting the recovery of a mutualistic GM configuration in T2D patients. Primary and
+secondary outcomes were re-analysed for this patient subset included in the gut microbiome
+study, confirming that the Ma-Pi 2 diet was associated with a greater reduction in FBG and
+PPBG, total serum cholesterol, CRP and IL-6 in T2D patients. According to gut microbiome
+data, both Ma-Pi 2 and CTR diet were able to modulate the GM dysbioses in T2D patients,
+supporting the recovery of a healthy-like compositional structure and resulting in an
+increased ecosystem diversity, which represents a strategic feature for a healthy GM
+ecosystem(
+
+53
+
+). In addition, both diets supported the recovery of a balanced health-promoting
+community of fibrolytic SCFA producers in the gut of T2D patients, by re-increasing the
+abundance of propionate and butyrate producers (i.e. Bacteroides,
+Dorea, Faecalibacterium) and consolidating a
+healthy-like abundance of Roseburia, Lachnospira,
+Lachnospiraceae:Ruminococcus and Oscillospira. Moreover,
+both dietary interventions resulted in the increase of Akkermansia, a human
+mucus coloniser recently correlated to an improved metabolic profile(
+
+54
+
+), providing the rationale for its use in the prevention or treatment of obesity
+and associated metabolic disorders. Finally, it is important to point out that only the
+Ma-Pi 2 diet showed the potential to counteract the rise of putative pro-inflammatory
+components (i.e. Collinsella and Streptococcus) in the GM
+ecosystem of T2D patients. When we sought associations between GM components and biochemical
+parameters, significant trends were obtained only in the case of the Ma-Pi 2 diet. Indeed,
+in Ma-Pi 2-treated subjects, the abundance of Faecalibacterium was
+negatively associated with FBG and, analogously, the abundance of
+Bacteroides and Akkermansia showed an inverse association
+with total and LDL-cholesterol. Conversely, Lachnospiraceae:Ruminococcus
+was positively associated with FBG. These findings suggest that these micro-organisms, the
+first increasing and the latter decreasing in response to the Ma-Pi 2 diet, could represent
+Ma-Pi 2-responding GM components associated with primary and secondary study outcomes.
+Supporting our findings, the negative association between Faecalibacterium
+and FBG concentration had already been detected in a study exploring the structural
+modulation of the GM in T2D subjects treated with a Chinese herbal formula(
+
+55
+
+). Moreover, in a study carried out in mice, Akkermansia
+muciniphila treatment has been demonstrated to reverse high-fat diet-induced
+metabolic disorders, including fat-mass gain, metabolic endotoxaemia, adipose tissue
+inflammation and insulin resistance(
+
+54
+
+). On the other hand, Lachnospiraceae:Ruminococcus has recently
+been positively correlated with insulin resistance in obese women(
+
+56
+
+). According to imputed metagenomics, only the Ma-Pi 2 diet resulted in a
+significant modulation of the functional microbiome layout in T2D patients. In particular,
+the decrease of several markers of functional GM dysbioses in T2D patients, such as
+imbalances in alanine metabolism, arachidonic acid metabolism and polyketide sugar
+biosynthesis, was observed. Moreover, the Ma-Pi 2 diet favoured the reduction of GM
+functions related to oxidative phosphorylation and glycosphingolipids biosynthesis.
+Anaerobic respiration provides an ecological advantage for Enterobacteriaceae in an inflamed
+gut(
+
+39
+
+), whereas glycosphingolipids are powerful bacterial modulators of the host
+inflammatory response(
+
+40
+
+). Thus, the reduction in abundance of these pathways further suggests the
+potential of Ma-Pi 2 diet to counteract the ongoing bloom of pro-inflammatory pathobionts in
+T2D. Finally, the Ma-Pi 2 diet favoured the increase of GM functions involved in the
+biosynthesis of unsaturated fatty acids and essential amino acids, showing an added
+potential to promote the recovery of metabolic control and a balanced nutritional status in
+T2D patients.  In conclusion, both Ma-Pi 2 and CTR diets showed the potential to support the recovery of
+GM-host mutualism in T2D patients, favouring the restoration of fibrolytic SCFA-producing GM
+components, thus promoting metabolic control of T2D patients. Differently from the CTR diet,
+the Ma-Pi 2 diet was effective in counteracting the rise of possible pro-inflammatory
+micro-organisms in T2D patients. This suggests that the Ma-Pi 2 diet may have the potential
+to reduce GM-dependent pro-inflammatory stimuli in the gut that, increasing chronic
+inflammation, can lead to insulin resistance in T2D(
+
+57
+
+). Even if direct causation still needs to be proved, and this conclusion must be
+taken with adequate caution, this peculiar property shown by the Ma-Pi 2 diet could partly
+explain the greater improvements in metabolic control following Ma-Pi 2 dietary intervention
+compared with the CTR diet(
+
+21
+
+).
