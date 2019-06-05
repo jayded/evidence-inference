@@ -101,7 +101,7 @@ class Article:
                 if collect_txt and tag in newline_tags:
                     txt_out += '\n'
                     
-                if tag in collected_tags or tag == 'sec':
+                if (tag in collected_tags or tag == 'sec') and len(tag_list) > 0:
                     all_sections[".".join(tag_list)]['end'] = len(txt_out)
                     del tag_list[-1]
             
