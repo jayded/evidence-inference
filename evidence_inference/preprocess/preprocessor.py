@@ -38,13 +38,12 @@ EVIDENCE_END = "Evidence End"
 STUDY_ID_COL = "PMCID"
 VALID_LABEL = "Valid Label"
 VALID_REASONING = "Valid Reasoning"
-
+USE_PLAIN_TEXT = False
 
 def get_article(article_id):
     xml_str = "PMC{}.nxml".format(article_id)
     xml_path = os.path.join(base_XML_path, xml_str)
-    return article_reader.Article(xml_path)
-
+    return article_reader.Article(xml_path, use_plain_text = USE_PLAIN_TEXT)
 
 def read_in_articles(article_ids=None):
 
@@ -68,7 +67,7 @@ def extract_raw_text(article, sections_of_interest=None):
         #sections_of_interest = ["results", ""]
         sections_of_interest = article.article_dict.keys()
    
-    ti_ab = article.ti_ab_str()
+    ti_ab = "TITLE: " + article.get_title() + "\n\n"
 
     article_sections = [sec for sec in article.article_dict.keys() if any(
                             [s in sec for s in sections_of_interest])]

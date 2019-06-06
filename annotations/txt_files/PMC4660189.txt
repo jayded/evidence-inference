@@ -1,0 +1,10 @@
+TITLE: Design, method and application of stopping rules in a phase III 2x2 factorial randomised controlled trial
+
+ABSTRACT 
+  ABSTRACT: 
+
+BODY.BACKGROUND: The STOPAH trial was a double-blind, 2x2 factorial, phase III randomised clinical trial assessing the treatment of prednisolone and pentoxifylline in patients with severe alcoholic hepatitis; a study that aimed to evaluate 28-day mortality [1].  At the time of trial development, the benefits/harms of pentoxifylline in this patient population were unknown. Prednisolone had a significant though uncertain evidence base. No treatment interaction was assumed yet there was uncertainty about its effect. Therefore, pre-specified stopping rules to assist decision making in stopping treatment arms were required.
+
+BODY.METHODS: There was no published methodology on stopping rules for factorial trials, so a design based on the Peto-Haybittle [2] rule was created. Logistic regression modelling 28-day mortality, adjusting for factorial design, was to be produced at interim time points. Treatment arms were to be stopped if the two-sided p-value was <0.001. Both benefit and harm (symmetrical stopping boundary) treatment effects were evaluated. This conservative method was formulated because the treatments were already in practice and so convincing evidence to stop early was needed. The treatment interaction of prednisolone and pentixoifylline was assessed at the 10% significance level. If significant, the factorial design assumption was to be removed prior to interim analysis. The stopping rules would then be applied as described.
+
+BODY.APPLICATION: An independent data monitoring committee assessed these stopping rules after 200, 400 and 800 patients had reached the primary endpoint. The stopping rules were not met at any of the three interim looks. The results of the STOPAH trial have recently been published [3].

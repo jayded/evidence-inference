@@ -510,6 +510,7 @@ def pretrain_attention(train_Xy, val_Xy, model, prepare, get_attention_weights, 
 
             if epochs_since_improvement > patience:
                 print("Exiting early due to no improvement on validation after {} epochs.".format(patience))
+                break
 
     return best_model, metrics
 

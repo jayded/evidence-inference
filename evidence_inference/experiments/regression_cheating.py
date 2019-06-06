@@ -24,7 +24,7 @@ LBL_COL_NAME = "Label Code"
 EVIDENCE_COL_NAME = "Annotations"
 STUDY_ID_COL = "PMCID"
 
-USE_CUDA = False
+USE_CUDA = True
 
 
 # noinspection PyUnresolvedReferences
@@ -118,15 +118,15 @@ def main(iterations, use_test = False):
     print("Loaded {} training examples, {} validation examples, {} testing examples".format(len(x_train), len(x_val), len(x_test)))
     model = train_model(x_train, y_train, x_val, y_val, iterations, learning_rate=0.001)
     preds = test_model(model, x_test)
-
     # calculate f1 and accuracy
+    y_test = y_test.cpu()
     acc = accuracy_score(y_test, preds)
     f1 = f1_score(y_test, preds, average='macro')
     prec = precision_score(y_test, preds, average = 'macro')
     rec  = recall_score(y_test, preds, average = 'macro')
 
     # calculate the majority class f1 and accuracy
-    mode = stats.mode(y_train)[0][0][0]
+    mode = stats.mode(y_train.cpu())[0][0][0]
     majority_guess = [mode for _ in preds]
     guess_acc = accuracy_score(y_test, majority_guess)
     guess_f1 = f1_score(y_test, majority_guess, average='macro')
@@ -142,7 +142,7 @@ if __name__ == '__main__':
     random.seed(500)
     torch.manual_seed(500)
 
-    i = 25
+    i = 1
     for j in range(5):
         acc, f1, prec, rec, acc_g, f1_g, prec_g, rec_g = main(i, True)
         print("Final ACC: {}".format(acc))

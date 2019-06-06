@@ -16,7 +16,7 @@ from pattern.en import lexeme
 from nltk.corpus import wordnet
 from evidence_inference.experiments.model_0_paper_experiment import get_data
 import evidence_inference.preprocess.preprocessor as preprocessor
-from heuristic_utils import parse_p_value, sig_or_ns_pval, split_sentences, strip_punctuation
+from evidence_inference.models.heuristic_utils import parse_p_value, sig_or_ns_pval, split_sentences, strip_punctuation
 from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
 
 def calculate_token_mass(token_labels, token_preds):
@@ -107,9 +107,14 @@ def infer_direction(sen, default):
         all_pw.extend(pos_words)
        
     # add in different forms of the word based on english rules
-    all_nw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_nw, []))
-    all_pw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_pw, []))
-    
+    try:
+        all_nw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_nw, []))
+        all_pw = list(reduce((lambda y, x: np.append(y, lexeme(x))), all_pw, []))
+    except:
+        print("Error. Continue.")
+        return infer_direction(sen, default)
+
+        
     # remove duplicates
     all_nw = [x for x in iter(set(all_nw))]
     all_pw = [x for x in iter(set(all_pw))]

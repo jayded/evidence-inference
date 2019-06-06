@@ -1,4 +1,14 @@
 PromptID,PMCID,Outcome,Intervention,Comparator
+98,2858204,downsizing of ucler area 2 weeks after treatment,HBOT ,placebo
+95,2944158,IVD dwell times,staff inclination replacement,routine replacement
+92,2944158,phlebitis,routine replacement,staff inclination replacement
+91,2944158,IVD complications per person,routine replacement,staff inclination replacement
+90,2944158,cost per patient,routine replacement,staff inclination replacement
+94,2944158,occlusion,routine replacement,staff inclination replacement
+99,2871176,HbA1c level at 26 weeks,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
+97,2858204,hypoglycemia occuring after treatment,HBOT ,placebo
+96,2858204,frequency of healed index ucler after 1 year,HBOT ,placebo
+93,2944158,infiltration,routine replacement,staff inclination replacement
 2,3298351,venous ulcer healing,four-layer bandage,compression stocking
 3,3298351,venous ulcer healing,compression therapy,no treatment
 4,3298351,venous ulcer healing,four-layer bandage,two-layer bandage
@@ -83,13 +93,3 @@ PromptID,PMCID,Outcome,Intervention,Comparator
 87,2944158,infections,routine replacement,staff inclination replacement
 88,2944158,therapy duration,routine replacement,staff inclination replacement
 89,2944158,frequency of replacements,routine replacement,staff inclination replacement
-90,2944158,cost per patient,routine replacement,staff inclination replacement
-91,2944158,IVD complications per person,routine replacement,staff inclination replacement
-92,2944158,phlebitis,routine replacement,staff inclination replacement
-93,2944158,infiltration,routine replacement,staff inclination replacement
-94,2944158,occlusion,routine replacement,staff inclination replacement
-95,2944158,IVD dwell times,staff inclination replacement,routine replacement
-96,2858204,frequency of healed index ucler after 1 year,HBOT ,placebo
-97,2858204,hypoglycemia occuring after treatment,HBOT ,placebo
-98,2858204,downsizing of ucler area 2 weeks after treatment,HBOT ,placebo
-99,2871176,HbA1c level at 26 weeks,Liraglutide (1.2 mg) plus glimepiride,Placebo plus glimepiride
