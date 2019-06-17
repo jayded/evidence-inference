@@ -43,3 +43,7 @@ When citing this project, please use the following bibtex citation:
     pages = "3705--3717",
 }
 </pre>
+
+## Support 
+
+This work is supported by NSF CAREER Award 1750978.
