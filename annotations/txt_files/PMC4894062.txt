@@ -1,8 +1,8 @@
 TITLE: Modulation of gut microbiota dysbioses in type 2 diabetic patients by
 macrobiotic Ma-Pi 2 diet
 
-ABSTRACT 
-  ABSTRACT: The gut microbiota exerts a role in type 2 diabetes (T2D), and deviations from a
+  ABSTRACT:
+The gut microbiota exerts a role in type 2 diabetes (T2D), and deviations from a
 mutualistic ecosystem layout are considered a key environmental factor contributing to the
 disease. Thus, the possibility of improving metabolic control in T2D by correcting gut
 microbiome dysbioses through diet has been evaluated. Here, we explore the potential of
@@ -25,7 +25,8 @@ Collinsella and Streptococcus, in the gut ecosystem,
 showing the potential to reverse pro-inflammatory dysbioses in T2D, and possibly
 explaining the greater efficacy in improving the metabolic control.
 
-BODY: Type 2 diabetes (T2D) is markedly increasing its prevalence in Westernised countries(
+BODY:
+Type 2 diabetes (T2D) is markedly increasing its prevalence in Westernised countries(
 
 1
 
@@ -151,7 +152,8 @@ thirteen normal-weight healthy controls. Our findings suggest that the Ma-Pi 2 d
 potential to reverse compositional and functional GM dysbioses in T2D, favouring the recovery
 of a mutualistic configuration capable of supporting the host energy homeostasis.
 
-BODY.METHODS.STUDY DESIGN: Anthropometric characteristics of type 2 diabetes (T2D) patients, measured at T0
+BODY.METHODS.STUDY DESIGN:
+Anthropometric characteristics of type 2 diabetes (T2D) patients, measured at T0
 and T1 (after 21-d Ma-Pi 2 or control diet (CTR) intervention), and normal-weight
 healthy controls (Mean values and standard deviations)  Stratified random sampling was used to ensure that the groups contained similar numbers
 of patients with BMI≥35·0 kg/m2 (the median in the cohort of eligible patients)
@@ -188,7 +190,8 @@ habits were assessed using qualitative and quantitative questionnaires as well (
 Supplementary Table S1). All samples were immediately frozen at −20°C, and then
 transferred within 1 week to −80°C and stored there until processing.
 
-BODY.METHODS.16S : Total microbial DNA was extracted from faeces using the DNeasy Blood & Tissue Kit
+BODY.METHODS.16S :
+Total microbial DNA was extracted from faeces using the DNeasy Blood & Tissue Kit
 (Qiagen) by introducing three FastPrep (MP Biomedicals) bead-beating 1-min steps at 5·5
 movements/s, with 5-min incubation in ice between treatments(
 
@@ -215,7 +218,8 @@ diluted to 6 pmol/l before loading onto the MiSeq flow cell. Amplicon sequences 
 deposited in the MG-RAST database
 (http://metagenomics.anl.gov/linkin.cgi?project=17675).
 
-BODY.METHODS.BIOINFORMATICS AND STATISTICS: Raw sequences were processed using a pipeline combining PANDAseq (paired-end assembler
+BODY.METHODS.BIOINFORMATICS AND STATISTICS:
+Raw sequences were processed using a pipeline combining PANDAseq (paired-end assembler
 for Illumina sequences)(
 
 25
@@ -271,7 +275,8 @@ comparison between time points and dietary groups was performed using the Wilcox
 signed rank-sum test.
 
 BODY.RESULTS.COMPARISON OF THE GUT MICROBIOTA COMPOSITIONAL STRUCTURE BETWEEN OVERWEIGHT TYPE 2
-DIABETES PATIENTS AND HEALTHY CONTROLS: The phylogenetic structure of the GM ecosystem of forty overweight T2D patients before
+DIABETES PATIENTS AND HEALTHY CONTROLS:
+The phylogenetic structure of the GM ecosystem of forty overweight T2D patients before
 (T0) and after (T1) nutritional intervention, and thirteen normal-weight healthy adults,
 was characterised by NGS of the V3–V4 region of the 16S ribosomal DNA (rDNA) (online
 Supplementary Fig. S1). A total of 3 198 509 high-quality reads were obtained, with a mean
@@ -292,7 +297,8 @@ components explain 37·8 and 23·9 % of the variance, respectively. ,
 of standard errors on each coordinate axis; uncl, unclassified.
 
 BODY.RESULTS.STRUCTURAL MODULATION OF THE GUT MICROBIOTA OF TYPE 2 DIABETES PATIENTS AFTER
-NUTRITIONAL INTERVENTION: Primary and secondary outcome comparison between Ma-Pi 2 and control (CTR) diet at
+NUTRITIONAL INTERVENTION:
+Primary and secondary outcome comparison between Ma-Pi 2 and control (CTR) diet at
 T0 and T1 (Medians and 1st–3rd quartile ranges)  Variation of the weighted UniFrac PC2 coordinates between the study groups.
 , Ma-Pi 2 diet group at T0;
 , control (CTR) diet group at T0;
@@ -344,7 +350,8 @@ referring to the list of dietary components. T2D patients following the Ma-Pi 2 
 19).
 
 BODY.RESULTS.IMPACT OF NUTRITIONAL INTERVENTION ON THE FUNCTIONAL CONFIGURATION OF THE GUT
-MICROBIOME OF TYPE 2 DIABETES PATIENTS: To gain insight into the GM functions, gut metagenomes structures were inferred from the
+MICROBIOME OF TYPE 2 DIABETES PATIENTS:
+To gain insight into the GM functions, gut metagenomes structures were inferred from the
 respective phylogenetic profiles using PICRUSt(
 
 28
@@ -385,7 +392,8 @@ pseudo F ratios. , ,
 Centroids for each group with indication of standard errors on each coordinate
 axis.
 
-BODY.DISCUSSION: In the present study, the GM phylogenetic and functional dysbioses in forty overweight T2D
+BODY.DISCUSSION:
+In the present study, the GM phylogenetic and functional dysbioses in forty overweight T2D
 patients participating in the MADIAB trial(
 
 21
