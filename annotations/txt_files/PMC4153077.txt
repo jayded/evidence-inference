@@ -1,7 +1,7 @@
 TITLE: Consumption of 
 
-ABSTRACT 
-  ABSTRACT: Elderly adults have alterations in their gut microbiota and immune functions that are
+  ABSTRACT:
+Elderly adults have alterations in their gut microbiota and immune functions that are
 associated with higher susceptibility to infections and metabolic disorders. Probiotics
 and prebiotics, and their synbiotic combinations are food supplements that have been shown
 to improve both gut and immune function. The objective of this randomised, double-blind,
@@ -24,7 +24,8 @@ provide health benefits to elderly individuals by improving the phagocytic activ
 monocytes and granulocytes. The present results also suggest that in the elderly, the
 effects of some probiotics and prebiotics may last longer than in adults.
 
-BODY: Of the population of Europe, 20 % are elderly (aged > 65 years) and this is predicted
+BODY:
+Of the population of Europe, 20 % are elderly (aged > 65 years) and this is predicted
 to increase to 25 % by 2020 according to the WHO. As individuals age, changes to the
 physiology and function of the gastrointestinal tract and immune system status
 occur(
@@ -136,17 +137,20 @@ isolated peripheral blood mononuclear cells to LPS, respectively. Furthermore, p
 oxidative burst activity of monocytes and granulocytes was analysed to associate changes in
 microbiota and immune cell responsiveness with the function of phagocytic cells.
 
-BODY.EXPERIMENTAL METHODS.TRIAL DESIGN: Schematic overview of the study design. MDX, maltodextrin; GOS,
+BODY.EXPERIMENTAL METHODS.TRIAL DESIGN:
+Schematic overview of the study design. MDX, maltodextrin; GOS,
 galacto-oligosaccharides; Bi-07, Bifidobacterium animalis subsp.
 lactis Bi-07.
 
-BODY.EXPERIMENTAL METHODS.VOLUNTEERS: Baseline characteristics of volunteers in a double-blind, placebo-controlled,
+BODY.EXPERIMENTAL METHODS.VOLUNTEERS:
+Baseline characteristics of volunteers in a double-blind, placebo-controlled,
 randomised cross-over study of a candidate prebiotic (galacto-oligosaccharides; GOS;
 8 g/d), probiotic (Bifidobacterium animalis subsp.
 lactis Bi-07 (Bi-07); 109 colony-forming units/d) or
 synbiotic (GOS + Bi-07)
 
-BODY.EXPERIMENTAL METHODS.STUDY PRODUCTS: The GOS product was synthesised at 55°C (pH 5·0) by 50 acid lactase units (ALU)
+BODY.EXPERIMENTAL METHODS.STUDY PRODUCTS:
+The GOS product was synthesised at 55°C (pH 5·0) by 50 acid lactase units (ALU)
 β-galactosidase-1/g from Aspergillus oryzae GC288 using 55 % (w/v)
 lactose (Dairy Crest) as a substrate. The GOS product yield was 32·45 % (w/w). The product
 had predominantly Gal(β1–6), Gal(β1–4) and Gal(β1–3) linkages. Bi-07 (ATCC SD5220;
@@ -155,7 +159,8 @@ the Madison plant by Danisco. The maltodextrin was generously provided by Syral.
 products were consumed daily by the subjects as provided in individual daily dose sachets
 in powder form.
 
-BODY.EXPERIMENTAL METHODS.SAMPLE SIZE DETERMINATION AND RANDOMISATION: The study group size was estimated by least standardised difference (LSD) using expected
+BODY.EXPERIMENTAL METHODS.SAMPLE SIZE DETERMINATION AND RANDOMISATION:
+The study group size was estimated by least standardised difference (LSD) using expected
 changes in the microbial population and faeces as the primary outcome. On the basis of a 5
 % significance level, a power of 95 % for detecting the main effect and two-factor
 interactions, with a standardised size effect of 0·85 or more, a sample size of eight per
@@ -163,7 +168,8 @@ treatment per group was required. A total of ten per group were included in the 
 allow for potential study 'drop-out'. Blinding was done by Danisco and randomisation to
 study groups 1–4 by the investigators.
 
-BODY.EXPERIMENTAL METHODS.STATISTICAL ANALYSIS: The data from the cross-over study were analysed using linear fixed-effects models with
+BODY.EXPERIMENTAL METHODS.STATISTICAL ANALYSIS:
+The data from the cross-over study were analysed using linear fixed-effects models with
 fixed effect terms for the presence/absence of prebiotic/probiotic treatment and their
 interaction (i.e. a 2 × 2 factorial approach), and a baseline regression coefficient
 accounting for individual baseline differences between the subjects. Based on the residual
@@ -180,7 +186,8 @@ DebRoy, D. Sarkar and R Development Core Team), and multcomp (version
 29
 ).
 
-BODY.EXPERIMENTAL METHODS.PHAGOCYTOSIS AND OXIDATIVE BURST: Phagocytosis and oxidative burst by monocytes and granulocytes were determined in fresh
+BODY.EXPERIMENTAL METHODS.PHAGOCYTOSIS AND OXIDATIVE BURST:
+Phagocytosis and oxidative burst by monocytes and granulocytes were determined in fresh
 (4–6 h) heparinised whole-blood samples using PHAGOTEST® and
 BURSTTEST® (ORPEGEN Pharma) in accordance with the manufacturer's instructions.
 Escherichia coli, provided by the manufacturer, were opsonised with
@@ -203,7 +210,8 @@ granulocytes were identified by means of an FSC/SSC plot using a flow cytometer
 monocytes and granulocytes was determined by counting the percentage of fluorescent cells
 and their mean fluorescence intensity, which correlates with ROS production.
 
-BODY.EXPERIMENTAL METHODS.IMMUNE ASSAYS: Cytokine and chemokine concentrations were determined using commercially available
+BODY.EXPERIMENTAL METHODS.IMMUNE ASSAYS:
+Cytokine and chemokine concentrations were determined using commercially available
 bead-arrays from BenderMedSystems which both utilise sandwich ELISA technology. All immune
 assays were conducted to conform to an intra-assay CV of <10 % and an inter-assay
 CV of <20 %. Sample concentrations were calculated using an eight-point standard
@@ -225,7 +233,8 @@ Samples were centrifuged at 1000 g for 10 min and supernatant fractions stored a
 content was determined by sandwich ELISA (Immunodiagnostik) in accordance with the
 manufacturer's instructions.
 
-BODY.EXPERIMENTAL METHODS.FAECAL SAMPLE PROCESSING: Freshly voided faecal samples were collected in sterile plastic containers. Samples were
+BODY.EXPERIMENTAL METHODS.FAECAL SAMPLE PROCESSING:
+Freshly voided faecal samples were collected in sterile plastic containers. Samples were
 stored at room temperature under anaerobic conditions before processing, which typically
 commenced within 4 h of sample receipt. Samples for use in faecal dry weight and IgA
 assays were stored at –20°C, and samples for quantitative PCR and enumeration of total
@@ -237,7 +246,8 @@ remove particulate matter (1500 g; 2 min). The supernatant fraction was collecte
 assessment of genus-level changes in the gut microbiota by fluorescence in
 situ hybridisation with 16S ribosomal RNA targeted oligonucleotide probes.
 
-BODY.EXPERIMENTAL METHODS.FLUORESCENCE : The faecal slurry supernatant fraction was fixed in paraformaldehyde (1:4 (v/v) in 4 %
+BODY.EXPERIMENTAL METHODS.FLUORESCENCE :
+The faecal slurry supernatant fraction was fixed in paraformaldehyde (1:4 (v/v) in 4 %
 paraformaldehyde in 0·1 m-PBS, pH 7·2) for 4 h at 4°C, centrifuged (13 000 g; 5 min), washed twice with 0·1 m-PBS, re-suspended in 1:1 PBS–ethanol and
 stored at –20°C. Oligonucleotide probes used were Cy-3 labelled and synthesised by
 Sigma-Aldrich. Probes used were Bif164, Bac303, Chis150, Lab158 and ATO291, Erec482,
@@ -257,7 +267,8 @@ al.(
 37
 ). Data are expressed as log10 counts per g dry faeces.
 
-BODY.EXPERIMENTAL METHODS.QUANTIFICATION OF : DNA was extracted from the faecal samples with the use of the QIAamp DNA stool Mini kit
+BODY.EXPERIMENTAL METHODS.QUANTIFICATION OF :
+DNA was extracted from the faecal samples with the use of the QIAamp DNA stool Mini kit
 (Qiagen) following the manufacturer's instructions. Quantitative PCR was used for
 quantification of B. lactis using the FAST SYBR green methodology
 (Applied Biosystems) in a total volume of 25 μl containing 1 ng of template DNA and 250
@@ -271,7 +282,8 @@ nm of the forward primer Blact_1(
 cultures was included in the PCR assays. For determination of DNA, triplicate samples were
 used, and the mean quantity per g wet weight was calculated.
 
-BODY.EXPERIMENTAL METHODS.ORGANIC ACIDS: Filter-sterilised samples (1 ml) of faecal slurry (10 % (w/v) dilution of freshly voided
+BODY.EXPERIMENTAL METHODS.ORGANIC ACIDS:
+Filter-sterilised samples (1 ml) of faecal slurry (10 % (w/v) dilution of freshly voided
 faeces in PBS; pH 7·0) were used to determine faecal concentrations of organic acids
 including acetic acid, propionic acid, i-butyric acid,
 n-butyric acid, i-valeric acid,
@@ -283,14 +295,16 @@ Quantification of the samples was obtained through calibration curves of acetic 
 formic acid, propionic acid, butyric acid and lactic acid in concentrations between 6·25
 and 100 mm.
 
-BODY.RESULTS.SUBJECT CHARACTERISTICS: Recruitment of forty-one subjects for the study took place in the Reading area of the UK.
+BODY.RESULTS.SUBJECT CHARACTERISTICS:
+Recruitment of forty-one subjects for the study took place in the Reading area of the UK.
 Of these, forty volunteers passed the inclusion/exclusion criteria and started the trial
 in March 2008; thirty-seven completed the trial in October 2009. However, one subject was
 removed from the statistical analysis due to missing samples, resulting in a study size of
 thirty-six subjects (see the Sample size determination and randomisation section, Table 1 and Fig.
 1).
 
-BODY.RESULTS.ANALYSES OF BASELINE DRIFT, CARRY-OVER EFFECT AND SUBJECT CHARACTERISTICS: Parameters having baseline drift or carry-over effects  Carry-over effects are a known problem in clinical trials with a cross-over design.
+BODY.RESULTS.ANALYSES OF BASELINE DRIFT, CARRY-OVER EFFECT AND SUBJECT CHARACTERISTICS:
+Parameters having baseline drift or carry-over effects  Carry-over effects are a known problem in clinical trials with a cross-over design.
 Samples from day 0 (before first supplementation) and day 49 (after the first wash-out)
 were analysed for similarity using independent-samples t tests. By using
 P < 0·05 as a cut-off, it was found that in eleven out of forty
@@ -302,7 +316,8 @@ distribution between the study groups. Subjects in the maltodextrin and probioti
 were of similar age, but subjects in the prebiotic and synbiotic groups were on average
 6·8 years younger (P < 0·001) (Table 1).
 
-BODY.RESULTS.ACTIVITY OF PERIPHERAL BLOOD MONOCYTES AND GRANULOCYTES: Phagocytic activity of monocytes and granulocytes. Phagocytic activity was measured
+BODY.RESULTS.ACTIVITY OF PERIPHERAL BLOOD MONOCYTES AND GRANULOCYTES:
+Phagocytic activity of monocytes and granulocytes. Phagocytic activity was measured
 using a flow cytometer after incubation of opsonised and fluorescence-labelled
 Escherichia coli in whole blood of the subjects. Percentage of
 monocytes (a) and granulocytes (b) of the total population that had phagocytosed
@@ -326,18 +341,21 @@ median and 75th percentile; + indicates the mean value. ‡Mean value was
 significantly different from that of the probiotic group
 (P = 0·04).
 
-BODY.RESULTS.LIPOPOLYSACCHARIDE STIMULATION OF THE WHOLE BLOOD AND SOLUBLE IMMUNE MARKERS: Immune markers were analysed from saliva, plasma, and by stimulating heparinised whole
+BODY.RESULTS.LIPOPOLYSACCHARIDE STIMULATION OF THE WHOLE BLOOD AND SOLUBLE IMMUNE MARKERS:
+Immune markers were analysed from saliva, plasma, and by stimulating heparinised whole
 blood with LPS. The levels of cytokines in whole blood, chemokine concentrations in plasma
 and IgA levels in saliva were unaltered by the treatments (online Supplementary Table
 S1).
 
-BODY.RESULTS.COMPOSITION AND METABOLIC FUNCTION OF THE INTESTINAL MICROBIOTA: Gut microbiota of volunteers during treatment with placebo, a prebiotic
+BODY.RESULTS.COMPOSITION AND METABOLIC FUNCTION OF THE INTESTINAL MICROBIOTA:
+Gut microbiota of volunteers during treatment with placebo, a prebiotic
 (galacto-oligosaccharides; GOS; 8 g/d), probiotic (Bifidobacterium
 animalis subsp. lactis Bi-07 (Bi-07); 109
 colony-forming units/d) or synbiotic (GOS + Bi-07) at the end of the first 21 d
 treatment period
 
-BODY.DISCUSSION: A randomised placebo-controlled cross-over clinical trial was designed to study the effect
+BODY.DISCUSSION:
+A randomised placebo-controlled cross-over clinical trial was designed to study the effect
 of probiotic Bi-07, prebiotic GOS or their synbiotic combination Bi-07 + GOS on gut and
 immune functions in healthy non-institutionalised elderly adults. It was found that the
 baseline of some of the parameters drifted before supplementation (Table 2), which could indicate natural fluctuation in this population.

@@ -1,14 +1,19 @@
 TITLE: A computer-guided insulin protocol causes less hypoglycemia than a strict glycemic control protocol: a randomized controlled trial
 
-ABSTRACT 
-  ABSTRACT: 
+  ABSTRACT:
 
-BODY.INTRODUCTION: Strict glycemic control has been recommended for critically ill patients. However, its implementation may face difficulties with increased nursing workload, inadequate glucose control and higher risk of hypoglycemia.
 
-BODY.OBJECTIVE: We report the results of a randomized controlled trial to evaluate the efficacy and safety of three insulin algorithms in medical ICU (MICU) patients.
+BODY.INTRODUCTION:
+Strict glycemic control has been recommended for critically ill patients. However, its implementation may face difficulties with increased nursing workload, inadequate glucose control and higher risk of hypoglycemia.
 
-BODY.METHODS: MICU patients with at least one blood glucose ≥150 mg/dl and who were on mechanical ventilation, or had SIRS, or were admitted because of trauma or burn were randomized to one of the following treatments: algorithm A – continuous insulin infusion with adjustments guided by a handheld device or desktop software targeting glucose levels between 100 and 130 mg/dl; algorithm B – continuous insulin aiming at glucose levels between 80 and 110 mg/dl; algorithm C – conventional treatment of intermittent subcutaneous administration of insulin if blood glucose levels exceeded 150 mg/dl. Efficacy was measured by the mean of patients' median blood glucose and safety was measured by the incidence of hypoglycemia (≤40 mg/dl).
+BODY.OBJECTIVE:
+We report the results of a randomized controlled trial to evaluate the efficacy and safety of three insulin algorithms in medical ICU (MICU) patients.
 
-BODY.RESULTS: One hundred and nine patients were included. The APACHE II score was similar in the groups (20.5 ± 7.9). The efficacy and safety of the algorithms to attain glucose control are presented in Table 1.   Table 1 Algorithm A ( n  = 36) Algorithm B ( n  = 36) Algorithm C ( n  = 37) P  all groups P  A vs B Glucose median (mg/dl) 124.8 128.5 161.3 <0.001 0.45 Hypoglycemia ( n  (%)) 8 (22.2) 17 (47.2) 0 (0.0) <0.001 0.03 MICU death ( n  (%)) 18 (51.4) 19 (54.3) 15 (40.5) 0.47 0.81 
+BODY.METHODS:
+MICU patients with at least one blood glucose ≥150 mg/dl and who were on mechanical ventilation, or had SIRS, or were admitted because of trauma or burn were randomized to one of the following treatments: algorithm A – continuous insulin infusion with adjustments guided by a handheld device or desktop software targeting glucose levels between 100 and 130 mg/dl; algorithm B – continuous insulin aiming at glucose levels between 80 and 110 mg/dl; algorithm C – conventional treatment of intermittent subcutaneous administration of insulin if blood glucose levels exceeded 150 mg/dl. Efficacy was measured by the mean of patients' median blood glucose and safety was measured by the incidence of hypoglycemia (≤40 mg/dl).
 
-BODY.CONCLUSION: A computer-guided insulin infusion protocol causes less episodes of hypoglycemia than, and is as efficacious as, the standard strict glycemic control protocol for controlling glucose at normal nonfasting levels (80–140 mg/dl) in MICU patients.
+BODY.RESULTS:
+One hundred and nine patients were included. The APACHE II score was similar in the groups (20.5 ± 7.9). The efficacy and safety of the algorithms to attain glucose control are presented in Table 1.   Table 1 Algorithm A ( n  = 36) Algorithm B ( n  = 36) Algorithm C ( n  = 37) P  all groups P  A vs B Glucose median (mg/dl) 124.8 128.5 161.3 <0.001 0.45 Hypoglycemia ( n  (%)) 8 (22.2) 17 (47.2) 0 (0.0) <0.001 0.03 MICU death ( n  (%)) 18 (51.4) 19 (54.3) 15 (40.5) 0.47 0.81
+
+BODY.CONCLUSION:
+A computer-guided insulin infusion protocol causes less episodes of hypoglycemia than, and is as efficacious as, the standard strict glycemic control protocol for controlling glucose at normal nonfasting levels (80–140 mg/dl) in MICU patients.
