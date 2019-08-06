@@ -81,7 +81,7 @@ class Article:
         return join_sections_on.join(out_str)
 
     def _get_abstract_keys(self):
-        return [k for k in self.article_dict.keys() if "abstract." in k]
+        return [k for k in self.article_dict.keys() if "abstract" in k]
 
     def _get_section_name(self, section_element):
         title_elements = section_element.findall("title")
