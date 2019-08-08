@@ -33,7 +33,7 @@ The classical randomized clinical trial carried out at the Istituto Nazionale Tu
 [13]. The additive modelling approach allows investigating each covariate effect non-parametrically, i.e. considering each effect non-constant through time. Covariate effects are not multiplicative on the hazard scale, as for Cox model, but additive, and usually results are displayed considering the cumulative hazard function.
 
 BODY.RESULTS:
-Main patient characteristics are reported in Table
+Main patient characteristics are reported in Table 
 1. In particular, the frequency of tumours with diameter of 2 cm or less (T1) and larger tumours (T2/T3) are well balanced in the two arms. The median (and minimum) follow-up time was 15.8 years.Table 1
 Main patient characteristics
   According to Fine & Gray's model for the analysis of recurrences, evidence for a time-dependent effect (natural cubic spline function of time) for both tumour size and adjuvant therapy was found (p-value for time by tumour size interaction: 0.007; p-value for time by adjuvant therapy interaction: 0.037). However, no evidence for interaction (even time-dependent) between tumour size and CMF treatment was found (p = 0.64). Similar results were found according to the Scheike additive model (tumour size, p = 0.001; adjuvant therapy, p = 0.007; interaction, p = 0.33).  
