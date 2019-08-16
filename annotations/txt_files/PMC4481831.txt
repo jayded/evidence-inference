@@ -133,7 +133,7 @@ crossed the zero axis (Figure 1). The braking
 impulse was calculated as the area under the force-time curve from foot contact with
 the platform (Fv≥5 N) until the moment that the curve crossed the zero axis, and the
 propulsive impulse was calculated from that moment until the foot was lifted from the
-force plate (Fv≤5 N).   xmlns:ns0="http://www.w3.org/1999/xlink">
+force plate (Fv≤5 N).  
 Figure 1.Force-time curves for the vertical (top) and anteriorposterior (AP,
 bottom) directions. Dark shaded areas correspond to the braking impulse;
 light shaded areas illustrate the propulsive impulse. PVF1: first peak of
@@ -172,7 +172,10 @@ application sites (foot sole, ankle and calf) before (Pre), immediately
 after (T0) and 30 minutes after application (T30). n=21.Site of ice applicationMeasurement TimePreT0T30 Foot Sole (°C) 27.57±1.5 7.84±1.74* 21.94±1.84*#
  Ankle (°C) 29.36±1.05 10.69±2.45* 21.53±1.29*#
  Calf (°C) 29.34±2.14 9.03±3.2* 25.11±1.44*#
-*p=0.05 compared to Pre.
+*p=0.05 compared to Pre.#p=0.05 compared to T0. Pre: temperature prior to application of ice; T0:
+temperature as soon as ice was removed; T30: temperature 30 minutes after
+ice was removed.
+
 
 BODY.RESULTS.DURATION OF THE GAIT PHASES:
 Ice application did not affect the durations of the gait phases (Table 2). Overall, the duration of the stance
@@ -213,12 +216,17 @@ Measurement PeriodPreT0T30 Vertical Component of GRF
 
 
  BrF – Foot Sole (BW) –0.083±0.027 –0.083±0.023 –0.088±0.025* BrF – Ankle (BW) –0.084±0.018 –0.091±0.030 –0.091±0.022* BrF – Calf (BW) –0.085±0.021 –0.084±0.021 –0.089±0.024 PrF – Foot Sole (BW) 0.117±0.027 0.110±0.026 0.107±0.024 PrF – Ankle (BW) 0.114±0.030 0.114±0.026 0.104±0.027*#
- PrF – Calf (BW) 0.117±0.025 0.111±0.026 0.108±0.025**Significantly different from instant Pre (p<0,05).
+ PrF – Calf (BW) 0.117±0.025 0.111±0.026 0.108±0.025**Significantly different from instant Pre (p<0,05).#Significantly different from instant T0 (p<0,05). PVF1: first peak of
+the force in the vertical direction; PVF2: second peak of the force in
+the vertical direction; TVF: valley of the force in the vertical
+direction; BrF: braking force in the AP direction; PrF: propulsion force
+in the AP direction; BW: body weight.
+
 
 BODY.RESULTS.IMPULSES:
 The application of ice to the ankle reduced the propulsive impulse in the AP
 direction at T30 compared to Pre and T0 (Figure
-2).   xmlns:ns0="http://www.w3.org/1999/xlink">
+2).  
 Figure 2.Means and standard deviations for braking (left side) and propulsive
 (right side) impulses in both anterior-posterior (AP, top) and vertical
 (bottom) directions for all ice application sites at three measurement times

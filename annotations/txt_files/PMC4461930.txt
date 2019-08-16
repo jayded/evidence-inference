@@ -13,7 +13,7 @@ ABSTRACT.CONCLUSION:
 These findings may inform future studies of drugs targeting secretases involved in Aβ generation.
 
 ABSTRACT.TRIAL REGISTRATION:
- xmlns:ns0="http://www.w3.org/1999/xlink">ClinicalTrials.gov Identifier: NCT00594568. Registered 11 January 2008.
+ClinicalTrials.gov Identifier: NCT00594568. Registered 11 January 2008.
 
 ABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL:
 The online version of this article (doi:10.1186/s13195-015-0121-6) contains supplementary material, which is available to authorized users.
@@ -40,19 +40,97 @@ BODY.METHODS.STATISTICAL ANALYSIS:
 Changes in outcome measures reflecting central and peripheral activity of semagacestat were compared between the three treatment groups using one-way analysis of variance. Analyses included all randomized subjects with available data. Annualized change from baseline in cognitive, CSF and three imaging outcomes (vMRI, FDG-PET and AV45) were calculated based on the last available observation in the initial treatment period. The outcome for plasma Aβ used percentage change from baseline to 6 hours postdose at week 52. Laboratory measures included change from baseline in uric acid, albumin and eosinophils at week 76. Specific adverse events, including gastrointestinal, skin disorder, skin cancer and infection incidence, were compared between the three treatment groups using the Fisher-Freeman-Halton exact test. The relationship between change in each of the outcome measures (cognitive tests, plasma Aβ, CSF assays, vMRI, FDG-PET and rates of specific adverse events) and measures of drug exposure (AUC in the active treatment group) and peripheral pharmacodynamic effects (changes in plasma Aβ) were assessed using Spearman's correlation coefficient [15]. R version 2.14.1 statistical software [16] was used for all statistical analyses. We did not employ corrections for multiple comparisons in this exploratory analysis.
 
 BODY.RESULTS.OUTCOMES BY TREATMENT GROUP:
-
+Summary statistics of key outcomes are shown in Table 1 for the three arms of the trial. Treatment assignment was associated with ventricular volume (greater ventricular expansion in high-dose arm), CSF p-tau (increase in placebo arm, reduction in treatment arms), plasma Aβ peptides (dose-related reduction in active arms) and several laboratory measures and adverse event categories (Table 1). The relationship between arm assignment and change in plasma Aβ peptides is shown in Figure 1. Levels of both species of amyloid peptide had declined in both active treatment arms by week 6, and the reductions were sustained until week 52 (the final analysis time point for plasma amyloid peptides).Table 1
 Outcomes by treatment arms
 a
-  As expected, the mean AUC and Cmax increased with increasing dose, although there was overlap between the dose groups.
+
+Placebo
+
+LY 100 mg
+
+LY 140 mg
+
+P
+-value
+Annualized change in ADASCog114.75 ± 21.92 (n = 485)6.57 ± 25.57 (n = 482)5.48 ± 21.92 (n = 495)0.408Annualized change in MMSE−2.19 ± 3.65 (n = 396)−2.56 ± 3.65 (n = 324)−2.92 ± 3.65 (n = 303)0.159Annualized change in FDG-PET SUVR−0.06 ± 0.07 (n = 40)−0.13 ± 0.21 (n = 42)−0.1 ± 0.08 (n = 33)0.109Annualized change in AV45 SUVR0.05 ± 0.11 (n = 18)0.02 ± 0.24 (n = 23)0.07 ± 0.23 (n = 18)0.794Annualized change in ventricular volume4.07 ± 3.52 (n = 80)4.19 ± 3.92 (n = 74)5.68 ± 4.68 (n = 67)0.033Annualized change in right hippocampal volume−86.28 ± 73.86 (n = 74)−91.08 ± 102.1 (n = 68)−90.98 ± 71.1 (n = 64)0.926Annualized change in left hippocampal volume−68.85 ± 59.01 (n = 74)−70.4 ± 90.81 (n = 68)−91.0 ± 101.2 (n = 64)0.244Annualized change in CSF Aβ4087.66 ± 847 (n = 10)−10.96 ± 1151 (n = 19)−599 ± 1786 (n = 18)0.328Annualized change in CSF Aβ4210.96 ± 87.66 (n = 10)−40.18 ± 109.6 (n = 19)−36.5 ± 182.7 (n = 18)0.619Annualized change in p-tau10.96 ± 7.31 (n = 10)−7.31 ± 14.61 (n = 19)−3.65 ± 10.96 (n = 18)0.009Annualized change in total tau94.97 ± 116.9 (n = 10)−43.83 ± 219.2 (n = 17)40.18 ± 127.8 (n = 18)0.101Percentage change in plasma Aβ40 at week 524.77 ± 26.67 (n = 307)−37.54 ± 109.3 (n = 264)−47.76 ± 32.06 (n = 243)<0.001Percentage change in plasma Aβ42 at week 523.82 ± 20.75 (n = 309)−5.4 ± 53.1 (n = 265)−18.14 ± 33.0 (n = 245)<0.001Change in uric acid at week 760.18 ± 0.83 (n = 210)−0.96 ± 1.08 (n = 179)−0.88 ± 1.22 (n = 147)<0.001Change in albumin at week 760 ± 0.25 (n = 210)−0.09 ± 0.31 (n = 179)−0.09 ± 0.3 (n = 147)0.002Change in eosinophils at week 76−0.001 ± 0.09 (n = 207)0.05 ± 0.17 (n = 179)0.06 ± 0.14 (n = 143)<0.001Gastrointestinal symptoms153 (31.5%)169 (34.9%)193 (38.8%)0.057Skin disorder incidence105 (21.6%)220 (45.4%)269 (54%)<0.001Skin cancer incidence8 (1.7%)51 (10.5%)56 (11.2%)<0.001Infection incidence156 (32.1%)188 (38.8%)220 (44.2%)<0.001AUC5,316 ± 1,525 (n = 480)7,235 ± 2233 (n = 494)<0.001Cmax
+1,105 ± 260 (n = 480)1,508 ± 384 (n = 494)<0.001
+aAβ40, Amyloid-β peptide 40; Aβ42, Amyloid-β peptide 42; ADAScog11, Alzheimer's Disease Assessment Scale–Cognitive Subscale, 11-item version; AUC, Area under the curve; AV45, Florbetapir; Cmax, Maximum concentration; CSF, Cerebrospinal fluid; FDG-PET, Fludeoxyglucose positron emission tomography; LY, Semagacestat; MMSE, Mini Mental State Examination; p-tau, Phosphorylated tau; SUVR, Standard uptake value ratio.Figure 1
+Change in plasma amyloid-β peptide levels. Abeta, Amyloid-β; LY100mg, Semagacestat 100 mg; LY140mg, Semagacestat 140 mg.  As expected, the mean AUC and Cmax increased with increasing dose, although there was overlap between the dose groups.
 
 BODY.RESULTS.CORRELATIONAL ANALYSES:
 Among adverse events, correlational analyses suggested that gastrointestinal symptoms, rash and skin cancer may be related to each other, while uric acid reduction, albumin reduction and infection formed a cluster (Table 2). Among markers of central nervous system effects, decline in cognition measured either by increase in ADAScog11 score or decrease in MMSE score correlated with each other and with ventricular expansion (Table 3). Consistent with the overall groupwise effects, there was an unexpected correlation between reduction in CSF p-tau and cognitive decline.Table 2
 Correlations between peripheral biomarkers
 a
-  To determine whether clinical and laboratory effects were more closely associated with drug exposure or with the target pharmacodynamic effects (inhibition of γ-secretase cleavage of the APP to release amyloidogenic peptides), we examined the correlation between measures and semagacestat AUC and change in plasma Aβ40, respectively (Table 4). We used Aβ40 rather than Aβ42 because the latter values were confounded in some cases by measurement below the level of detection.Table 4
+
+AUC
+
+Plasma Aβ40
+
+Uric acid
+
+Albumin
+
+EOS
+
+GI
+
+Skin
+
+Skin cancer
+
+Infection
+AUC1; 0−0.36; 0.001−0.15; 0.007−0.14; 0.010.18; 0.0010.02; 0.65−0.02; 0.63−0.01; 0.810.14; 0.001Plasma Aβ401; 0−0.01; 0.860.131; 0.03−0.19; 0.002−0.10; 0.03−0.08; 0.06−0.08; 0.09−0.07; 0.11Uric acid1; 00.08; 0.13−0.23; 0.0010.03; 0.60−0.12; 0.04−0.08; 0.13−0.11; 0.04Albumin1; 0−0.22; 0.0010.05; 0.420.02; 0.720.02; 0.68−0.15; 0.006EOS1; 0−0.01; 0.850.04; 0.500.11; 0.060.08; 0.17GI1; 00.11; 0.0010.05; 0.160.17; 0.001Skin1; 00.14; 0.0010.13; 0.001Skin cancer1; 00.123; 0.001Infection1; 0
+aAβ40, Amyloid-β peptide 40; AUC, Area under the concentration curve; EOS, Eosinophils; GI, Gastrointestinal. Data are Spearman's correlation coefficients and P-values (r; P).Table 3
+Correlations between changes in central biomarkers
+a
+
+Ventricular volume
+
+CSF p-tau
+
+CSF Aβ42
+
+ADAScog11
+
+MMSE
+FDG-PET SUVR−0.43; 0.007−0.14; 0.790.37; 0.47−0.11; 0.360.23; 08Ventricular volume1; 0−0.14; 0.62−0.12; 0.670.46; 0.001−0.54; 0.001CSF p-tau1; 00.37; 0.49−0.40; 0.020.33; 0.05CSF Aβ421; 0−0.12; 0.480.31; 0.08ADAScog111; 0−0.58; 0.001
+aAβ42, Amyloid-β peptide 42; ADAScog11, Alzheimer's Disease Assessment Scale–Cognitive Subscale, 11-item version; CSF, Cerebrospinal fluid; FDG-PET, Fludeoxyglucose positron emission tomography; MMSE, Mini Mental State Examination; p-tau, Phosphorylated tau; SUVR, Standard uptake value ratio. Data are Spearman's correlation coefficients and P-values (r; P).  To determine whether clinical and laboratory effects were more closely associated with drug exposure or with the target pharmacodynamic effects (inhibition of γ-secretase cleavage of the APP to release amyloidogenic peptides), we examined the correlation between measures and semagacestat AUC and change in plasma Aβ40, respectively (Table 4). We used Aβ40 rather than Aβ42 because the latter values were confounded in some cases by measurement below the level of detection.Table 4
 Correlations of change in selected outcome measures with drug exposure and reduction in plasma amyloid-β peptide 40 in the active arms
 a
-  Uric acid reduction was correlated to drug exposure but not to plasma Aβ change, suggesting a mechanism distinct from inhibition of APP cleavage such as drug-induced Fanconi syndrome. Reduction in serum albumin and increase in eosinophil counts correlated with both AUC and reduction in plasma Aβ. There was a trend relating decrease in FDG PET SUVR to AUC, but no relationship with change in plasma Aβ reducing the likelihood that the proposed pharmacological mechanism of the drug influenced FDG signal. In contrast, gastrointestinal symptoms were related to plasma Aβ change but not to drug exposure, consistent with a shared mechanism related to γ-secretase cleavage of APP. Of note, MRI volumetric change, specifically atrophy as indicated by increase in ventricular volume, was also correlated to change in plasma Aβ. Because drug exposure and change in plasma Aβ40 are strongly correlated, adjusting the correlations of each with the other generally reduces the association of each measure; however, the relationship between change in plasma Aβ40 and ventricular volume and right hippocampal volume were essentially unaffected by adjustment for AUC.
+
+Semagacestat AUC
+
+Change in plasma Aβ40
+
+AUC adjusted for Aβ40
+
+Aβ40 adjusted for AUC
+
+r
+
+n
+
+P
+
+r
+
+n
+
+P
+
+r
+
+n
+
+P
+
+r
+
+n
+
+P
+Change in uric acid at week 76−0.1513200.0070.0112630.857−0.1492600.0160.0712600.255Change in albumin at week 76−0.143200.012−0.1312630.033−0.0372600.548−0.1072600.084Gastrointestinal symptoms0.0159430.6540.0995070.025−0.0045010.9330.0945010.034Skin disorder incidence0.0169430.6270.0835070.062−0.0485010.2790.0965010.031Skin cancer incidence−0.0129430.710.0755070.091−0.0395010.3890.0845010.059Infection incidence0.136943<0.0010.0725070.1010.0685010.1290.0425010.344Annualized change in FDG SUVR0.22740.06<0.001480.9980.357480.010−0.134480.364Annualized change in ventricular volume0.0031390.970.242910.021−0.109910.3020.264910.010Annualized change in right hippocampal volume−0.0641300.472−0.264860.014−0.039860.719−0.222860.038Annualized change in left hippocampal volume−0.1091300.216−0.036860.74−0.167860.1230.043860.697Annualized change in AV45 SUVR0.133400.4140.316270.109−0.079270.6970.324270.093Annualized change in ADASCog11−0.0129380.7070.0375050.403−0.0804990.0740.0604990.177Annualized change in MMSE0.0386180.351−0.0194960.6780.0574900.211−0.0374900.414Annualized change in p-tau0.02370.909−0.124330.4910.101330.578−0.154330.395Annualized change in total tau0.07350.6910.003310.986−0.017310.9300.010310.957Annualized change in CSF Aβ42−0.13370.4430.152330.399−0.103330.5710.179330.318
+aAβ40, Amyloid-β peptide 40; Aβ42, Amyloid-β peptide 42; ADAScog11, Alzheimer's Disease Assessment Scale Cognitive Subscale, 11-item version; AUC, Area under the concentration curve; AV45, Florbetapir; CSF, Cerebrospinal fluid; FDG-PET, Fludeoxyglucose positron emission tomography; MMSE, Mini Mental State Examination; p-tau, Phosphorylated tau; SUVR, Standard uptake value ratio.  Uric acid reduction was correlated to drug exposure but not to plasma Aβ change, suggesting a mechanism distinct from inhibition of APP cleavage such as drug-induced Fanconi syndrome. Reduction in serum albumin and increase in eosinophil counts correlated with both AUC and reduction in plasma Aβ. There was a trend relating decrease in FDG PET SUVR to AUC, but no relationship with change in plasma Aβ reducing the likelihood that the proposed pharmacological mechanism of the drug influenced FDG signal. In contrast, gastrointestinal symptoms were related to plasma Aβ change but not to drug exposure, consistent with a shared mechanism related to γ-secretase cleavage of APP. Of note, MRI volumetric change, specifically atrophy as indicated by increase in ventricular volume, was also correlated to change in plasma Aβ. Because drug exposure and change in plasma Aβ40 are strongly correlated, adjusting the correlations of each with the other generally reduces the association of each measure; however, the relationship between change in plasma Aβ40 and ventricular volume and right hippocampal volume were essentially unaffected by adjustment for AUC.
 
 BODY.DISCUSSION:
 Semagacestat reduced plasma levels of Aβ peptides, consistent with γ-secretase inhibition in the periphery. The absence of an effect on CSF Aβ peptide levels was consistent with the findings in the phase II trial [17] and may have been related to the small numbers of lumbar punctures and their timing in relation to dosing [7,17]. Thus, unlike our previous study in which we used the stable isotope labeling kinetic technique [7], the available data from this trial do not confirm adequate target engagement in the central nervous system, clouding interpretation of the results.  The most notable central nervous system effect was an adverse effect on cognition in the high-dose arm, leading to early termination of the trial, and a reduction in change in CSF p-tau in the active arms compared with placebo [10]. The p-tau effect is difficult to interpret. Although it is consistent with a possible beneficial effect on disease pathology, suggesting a link between Aβ peptide production and downstream tau abnormalities, the fact that p-tau decreases have been found in longitudinal studies of AD [18] could also mean that this finding was associated with increased neurodegeneration due to accelerated disease. The worsening of cognition in the face of these findings suggests that a substrate of γ-secretase other than APP may have been responsible for the cognitive effects. However, p-tau increased in the placebo group more than it decreased in the treated group, which may point to some instability in the assay. In contrast, the correlational studies link the drug-related change in plasma Aβ to increased brain atrophy. Whereas such atrophy has been associated with antiamyloid immunotherapy and could be related to reduction in inflammation or other effects of amyloid removal, the present data link atrophy to an adverse effect on cognition consistent with a deleterious pharmacological effect on the disease process. Further, it must be emphasized that these analyses do not establish causality and are confounded by dependence among the various measures.  Similar adverse effects have been reported with another γ-secretase inhibitor, avagacestat [6]. Specifically, gastrointestinal and skin rash findings, non-melanoma skin cancer and worsening cognition at higher doses were observed with that drug, strongly supporting a link to γ-secretase inhibition. The development of semagacestat [19,20] has been discontinued. A number of research groups continue to pursue γ-secretase modulation and β-site APP-cleaving enzyme 1 (or BACE) inhibition as alternative, perhaps safer, routes to reduction of amyloid peptide production.  If the adverse effects are related to off-target substrates, γ-secretase modulators, which do not act at the active site of the enzyme complex and do not interfere with cleavage of non-APP substrates, may not carry these risks. But the correlational analyses seem more consistent with a direct relationship among adverse clinical effects, increase in atrophy, cognitive decline and possibly p-tau reduction.  There were correlations among peripheral and central measures of drug level and activity and adverse effects on cognition, consistent with related mechanisms. However, causality cannot be inferred; each of these effects is related to drug exposure, so correlations among them are expected. Observed drug effects could be related to inhibition of cleavage of substrates other than APP. Semagacestat is a non-specific inhibitor of γ-secretase, and the half-maximal effective concentration (EC50) for inhibition of Notch cleavage has been reported to be similar to that for APP cleavage [21]; other methods have indicated a tenfold stronger inhibition of Notch cleavage [22]. Presumably, the EC50 of semagacestat for other transmembrane proteins that are substrates for γ-secretase may be in the same range. On the basis of the clinical trial results alone, the question could be raised whether a lower dose of semagacestat given twice daily might have been better tolerated; however, toxicology studies using beagle dogs and rats showed that the same total daily dose of semagacestat was tolerated very poorly when divided into twice daily dosing due to findings consistent with Notch-mediated gastroenteropathy (data on file, Eli Lilly & Company). It also remains possible that inhibition of γ-secretase cleavage of APP is related to the adverse effect on cognition observed in the high-dose arm of this trial. Further studies of γ-secretase inhibitors and modulators should include monitoring for adverse systemic and cognitive effects.  Progression of AD is characterized by decline in cognitive performance and atrophy of brain tissue. In the semagacestat trial, high-dose treatment had an adverse effect on cognition [10], and in the present analyses, cognitive decline was related to expansion of ventricular volume. The relationship between reduction in CSF p-tau and worsening cognition among those treated with semagacestat cannot be readily explained with the available data. Treatment effects on cognitive and biomarker measures in AD may not be predicted by the patterns of longitudinal change noted in observational studies. Elucidation of the mechanisms of these discordant effects will require data derived from additional trials of various therapeutic interventions, as well as more longitudinal data on biomarker changes in mild to moderate AD.

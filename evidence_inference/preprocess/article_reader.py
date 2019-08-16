@@ -129,8 +129,6 @@ class Article:
                 self.parse_element(element, parent_section_str=section_name) 
             elif section_type == "p":
                 txt = ET.tostring(element).decode("utf-8")
-                txt = txt[txt.find("<p>") + 3:txt.find("</p>")]
-                #txt = element.text
                 parser.feed(txt)
                 txt = fmt(parser.get_data())
                 self.article_dict[section_name].append(txt)
@@ -139,6 +137,14 @@ class Article:
                 parser_table.feed(txt)
                 to_app = parser_table.get_data()
                 self.article_dict[section_name].append(to_app)
+            elif section_type == 'title':
+                continue
+            else:
+                txt = ET.tostring(element).decode("utf-8")
+                parser.feed(txt)
+                txt = fmt(parser.get_data())
+                self.article_dict[section_name].append(txt)
+
                 
 
 # create a subclass and override the handler methods

@@ -153,7 +153,12 @@ The roster used on site involved seven shifts beginning every hour between 01:00
 hour between 13:00 and 00:00 h (hereafter referred to as "PM shifts"). All shifts were
 12 h (i.e., 12 h breaks) in duration with a 24-h change-over period between AM shifts and
 PM shifts. Work cycles were followed by either seven or 14 d off. As such, a complete
-roster cycle lasted for either 21 or 28 d, depending on the number of days off.  Representation of the shift schedule for two participants over one roster cycle.
+roster cycle lasted for either 21 or 28 d, depending on the number of days off.  For each roster cycle, participants were scheduled the same shift start time for all AM
+shifts and the same shift start time for all PM shifts. Upon returning to work for the
+subsequent roster cycle, drivers were scheduled a different shift start time (usually 1 h
+later than the previous roster cycle) for all AM shifts and all PM shifts. A graphical
+representation of this shift schedule is shown in Fig
+1Fig. 1.Representation of the shift schedule for two participants over one roster cycle.
 Light grey bars represent rostered shift periods. Black bars represent allowed rest
 opportunity between shifts. Dark grey bars represent non-work periods (i.e. days off
 and the shift change-over period between day shifts and night shifts). For the first
@@ -161,7 +166,9 @@ participant (roster cycle A), the shifts were scheduled to begin at 02:00 h (AM
 shifts) and 14:00 h (PM shifts). For the second participant (roster cycle B), shifts
 were scheduled to begin at 05:00 h (AM shifts) and 17:00 h (PM shifts). Note that
 this is a representative schedule demonstrating the differing shift start times for
-each driver.  Participants flew to a township nearby the main rail depot from various parts of
+each driver.. The roster was designed such that over an extended period of time (i.e., multiple
+months to a year) all participants were scheduled to start shifts at all times of the day
+and night.  Participants flew to a township nearby the main rail depot from various parts of
 Australia and New Zealand (one participant). Throughout the two-week work cycle,
 participants were accommodated in company-owned facilities. Participants stayed in
 single-room apartments containing an ensuite and small kitchen area. All rooms were
@@ -222,19 +229,35 @@ sleep episodes that drivers reported having on either the train or a plane were 
 from data analyses.
 
 BODY.RESULTS.SHIFT TIMES:
-Histogram representing the frequencies of break onset times worked by
-participants.
+We captured data from participants whose breaks began at all times of the day except
+11:00 and 23:00 h (we were unable to obtain volunteers for this break onset time). Despite
+a wide range in the break onset times, the majority of the participants began their breaks
+between 06:00 and 09:00 h (approximately 23% of all the shifts examined), and 18:00 and
+21:00 h (approximately 25% of shifts) (Fig. 2Fig. 2.Histogram representing the frequencies of break onset times worked by
+participants.).
 
 BODY.RESULTS.SLEEP QUANTITY AND QUALITY:
 Table 1Table 1.Sleep variables for work periods and days offWorkRestDFFpTotal sleep time (h)6.1 ± 1.56.6 ± 1.61,41111.940.001Sleep efficiency (%)87.5 ± 5.288.1 ± 4.91,4060.040.85Subjective sleep quality (ratings)2.8 ± 0.92.5 ± 0.91,4326.40.01Work = sleep obtained between shifts; rest = sleep obtained on days off. Values
 represent mean ± SD. Subjective sleep quality ratings were based on a 5-point Likert
-scale where 1 = "very good" and 5 = "very poor".  Total sleep time, sleep efficiency and subjective sleep quality as a function of
+scale where 1 = "very good" and 5 = "very poor". shows the average quantity and quality of sleep obtained by participants
+either between work periods (work) or on days off (rest). Participants obtained
+significantly more sleep during their days off than they did between work periods (Table 1). There was little difference in sleep
+efficiency between work periods and days off (Table
+1). However, participants reported that their sleep quality was better on days
+off than between work periods, reporting "good" sleep quality on days off compared to
+"average" between work periods (Table 1).  There was a main effect of break onset time on TST obtained
+(F7,151=5.54, p<0.001). Breaks beginning
+between 09:00 and 12:00 h were associated with the shortest TST, averaging 4.4 h ± 1.3 h,
+whereas breaks beginning between 00:00 and 03:00 h were associated with the longest TST,
+averaging 6.8 h ± 1.7 h. In general, TST was shorter for morning and daytime breaks than
+for breaks beginning during the evening and night (Fig.
+3Fig. 3.Total sleep time, sleep efficiency and subjective sleep quality as a function of
 break onset time. Total sleep time (top) is expressed in hours and sleep efficiency
 (middle) is expressed as a percentage of time spent asleep between sleep onset and
 sleep offset. Subjective sleep quality (bottom) is expressed as a rating of 1–5 with
 the scale shown on the right y axis. All variables are the mean ± SEM of individual
 sleep episodes. The number of samples for each break onset time is indicated in
-white text.  Sleep efficiency was not influenced by break onset time (Fig. 3), with no main effect of break onset time
+white text.).  Sleep efficiency was not influenced by break onset time (Fig. 3), with no main effect of break onset time
 on sleep efficiency (F7,208=1.26, p=0.28).
 Sleep efficiencies ranged from between 85.9% ± 5.0% (for breaks beginning between 06:00
 and 09:00 h) and 89.9% ± 3.5% (for breaks beginning between 00:00 and 03:00 h).  Finally, there was a main effect of break onset time on subjective sleep

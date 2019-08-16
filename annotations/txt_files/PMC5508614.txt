@@ -1,70 +1,332 @@
 TITLE: Association of schizophrenia onset age and white matter integrity with treatment effect of D-cycloserine: a randomized placebo-controlled double-blind crossover study
 
   ABSTRACT.BACKGROUND:
- id="Par1">It has been reported that drugs which promote the N-Methyl-D-aspartate-type glutamate receptor function by stimulating the glycine modulatory site in the receptor improve negative symptoms and cognitive dysfunction in schizophrenia patients being treated with antipsychotic drugs.
+It has been reported that drugs which promote the N-Methyl-D-aspartate-type glutamate receptor function by stimulating the glycine modulatory site in the receptor improve negative symptoms and cognitive dysfunction in schizophrenia patients being treated with antipsychotic drugs.
 
 ABSTRACT.METHODS:
- id="Par2">We performed a placebo-controlled double-blind crossover study involving 41 schizophrenia patients in which D-cycloserine 50 mg/day was added-on, and the influence of the onset age and association with white matter integrity on MR diffusion tensor imaging were investigated for the first time. The patients were evaluated using the Positive and Negative Syndrome Scale (PANSS), Scale for the Assessment of Negative Symptoms (SANS), Brief Assessment of Cognition in Schizophrenia (BACS), and other scales.
+We performed a placebo-controlled double-blind crossover study involving 41 schizophrenia patients in which D-cycloserine 50 mg/day was added-on, and the influence of the onset age and association with white matter integrity on MR diffusion tensor imaging were investigated for the first time. The patients were evaluated using the Positive and Negative Syndrome Scale (PANSS), Scale for the Assessment of Negative Symptoms (SANS), Brief Assessment of Cognition in Schizophrenia (BACS), and other scales.
 
 ABSTRACT.RESULTS:
- id="Par3">D-cycloserine did not improve positive or negative symptoms or cognitive dysfunction in schizophrenia. The investigation in consideration of the onset age suggests that D-cycloserine may aggravate negative symptoms of early-onset schizophrenia. The better treatment effect of D-cycloserine on BACS was observed when the white matter integrity of the sagittal stratum/ cingulum/fornix stria terminalis/genu of corpus callosum/external capsule was higher, and the better treatment effect on PANSS general psychopathology (PANSS-G) was observed when the white matter integrity of the splenium of corpus callosum was higher. In contrast, the better treatment effect of D-cycloserine on PANSS-G and SANS-IV were observed when the white matter integrity of the posterior thalamic radiation (left) was lower.
+D-cycloserine did not improve positive or negative symptoms or cognitive dysfunction in schizophrenia. The investigation in consideration of the onset age suggests that D-cycloserine may aggravate negative symptoms of early-onset schizophrenia. The better treatment effect of D-cycloserine on BACS was observed when the white matter integrity of the sagittal stratum/ cingulum/fornix stria terminalis/genu of corpus callosum/external capsule was higher, and the better treatment effect on PANSS general psychopathology (PANSS-G) was observed when the white matter integrity of the splenium of corpus callosum was higher. In contrast, the better treatment effect of D-cycloserine on PANSS-G and SANS-IV were observed when the white matter integrity of the posterior thalamic radiation (left) was lower.
 
 ABSTRACT.CONCLUSION:
- id="Par4">It was suggested that response to D-cycloserine is influenced by the onset age and white matter integrity.
+It was suggested that response to D-cycloserine is influenced by the onset age and white matter integrity.
 
 ABSTRACT.TRIAL REGISTRATION:
- xmlns:ns0="http://www.w3.org/1999/xlink" id="Par5">UMIN Clinical Trials Registry (number UMIN000000468). Registered 18 August 2006
+UMIN Clinical Trials Registry (number UMIN000000468). Registered 18 August 2006
 
 BODY.BACKGROUND:
- id="Par41">Since N-Methyl-D-aspartate-type glutamate receptor (NMDA receptor) blockers, including phencyclidine and ketamine, were clarified to induce schizophrenia-like positive and negative symptoms and cognitive dysfunction in proportion to the potency, dysfunction of glutamate neurotransmission through the NMDA receptor in schizophrenia is assumed [1, 2]. Accordingly, improvement of intractable schizophrenia symptoms by enhancing the NMDA receptor is expected, and it has been reported that drugs promoting the NMDA receptor function by stimulating the glycine modulatory site in this receptor improved negative symptoms and cognitive dysfunction in schizophrenia patients being treated with antipsychotic drugs [3, 4].   id="Par42">D-cycloserine (DCS) was clinically used as an antituberculosis drug, but its partial agonist action on the NMDA receptor glycine modulatory site was newly reported in 1989 [5]. Since then, clinical studies of DCS aiming at improvement of schizophrenia symptoms by activating the NMDA receptor have been performed [6–20]. Compared with other usable agonists of the glycine modulatory site, the dose of DCS needed is lower because it readily passes though the blood-brain barrier, and the dose for psycho-neurologic disease is about 10–30% of that for tuberculosis treatment, being readily clinically applicable. In several previous clinical studies, the optimum enhancement of the NMDA receptor function can be expected at about 50 mg/day. Although improvement of negative symptoms and cognitive dysfunction was reported, the results of the clinical studies were not consistent. It is possible that this inconsistency is due to heterogeneity of the clinical profile among patients analyzed. For example, early-onset schizophrenia is considered a more severe form with a poor prognosis [21, 22] and the difference in the onset age may influence response to treatment, but these were not investigated in previous studies. In addition, recent imaging studies suggested that differences in the brain structure influence the treatment outcome (reviewed in [23]). To address the influence of illness onset and the impact of altered brain structure, in this study, a placebo-controlled double-blind study of DCS was performed involving schizophrenia patients, and the efficacy and its association with the onset age and white matter integrity determined by diffusion tensor imaging were investigated.
+Since N-Methyl-D-aspartate-type glutamate receptor (NMDA receptor) blockers, including phencyclidine and ketamine, were clarified to induce schizophrenia-like positive and negative symptoms and cognitive dysfunction in proportion to the potency, dysfunction of glutamate neurotransmission through the NMDA receptor in schizophrenia is assumed [1, 2]. Accordingly, improvement of intractable schizophrenia symptoms by enhancing the NMDA receptor is expected, and it has been reported that drugs promoting the NMDA receptor function by stimulating the glycine modulatory site in this receptor improved negative symptoms and cognitive dysfunction in schizophrenia patients being treated with antipsychotic drugs [3, 4].  D-cycloserine (DCS) was clinically used as an antituberculosis drug, but its partial agonist action on the NMDA receptor glycine modulatory site was newly reported in 1989 [5]. Since then, clinical studies of DCS aiming at improvement of schizophrenia symptoms by activating the NMDA receptor have been performed [6–20]. Compared with other usable agonists of the glycine modulatory site, the dose of DCS needed is lower because it readily passes though the blood-brain barrier, and the dose for psycho-neurologic disease is about 10–30% of that for tuberculosis treatment, being readily clinically applicable. In several previous clinical studies, the optimum enhancement of the NMDA receptor function can be expected at about 50 mg/day. Although improvement of negative symptoms and cognitive dysfunction was reported, the results of the clinical studies were not consistent. It is possible that this inconsistency is due to heterogeneity of the clinical profile among patients analyzed. For example, early-onset schizophrenia is considered a more severe form with a poor prognosis [21, 22] and the difference in the onset age may influence response to treatment, but these were not investigated in previous studies. In addition, recent imaging studies suggested that differences in the brain structure influence the treatment outcome (reviewed in [23]). To address the influence of illness onset and the impact of altered brain structure, in this study, a placebo-controlled double-blind study of DCS was performed involving schizophrenia patients, and the efficacy and its association with the onset age and white matter integrity determined by diffusion tensor imaging were investigated.
 
 BODY.METHODS.STUDY DESIGN:
- id="Par43">A randomized, placebo-controlled, double-blind, crossover design trial was performed at multicenters (Tokyo Medical and Dental University (TMDU), National Center of Neurology and Psychiatry, Tokushima University, Haryugaoka Hospital, Ohmiya Kousei Hospital). We described this clinical trial according to the CONSORT 2010 guidelines. A 2-week pre-observation period was set before initiation of drug administration to confirm eligibility of the subjects, followed by registration and randomized allocation. The subsequent 6, 3, and 6 weeks were established as the first, washout, and second phases, respectively. The rater, medical care staff, subjects, and their families did not know the allocated test drug, and DCS (50 mg/day) and placebo (PCB) were prepared with capsules indistinguishable from the appearance. To confirm the participants' adherence to the study protocol, blood levels of DCS were measured by high performance liquid chromatography (HPLC) with electrochemical detection in the pre-observation period and at the end of the first and second phases. The subjects continued taking drugs that they usually took by the same administration method and dose throughout the study period.
+A randomized, placebo-controlled, double-blind, crossover design trial was performed at multicenters (Tokyo Medical and Dental University (TMDU), National Center of Neurology and Psychiatry, Tokushima University, Haryugaoka Hospital, Ohmiya Kousei Hospital). We described this clinical trial according to the CONSORT 2010 guidelines. A 2-week pre-observation period was set before initiation of drug administration to confirm eligibility of the subjects, followed by registration and randomized allocation. The subsequent 6, 3, and 6 weeks were established as the first, washout, and second phases, respectively. The rater, medical care staff, subjects, and their families did not know the allocated test drug, and DCS (50 mg/day) and placebo (PCB) were prepared with capsules indistinguishable from the appearance. To confirm the participants' adherence to the study protocol, blood levels of DCS were measured by high performance liquid chromatography (HPLC) with electrochemical detection in the pre-observation period and at the end of the first and second phases. The subjects continued taking drugs that they usually took by the same administration method and dose throughout the study period.
 
 BODY.METHODS.INCLUSION AND EXCLUSION CRITERIA:
- id="Par44">The subjects were patients aged 20 years or older and below 70 years with schizophrenia meeting the diagnostic criteria of DSM-IV classification regardless of being in- or outpatients. Patients who received 'psychotherapy and formulated cognitive behavioral therapy excluding supportive psychotherapy' within 12 weeks, those diagnosed with substance abuse (alcohol or drug) or substance dependence within 24 weeks based on the DSM-IV classification, those who received electroconvulsive therapy within 12 weeks, those with suicide attempt within 24 weeks, those with a past medical history of or complication by convulsive disease (epilepsy etc.), those with a past medical history of hypersensitivity to DCS and lactose, and those with severe organic disorder of the brain and physical symptoms were excluded. Participants who smoked were included but no individual information was obtained. Many participants were on benzodiazepines and they were maintained on the same dosage throughout the study. No participant was on clozapine.
+The subjects were patients aged 20 years or older and below 70 years with schizophrenia meeting the diagnostic criteria of DSM-IV classification regardless of being in- or outpatients. Patients who received 'psychotherapy and formulated cognitive behavioral therapy excluding supportive psychotherapy' within 12 weeks, those diagnosed with substance abuse (alcohol or drug) or substance dependence within 24 weeks based on the DSM-IV classification, those who received electroconvulsive therapy within 12 weeks, those with suicide attempt within 24 weeks, those with a past medical history of or complication by convulsive disease (epilepsy etc.), those with a past medical history of hypersensitivity to DCS and lactose, and those with severe organic disorder of the brain and physical symptoms were excluded. Participants who smoked were included but no individual information was obtained. Many participants were on benzodiazepines and they were maintained on the same dosage throughout the study. No participant was on clozapine.
 
 BODY.METHODS.PSYCHOMETRY:
- id="Par45">One rater evaluated changes in neurologic manifestations using the Positive and Negative Syndrome Scale (PANSS) and Scale for the Assessment of Negative Symptoms (SANS) every 2 weeks from initiation of the first and second phases. The scores before initiation of each phase were used as baseline scores for each phase. Evaluations were also made before initiation and after completion of the first phase and after completion of the second phase using Brief Assessment of Cognition in Schizophrenia (BACS), Emotional Intelligence Scale (EQS), Global Assessment of Functioning (GAF), and the Japanese version of the Calgary Depression Scale for Schizophrenia (JCDSS). In addition, extrapyramidal symptoms were evaluated using the Drug Induced Extra-Pyramidal Symptoms Scale (DIEPSS) and Abnormal Involuntary Movement Scale (AIMS). The scores before initiation of the first phase were used as baseline scores for both the first and second phase. Clinical testing of blood and urine were also performed to continuously observe the occurrence of adverse events to evaluate the safety.
+One rater evaluated changes in neurologic manifestations using the Positive and Negative Syndrome Scale (PANSS) and Scale for the Assessment of Negative Symptoms (SANS) every 2 weeks from initiation of the first and second phases. The scores before initiation of each phase were used as baseline scores for each phase. Evaluations were also made before initiation and after completion of the first phase and after completion of the second phase using Brief Assessment of Cognition in Schizophrenia (BACS), Emotional Intelligence Scale (EQS), Global Assessment of Functioning (GAF), and the Japanese version of the Calgary Depression Scale for Schizophrenia (JCDSS). In addition, extrapyramidal symptoms were evaluated using the Drug Induced Extra-Pyramidal Symptoms Scale (DIEPSS) and Abnormal Involuntary Movement Scale (AIMS). The scores before initiation of the first phase were used as baseline scores for both the first and second phase. Clinical testing of blood and urine were also performed to continuously observe the occurrence of adverse events to evaluate the safety.
 
 BODY.METHODS.IMAGE ACQUISITION:
- id="Par46">Magnetic resonance (MR) diffusion tensor imaging (DTI) was performed in the pre-observation period at TMDU. Imaging data were acquired on the 3.0 T MRI scanner (3.0 T Signa HDxt, GE Healthcare Japan). Diffusion tensor images were constructed of 2 sets of diffusion weight axial slice images (30 directions at b-value = 1000, and a b-value = 0 s/mm2, slice thickness = 3.0 mm, slice gap = 0, repetition time = 14,000 ms, echo time = 72.5, matrix 128 × 128 pixels, voxel resolution = 1.875 × 1.875 × 3, Flip angle = 90°, the number of slices scanned ranged 1600–1800.).
+Magnetic resonance (MR) diffusion tensor imaging (DTI) was performed in the pre-observation period at TMDU. Imaging data were acquired on the 3.0 T MRI scanner (3.0 T Signa HDxt, GE Healthcare Japan). Diffusion tensor images were constructed of 2 sets of diffusion weight axial slice images (30 directions at b-value = 1000, and a b-value = 0 s/mm2, slice thickness = 3.0 mm, slice gap = 0, repetition time = 14,000 ms, echo time = 72.5, matrix 128 × 128 pixels, voxel resolution = 1.875 × 1.875 × 3, Flip angle = 90°, the number of slices scanned ranged 1600–1800.).
 
 BODY.METHODS.TRACT BASED SPATIAL STATISTICS (TBSS):
- id="Par47">To reveal the white matter abnormality in schizophrenia, statistical analysis was performed using the FSL (FMRIB Software Library, FMRIB, Oxford, UK) software package including FDT (FMRIB's Diffusion Toolbox). First, imaging data were collected for the distortion and head motion, calculated by using the "eddy correct" function. A brain mask was made from the b = 0 image to use brain extraction of tensor image, and then fractional anisotropy (FA), mean diffusivity (MD), axial diffusivity (AD), radial diffusivity (RD) maps were calculated by using the "dtifit" function to fit tensor model. All parameters at each voxel were performed by voxel-wise statistics as follows.   id="Par48">Tract based spatial statistics (TBSS) were applied on the common pseudoanatomical skeleton in which all subjects' FA data were aligned to FMRIB58_FA standard –space image, using nonlinear registration tool [24]. And then atlas based region of interest (ROI) analysis was performed by using JHU DTI 81 labels atlas. This atlas included the 48 white matter tracts such as corpus callosum, fornix, and internal capsule. The voxel mean FA of these tracts was calculated in each subject.
+To reveal the white matter abnormality in schizophrenia, statistical analysis was performed using the FSL (FMRIB Software Library, FMRIB, Oxford, UK) software package including FDT (FMRIB's Diffusion Toolbox). First, imaging data were collected for the distortion and head motion, calculated by using the "eddy correct" function. A brain mask was made from the b = 0 image to use brain extraction of tensor image, and then fractional anisotropy (FA), mean diffusivity (MD), axial diffusivity (AD), radial diffusivity (RD) maps were calculated by using the "dtifit" function to fit tensor model. All parameters at each voxel were performed by voxel-wise statistics as follows.  Tract based spatial statistics (TBSS) were applied on the common pseudoanatomical skeleton in which all subjects' FA data were aligned to FMRIB58_FA standard –space image, using nonlinear registration tool [24]. And then atlas based region of interest (ROI) analysis was performed by using JHU DTI 81 labels atlas. This atlas included the 48 white matter tracts such as corpus callosum, fornix, and internal capsule. The voxel mean FA of these tracts was calculated in each subject.
 
 BODY.METHODS.STATISTICAL ANALYSIS:
- id="Par49">Statistical analysis was performed using the IBM SPSS Statistics software (version 23.0). The significance level was set at p < 0.05. Multiple comparison was not taken into consideration.
+Statistical analysis was performed using the IBM SPSS Statistics software (version 23.0). The significance level was set at p < 0.05. Multiple comparison was not taken into consideration.
 
 BODY.METHODS.STATISTICAL ANALYSIS.PATIENT CHARACTERISTICS:
- id="Par50">Difference between the DCS-first and PCB-first groups on age, age at onset, age at starting therapy, duration of illness, education, or CPZ equivalents were examined by Mann-Whitney U-test.
+Difference between the DCS-first and PCB-first groups on age, age at onset, age at starting therapy, duration of illness, education, or CPZ equivalents were examined by Mann-Whitney U-test.
 
 BODY.METHODS.STATISTICAL ANALYSIS.EFFECT OF TREATMENT BY TIME:
- id="Par51">Three subscales of PANSS (positive symptoms (P), negative symptoms (N), and general psychopathology (G)) and 7 subscales of SANS (I, II, III, IV, V, summary score, and total score) were analyzed by 2-way repeated-measures of analysis of covariance (RM-ANCOVA) constructed of within-subject factors of treatment (DCS/PCB) and time (baseline, week 2, week 4, and week 6) and covariates of treatment order. Seven subscales of BACS (verbal memory (VM), digit sequencing task (DS), token motor task (TM), symbolic coding (SC), verbal fluency of category (VFC), verbal fluency of letter (VFL), and tower of London (TOL)) and 3 subscales of EQS (intrapersonal, interpersonal, and situational domains) were also analyzed using RM-ANCOVA with a within-subject factor of time (baseline and week 6). Furthermore, GAF, JCDSS, DIEPSS, and AIMS were also analyzed using RM-ANCOVA with a within-subject factor of time (baseline and week 6). If Mauchly's sphericity test was significant, then the Greenhouse-Geisser correction was applied.
+Three subscales of PANSS (positive symptoms (P), negative symptoms (N), and general psychopathology (G)) and 7 subscales of SANS (I, II, III, IV, V, summary score, and total score) were analyzed by 2-way repeated-measures of analysis of covariance (RM-ANCOVA) constructed of within-subject factors of treatment (DCS/PCB) and time (baseline, week 2, week 4, and week 6) and covariates of treatment order. Seven subscales of BACS (verbal memory (VM), digit sequencing task (DS), token motor task (TM), symbolic coding (SC), verbal fluency of category (VFC), verbal fluency of letter (VFL), and tower of London (TOL)) and 3 subscales of EQS (intrapersonal, interpersonal, and situational domains) were also analyzed using RM-ANCOVA with a within-subject factor of time (baseline and week 6). Furthermore, GAF, JCDSS, DIEPSS, and AIMS were also analyzed using RM-ANCOVA with a within-subject factor of time (baseline and week 6). If Mauchly's sphericity test was significant, then the Greenhouse-Geisser correction was applied.
 
 BODY.METHODS.STATISTICAL ANALYSIS.CORRELATION BETWEEN DCS-EFFECT AND DTI WHITE MATTER INTEGRITY:
- id="Par52">To investigate whether or not the white matter integrity influences response to DCS, we first introduced a parameter 'DCS-effect' which was defined by scores at DCS phase subtracted by those at PCB phase. DCS-effect is a value to indicate the net effect of DCS excluding placebo effect. Correlations between the tract FA values of the 48 brain regions and DCS-effects on PANSS, SANS, BACS, and EQS were analyzed using Pearson's correlation coefficient. Significance level for the correlation analysis was set p < 0.01. Multiple comparison was not taken into consideration.
+To investigate whether or not the white matter integrity influences response to DCS, we first introduced a parameter 'DCS-effect' which was defined by scores at DCS phase subtracted by those at PCB phase. DCS-effect is a value to indicate the net effect of DCS excluding placebo effect. Correlations between the tract FA values of the 48 brain regions and DCS-effects on PANSS, SANS, BACS, and EQS were analyzed using Pearson's correlation coefficient. Significance level for the correlation analysis was set p < 0.01. Multiple comparison was not taken into consideration.
 
 BODY.METHODS.SECONDARY ANALYSIS: ONSET AGE AND DCS-EFFECT:
- id="Par53">To investigate whether or not the onset age influences response to DCS, patients were stratified by onset ages of <18 years (early-onset schizophrenia, EOS) or 18 years or older (non-early-onset schizophrenia, non-EOS), according to the generally accepted threshold for EOS [25]. Of note, one non-EOS patient was traditionally-defined late-onset (45 years or older) schizophrenia.   id="Par54">EOS (n = 6) and non-EOS (n = 30) were compared using multivariate analysis of covariance (MANCOVA) regarding the DCS-effects on subscales of PANSS (P, N and G), SANS (I-V, summary and total), BACS (VM, DS, TM, SC, VFC, VFL, and TOL) and EQS (intrapersonal, interpersonal, and situational domains) as dependent variables, onset age (EOS vs. non-EOS) as an independent variable, and treatment order as a covariate.
+To investigate whether or not the onset age influences response to DCS, patients were stratified by onset ages of <18 years (early-onset schizophrenia, EOS) or 18 years or older (non-early-onset schizophrenia, non-EOS), according to the generally accepted threshold for EOS [25]. Of note, one non-EOS patient was traditionally-defined late-onset (45 years or older) schizophrenia.  EOS (n = 6) and non-EOS (n = 30) were compared using multivariate analysis of covariance (MANCOVA) regarding the DCS-effects on subscales of PANSS (P, N and G), SANS (I-V, summary and total), BACS (VM, DS, TM, SC, VFC, VFL, and TOL) and EQS (intrapersonal, interpersonal, and situational domains) as dependent variables, onset age (EOS vs. non-EOS) as an independent variable, and treatment order as a covariate.
 
 BODY.METHODS.SAMPLE PREPARATION AND HIGH-PERFORMANCE LIQUID CHROMATOGRAPHY (HPLC) WITH ELECTROCHEMICAL DETECTION:
- id="Par55">The concentrations of DCS were quantitated by HPLC with electrochemical detection according to the method of Takahashi et al. [26]. For this assay, the plasma samples provided by the patients were homogenized in 2 volumes of 10% trichloroacetic acid. The supernatants resulting from centrifugation of the homogenate at 14,500 g for 20 min at 4 °C were neutralized by 2 M imidazole and stored at −80 °C until derivatization. An aliquot of each sample was derivatized with o-phthaldialdehyde (OPA) (nakalai tesque, Japan) for 2 min at room temperature. The derivatized sample was immediately applied to the HPLC system (HTEC-500; EICOM, Japan) and then analyzed on a on a SC-5ODS (φ3.0 × 150 mm) with a pre-column. The separation column was operated at the constant flow rate of 0.5 ml/min at 30 °C. Mobile phase was 50% 50 mM phosphate buffer solution (pH 2.8) containing 5 mg/L disodium-ethylenediaminetetraacetic acid (EDTA) and 50% methanol. DCS was eluted in the mobile phase within 10 min.   id="Par56">The presence of substantial plasma concentrations of DCS after the actual drug periods, but not the placebo periods, in each patient was verified.
+The concentrations of DCS were quantitated by HPLC with electrochemical detection according to the method of Takahashi et al. [26]. For this assay, the plasma samples provided by the patients were homogenized in 2 volumes of 10% trichloroacetic acid. The supernatants resulting from centrifugation of the homogenate at 14,500 g for 20 min at 4 °C were neutralized by 2 M imidazole and stored at −80 °C until derivatization. An aliquot of each sample was derivatized with o-phthaldialdehyde (OPA) (nakalai tesque, Japan) for 2 min at room temperature. The derivatized sample was immediately applied to the HPLC system (HTEC-500; EICOM, Japan) and then analyzed on a on a SC-5ODS (φ3.0 × 150 mm) with a pre-column. The separation column was operated at the constant flow rate of 0.5 ml/min at 30 °C. Mobile phase was 50% 50 mM phosphate buffer solution (pH 2.8) containing 5 mg/L disodium-ethylenediaminetetraacetic acid (EDTA) and 50% methanol. DCS was eluted in the mobile phase within 10 min.  The presence of substantial plasma concentrations of DCS after the actual drug periods, but not the placebo periods, in each patient was verified.
 
 BODY.RESULTS.PATIENT CHARACTERISTICS:
-CONSORT flow of participants through the trial   id="Par58">The male:female ratio of the subjects who completed the clinical study was 61%:39%, the mean age was 44 years old, the mean age at the time of treatment initiation was 24.4 years old, and the mean duration of illness was 20.5 years. The mean years of education was 13.2 years, and average chlorpromazine (CPZ) equivalent of antipsychotic drugs they took was 827 mg/day. No significant difference was noted between the DCS-first and PCB-first groups on age, age at onset, age at starting therapy, duration of illness, education, or CPZ equivalents. (Table 1).   id="Par59">The blood DCS levels were measured in each phase and compared by analysis of variance. There was no difference between baseline and PCB phase, and a significant difference between baseline and DCS phase, indicating that participants were adherent with the study protocol.
+Figure 1 shows the CONSORT diagram for the trial. Forty-one of 42 patients met the criteria and were enrolled in the study. When they were randomly allocated to the DCS-first (DCS was administered in the first phase) and PCB-first (PCB was administered in the first phase) groups, 19 and 22 patients were included in the groups, respectively. Seventeen (89.5%) and 19 (86.4%) patients completed the clinical study in the DCS-first and PCB-first groups, respectively, a total of 36 patients (Table 1). Five patients dropped out: 2 dropped out (1 each in the DCS-first and PCB-first groups) in the first treatment phase and 3 dropped out (1 and 2 in the DCS-first and PCB-first groups, respectively) in the second treatment phase. The reason for dropout was an adverse event (liver enzyme elevation) in 2 and poor compliance of hospital visit in 3. Both cases of adverse event occurred in the placebo phase.Fig. 1CONSORT flow of participants through the trial
+Table 1Patient characteristicsDCS-first groupPCB-first groupTotalN (Male/Female)17 (10/7)19 (12/7)36 (22/14)Age (years)48.4 ± 16.140.1 ± 10.744.0 ± 14.0Age at onset (years)22.6 ± 8.524.3 ± 5.623.5 ± 7.1Age at starting therapy (years)23.9 ± 8.524.8 ± 5.724.4 ± 7.1Duration of illness (years)25.8 ± 17.315.8 ± 9.220.5 ± 14.4Education (years)12.4 ± 2.613.9 ± 2.913.2 ± 2.9CPZ equivalents (mg/day)777.5 ± 614.8871.3 ± 618.0827.0 ± 609.5
+DCS D-cycloserine, PCB placebo, CPZ chlorpromazine. No significant difference was noted between the DCS-first and PCB-first groups on age, age at onset, age at starting therapy, duration of illness, education, or CPZ equivalents
+  The male:female ratio of the subjects who completed the clinical study was 61%:39%, the mean age was 44 years old, the mean age at the time of treatment initiation was 24.4 years old, and the mean duration of illness was 20.5 years. The mean years of education was 13.2 years, and average chlorpromazine (CPZ) equivalent of antipsychotic drugs they took was 827 mg/day. No significant difference was noted between the DCS-first and PCB-first groups on age, age at onset, age at starting therapy, duration of illness, education, or CPZ equivalents. (Table 1).  The blood DCS levels were measured in each phase and compared by analysis of variance. There was no difference between baseline and PCB phase, and a significant difference between baseline and DCS phase, indicating that participants were adherent with the study protocol.
 
 BODY.PSYCHOMETRICS.EFFECT OF TREATMENT BY TIME:
-Treatment by time effect of DCS on PANSS and SANS
+No treatment by time effect was noted in any subscale of PANSS, SANS (Table 2), BACS, or EQS (Table 3). No treatment by time effect was noted in any of GAF, JCDSS, DIEPSS, and AIMS (data not shown).Table 2Treatment by time effect of DCS on PANSS and SANSWeek within treatment phaseAnalysisTreatmentBaselineWeek 2Week 4Week 6treatment x timeMeanSDMeanSDMeanSDMeanSDF
+p
+PANSS PositiveDCS14.395.7114.425.8714.035.8614.065.890.510.61PCB14.725.7914.195.4614.115.1613.975.62 NegativeDCS20.477.1220.196.9720.196.6419.867.040.370.69PCB20.586.8720.317.0120.006.5719.567.11 GeneralDCS34.448.1433.698.3633.818.7533.568.581.700.18PCB35.228.1134.567.7833.977.2633.838.48SANS IDCS13.978.3913.568.6513.678.5113.368.400.340.79PCB14.038.2513.867.8813.177.8113.447.95 IIDCS7.924.927.395.067.314.837.114.890.440.72PCB8.224.677.754.787.194.717.224.75 IIIDCS10.144.269.894.459.784.329.614.320.500.62PCB10.003.929.674.249.614.329.784.18 IVDCS12.445.3412.225.5312.085.2612.085.440.180.84PCB12.505.0112.335.3512.145.1612.475.36 VDCS5.973.615.613.635.443.394.943.430.660.58PCB5.783.695.643.774.783.395.033.34SummaryDCS11.754.7211.334.7611.144.5910.784.740.790.44PCB11.424.7611.394.5610.834.5810.894.59TotalDCS50.4421.8848.6722.5748.2821.6947.1122.550.520.62PCB50.5320.8149.2520.7046.8920.4247.9420.95
+PANSS, Positive and Negative Syndrome Scale; SANS, Scale for the Assessment of Negative Symptoms; SD, standard deviation; 'Baseline' indicates Week 0 for the first phase and Week 9 (after 3 week washout period) for the second phase
+Table 3Treatment by time effect of DCS on BACS and EQSWeek within treatment phaseAnalysisTreatmentBaselineWeek 6treatment x timeMeanSDMeanSDF
+p
+BACS VMDCS34.1815.0937.1516.110.010.91PCB37.1516.04 DSDCS16.485.7616.975.960.200.65PCB17.585.84 TMDCS58.7321.8460.6421.920.020.90PCB63.3320.69 SCDCS46.5216.3647.0315.710.890.35PCB48.4216.21 VFCDCS15.214.7016.646.344.060.053PCB17.246.44 VFLDCS17.559.5818.128.231.060.31PCB18.488.20 TOLDCS14.735.5715.705.620.130.72PCB16.004.33EQS intraDCS39.2914.4041.0418.230.080.78PCB38.7515.28 interDCS38.1814.5438.2515.771.530.23PCB38.7515.28 situaDCS30.7916.8933.4618.660.000.99PCB32.3617.20
+BACS Brief Assessment of Cognition in Schizophrenia, VM verbal memory, DS digit sequencing task, TM token motor task, SC symbolic coding, VFC verbal fluency of category, VFL verbal fluency of letter, TOL tower of London, EQS Emotional Intelligence Scale, intra intrapersonal domain, inter interpersonal domain, situa, situational domain; 'Baseline' indicates Week 0 both for the first and second phase
+
 
 BODY.DIFFERENCES OF DCS-EFFECT BY ONSET AGE:
-Differences of DCS-effect by onset age
+There was no overall effect of onset age on PANSS subscales (F(3, 31) = 2.20, p = 0.11). However, there was a significant effect of onset age on negative symptoms (F(1, 33) = 6.17, p = 0.02) (Table 4). In the non-EOS group, the scores for both DCS and PCB declined as time proceeded and almost no difference was noted in the DCS-effect at 6 W (the score of DCS phase subtracted by the one of PCB phase was −0.07). In the EOS group, the score for PCB declined as time proceeded whereas the one for DCS demonstrated less decline or even an increase, resulting in the positive value for the DCS-effect at 6 W (the score of DCS phase subtracted by the one of PCB phase was +2.2) (Fig. 2). No significant difference was noted in the overall effect between EOS and non-EOS on SANS, BACS, or EQS, and no significant difference was noted in any subscale. None of the psychometrics ratings of one patient with late onset were outliers.Table 4Differences of DCS-effect by onset ageDCS-effectSDF value
+p valuePANSS2.200.11 PositiveEOS0.831.831.540.22non-EOS−0.071.39 NegativeEOS2.172.796.17
+0.02
+non-EOS−0.071.76 GeneralEOS1.333.501.720.20non-EOS−0.603.07SANS1.110.38 IEOS1.502.742.020.16non-EOS−0.402.49 IIEOS0.500.840.570.46non-EOS−0.231.72 IIIEOS−0.501.520.200.66non-EOS−0.101.60 IVEOS0.171.330.540.47non-EOS−0.501.81 VEOS0.671.510.700.41non-EOS−0.231.76SummaryEOS0.831.831.950.17non-EOS−0.301.51TotalEOS2.335.820.920.34non-EOS−1.477.22BACS0.850.56 VMEOS−2.839.281.640.21non-EOS0.685.12 DSEOS−0.172.320.190.66non-EOS−0.683.42 TMEOS0.675.750.470.50non-EOS−3.9614.86 SCEOS−1.676.120.010.94non-EOS−1.397.02 VFCEOS−3.173.542.690.11non-EOS0.043.70 VFLEOS0.673.140.510.48non-EOS−0.615.79 TOLEOS0.003.690.020.90non-EOS−0.293.75EQS1.180.34 intraEOS−0.6012.820.860.36non-EOS2.586.10 interEOS−2.409.210.650.43non-EOS0.178.69 situaEOS3.006.120.530.47non-EOS0.796.06
+PANSS Positive and Negative Syndrome Scale, SANS Scale for the Assessment of Negative Symptoms, BACS Brief Assessment of Cognition in Schizophrenia, VM verbal memory, DS digit sequencing task, TM token motor task, SC symbolic coding, VFC verbal fluency of category, VFL verbal fluency of letter, TOL tower of London, EQS Emotional Intelligence Scale, intra intrapersonal domain, inter interpersonal domain, situa situational domain, SD standard deviation; DCS-effect, scores at DCS phase extracted by those at PCB phase
+Fig. 2Changes in the scores of PANSS negative symptomPANSS, Positive and Negative Syndrome Scale; DCS-effect was defined by scores at DCS phase subtracted by those at PCB phase. In the non-EOS group, the scores for both DCS and PCB declined as time proceeded and almost no difference (−0.07) was noted in the DCS-effect at 6 W. In the EOS group, the score for PCB declined as time proceeded whereas the one for DCS demonstrated less decline or even an increase, resulting in the positive value (+2.2) for the DCS-effect at 6 W
+
 
 BODY.MR DIFFUSION TENSOR IMAGING:
-Correlation between the FA value of each brain region and DCS-effect   id="Par63">In PANSS-G, an inverse correlation with FA of the splenium of the corpus callosum was noted (the more grade of improvement by DCS was associated with higher FA), and a positive correlation with FA of the posterior thalamic radiation left (L) was noted (the more grade of improvement was associated with lower FA).   id="Par64">In SANS-IV, a positive correlation with FA of the posterior thalamic radiation L was noted (the more grade of improvement was associated with lower FA).   id="Par65">In BACS-TM, positive correlations with FA of the following 4 regions were noted: the sagittal stratum L, cingulum (cingulate gyrus) right (R), cingulum (cingulate gyrus) L, and fornix stria terminalis R (the more grade of improvement was associated with higher FA).   id="Par66">In BACS-TOL, positive correlations with FA of the following 5 regions were noted: the genu of corpus callosum, external capsule L, cingulum (cingulate gyrus) R, cingulum (cingulate gyrus) L, and fornix stria terminalis L (the more grade of improvement was associated with higher FA).   id="Par67">Of these significant correlations, if the 3 EOS patients were excluded from the analysis, the correlations between BACS-TM and cingulum (cingulate gyrus) R and BACS-TOL and fornix stria terminalis L turned non-significant in the p < 0.01 criteria (p = 0.011 and 0.016, respectively).
+Data could be collected from 21 of the 36 patients who completed the study. These participants were those who agreed and traveled to TMDU for the MRI scan, comprising the 3 EOS and 18 non-EOS patients. Regarding the subscales of PANSS, SANS, BACS, and EQS, the correlation between the FA value of each brain region and DCS-effect was investigated (Table 5). The significant correlations (p < 0.01) were demonstrated in PANSS-G, SANS-IV, BACS-TM, and BACS-TOL.Table 5Correlation between the FA value of each brain region and DCS-effectPANSSSANSBACSEQSPNGIIIIIIIVVSumarryTotalVMDSTMSCVFCFVLTOLintraintersituamiddle cerebellar peduncler−.014−.242−.023.071.139−.120−.061−.304−.310−.104.070.344.281.042−.243−.034.012.081−.414−.375p.952.290.922.759.549.605.793.180.171.654.769.137.230.859.302.888.960.782.141.187n2121212121212121212120202020202020141414pontine crossing tractr.291
+−.539
+*
+−.140−.187.173.051−.373−.028−.302−.134−.070.365.392−.080.079.171.180.162−.107−.269p.201
+.012
+.545.417.453.827.096.906.184.563.768.114.087.738.740.472.447.581.716.352n2121212121212121212120202020202020141414genu of corpus callosumr.189.121.303−.078.148.292.123.095.072.169−.443−.076.228−.095−.214−.007
+.585
+**
+.066.380.253p.412.602.182.735.522.200.596.682.756.464.050.751.334.689.365.977
+.007
+.822.181.383n2121212121212121212120202020202020141414body of corpus callosumr.386−.082−.042−.013.358.156−.110.170.087.161−.102.182.283.140−.230−.011
+.460
+*
+−.073.429.108p.084.723.858.957.111.499.636.462.708.485.670.442.226.557.329.962
+.041
+.804.126.714n2121212121212121212120202020202020141414splenium of corpus callosumr
+−.444
+*
+−.432
+−.574
+**
+
+−.439
+*
+−.115.212−.404−.353−.347−.378.092.318−.235−.015.121−.136−.202−.325−.182−.163p
+.044
+.050
+.007
+
+.047
+.621.356.069.117.123.091.699.171.318.949.611.568.393.257.534.577n2121212121212121212120202020202020141414fornixr.334.052.146−.089.319.180−.120.082.082.096−.095.200
+.517
+*
+−.067.017−.062
+.519
+*
+.090.471.412p.139.823.529.703.158.435.605.725.725.680.689.397
+.020
+.780.942.797
+.019
+.759.089.143n2121212121212121212120202020202020141414corticospinal tract Rr.300−.120.023−.096.066−.167.063−.132−.141−.099.304.196.021.197.189
+.530
+*
+−.127.173−.431−.038p.187.605.923.678.775.468.787.567.543.669.193.408.928.406.425
+.016
+.593.555.124.898n2121212121212121212120202020202020141414corticospinal tract Lr.129−.023−.013−.055.107−.313.085−.159−.084−.121.435.200−.045.258.219
+.471
+*
+−.227.161−.278−.053p.576.920.955.811.645.167.713.492.716.601.056.397.851.272.353
+.036
+.336.582.335.858n2121212121212121212120202020202020141414medial lemniscus Rr.255.193−.011−.120.136.193.188−.114−.022.064.141−.082.249.232−.034.118.342−.287−.058.131p.265.402.961.605.557.403.414.622.925.782.553.732.289.326.885.621.141.319.844.654n2121212121212121212120202020202020141414medial lemniscus Lr.236.023−.188−.206.113.066.067−.154−.078−.064.189.094.219.287.031.163.308−.270.058.104p.303.920.415.369.625.777.774.505.736.784.425.693.354.220.896.493.186.350.845.723n2121212121212121212120202020202020141414inferior cerebellar peduncle Rr.367−.094−.181.020−.065.324−.040−.043−.082.063−.179.040.187−.277−.111.131.397−.241−.105.008p.102.685.433.932.780.152.863.854.723.787.451.868.430.238.642.583.083.406.721.977n2121212121212121212120202020202020141414inferior cerebellar peduncle Lr.396−.133−.212.025.121.268−.061.118.017.146−.105.062.252−.078.022.268.354−.146.126.018p.076.566.357.915.601.240.791.610.942.528.660.796.284.745.926.254.126.618.667.952n2121212121212121212120202020202020141414superior cerebellar peduncle Rr−.203−.091−.349−.012−.234−.186−.212−.233−.225−.269.296.217.015.330.083.179.105−.156−.071−.152p.376.694.121.959.307.420.357.310.327.238.204.359.949.156.729.449.660.594.808.605n2121212121212121212120202020202020141414superior cerebellar peduncle Lr−.186−.229
+−.484
+*
+−.006−.361−.247−.263−.313−.379−.362.153.245.118.104.084.174.166−.253−.153−.161p.419.319
+.026
+.978.108.280.249.167.090.107.519.298.620.662.726.462.483.384.601.582n2121212121212121212120202020202020141414cereberal peduncle Rr.075−.164−.245.125−.055.028−.221−.085−.169−.057−.089.178
+.465
+*
+.196.082−.050.049.023.043.479p.748.477.285.590.812.905.336.716.465.807.708.452
+.039
+.406.731.833.838.938.885.083n2121212121212121212120202020202020141414cereberal peduncle Lr−.307−.053−.179−.003−.180.260−.189−.145−.131−.077−.358.074−.013−.048−.016−.129.324−.022.147.257p.175.818.438.989.435.255.413.532.572.741.121.758.956.842.946.587.164.941.617.375n2121212121212121212120202020202020141414anterior limb of internal capsule Rr.189.220.315.101.054.353.202.028.157.231.015−.225.295.325.371−.163.223−.275.085.354p.412.339.165.663.815.116.380.903.497.314.950.341.207.162.107.493.344.342.772.214n2121212121212121212120202020202020141414anterior limb of internal capsule Lr.033.086.262−.136−.143.310.151.002−.057.055−.425−.239.083.050.014−.195
+.463
+*
+−.118.070.216p.886.710.252.558.537.171.514.993.807.813.062.311.728.834.952.411
+.040
+.689.813.459n2121212121212121212120202020202020141414posterior limb of internal capsule Rr−.413−.326−.369−.323−.113.144−.402−.395−.303−.370−.018.198−.003.258.356−.218−.422.015−.087.287p.063.149.100.154.624.533.071.076.181.099.940.403.989.272.123.356.064.960.767.320n2121212121212121212120202020202020141414posterior limb of internal capsule Lr−.383−.363−.251−.288−.180.153−.177−.394−.239−.302.083.235
+−.477
+*
+.112.193−.098−.433−.223−.216−.141p.087.106.272.205.436.507.444.077.297.183.728.318
+.033
+.639.416.682.057.444.459.630n2121212121212121212120202020202020141414retrolenticular part of internal capsule Rr
+−.465
+*
+.224−.008−.293−.353−.118.064−.377−.270−.352−.153−.380−.105.255−.033−.307−.256.079−.118
+.604
+*
+p
+.034
+.330.972.197.116.609.783.092.236.118.519.098.660.277.889.188.277.789.687
+.022
+n2121212121212121212120202020202020141414retrolenticular part of internal capsule Lr−.249−.021.030−.017.052.167.044−.202−.090−.002−.057−.056−.072.270−.039.105−.319.418−.095.329p.276.927.898.942.824.469.850.380.698.993.811.816.763.249.871.659.171.137.746.251n2121212121212121212120202020202020141414anterior corona radiata Rr.246.285
+.440
+*
+−.248.045.213.386−.088−.036.070.082−.189.170−.058.114−.181.353−.256−.156.218p.282.210
+.046
+.279.846.354.084.704.876.764.731.424.474.807.631.444.126.378.594.454n2121212121212121212120202020202020141414anterior corona radiata Lr.052.081.197−.421.152.257.204−.120−.079−.021−.003−.012.186−.207.157−.176.129−.117−.045.286p.824.727.391.057.510.260.375.605.734.928.991.959.432.381.508.457.586.690.879.322n2121212121212121212120202020202020141414superior corona radiata Rr−.272.141−.059.148.045.364.053−.049.144.176.112−.141−.264.243.051−.290.042−.385−.044−.075p.233.541.798.522.846.105.820.832.532.445.640.554.262.302.831.215.861.174.880.799n2121212121212121212120202020202020141414superior corona radiata Lr−.100.196.007−.026.102.398.295.055.290.247.181−.170−.401.316−.027−.066−.021
+−.614
+*
+−.011−.133p.668.395.974.910.661.074.194.812.202.280.445.473.080.175.912.782.932
+.019
+.971.650n2121212121212121212120202020202020141414posterior corona radiata Rr−.374−.058−.111−.073.178.169.067−.137.054.040−.241−.186−.292.110−.166−.244
+−.529
+*
+−.120−.195−.036p.095.804.633.754.439.463.772.552.816.862.306.433.211.645.485.300
+.017
+.683.505.904n21212121212121212121202020202020
+20
+141414posterior corona radiata Lr−.154.013.021−.006.136.178.346−.043.174.176−.198−.228−.357.043−.190−.099−.312
+−.549
+*
+−.274−.481p.505.955.927.980.557.440.125.853.451.445.402.333.123.858.422.678.180
+.042
+.343.082n2121212121212121212120202020202020141414posterior thalamic radiation Rr.238.026.223−.341.079−.013.198−.265−.259−.147.019.010.268.137−.202−.118−.135.150−.315
+.553
+*
+p.298.910.331.130.733.955.389.245.257.525.936.965.253.565.393.619.570.609.272
+.040
+n2121212121212121212120202020202020141414posterior thalamic radiation Lr.183
+.443
+*
+
+.571
+**
+−.010−.005.147
+.598
+**
+−.008.111.219−.195−.389.016.107−.352−.113.275.039−.094.353p.427
+.044
+
+.007
+.965.983.526
+.004
+.972.633.340.409.090.946.653.128.634.241.895.748.216n2121212121212121212120202020202020141414sagittal stratum Rr.190−.045.224−.240.262−.029.186−.014−.106.019−.025.085
+.521
+*
+.254.010.030−.048.369.131
+.615
+*
+p.410.848.328.295.251.899.419.953.647.934.916.721
+.019
+.280.967.900.840.194.656
+.019
+n2121212121212121212120202020202020141414sagittal stratum Lr.191.080.170−.301.318−.118.224−.015−.078−.005.064.178
+.596
+**
+.061−.088−.140.285.110.231.355p.406.731.462.185.160.610.329.947.736.981.789.453
+.006
+.799.713.555.224.708.428.212n2121212121212121212120202020202020141414external capsule Rr.300.167.059−.027.172−.030.076.097−.112.082−.032−.182
+.515
+*
+.253−.217−.049
+.559
+*
+−.019.179.461p.186.469.800.908.455.896.743.677.629.723.894.442
+.020
+.283.357.836
+.010
+.949.541.097n2121212121212121212120202020202020141414external capsule Lr.179.166.083.095.172.023.041.229−.020.181−.235−.184.386.002−.205−.180
+.702
+**
+−.051.291.228p.437.471.721.681.456.923.860.319.932.432.319.437.092.994.386.448
+.001
+.862.313.432n2121212121212121212120202020202020141414cingulum (cingulate gyrus) Rr
+.455
+*
+.164.080.116−.028−.032.227.195−.023.166−.098−.029
+.584
+**
+.078−.111.169
+.869
+**
+−.041.211.221p
+.038
+.477.732.618.904.891.322.396.922.472.680.903
+.007
+.743.641.476
+.000
+.890.470.448n2121212121212121212120202020202020141414cingulum (cingulate gyrus) Lr
+.481
+*
+.126.307.169−.098−.037.323.099−.148.161−.259−.216
+.575
+**
+.003−.159−.159
+.664
+**
+−.152−.126.185p
+.027
+.587.176.463.672.873.153.669.523.486.270.361
+.008
+.989.503.503
+.001
+.605.669.527n21212121212121212121202020202020
+20
+141414cingulum (hippocampus) Rr.196.095.036−.029−.202−.203.041−.204−.268−.185−.166−.087
+.543
+*
+.084.048−.084.370−.068−.001.382p.395.682.878.900.380.378.862.376.240.422.483.715
+.013
+.724.839.724.109.816.998.178n2121212121212121212120202020202020141414cingulum (hippocampus) Lr.187−.183−.229.141−.064−.220−.104−.050−.130−.080−.150.100.291.141.061.046.403−.215.170−.035p.417.426.318.541.784.339.655.830.574.730.527.676.214.553.797.848.078.461.562.905n2121212121212121212120202020202020141414fornix stria terminalis Rr
+.451
+*
+−.032.097.031−.061−.043−.115.070−.252−.027−.059−.056
+.668
+**
+.014.088.013.357.219−.132
+.561
+*
+p
+.040
+.892.675.893.794.852.618.763.271.909.805.813
+.001
+.955.711.956.122.451.654
+.037
+n2121212121212121212120202020202020141414fornix stria terminalis Lr.267.103.084.104.127.371−.198.159−.006.182−.312−.136
+.472
+*
+−.147−.119−.138
+.581
+**
+.206.171.429p.243.656.716.652.583.098.391.491.980.430.180.569
+.036
+.537.618.563
+.007
+.481.559.126n2121212121212121212120202020202020141414superior longitudinal fasciculus Rr−.025.033−.121−.270.052.310−.173−.117−.151−.087−.061.074.361.200.105.201
+.483
+*
+.061.116.420p.913.888.603.237.821.172.453.614.514.707.798.757.118.397.658.396
+.031
+.835.692.135n2121212121212121212120202020202020141414superior longitudinal fasciculus Lr−.262.218−.103−.147.228.260.123−.033.233.107.099−.007.020.311.025.295.091.132.412.287p.252.343.658.524.320.256.595.887.310.643.679.978.933.183.917.207.703.652.143.320n2121212121212121212120202020202020141414superior front occipital fasciculus Rr−.260.213.212.003−.117.328.135−.163−.016.054−.136−.261−.095.126−.144−.435−.036−.248−.156.370p.255.354.357.991.613.147.559.479.945.817.567.266.689.596.546.056.881.392.595.192n2121212121212121212120202020202020141414superior front occipital fasciculus Lr
+−.484
+*
+−.185−.129−.116−.135.398−.085−.114−.009−.023−.220−.040−.397.145.188−.051
+−.494
+*
+.050−.053.196p
+.026
+.422.577.617.558.074.715.622.970.922.350.868.083.541.428.831
+.027
+.866.858.503n2121212121212121212120202020202020141414uncinate fasciculus Rr.286.159.047.004.133−.072−.054−.038−.044−.017.122.020
+.489
+*
+.366−.045.104
+.485
+*
+.064.372.496p.210.490.838.987.565.756.818.871.848.941.608.934
+.029
+.113.849.662
+.030
+.827.191.071n2121212121212121212120202020202020141414uncinate fasciculus Lr.187.271.170.167.096.027.157.153.048.198.045−.263.219.223−.136−.049
+.484
+*
+−.032.291.298p.416.234.462.470.678.908.496.508.836.390.850.263.355.344.568.837
+.031
+.913.313.300n2121212121212121212120202020202020141414tapetum Rr.128−.075−.095−.280.302.288−.088−.211−.117−.043.046.021.185.161−.196−.144−.155−.066−.242.176p.580.745.683.219.183.206.705.359.612.853.848.930.436.498.408.545.514.822.404.548n2121212121212121212120202020202020141414tapetum Lr.077.106.021.151.054.426.018−.023.029.197.107−.172−.100−.130−.339−.367.117−.495−.294−.259p.740.648.928.515.817.054.940.920.902.392.652.468.674.584.144.111.624.072.307.370n2121212121212121212120202020202020141414r, Pearson's correlation coefficient; *. p < 0.05 **. p < 0.01; R right, L left, PANSS Positive and Negative Syndrome Scale, SANS Scale for the Assessment of Negative Symptoms, BACS Brief Assessment of Cognition in Schizophrenia, VM verbal memory, DS digit sequencing task, TM token motor task, SC symbolic coding, VFC verbal fluency of category, VFL verbal fluency of letter, TOL tower of London, EQS Emotional Intelligence Scale, intra intrapersonal domain, inter interpersonal domain, situa situational domain; Data in bold indicate they are significant values
+  In PANSS-G, an inverse correlation with FA of the splenium of the corpus callosum was noted (the more grade of improvement by DCS was associated with higher FA), and a positive correlation with FA of the posterior thalamic radiation left (L) was noted (the more grade of improvement was associated with lower FA).  In SANS-IV, a positive correlation with FA of the posterior thalamic radiation L was noted (the more grade of improvement was associated with lower FA).  In BACS-TM, positive correlations with FA of the following 4 regions were noted: the sagittal stratum L, cingulum (cingulate gyrus) right (R), cingulum (cingulate gyrus) L, and fornix stria terminalis R (the more grade of improvement was associated with higher FA).  In BACS-TOL, positive correlations with FA of the following 5 regions were noted: the genu of corpus callosum, external capsule L, cingulum (cingulate gyrus) R, cingulum (cingulate gyrus) L, and fornix stria terminalis L (the more grade of improvement was associated with higher FA).  Of these significant correlations, if the 3 EOS patients were excluded from the analysis, the correlations between BACS-TM and cingulum (cingulate gyrus) R and BACS-TOL and fornix stria terminalis L turned non-significant in the p < 0.01 criteria (p = 0.011 and 0.016, respectively).
 
 BODY.DISCUSSION:
- id="Par68">The main finding of this study was that DCS did not improve positive symptoms, negative symptoms, or cognitive dysfunction of schizophrenia, and these findings were consistent with most preceding studies concluding that DCS is ineffective for positive symptoms. Regarding negative symptoms, the findings were inconsistent with some preceding studies in which improvement by DCS was observed [6, 9, 11, 14–16], but consistent with other preceding studies in which no improvement by DCS was observed [10, 13, 18–20] or the condition aggravated [7, 8]. Fewer studies evaluated cognitive dysfunction, but the condition was unchanged [9–11, 19, 20] excluding a study reporting an improvement [6], being consistent with our study. In one meta-analysis including 7 double-blind placebo controlled studies [27], DCS did not improve any domain of symptoms, being consistent with our study. However, we can't exclude the possibility that our study failed to demonstrate significant main effects due to the lack of statistical power.   id="Par69">It is possible that the absence of the effect of DCS in this study may have been due to the narrow therapeutic window of DCS. In a dose finding study in which DCS was administered to 8 schizophrenia patients at 15, 50, and 250 mg, negative symptoms were most markedly improved at 50 mg [6], whereas symptoms aggravated when DCS was administered at 100 mg or higher [13, 17]. It was assumed that since DCS is a partial agonist, it competes with endogenous glycine for the NMDA receptor glycine binding site acting as an antagonist. This was the initial study involving individuals of Japanese descent, and no Japanese individual may have been included in preceding studies including the dose finding study. It is possible that DCS 50 mg is not an optimum dose for Japanese and it may not have changed symptoms in this study.   id="Par70">DCS was administered in addition to antipsychotic drugs that the patients usually took. In preceding clinical studies, when DCS was administered to patients usually treated with clozapine, negative symptoms aggravated [7, 8]. It has also been reported that the grade of improvement of the negative symptom score was greater in patients usually treated with typical than atypical antipsychotic drugs [16]. In the current study, no subject was medicated with clozapine but most subjects were medicated with atypical antipsychotic drugs, suggesting that DCS did not exhibit a significant effect on negative symptoms in appearance.   id="Par71">DCS was administered at 50 mg/day daily for 6 weeks, but no improvement of cognitive dysfunction was noted. According to Goff et al. [11], DCS administered at 50 mg weekly for 8 weeks did not improve overall cognitive function, but improvement was observed in a memory reconstruction task 7 days after a single administration of DCS. Regarding the cognitive function, repeated daily administration of DCS may cause desensitization of the NMDA receptor. In animal model, desensitization was observed with repeated daily administration of DCS [28, 29]. Another evidence suggest that elevated co-agonists of glycine recognition site facilitate the internalization of NMDA receptor from the cell surface [30], representing its desensitization. Since DCS was administered daily repeatedly in our study, it may have caused the desensitization resulting in the absence of the effect of DCS on cognitive dysfunction.   id="Par72">The influence of onset age on the DCS-effect was investigated in the secondary analysis, in which the score was mostly aggravated in the EOS group compared with that in the non-EOS group (i.e., the PANSS and SANS scores increased and the BACS and EQS scores decreased) (Table 4), and aggravation of the PANSS score of negative symptoms in the EOS group was significantly different from that in the non-EOS group. Generally, early-onset schizophrenia (EOS) is intractable and the prognosis is poor compared with non-early-onset schizophrenia (non-EOS). In addition, in our previous clinical genetic study in consideration of the onset age, gene expression related to glutamate neurotransmission was different between EOS and non-EOS [31]. Findings observed in these and our studies suggested that heterogeneity of the system related to glutamate neurotransmission appears as a differences in the onset age of schizophrenia and influences response to treatment. However, the findings of the current study might be statistically limited due to the small number of EOS (n = 6) and unbalanced distribution between EOS and non-EOS (n = 30).   id="Par73">By MR-DTI, evidence of altered FA in brain regions of the focus of our study has been accumulated, i.e., decreased FA in genu and splenium of corpus callosum has been reported in patients with schizophrenia [32]. Similarly, bilaterally reduced FA was demonstrated in both anterior and posterior cingulum bundles, and suggested associations between FA and the symptomatology of schizophrenia [33, 34]. Altered FA was reported in brain regions including sagittal stratum and external capsule in suicide attempters with schizophrenia [35]. Reduced FA and increased MD were found in the fornix of patients with schizophrenia, and increased MD was associated with performance in cognitive tasks [36]. Although no physiological or pathophysiological significance of FA values has been established, it is assumed to be related to changes in the density and damage of the white matter. In the current study, a symptom-site-specific correlation was noted between the treatment effect of DCS and FA. The better treatment effect of DCS on BACS was observed when FA was higher in the sagittal stratum, cingulum, fornix stria terminalis, genu of corpus callosum, and external capsule, and the better treatment effect on PANSS-G was observed when FA of the splenium of corpus callosum was higher. In contrast, the better treatment effect of DCS on PANSS-G and SANS-IV was observed when FA was lower in the posterior thalamic radiation (left). To our knowledge, there is no study that has investigated associations between treatment effect of DCS and white matter integrity. A study reporting that clozapine treatment increased FA in various brain regions in patients with schizophrenia is suggestive to the findings of our study [37]. Although our study did not examine changes of FA by DCS treatment per se, changes in cells or molecules in the white matter in the specific brain regions or the grade of subsequent abnormalities of anatomical and functional connectivity between specific brain regions may influence the treatment effect of DCS. Possible aspects of interpreting our findings include that: (1) DCS improves the cognitive function and PANSS-G when the tract is retained at a specific level in brain regions other than the posterior thalamic radiation described above, (2) changes in connectivity with a part of the cortex closely connected with the posterior thalamic radiation through fibers is related the DCS action, and (3) DCS treatment possibly improved the FA of, e.g. thalamic radiation, where an asymmetric alteration in the white matter integrity was demonstrated [38].
+The main finding of this study was that DCS did not improve positive symptoms, negative symptoms, or cognitive dysfunction of schizophrenia, and these findings were consistent with most preceding studies concluding that DCS is ineffective for positive symptoms. Regarding negative symptoms, the findings were inconsistent with some preceding studies in which improvement by DCS was observed [6, 9, 11, 14–16], but consistent with other preceding studies in which no improvement by DCS was observed [10, 13, 18–20] or the condition aggravated [7, 8]. Fewer studies evaluated cognitive dysfunction, but the condition was unchanged [9–11, 19, 20] excluding a study reporting an improvement [6], being consistent with our study. In one meta-analysis including 7 double-blind placebo controlled studies [27], DCS did not improve any domain of symptoms, being consistent with our study. However, we can't exclude the possibility that our study failed to demonstrate significant main effects due to the lack of statistical power.  It is possible that the absence of the effect of DCS in this study may have been due to the narrow therapeutic window of DCS. In a dose finding study in which DCS was administered to 8 schizophrenia patients at 15, 50, and 250 mg, negative symptoms were most markedly improved at 50 mg [6], whereas symptoms aggravated when DCS was administered at 100 mg or higher [13, 17]. It was assumed that since DCS is a partial agonist, it competes with endogenous glycine for the NMDA receptor glycine binding site acting as an antagonist. This was the initial study involving individuals of Japanese descent, and no Japanese individual may have been included in preceding studies including the dose finding study. It is possible that DCS 50 mg is not an optimum dose for Japanese and it may not have changed symptoms in this study.  DCS was administered in addition to antipsychotic drugs that the patients usually took. In preceding clinical studies, when DCS was administered to patients usually treated with clozapine, negative symptoms aggravated [7, 8]. It has also been reported that the grade of improvement of the negative symptom score was greater in patients usually treated with typical than atypical antipsychotic drugs [16]. In the current study, no subject was medicated with clozapine but most subjects were medicated with atypical antipsychotic drugs, suggesting that DCS did not exhibit a significant effect on negative symptoms in appearance.  DCS was administered at 50 mg/day daily for 6 weeks, but no improvement of cognitive dysfunction was noted. According to Goff et al. [11], DCS administered at 50 mg weekly for 8 weeks did not improve overall cognitive function, but improvement was observed in a memory reconstruction task 7 days after a single administration of DCS. Regarding the cognitive function, repeated daily administration of DCS may cause desensitization of the NMDA receptor. In animal model, desensitization was observed with repeated daily administration of DCS [28, 29]. Another evidence suggest that elevated co-agonists of glycine recognition site facilitate the internalization of NMDA receptor from the cell surface [30], representing its desensitization. Since DCS was administered daily repeatedly in our study, it may have caused the desensitization resulting in the absence of the effect of DCS on cognitive dysfunction.  The influence of onset age on the DCS-effect was investigated in the secondary analysis, in which the score was mostly aggravated in the EOS group compared with that in the non-EOS group (i.e., the PANSS and SANS scores increased and the BACS and EQS scores decreased) (Table 4), and aggravation of the PANSS score of negative symptoms in the EOS group was significantly different from that in the non-EOS group. Generally, early-onset schizophrenia (EOS) is intractable and the prognosis is poor compared with non-early-onset schizophrenia (non-EOS). In addition, in our previous clinical genetic study in consideration of the onset age, gene expression related to glutamate neurotransmission was different between EOS and non-EOS [31]. Findings observed in these and our studies suggested that heterogeneity of the system related to glutamate neurotransmission appears as a differences in the onset age of schizophrenia and influences response to treatment. However, the findings of the current study might be statistically limited due to the small number of EOS (n = 6) and unbalanced distribution between EOS and non-EOS (n = 30).  By MR-DTI, evidence of altered FA in brain regions of the focus of our study has been accumulated, i.e., decreased FA in genu and splenium of corpus callosum has been reported in patients with schizophrenia [32]. Similarly, bilaterally reduced FA was demonstrated in both anterior and posterior cingulum bundles, and suggested associations between FA and the symptomatology of schizophrenia [33, 34]. Altered FA was reported in brain regions including sagittal stratum and external capsule in suicide attempters with schizophrenia [35]. Reduced FA and increased MD were found in the fornix of patients with schizophrenia, and increased MD was associated with performance in cognitive tasks [36]. Although no physiological or pathophysiological significance of FA values has been established, it is assumed to be related to changes in the density and damage of the white matter. In the current study, a symptom-site-specific correlation was noted between the treatment effect of DCS and FA. The better treatment effect of DCS on BACS was observed when FA was higher in the sagittal stratum, cingulum, fornix stria terminalis, genu of corpus callosum, and external capsule, and the better treatment effect on PANSS-G was observed when FA of the splenium of corpus callosum was higher. In contrast, the better treatment effect of DCS on PANSS-G and SANS-IV was observed when FA was lower in the posterior thalamic radiation (left). To our knowledge, there is no study that has investigated associations between treatment effect of DCS and white matter integrity. A study reporting that clozapine treatment increased FA in various brain regions in patients with schizophrenia is suggestive to the findings of our study [37]. Although our study did not examine changes of FA by DCS treatment per se, changes in cells or molecules in the white matter in the specific brain regions or the grade of subsequent abnormalities of anatomical and functional connectivity between specific brain regions may influence the treatment effect of DCS. Possible aspects of interpreting our findings include that: (1) DCS improves the cognitive function and PANSS-G when the tract is retained at a specific level in brain regions other than the posterior thalamic radiation described above, (2) changes in connectivity with a part of the cortex closely connected with the posterior thalamic radiation through fibers is related the DCS action, and (3) DCS treatment possibly improved the FA of, e.g. thalamic radiation, where an asymmetric alteration in the white matter integrity was demonstrated [38].
 
 BODY.CONCLUSION:
- id="Par74">In conclusion, DCS did not improve positive symptoms, negative symptoms, or cognitive dysfunction in schizophrenia. It was suggested that response to DCS is influenced by heterogeneity derived from differences in the onset age and white matter integrity.
+In conclusion, DCS did not improve positive symptoms, negative symptoms, or cognitive dysfunction in schizophrenia. It was suggested that response to DCS is influenced by heterogeneity derived from differences in the onset age and white matter integrity.
