@@ -115,7 +115,7 @@ class Article:
         parser = MyHTMLParser()      
         parser_table = TableHTMLParser()
     
-        section_name = self._get_section_name(start_node) # 900 - 1000
+        section_name = self._get_section_name(start_node)
         if parent_section_str is not None:
             if section_name is None:
                 section_name = parent_section_str
@@ -129,8 +129,6 @@ class Article:
                 self.parse_element(element, parent_section_str=section_name) 
             elif section_type == "p":
                 txt = ET.tostring(element).decode("utf-8")
-                txt = txt[txt.find("<p>") + 3:txt.find("</p>")]
-                #txt = element.text
                 parser.feed(txt)
                 txt = fmt(parser.get_data())
                 self.article_dict[section_name].append(txt)
@@ -139,7 +137,15 @@ class Article:
                 parser_table.feed(txt)
                 to_app = parser_table.get_data()
                 self.article_dict[section_name].append(to_app)
-                
+            elif section_type == 'title':
+                # we don't need to include title headers because we already extract, 
+                # and use them to join strings (including would only double them).
+                continue
+            else:
+                txt = ET.tostring(element).decode("utf-8")
+                parser.feed(txt)
+                txt = fmt(parser.get_data())
+                self.article_dict[section_name].append(txt)
 
 # create a subclass and override the handler methods
 class MyHTMLParser(HTMLParser):

@@ -18,7 +18,19 @@ The experimental design and sampling procedures were approved by the Nanjing Agr
 BODY.METHODS.ANIMALS, DIETS AND EXPERIMENTAL DESIGN:
 Goats were housed in individual metabolic cage in the Centre of Experimental Animal at Nanjing Agricultural University (Nanjing, China). Twelve non-lactating and non-pregnant GuanZhong dairy goats (body weight 40.56 ± 1.34 kg, mean ± SEM) aged 2–3 years were used in experiments. All goats received a low grain diet (LG; forage: concentrate = 6:4) for weeks before the start of the formal experiment as an adaption period to obtain a similar metabolic status in all individuals. The goats were randomly assigned to two groups: goats were fed an LG diet (n = 6) as the control group or fed a high grain diet (HG; forage: concentrate = 4:6; n = 6) as the treatment group (Table 1). During the experimental period of six weeks, goats were fed two times daily at 8.30 and 16.30, had free access to fresh water, and the feed amount met or exceeded the animal's nutritional requirements.Table 1
 Chemical composition and nutrient levels of diets
-  In the first week of the adaption period, Catheters were administered in the mesenteric, portal and hepatic veins, as well as one femoral artery of the goats, for determining blood flow and net clearance rate of LPS in the liver. According to previous study [29], concentration of arterial content is homogeneous, so we used the femoral artery to substitute for hepatic artery. Animals were looked after for 3 weeks after surgery. Sterilized heparin saline (500 IU/mL, 0.3 mL/time) was used to prevent catheter blocking at 8-hour intervals per day until the end of the experiment.
+
+Ingredient
+
+Percentage (%) of ingredients (dry matter)
+
+LG diet
+
+HG diet
+Chinese wildrye hay48.0032.00Alfalfa hay12.008.00Corn28.7843.17Soybean meal8.4512.68limestone0.771.25Calcium phosphate dibasic1.101.65Salt0.400.50Premix a
+0.500.75Forage: Concentrate6:44:6
+Nutrient levels, % of dry matter
+Dry mater, %88.9088.60Net energy, MJ/kg5.405.89CP, %12.2413.45NDF, %36.5527.69ADF, %24.0417.54
+aPremix provided: 3000, 1250, and 40 IU kg−1 of diet of vitamin A, D and E, and 6.25, 62.5, 62.5, 50, 0.25, 0.125, 0.125 mg kg−1 of diet of Cu, Fe, Zn, Mn, I, Se, Co, respectively. CP: crude protein; NDF: neutral detergent fibre; ADF: acid detergent fibre.  In the first week of the adaption period, Catheters were administered in the mesenteric, portal and hepatic veins, as well as one femoral artery of the goats, for determining blood flow and net clearance rate of LPS in the liver. According to previous study [29], concentration of arterial content is homogeneous, so we used the femoral artery to substitute for hepatic artery. Animals were looked after for 3 weeks after surgery. Sterilized heparin saline (500 IU/mL, 0.3 mL/time) was used to prevent catheter blocking at 8-hour intervals per day until the end of the experiment.
 
 BODY.METHODS.SAMPLE COLLECTION:
 On the first 3 days of the 6th week, blood samples were collected from the portal vein, hepatic vein, and femoral artery at 0 h (15 min before feeding), and at 2, 4, 6, and 8 h after feeding and injected into a blank 5 mL heparinised evacuated glass tube. Blood samples from the jugular vein were taken at 0 h (15 min before feeding), and at 4 and 8 h after feeding. Samples were kept on ice until transported to the laboratory. Plasma was harvested by centrifuging heparinised evacuated glass tubes at 1900 × g for 15 min. Plasma from the portal vein, hepatic vein and femoral artery were transferred into pyrogen-free glass tubes and stored at −20°C for LPS analysis. Plasma from the jugular vein was preserved in sterilized Eppendorf plastic tubes and stored at −20°C for analysis of APPs, cytokines, and biochemical parameters.  After 2 days of blood sampling, goats were measured the body weight and then administered a continuous infusion of a sterilized aqueous solution (pH 7.4) of para-aminohippuric acid (pAH, 1% (wt/vol), CAS 94-16-6, from Alfa Aesar China Co., Ltd) into the mesenteric vein. The initial rate of infusion was 4 mL/min for 10 min, and then the infusion rate was kept constant (0.8 mL/min) until the end of sampling. Blood samples were collected from the portal vein, hepatic vein, and femoral artery at 0 h (15 min before feeding), and at 2, 4, 6, and 8 h after feeding and injected into a blank 5 mL heparinised evacuated glass tube. Plasma was harvested by centrifuging heparinised evacuated glass tubes at 1900 × g for 15 min and transferred into Eppendorf plastic tubes and stored at −20°C for measurement of pAH.  On the last day of the 6th week, liver samples were excised immediately after euthanasia. Small frozen tubes (2 mL) were snap-frozen and stored in liquid nitrogen.
@@ -30,12 +42,20 @@ BODY.METHODS.RNA EXTRACTION AND REAL-TIME QUANTITATIVE PCR (RT-QPCR):
 RT-qPCR was performed using an ABI 7300 instrument to determine the relative copy numbers of the different mRNA. Liver samples were powdered in a mortar under liquid nitrogen and total RNA was extracted with TRIZOL (Takara) according to the manufacturer's protocol. For cDNA synthesis, 1.5 μg of total RNA was prepared in reverse transcriptional reaction with oligo(dT) for all mRNAs. After reverse transcription (cat. RR036A, Takara) and cDNA purification (cat. D0033, Beyotime), RT-qPCR was run with gene-specific primer pairs to amplify the target segment of cDNA using the SYBR Premix EX TaqTM kit (DRR420A, Takara). Relative copy numbers of the individual mRNA were calculated from a dilution series of 106 to 102 copies of the respective cDNA subclones. All samples were checked twice from two independent cDNA preparations. All primers used for amplification are listed in Table 2.Table 2
 The list of primers for amplification of RT-qPCR
 
+Gene
+
+Forward primer
+
+Reverse primer
+
+Length
+TLR4CTGAGAACCGAGAGCTGGGACGCCTTGAAATGTGTTGTCTTCA207 bpTLR2GCTCAGGTGGAAGCTTTCCAGGGTGATCTCGTTGTTGGACAG241 bpIL-1AGATGATGACCTGGAAGCCATTGGCTGAGAATCCTCTTCTGATAC259 bpIL-1BCCGTGATGATGACCTGAGGAGCAAGACAGGTATAGATTCTTGTC303 bpIL-6CGAAGCTCTCATTAAGCACATCCCAGGTATATCTGATACTCCAG241 bpTNF-αCAACAGGCCTCTGGTTCAGACGGACCTGCGAGTAGATGAGG209 bpIL-8CTGAGAGTTATTGAGAGTGGGCCAGTACTCAAGGCACTGAAGTAG259 bpIL-10GTGATGCCACAGGCTGAGAACGAAGATGTCAAACTCACTCATGG213 bpCCL5CTACACCAGCAGCAAGTGCTCAAGCTGCTTAGGACAAGAGG190 bpCCL20GAAGCAGCAAGCAGCTTTGACGTTCCATTCCAGGGAGCATC244 bpSAA3GACATTCCTCAGGGAAGCTGCTTCGAATCCTTCCGTACCTG247 bpHpGGAGTACTCGGTTCGCTATCACCATCGTTCATTGATGAGTGTG280 bpLBPGAGCTGTCCACCACCAAGATGCACACTCAGATCAAATGTACCG243 bp
 
 BODY.METHODS.WESTERN BLOTTING:
 Liver tissue was crushed in a mortar under liquid nitrogen and total protein was extracted with RIPA Lysis Buffer (cat. SN338, Sunshine Biotechnology (Nanjing) Co., Ltd). Protein concentration was determined using the BCA assay (Pierce, Rockford, IL, USA). Fifty μg of protein extracted from each sample was applied to electrophoresis on a 7.5% sodium dodecyl sulphate-polyacrylamide gel electrophoresis (SDS-PAGE) gel, and the separated proteins were transferred onto nitrocellulose membranes (Bio Trace, Pall Co., USA). Western blotting analysis for TLR4 (sc-293072, Santa Cruz Biotechnology Inc., 1:200) was performed with the primary antibody and corresponding HRP-conjugated secondary antibody. β-actin (KC-5A08, Kang Chen Bio-Tech, China, 1:5000) was used as a reference protein for normalization in western blotting analyses. Then the blot was washed and detected by enhanced chemiluminescence (ECL) using the LumiGlo substrate (Super Signal West Pico Trial Kit, Pierce, USA). ECL signals were recorded by an imaging system (Bio-Rad, USA) and analyzed with Quantity One software (Bio-Rad, USA). Gray values of TLR4 protein were presented as fold change relative to the mean value of the control group.
 
 BODY.METHODS.CALCULATION AND STATISTICAL ANALYSIS:
- xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">The calculation of blood flow was previously described by Huntington et al. [32] and Wieghart et al. [33] as follows:\documentclass[12pt]{minimal}
+The calculation of blood flow was previously described by Huntington et al. [32] and Wieghart et al. [33] as follows:\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -77,29 +97,117 @@ BODY.RESULTS.BLOOD FLOW OF HEPATIC VEIN, PORTAL VEIN AND ARTERY:
 The mean blood flows in the hepatic vein (P = 0.005), portal vein (P < 0.001) and artery (P = 0.024) in the HG group were higher than those in the LG group. The highest blood flow in hepatic vein, portal vein and artery was observed at 4 h after feeding in both groups. Results also showed that blood flow was fastest in the hepatic vein, and slowest in arteries (Table 3). In addition, Body weights of both groups did not change during the experiment and averaged 41.23 ± 0.97 kg (not shown in table).Table 3
 The average blood flows in hepatic vein, portal vein and artery of goats
 
+Blood flow (L/h)
+
+Diet
+
+SED
+a
+
+Effect,
+P
+-value
+
+LG
+
+HG
+
+Diet
+
+Time
+
+Diet × Time
+Hepatic vein 0 h120.04144.8710.350.0050.4190.951 2 h124.35151.73 4 h128.42167.84 6 h128.64157.67 8 h118.01148.29Portal vein 0 h100.96122.267.72<0.0010.2100.879 2 h105.56129.75 4 h111.57142.71 6 h118.99133.73 8 h103.52127.88Artery 0 h19.0822.614.760.0240.7260.627 2 h18.7921.98 4 h16.8525.14 6 h9.6423.94 8 h14.4920.42
+aSED: standard error of difference between treatment and control.
 
 BODY.RESULTS.LPS CONCENTRATION IN THE HEPATIC VEIN, PORTAL VEIN AND ARTERY AND LPS CLEARANCE IN LIVER:
 Plasma LPS concentrations in the hepatic vein (P = 0.001), portal vein (P < 0.001) and artery (P < 0.001) in the HG group were increased in comparison to those in the LG group. The concentration of LPS in the portal vein was higher than that in the hepatic vein and artery in both groups. The effect of diet × time (P < 0.01) on plasma LPS concentrations in the portal vein showed a significant difference between the LG group and HG group. The effect of sampling time on plasma LPS concentrations in the hepatic vein or artery was not significant (Table 4).Table 4
 The average concentrations of LPS in plasma of hepatic vein, portal vein and artery of goats
-  
+
+LPS conc. (EU/mL)
+
+Diet
+
+SED
+a
+
+Effect,
+P
+-value
+
+LG
+
+HG
+
+Diet
+
+Time
+
+Diet × Time
+Hepatic vein 0 h0.411.110.070.0010.0660.419 2 h0.281.09 4 h0.481.23 6 h0.391.13 8 h0.421.01Portal vein 0 h0.471.320.05<0.0010.6720.011 2 h0.451.28 4 h0.521.32 6 h0.481.35 8 h0.591.13Artery 0 h0.361.080.06<0.0010.4150.451 2 h0.341.09 4 h0.431.15 6 h0.391.08 8 h0.410.97
+aSED: standard error of difference between treatment and control.  According to the calculation of net LPS clearance, the mean rate of hepatic LPS clearance in the HG group was faster than that in the LG group (5.46 EU/sec vs 2.83 EU/sec; HG group vs LG group, P = 0.022, Figure 1a). However, feeding the HG diet to goats declined the percentage of hepatic LPS clearance accounting for the total entry of LPS into liver in the HG group compared to the LG group (10.57% vs 18.27%; HG group vs LG group, Figure 1b). Yet, the data of the individual percentage of LPS clearance were highly variable and the difference did not obtain statistical significance.Figure 1
 Effect of feeding high grain diet on LPS clearance in the liver. (a) The mean rate of LPS clearance in the livers of goats fed high grain (HG) diet was significantly increased compared with goats fed low grain (LG) diet (2.83 EU/sec vs 5.46 EU/sec, LG group vs HG group); (b) the mean percentage of hepatic LPS clearance in the HG group was lower than that in the LG group (18.27% vs 10.57%, LG group vs HG group). White filled bar, LG group (n = 6, Mean ± SEM); black filled bar, HG group (n = 6, Mean ± SEM), *P < 0.05 **P < 0.01 ***P < 0.001.
 
 BODY.RESULTS.PRO-INFLAMMATORY CYTOKINES AND APPS IN PERIPHERAL BLOOD:
 After 6 weeks feeding, the plasma concentrations of pro-inflammatory cytokines TNF-α and IL-1β were significantly increased in the HG group compared to the LG group (P < 0.001 for both). Although the plasma concentration of IL-6 was increased, there was no significant difference between HG and LG groups (P = 0.09, Table 5). Time os sampling did not affect the plasma concentrations of these cytokines.Table 5
 The average concentrations of pro-inflammatory cytokines and acute phase proteins in plasma of peripheral blood of goats
-  Compared with feeding of the LG diet, HG diet feeding increased the concentration of LBP (P < 0.01), Hp (P = 0.021) and SAA (P = 0.024) in peripheral blood. The effects of time or interactions with diet on APPs were not significant (Table 5).
+
+Item
+
+Diet
+
+SED
+a
+
+Effect,
+P
+-value
+
+LG
+
+HG
+
+Diet
+
+Time
+
+Diet × Time
+TNFα (fmol/mL) 0 h15.5452.366.98<0.0010.6810.774 4 h11.5171.67 8 h19.2453.92IL-1B (ng/mL) 0 h0.050.110.02<0.0010.0890.127 4 h0.060.14 8 h0.060.09IL-6 (pg/mL) 0 h93.99107.0223.810.0970.3720.717 4 h120.56150.95 8 h116.58161.07LBP (μg/mL) 0 h13.5842.224.23<0.0010.6120.734 4 h14.5042.34 8 h16.2537.91Hp (μg/mL) 0 h79.55365.5850.420.0210.4770.636 4 h183.39307.53 8 h112.66350.52SAA (μg/mL) 0 h57.31348.5637.490.0240.7260.627 4 h78.18386.66 8 h63.06324.88
+aSED: standard error of difference between treatment and control.  Compared with feeding of the LG diet, HG diet feeding increased the concentration of LBP (P < 0.01), Hp (P = 0.021) and SAA (P = 0.024) in peripheral blood. The effects of time or interactions with diet on APPs were not significant (Table 5).
 
 BODY.RESULTS.BIOCHEMICAL PARAMETERS OF LIVER FUNCTION IN PERIPHERAL BLOOD:
 The measurement of biochemical parameters refer to ALT, AST, ALP, T-PRO, T-BIL and ALB in peripheral blood was used to determine liver functions. The concentrations of ALT (P < 0.001), ALP (P = 0.002) and T-BIL (P = 0.005) in peripheral blood were higher in the goats fed HG diet compared to the goats fed LG diet. However, feeding a HG diet to goats did not affect plasma concentration of AST (P = 0.231), T-PRO (P = 0.343) and ALB (P = 0.438) in the HG group in comparison to the LG group (Table 6). The effect of interactions of diet with time on plasma concentrations of ALT was significant; however, the effects of time or its interactions with diet on plasma concentrations of the other were not significant.Table 6
 The average concentrations of biochemical parameters in plasma of peripheral blood of goats
 
+Item
+
+Diet
+
+SED
+a
+
+Effect,
+P
+-value
+
+LG
+
+HG
+
+Diet
+
+Time
+
+Diet × Time
+ALT (IU/L) 0 h16.9626.543.16<0.0010.5290.031 4 h16.2021.20 8 h10.6633.18AST (IU/L) 0 h46.9247.205.760.2310.8810.394 4 h47.8850.76 8 h45.2743.25ALP (IU/L) 0 h55.4074.206.750.0020.7870.131 4 h54.2082.60 8 h45.6867.23T-PRO (g/L) 0 h64.3663.8810.870.3430.6820.530 4 h72.1879.14 8 h58.3757.76ALB (g/L) 0 h19.5821.3750.420.4380.5040.477 4 h25.1329.14 8 h29.6727.48T-BIL (μmol/L) 0 h2.563.380.860.0050.8450.278 4 h2.644.79 8 h1.683.97
+aSED: standard error of difference between treatment and control. IU: international unit.
 
 BODY.RESULTS.EXPRESSION OF MRNAS ENCODING GENES INVOLVED IN IMMUNE RESPONSE IN THE LIVER:
-
+Hepatic mRNA expression of 13 different genes involved in immune response, encoding pro- and anti-inflammatory cytokines, chemokines, APPs, TLR4 and TLR2 were assessed. The expression levels of most these genes were up-regulated in the liver of goats fed the HG diet (Figure 2). Expression of TLR4, but not TLR2, was increased (P = 0.006) in the liver of goats in the HG group compared to the LG group. A similar fold change in pro-inflammatory cytokine-encoding gene expression in the liver was observed between HG group and LG group (Figure 2). The differences in IL-1β (P < 0.001) and TNF-α (P = 0.014) gene expression differed between groups, but not for IL-1α (P = 0.058) and IL-6 (P = 0.074). Expression of IL-10, an anti-inflammatory cytokine produced by dendritic cells, monocytes and particularly macrophages, was 2.04-fold increased, but no significance was observed (P = 0.059) in the livers of goats fed different diets. Moreover, feeding with the HG diet significantly enhanced the expression of mRNAs encoding APPs SAA3 (P = 0.02), Hp (P = 0.023) and LBP (P = 0.007), as well as up-regulated the expression of mRNAs encoding key chemokines IL-8 (P = 0.042), CCL5 (P = 0.02) and CCL20 (P = 0.037) in the liver of goats in the HG group compared to the LG group.Figure 2
 Quantification of the immune gene expression by RT-qPCR. Ordinate axis indicate relative copy number (n = 6 in each group, Mean ± SEM). White filled bar: LG group; black filled bar: HG group. Fold changes and significance (*P < 0.05, **P < 0.01, ***P < 0.001) of the selected genes between LG group and HG group are indicated.
 
 BODY.RESULTS.EXPRESSION OF TLR4 PROTEIN IN THE LIVER:
-
+Western blotting analyses showed that TLR4 protein expression was enhanced in the liver of goats fed HG diet compared with that in the liver of goats fed LG diet (P = 0.043, Figure 3a). In addition, plotting individual relative TLR4 protein expression with the mRNA relative copy numbers revealed a strong correlation (r 0.83; P < 0.001, Figure 3b).Figure 3
 Effect of feeding high grain diet on expression of TLR4 protein in the liver. (a) The mean relative protein expression of TLR4 against the reference β-actin protein. White filled bar: LG group (n = 6, Mean ± SEM); black filled bar: HG group (n = 6, Mean ± SEM). Significance (*P < 0.05, **P < 0.01, ***P < 0.001) of TLR4 protein expression is indicated. (b) Correlation between TLR4 protein levels and TLR4 mRNA expression. The individual values of TLR4 protein levels were plotted against TLR4 mRNA expression. Rhomboids, LG group; triangles, HG group. r, coefficient of correlation (Pearson); P, significance of correlation. (c) Western blotting results of TLR4 and β-actin proteins, HG group (bands 1–6) and LG group (bands 7–12).
 
 BODY.DISCUSSION:

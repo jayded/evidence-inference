@@ -13,7 +13,7 @@ ABSTRACT.CONCLUSION:
 The importance and effectiveness of lifestyle education and JinQi Jiangtang tablets was proven. In both the intervention period and follow-up, JinQi Jiangtang tablets combined with lifestyle education had a greater cost advantage effect than the lifestyle education alone on the reversion rate; the lifestyle education had a greater cost advantage effect than the JinQi Jiangtang tablets combined with lifestyle education on the incidence of diabetes.
 
 ABSTRACT.TRIAL REGISTRATION:
- xmlns:ns0="http://www.w3.org/1999/xlink"> Chinese Clinical Trials ChiCTR-TRC-09000401) , registered on 25 May 2009.
+ Chinese Clinical Trials ChiCTR-TRC-09000401) , registered on 25 May 2009.
 
 ABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL:
 The online version of this article (doi:10.1186/s13063-015-0990-9) contains supplementary material, which is available to authorized users.
@@ -64,7 +64,7 @@ BODY.METHODS.OUTCOME MEASURES:
 The primary outcome was the occurrence of type 2 diabetes (according to the guidelines of the ADA, 2008) and blood glucose change to normal (FPG < 5.6 mmol/L and OGTT 2hPG < 7.8 mmol/L).  The secondary outcome was the score of the Short Form 36 Health Survey Questionnaire (SF −36).  Compliance was measured in participants according to the following procedure: researchers gave the investigational drugs to inpatients and explained the methods for using the medication to the outpatient. The compliance of the participants was determined by inspection of the remaining drugs and notes on the number remaining. The participants were asked to bring the drugs to the final visit to allow calculation of the number of tablets used.  The SF-36 was used as a measure of compliance; during the drug intervention, participants were required to complete five SF-36 forms, and in the follow-up, they were required to complete three forms. According to the clinical effects of the individual treatment, the actual number of forms completed differed.  Measures for the costs included the drug costs and lifestyle intervention costs. Lifestyle intervention costs consisted of lifestyle education materials costs (2.5 yuan per person for 24 months, 2 yuan per person in the intervention period), lifestyle education meeting costs (1220 yuan every meeting, with 80 meetings held during the drug intervention period and 150 meetings being held during the entire trial), and the costs of participants compliance (30 minutes to fill in the SF-36 form and 2 hours for listening to meetings. The current average monthly income of urban residents is 2400 yuan or 10 yuan per hour, which was used to calculate the cost of time).  The safety index includes a general medical examination; blood and urine tests during the study visits; functional examinations to determine EKG, ALT, BUN, and Cr; and adverse events.
 
 BODY.METHODS.MODEL INPUT DATA:
- xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">The evaluation criteria of the efficacy of the treatment on the diabetes conversion rate was based on The Diagnosis and Classification of Diabetes Mellitus, ADA 2008.\documentclass[12pt]{minimal}
+The evaluation criteria of the efficacy of the treatment on the diabetes conversion rate was based on The Diagnosis and Classification of Diabetes Mellitus, ADA 2008.\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -73,7 +73,7 @@ BODY.METHODS.MODEL INPUT DATA:
 				\usepackage{mathrsfs}
 				\usepackage{upgreek}
 				\setlength{\oddsidemargin}{-69pt}
-				\begin{document}$$ \mathrm{Incidence}\mathrm{of}\mathrm{diabetes}\mathrm{mellitus}=\mathrm{cases}\mathrm{of}\mathrm{diabetes}\mathrm{mellitus}\div total\mathrm{cases}\mathrm{of}\mathrm{each}\mathrm{group}\times 100\% $$\end{document}Incidenceofdiabetesmellitus=casesofdiabetesmellitus÷totalcasesofeachgroup×100%   xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">The rate of blood glucose return to normal (refer to the Diagnosis and Classification of Diabetes Mellitus, ADA 2008)\documentclass[12pt]{minimal}
+				\begin{document}$$ \mathrm{Incidence}\mathrm{of}\mathrm{diabetes}\mathrm{mellitus}=\mathrm{cases}\mathrm{of}\mathrm{diabetes}\mathrm{mellitus}\div total\mathrm{cases}\mathrm{of}\mathrm{each}\mathrm{group}\times 100\% $$\end{document}Incidenceofdiabetesmellitus=casesofdiabetesmellitus÷totalcasesofeachgroup×100%  The rate of blood glucose return to normal (refer to the Diagnosis and Classification of Diabetes Mellitus, ADA 2008)\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -85,7 +85,7 @@ BODY.METHODS.MODEL INPUT DATA:
 				\begin{document}$$ \mathrm{Reversion}\mathrm{rate}=\mathrm{cases}\mathrm{o}\mathrm{f}\mathrm{blood}\mathrm{glucose}\mathrm{return}\mathrm{t}\mathrm{o}\mathrm{normal}\div \mathrm{total}\mathrm{cases}\mathrm{o}\mathrm{f}\mathrm{each}\mathrm{group}\times 100\% $$\end{document}Reversionrate=casesofbloodglucosereturntonormal÷totalcasesofeachgroup×100%
 
 BODY.METHODS.COMPLIANCE OF PARTICIPANTS:
- xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">\documentclass[12pt]{minimal}
+\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -100,7 +100,7 @@ BODY.METHODS.COMPLIANCE OF PARTICIPANTS.THE SCORE OF THE SF-36:
 The SF-36 questionnaire was used to evaluate the various dimensions and entries, and between-group and within-group comparisons were made of the total score of the questionnaire. The score was calculated with measurement data.
 
 BODY.METHODS.COSTS:
- xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">\documentclass[12pt]{minimal}
+\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -109,7 +109,7 @@ BODY.METHODS.COSTS:
 				\usepackage{mathrsfs}
 				\usepackage{upgreek}
 				\setlength{\oddsidemargin}{-69pt}
-				\begin{document}$$ \mathrm{The}\mathrm{drug}\mathrm{costs}=\left(\mathrm{dispensed}\hbox{-} \mathrm{remaining}\right)\times \mathrm{price}\mathrm{per}\mathrm{tablet}\times \mathrm{compliance} $$\end{document}Thedrugcosts=(dispensed-remaining)×pricepertablet×compliance   xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">The lifestyle intervention costs\documentclass[12pt]{minimal}
+				\begin{document}$$ \mathrm{The}\mathrm{drug}\mathrm{costs}=\left(\mathrm{dispensed}\hbox{-} \mathrm{remaining}\right)\times \mathrm{price}\mathrm{per}\mathrm{tablet}\times \mathrm{compliance} $$\end{document}Thedrugcosts=(dispensed-remaining)×pricepertablet×compliance  The lifestyle intervention costs\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -121,7 +121,7 @@ BODY.METHODS.COSTS:
 				\begin{document}$$ \begin{array}{l}=\left(\mathrm{lifestyle}\mathrm{education}\mathrm{materials}\mathrm{costs}+\mathrm{lifestyle}\mathrm{education}\mathrm{meetings}\mathrm{costs}+\mathrm{the}\mathrm{costs}\mathrm{of}\mathrm{participants}\mathrm{compliance}\right)\\ {}\times \mathrm{compliance}\mathrm{of}\mathrm{filling}\mathrm{in}\mathrm{the}\mathrm{S}\mathrm{F}\hbox{-} 36\times \mathrm{the}\mathrm{score}\mathrm{of}\mathrm{S}\mathrm{F}\hbox{-} 36\end{array} $$\end{document}=(lifestyleeducationmaterialscosts+lifestyleeducationmeetingscosts+thecostsofparticipantscompliance)×complianceoffillingintheSF-36×thescoreofSF-36
 
 BODY.METHODS.COSTS.THE COST-EFFECTIVENESS RATIO:
- xmlns:ns0="http://www.w3.org/1998/Math/MathML" xmlns:ns1="http://www.w3.org/1999/xlink">The incidence of diabetes mellitus was used to represent the clinical effectiveness index:\documentclass[12pt]{minimal}
+The incidence of diabetes mellitus was used to represent the clinical effectiveness index:\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -148,10 +148,9 @@ BODY.METHODS.CLINICAL OUTCOMES AND COST-EFFECTIVENESS ANALYSIS:
 This clinical trial screened 400 patients, and 376 cases were qualified for inclusion. Ultimately, 362 cases were randomly assigned, with 182 cases in the treatment group and 180 cases in the control group. Adverse events in the treatment group and the control group occurred in five cases and three cases, respectively, so the incidences of adverse events were 2.78 % and 1.65 %. No statistically significant difference was observed between the two groups because there were no drug-related adverse reactions.
 
 BODY.METHODS.CLINICAL OUTCOMES:
-As shown in Tables 1, 2 and 3, the treatment group and control group showed no statistically significant difference (P > 0.05) at baseline for sex, marital status, nationality, height, weight, profession, history of disease, past medical history, blood sugar levels, values of OGTT, and so on. Only the baseline data for age showed slight differences (P = 0.036).The baseline data between the two groups were fundamentally equivalent and thus comparable at baseline.Table 1Comparison between the treatment group and control group in the baseline information  Tables 4,5 and 6 showed the incidence of diabetes mellitus and the reversion rate. During the whole trial process, 37 cases of the treatment group advanced to diabetes, 59 cases of the control group advanced to diabetes (P < 0.05), therefore, the JinQi Jiangtang tablet effectively reduced the incidence of diabetes mellitus. In addition, 82 cases of the treatment group returned to normal blood glucose, and 54 cases of the control group returned to normal blood glucose (P < 0.05); therefore, compared with the control group, the JinQi Jiangtang tablet effectively enhanced reversion rate.Table 4The distribution of the numbers of cases in the 12-month intervention period  Tables 7 and 8 showed the lifestyle intervention compliance. The two groups (treatment and control) separately received 681 SF-36 forms and 694 SF-36 forms, so the actual recovery rates of the SF-36 forms were 91.04 % and 83 %, respectively, in the intervention period of 12 months. In the 24-month follow-up period, the two groups separately received 1073 forms and 1077 forms, so the actual recovery rates of the SF-36 forms were 96.46 % and 87.37 %, respectively.Table 6The incidence of diabetes mellitus and the reversion rate in the 24-month period  The lifestyle intervention compliance in the whole period of 24 months  The scores of SF-36 in the 24-month period
-
-BODY.METHODS.COST-EFFECTIVENESS ANALYSIS:
-For the drug costs, when one case advanced to diabetes mellitus or the blood glucose returned to normal, the case should have stopped taking medicine. The market retail price of the JQJT tablets (24 tablets × 3) was based on each tablet costing 0.26 yuan. The number of cases (participants) taking medicine at 3, 6, 9 and 12 months were 54, 27, 13 and 88 cases. Therefore, costs were determined as shown in the following equation:\documentclass[12pt]{minimal}
+As shown in Tables 1, 2 and 3, the treatment group and control group showed no statistically significant difference (P > 0.05) at baseline for sex, marital status, nationality, height, weight, profession, history of disease, past medical history, blood sugar levels, values of OGTT, and so on. Only the baseline data for age showed slight differences (P = 0.036).The baseline data between the two groups were fundamentally equivalent and thus comparable at baseline.Table 1Comparison between the treatment group and control group in the baseline informationBaseline informationIndexThe total casesThe control groupThe treatment groupAgeN362(0)180(0)182(0)Mean54.49(8.78)53.49(8.85)55.49(8.61)StatisticalWilcoxon rank sum test:-2.096P0.036GenderMale n (%)172(47.51 %)82(45.56 %)90(49.45 %)Female n (%)190(52.49 %)98(54.44 %)92(50.55 %)N362(0)180(0)182(0)Statisticalthe Chi-square test:0.551P0.458Marital statusUnmarried n (%)4(1.10 %)2(1.11 %)2(1.10 %)Married n (%)358(98.90 %)178(98.89 %)180(98.90 %)N362(0)180(0)182(0)StatisticalFisher exact probability methodP1.000HeightN362(0)180(0)182(0)Mean165.27(7.85)165.17(7.65)165.35(8.07)StatisticalWilcoxon rank sum test:-0.205P0.837WeightN362(0)180(0)182(0)Mean67.78(11.64)67.49(11.21)68.06(12.08)StatisticalWilcoxon rank sum test:-0.062P0.837ProfessionWorker n (%)100(27.62 %)49(27.22 %)51(28.02 %)Farmer n (%)29(8.01 %)14(7.78 %)15(8.24 %)Intellectual n (%)100(17.62 %)59(32.78 %)41(22.53 %)Students n (%)0(0.00 %)0(0.00 %)0(0.00 %)Retirement n (%)94(25.97 %)41(22.78 %)53(29.12 %)Unoccupied n (%)11(3.04 %)4(2.22 %)7(3.85 %)Other n (%)28(7.73 %)13(7.22 %)15(8.24 %)N362(0)180(0)182(0)Statisticalthe Chi-square test:5.797P0.327Table 2Comparison of the history of disease and the past medical history between the two groupsInformationIndexThe total casesThe control groupThe treatment groupHistory of diseaseNo n (%)269(74.31 %)132(73.33 %)137(75.27 %)Yes n (%)93(25.69 %)48(26.67 %)45(24.73 %)N362(0)180(0)182(0)Statisticalthe Chi-square test: 0.179P0.673Past medical historyNo n (%)288(79.78 %)145(80.56 %)143(79.01 %)Yes n (%)73(20.22 %)35(19.44 %)38(20.99 %)N362(0)180(0)182(0)Statisticalthe Chi-square test: 0.134P0.714Table 3Comparison between the two groups on fasting plasma glucose (FPG) and oral glucose tolerance test (OGTT) 2-hour plasma glucose (2hPG) in the screening stageInformationIndexThe total casesThe control groupThe treatment groupFPGN362(0)182(0)180(0)Mean6.03(0.60)6.04(0.59)6.03(0.60)StatisticalWilcoxon rank sum test: 0.182P0.856OGTT 2hPGMean8.86(1.34)8.90(1.38)8.82(1.30)StatisticalWilcoxon rank sum test: 0.900P0.368  Tables 4,5 and 6 showed the incidence of diabetes mellitus and the reversion rate. During the whole trial process, 37 cases of the treatment group advanced to diabetes, 59 cases of the control group advanced to diabetes (P < 0.05), therefore, the JinQi Jiangtang tablet effectively reduced the incidence of diabetes mellitus. In addition, 82 cases of the treatment group returned to normal blood glucose, and 54 cases of the control group returned to normal blood glucose (P < 0.05); therefore, compared with the control group, the JinQi Jiangtang tablet effectively enhanced reversion rate.Table 4The distribution of the numbers of cases in the 12-month intervention periodGroupMonth 3Month 6Month 9Month 12NBGDMFONBGDMFONBGDMFONBGDMFOThe treatment group3789205276012111The control group25239181351526110
+NBG normal blood glucose cases, DM diabetes mellitus cases, FO fall off casesTable 5The incidence of diabetes mellitus and reversion rate in the 12-month intervention periodGroupThe cases of diabetesThe incidence of diabetes mellitus (%)The cases of normal blood glucoseReversion rate (%)The treatment group3016.5 %7641.8 %The control group5228.9 %5027.8 %  Tables 7 and 8 showed the lifestyle intervention compliance. The two groups (treatment and control) separately received 681 SF-36 forms and 694 SF-36 forms, so the actual recovery rates of the SF-36 forms were 91.04 % and 83 %, respectively, in the intervention period of 12 months. In the 24-month follow-up period, the two groups separately received 1073 forms and 1077 forms, so the actual recovery rates of the SF-36 forms were 96.46 % and 87.37 %, respectively.Table 6The incidence of diabetes mellitus and the reversion rate in the 24-month periodGroupCases of diabetesIncidence of diabetes mellitus (%)Cases of normal blood glucoseReversion rate (%)The treatment group3720.3 %8245.1 %The control group5932.8 %5430 %Table 7The lifestyle intervention compliance in the 12-month intervention periodGroupDistribution copiesRecovery copiesThe practical recovery of lifestyle intervention table (%)The treatment group68162091.04The control group69457683.00  Tables 9 and 10 showed the scores of SF-36. Despite the intervention period of 12 months or the whole period of 24 months, the average score of the two groups were more than 65 points, P > 0.05, so they had no significant difference.Table 8The lifestyle intervention compliance in the whole period of 24 monthsGroupDistribution copiesRecovery copiesThe practical recovery of lifestyle intervention table (%)The treatment group1073103594.46The control group107794187.3Table 9The scores of SF-36 in the 12-month intervention periodGroup
+\documentclass[12pt]{minimal}
 				\usepackage{amsmath}
 				\usepackage{wasysym} 
 				\usepackage{amsfonts} 
@@ -160,10 +159,94 @@ For the drug costs, when one case advanced to diabetes mellitus or the blood glu
 				\usepackage{mathrsfs}
 				\usepackage{upgreek}
 				\setlength{\oddsidemargin}{-69pt}
-				\begin{document}$$ \begin{array}{l}\mathrm{The}\ \mathrm{drugs}\ \mathrm{costs}=\left(7\times 3\times 30\times 3\times 54+7\times 3\times 30\times 6\times 27+7\times 3\times 30\times 9\times 13+7\times 3\times 30\times 12\times 88\right)\\ {}\times 0.26\times 92.94\%=227896.9\mathrm{yuan}\end{array} $$\end{document}Thedrugscosts=7×3×30×3×54+7×3×30×6×27+7×3×30×9×13+7×3×30×12×88×0.26×92.94%=227896.9yuan  Compliance of the participants  Tables 14 and 15 showed the cost-effectiveness analysis in the 24-month period. The total costs of the treatment group and the control group were 41,367,830.8 yuan and 37,529,823.2 yuan, and with regard to the reversion rate, the cost-effectiveness ratios were 917,246.8 and 1,250,994.1, respectively, so the treatment group was smaller. From the incremental cost-effectiveness ratio, the control group needed more than 254,172.7 yuan for each 1 % increase in the reversion rate to show that the treatment group had a better economic advantage. With regard to the incidence of diabetes, the cost-effectiveness ratios of the treatment group and the control group were 2,037,824.8 and 1,144,201.0, so the control group was smaller. From the incremental cost-effectiveness ratios, the treatment group needed more than 307,040.6 yuan for each 1 % decrease in the incidence of diabetes, which showed that the control group had a better economic advantage.Table 13The cost-effectiveness analysis in the 12-month intervention period (the incidence of diabetes)
+				\begin{document}$$ \overline{x}\pm S $$\end{document}x ̄±S
+
+t
+
+P
+The treatment group66.87 ± 6.45−0.7810.435The control group66.55 ± 6.08  Table 11 showed the level of compliance of the participants. The compliance rates of the two groups were more than 80 % (P > 0.05) by rank sum test, so they had good compliance and no significant difference.Table 10The scores of SF-36 in the 24-month periodGroup
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \overline{x}\pm S $$\end{document}x ̄±S
+
+t
+
+P
+The treatment group67.72 ± 6.06−0.3970.691The control group67.47 ± 5.53
+
+BODY.METHODS.COST-EFFECTIVENESS ANALYSIS:
+The costs were calculated according to the following:For the drug costs, when one case advanced to diabetes mellitus or the blood glucose returned to normal, the case should have stopped taking medicine. The market retail price of the JQJT tablets (24 tablets × 3) was based on each tablet costing 0.26 yuan. The number of cases (participants) taking medicine at 3, 6, 9 and 12 months were 54, 27, 13 and 88 cases. Therefore, costs were determined as shown in the following equation:\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \begin{array}{l}\mathrm{The}\ \mathrm{drugs}\ \mathrm{costs}=\left(7\times 3\times 30\times 3\times 54+7\times 3\times 30\times 6\times 27+7\times 3\times 30\times 9\times 13+7\times 3\times 30\times 12\times 88\right)\\ {}\times 0.26\times 92.94\%=227896.9\mathrm{yuan}\end{array} $$\end{document}Thedrugscosts=7×3×30×3×54+7×3×30×6×27+7×3×30×9×13+7×3×30×12×88×0.26×92.94%=227896.9yuanThe lifestyle intervention costs in the 12-month intervention period were calculated as indicated below:\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \begin{array}{l}\mathrm{The}\ \mathrm{lifestyle}\ \mathrm{intervention}\ \mathrm{costs}\ \mathrm{of}\ \mathrm{the}\ \mathrm{treatment}\ \mathrm{group}=\left(182\times 2+1220\times 80/2+681\times 5+182\times 2\times 10 \times 80\right)\\ {}\times 91.04\%\times 66.87=20928123.4\mathrm{yuan}\end{array} $$\end{document}Thelifestyleinterventioncostsofthetreatmentgroup=182×2+1220×80/2+681×5+182×2×10×80×91.04%×66.87=20928123.4yuan\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \begin{array}{l}\mathrm{The}\ \mathrm{lifestyle}\ \mathrm{intervention}\ \mathrm{costs}\ \mathrm{of}\ \mathrm{the}\ \mathrm{control}\ \mathrm{group}=\left(180\times 2+1220\times 80/2+694\times 5+180\times 2\times 10 \times 80\right)\\ {}\times 83\%\times 66.55=18815209.0\mathrm{yuan}\end{array} $$\end{document}Thelifestyleinterventioncostsofthecontrolgroup=180×2+1220×80/2+694×5+180×2×10×80×83%×66.55=18815209.0yuanThe lifestyle intervention costs in the 24-month follow-up period were calculated as follows:\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \begin{array}{l}\mathrm{The}\ \mathrm{lifestyle}\ \mathrm{intervention}\ \mathrm{costs}\ \mathrm{of}\ \mathrm{the}\ \mathrm{treatment}\ \mathrm{group}=\left(182\times 2.5+1220\times 150/2\times 1035\times 5+182\times 2 \times 10\times 150\right)\\ {}\times 94.46\%\times 67.72=41139933.9\mathrm{yuan}\end{array} $$\end{document}Thelifestyleinterventioncostsofthetreatmentgroup=182×2.5+1220×150/2×1035×5+182×2×10×150×94.46%×67.72=41139933.9yuan\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \begin{array}{l}\mathrm{The}\ \mathrm{lifestyle}\ \mathrm{intervention}\ \mathrm{costs}\ \mathrm{of}\ \mathrm{the}\ \mathrm{control}\ \mathrm{group}=\left(180\times 2.5+1220\times 150/2+941\times 5+180\times 2 \times 10\times 150\right)\\ {}\times 87.37\%\times 67.47=37529823.2\mathrm{yuan}\end{array} $$\end{document}Thelifestyleinterventioncostsofthecontrolgroup=180×2.5+1220×150/2+941×5+180×2×10×150×87.37%×67.47=37529823.2yuan  The cost-effectiveness ratio is addressed in Tables 12 and 13, which showed the cost-effectiveness analysis for the 12-month intervention period. The total costs of the treatment group and the control group were 21,156,020.3 yuan and 1,885,209.0 yuan, respectively, and in terms of the reversion rate, the cost-effectiveness ratios were 506,124.9:676,806.1, so the treatment group was smaller. From the incremental cost-effectiveness ratio, the control group needed more than 167,213.7 yuan for each 1 % increase in the reversion rate to show that the treatment group had better economic advantages. With regard to the incidence of diabetes, the cost-effectiveness ratios of the treatment group and the control group were 1,282,183.0:651045.3, so the control group was smaller. From the incremental cost-effectiveness ratio, the treatment group needed more than 188,775.1 yuan for each 1 % decrease in the incidence of diabetes, which showed that the control group had the better economic advantage.Table 11Compliance of the participantsGroup
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$ \overline{x}\pm S $$\end{document}x ̄±S
+
+Z
+
+P
+The treatment group92.94 ± 7.28−0.7710.441The control group92.27 ± 8.29Table 12The cost-effectiveness analysis in the 12-month intervention period (reversion rate)GroupC (yuan)E (%)C/EΔC/ΔEThe treatment group21156020.341.8506124.9The control group18815209.027.8676806.1167213.7  Tables 14 and 15 showed the cost-effectiveness analysis in the 24-month period. The total costs of the treatment group and the control group were 41,367,830.8 yuan and 37,529,823.2 yuan, and with regard to the reversion rate, the cost-effectiveness ratios were 917,246.8 and 1,250,994.1, respectively, so the treatment group was smaller. From the incremental cost-effectiveness ratio, the control group needed more than 254,172.7 yuan for each 1 % increase in the reversion rate to show that the treatment group had a better economic advantage. With regard to the incidence of diabetes, the cost-effectiveness ratios of the treatment group and the control group were 2,037,824.8 and 1,144,201.0, so the control group was smaller. From the incremental cost-effectiveness ratios, the treatment group needed more than 307,040.6 yuan for each 1 % decrease in the incidence of diabetes, which showed that the control group had a better economic advantage.Table 13The cost-effectiveness analysis in the 12-month intervention period (the incidence of diabetes)GroupC (yuan)E (%)C/EΔC/ΔEThe treatment group21156020.316.51282183.0−188775.1The control group18815209.028.9651045.3Table 14The cost-effectiveness analysis in the 24-month period (reversion rate)GroupC(yuan)E (%)C/EΔC/ΔEThe treatment group41367830.845.1917246.8The control group37529823.2301250994.1254172.7
 
 BODY.METHODS.SENSITIVITY ANALYSIS:
-Cost-effectiveness results were most sensitive to the drug prices and resident incomes. Assuming that prices and resident incomes rose 5 %, the sensitivity analysis shows that the two group affected by the parameters changed little (Tables 16, 17, 18, and 19).Table 15The cost-effectiveness analysis in the 24-month period (the incidence of normal blood glucose)
+Cost-effectiveness results were most sensitive to the drug prices and resident incomes. Assuming that prices and resident incomes rose 5 %, the sensitivity analysis shows that the two group affected by the parameters changed little (Tables 16, 17, 18, and 19).Table 15The cost-effectiveness analysis in the 24-month period (the incidence of normal blood glucose)GroupC (yuan)E (%)C/EΔC/ΔEThe treatment group41367830.820.32037824.8−307040.6The control group37529823.232.81144201.0
+C the total costs, C/E the cost-effectiveness ratio, ΔC/ΔE the incremental cost-effectiveness ratioTable 16The cost-effectiveness analysis in the 12-month intervention period (the reversion rate)GroupC (yuan)E (%)C/EΔC/ΔEThe treatment group22967057.641.8549451.1The control group20425193.327.8734719.2181561.7Table 17The cost-effectiveness analysis in the 12-month intervention period (the incidence of diabetes)GroupC (yuan)E (%)C/EΔC/ΔEThe treatment group22967057.616.51391942.9−204989.1The control group20425193.328.9706754.1Table 18The cost-effectiveness analysis in the 24-month period (the reversion rate)GroupC (yuan)E (%)C/EΔC/ΔEThe treatment group44911142.241.1995812.5The control group40740835.2301358027.8276179.3Table 19The cost-effectiveness analysis in the 24-month period (the incidence of diabetes)GroupC (yuan)E (%)C/EΔC/ΔEThe treatment group44911142.220.32212371.5−333624.6The control group40740835.232.81242098.6
 
 BODY.RESULTS:
 The outcomes of the study contained two sections, namely, clinical outcomes and cost-effectiveness analysis outcomes.  The clinical outcomes revealed that the treatment group and control group showed no significant statistical differences (P > 0.05) in baseline values. The JinQi Jiangtang tablet effectively reduced the incidence of diabetes mellitus and enhanced the reversion rate. Compared with the control group (P < 0.05), the scores of the SF-36 of the two groups showed no significant difference (P > 0.05), and the compliance of participants showed no significant difference between the two groups.  With regard to the cost-effectiveness analysis outcomes, in the 12-month intervention period, for reversion rate, the treatment group had a better economic advantage according to the cost-effectiveness ratio and the incremental cost-effectiveness ratio. Regarding the incidence of diabetes, the control group had a better economic advantage according to the cost-effectiveness ratio and the incremental cost-effectiveness ratio. In the 24-month period, with regard to the reversion rate, the treatment group had a better economic advantage according to the cost-effectiveness ratio and the incremental cost-effectiveness ratio, and for the incidence of diabetes, the control group had a better economic advantage according to the cost-effectiveness ratio and the incremental cost-effectiveness ratio. Furthermore, these outcomes remained the same when assessed with sensitivity analysis. Assuming that prices and resident incomes rose 5 %, the sensitivity analysis shows that the two groups affected by the parameters changed little.

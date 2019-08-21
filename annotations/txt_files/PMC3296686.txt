@@ -10,7 +10,7 @@ ABSTRACT.CONCLUSION/SIGNIFICANCE:
 This is the first documentation that Pioglitazone decreases the serum HCV RNA titers independently of PEG-Interferon-α2/ribavirin treatment. The novel findings of our Study provide the foundation for basic and clinical investigations on the molecular mechanisms responsible for the Pioglitazone-induced decrease in HCV genotype 4 RNA titers.
 
 ABSTRACT.TRIAL REGISTRATION:
- xmlns:ns0="http://www.w3.org/1999/xlink">ClinicalTrials.gov NCT01157975
+ClinicalTrials.gov NCT01157975
 
 
 BODY.INTRODUCTION:
@@ -50,7 +50,7 @@ BODY.METHODS.BLINDING:
 Whereas patients and physicians allocated to the intervention groups were aware of the allocated arm, outcome assessors and data analysts of primary and secondary end-points were kept blinded to the allocation.
 
 BODY.METHODS.STATISTICAL METHODS:
- xmlns:ns0="http://www.w3.org/1999/xlink">An intention-to-treat analysis was conducted in patients who had received ≥1 dose of study medication. The primary and secondary endpoints were assessed with a paired-sample t-test. We also explored correlations between IL8 and TNFα using Pearson's correlation coefficient with 95% confidence intervals. The significance level was fixed at α = 5% for all tests. All analyses were carried using R version 2.12.2 (2011 Vienna, Austria; http://www.R-project.org).
+An intention-to-treat analysis was conducted in patients who had received ≥1 dose of study medication. The primary and secondary endpoints were assessed with a paired-sample t-test. We also explored correlations between IL8 and TNFα using Pearson's correlation coefficient with 95% confidence intervals. The significance level was fixed at α = 5% for all tests. All analyses were carried using R version 2.12.2 (2011 Vienna, Austria; http://www.R-project.org).
 
 BODY.RESULTS.PARTICIPANT FLOW:
 The optimal subjects' recruitment number was pre-determined by sample size and power analysis as described above. One hundredth and five consecutive patients with chronic Hepatitis C genotype 4 referred to the Hepatology Clinic were assessed for eligibility (
@@ -59,7 +59,7 @@ Fig. 1
 Fig. 1
 ). The randomized groups that received the allocated intervention were balanced in regards to age, gender, HCV genotype and titers and the severity of their liver disease (
 Table 1
-).   10.1371/journal.pone.0031516.t001 Table 1 Baseline demographic and clinical characteristics of treated subjects. Pioglitazone (N = 10) Prednisone (N = 10) 
+).  10.1371/journal.pone.0031516.g001Figure 1Participant Flow.Patients with chronic Hepatitis C genotype 4 referred to the Hepatology Clinic were assessed for eligibility as described in Methods.   10.1371/journal.pone.0031516.t001 Table 1 Baseline demographic and clinical characteristics of treated subjects. Pioglitazone (N = 10) Prednisone (N = 10) 
  P value 
  
  Age  (years) 44 (9.3) 42(10.4) 0.592 
@@ -334,3 +334,9 @@ Tables 6
 
 10
 ). The lack of changes in IL-28B (IFN-γ3) is relevant since genetic variation in IL-28B affects the spontaneous clearance of HCV in patients [35].  Our study has some limitations: i] there were, as expected, clinically modest decreases in HCV RNA at day-14 in the Pioglitazone group; ii] the relatively small cohort could introduce potential biases; and iii] the findings may not be applicable for patients with HCV genotype 4 in other ethnic groups  It remains to be elucidated whether the effects of Pioglitazone also occur in HCV genotype 4 infections in previously treated patients. The novel findings of our Study provide the foundation for basic and clinical investigations on the molecular mechanisms responsible for the Pioglitazone-induced decrease in HCV genotype 4 RNA titers. Future research should characterize whether the effects of Pioglitazone on HCV genotype 4 RNA titers are mediated indirectly by insulin signaling pathways or directly by affecting HCV genotype 4 hepatocyte entry and/or replication.
+
+BODY.SUPPORTING INFORMATION:
+Checklist S1
+CONSORT Checklist. CONSORT 2010 checklist of information to include when reporting a randomised trial.(DOC)Click here for additional data file.  Protocol S1
+Trial Protocol.
+(DOC)Click here for additional data file.

@@ -149,7 +149,37 @@ BODY.EXPERIMENTAL METHODS.STATISTICAL ANALYSES.SUBGROUP ANALYSIS BY COMPLIANCE:
 A small number of women (n 9) in the Se-treated group took very few tablets ( ≤ 23 %). All the other women took 60 % or more of those they could have taken (expressed as a percentage of the number of days between starting treatment and the delivery of the baby); hence, the forward logistic regression modelling was repeated after excluding Se-treated women who took < 60 % of their treatment pills.  Significance was set at P< 0·05, and analyses were conducted using the Statistical Package for the Social Sciences (version 21.0; SPSS, Inc.).
 
 BODY.RESULTS.SELENIUM STATUS.BASELINE MEASUREMENTS:
-Selenium status in UK pregnant women at 12 (baseline), 20 and 35 weeks of gestation (Median values and ranges)  Correlation between whole-blood selenium concentration at 12 weeks and toenail selenium concentration at 16 weeks (Spearman's ρ = 0·450, P< 0·001) in UK pregnant women.  Toenail Se concentration was significantly negatively, albeit weakly, correlated with DBP at baseline (Spearman's ρ = − 0·135, P= 0·047).
+Toenail Se concentration (16 weeks) and pre-treatment GPx3 activity (12 weeks) are presented in Table 1. There were no significant differences observed between the two treatment groups at baseline. Previously published(
+
+9
+
+) pre-treatment values of whole-blood Se concentration (12 weeks) in the same study are also presented in Table 1 to complete the dataset of Se status.Table 1Selenium status in UK pregnant women at 12 (baseline), 20 and 35 weeks of gestation (Median values and ranges)
+
+
+Measurements
+
+
+
+All participantsPlacebo groupSe group
+ParametersWomen (n)Week of gestationMedianRangeMedianRangeMedianRange
+P
+† (placebo group v. Se group)Whole-blood Se concentration (μmol/l)‡
+229121·310·84–3·331·320·84–2·191·310·95–3·330·565Toenail Se concentration (μg/g)§
+218160·610·46–1·110·600·46–1·100·620·46–1·110·387GPx3 activity (units/l)2271272·442·5–141·972·052·6–138·872·742·5–141·90·601GPx3 activity (units/l)22120NA75·446·6–113·878·2*43·9–169·70·225GPx3 activity (units/l)21535NA73·447·3–126·875·4**42·4–139·30·125Whole-blood Se concentration (μmol/l)‡
+21535NA1·16***0·69–2·151·87***1·05–3·73< 0·0001Plasma SEPP1 concentration (mg/l)‡
+21535NA3·000·90–5·805·302·40–7·40< 0·0001GPx3, plasma glutathione peroxidase; NA, not applicable; SEPP1, selenoprotein P.*P value for difference in GPx activity in Se group by Wilcoxon matched pairs test (12 v. 20 weeks) = 0.025; **P value for difference in GPx activity in Se group by Wilcoxon matched pairs test (12 v. 35 weeks) = 0.014; ***P value for difference in whole-blood Se in placebo and Se groups by Wilcoxon matched pairs test (12 v. 35 weeks) < 0.0001.†
+P values were obtained from the Mann–Whitney U test comparing the differences between the treatment groups.‡Previously published data from the same study(
+
+9
+
+). The P value for whole-blood Se concentration at 12 weeks differs from that reported in Rayman et al.
+(
+
+9
+
+) where data were log-transformed and a parametric test was used.§Toenails were clipped at approximately 16 weeks of gestation so Se concentration in clippings would have been unaffected by Se treatment and reflects pre-pregnancy status.
+  Baseline whole-blood Se concentration (12 weeks) was significantly correlated with the concentration of Se in toenails clipped at 16 weeks (Spearman's ρ = 0·447, P< 0·001), as shown in Fig. 1, but not with GPx3 activity measured at 12 weeks (Spearman's ρ = 0·042, P= 0·533).Fig. 1Correlation between whole-blood selenium concentration at 12 weeks and toenail selenium concentration at 16 weeks (Spearman's ρ = 0·450, P< 0·001) in UK pregnant women.
+  Toenail Se concentration was significantly negatively, albeit weakly, correlated with DBP at baseline (Spearman's ρ = − 0·135, P= 0·047).
 
 BODY.RESULTS.SELENIUM STATUS.EFFECT OF TREATMENT ON SELENIUM STATUS AND PLASMA GLUTATHIONE PEROXIDASE ACTIVITY:
 
@@ -160,13 +190,246 @@ Table 1 presents the data for GPx3 activity measured at 20 and 35 weeks. Previou
 ) Se concentration in whole blood at 35 weeks and SEPP1 concentration in plasma at 35 weeks following treatment with Se or placebo are also presented for completeness.  There was no significant difference observed in GPx3 activity between the Se-treated and placebo groups at either 20 or 35 weeks. However, using the Wilcoxon matched-pair test, GPx3 activity increased in the Se-treatment group only, from 12 to 20 weeks (P= 0·025) and from 12 to 35 weeks (P= 0·014), although there was no further increase in the activity from 20 to 35 weeks (P= 0·219).
 
 BODY.RESULTS.SELENIUM STATUS.EFFECT OF DEMOGRAPHIC AND DIETARY FACTORS ON SELENIUM STATUS:
-Baseline whole-blood Se and toenail Se concentrations were significantly correlated, though weakly, with maternal age (Spearman's ρ = 0·18, P= 0·006 and ρ = 0·16, P= 0·018, respectively) and with age at which the education of the mother ceased (Spearman's ρ = 0·17, P= 0·009 and ρ = 0·20, P= 0·004, respectively).  Predictors of selenium status (Number of women; median values and interquartile ranges)  Whole-blood and toenail Se concentrations were significantly higher in consumers of Brazil nuts (P= 0·005 and P= 0·03, respectively); however, after adjusting for demographic factors, the difference in toenail Se concentration lost significance. Women who reported consuming at least two portions of seafood (white fish, oily fish or other seafood) per week had a significantly higher concentration of Se in both whole blood and toenails (P= 0·001 for each); the significance disappeared after adjustment, but remained close to significance for whole-blood Se concentration (P= 0·054). Intake of dairy products, meat and poultry, or liver did not significantly affect Se status (whole blood and toenails). Although intake of cows' milk was associated with toenail Se status, this association lost significance after adjustment.
+Baseline whole-blood Se and toenail Se concentrations were significantly correlated, though weakly, with maternal age (Spearman's ρ = 0·18, P= 0·006 and ρ = 0·16, P= 0·018, respectively) and with age at which the education of the mother ceased (Spearman's ρ = 0·17, P= 0·009 and ρ = 0·20, P= 0·004, respectively).  The effect of other demographic and dietary factors on Se status is summarised in Table 2. Women who were classified as middle class and above had a significantly higher Se status as measured in both whole blood and toenails than those classified as lower middle class and below. Se status was not significantly affected by smoking status (never smoker or ex-smoker), ethnicity or BMI.Table 2Predictors of selenium status (Number of women; median values and interquartile ranges)
+12-week whole-blood Se (μmol/l)Toenail Se (μg/g)
+Women (n)MedianInterquartile range
+P
+Adjusted P
+*
+Women (n)MedianInterquartile range
+P
+Adjusted P
+*
+Demographic factors
+
+
+
+
+
+
+
+
+
+Social class
+
+
+
+
+
+
+
+
+
+Middle and above1011·331·22–1·480·027NA†
+980·630·59–0·690·004NA†
+Lower middle and below1281·301·14–1·45
+
+1200·600·55–0·65
+
+Smoking status
+
+
+
+
+
+
+
+
+
+Never smoked1561·321·19–1·470·529NA†
+1480·610·57–0·670·261NA†
+Ex-smoker731·301·18–1·46
+
+700·610·54–0·66
+
+Ethnicity
+
+
+
+
+
+
+
+
+
+Caucasian2131·311·18–1·470·438NA†
+2020·610·56–0·670·869NA†
+Other161·341·25–1·48
+
+160·620·55–0·63
+
+BMI
+
+
+
+
+
+
+
+
+
+< 25 kg/m2
+1381·351·19–1·480·183NA†
+1310·610·56–0·670·841NA†
+≥ 25 kg/m2
+911·291·16–1·44
+
+870·610·56–0·68
+
+Dietary factors
+
+
+
+
+
+
+
+
+
+Seafood
+
+
+
+
+
+
+
+
+
+< 2 portions/week981·271·14–1·410·0100·054950·590·54–0·650·0120·078≥ 2 portions/week1211·361·21–1·48
+
+1180·630·57–0·69
+
+Meat
+
+
+
+
+
+
+
+
+
+< 7 portions/week1081·331·19–1·470·5400·2991070·610·56–0·660·7290·610≥ 7 portions/week1111·301·16–1·46
+
+1060·610·56–0·68
+
+Brazil nuts
+
+
+
+
+
+
+
+
+
+Non-consumer1931·301·16–1·460·0050·0401870·600·56–0·660·0340·147Consumer261·401·31–1·61
+
+260·660·60–0·72
+
+Offal (liver)
+
+
+
+
+
+
+
+
+
+Non-consumer1821·311·18–1·470·5830·7651760·610·56–0·660·7020·804Consumer371·351·22–1·45
+
+370·620·56–0·72
+
+Dairy products
+
+
+
+
+
+
+
+
+
+≤ 1 portion/d1101·301·16–1·450·4230·6721070·610·56–0·670·9160·112>1 portion/d1091·321·19–1·48
+
+1060·610·57–0·67
+
+Cows' milk
+
+
+
+
+
+
+
+
+
+< 280 ml/d1461·321·18–1·460·9200·9831440·600·56–0·660·0160·083≥ 280 ml/d731·321·21–1·46
+
+690·630·57–0·70
+
+NA, not applicable.*Conducted on log-transformed Se variables; a series of general linear models were constructed where each individual dietary factor was entered into a separate model, with maternal age, age at which the education of the mother ceased and social class (dichotomised) being confounders.†Demographic factors were used to adjust the P values for the dietary factors only.
+  Whole-blood and toenail Se concentrations were significantly higher in consumers of Brazil nuts (P= 0·005 and P= 0·03, respectively); however, after adjusting for demographic factors, the difference in toenail Se concentration lost significance. Women who reported consuming at least two portions of seafood (white fish, oily fish or other seafood) per week had a significantly higher concentration of Se in both whole blood and toenails (P= 0·001 for each); the significance disappeared after adjustment, but remained close to significance for whole-blood Se concentration (P= 0·054). Intake of dairy products, meat and poultry, or liver did not significantly affect Se status (whole blood and toenails). Although intake of cows' milk was associated with toenail Se status, this association lost significance after adjustment.
 
 BODY.RESULTS.HYPERTENSIVE CONDITIONS OF PREGNANCY:
 Data on pregnancy outcome were available for 227 women, twenty of whom developed a hypertensive condition (PE n 11 and PIH n 9).
 
 BODY.RESULTS.HYPERTENSIVE CONDITIONS OF PREGNANCY.FACTORS AFFECTING THE DEVELOPMENT OF PREGNANCY-INDUCED HYPERTENSION/PRE-ECLAMPSIA:
-Unadjusted and adjusted risk factors for the development of pre-eclampsia (PE)/pregnancy-induced hypertension (PIH) determined by logistic regression (Odds ratios and 95 % confidence intervals).  Based on adjusted model 2 (Table 3), women with 1 mm Hg higher DBP at baseline were 1·12 times more likely to develop PE/PIH than other women, those with 0·1 μg/g higher toenail Se concentration were only 0·32 times as likely to develop PE/PIH than other women, and those who consumed 60 % or more of their Se tablets were only 0·30 times as likely to develop PE/PIH than women who took placebo.  The median toenail Se concentration in women who developed PE/PIH was significantly lower than that in other women (0·57, range 0·46–0·64 v. 0·61, range 0·46–1·11; P= 0·004).
+We explored the effect of a number of relevant factors on the risk of developing PE/PIH. DBP, maternal age, history of PE in mother or sister, and BMI are known risk factors for the development of PE or PIH(
+
+7
+
+). We also investigated the effect of parameters of Se status (whole-blood Se concentration at 12 and 35 weeks, toenail Se concentration at 16 weeks, and SEPP1 concentration at 35 weeks) and treatment (Se v. placebo). Logistic regression on risk factors assessed individually showed that DBP, BMI and toenail Se concentration were the only factors that significantly affected the combined PE/PIH outcome; both SEPP1 concentration and treatment failed to reach significance (see Table 3). Although social class was significantly associated with 12-week whole-blood Se and toenail Se concentrations (Table 2), it was not significantly associated with PE/PIH (P= 0·396) and was therefore excluded from the model. When a stepwise model was run with only significant or near-significant factors entered into the model (SEPP1 was excluded as it was highly associated with treatment: mean 5·13 v. 2·95 mg/l for the Se-treated and placebo groups, respectively, P< 0·0005), baseline DBP (OR 1·10, 95 % CI 1·03, 1·18), BMI (OR 1·13, 95 % CI 1·00, 1·27) and toenail Se concentration (OR 0·38, 95 % CI 0·17, 0·87) remained significant, with treatment again failing to reach significance (P= 0·067) (adjusted model 1; Table 3). However, when the model was rerun after the non-compliers were excluded (i.e. Se-treated women who took < 60 % of their treatment pills; for explanation see the Experimental methods section), treatment (Se v. placebo) became significant (OR 0·297, 95 % CI 0·089, 0·995, P= 0·049) (adjusted model 2; Table 3).Table 3Unadjusted and adjusted risk factors for the development of pre-eclampsia (PE)/pregnancy-induced hypertension (PIH) determined by logistic regression (Odds ratios and 95 % confidence intervals).
+Unadjusted model*
+Adjusted model 1†
+Adjusted model 2‡
+Risk factorsWomen (n)OR95 % CI
+P
+Women (n)Adjusted OR95 % CI
+P
+Women (n)Adjusted OR95 % CI
+P
+Baseline diastolic BP2271·141·07, 1·21< 0·00052171·101·03, 1·180·0052101·121·04, 1·200·002BMI (kg/m2)2271·201·09, 1·32< 0·00052171·131·00, 1·270·0492101·080·96, 1·220·214Toenail Se, 16 weeks (μg/g)∥
+2170·340·164, 0·720·0052170·380·17, 0·870·0212100·320·13, 0·780·013Treatment (Se v. placebo)2270·390·15, 1·060·0662170·350·11, 1·080·0672100·300·09, 1·000·049Age (years)2270·990·88, 1·100·818
+NA§
+
+
+NA§
+
+History of PE in mother2270·670·08, 5·380·710
+NA§
+
+
+NA§
+
+History of PE in sister2271·760·20, 15·420·608
+NA§
+
+
+NA§
+
+Whole-blood Se, 12 weeks (μmol/l)2270·810·13, 5·000·816
+NA§
+
+
+NA§
+
+Whole-blood Se, 35 weeks (μmol/l)2150·390·13, 1·220·106
+NA§
+
+
+NA§
+
+SEPP1, 35 weeks (mg/l)2150·720·51, 1·010·060
+NA§
+
+
+NA§
+
+BP, blood pressure; NA, not applicable; SEPP1, selenoprotein P.*Risk factors for the development of PE/PIH assessed individually by logistic regression.†Optimal model of risk factors for the development of PE/PIH assessed by forward logistic regression, including diastolic BP, BMI, toenail Se concentration and treatment.‡Optimal model of risk factors for the development of PE/PIH as in model 1, but excluding those Se-treated women who took < 60 % of their treatment pills.§Variable was not selected in the stepwise analysis.∥Variable multiplied by 10 for scaling purposes.
+  Based on adjusted model 2 (Table 3), women with 1 mm Hg higher DBP at baseline were 1·12 times more likely to develop PE/PIH than other women, those with 0·1 μg/g higher toenail Se concentration were only 0·32 times as likely to develop PE/PIH than other women, and those who consumed 60 % or more of their Se tablets were only 0·30 times as likely to develop PE/PIH than women who took placebo.  The median toenail Se concentration in women who developed PE/PIH was significantly lower than that in other women (0·57, range 0·46–0·64 v. 0·61, range 0·46–1·11; P= 0·004).
 
 BODY.DISCUSSION.BASELINE SELENIUM STATUS:
 We chose to measure whole-blood Se concentration rather than serum/plasma Se concentration, as it is a longer-term measure of Se status and therefore less subject to day-to-day variation. However, this means that we have far fewer pregnancy data with which to compare our values. There is only one reported first-trimester value of approximately (read from a graph) 1 μmol/l(

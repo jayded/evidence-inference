@@ -13,7 +13,7 @@ ABSTRACT.CONCLUSION:
 In the hypertensive patients, dexmedetomidine premedication provides better hemodynamic stability compared with midazolam, and because it decreases the antihypertensive requirements, its use might be beneficial.
 
 ABSTRACT.TRIAL REGISTRATION:
- xmlns:ns0="http://www.w3.org/1999/xlink">Trial registration: Clinicaltrials.gov identifier: NCT02058485.
+Trial registration: Clinicaltrials.gov identifier: NCT02058485.
 
 BODY.BACKGROUND:
 Hypertension is the most common concomitant disease that we encounter in the practice of anesthesia. In hypertensive patients, excessive reduction in blood pressure is observed after anesthetic induction, while excessive increases in blood pressure are seen under stresses such as intubation, laryngoscopy, surgical incision and extubation. A decrease of greater than 20% in blood pressure can precipitates myocardial ischemia; decreases in diastolic blood pressure in particular can cause declines in both cerebral and myocardial perfusion. Elevations in blood pressure may cause myocardial ischemia and infarction by increasing cardiac work. Perioperative and postoperative complications in hypertensive patients are similar to those in normotensive patients [1–5]. However, in a study that evaluated 17,638 patients who had shown side effects such as hypotension and arrhythmias more frequently than not experienced major complications such as death and perioperative myocardial infarction in outpatient hypertensive procedures [6].  In the American College of Cardiology and the American Heart Association (ACC/AHA) guidelines for perioperative cardiovascular assessment, the usage of α-2 agonists, such as clonidine, is suggested in the treatment of perioperative hypertension, particularly in the presence of coronary disease. Furthermore, a limited number of studies have evaluated the usage of dexmedetomidine [7, 8]. Dexmedetomidine is 1600 times more selective to α-2 receptors than to α-1 receptors (clonidine, 200:1), and this high selectivity contributes to increases in hypnotic and analgesic efficacies and decreases in cardiovascular side effects [9, 10]. Potentially desirable effects include decreased requirements for other anesthetics and analgesics, a diminished sympathetic response to stress and the potential for cardioprotective effects against myocardial ischemia, along with minimal effects on respiration [11]. Currently, dexmedetomidine is being used in both the operating room and diagnostic and procedure units in adult patients for sedation and analgesic effects [12–16].  Some studies have compared dexmedetomidine versus midazolam for sedation in critical patients in the intensive care unit (ICU) setting [17]. However, we did not find a study comparing the usage of dexmedetomidine and midazolam for premedication in hypertensive patients in the literature. In our previous study comparing dexmedetomidine and midazolam for sedation during endoscopy, we observed more hemodynamic stability with dexmedetomidine, particularly in hypertensive patients [18]. Because of this observation, we designed this study with the hypothesis that the use of dexmedetomidine would provide better hemodynamic stability and would thus reduce the need for antihypertensive drugs in hypertensive patients for premedication during anesthetic management.
@@ -31,7 +31,7 @@ BODY.METHODS.STATISTICAL ANALYSIS:
 Based on similar conducted studies, a change in heart rate by 10 beat/min had clinical significance in 4 groups [19]. Additionally, the pooled variance from the groups was determined to be approximately 12. Based on this information, the required sample size was calculated to be 30 for each group (total 120 patients) for a type I error of 0.05 with a statistical power of 80%. The groups were compared in terms of the patients' clinical and demographic features, and the data were analysed with one-way variance analyses. To determine the categorical features of patients and their relationship to the group proper, x2 analyses (Likelihood Ratio or Pearson) were conducted. Because the initial measurements of hemodynamic parameters among the groups were significantly different, an adjustment was made by emitting the initial values from the values of the measurement period. After the adjustment, new values of the groups were compared by one-way variance analyses. Additionally, the separate periodic changes in the 4 groups were analysed by one-way repeated measures analysis of variance. A P < 0.05 was accepted as significant.
 
 BODY.RESULTS:
-
+A total of 140 patients were enrolled, but only data from 119 patients were analysed in the study. (Group ND, n = 29; Group HD, n = 30; Group NM, n = 30; Group HM, n = 30) (Figure 1). There were no significant differences in age, weight, duration of operation and duration between induction and the start of surgery among the groups (Table 1). A comparison of ASA physical status revealed a significant difference among the groups (P = 0.006). The reason for this difference was that all of the patients in the hypertensive groups (Groups HD and HM) were assessed as ASA II, while some patients in the normotensive groups (Groups ND and NM) were assessed as ASA I.Figure 1
 CONSORT (Consolidated standards of reporting trials) flow diagram of the study.
    Table 1 
  Demographic and clinical data of the study 
@@ -60,10 +60,36 @@ CONSORT (Consolidated standards of reporting trials) flow diagram of the study.
  0 0 3 17 0.007 * 
  Values are displayed as means ± standard deviations, numbers, and percentages. *p < 0.05 compared between groups.   The amount of propofol required for induction was significantly different among the groups (P = 0.036). The propofol requirements were highest in Group HM and lowest in Group ND.  The perioperative requirement for antihypertensive drugs was significantly higher in Group HM (P = 0.007) (Table 1).  Regarding side effects, dry mouth was observed most commonly in Group HD, followed by Group ND (P < 0.001). The incidence of bradycardia was highest in Group HD, followed by Group ND (P < 0.001). There was no significant difference in atropine usage among the groups (P = 0.530). Respiratory depression was not observed (Table 2).Table 2
 Incidence of side effects
+ND (n = 29)HD (n = 30)NM (n = 30)HM (n = 30)p
+Dry mouth [n (%)]
+7 (24)a,b
+12 (40)b
+2 (7)a
+1 (3)a
+<0.001*
 
+Bradycardia [n (%)]
+1 (38)a,b
+18 (60)b
+3 (10)a
+4 (13)a
+<0.001*
+
+Respiratory depression [n (%)]
+0 (0)a
+0 (0)a
+0 (0)a
+0 (0)a
+1
+Rescue atropine [n (%)]
+3 (10)a
+4 (13)a
+1 (3)a
+2 (7)a
+0.503Values are displayed as percentages. *P < 0.05 compared between groups. In each row, same letters near the proportions were shown not statisticaly significant differences between groups.
 
 BODY.RESULTS.COMPARISON OF HEMODYNAMIC DATA:
-There were significant differences in the initial values of SBP, DBP and MBP (Tbeginning) among the groups. These differences were due to the hypertensive and normotensive groups. The hemodynamic comparisons were performed after these initial differences were removed statistically.  
+There were significant differences in the initial values of SBP, DBP and MBP (Tbeginning) among the groups. These differences were due to the hypertensive and normotensive groups. The hemodynamic comparisons were performed after these initial differences were removed statistically.  SBP was significantly different between the normotensive and hypertensive groups at the following time points: premedication 5th min (Tpreop 5 min,P < 0.001), premedication 10th min (Tpreop 10 min, P = 0.002), induction (Tinduction, P < 0.001), intubation 1st min (Tintubation, P < 0.001), intubation 5th min (Tintubation5 min, P < 0.001) and initial surgery (Tinitial surgery, P < 0.001). The mean values of SBP at Tpreop 5 min, Tpreop 10 min and Tinduction were significantly reduced in the hypertensive groups. In particular, a marked reduction was noted in Group HM after induction. The mean values of SBP at Tintubation, Tintubation 5 min and Tinitial surgery were significantly increased in the normotensive groups, particularly in Group NM. There were significant differences at 15 min of surgery (Tsurgery 15 min) and 30 min of surgery (Tsurgery 30 min) between the normotensive and hypertensive groups, but no significance between the hypertensive groups. Nevertheless, there were significant differences at 1 min after extubation (Textubation) and 5 min after extubation (Textubation 5 min) between Groups HD and HM. (Textubation,P = 0.018 and Textubation 5 min,P < 0.001). Considering the averages, a minimum increase was observed in Group HD (Figure 2).Figure 2
 Hemodynamic means of groups.
   DBP values did not differ significantly between the groups at the different time points. However, the mean value of DBP at Tpreop 5 min was significantly decreased in Group HM (HM-ND P = 0.005; HM-NM P = 0.023; HM-HD P = 0.029). In particular, a marked reduction was noted after induction (Tinduction) in the hypertensive groups (HD-ND P = 0.008; HD-NM P = 0.02; HM-ND P = 0.009; HM-NM P = 0.023). The values were significantly higher in Group NM at Tinitial surgery, Tsurgery 15 min and Tsurgery 30 min (Figure 2).  MBP significantly decreased in Group HM at Tpreop 5 min and Tpreop 10 min. In addition, MBP was significantly lower in the hypertensive groups at the other time points (Tinduction, Tintubation, Tintubation 5 min, Tinitial surgery, Tsurgery 15 min, Tsurgery 30 min, Textubation and Textubation 5 min) (Figure 2).  There was a significant difference in the initial values of HR (Tbeginning) in Group ND (P = 0.009). The evaluation was performed after this initial difference was removed statistically. HR significantly decreased in the dexmedetomidine groups (Groups HD and ND), at the premedication time points (Tpreop 5 min and Tpreop 10 min). When the mean values were compared, Group HD had the largest decrease. Additionally, there were significant reductions in HR at Tinduction, Tintubation, Tintubation 5 min, Tinitial surgery, Tsurgery 15 min, Tsurgery 30 min, Textubation and Textubation 5 min in Group HD (Figure 2).
 
