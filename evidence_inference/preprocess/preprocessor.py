@@ -1,4 +1,6 @@
-from collections import OrderedDict
+from collections import OrderedDict, namedtuple
+from typing import List
+import logging
 import os 
 
 import pandas as pd 
@@ -15,6 +17,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from evidence_inference.preprocess.sentence_split import find_span_location, split_into_sentences, gen_exact_evid_array
 from evidence_inference.preprocess.article_reader import TableHTMLParser
 import evidence_inference.preprocess.article_reader as article_reader
+logging.basicConfig(level=logging.DEBUG, format='%(relativeCreated)6d %(threadName)s %(message)s')
+logger = logging.getLogger(__name__)
 parser = TableHTMLParser()
 
 # this monstrosity points us to a root directory relative to this file
@@ -22,7 +26,12 @@ annotation_root = os.path.abspath(os.path.join(__file__, "..", "..", "..", "anno
 anno_csv_path = os.path.join(annotation_root, "annotations_merged.csv")  # "pilot_run_data/annotations.csv"
 prompts_csv_path = os.path.join(annotation_root, "prompts_merged.csv")  # "pilot_run_data/prompts.csv"
 base_XML_path = os.path.join(annotation_root, "xml_files")
+base_TXT_path = os.path.join(annotation_root, "txt_files")
+base_ABS_path = os.path.join(annotation_root, "abstracts")
 _train_id_file, _validation_id_file, _test_id_file = [os.path.join(annotation_root, 'splits', d) for d in ['train_article_ids.txt', 'validation_article_ids.txt', 'test_article_ids.txt']]
+_ev1_train_id_file, _ev1_validation_id_file, _ev1_test_id_file = [os.path.join(annotation_root, 'splits', d) for d in ['ev1_train_article_ids.txt', 'ev1_validation_article_ids.txt', 'ev1_test_article_ids.txt']]
+_ev2_train_id_file, _ev2_validation_id_file, _ev2_test_id_file = [os.path.join(annotation_root, 'splits', d) for d in ['ev2_train_article_ids.txt', 'ev2_validation_article_ids.txt', 'ev2_test_article_ids.txt']]
+all_files = set([_train_id_file, _validation_id_file, _test_id_file, _ev1_train_id_file, _ev1_validation_id_file, _ev1_test_id_file, _ev2_train_id_file, _ev2_validation_id_file, _ev2_test_id_file])
 
 if not all(os.path.exists(x) for x in [anno_csv_path, prompts_csv_path, base_XML_path]):
     raise RuntimeError("One of {} does not exist".format([anno_csv_path, prompts_csv_path, base_XML_path]))
@@ -60,19 +69,61 @@ def read_in_articles(article_ids=None):
 
     return articles
 
+def get_text_article_(article_id, abstract=False):
+    if abstract:
+        name = f'PMC{article_id}.abst'
+        base = base_ABS_path
+        ext = 'abst'
+    else:
+        name = f'PMC{article_id}.txt'
+        base = base_TXT_path
+        ext = 'txt'
+    text = get_text_article(article_id, base=base, ext=ext)
+    if text is None:
+        return None
+    return article_reader.TextArticle(name=name, text=text, article_id=article_id)
+
+def get_text_article(article_id, base=base_TXT_path, ext='txt') -> str:
+    name = f'PMC{article_id}.{ext}'
+    txt_path = os.path.join(base, name)
+    if not os.path.exists(txt_path):
+        logging.warn(f'Article {article_id} not found at {txt_path}')
+        return None
+    with open(txt_path, 'r') as inf:
+        return inf.read()
+
+def read_in_text_articles(article_ids=None, abstracts=False) -> List[str]:
+    anno_df = pd.read_csv(anno_csv_path)
+    if abstracts:
+        anno_df = anno_df[anno_df['In Abstract']]
+    unique_article_ids = anno_df[STUDY_ID_COL].unique()
+
+    articles = []
+    for article_id in unique_article_ids:
+        if article_ids is None or article_id in article_ids:
+            text_article = get_text_article_(article_id, abstract=abstracts)
+            if text_article is not None:
+                articles.append(text_article)
+            #articles.append((article_id, get_text_article(article_id)))
+
+    return articles
 
 def extract_raw_text(article, sections_of_interest=None):
     if sections_of_interest is None:
         #sections_of_interest = ["results", ""]
         sections_of_interest = article.article_dict.keys()
-   
-    ti_ab = "TITLE: " + article.get_title() + "\n\n"
 
     article_sections = [sec for sec in article.article_dict.keys() if any(
                             [s in sec for s in sections_of_interest])]
     article_body = article.to_raw_str(fields=article_sections)
     
-    raw_text = ti_ab + "  " + article_body
+    if sections_of_interest is None \
+        or 'TITLE' in sections_of_interest \
+        or 'title' in sections_of_interest:
+        ti_ab = "TITLE: " + article.get_title() + "\n\n"
+        raw_text = ti_ab + "  " + article_body
+    else:
+        raw_text = article_body
         
     return raw_text.replace("<p>", "")
 
@@ -133,6 +184,26 @@ def read_prompts():
     return prompts_df 
 
 
+def read_annotations_prompts_documents(article_ids=None, sections_of_interest=None):
+    # this exists because Jay doesn't want anything to do with the inference vectorizer stuff, or really the rest of the codepaths here
+    # TODO add annotator information to this
+    annotation = namedtuple('prompt_id article_id article intervention comparator outcome significance text span')
+    anno_df = read_annotations()
+    prompts_df = read_prompts()
+    articles = dict()
+    if article_ids is None:
+        article_ids = set(anno_df[STUDY_ID_COL].unique())
+    else:
+        article_ids = set(anno_df[STUDY_ID_COL].unique()) & article_ids
+
+    for article_id in article_ids:
+        articles[article_id] = get_article(article_id)
+    
+    for prompt_id, pmcid, outcome, intervention, comparator in prompts_df:
+        annotations_for_prompt = annotations_df[annotations_df[PROMPT_ID_COL_NAME] == prompt_id]
+        labels = annotations_for_prompt[[LBL_COL_NAME,EVIDENCE_COL_NAME]].values
+    
+
 def assemble_Xy_for_prompts(training_prompts, inference_vectorizer, lbls_too=False, annotations=None, sections_of_interest=None, include_sentence_span_splits = False): 
     Xy = []
     for prompt_id in training_prompts[PROMPT_ID_COL_NAME].values:
@@ -145,32 +216,25 @@ def assemble_Xy_for_prompts(training_prompts, inference_vectorizer, lbls_too=Fal
     return Xy
 
 
-def train_document_ids():
-    """ Returns the set of document ids for a fixed training set """
-    with open(_train_id_file, 'r') as tf:
+def _read_ids(f):
+    with open(f, 'r') as tf:
         ids = list(int(x.strip()) for x in tf.readlines())
         ids_dict = OrderedDict()
         for x in ids:
             ids_dict[x] = x
-        return ids_dict.keys()
+        return set(ids_dict.keys())
+
+def train_document_ids():
+    """ Returns the set of document ids for a fixed training set """
+    return _read_ids(_train_id_file)
 
 def validation_document_ids():
     """ Returns the set of document ids for a fixed validation set """
-    with open(_validation_id_file, 'r') as vf:
-        ids = list(int(x.strip()) for x in vf.readlines())
-        ids_dict = OrderedDict()
-        for x in ids:
-            ids_dict[x] = x
-        return ids_dict.keys()
+    return _read_ids(_validation_id_file)
 
 def test_document_ids():
     """ Returns the set of documents for a fixed test set """
-    with open(_test_id_file, 'r') as tf:
-        ids = list(int(x.strip()) for x in tf.readlines())
-        ids_dict = OrderedDict()
-        for x in ids:
-            ids_dict[x] = x
-        return ids_dict.keys()
+    return _read_ids(_test_id_file)
 
 def get_train_Xy(train_doc_ids, sections_of_interest=None, vocabulary_file=None, include_sentence_span_splits = False):
     """ Loads the relevant documents, builds a vectorizer, and returns a list of training instances"""
