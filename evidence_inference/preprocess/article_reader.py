@@ -1,11 +1,5 @@
-
-
 from collections import OrderedDict 
-class OrderedDefaultListDict(OrderedDict):
-    def __missing__(self, key):
-        self[key] = value = [] 
-        return value
-
+import re
 import xml.etree.ElementTree as ET
 from html.parser import HTMLParser
 import ftfy
@@ -13,12 +7,30 @@ import unicodedata
 import lxml.etree as etree
 
 
+class OrderedDefaultListDict(OrderedDict):
+    def __missing__(self, key):
+        self[key] = value = [] 
+        return value
 
 none_to_empty_str = lambda s : "" if s is None else s 
 
 def fmt(s):
     return unicodedata.normalize('NFKD', ftfy.fix_text(s))
 
+class TextArticle:
+
+    def __init__(self, text, name, article_id):
+        self.article_id = str(article_id)
+        self.text = text
+        self.name = name
+
+    def get_pmcid(self):
+        return self.article_id
+
+    def to_raw_str(self, fields=None, join_para_on=" <p> ", join_sections_on="\n\n"):
+        return self.text
+
+# TODO: not that this will ever happen, but article reading, writibng, and conversion should all be separaterd
 class Article:
     '''
     Container class for articles. Responsible for consuming and parsing
@@ -47,6 +59,9 @@ class Article:
 
     def __str__(self):
         return self.get_title()
+
+    def get_pmcid(self):
+        return re.match('.*PMC([0-9]+).nxml', self.id).group(1)
     
     def format_xmlns(self, s, el):
         nsmap_inverse = { v: k for k, v in el.nsmap.items() }
@@ -144,12 +159,13 @@ class Article:
             fields = self.article_dict.keys()
 
         out_str = []
+        title = 'TITLE: ' + self.get_title() + "\n\n  "
         for field in fields: 
             texts = [none_to_empty_str(s) for s in self.article_dict[field]]
             field_text = join_para_on.join(texts)
             out_str.append(field.upper() + ": " + field_text)
             
-        return join_sections_on.join(out_str)
+        return title + join_sections_on.join(out_str)
 
     def _get_abstract_keys(self):
         return [k for k in self.article_dict.keys() if "abstract" in k]
