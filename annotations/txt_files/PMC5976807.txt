@@ -1,0 +1,90 @@
+Introduction
+The high burden of cardiovascular morbidity and mortality in autosomal dominant polycystic kidney disease (ADPKD) is related to development of hypertension and left ventricular hypertrophy. Blood pressure reduction has been shown to reduce left ventricular mass in ADPKD; however, moderators and predictors of response to lower blood pressure are unknown.
+
+Methods
+This was a post hoc cohort analysis of HALT PKD study A, a randomized placebo controlled trial examining the effect of low blood pressure and single versus dual renin−angiotensin blockade in early ADPKD. Participants were hypertensive ADPKD patients 15 to 49 years of age with estimated glomerular filtration rate (eGFR) > 60 ml/min per 1.73 m2 across 7 centers in the United States. Predictors included age, sex, baseline eGFR, systolic blood pressure, total kidney volume, serum potassium, and urine sodium, potassium, albumin, and aldosterone. Outcome was left ventricular mass index (LVMI) measured using 1.5-T magnetic resonance imaging at months 0, 24, 48, and 60.
+
+Results
+Reduction in LVMI was associated with higher baseline systolic blood pressure and larger kidney volume regardless of blood pressure control group assignment (P < 0.001 for both). Male sex and baseline eGFR were associated with a positive annual slope in LVMI (P < 0.001 and P = 0.07, respectively).
+
+Conclusion
+Characteristics associated with higher risk of progression in ADPKD, including higher systolic blood pressure, larger kidney volume, and lower eGFR are associated with improvement in LVMI with intensive blood pressure control, whereas male sex is associated with a smaller slope of reduction in LVMI.
+
+Progressive growth of kidney cysts increases total kidney volume (TKV) in autosomal dominant polycystic kidney disease (ADPKD). The expansion of cysts is associated with angiotensin-dependent hypertension early in the disease course, before kidney function is substantially reduced. Hypertension results in left ventricular enlargement beginning in childhood, progressing to overt left ventricular hypertrophy (LVH) in adulthood, which likely contributes to the substantial cardiovascular morbidity and mortality observed in ADPKD.1, 2, 3, 4 Intensive blood pressure (BP) reduction has been shown to reduce left ventricular mass in a small trial of hypertensive ADPKD patients.5
+The HALT PKD study A was a 2 × 2 factorial, randomized controlled trial that addressed the impact of intensive blockade of the renin−angiotensin−aldosterone system (lisinopril/placebo [angiotensin-converting enzyme inhibitor (ACEi)] vs. lisinopril/telmisartan [ACEi/angiotensin receptor blocker (ACEi/ARB)]) and intensive BP control [95−110/60−75 mm Hg vs. 120−130/70−80 mm Hg]) on TKV in 558 hypertensive subjects with preserved kidney function (estimated glomerular filtration rate [eGFR] >60 ml/min per 1.73 m2) who were 15 to 49 years of age.6 The primary results of HALT PKD have been reported previously, and have demonstrated that intensive BP control but not combined ACEi/ARB slowed the growth of TKV. One of the notable secondary outcomes for this study was that left ventricular mass index (LVMI) measured by cardiac magnetic resonance imaging (MRI) was significantly reduced in the intensive BP group.7
+The HALT study population constitutes the largest cardiac MRI cohort of hypertensive ADPKD patients (total N = 543) to date. Prospective, longitudinal data on the natural evolution of LVMI and factors affecting its response to antihypertensive therapy are lacking. Our primary objective was to evaluate the longitudinal impact of variables, both as moderators and predictors, related to improvement of LVMI with intensive BP control in the HALT PKD study.
+Materials and Methods
+Study Population
+The design and implementation of the HALT PKD study and the baseline characteristics of this population have been reported in detail.6, 7, 8 Briefly, the HALT PKD trials were prospective, randomized, double-blind, placebo-controlled, multicenter, intervention trials testing whether multilevel blockade of the renin−angiotensin−aldosterone system using ACEi plus ARB (lisinopril plus telmisartan) combination therapy would delay progression of renal disease compared to ACEi (lisinopril plus placebo) monotherapy in studies A and B, and whether intensive BP control (95−110/60−75 mm Hg) would delay progression as compared with standard control (120−130/70−80 mm Hg) in study A.
+All HALT participants were hypertensive as defined by current use of antihypertensive medications for BP control or systolic BP of ≥130 mm Hg and/or a diastolic BP of ≥80 mm Hg on 3 separate readings within the year before baseline. Study A participants were 15 to 49 years of age with eGFR >60 ml/min per 1.73 m2 and underwent MRI assessment of LVM, renal blood flow, and total kidney volume at the baseline visit (before study intervention) with follow-up measurements performed at 24, 48, and 60 months. A window of ±2 months was allowed for each time period. The protocol for the HALT study was approved by the institutional review board at each study site. The present article reports on study A participants only, as MRI imaging was not performed in study B.
+
+Cardiac MRI
+A standardized cardiac MRI protocol using 1.5-T MRI scanner was implemented.3 De-identified images were stored in the central image analysis center for the HALT PKD study and evaluated centrally using Analyze software system (Mayo Foundation, Biomedical Imaging Resource, Rochester, MN). The myocardial area was defined as the difference between the left ventricular epicardial and endocardial borders during end diastole with the exclusion of papillary muscles. The myocardial area over the entire left ventricle was used to determine the left ventricular volume. Left ventricular mass (LVM) was calculated as the product of left ventricular volume and specific gravity of myocardium (1.05 g/ml). Indexing of LVM was performed using the Dubois formula (using body surface area), which was previously shown to be the most reliable method in this cohort.3, 9 The upper limit of normal for this study was defined as >84.6 g/m2 for women and >106.2 g/m2 for men using a previously defined 95th percentile of LVM.10
+
+Statistical Methods
+Covariates chosen a priori for analysis included age, sex, baseline eGFR, systolic BP, total kidney volume, serum potassium, and urine sodium, potassium, albumin, and aldosterone. Most of these covariates were significant in the univariate analysis conducted on the baseline measurements.3 We determined whether any baseline covariates moderated the effect of low BP control (vs. standard control) on the slope of LVMI using all available data. Linear mixed models were fit on LVMI as a function of the following predictors: month, month by BP arm interaction, the potential moderator variable, and all resulting 2- and 3-way interactions. If a significant 3-way interaction was found (month by BP arm by moderator), the covariate was classified as a moderator; otherwise the 3-way interaction was removed and the model was rerun to determine whether the 2-way interaction (month by covariate) was significant, indicating the covariate was a nonspecific predictor.
+We also assessed whether the effects of certain time-varying predictors of LVMI could be separated into cross-sectional and longitudinal effects. Using the models described above, we re-parameterized the time-varying covariate into a baseline component (cross-sectional) and a within-participant change from baseline (longitudinal). For example, time-varying systolic BP (SBP) would be further decomposed into baseline SBP and the within-subject difference from the baseline SBP. Linear mixed models were fit with LVMI as a function of the following predictors: month, month by BP arm interaction, the time-varying covariate, and the 2-way interactions between month and each of the cross-sectional and longitudinal components. Of interest is the significance of the month by longitudinal interaction, which, due to the re-parametrization, denotes whether there is a difference between cross-sectional and longitudinal effects. If this interaction is nonsignificant, it obviates the need to create this partitioning of the covariates. Due to the exploratory nature of the analyses, adjustments for multiplicity were not performed. All analyses were conducted using SAS 9.3 (SAS Institute, Cary, NC).
+
+
+Results
+Baseline characteristics of the HALT study A participants have been published previously and were well balanced among intervention groups7, 8 (Supplementary Table S1). Participants had an average age of 36 years, 50% were male, and more than 90% were white, with an average eGFR of approximately 91 ml/min per 1.73 m2. Average BP values at baseline were similar in all groups (lisinopril/placebo 126.4 ± 13.6/79.6 ± 10.3 mm Hg; lisinopril/telmisartan 127.0 ± 14.1/80.7 ± 11.8 mm Hg; standard BP goal 127.2 ± 14.0/80.8 ± 11.2 mm Hg; intensive BP goal 126.2 ± 13.8/79.4 ± 10.9 mm Hg). There were no significant differences between baseline LVMI or TKV between study arms. The prevalence of LVH using nonindexed LVM was 3.9% (n = 21) and that of using LVMI was 0.93% (n = 5).3
+Of the 558 patients randomized, 539 underwent MRI at baseline, 476 at 24 months, 434 at 48 months, and 427 at 60 months. The prevalence of LVH decreased throughout the study, and no subject met criteria for LVH at 60 months. As shown previously, treatment with intensive BP control significantly decreased LVMI as compared to standard BP control (slope of LVMI in g/m2 per year: intensive BP −1.17; standard BP = −0.57; mean difference = −0.60; confidence interval = −0.91, −0.29; P < 0.001) (Supplementary Figure S1a). Treatment outcomes for LVMI with lisinopril/telmisartan versus lisinopril/placebo were not significantly different (Supplementary Figure S1b), and there was no interaction between drug therapy and blood pressure target (P = 0.30). The overall adverse event rate was very low and was similar across all 4 groups except for a slightly higher rate of gastrointestinal disorders and nephrolithiasis in the standard BP group.7
+Using linear mixed models, none of our covariates were found to be significant moderators of the BP treatment group effect (Supplementary Table S2). Unit increases in baseline systolic BP and log-transformed TKV were associated with decreases of 0.028 and 0.68 g/m2 per year, respectively, in annual slope of LVMI (P < 0.001 for both) (Table 1 and Figure 1a and b). Male sex and higher baseline eGFR were associated with a 0.79 g/m2 per year increase in annual slope of LVMI (P < 0.001 and P = 0.07, respectively) (Table 1 and Figure 1c). No significant associations with change in LVMI were detected for age, serum potassium, urine sodium, urine potassium, urine albumin, and urine aldosterone.Figure 1(a) Predicted left ventricular mass index (LVMI) slope versus baseline systolic blood pressure (SBP) (mm Hg). (b) Predicted LVMI slope versus baseline total kidney volume (ml). (c) Predicted LVMI slope versus baseline estimated glomerular filtration rate (eGFR) (ml/min per 1.73 m2). BP, blood pressure; CKD EPI = Chronic Kidney Disease Epidemiology Collaboration; TKV, total kidney volume.
+Table 1Association between baseline covariates and left ventricular mass index
+naBaseline covariateEstimate (95% CI)bP value557
+Baseline eGFR, ml/min per 1.73 m2
+0.0096 (–0.0012, 0.02)
+0.07
+558
+Age, yr
+0.0072 (–0.014, 0.03)
+0.50
+554
+Systolic blood pressure, mm Hg
+–0.028 (–0.040, –0.014)
+<0.001
+551
+LnTKV
+–0.68 (–1.00, –0.36)
+<0.001
+558
+Male sex
+0.79 (0.44, 1.15)
+<0.001
+558
+Serum potassium, mEq/l
+–0.31 (–0.70, 0.088)
+0.13
+542
+Urine sodium, mEq/24 h
+0 (–0.0024, 0.0024)
+0.81
+536
+Urine potassium, mEq/24 h
+–0.0048 (–0.012, 0.0024)
+0.16
+542
+Urine albumin, mg/24 h
+–0.0012 (–0.0024, 0.0012)
+0.33
+534
+Urine aldosterone, μg/24 h
+0.0072 (–0.012, 0.026)
+0.48
+CI, confidence interval; eGFR, estimated glomerular filtration rate; LnTKV, natural log of total kidney volume; TKV, total kidney volume.
+aNumber of participants included in linear mixed model.
+bChange in annual slope of left ventricular mass index due to 1-unit change in the covariate.
+
+We assessed whether there were associations between LVMI slope and baseline predictors that varied over time. A 1-unit increase in time-varying log-transformed TKV resulted in a 0.62 g/m2 per year decrease in LVMI slope (P < 0.0001). However, there was no difference when we partitioned this into cross-sectional and longitudinal effects.
+
+Discussion
+In the largest studied cohort of hypertensive ADPKD patients with preserved GFR randomized to 2 different BP targets and medication regimens, intensive BP treatment reduced LVMI on serial cardiac MRI. In addition, baseline characteristics suggestive of higher risk of poorer outcomes, including higher BP, lower eGFR, and higher TKV, identified patients who had the largest decrease in LVMI, irrespective of the BP intervention.
+LVH has been reported to be a common finding in patients with chronic kidney disease (CKD).11, 12 A strong association between LVH and incident congestive heart failure (CHF) has been identified.13 As patients progress to end-stage renal disease (ESRD), the prevalence of LVH remains high and LVH has been shown to be an independent risk factor for mortality.14 Normotensive and hypertensive patients with ADPKD and advanced CKD tend to develop LVH, and cardiovascular disease remains one of the predominant causes of death in this population.2, 15 In contrast, the prevalence of LVH in hypertensive AKPKD patients with eGFR > 60 ml/min per 1.73 m2 was found to be low in the HALT PKD study.3
+In this analysis, we sought to identify parameters associated with improvement in LVMI in HALT study A participants. To our knowledge, there is no previous literature looking at serial measurements of LVMI using cardiac MRI in relation to treatment in patients with ADPKD. The groups randomized to intensive BP treatment had a greater reduction in LVMI. The interaction between blood pressure target and drug therapy was not significant, suggesting that there was no effect modification by ACEi/ARB versus ACEi/placebo on attaining target BP. Using linear mixed models, we found higher baseline systolic BP and higher TKV to be significantly associated with reduction in LVMI. Lower eGFR was also associated with a reduction in LVMI; however, this did not reach statistical significance. Male sex was associated with a significant increase in LVMI. The relationship between each variable and LVMI was similar when using time-varying analyses. The only exception was TKV; however, the difference was not clinically significant, and there was no difference comparing cross-sectional and longitudinal effects.
+Our findings are significant and novel, and build upon previous work showing intensive BP control reducing LVMI.5 In the HALT study A population, intensive BP control was shown to significantly reduce the annual increase in TKV in hypertensive ADPKD patients with eGFR > 60 ml/min per 1.73 m2.7 Although LVH was uncommon in this population with early CKD, intensive BP treatment (well below current European Renal Best Practice and Eighth Joint National Commission target levels16, 17) was shown to reduce LVMI. Intensive BP treatment also reversed LVH for the few participants who met LVH criteria at study enrollment. The subjects with the risk factors most suggestive of a poorer outcome (larger TKV, higher baseline systolic BP, and reduced eGFR) had the greatest reduction in LVMI. Male sex was associated with a positive LVMI slope resulting in men having an overall less steep LVMI decline compared to women. This is important, as male sex is a known risk factor for the development of cardiovascular disease.18
+Given the limitations of therapeutic interventions for patients with ADPKD, these findings add to the evidence that clinicians should target these patients early and treat them aggressively. The low prevalence of LVH found in the HALT Study A population is likely a reflection of the current state of affairs, with earlier diagnosis of ADPKD and initiation of BP lowering interventions.19 In fact, about 17% of study patients were already on an ARB and 50% on an ACEi (in addition to other antihypertensive agents) at the screening visit for the HALT PKD study.3, 7
+Strengths of this study include a rigorous study design with very well-characterized participants, achievement of BP targets, standardized MRI assessment of LVMI, and serial follow-up assessments in each patient, with few losses to follow-up. Limitations include lack of generalizability to patients with CKD not from ADPKD and the low prevalence of LVH in study participants. Longer-term cardiovascular outcomes with reduction of LVMI within the normal range remain to be determined.
+
+Disclosure
+All the authors declared no competing interests.
+

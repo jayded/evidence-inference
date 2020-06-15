@@ -1,0 +1,616 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Vet Intern Med</journal-id><journal-id journal-id-type="iso-abbrev">J. Vet. Intern. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1939-1676</journal-id><journal-id journal-id-type="publisher-id">JVIM</journal-id><journal-title-group><journal-title>Journal of Veterinary Internal Medicine</journal-title></journal-title-group><issn pub-type="ppub">0891-6640</issn><issn pub-type="epub">1939-1676</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29575360</article-id><article-id pub-id-type="pmc">5980265</article-id><article-id pub-id-type="doi">10.1111/jvim.15081</article-id><article-id pub-id-type="publisher-id">JVIM15081</article-id><article-categories><subj-group subj-group-type="overline"><subject>Standard Article</subject></subj-group><subj-group subj-group-type="heading"><subject>SMALL ANIMAL</subject><subj-group subj-group-type="heading"><subject>Standard Articles</subject><subj-group subj-group-type="heading"><subject>Nephrology/Urology</subject></subj-group></subj-group></subj-group></article-categories><title-group><article-title>Effects of fenoldopam on kidney function parameters and its therapeutic efficacy in the management of acute kidney injury in dogs with heatstroke</article-title><alt-title alt-title-type="left-running-head">SEGEV et al.</alt-title></title-group><contrib-group><contrib id="jvim15081-cr-0001" contrib-type="author" corresp="yes"><name><surname>Segev</surname><given-names>Gilad</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-4714-3159</contrib-id><address><email>gilad.segev@mail.huji.ac.il</email></address><xref ref-type="aff" rid="jvim15081-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jvim15081-cr-0002" contrib-type="author"><name><surname>Bruchim</surname><given-names>Yaron</given-names></name><xref ref-type="aff" rid="jvim15081-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jvim15081-cr-0003" contrib-type="author"><name><surname>Berl</surname><given-names>Noga</given-names></name><xref ref-type="aff" rid="jvim15081-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jvim15081-cr-0004" contrib-type="author"><name><surname>Cohen</surname><given-names>Adar</given-names></name><xref ref-type="aff" rid="jvim15081-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jvim15081-cr-0005" contrib-type="author"><name><surname>Aroch</surname><given-names>Itamar</given-names></name><xref ref-type="aff" rid="jvim15081-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jvim15081-aff-0001">
+<label><sup>1</sup></label>
+<institution>Department of Small Animals Medicine, Koret School of Veterinary Medicine, Hebrew University</institution>
+<named-content content-type="city">Jerusalem</named-content>
+<country country="IL">Israel</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold> Gilad Segev, Koret School of Veterinary Medicine, The Hebrew University of Jerusalem, P.O. Box 12, Rehovot, Jerusalem 761001, Israel. Email: <email>gilad.segev@mail.huji.ac.il</email></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>3</month><year>2018</year></pub-date><pub-date pub-type="ppub"><season>May-Jun</season><year>2018</year></pub-date><volume>32</volume><issue>3</issue><issue-id pub-id-type="doi">10.1111/jvim.2018.32.issue-3</issue-id><fpage>1109</fpage><lpage>1115</lpage><history><date date-type="received"><day>17</day><month>11</month><year>2017</year></date><date date-type="rev-recd"><day>28</day><month>12</month><year>2017</year></date><date date-type="accepted"><day>30</day><month>1</month><year>2018</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 American College of Veterinary Internal Medicine <copyright-statement>--><copyright-statement content-type="article-copyright">Copyright &#x000a9; 2018 The Authors. Journal of Veterinary Internal Medicine published by Wiley Periodicals, Inc. on behalf of the American College of Veterinary Internal Medicine.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">http://creativecommons.org/licenses/by-nc/4.0/</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JVIM-32-1109.pdf"/><abstract><sec id="jvim15081-sec-0001"><title>Background</title><p>Acute kidney injury (AKI) is common in dogs, but evidence of efficacy of its treatment is lacking.</p></sec><sec id="jvim15081-sec-0002"><title>Objective</title><p>To evaluate the efficacy of fenoldopam in the management of AKI.</p></sec><sec id="jvim15081-sec-0003"><title>Animals</title><p>Forty dogs with naturally occurring heatstroke.</p></sec><sec id="jvim15081-sec-0004"><title>Methods</title><p>Dogs were prospectively enrolled and divided into treatment and the placebo group<bold>s</bold> (fenoldopam, constant rate infusion [CRI] of 0.1 &#x000b5;g/kg/min or saline, respectively). Urine production (UP) was measured using a closed system. Urinary clearances were performed at 4, 12, and 24 hours after presentation to estimate the effect of fenoldopam on UP, glomerular filtration rate (GFR) and sodium fractional excretion (NaFE).</p></sec><sec id="jvim15081-sec-0005"><title>Results</title><p>At presentation, severity of heatstroke, based on a previously developed scoring system, was similar between the study groups, but was significantly worse in nonsurvivors compared with survivors. Fenoldopam administration was not associated with hypotension. Overt AKI was diagnosed, based on the International Renal Interest Society guidelines in 22/40 (55%) of the dogs. Overall, 14/40 dogs (35%) died, with no significant (<italic>P</italic>&#x02009;=&#x02009;.507) mortality rate difference between the fenoldopam (6/20 dogs; 30%) and placebo (8/20; 40%) groups. The proportion of dogs with AKI did not differ between the fenoldopam and the placebo groups (9/20; 45% versus 13/20; 65%, respectively; <italic>P</italic>&#x02009;=&#x02009;.204). There were no differences in UP, GFR, and NaFE between the fenoldopam and the placebo groups.</p></sec><sec id="jvim15081-sec-1005"><title>Conclusion and Clinical Importance</title><p>Fenoldopam CRI at 0.1 &#x000b5;g/kg/min did not have a clinically relevant effect on kidney function parameters in dogs with severe heatstroke&#x02010;associated AKI.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jvim15081-kwd-0001">acute renal failure</kwd><kwd id="jvim15081-kwd-0002">canine</kwd><kwd id="jvim15081-kwd-0003">dopamine</kwd><kwd id="jvim15081-kwd-0004">hypotension</kwd><kwd id="jvim15081-kwd-0005">renal</kwd></kwd-group><funding-group><award-group><funding-source>European College of Veterinary Internal Medicine
+</funding-source></award-group></funding-group><counts><fig-count count="1"/><table-count count="1"/><page-count count="7"/><word-count count="5392"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jvim15081</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May/June 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.4.0 mode:remove_FC converted:31.05.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jvim15081-cit-0001">
+<string-name>
+<surname>Segev</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Bruchim</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Berl</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Cohen</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Aroch</surname>
+<given-names>I</given-names>
+</string-name>. <article-title>Effects of fenoldopam on kidney function parameters and its therapeutic efficacy in the management of acute kidney injury in dogs with heatstroke</article-title>. <source xml:lang="en">J Vet Intern Med</source>. <year>2018</year>;<volume>32</volume>:<fpage>1109</fpage>&#x02013;<lpage>1115</lpage>. <ext-link ext-link-type="uri" xlink:href="https://doi.org/10.1111/jvim.15081">https://doi.org/10.1111/jvim.15081</ext-link>
+</mixed-citation>
+</p><fn-group><fn id="jvim15081-note-0002"><p>
+<bold>Funding information</bold> European College of Veterinary Internal Medicine</p></fn><fn id="jvim15081-note-0001"><p>The patients were treated at the Hebrew University Veterinary Teaching Hospital, Koret School of Veterinary Medicine, Hebrew University of Jerusalem, Rishon Lezion, Israel.</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="jvim15081-lp-0001"><title>Abbreviations</title><def-item><term id="jvim15081-li-0001">ABP</term><def id="jvim15081-li-0002"><p>arterial blood pressure</p></def></def-item><def-item><term id="jvim15081-li-0003">AKI</term><def id="jvim15081-li-0004"><p>acute kidney injury</p></def></def-item><def-item><term id="jvim15081-li-0005">CRI</term><def id="jvim15081-li-0006"><p>constant rate infusion</p></def></def-item><def-item><term id="jvim15081-li-0007">DA&#x02010;1</term><def id="jvim15081-li-0008"><p>dopamine&#x02010;1&#x02013;receptor</p></def></def-item><def-item><term id="jvim15081-li-0009">DAP</term><def id="jvim15081-li-0010"><p>diastolic ABP</p></def></def-item><def-item><term id="jvim15081-li-0011">GFR</term><def id="jvim15081-li-0012"><p>glomerular filtration rate</p></def></def-item><def-item><term id="jvim15081-li-0013">ICU</term><def id="jvim15081-li-0014"><p>intensive care unit</p></def></def-item><def-item><term id="jvim15081-li-0015">IRIS</term><def id="jvim15081-li-0016"><p>International Renal Interest Society</p></def></def-item><def-item><term id="jvim15081-li-0017">MAP</term><def id="jvim15081-li-0018"><p>mean ABP</p></def></def-item><def-item><term id="jvim15081-li-0019">NaFE</term><def id="jvim15081-li-0020"><p>sodium fractional excretion</p></def></def-item><def-item><term id="jvim15081-li-0021">PP</term><def id="jvim15081-li-0022"><p>postpresentation</p></def></def-item><def-item><term id="jvim15081-li-0023">SAP</term><def id="jvim15081-li-0024"><p>systolic arterial blood pressure</p></def></def-item><def-item><term id="jvim15081-li-0025">sCr</term><def id="jvim15081-li-0026"><p>serum creatinine</p></def></def-item><def-item><term id="jvim15081-li-0027">SD</term><def id="jvim15081-li-0028"><p>standard deviation</p></def></def-item><def-item><term id="jvim15081-li-0029">UP</term><def id="jvim15081-li-0030"><p>urine production</p></def></def-item><def-item><term id="jvim15081-li-0031">VTH</term><def id="jvim15081-li-0032"><p>veterinary teaching hospital</p></def></def-item></def-list><sec id="jvim15081-sec-0006"><label>1</label><title>INTRODUCTION</title><p>Acute kidney injury (AKI) in dogs is characterized by a sudden decrease in glomerular filtration rate (GFR), decreased urine production (UP) and alterations in solute excretion.<xref rid="jvim15081-bib-0001" ref-type="ref">1</xref> Acute kidney injury leads to high morbidity and mortality, which are influenced mainly by the underlying etiology and therapeutic options.<xref rid="jvim15081-bib-0002" ref-type="ref">2</xref>, <xref rid="jvim15081-bib-0003" ref-type="ref">3</xref>, <xref rid="jvim15081-bib-0004" ref-type="ref">4</xref>, <xref rid="jvim15081-bib-0005" ref-type="ref">5</xref>, <xref rid="jvim15081-bib-0006" ref-type="ref">6</xref>, <xref rid="jvim15081-bib-0007" ref-type="ref">7</xref>, <xref rid="jvim15081-bib-0008" ref-type="ref">8</xref>, <xref rid="jvim15081-bib-0009" ref-type="ref">9</xref> The therapeutic approach for AKI generally is supportive, aimed at eliminating the underlying cause and correcting the hemodynamic and biochemical consequences of the attendant uremia.<xref rid="jvim15081-bib-0010" ref-type="ref">10</xref> When medical management fails to control clinical and laboratory abnormalities, more advanced therapy, such as hemodialysis, can be applied, if available.<xref rid="jvim15081-bib-0009" ref-type="ref">9</xref>
+</p><p>Low&#x02010;dose dopamine therapy has been suggested as a treatment for AKI in human patients. Although past studies yielded conflicting results, recent evidence suggests that low&#x02010;dose dopamine has no role in prevention and management of AKI.<xref rid="jvim15081-bib-0011" ref-type="ref">11</xref>, <xref rid="jvim15081-bib-0012" ref-type="ref">12</xref>, <xref rid="jvim15081-bib-0013" ref-type="ref">13</xref>, <xref rid="jvim15081-bib-0014" ref-type="ref">14</xref> Fenoldopam is a selective dopamine&#x02010;1&#x02013;receptor (DA&#x02010;1) agonist, inducing vasodilatation, and selectively increasing both renal cortical and outer medullary blood flow and GFR, similar to dopamine.<xref rid="jvim15081-bib-0015" ref-type="ref">15</xref>, <xref rid="jvim15081-bib-0016" ref-type="ref">16</xref>, <xref rid="jvim15081-bib-0017" ref-type="ref">17</xref> Unlike dopamine, fenoldopam is not associated with adverse effects resulting from &#x003b1;&#x02010; and &#x003b2;&#x02010;adrenergic receptor activation. A recent large&#x02010;scale study evaluating fenoldopam for prevention of contrast&#x02010;induced nephropathy in human patients failed to show an advantage of its use.<xref rid="jvim15081-bib-0018" ref-type="ref">18</xref> Conversely, a study of AKI in human patients in intensive care units (ICU) demonstrated that fenoldopam (CRI of 0.09 &#x000b5;g/kg/min IV) led to a significant decrease in the occurrence of AKI.<xref rid="jvim15081-bib-0019" ref-type="ref">19</xref> Yet another study failed to show similar effects.<xref rid="jvim15081-bib-0020" ref-type="ref">20</xref> Finally, a recent meta&#x02010;analysis, including studies of fenoldopam in human patients in ICU and those undergoing major surgery concluded that fenoldopam significantly decreased the risk for AKI, the need for renal replacement therapy, and the mortality rate.<xref rid="jvim15081-bib-0021" ref-type="ref">21</xref> The latter study, however, excluded contrast&#x02010;induced nephropathy, and included only a few placebo&#x02010;controlled trials, in which fenoldopam doses varied, and thus was limited. A recent review of the current knowledge on prevention of AKI has concluded that the role of fenoldopam in preventing AKI warrants further exploration, because there is still a lack of controlled clinical studies evaluating its clinical efficacy, and its use for preventing AKI in human patients at risk for AKI remains controversial.<xref rid="jvim15081-bib-0022" ref-type="ref">22</xref> The efficacy of fenoldopam as preventive therapy for AKI in animals at high risk for AKI has not been evaluated in a controlled study, and evidence regarding its efficacy in animals with AKI is limited. In a retrospective study of dogs and cats with AKI, fenoldopam had no beneficial effects, but its effects on UP, GFR, and solute excretion were not evaluated.<xref rid="jvim15081-bib-0023" ref-type="ref">23</xref>
+</p><p>Heatstroke in dogs results from exposure to a hot environment or strenuous physical exercise, leading to high body core temperature (&#x0003e;41&#x000b0;C) and central nervous system dysfunction.<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref> Regardless of the insult, heatstroke leads to severe systemic inflammatory response syndrome, multiple organ dysfunction, and often death.<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref> Acute kidney injury is a common complication of heatstroke, in both dogs and humans,<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref>, <xref rid="jvim15081-bib-0024" ref-type="ref">24</xref>, <xref rid="jvim15081-bib-0025" ref-type="ref">25</xref>, <xref rid="jvim15081-bib-0026" ref-type="ref">26</xref> probably resulting from hemodynamic instability.<xref rid="jvim15081-bib-0025" ref-type="ref">25</xref>, <xref rid="jvim15081-bib-0027" ref-type="ref">27</xref> Necropsy results of dogs sustaining fatal heatstroke and measurement of sensitive markers of kidney damage in dogs with heatstroke show that AKI invariably is present in affected animals,<xref rid="jvim15081-bib-0028" ref-type="ref">28</xref> and is a risk factor for death.<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref> For these reasons, heatstroke is an excellent model for naturally occurring AKI in dogs, and can be used to test a variety of therapeutic and preventive interventions in AKI.</p><p>We hypothesized that fenoldopam would increase GFR, UP, and sodium fractional excretion (NaFE) in dogs with naturally occurring heatstroke. The aim of this prospective, placebo&#x02010;controlled study was to investigate the efficacy of fenoldopam for decreasing the occurrence and severity of heatstroke&#x02010;associated AKI in dogs, and potentially preventing heatstroke&#x02010;induced AKI. Specifically, we sought: (1) to assess the influence of fenoldopam on sequential changes in GFR, UP, and NaFE; (2) to assess the proportion of AKI in dogs receiving fenoldopam versus placebo; and (3) to assess if fenoldopam would decrease the death rate in dogs naturally sustaining heatstroke.</p></sec><sec id="jvim15081-sec-0007"><label>2</label><title>MATERIALS AND METHODS</title><sec id="jvim15081-sec-0008"><label>2.1</label><title>Study design and randomization</title><p>This prospective, randomized, double&#x02010;blinded, placebo&#x02010;controlled clinical trial was approved by our Institutional Animal Care and Use Committee (KSVM&#x02010;VTH/13&#x02013;2009). Dogs presented to the Hebrew University Veterinary Teaching Hospital (VTH) between 2009 and 2015 and diagnosed with heatstroke were considered eligible for the study, depending on their owners' consent.</p><p>Randomization was performed by drawing slip from an envelope indicating the treatment regimen. Envelopes were prepared by the VTH chief pharmacist, and investigators, attending clinicians, staff, and dog owners were blinded to the treatment regimen until the end of the study. Fenoldopam (Fenoldopam, Corlopam, 20 mg/2 mL, Teva, Milano) or saline (as placebo) were dispensed in identical syringes.</p></sec><sec id="jvim15081-sec-0009"><label>2.2</label><title>Case selection</title><p>Dogs presented to the Emergency Service of the VTH and diagnosed with heatstroke were consecutively enrolled. Heatstroke was diagnosed based on a history of exposure to a hot environment, strenuous activity, or both, and presence of appropriate clinical signs, which had developed acutely only after the heat insult, including neurological dysfunction, collapse, and tachypnea. Dogs with coexisting medical conditions, and those that died or were euthanized within 4 hours of hospitalization, were excluded.</p></sec><sec id="jvim15081-sec-0010"><label>2.3</label><title>Definitions</title><p>The diagnosis of AKI was made according to International Renal Interest Society (IRIS) guidelines.<xref rid="jvim15081-bib-0029" ref-type="ref">29</xref> Dogs that died or were euthanized because of grave prognosis, despite ongoing intensive therapy, were defined as nonsurvivors.</p></sec><sec id="jvim15081-sec-0011"><label>2.4</label><title>Treatment protocol and monitoring</title><p>Dogs enrolled in the study were treated and managed according to a previously described protocol for heatstroke.<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref> Upon admission, the urinary bladder was catheterized, and the catheter connected to a closed urinary system. Urine production was monitored and recorded q4h during the first 24 hours after presentation. Dogs were treated initially with crystalloid fluids as an IV bolus, at 30 mL/kg and, as needed to correct hypovolemia and shock, if present, and thereafter, as needed to restore all fluid deficits over a period of 4 hours. Once hypovolemia and dehydration were corrected, IV fluid therapy was continued initially at 5 mL/kg/h, and thereafter adjusted to meet ongoing fluid loss (eg, diarrhea and vomiting), and based on UP, periodic physical assessment of hydration status, and body weight measurement, to maintain normal hydration throughout hospitalization.</p><p>Dogs received mannitol (20% Osmitrol, Baxter, Deerfield, Illinois; IV bolus, 0.5 g/kg over 20 min) q4h over the first 12 hours from admission to prevent and treat potential brain edema, a common complication of heatstroke.<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref>, <xref rid="jvim15081-bib-0025" ref-type="ref">25</xref> Dogs also were given ampicillin (Penibrin, Sandoz GmbH, Kundl Austria; 20 mg/kg IV q8h) and enrofloxacin (Baytril, 5%, Bayer Animals Health Leverkusen; 15 mg/kg slow IV q24h) to prevent and treat gastrointestinal bacterial translocation, and famotidine (Famotidine, West&#x02010;Ward, Eatontown, New Jersey; 0.5 mg/kg IV q24h) and metoclopramide (Metoclopramide. Pramin 10MG/2ML Rafa Laboratories, Jerusalem; 0.04 mg/kg/h IV by CRI) to prevent and treat gastric ulceration and vomiting, respectively.</p><p>Fenoldopam (study group) or saline (placebo group) was initiated 4 hours post&#x02010;presentation (PP), after verifying that systolic arterial blood pressure (SAP) was &#x0003e;120 mm Hg. Fenoldopam and saline placebo were diluted in 100 mL of saline. Fenoldopam was administered IV at a CRI of 0.1 &#x000b5;g/kg/min, whereas the placebo group was given saline at identical dilution and rate.</p><p>Urine volume was measured gravimetrically q4h. Urine samples were obtained q4h and stored at &#x02212;80&#x000b0;C pending analysis. Measurements included body weight, UP, serum, and urine chemistry, GFR (estimated by endogenous creatinine clearance) and urinary NaFE.</p><p>Arterial blood pressure (ABP) was measured using oscillometry (Cardell, Midmark, Tampa, FL) q4h. A previously described scoring system for heatstroke was used.<xref rid="jvim15081-bib-0030" ref-type="ref">30</xref>
+</p></sec><sec id="jvim15081-sec-0012"><label>2.5</label><title>Urinary clearances</title><p>Urine and blood samples were collected to calculate NaFE and creatinine clearance at 4, 12, and 24 hours PP, to estimate GFR and NaFE, as previously described.<xref rid="jvim15081-bib-0031" ref-type="ref">31</xref>, <xref rid="jvim15081-bib-0032" ref-type="ref">32</xref>, <xref rid="jvim15081-bib-0033" ref-type="ref">33</xref> Briefly, 2 sequential 30&#x02010;minute quantitative urine collections were performed each time, to assess GFR and NaFE. Blood was collected in plain tubes with gel separators when the first urine sample was collected, and when the second urine sample collection ended. The urinary bladder was emptied and irrigated 3 times with 10 mL of sterile water, at the start and end of each urine collection. The urinary bladder rinse volume, at the end of each urine collection period, was added to the urine volume collected. The urine volume of each urine collection was measured gravimetrically. Urine sample aliquots were stored at &#x02212;80&#x000b0;C pending analysis. Blood samples were allowed to clot, centrifuged, and serum chemistry analysis (Cobas Integra 400 Plus, Roche, Mannheim, Germany; at 37&#x000b0;C) was performed within 60 minutes from collection, including urea, creatinine (sCr), and sodium. The results for the two individual 30&#x02010;minute clearances were averaged to provide an estimate of the renal clearance of solutes.</p><p>The renal clearance (C), and FE of solute (x) were calculated conventionally,<xref rid="jvim15081-bib-0001" ref-type="ref">1</xref> where Cx&#x02009;=&#x02009;Ux V/Px and FEx&#x02009;=&#x02009;Cx/Ccr, where Cx&#x02009;=&#x02009;clearance of solute x; Ccr&#x02009;=&#x02009;clearance of creatinine (mL/min); V&#x02009;=&#x02009;urine volume (mL/min); Ux&#x02009;=&#x02009;urine solute (x) concentration; Px&#x02009;=&#x02009;serum solute (x) concentration.</p></sec><sec id="jvim15081-sec-0013"><label>2.6</label><title>Statistical analysis</title><p>Descriptive statistics were used to document sequential changes in kidney function tests and solute FE throughout the study period. The distribution pattern of continuous variables was examined using the Shapiro&#x02010;Wilk test. Continuous variables (eg, UP and GFR) were reported as mean&#x02009;&#x000b1;&#x02009;SD or median and range, and compared between groups using the Student <italic>t</italic>&#x02010;test and the Mann Whitney <italic>U</italic>&#x02010;test, for normally and non&#x02010;normally distributed data, respectively. Categorical variables (eg, proportions) were compared between groups using &#x003c7;<sup>2</sup> or Fisher Exact tests. The Friedman test was used to assess changes in continuous variables over the first 24 hours PP. All tests were 2&#x02010;tailed, and <italic>P</italic>&#x02009;&#x0003c;&#x02009;.05 was considered significant. Statistical analysis was performed using a statistical software package (SPSS 22.0 software, Chicago, Illinois).</p></sec></sec><sec id="jvim15081-sec-0014"><label>3</label><title>RESULTS</title><sec id="jvim15081-sec-0015"><label>3.1</label><title>Dogs</title><p>The study included 40 dogs, 20 in each treatment group. There were 33 males (neutered, 7) and 7 females (neutered, 4). There was no mean age difference (<italic>P</italic>&#x02009;=&#x02009;.747) between the fenoldopam (4.6&#x02009;&#x000b1;&#x02009;2.7 years) and placebo (4.4&#x02009;&#x000b1;&#x02009;2.3 years) groups. The study included 13 brachycephalic dogs (32.5%), including boxer (6 dogs), French bulldog (4), Pug (2), and English bulldog (1). There were 37 dolichocephalic dogs (67.5%), including mixed breed (6 dogs), golden retriever (4), Belgian Malinois (4), Labrador retriever (3), Samoyed, German shepherd and Siberian husky (2 each) and Dogo Argentino and Caucasian shepherd (1 each). There was no mean body weight difference (<italic>P</italic>&#x02009;=&#x02009;.569) between the fenoldopam (30.7&#x02009;&#x000b1;&#x02009;12.5 kg) and placebo (32.5&#x02009;&#x000b1;&#x02009;10.7 kg) groups.</p></sec><sec id="jvim15081-sec-0016"><label>3.2</label><title>Severity of heatstroke</title><p>The median rectal temperature at presentation to the VTH was 38.6&#x000b0;C (range 35.0&#x02013;42.8&#x000b0;C). The median rectal temperature measured by the referring veterinarians (n&#x02009;=&#x02009;11) before cooling was 42&#x000b0;C (range, 40.0&#x02013;43.0&#x000b0;C).</p><p>When a previously established severity scoring system for dogs with heatstroke was applied,<xref rid="jvim15081-bib-0030" ref-type="ref">30</xref> the average score was 39.3&#x02009;&#x000b1;&#x02009;14.9, with no difference (<italic>P</italic>&#x02009;=&#x02009;.939) between the fenoldopam (39.2&#x02009;&#x000b1;&#x02009;3.3) and placebo (39.5&#x02009;&#x000b1;&#x02009;3.4) groups. The severity score at presentation was significantly (<italic>P</italic>&#x02009;=&#x02009;.024) higher in the nonsurvivors (46.5&#x02009;&#x000b1;&#x02009;12.5) as compared with the survivors (35.5&#x02009;&#x000b1;&#x02009;15.0).</p><p>Overall, 14/40 dogs (35%) died, with no significant (<italic>P</italic>&#x02009;=&#x02009;.507) mortality rate difference between the fenoldopam (6/20 dogs; 30%) and placebo (8/20; 40%) groups.</p></sec><sec id="jvim15081-sec-0017"><label>3.3</label><title>Arterial blood pressure</title><p>The overall means of systolic ABP (SAP), diastolic ABP (DAP) and mean ABP (MAP) at presentation were 130&#x02009;&#x000b1;&#x02009;27, 75&#x02009;&#x000b1;&#x02009;23, and 106&#x02009;&#x000b1;&#x02009;23 mm Hg, respectively, with no treatment group differences (<italic>P</italic>&#x02009;=&#x02009;.601, <italic>P</italic>&#x02009;=&#x02009;.261, and <italic>P</italic>&#x02009;=&#x02009;.094, respectively). There were no differences between mean SAP, MAP, and DAP before and 4 hours after initiation of fenoldopam therapy (143&#x02009;&#x000b1;&#x02009;26 versus 146&#x02009;&#x000b1;&#x02009;35 mm Hg, <italic>P</italic>&#x02009;=&#x02009;.563; 106&#x02009;&#x000b1;&#x02009;26 versus 116&#x02009;&#x000b1;&#x02009;25 mm Hg, <italic>P</italic>&#x02009;=&#x02009;.220; and, 90&#x02009;&#x000b1;&#x02009;27 versus 96&#x02009;&#x000b1;&#x02009;29 mm Hg, <italic>P</italic>&#x02009;=&#x02009;.229, respectively). Systolic arterial hypotension (SAP&#x02009;&#x0003c;&#x02009;100 mm Hg) was documented only on 2 occasions at presentation and after fenoldopam initiation, and MAP was &#x0003e;60 mm Hg in all dogs after initiation of fenoldopam therapy.</p></sec><sec id="jvim15081-sec-0018"><label>3.4</label><title>Acute kidney injury</title><p>Kidney function parameters are presented in Table <xref rid="jvim15081-tbl-0001" ref-type="table-wrap">1</xref>. Based on IRIS guidelines, 22/40 (55%) of the dogs had AKI (Grade I, 1/22; Grade II, 5/22; Grade III, 11/22, and Grade IV, 5/22). Of these, 6 dogs developed overt AKI during hospitalization, whereas the rest already had presented with overt AKI. No significant difference was observed in the proportion of dogs that developed overt AKI during hospitalization between the fenoldopam and placebo groups (3 of each group, <italic>P</italic>&#x02009;=&#x02009;1.00)</p><table-wrap id="jvim15081-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Kidney function parameters at presentation</p></caption><table frame="hsides" rules="groups"><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><col style="border-bottom:solid 1px #000000; border-right:solid 1px #000000" width="80pt" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Fenoldopam (n&#x02009;=&#x02009;20)</th><th align="left" style="border-bottom:solid 1px #000000" valign="bottom" rowspan="1" colspan="1">Placebo (n&#x02009;=&#x02009;20)</th><th align="left" valign="bottom" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Analyte</th><th align="left" valign="bottom" rowspan="1" colspan="1">Median (range)</th><th align="left" valign="bottom" rowspan="1" colspan="1">Median (Range)</th><th align="left" valign="bottom" rowspan="1" colspan="1">
+<italic>P</italic> value</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Serum creatinine (mg/dL)</td><td align="left" valign="top" rowspan="1" colspan="1">1.6 (0.5&#x02010;4.7)</td><td align="left" valign="top" rowspan="1" colspan="1">1.7 (0.7&#x02010;2.6)</td><td align="left" valign="top" rowspan="1" colspan="1">.583</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Urine production (mL/kg/h)</td><td align="left" valign="top" rowspan="1" colspan="1">6 (0.4&#x02013;28)</td><td align="left" valign="top" rowspan="1" colspan="1">4.3 (0.9&#x02013;19)</td><td align="left" valign="top" rowspan="1" colspan="1">.295</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Glomerular filtration rate (mL/min/kg)</td><td align="left" valign="top" rowspan="1" colspan="1">0.92 (0.0&#x02013;3.7)</td><td align="left" valign="top" rowspan="1" colspan="1">0.6 (0.0&#x02013;3.1)</td><td align="left" valign="top" rowspan="1" colspan="1">.201</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sodium fractional excretion</td><td align="left" valign="top" rowspan="1" colspan="1">0.07 (0.01&#x02010;0.35)</td><td align="left" valign="top" rowspan="1" colspan="1">0.07 (0.01&#x02010;0.41)</td><td align="left" valign="top" rowspan="1" colspan="1">.678</td></tr></tbody></table><table-wrap-foot><fn id="jvim15081-note-0003"><p>Serum creatinine was measured at presentation and urine production, sodium fractional excretion, and GFR were measured 4 hours from presentation.</p></fn></table-wrap-foot></table-wrap><p>The proportion of dogs with AKI was not significantly different (<italic>P</italic>&#x02009;=&#x02009;.204) between the fenoldopam (9/20; 45%) and the placebo (13/20; 65%) groups. The mortality rate of dogs diagnosed with AKI (11/22 dogs; 50%) was significantly (<italic>P</italic>&#x02009;=&#x02009;0.046) higher than in those in which overt AKI was absent (3/18; 17%).</p></sec><sec id="jvim15081-sec-0019"><label>3.5</label><title>UP, GFR, and Na FE</title><p>Urine production was high in both the study and placebo groups (Figure <xref rid="jvim15081-fig-0001" ref-type="fig">1</xref>). Oliguria (&#x0003c;1 mL/kg/h), based on UP once fluid deficits had been corrected (ie, 4 hours PP), was documented in only 2 dogs (1 of each group). A significant UP change occurred over time in the fenoldopam group (<italic>P</italic>&#x02009;=&#x02009;.044), but not in the placebo group (<italic>P</italic>&#x02009;=&#x02009;.683; Figure <xref rid="jvim15081-fig-0001" ref-type="fig">1</xref>), but no significant UP differences were identified between groups at any time point during the first 24 hours PP (Figure <xref rid="jvim15081-fig-0001" ref-type="fig">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jvim15081-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>A, urine production (mean&#x02009;&#x000b1;&#x02009;SD) over time in dogs sustaining heatstroke, receiving fenoldopam (n&#x02009;=&#x02009;20) or placebo (n&#x02009;=&#x02009;20). B, glomerular filtration rate (mean&#x02009;&#x000b1;&#x02009;SD) over time in dogs sustaining heatstroke, receiving fenoldopam (n&#x02009;=&#x02009;20) or placebo (n&#x02009;=&#x02009;20). C, sodium fractional excretion (mean&#x02009;&#x000b1;&#x02009;SD) over time in dogs sustaining heatstroke, receiving fenoldopam (n&#x02009;=&#x02009;20) or placebo (n =20)</p></caption><graphic id="nlm-graphic-1" xlink:href="JVIM-32-1109-g001"/></fig><p>No change in GFR was documented during the first 24 hours PP in the fenoldopam group (<italic>P</italic>&#x02009;=&#x02009;.155), but a significant change was noted in the placebo group (<italic>P</italic>&#x02009;=&#x02009;.019), with no significant GFR group differences at any time point (Figure <xref rid="jvim15081-fig-0001" ref-type="fig">1</xref>).</p><p>The NaFE was high in both groups at presentation (Figure <xref rid="jvim15081-fig-0001" ref-type="fig">1</xref>). There was no significant change NaFE over time, nor was there a difference, at any time point, between the treatment groups during first 24 hours PP (Figure <xref rid="jvim15081-fig-0001" ref-type="fig">1</xref>).</p></sec></sec><sec id="jvim15081-sec-0020"><label>4</label><title>DISCUSSION</title><p>We evaluated the effect of fenoldopam on sequential changes in GFR, UP, and NaFE during the first 24 hours of hospitalization in dogs with naturally occurring heatstroke&#x02010;induced AKI. Our results do not support the use of fenoldopam at a dosage of 0.1 &#x000b5;g/kg/min for managing heatstroke&#x02010;associated AKI.</p><p>Heatstroke often is complicated by AKI, which adversely affects mortality in dogs.<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref> Although, based on IRIS criteria, only 55% of the dogs in our study had AKI, previous studies using biomarkers with higher sensitivity compared with sCr concentration (which is a functional marker) or by histopathology of renal tissue in fatal cases of heatstroke in dogs both suggest that AKI is invariably present in these animals.<xref rid="jvim15081-bib-0025" ref-type="ref">25</xref>, <xref rid="jvim15081-bib-0028" ref-type="ref">28</xref>
+</p><p>Fenoldopam, a DA&#x02010;1 receptor agonist, induces vasodilatation of the peripheral arteries. It has been studied as a substitute for dopamine, which failed to show beneficial effects in managing AKI in human patients.<xref rid="jvim15081-bib-0011" ref-type="ref">11</xref>, <xref rid="jvim15081-bib-0013" ref-type="ref">13</xref> In the renal proximal tubule, DA&#x02010;1 receptor activation results in vasodilatation of the renal arteries, promoting natriuresis and diuresis, increasing renal blood flow, and therefore, fenoldopam is considered part of the management of AKI in human patients.<xref rid="jvim15081-bib-0034" ref-type="ref">34</xref>, <xref rid="jvim15081-bib-0035" ref-type="ref">35</xref>, <xref rid="jvim15081-bib-0036" ref-type="ref">36</xref>, <xref rid="jvim15081-bib-0037" ref-type="ref">37</xref>
+</p><p>Fenoldopam may increase UP by increasing both natriuresis and GFR.<xref rid="jvim15081-bib-0038" ref-type="ref">38</xref> In our study, UP was high at presentation (Figure <xref rid="jvim15081-fig-0001" ref-type="fig">1</xref>), with no significant difference between the study and the placebo groups, suggesting that the effect of fenoldopam on UP was mild at best. This lack of apparent group difference might have resulted from relatively aggressive IV fluid therapy and the use of mannitol, which were administered early PP. Many dogs with AKI, and typically those with heatstroke, which invariably sustain kidney damage,<xref rid="jvim15081-bib-0028" ref-type="ref">28</xref> are not oliguric when initially presented,<xref rid="jvim15081-bib-0003" ref-type="ref">3</xref> a finding that appears to be associated with a better prognosis compared to oliguric AKI.<xref rid="jvim15081-bib-0001" ref-type="ref">1</xref>, <xref rid="jvim15081-bib-0009" ref-type="ref">9</xref>, <xref rid="jvim15081-bib-0039" ref-type="ref">39</xref> Therefore, the current treatment protocol in our hospital includes aggressive IV crystalloid therapy and mannitol to prevent oliguria or anuria, resulting in relatively high UP. This high, albeit variable, UP among the dogs might have negated the differences between the fenoldopam and placebo groups.</p><p>The relatively low GFR documented here in dogs sustaining heatstroke further exemplifies the insensitivity of sCr as a kidney function marker, and further supports previous results, indicating that kidney injury is present dogs with heatstroke, even if not reflected by increased sCr at presentation.<xref rid="jvim15081-bib-0028" ref-type="ref">28</xref> Because dogs sustaining heatstroke usually are presented for veterinary care relatively promptly after the acute and severe clinical signs of this syndrome have begun,<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref> sCr concentration at presentation does not reflect the severity of kidney injury, because a steady state has not been reached. Glomerular filtration rate in our study increased only mildly and insignificantly after fenoldopam administration, and no significant GFR differences were noted between treatment groups. Information regarding the effect of fenoldopam on GFR in the veterinary literature is limited and inconsistent. In cats, GFR initially decreased, but had increased by 6 hours after initiation of fenoldopam therapy.<xref rid="jvim15081-bib-0040" ref-type="ref">40</xref> In healthy dogs, fenoldopam has led to a 0.78 mL/min/kg increase in the GFR, as measured by iohexol clearance, but the increase was inconsistent among the study dogs, with some showing only minimal to no GFR change. In humans, fenoldopam administered to healthy subjects at dosages ranging from 0.03 to 0.3 &#x000b5;g/kg/min led to significant GFR changes.<xref rid="jvim15081-bib-0041" ref-type="ref">41</xref> The inconsistency of the present and previous results might be related to differences between the species studied, the dosage used (0.1&#x02010;0.8 &#x000b5;g/kg/min),<xref rid="jvim15081-bib-0020" ref-type="ref">20</xref>, <xref rid="jvim15081-bib-0038" ref-type="ref">38</xref>, <xref rid="jvim15081-bib-0041" ref-type="ref">41</xref> and the health status of the patients (ie, healthy animals versus those with AKI). Nonetheless, the currently used fenoldopam dosage did not increase GFR in a clinically relevant manner.</p><p>In our study, NaFE also was not significantly different between groups. In a previous study of healthy dogs, NaFE increased significantly after fenoldopam administration,<xref rid="jvim15081-bib-0038" ref-type="ref">38</xref> but, the increase was inconsistent and relatively mild (0.016). Possibly, the higher fenoldopam dosages used in that previous study, as well as the higher variability that exists among dogs with kidney injury, render the changes in NaFE insignificant. In our study, the relatively high NaFE noted 4 hours PP reflects the extensive disruption of tubular resorptive function in the injured kidneys, consistent with a previous study.<xref rid="jvim15081-bib-0001" ref-type="ref">1</xref> Fractional sodium excretion might be influenced by the sodium&#x02010;containing fluids administered, which can increase NaFE, possibly negating any treatment group difference.</p><p>Fenoldopam is used in human patients to manage hypertension and prevent and manage AKI.<xref rid="jvim15081-bib-0042" ref-type="ref">42</xref>, <xref rid="jvim15081-bib-0043" ref-type="ref">43</xref>, <xref rid="jvim15081-bib-0044" ref-type="ref">44</xref> In our study, fenoldopam administration did not decrease the extent of azotemia or the occurrence of kidney injury (based on IRIS guidelines<xref rid="jvim15081-bib-0029" ref-type="ref">29</xref>) compared to placebo, in agreement with a previous study using fenoldopam (0.05 &#x000b5;g/kg/min IV by CRI) in human patients.<xref rid="jvim15081-bib-0020" ref-type="ref">20</xref> Consistent with previous studies, presence of overt AKI was significantly associated with death.<xref rid="jvim15081-bib-0006" ref-type="ref">6</xref> The lack of efficacy of vasodilators in clinical trials of AKI may result from their relatively late administration in the disease course. We therefore have elected to study the effect of fenoldopam in a naturally occurring model, where dogs are mostly presented relatively soon after the insult. Nonetheless, in most dogs (73%) the diagnosis of AKI was already made by presentation. Therefore, the effect of fenoldopam on the progression of kidney injury cannot be assessed in these animals.</p><p>Fenoldopam, a dompaminergic agonist, may promote vasodilatation and hypotension.<xref rid="jvim15081-bib-0042" ref-type="ref">42</xref>, <xref rid="jvim15081-bib-0043" ref-type="ref">43</xref> To prevent hypotension, fenoldopam administration was initiated 4 hours PP, after hydration status and hypovolemia had been corrected. Hypotension episodes after fenoldopam initiation were uncommon, and with aggressive IV fluid administration, it is quite safe at the currently administered dosage, in agreement with a previous pharmacokinetic study of fenoldopam in dogs,<xref rid="jvim15081-bib-0034" ref-type="ref">34</xref> and others, in which fenoldopam administration was uncommonly (7%) associated with hypotension in dogs.<xref rid="jvim15081-bib-0023" ref-type="ref">23</xref>, <xref rid="jvim15081-bib-0038" ref-type="ref">38</xref>
+</p><p>In a previous study, a scoring system for dogs sustaining heatstroke at presentation for care was developed.<xref rid="jvim15081-bib-0030" ref-type="ref">30</xref> Using that scoring system in our cohort showed that the median scores were similar in both treatment groups, suggesting that the 2 groups were comparable at presentation, but was significantly higher in the nonsurvivors. This scoring system originally was developed and tested on the same cohort, which was a limitation of that study.<xref rid="jvim15081-bib-0030" ref-type="ref">30</xref> The present cohort is relatively small for the independent validation of this scoring system. Nevertheless, the score was significantly higher in the nonsurvivors compared with the survivors, potentially supporting its validity, but this suggestion warrants further evaluation in larger cohorts.</p><p>Our study had several limitations. First, the limited cohort size might have rendered our study underpowered, and thereby prone to type&#x02010;II error. For the occurrence of AKI documented in our study to become statistically significant, a substantially higher number of dogs should ideally have been included (assuming an alpha of 5% and power of 80%). Therefore, larger scale studies are warranted to evaluate the effect of fenoldopam on the occurrence of AKI in dogs at risk before concluding that fenoldopam does not decrease that risk. Second, 45% of the dogs did not fulfill the IRIS criteria for AKI, limiting our conclusion as to the potential beneficial effect of fenoldopam, and therefore it should be tested in dogs with overt AKI. Third, the fenoldopam dosage used in our study was relatively low (although comparable to that used in previous studies in humans). When our study protocol was originally designed, veterinary information regarding the effect of fenoldopam on kidney function parameters was unavailable, and the dosage used here was based on the human medicial literature. Since then, fenoldopam has been evaluated in veterinary patients, using higher dosages (0.5&#x02013;0.8 &#x000b5;g/kg/min). The relatively low fenoldopam dosage used in our study might have resulted in a lack of detectable beneficial effects of the drug. Additional studies using higher fenoldopam dosages in dogs are warranted.</p><p>In conclusion, administration of fenoldopam at a dosage of 0.1 &#x003bc;g/kg/min IV by CRI in dogs with heatstroke was not associated with any observable adverse effects. However, it had no beneficial effects on UP, GFR, NaFE, or on the occurrence and severity of AKI.</p></sec><sec id="jvim15081-sec-0021"><title>CONFLICT OF INTEREST DECLARATION</title><p>The authors declare that they have no conflict of interest with the content of this article.</p></sec><sec id="jvim15081-sec-0022"><title>INSTITUTIONAL ANIMAL CARE AND USE COMMITTEE (IACUC) OR OTHER APPROVAL DECLARATION</title><p>Authors declare no IACUC or other approval was needed.</p></sec><sec id="jvim15081-sec-0023"><title>OFF&#x02010;LABEL ANTIMICROBIAL DECLARATION</title><p>Authors declare no off&#x02010;label use of antimicrobials.</p></sec></body><back><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="jvim15081-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jvim15081-cit-0002">
+<string-name>
+<surname>Brown</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Segev</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Francey</surname>
+<given-names>T</given-names>
+</string-name>, Kass P, Cowgill LD. <article-title>Glomerular filtration rate, urine production, and fractional clearance of electrolytes in acute kidney injury in dogs and their association with survival</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>2015</year>;<volume>29</volume>:<fpage>28</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="pmid">25594609</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jvim15081-cit-0003">
+<string-name>
+<surname>Behrend</surname>
+<given-names>EN</given-names>
+</string-name>, 
+<string-name>
+<surname>Grauer</surname>
+<given-names>GF</given-names>
+</string-name>, 
+<string-name>
+<surname>Mani</surname>
+<given-names>I</given-names>
+</string-name>, Groman RP, Salman MD, Greco DS. <article-title>Hospital&#x02010;acquired acute renal failure in dogs: 29 cases (1983&#x02013;1992)</article-title>. <source xml:lang="en">J Am Vet Med Assoc.</source>
+<year>1996</year>;<volume>208</volume>:<fpage>537</fpage>&#x02013;<lpage>541</lpage>.
+<pub-id pub-id-type="pmid">8603903</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jvim15081-cit-0004">
+<string-name>
+<surname>Vaden</surname>
+<given-names>SL</given-names>
+</string-name>, 
+<string-name>
+<surname>Levine</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Breitschwerdt</surname>
+<given-names>EB.</given-names>
+</string-name>
+<article-title>A retrospective case&#x02010;control of acute renal failure in 99 dogs</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>1997</year>;<volume>11</volume>:<fpage>58</fpage>&#x02013;<lpage>64</lpage>.
+<pub-id pub-id-type="pmid">9127291</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jvim15081-cit-0005">
+<string-name>
+<surname>Adin</surname>
+<given-names>CA</given-names>
+</string-name>, 
+<string-name>
+<surname>Cowgill</surname>
+<given-names>LD.</given-names>
+</string-name>
+<article-title>Treatment and outcome of dogs with leptospirosis: 36 cases (1990&#x02013;1998)</article-title>. <source xml:lang="en">J Am Vet Med Assoc.</source>
+<year>2000</year>;<volume>216</volume>:<fpage>371</fpage>&#x02013;<lpage>375</lpage>.
+<pub-id pub-id-type="pmid">10668536</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jvim15081-cit-0006">
+<string-name>
+<surname>Brown</surname>
+<given-names>SA</given-names>
+</string-name>, 
+<string-name>
+<surname>Barsanti</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Crowell</surname>
+<given-names>WA.</given-names>
+</string-name>
+<article-title>Gentamicin&#x02010;associated acute renal failure in the dog</article-title>. <source xml:lang="en">J Am Vet Med Assoc.</source>
+<year>1985</year>;<volume>186</volume>:<fpage>686</fpage>&#x02013;<lpage>690</lpage>.
+<pub-id pub-id-type="pmid">3988600</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jvim15081-cit-0007">
+<string-name>
+<surname>Bruchim</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Klement</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Saragusty</surname>
+<given-names>J</given-names>
+</string-name>, Finkeilstein E, Kass P, Aroch I. <article-title>Heat stroke in dogs: a retrospective study of 54 cases (1999&#x02013;2004) and analysis of risk factors for death</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>2006</year>;<volume>20</volume>:<fpage>38</fpage>&#x02013;<lpage>46</lpage>.
+<pub-id pub-id-type="pmid">16496921</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jvim15081-cit-0008">
+<string-name>
+<surname>Eubig</surname>
+<given-names>PA</given-names>
+</string-name>, 
+<string-name>
+<surname>Brady</surname>
+<given-names>MS</given-names>
+</string-name>, 
+<string-name>
+<surname>Gwaltney&#x02010;Brant</surname>
+<given-names>SM</given-names>
+</string-name>, Khan SA, Mazzaferro EM, Morrow CM. <article-title>Acute renal failure in dogs after the ingestion of grapes or raisins: a retrospective evaluation of 43 dogs (1992&#x02013;2002)</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>2005</year>;<volume>19</volume>:<fpage>663</fpage>&#x02013;<lpage>674</lpage>.
+<pub-id pub-id-type="pmid">16231710</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jvim15081-cit-0009">
+<string-name>
+<surname>Langston</surname>
+<given-names>CE.</given-names>
+</string-name>
+<article-title>Acute renal failure caused by lily ingestion in six cats</article-title>. <source xml:lang="en">J Am Vet Med Assoc.</source>
+<year>2002</year>;<volume>220</volume>:<fpage>49</fpage>&#x02013;<lpage>52, 36</lpage>.
+<pub-id pub-id-type="pmid">12680447</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jvim15081-cit-0010">
+<string-name>
+<surname>Segev</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Kass</surname>
+<given-names>PH</given-names>
+</string-name>, 
+<string-name>
+<surname>Francey</surname>
+<given-names>T</given-names>
+</string-name>, Cowgill LD. <article-title>A novel clinical scoring system for outcome prediction in dogs with acute kidney injury managed by hemodialysis</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>2008</year>;<volume>22</volume>:<fpage>301</fpage>&#x02013;<lpage>308</lpage>.
+<pub-id pub-id-type="pmid">18371024</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0010"><label>10</label><mixed-citation publication-type="book" id="jvim15081-cit-0011">
+<string-name>
+<surname>Langston</surname>
+<given-names>CE.</given-names>
+</string-name>
+<chapter-title>Acute uremia</chapter-title> In: <person-group person-group-type="editor"><name><surname>Ettinger</surname><given-names>SJ</given-names></name></person-group>, <person-group person-group-type="editor"><name><surname>Feldman</surname><given-names>EC</given-names></name></person-group>, eds. <source xml:lang="en">Textbook of Veterinary Internal Medicine</source>. <publisher-loc>Philadelphia</publisher-loc>: <publisher-name>Saunders WB</publisher-name>; <year>2010</year>:<fpage>1955</fpage>&#x02013;<lpage>2115</lpage>.
+</mixed-citation></ref><ref id="jvim15081-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jvim15081-cit-0012">
+<string-name>
+<surname>Bellomo</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Chapman</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Finfer</surname>
+<given-names>S</given-names>
+</string-name>, Hickling K, Myburgh J. <article-title>Low&#x02010;dose dopamine in patients with early renal dysfunction: a placebo&#x02010;controlled randomised trial</article-title>. <source xml:lang="en">Lancet.</source>
+<year>2000</year>;<volume>356</volume>:<fpage>2139</fpage>&#x02013;<lpage>2143</lpage>.
+<pub-id pub-id-type="pmid">11191541</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jvim15081-cit-0013">
+<string-name>
+<surname>Friedrich</surname>
+<given-names>JO</given-names>
+</string-name>, 
+<string-name>
+<surname>Adhikari</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Herridge</surname>
+<given-names>MS</given-names>
+</string-name>, Beyene J. <article-title>Meta&#x02010;analysis: low&#x02010;dose dopamine increases urine output but does not prevent renal dysfunction or death</article-title>. <source xml:lang="en">Ann Intern Med.</source>
+<year>2005</year>;<volume>142</volume>:<fpage>510</fpage>&#x02013;<lpage>524</lpage>.
+<pub-id pub-id-type="pmid">15809463</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jvim15081-cit-0014">
+<string-name>
+<surname>Kellum</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>M Decker</surname>
+<given-names>J.</given-names>
+</string-name>
+<article-title>Use of dopamine in acute renal failure: a meta&#x02010;analysis</article-title>. <source xml:lang="en">Crit Care Med.</source>
+<year>2001</year>;<volume>29</volume>:<fpage>1526</fpage>&#x02013;<lpage>1531</lpage>.
+<pub-id pub-id-type="pmid">11505120</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jvim15081-cit-0015">
+<string-name>
+<surname>Marik</surname>
+<given-names>PE.</given-names>
+</string-name>
+<article-title>Low&#x02010;dose dopamine: a systematic review</article-title>. <source xml:lang="en">Intensive Care Med.</source>
+<year>2002</year>;<volume>28</volume>:<fpage>877</fpage>&#x02013;<lpage>883</lpage>.
+<pub-id pub-id-type="pmid">12122525</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jvim15081-cit-0016">
+<string-name>
+<surname>Murphy</surname>
+<given-names>MB</given-names>
+</string-name>, 
+<string-name>
+<surname>Murray</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Shorten</surname>
+<given-names>GD.</given-names>
+</string-name>
+<article-title>Fenoldopam: a selective peripheral dopamine&#x02010;receptor agonist for the treatment of severe hypertension</article-title>. <source xml:lang="en">N Engl J Med.</source>
+<year>2001</year>;<volume>345</volume>:<fpage>1548</fpage>&#x02013;<lpage>1557</lpage>.
+<pub-id pub-id-type="pmid">11794223</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jvim15081-cit-0017">
+<string-name>
+<surname>Halpenny</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Rushe</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Breen</surname>
+<given-names>P</given-names>
+</string-name>, Cunningham AJ, Boucher&#x02010;Hayes D, Shorten GD. <article-title>The effects of fenoldopam on renal function in patients undergoing elective aortic surgery</article-title>. <source xml:lang="en">Eur J Anaesthesiol.</source>
+<year>2002</year>;<volume>19</volume>:<fpage>32</fpage>&#x02013;<lpage>39</lpage>.
+<pub-id pub-id-type="pmid">11913801</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jvim15081-cit-0018">
+<string-name>
+<surname>Moffett</surname>
+<given-names>BS</given-names>
+</string-name>, 
+<string-name>
+<surname>Mott</surname>
+<given-names>AR</given-names>
+</string-name>, 
+<string-name>
+<surname>Nelson</surname>
+<given-names>DP</given-names>
+</string-name>, Goldstein SL, Jefferies JL. <article-title>Renal effects of fenoldopam in critically ill pediatric patients: a retrospective review</article-title>. <source xml:lang="en">Pediatr Crit Care Med.</source>
+<year>2008</year>;<volume>9</volume>(<issue>4</issue>):<fpage>403</fpage>&#x02013;<lpage>406</lpage>.
+<pub-id pub-id-type="pmid">18496409</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jvim15081-cit-0019">
+<string-name>
+<surname>Stone</surname>
+<given-names>GW</given-names>
+</string-name>, 
+<string-name>
+<surname>McCullough</surname>
+<given-names>PA</given-names>
+</string-name>, 
+<string-name>
+<surname>Tumlin</surname>
+<given-names>JA</given-names>
+</string-name>, et al. <article-title>Fenoldopam mesylate for the prevention of contrast&#x02010;induced nephropathy: a randomized controlled trial</article-title>. <source xml:lang="en">J Am Med Assoc.</source>
+<year>2003</year>;<volume>290</volume>:<fpage>2284</fpage>&#x02013;<lpage>2291</lpage>.
+</mixed-citation></ref><ref id="jvim15081-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jvim15081-cit-0020">
+<string-name>
+<surname>Morelli</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Ricci</surname>
+<given-names>Z</given-names>
+</string-name>, 
+<string-name>
+<surname>Bellomo</surname>
+<given-names>R</given-names>
+</string-name>, et al. <article-title>Prophylactic fenoldopam for renal protection in sepsis: a randomized, double&#x02010;blind, placebo&#x02010;controlled pilot trial</article-title>. <source xml:lang="en">Crit Care Med.</source>
+<year>2005</year>;<volume>33</volume>:<fpage>2451</fpage>&#x02013;<lpage>2456</lpage>.
+<pub-id pub-id-type="pmid">16276165</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jvim15081-cit-0021">
+<string-name>
+<surname>Tumlin</surname>
+<given-names>JA</given-names>
+</string-name>, 
+<string-name>
+<surname>Finkel</surname>
+<given-names>KW</given-names>
+</string-name>, 
+<string-name>
+<surname>Murray</surname>
+<given-names>PT</given-names>
+</string-name>, 
+<string-name>
+<surname>Samuels</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Cotsonis</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Shaw</surname>
+<given-names>AD.</given-names>
+</string-name>
+<article-title>Fenoldopam mesylate in early acute tubular necrosis: a randomized, double&#x02010;blind, placebo&#x02010;controlled clinical trial</article-title>. <source xml:lang="en">Am J Kidney Dis.</source>
+<year>2005</year>;<volume>46</volume>:<fpage>26</fpage>&#x02013;<lpage>34</lpage>.
+<pub-id pub-id-type="pmid">15983954</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jvim15081-cit-0022">
+<string-name>
+<surname>Landoni</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Biondi&#x02010;Zoccai</surname>
+<given-names>GG</given-names>
+</string-name>, 
+<string-name>
+<surname>Marino</surname>
+<given-names>G</given-names>
+</string-name>, et al. <article-title>Fenoldopam reduces the need for renal replacement therapy and in&#x02010;hospital death in cardiovascular surgery: a meta&#x02010;analysis</article-title>. <source xml:lang="en">J Cardiothorac Vasc Anesth.</source>
+<year>2008</year>;<volume>22</volume>:<fpage>27</fpage>&#x02013;<lpage>33</lpage>.
+<pub-id pub-id-type="pmid">18249327</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jvim15081-cit-0023">
+<string-name>
+<surname>Venkataraman</surname>
+<given-names>R.</given-names>
+</string-name>
+<article-title>Can we prevent acute kidney injury?</article-title>
+<source xml:lang="en">Crit Care Med.</source>
+<year>2008</year>;<volume>36</volume>:<fpage>S166</fpage>&#x02013;<lpage>S171</lpage>.
+<pub-id pub-id-type="pmid">18382189</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jvim15081-cit-0024">
+<string-name>
+<surname>Nielsen</surname>
+<given-names>LK</given-names>
+</string-name>, 
+<string-name>
+<surname>Bracker</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Price</surname>
+<given-names>LL.</given-names>
+</string-name>
+<article-title>Administration of fenoldopam in critically ill small animal patients with acute kidney injury: 28 dogs and 34 cats (2008&#x02013;2012)</article-title>. <source xml:lang="en">J Vet Emerg Crit Care.</source>
+<year>2015</year>;<volume>25</volume>:<fpage>396</fpage>&#x02013;<lpage>404</lpage>.
+</mixed-citation></ref><ref id="jvim15081-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jvim15081-cit-0025">
+<string-name>
+<surname>Dematte</surname>
+<given-names>JE</given-names>
+</string-name>, 
+<string-name>
+<surname>O'Mara</surname>
+<given-names>K</given-names>
+</string-name>, 
+<string-name>
+<surname>Buescher</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Near&#x02010;fatal heat stroke during the 1995 heat wave in Chicago</article-title>. <source xml:lang="en">Ann Intern Med.</source>
+<year>1998</year>;<volume>129</volume>:<fpage>173</fpage>&#x02013;<lpage>181</lpage>.
+<pub-id pub-id-type="pmid">9696724</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jvim15081-cit-0026">
+<string-name>
+<surname>Bruchim</surname>
+<given-names>Y</given-names>
+</string-name>, 
+<string-name>
+<surname>Loeb</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Saragusty</surname>
+<given-names>J</given-names>
+</string-name>, Aroch I. <article-title>Pathological findings in dogs with fatal heatstroke</article-title>. <source xml:lang="en">J Comp Pathol.</source>
+<year>2009</year>;<volume>140</volume>:<fpage>97</fpage>&#x02013;<lpage>104</lpage>.
+<pub-id pub-id-type="pmid">19111315</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jvim15081-cit-0027">
+<string-name>
+<surname>Aroch</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Segev</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Loeb</surname>
+<given-names>E</given-names>
+</string-name>, Bruchim Y. <article-title>Peripheral nucleated red blood cells as a prognostic indicator in heatstroke in dogs</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>2009</year>;<volume>23</volume>:<fpage>544</fpage>&#x02013;<lpage>551</lpage>.
+<pub-id pub-id-type="pmid">19422468</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jvim15081-cit-0028">
+<string-name>
+<surname>Lin</surname>
+<given-names>YF</given-names>
+</string-name>, 
+<string-name>
+<surname>Wang</surname>
+<given-names>JY</given-names>
+</string-name>, 
+<string-name>
+<surname>Chou</surname>
+<given-names>TC</given-names>
+</string-name>, Lin SH. <article-title>Vasoactive mediators and renal haemodynamics in exertional heat stroke complicated by acute renal failure</article-title>. <source xml:lang="en">QJM.</source>
+<year>2003</year>;<volume>96</volume>:<fpage>193</fpage>&#x02013;<lpage>201</lpage>.
+<pub-id pub-id-type="pmid">12615983</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jvim15081-cit-0029">
+<string-name>
+<surname>Segev</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Daminet</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Meyer</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Characterization of kidney damage using several renal biomarkers in dogs with naturally occurring heatstroke</article-title>. <source xml:lang="en">Vet J.</source>
+<year>2015</year>;<volume>206</volume>:<fpage>231</fpage>&#x02013;<lpage>235</lpage>.
+<pub-id pub-id-type="pmid">26346257</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0029"><label>29</label><mixed-citation publication-type="miscellaneous" id="jvim15081-cit-0030">IRIS. International Renal Interest Society Web site. <ext-link ext-link-type="uri" xlink:href="http://www.iris-kidney.com/">http://www.iris-kidney.com/</ext-link>. Accessed February 7, 2018.
+</mixed-citation></ref><ref id="jvim15081-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jvim15081-cit-0031">
+<string-name>
+<surname>Segev</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Aroch</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Savoray</surname>
+<given-names>M</given-names>
+</string-name>, Kass PH, Bruchim Y. <article-title>A novel severity scoring system for dogs with heatstroke</article-title>. <source xml:lang="en">J Vet Emerg Crit Care (San Antonio).</source>
+<year>2015</year>;<volume>25</volume>:<fpage>240</fpage>&#x02013;<lpage>247</lpage>.
+<pub-id pub-id-type="pmid">25677206</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jvim15081-cit-0032">
+<string-name>
+<surname>Finco</surname>
+<given-names>DR</given-names>
+</string-name>, 
+<string-name>
+<surname>Tabaru</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Brown</surname>
+<given-names>SA</given-names>
+</string-name>, Barsanti JA. <article-title>Endogenous creatinine clearance measurement of glomerular filtration rate in dogs</article-title>. <source xml:lang="en">Am J Vet Res.</source>
+<year>1993</year>;<volume>54</volume>:<fpage>1575</fpage>&#x02013;<lpage>1578</lpage>.
+<pub-id pub-id-type="pmid">8250379</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jvim15081-cit-0033">
+<string-name>
+<surname>Bovee</surname>
+<given-names>KC</given-names>
+</string-name>, 
+<string-name>
+<surname>Joyce</surname>
+<given-names>T.</given-names>
+</string-name>
+<article-title>Clinical evaluation of glomerular function: 24&#x02010;hour creatinine clearance in dogs</article-title>. <source xml:lang="en">J Am Vet Med Assoc.</source>
+<year>1979</year>;<volume>174</volume>:<fpage>488</fpage>&#x02013;<lpage>491</lpage>.
+<pub-id pub-id-type="pmid">447579</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jvim15081-cit-0034">
+<string-name>
+<surname>Finco</surname>
+<given-names>DR</given-names>
+</string-name>, 
+<string-name>
+<surname>Coulter</surname>
+<given-names>DB</given-names>
+</string-name>, 
+<string-name>
+<surname>Barsanti</surname>
+<given-names>JA.</given-names>
+</string-name>
+<article-title>Simple, accurate method for clinical estimation of glomerular filtration rate in the dog</article-title>. <source xml:lang="en">Am J Vet Res.</source>
+<year>1981</year>;<volume>42</volume>:<fpage>1874</fpage>&#x02013;<lpage>1877</lpage>.
+<pub-id pub-id-type="pmid">7337283</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jvim15081-cit-0035">
+<string-name>
+<surname>Bloom</surname>
+<given-names>CA</given-names>
+</string-name>, 
+<string-name>
+<surname>Labato</surname>
+<given-names>MA</given-names>
+</string-name>, 
+<string-name>
+<surname>Hazarika</surname>
+<given-names>S</given-names>
+</string-name>, Court MH. <article-title>Preliminary pharmacokinetics and cardiovascular effects of fenoldopam continuous rate infusion in six healthy dogs</article-title>. <source xml:lang="en">J Vet Pharmacol Ther.</source>
+<year>2012</year>;<volume>35</volume>:<fpage>224</fpage>&#x02013;<lpage>230</lpage>.
+<pub-id pub-id-type="pmid">21732952</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jvim15081-cit-0036">
+<string-name>
+<surname>Singer</surname>
+<given-names>I</given-names>
+</string-name>, 
+<string-name>
+<surname>Epstein</surname>
+<given-names>M.</given-names>
+</string-name>
+<article-title>Potential of dopamine A&#x02010;1 agonists in the management of acute renal failure</article-title>. <source xml:lang="en">Am J Kidney Dis.</source>
+<year>1998</year>;<volume>31</volume>:<fpage>743</fpage>&#x02013;<lpage>755</lpage>.
+<pub-id pub-id-type="pmid">9590183</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jvim15081-cit-0037">
+<string-name>
+<surname>Goldberg</surname>
+<given-names>LI.</given-names>
+</string-name>
+<article-title>Dopamine and new dopamine analogs: receptors and clinical applications</article-title>. <source xml:lang="en">J Clin Anesth.</source>
+<year>1988</year>;<volume>1</volume>:<fpage>66</fpage>&#x02013;<lpage>74</lpage>.
+<pub-id pub-id-type="pmid">2908484</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jvim15081-cit-0038">
+<string-name>
+<surname>Grund</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Muller&#x02010;Ruchholtz</surname>
+<given-names>ER</given-names>
+</string-name>, 
+<string-name>
+<surname>Hauer</surname>
+<given-names>F</given-names>
+</string-name>, Lapp ER. <article-title>Effects of dopamine on total peripheral resistance and integrated systemic venous blood volume in dogs</article-title>. <source xml:lang="en">Basic Res Cardiol.</source>
+<year>1980</year>;<volume>75</volume>:<fpage>623</fpage>&#x02013;<lpage>634</lpage>.
+<pub-id pub-id-type="pmid">7447896</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jvim15081-cit-0039">
+<string-name>
+<surname>Kelly</surname>
+<given-names>KL</given-names>
+</string-name>, 
+<string-name>
+<surname>Drobatz</surname>
+<given-names>KJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Foster</surname>
+<given-names>JD.</given-names>
+</string-name>
+<article-title>Effect of fenoldopam continuous infusion on glomerular filtration rate and fractional excretion of sodium in healthy dogs</article-title>. <source xml:lang="en">J Vet Intern Med.</source>
+<year>2016</year>;<volume>30</volume>:<fpage>1655</fpage>&#x02013;<lpage>1660</lpage>.
+<pub-id pub-id-type="pmid">27452198</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jvim15081-cit-0040">
+<string-name>
+<surname>Smithies</surname>
+<given-names>MN</given-names>
+</string-name>, 
+<string-name>
+<surname>Cameron</surname>
+<given-names>JS.</given-names>
+</string-name>
+<article-title>Can we predict outcome in acute renal failure?</article-title>
+<source xml:lang="en">Nephron.</source>
+<year>1989</year>;<volume>51</volume>:<fpage>297</fpage>&#x02013;<lpage>300</lpage>.
+<pub-id pub-id-type="pmid">2918940</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jvim15081-cit-0041">
+<string-name>
+<surname>Simmons</surname>
+<given-names>JP</given-names>
+</string-name>, 
+<string-name>
+<surname>Wohl</surname>
+<given-names>JS</given-names>
+</string-name>, 
+<string-name>
+<surname>Schwartz</surname>
+<given-names>DD</given-names>
+</string-name>, Edward HG, Wright JC. <article-title>Diuretic effects of fenoldopam in healthy cats</article-title>. <source xml:lang="en">J Vet Emerg Crit.</source>
+<year>2006</year>;<volume>16</volume>:<fpage>96</fpage>&#x02013;<lpage>103</lpage>.
+</mixed-citation></ref><ref id="jvim15081-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jvim15081-cit-0042">
+<string-name>
+<surname>Mathur</surname>
+<given-names>VS</given-names>
+</string-name>, 
+<string-name>
+<surname>Swan</surname>
+<given-names>SK</given-names>
+</string-name>, 
+<string-name>
+<surname>Lambrecht</surname>
+<given-names>LJ</given-names>
+</string-name>, et al. <article-title>The effects of fenoldopam, a selective dopamine receptor agonist, on systemic and renal hemodynamics in normotensive subjects</article-title>. <source xml:lang="en">Crit Care Med.</source>
+<year>1999</year>;<volume>27</volume>:<fpage>1832</fpage>&#x02013;<lpage>1837</lpage>.
+<pub-id pub-id-type="pmid">10507606</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jvim15081-cit-0043">
+<string-name>
+<surname>Haas</surname>
+<given-names>CE</given-names>
+</string-name>, 
+<string-name>
+<surname>LeBlanc</surname>
+<given-names>JM.</given-names>
+</string-name>
+<article-title>Acute postoperative hypertension: a review of therapeutic options</article-title>. <source xml:lang="en">Am J Health Syst Pharm.</source>
+<year>2004</year>;<volume>61</volume>:<fpage>1661</fpage>&#x02013;<lpage>1673</lpage>. quiz 1674&#x02010;1665.
+<pub-id pub-id-type="pmid">15540477</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jvim15081-cit-0044">
+<string-name>
+<surname>Tuncel</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Ram</surname>
+<given-names>VC.</given-names>
+</string-name>
+<article-title>Hypertensive emergencies. Etiology and management</article-title>. <source xml:lang="en">Am J Cardiovasc Drugs.</source>
+<year>2003</year>;<volume>3</volume>:<fpage>21</fpage>&#x02013;<lpage>31</lpage>.
+<pub-id pub-id-type="pmid">14727943</pub-id></mixed-citation></ref><ref id="jvim15081-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jvim15081-cit-0045">
+<string-name>
+<surname>Caimmi</surname>
+<given-names>PP</given-names>
+</string-name>, 
+<string-name>
+<surname>Pagani</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Micalizzi</surname>
+<given-names>E</given-names>
+</string-name>, et al. <article-title>Fenoldopam for renal protection in patients undergoing cardiopulmonary bypass</article-title>. <source xml:lang="en">J Cardiothorac Anesth.</source>
+<year>2003</year>;<volume>17</volume>:<fpage>491</fpage>&#x02013;<lpage>494</lpage>.
+</mixed-citation></ref></ref-list></back></article>

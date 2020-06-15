@@ -1,0 +1,651 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Liver Transpl</journal-id><journal-id journal-id-type="iso-abbrev">Liver Transpl</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)1527-6473</journal-id><journal-id journal-id-type="publisher-id">LT</journal-id><journal-title-group><journal-title>Liver Transplantation</journal-title></journal-title-group><issn pub-type="ppub">1527-6465</issn><issn pub-type="epub">1527-6473</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29171941</article-id><article-id pub-id-type="pmc">5873437</article-id><article-id pub-id-type="doi">10.1002/lt.24986</article-id><article-id pub-id-type="publisher-id">LT24986</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Bench to Bedside</subject></subj-group></subj-group></article-categories><title-group><article-title>Extracorporeal cellular therapy (ELAD) in severe alcoholic hepatitis: A multinational, prospective, controlled, randomized trial</article-title><alt-title alt-title-type="left-running-head">Thompson et al.</alt-title><alt-title alt-title-type="right-running-head">Thompson et al.</alt-title></title-group><contrib-group><contrib id="lt24986-cr-0001" contrib-type="author"><name><surname>Thompson</surname><given-names>Julie</given-names></name><xref ref-type="aff" rid="lt24986-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="lt24986-cr-0002" contrib-type="author"><name><surname>Jones</surname><given-names>Natasha</given-names></name><xref ref-type="aff" rid="lt24986-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="lt24986-cr-0003" contrib-type="author"><name><surname>Al&#x02010;Khafaji</surname><given-names>Ali</given-names></name><xref ref-type="aff" rid="lt24986-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="lt24986-cr-0004" contrib-type="author"><name><surname>Malik</surname><given-names>Shahid</given-names></name><xref ref-type="aff" rid="lt24986-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="lt24986-cr-0005" contrib-type="author"><name><surname>Reich</surname><given-names>David</given-names></name><xref ref-type="aff" rid="lt24986-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="lt24986-cr-0006" contrib-type="author"><name><surname>Munoz</surname><given-names>Santiago</given-names></name><xref ref-type="aff" rid="lt24986-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="lt24986-cr-0007" contrib-type="author"><name><surname>MacNicholas</surname><given-names>Ross</given-names></name><xref ref-type="aff" rid="lt24986-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="lt24986-cr-0008" contrib-type="author"><name><surname>Hassanein</surname><given-names>Tarek</given-names></name><xref ref-type="aff" rid="lt24986-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="lt24986-cr-0009" contrib-type="author"><name><surname>Teperman</surname><given-names>Lewis</given-names></name><xref ref-type="aff" rid="lt24986-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="lt24986-cr-0010" contrib-type="author"><name><surname>Stein</surname><given-names>Lance</given-names></name><xref ref-type="aff" rid="lt24986-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="lt24986-cr-0011" contrib-type="author"><name><surname>Duarte&#x02010;Rojo</surname><given-names>Andr&#x000e9;s</given-names></name><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-5377-9295</contrib-id><xref ref-type="aff" rid="lt24986-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="lt24986-cr-0012" contrib-type="author"><name><surname>Malik</surname><given-names>Raza</given-names></name><xref ref-type="aff" rid="lt24986-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="lt24986-cr-0013" contrib-type="author"><name><surname>Adhami</surname><given-names>Talal</given-names></name><xref ref-type="aff" rid="lt24986-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="lt24986-cr-0014" contrib-type="author"><name><surname>Asrani</surname><given-names>Sumeet</given-names></name><xref ref-type="aff" rid="lt24986-aff-0012">
+<sup>12</sup>
+</xref></contrib><contrib id="lt24986-cr-0015" contrib-type="author"><name><surname>Shah</surname><given-names>Nikunj</given-names></name><xref ref-type="aff" rid="lt24986-aff-0013">
+<sup>13</sup>
+</xref></contrib><contrib id="lt24986-cr-0016" contrib-type="author"><name><surname>Gaglio</surname><given-names>Paul</given-names></name><xref ref-type="aff" rid="lt24986-aff-0014">
+<sup>14</sup>
+</xref></contrib><contrib id="lt24986-cr-0017" contrib-type="author"><name><surname>Duddempudi</surname><given-names>Anupama</given-names></name><xref ref-type="aff" rid="lt24986-aff-0015">
+<sup>15</sup>
+</xref></contrib><contrib id="lt24986-cr-0018" contrib-type="author"><name><surname>Borg</surname><given-names>Brian</given-names></name><xref ref-type="aff" rid="lt24986-aff-0016">
+<sup>16</sup>
+</xref></contrib><contrib id="lt24986-cr-0019" contrib-type="author"><name><surname>Jalan</surname><given-names>Rajiv</given-names></name><xref ref-type="aff" rid="lt24986-aff-0017">
+<sup>17</sup>
+</xref></contrib><contrib id="lt24986-cr-0020" contrib-type="author"><name><surname>Brown</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="lt24986-aff-0018">
+<sup>18</sup>
+</xref></contrib><contrib id="lt24986-cr-0021" contrib-type="author"><name><surname>Patton</surname><given-names>Heather</given-names></name><xref ref-type="aff" rid="lt24986-aff-0019">
+<sup>19</sup>
+</xref></contrib><contrib id="lt24986-cr-0022" contrib-type="author"><name><surname>Satoskar</surname><given-names>Rohit</given-names></name><xref ref-type="aff" rid="lt24986-aff-0020">
+<sup>20</sup>
+</xref></contrib><contrib id="lt24986-cr-0023" contrib-type="author"><name><surname>Rossi</surname><given-names>Simona</given-names></name><xref ref-type="aff" rid="lt24986-aff-0021">
+<sup>21</sup>
+</xref></contrib><contrib id="lt24986-cr-0024" contrib-type="author"><name><surname>Parikh</surname><given-names>Amay</given-names></name><xref ref-type="aff" rid="lt24986-aff-0022">
+<sup>22</sup>
+</xref></contrib><contrib id="lt24986-cr-0025" contrib-type="author"><name><surname>ElSharkawy</surname><given-names>Ahmed</given-names></name><xref ref-type="aff" rid="lt24986-aff-0023">
+<sup>23</sup>
+</xref></contrib><contrib id="lt24986-cr-0026" contrib-type="author"><name><surname>Mantry</surname><given-names>Parvez</given-names></name><xref ref-type="aff" rid="lt24986-aff-0024">
+<sup>24</sup>
+</xref></contrib><contrib id="lt24986-cr-0027" contrib-type="author"><name><surname>Sher</surname><given-names>Linda</given-names></name><xref ref-type="aff" rid="lt24986-aff-0025">
+<sup>25</sup>
+</xref></contrib><contrib id="lt24986-cr-0028" contrib-type="author"><name><surname>Wolf</surname><given-names>David</given-names></name><xref ref-type="aff" rid="lt24986-aff-0026">
+<sup>26</sup>
+</xref></contrib><contrib id="lt24986-cr-0029" contrib-type="author"><name><surname>Hart</surname><given-names>Marquis</given-names></name><xref ref-type="aff" rid="lt24986-aff-0027">
+<sup>27</sup>
+</xref></contrib><contrib id="lt24986-cr-0030" contrib-type="author"><name><surname>Landis</surname><given-names>Charles</given-names></name><xref ref-type="aff" rid="lt24986-aff-0028">
+<sup>28</sup>
+</xref></contrib><contrib id="lt24986-cr-0031" contrib-type="author"><name><surname>Wigg</surname><given-names>Alan</given-names></name><xref ref-type="aff" rid="lt24986-aff-0029">
+<sup>29</sup>
+</xref></contrib><contrib id="lt24986-cr-0032" contrib-type="author"><name><surname>Habib</surname><given-names>Shahid</given-names></name><xref ref-type="aff" rid="lt24986-aff-0030">
+<sup>30</sup>
+</xref></contrib><contrib id="lt24986-cr-0033" contrib-type="author"><name><surname>McCaughan</surname><given-names>Geoffrey</given-names></name><xref ref-type="aff" rid="lt24986-aff-0031">
+<sup>31</sup>
+</xref></contrib><contrib id="lt24986-cr-0034" contrib-type="author"><name><surname>Colquhoun</surname><given-names>Steven</given-names></name><xref ref-type="aff" rid="lt24986-aff-0032">
+<sup>32</sup>
+</xref></contrib><contrib id="lt24986-cr-0035" contrib-type="author"><name><surname>Henry</surname><given-names>Alyssa</given-names></name><xref ref-type="aff" rid="lt24986-aff-0033">
+<sup>33</sup>
+</xref></contrib><contrib id="lt24986-cr-0036" contrib-type="author"><name><surname>Bedard</surname><given-names>Patricia</given-names></name><xref ref-type="aff" rid="lt24986-aff-0033">
+<sup>33</sup>
+</xref></contrib><contrib id="lt24986-cr-0037" contrib-type="author"><name><surname>Landeen</surname><given-names>Lee</given-names></name><xref ref-type="aff" rid="lt24986-aff-0033">
+<sup>33</sup>
+</xref></contrib><contrib id="lt24986-cr-0038" contrib-type="author"><name><surname>Millis</surname><given-names>Michael</given-names></name><xref ref-type="aff" rid="lt24986-aff-0034">
+<sup>34</sup>
+</xref></contrib><contrib id="lt24986-cr-0039" contrib-type="author"><name><surname>Ashley</surname><given-names>Robert</given-names></name><xref ref-type="aff" rid="lt24986-aff-0033">
+<sup>33</sup>
+</xref></contrib><contrib id="lt24986-cr-0040" contrib-type="author"><name><surname>Frank</surname><given-names>William</given-names></name><xref ref-type="aff" rid="lt24986-aff-0033">
+<sup>33</sup>
+</xref></contrib><contrib id="lt24986-cr-0041" contrib-type="author"><name><surname>Henry</surname><given-names>Andrew</given-names></name><xref ref-type="aff" rid="lt24986-aff-0033">
+<sup>33</sup>
+</xref></contrib><contrib id="lt24986-cr-0042" contrib-type="author" corresp="yes"><name><surname>Stange</surname><given-names>Jan</given-names></name><address><email>jan.stange@med.uni-rostock.de</email></address><xref ref-type="aff" rid="lt24986-aff-0033">
+<sup>33</sup>
+</xref><xref ref-type="aff" rid="lt24986-aff-0035">
+<sup>35</sup>
+</xref><xref ref-type="author-notes" rid="lt24986-note-0006">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="lt24986-cr-0043" contrib-type="author"><name><surname>Subramanian</surname><given-names>Ram</given-names></name><xref ref-type="aff" rid="lt24986-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="author-notes" rid="lt24986-note-0006">
+<sup>&#x02020;</sup>
+</xref></contrib><contrib id="lt24986-cr-0044" contrib-type="author"><collab collab-type="authors">on behalf of the VTI&#x02010;208 Study Group</collab></contrib></contrib-group><aff id="lt24986-aff-0001">
+<label><sup>1</sup></label>
+<institution>University of Minnesota Medical Center</institution>
+<named-content content-type="city">Minneapolis</named-content>
+<named-content content-type="country-part">MN</named-content>
+</aff><aff id="lt24986-aff-0002">
+<label><sup>2</sup></label>
+<institution>Emory University School of Medicine</institution>
+<named-content content-type="city">Atlanta</named-content>
+<named-content content-type="country-part">GA</named-content>
+</aff><aff id="lt24986-aff-0003">
+<label><sup>3</sup></label>
+<institution>University of Pittsburgh Medical Center</institution>
+<named-content content-type="city">Pittsburgh</named-content>
+<named-content content-type="country-part">PA</named-content>
+</aff><aff id="lt24986-aff-0004">
+<label><sup>4</sup></label>
+<institution>Drexel University</institution>
+<named-content content-type="city">Philadelphia</named-content>
+<named-content content-type="country-part">PA</named-content>
+</aff><aff id="lt24986-aff-0005">
+<label><sup>5</sup></label>
+<institution>Sir Charles Gairdner Hospital</institution>
+<named-content content-type="city">Nedlands</named-content>
+<named-content content-type="country-part">Western Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="lt24986-aff-0006">
+<label><sup>6</sup></label>
+<institution>Southern California Gastrointestinal and Liver Centers</institution>
+<named-content content-type="city">Coronado</named-content>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="lt24986-aff-0007">
+<label><sup>7</sup></label>
+<institution>New York University Medical</institution>
+<named-content content-type="city">New York City</named-content>
+<named-content content-type="country-part">NY</named-content>
+</aff><aff id="lt24986-aff-0008">
+<label><sup>8</sup></label>
+<institution>Piedmont Atlanta Hospital</institution>
+<named-content content-type="city">Atlanta</named-content>
+<named-content content-type="country-part">GA</named-content>
+</aff><aff id="lt24986-aff-0009">
+<label><sup>9</sup></label>
+<institution>University of Arkansas for Medical Sciences</institution>
+<named-content content-type="city">Little Rock</named-content>
+<named-content content-type="country-part">AK</named-content>
+</aff><aff id="lt24986-aff-0010">
+<label><sup>10</sup></label>
+<institution>Beth Israel Deaconess Medical Center</institution>
+<named-content content-type="city">Boston</named-content>
+<named-content content-type="country-part">MA</named-content>
+</aff><aff id="lt24986-aff-0011">
+<label><sup>11</sup></label>
+<institution>Cleveland Clinic Foundation in Cleveland</institution>
+<named-content content-type="country-part">OH</named-content>
+</aff><aff id="lt24986-aff-0012">
+<label><sup>12</sup></label>
+<institution>Baylor University Medical Center</institution>
+<named-content content-type="city">Dallas</named-content>
+<named-content content-type="country-part">TX</named-content>
+</aff><aff id="lt24986-aff-0013">
+<label><sup>13</sup></label>
+<institution>Rush University Medical Center</institution>
+<named-content content-type="city">Chicago</named-content>
+<named-content content-type="country-part">IL</named-content>
+</aff><aff id="lt24986-aff-0014">
+<label><sup>14</sup></label>
+<institution>Montefiore Medical Center</institution>
+<named-content content-type="city">Bronx</named-content>
+<named-content content-type="country-part">NY</named-content>
+</aff><aff id="lt24986-aff-0015">
+<label><sup>15</sup></label>
+<institution>North Shore University Hospital</institution>
+<named-content content-type="city">Manhasset</named-content>
+<named-content content-type="country-part">NY</named-content>
+</aff><aff id="lt24986-aff-0016">
+<label><sup>16</sup></label>
+<institution>University of Mississippi Medical Center</institution>
+<named-content content-type="city">Jackson</named-content>
+<named-content content-type="country-part">MS</named-content>
+</aff><aff id="lt24986-aff-0017">
+<label><sup>17</sup></label>
+<institution>Royal Free Hospital</institution>
+<named-content content-type="city">London</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="lt24986-aff-0018">
+<label><sup>18</sup></label>
+<institution>Columbia University Medical Center</institution>
+<named-content content-type="city">New York City</named-content>
+<named-content content-type="country-part">NY</named-content>
+</aff><aff id="lt24986-aff-0019">
+<label><sup>19</sup></label>
+<institution>University of California, San Diego Medical Center</institution>
+<named-content content-type="city">San Diego</named-content>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="lt24986-aff-0020">
+<label><sup>20</sup></label>
+<institution>Georgetown University</institution>
+<named-content content-type="city">Washington</named-content>
+<named-content content-type="country-part">DC</named-content>
+</aff><aff id="lt24986-aff-0021">
+<label><sup>21</sup></label>
+<institution>Albert Einstein Medical Center</institution>
+<named-content content-type="city">Philadelphia</named-content>
+<named-content content-type="country-part">PA</named-content>
+</aff><aff id="lt24986-aff-0022">
+<label><sup>22</sup></label>
+<institution>Rutgers University Medical Center</institution>
+<named-content content-type="city">New Brunswick</named-content>
+<named-content content-type="country-part">NJ</named-content>
+</aff><aff id="lt24986-aff-0023">
+<label><sup>23</sup></label>
+<institution>Queen Elizabeth Hospital/University of Birmingham</institution>
+<named-content content-type="city">Birmingham</named-content>
+<country country="GB">United Kingdom</country>
+</aff><aff id="lt24986-aff-0024">
+<label><sup>24</sup></label>
+<institution>Methodist Dallas Medical Center</institution>
+<named-content content-type="city">Dallas</named-content>
+<named-content content-type="country-part">TX</named-content>
+</aff><aff id="lt24986-aff-0025">
+<label><sup>25</sup></label>
+<institution>University of Southern California</institution>
+<named-content content-type="city">Los Angeles</named-content>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="lt24986-aff-0026">
+<label><sup>26</sup></label>
+<institution>Westchester Medical Center</institution>
+<named-content content-type="city">Valhalla</named-content>
+<named-content content-type="country-part">NY</named-content>
+</aff><aff id="lt24986-aff-0027">
+<label><sup>27</sup></label>
+<institution>Swedish Medical Center</institution>
+<named-content content-type="city">Seattle</named-content>
+<named-content content-type="country-part">WA</named-content>
+</aff><aff id="lt24986-aff-0028">
+<label><sup>28</sup></label>
+<institution>University of Washington, Harborview</institution>
+<named-content content-type="city">Seattle</named-content>
+<named-content content-type="country-part">WA</named-content>
+</aff><aff id="lt24986-aff-0029">
+<label><sup>29</sup></label>
+<institution>Flinders Medical Centre, Adelaide</institution>
+<named-content content-type="city">Bedford Park</named-content>
+<named-content content-type="country-part">South Australia</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="lt24986-aff-0030">
+<label><sup>30</sup></label>
+<institution>University of Arizona Medical Center</institution>
+<named-content content-type="city">Tucson</named-content>
+<named-content content-type="country-part">AZ</named-content>
+</aff><aff id="lt24986-aff-0031">
+<label><sup>31</sup></label>
+<institution>Royal Prince Alfred Hospital</institution>
+<named-content content-type="city">Camperdown</named-content>
+<named-content content-type="country-part">New South Wales</named-content>
+<country country="AU">Australia</country>
+</aff><aff id="lt24986-aff-0032">
+<label><sup>32</sup></label>
+<institution>Cedars&#x02010;Sinai Medical Center</institution>
+<named-content content-type="city">Los Angeles</named-content>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="lt24986-aff-0033">
+<label><sup>33</sup></label>
+<institution>Vital Therapies Inc.</institution>
+<named-content content-type="city">San Diego</named-content>
+<named-content content-type="country-part">CA</named-content>
+</aff><aff id="lt24986-aff-0034">
+<label><sup>34</sup></label>
+<institution>University of Chicago</institution>
+<named-content content-type="city">Chicago</named-content>
+<named-content content-type="country-part">IL</named-content>
+</aff><aff id="lt24986-aff-0035">
+<label><sup>35</sup></label>
+<institution>Center for Internal Medicine, University of Rostock</institution>
+<named-content content-type="city">Rostock</named-content>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Address reprint requests to Jan Stange, M.D., Center for Internal Medicine, University of Rostock, E&#x02010;Heydemann Strasse 06, Rostock 18055, Germany. E&#x02010;mail: <email>jan.stange@med.uni-rostock.de</email></corresp><fn id="lt24986-note-0006"><label>&#x02020;</label><p>These authors contributed equally to the work.</p></fn></author-notes><pub-date pub-type="epub"><day>23</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="ppub"><month>3</month><year>2018</year></pub-date><volume>24</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/lt.v24.3</issue-id><fpage>380</fpage><lpage>393</lpage><history><date date-type="received"><day>23</day><month>5</month><year>2017</year></date><date date-type="rev-recd"><day>30</day><month>9</month><year>2017</year></date><date date-type="accepted"><day>10</day><month>10</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2018 by the American Association for the Study of Liver Diseases. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2017 The Authors. Liver Transplantation published by Wiley Periodicals, Inc. on behalf of American Association for the Study of Liver Diseases.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:LT-24-380.pdf"/><abstract><p>Severe alcoholic hepatitis (sAH) is associated with a poor prognosis. There is no proven effective treatment for sAH, which is why early transplantation has been increasingly discussed. Hepatoblastoma&#x02010;derived C3A cells express anti&#x02010;inflammatory proteins and growth factors and were tested in an extracorporeal cellular therapy (ELAD) study to establish their effect on survival for subjects with sAH. Adults with sAH, bilirubin &#x02265;8&#x02009;mg/dL, Maddrey's discriminant function&#x02009;&#x02265;&#x02009;32, and Model for End&#x02010;Stage Liver Disease (MELD) score&#x02009;&#x02264;&#x02009;35 were randomized to receive standard of care (SOC) only or 3&#x02010;5 days of continuous ELAD treatment plus SOC. After a minimum follow&#x02010;up of 91 days, overall survival (OS) was assessed by using a Kaplan&#x02010;Meier survival analysis. A total of 203 subjects were enrolled (96 ELAD and 107 SOC) at 40 sites worldwide. Comparison of baseline characteristics showed no significant differences between groups and within subgroups. There was no significant difference in serious adverse events between the 2 groups. In an analysis of the intent&#x02010;to&#x02010;treat population, there was no difference in OS (51.0% versus 49.5%). The study failed its primary and secondary end point in a population with sAH and with a MELD ranging from 18 to 35 and no upper age limit. In the prespecified analysis of subjects with MELD&#x02009;&#x0003c;&#x02009;28 (n&#x02009;=&#x02009;120), ELAD was associated with a trend toward higher OS at 91 days (68.6% versus 53.6%; <italic>P</italic>&#x02009;=&#x02009;.08). Regression analysis identified high creatinine and international normalized ratio, but not bilirubin, as the MELD components predicting negative outcomes with ELAD. A new trial investigating a potential benefit of ELAD in younger subjects with sufficient renal function and less severe coagulopathy has been initiated. <italic>Liver Transplantation 24 380&#x02013;393 2018</italic> AASLD.</p></abstract><counts><fig-count count="5"/><table-count count="2"/><page-count count="14"/><word-count count="5991"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>lt24986</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.3 mode:remove_FC converted:28.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><fn-group><fn id="lt24986-note-0001"><p>This article was written by Julie Thompson, Ram Subramanian, and Jan Stange. Major contributions were provided by Ali Al&#x02010;Khafaji, Shahid Malik, David Reich, Santiago Munoz, Ross MacNicholas, Tarek Hassanein, Lewis Teperman, and Natasha Jones. Major subject recruitment and additional contributions were provided by Lance Stein, Andr&#x000e9;s Duarte&#x02010;Rojo, Raza Malik, Talal Adhami, Sumeet Asrani, Nikunj Shah, Paul Gaglio, Anupama Duddempudi, Brian Borg, Rajiv Jalan, Robert Brown, Heather Patton, Rohit Satoskar, Simona Rossi, Amay Parikh, Ahmed ElSharkawy, Parvez Mantry, Linda Sher, David Wolf, Marquis Hart, Charles Landis, Alan Wigg, Shahid Habib, Geoffrey McCaughan, Steven Colquhoun, and the VTI&#x02010;208 Study Group.</p></fn><fn id="lt24986-note-0002"><p>The statistical analysis was carried out according to a prespecified statistical plan, submitted to the FDA before the end of the study by Sara Rhee from Synteract, Inc. Carlsbad, CA. The article was also reviewed and edited by Michael Millis, Robert Ashley, William Frank, and Andrew Henry, who were all material in the operational aspects of the study.</p></fn><fn id="lt24986-note-0003"><p>Clinical trial number: NCT01471028</p></fn><fn id="lt24986-note-0004"><p>The study was financed by Vital Therapies, Inc., San Diego, CA.</p></fn><fn id="lt24986-note-0005"><p>Jan Stange own stocks in and consults for Vital Therapies and Albutec GmbH. She owns Ja Stange GmbH. Parvez Mantry advises and received contracts from Gilead, Intercept, Merck, and Bristol&#x02010;Myers Squibb. He advises Salix and Abbvie. He received grants from Genfit. David Reich and Brian Borg received grants from Vital Therapies, and David Reich consults for Vital Therapies, Inc., San Diego, CA. David Wolf is on the speakers' bureau for Abbvie, Gilead, Intercept, Merck, and Salix. Julie Thompson, Robert Brown, and Lance Stein consult for Vital Therapies. Ram Subramanian consults for and received grants from Vital Therapies. Lee Landeen, William Frank, Robert Ashley, Alyssa Henry, and Patricia Bedard owns stocks in Vital Therapies. Andr&#x000e9;s Duarte&#x02010;Rojo advises Gilead and recieved grants from Ocera. Michael Millis owns stocks in and consults for Vital Therapies. Lewis Teperman and Michael Millis are members of the Clinical Advisory Board of Vital Therapies, Inc., San Diego, CA. Rajiv Jalan advises and received grants from Ocera. He is on the speakers' bureau of and received grants from Grifols and Sequana. Tarek Hassanein advises, is on the speakers' bureau of, and recieved grants from Abbvie and Bristol&#x02010;Myers Squibb. He advises and recieved contracts from Merck and Trek. He is on the speakers' bureau and received grants from Gilead, Salix, and Janssen. He also received grants from Eaisi, Madrigal, Intercept, NGM, Obalon, Ocera, Sundise, Shire, TaiGen, Vital Therapies, Novartis, Boston Biomedical, Cymabay, and Genfit. Alyssa Henry, Patricia Bedard, Lee Landeen, Robert Ashley, William Frank, and Andrew Henry are employees of Vital Therapies, Inc., San Diego, CA.</p></fn><fn id="lt24986-note-0007"><p>A list of contributing members is available in the supporting information.</p></fn><fn id="lt24986-note-1002"><p>See Editorial on Page <ext-link ext-link-type="uri" xlink:href="http://onlinelibrary.wiley.com/doi/10.1002/lt.25020/full">330</ext-link>
+</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="lt24986-lp-0001"><title>Abbreviations</title><def-item><term id="lt24986-li-0001">AASLD</term><def id="lt24986-li-0002"><p>American Association for the Study of Liver Diseases</p></def></def-item><def-item><term id="lt24986-li-0003">AH</term><def id="lt24986-li-0004"><p>alcoholic hepatitis</p></def></def-item><def-item><term id="lt24986-li-1233">ALT</term><def id="lt24986-li-1124"><p>alanine transaminase</p></def></def-item><def-item><term id="lt24986-li-1003">AST</term><def id="lt24986-li-1004"><p>aspartate transaminase</p></def></def-item><def-item><term id="lt24986-li-0005">CI</term><def id="lt24986-li-0006"><p>confidence interval</p></def></def-item><def-item><term id="lt24986-li-0007">CT</term><def id="lt24986-li-0008"><p>computed tomography</p></def></def-item><def-item><term id="lt24986-li-0009">DF</term><def id="lt24986-li-0010"><p>discriminant function</p></def></def-item><def-item><term id="lt24986-li-0011">DIC</term><def id="lt24986-li-0012"><p>disseminated intravascular coagulation</p></def></def-item><def-item><term id="lt24986-li-0013">DSMB</term><def id="lt24986-li-0014"><p>data and safety monitoring board</p></def></def-item><def-item><term id="lt24986-li-0015">EASL</term><def id="lt24986-li-0016"><p>European Association for the Study of the Liver</p></def></def-item><def-item><term id="lt24986-li-0017">ELAD</term><def id="lt24986-li-0018"><p>extracorporeal cellular therapy</p></def></def-item><def-item><term id="lt24986-li-0019">HR</term><def id="lt24986-li-0020"><p>hazard ratio</p></def></def-item><def-item><term id="lt24986-li-0021">IL1Ra</term><def id="lt24986-li-0022"><p>interleukin 1 receptor antagonist</p></def></def-item><def-item><term id="lt24986-li-0023">INR</term><def id="lt24986-li-0024"><p>international normalized ratio</p></def></def-item><def-item><term id="lt24986-li-0025">ITT</term><def id="lt24986-li-0026"><p>intent&#x02010;to&#x02010;treat</p></def></def-item><def-item><term id="lt24986-li-0027">MELD</term><def id="lt24986-li-0028"><p>Model for End&#x02010;Stage Liver Disease</p></def></def-item><def-item><term id="lt24986-li-0029">OS</term><def id="lt24986-li-0030"><p>overall survival</p></def></def-item><def-item><term id="lt24986-li-0031">PEth</term><def id="lt24986-li-0032"><p>phosphatidyl ethanol</p></def></def-item><def-item><term id="lt24986-li-0033">sAH</term><def id="lt24986-li-0034"><p>severe alcoholic hepatitis</p></def></def-item><def-item><term id="lt24986-li-0035">SD</term><def id="lt24986-li-0036"><p>standard deviation</p></def></def-item><def-item><term id="lt24986-li-0037">SOC</term><def id="lt24986-li-0038"><p>standard of care</p></def></def-item><def-item><term id="lt24986-li-1039">STOPAH</term><def id="lt24986-li-1040"><p>steroids or pentoxifylline for alcoholic hepatitis</p></def></def-item><def-item><term id="lt24986-li-0039">TEAE</term><def id="lt24986-li-0040"><p>treatment&#x02010;emergent adverse event</p></def></def-item><def-item><term id="lt24986-li-0041">TESAE</term><def id="lt24986-li-0042"><p>treatment&#x02010;emergent serious adverse event</p></def></def-item><def-item><term id="lt24986-li-0043">UF</term><def id="lt24986-li-0044"><p>ultrafiltrate</p></def></def-item><def-item><term id="lt24986-li-0045">WBC</term><def id="lt24986-li-0046"><p>white blood cell</p></def></def-item></def-list><p>Severe alcoholic hepatitis (sAH), a syndrome which occurs in persons with heavy alcohol abuse, typically presents as liver failure with jaundice and coagulopathy.<xref rid="lt24986-bib-0001" ref-type="ref">1</xref> After initial presentation of sAH (Maddrey's discriminant function [DF]&#x02009;&#x02265;&#x02009;32), mortality varies between 40% and 60% depending on the presence of secondary organ complications and treatment.</p><p>The pathogenesis of liver failure in alcoholic hepatitis (AH) is complex and includes hepatic steatosis associated with inflammation, hepatocellular damage, and rapid cholestasis. Increased translocation of the gut due to excessive alcohol is thought to exacerbate inflammation in acute events, creating a vicious cycle, where inflammation, oxidative stress, and cholestatic toxin accumulation with consequent cellular damage perpetuate each other.<xref rid="lt24986-bib-0002" ref-type="ref">2</xref>, <xref rid="lt24986-bib-0003" ref-type="ref">3</xref>, <xref rid="lt24986-bib-0004" ref-type="ref">4</xref>
+</p><p>Currently, treatment of sAH uses medical therapy with an anti&#x02010;inflammatory or immunosuppressive regimen.<xref rid="lt24986-bib-0003" ref-type="ref">3</xref> A recent study, steroids or pentoxifylline for alcoholic hepatitis (STOPAH), aimed to show the effectiveness of the current methods of treating sAH using prednisolone and/or pentoxifylline<xref rid="lt24986-bib-0005" ref-type="ref">5</xref> and showed no overall impact on 90&#x02010;day survival.<xref rid="lt24986-bib-0005" ref-type="ref">5</xref> Because these results suggest no longterm survival increase from treatment with glucocorticoids, controversy exists regarding the benefits of these drugs in the sAH population because these patients are often at high risk of gastrointestinal bleeds or sepsis, complications that could be exacerbated by steroids.<xref rid="lt24986-bib-0005" ref-type="ref">5</xref>, <xref rid="lt24986-bib-0006" ref-type="ref">6</xref>, <xref rid="lt24986-bib-0007" ref-type="ref">7</xref> Increasingly, nonresponders to medical therapy are considered to be candidates for early transplantation<xref rid="lt24986-bib-0008" ref-type="ref">8</xref>, <xref rid="lt24986-bib-0009" ref-type="ref">9</xref> because the majority of these patients will not survive a 6&#x02010;month period of alcohol abstinence required by common protocols.<xref rid="lt24986-bib-0010" ref-type="ref">10</xref>
+</p><p>However, to narrow the use of the limited organ pool, cellular therapies have been suggested as an alternative option to current medical treatment for sAH by providing anti&#x02010;inflammatory effects and promoting hepatocellular regeneration.<xref rid="lt24986-bib-0011" ref-type="ref">11</xref>, <xref rid="lt24986-bib-0012" ref-type="ref">12</xref>
+</p><p>The concept of liver cell therapy in sAH is based on the assumption that by providing hepatocellular support, the impaired liver cells can recover, inhibiting further degeneration and enabling recovery.</p><p>A proteomic analysis of C3A cell products identified numerous proteins with anti&#x02010;inflammatory properties, such as interleukin 1 receptor antagonist (IL1Ra), the expression of which could be stimulated by various proinflammatory cytokines elevated in AH.<xref rid="lt24986-bib-0013" ref-type="ref">13</xref> Also C3A cells have been shown to express antiapoptotic and anti&#x02010;oxidative mechanisms that could further dampen the hepatocellular injury caused by inflammation and oxidative stress. In addition, C3A cells express several growth factors, such as transforming growth factor, vascular endothelial growth factor, and so on, involved in the natural regeneration naturally following the acute phase response as the first line of response to injury.<xref rid="lt24986-bib-0014" ref-type="ref">14</xref>
+</p><p>In a prior phase 2 study, VTI&#x02010;206, C3A cellular therapy did not show survival benefit in end&#x02010;stage liver disease but a positive trend toward improved survival in a subset of sAH patients.<xref rid="lt24986-bib-0015" ref-type="ref">15</xref> The VTI&#x02010;208 study (NCT01471028) was conducted to evaluate the safety and efficacy of ELAD with respect to overall survival (OS) of subjects with sAH.</p><sec id="lt24986-sec-0002"><title>Patients and Methods</title><sec id="lt24986-sec-0003"><title>PARTICIPANTS</title><p>Subjects &#x02265;18 years of age with a medical history of heavy alcohol abuse with a maximum of 6 weeks between the last intake of alcohol and rapid onset of jaundice (serum bilirubin&#x02009;&#x02265;&#x02009;8&#x02009;mg/dL) and coagulopathy (Maddrey's DF&#x02009;&#x02265;&#x02009;32) were enrolled in VTI&#x02010;208.</p><p>Stratum A was populated with subjects who had either liver biopsy&#x02013;confirmed sAH or 2 of the following: hepatomegaly, AST&#x02009;&#x0003e;&#x02009;ALT, leukocytosis, or ascites.</p><p>Subjects with sAH and underlying chronic liver disease other than alcoholic liver disease documented by liver biopsy, laboratory findings, and/or a medical history were randomized in a separate stratum B.</p><p>Patients with end&#x02010;stage cirrhosis, as indicated by craniocaudal liver size &#x0003c;10&#x02009;cm on ultrasound, liver volume &#x0003c;750 cc on computed tomography (CT) or magnetic resonance imaging, or portal vein thrombosis, were excluded. Also excluded were patients with Model for End&#x02010;Stage Liver Disease (MELD)&#x02009;&#x0003e;&#x02009;35, platelets&#x02009;&#x0003c;&#x02009;40,000/mm<sup>3</sup>, and individuals with severe concomitant diseases, uncontrolled bleeding, infection that was clinically unresponsive to antibiotics, hemodynamic instability, or those on chronic dialysis.</p></sec><sec id="lt24986-sec-0004"><title>STUDY DESIGN</title><p>In this open&#x02010;label trial, subjects were randomized to either receive standard of care (SOC) as defined by the American Association for the Study of Liver Disease (AASLD) and the European Association for the Study of the Liver (EASL) guidelines (control group) or SOC plus ELAD. ELAD treatment consisted of drawing blood from the subject via a dual&#x02010;lumen catheter using an extracorporeal pumping unit and then separating the plasma fluid (ultrafiltrate [UF]) from the cellular components using a specifically designed UF generator cartridge. While the cellular components are returned to the subject via the venous access, the UF is circulated at a high flow rate through 4 metabolically active hollow&#x02010;fiber ELAD cartridges containing approximately 440&#x02009;g of C3A cells. After circulation through the cartridges, the UF passes through a 0.2&#x02010;&#x000b5;m pore&#x02010;size filter, is recombined with the cellular components of the subject's blood, and is returned to the subject through the dual&#x02010;lumen catheter (Fig. <xref rid="lt24986-fig-0001" ref-type="fig">1</xref>). For anticoagulation, site&#x02010;based protocols for continuous hemofiltration were used, with the exception of citrate.</p><fig fig-type="Figure" xml:lang="en" id="lt24986-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>The ELAD system is an extracorporeal human hepatic cell&#x02010;based liver treatment. During ELAD treatment, blood is drawn from the subject via a dual&#x02010;lumen catheter using an extracorporeal pumping unit, and then is separated by a specifically designed UF generator cartridge. The UF contains proteins the size of albumin and smaller but does not contain larger proteins such as antibodies. The UF is circulated at a high flow rate through the ELAD cartridges, which contain approximately 440&#x02009;g of C3A cells. After circulation through the ELAD cartridges, the UF passes through a 0.2&#x02010;&#x000b5;m pore size cell filter, is recombined with the cellular components of the subject's blood, and is then returned to the subject via the dual&#x02010;lumen catheter.</p></caption><graphic id="nlm-graphic-1" xlink:href="LT-24-380-g001"/></fig><p>ELAD treatment was conducted continuously for 120 hours unless subjects deteriorated and became futile, withdrew consent, or subjects responded quickly after 72 hours.</p><p>Subjects were followed for at least 91 days after randomization of the last subject.</p><p>During that time, subjects had daily visits the first week unless discharged and then at days 7, 14, 21, 28, 63, and 91.</p><p>To ensure unbiased medical management, health assessments during the follow&#x02010;up period were performed by an independent physician/nurse practitioner applying SOC. All subjects received weekly home health care service visits that included weight measurement, nutritional consultation, and a blinded phosphatidyl ethanol (PEth) to detect posttreatment alcohol use. Upon initiation of the VTI&#x02010;208 study, subjects also consented and were enrolled into an extension study, VTI&#x02010;208E to follow&#x02010;up for 5 years to assess the continued survival of both arms.</p><p>The study was approved by all institutional review boards/ethics committees, and written informed consents were obtained from all participants or participants' legally authorized representative.</p></sec><sec id="lt24986-sec-0005"><title>OBJECTIVES</title><p>The primary objective of the study was to evaluate safety and efficacy of ELAD with respect to OS up to at least study day 91, with follow&#x02010;up protocol VTI&#x02010;208E providing additional survival data up to a maximum of 5 years. The secondary objectives were to evaluate the proportion of survivors at study days 28 and 91.</p></sec><sec id="lt24986-sec-0006"><title>ASSESSMENT OF EFFICACY</title><p>OS was assessed using a Kaplan&#x02010;Meier survival analysis of the intent&#x02010;to&#x02010;treat (ITT) population using a log&#x02010;rank test.</p></sec><sec id="lt24986-sec-0007"><title>ASSESSMENT OF SAFETY</title><p>Treatment&#x02010;emergent adverse events (TEAEs) and treatment&#x02010;emergent serious adverse events (TESAEs) were documented for both arms of the study population. For events occurring in ELAD subjects, the investigator assessed a potential relationship with the ELAD treatment. All TESAEs during the study were reviewed by an independent data and safety monitoring board (DSMB).</p></sec><sec id="lt24986-sec-0008"><title>LABORATORY TESTING</title><p>Standard blood testing was used to measure total bilirubin, international normalized ratio (INR), and creatinine for the calculation of MELD score. The site's certified clinical laboratories were also responsible for collecting all blood cell counts and other biochemistry data that were needed at baseline and follow&#x02010;up visits.</p></sec><sec id="lt24986-sec-0009"><title>Standard of Care</title><p>Trial sites were instructed to apply AASLD/EASL guidelines for treatment of complications of liver disease. For specific sAH SOC, concomitant medication, such as steroids, pentoxifylline, N&#x02010;acetylcysteine, and antibiotics were documented.</p></sec><sec id="lt24986-sec-0010"><title>RANDOMIZATION</title><p>Randomization was conducted using a predetermined block size (4) with a 1:1 ratio of ELAD to control subjects. Separate randomization schedules (stratified randomization) were made for strata A and B. The allocation concealment was computerized based on an electronic case report file system. Once a subject was enrolled in the study, the principal investigator received a code from the sponsor's enrollment hotline and randomization occurred online.</p></sec><sec id="lt24986-sec-0011"><title>STATISTICAL METHODS</title><sec id="lt24986-sec-0012"><title>Power Calculation</title><p>On the basis of a former controlled study, 40% of control subjects and 60% of ELAD&#x02010;treated subjects were expected to survive at least until day 91.<xref rid="lt24986-bib-0015" ref-type="ref">15</xref> Under the assumption of a proportional hazards model, this leads to median survival estimates of approximately 68 days and 122 days for control and ELAD subjects, respectively.</p><p>A sample size of 100 subjects per group was calculated to provide a power of at least 0.95 using a log&#x02010;rank test comparing 2 survival curves with a minimum of 91&#x02010;day follow&#x02010;up for the last subject enrolled. No interim analysis was performed.</p></sec><sec id="lt24986-sec-0013"><title>Primary Analysis</title><p>The OS of the ITT population was done by Kaplan&#x02010;Meier analysis using a log&#x02010;rank test to evaluate the null hypothesis of equality of survival curves with a minimum follow&#x02010;up of 91 days after the enrollment of the last subject.</p><p>Model&#x02010;based estimates (and confidence limits) of median survival by treatment group and hazard rates, along with the hazard ratio (HR) and confidence interval (CI), were produced.</p></sec><sec id="lt24986-sec-0014"><title>Secondary Analyses</title><p>A chi&#x02010;square test was used to evaluate the proportion of subjects who survived at the end of study day 28 and the end of study day 91 based on the ITT population.</p></sec><sec id="lt24986-sec-0015"><title>Comparability of Groups</title><p>Demographics and baseline parameters were compared with the 2 groups by exact chi&#x02010;square methods for discrete variables and parametric (<italic>t</italic> test) or nonparametric (Mann&#x02010;Whitney U) comparisons for continuous variables.</p><p>The following parameters were assessed for comparability: time between alcohol abuse and hospital admission, time between hospital admission and randomization, age, sex, baseline total bilirubin, INR, creatinine, MELD, baseline status of infection and antibiotic treatment, use of vasopressors, ventilation, dialysis and steroids use as SOC.</p></sec><sec id="lt24986-sec-0016"><title>Covariates and Prespecified Subgroup Analysis</title><p>The statistical plan predefined factors related to standard demographics, selected baseline characteristics, medical history, regional and geographical site&#x02013;related factors, and SOC. Comparisons between treatment groups according to these predefined criteria were carried out, analyzed, summarized, and reviewed. The following demographic and baseline characteristics were evaluated: age, sex, baseline MELD score and its components, hepatic encephalopathy grade, and baseline white blood cell (WBC) count.</p></sec><sec id="lt24986-sec-0017"><title>Study Populations</title><p>The ITT population included all randomized subjects assigned to the group to which they were randomized, regardless of actual treatment. The safety population was defined by actual treatment received by subjects.</p></sec></sec></sec><sec id="lt24986-sec-0018"><title>Results</title><sec id="lt24986-sec-0019"><title>PARTICIPANTS</title><p>Between March 2013 and February 2015, 374 patients were screened at 40 sites in the United States, United Kingdom, and Australia. Of those screened, 203 subjects met the criteria for enrollment and were randomized to either ELAD (n&#x02009;=&#x02009;96) or control (n&#x02009;=&#x02009;107) comprising the ITT population. Also, 171 subjects did not meet 1 or more of the inclusion or exclusion criteria as detailed in the legend of Fig. <xref rid="lt24986-fig-0002" ref-type="fig">2</xref>. The uneven distribution of subjects between ELAD and control is due to the block randomization by site (blocks of 4, 2 each of ELAD and control). Because individual sites did not enroll sufficient subjects to fulfil 1 or more complete blocks, there was, by chance, an imbalance of ELAD and control subjects.</p><fig fig-type="Figure" xml:lang="en" id="lt24986-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Flowchart and disposition of patients during the study until July 2015. Of the 374 subjects screened for the study, 171 did not meet inclusion criteria or presented with exclusion criteria, most frequently the inability to provide informed consent (n&#x02009;=&#x02009;39), MELD score&#x02009;&#x0003e;&#x02009;35 (n&#x02009;=&#x02009;44), evidence of reduction in total bilirubin of 20% or more in the previous 72 hours (n&#x02009;=&#x02009;42), and evidence of significant concomitant disease with expected life expectancy of &#x0003c;3 months (n&#x02009;=&#x02009;29). *The ITT population is &#x0201c;as randomized.&#x0201d; Of the 96 subjects randomized to ELAD, 2 subjects deteriorated and became unstable before ELAD could be initiated; those subjects did not receive ELAD. One subject randomized to control received ELAD. In a separate safety analysis, the populations were analyzed &#x0201c;as treated.&#x0201d; &#x02020;During the 91&#x02010;day follow&#x02010;up, 1 patient in the ELAD group and 1 in the control group were &#x0201c;lost to follow&#x02010;up&#x0201d; and 2 patients in the control group withdrew consent, so the outcome is known in 95 and 104 subjects in ELAD and control. &#x02021;As of July 2015, using data from the VTI&#x02010;208 Extension study, the outcome is known for 94 ELAD and 102 Control subjects; 1 ELAD subject and 3 Control subjects were lost to follow&#x02010;up and 1 ELAD subject and 2 Control subjects withdrew consent.</p></caption><graphic id="nlm-graphic-3" xlink:href="LT-24-380-g002"/></fig><p>The baseline characteristics of the 203 subjects are presented in Table <xref rid="lt24986-tbl-0001" ref-type="table-wrap">1</xref>. The majority of subjects were in stratum A (n&#x02009;=&#x02009;193), with only 10 subjects assigned to stratum B, therefore both strata were combined and further analysis will be presented for the total population (n&#x02009;=&#x02009;203). There were 13 of 107 control and 15 of 96 ELAD subjects who were diagnosed with sAH with a confirmatory biopsy. The groups had comparable time between last alcohol intake, hospitalization, and randomization. Groups had an even distribution of sex, MELD score (mean, 27.3), bilirubin (mean, 25.1&#x02009;mg/dL), and subjects who required vasopressor therapy (38 subjects), with no statistically significant differences. Ventilator support was required in 8 ELAD subjects and 3 control subjects. At baseline, 2 ELAD subjects and no control subjects were on acute dialysis. The control group had more subjects &#x0003c;35 years old than the ELAD group.</p><table-wrap id="lt24986-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline Characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr><th align="left" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1"/><th align="center" valign="bottom" rowspan="1" colspan="1"/><th style="border-bottom:solid 1px #000000" colspan="4" align="center" valign="bottom" rowspan="1">Prespecified Subgroups ELAD (n&#x02009;=&#x02009;96)</th><th style="border-bottom:solid 1px #000000" colspan="4" align="center" valign="bottom" rowspan="1">Prespecified Subgroups Control (n&#x02009;=&#x02009;107)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">Baseline Characteristics</th><th align="center" valign="bottom" rowspan="1" colspan="1">ELAD (n&#x02009;=&#x02009;96)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Control (n&#x02009;=&#x02009;107)</th><th align="center" valign="bottom" rowspan="1" colspan="1">MELD&#x02009;&#x0003c;&#x02009;28 (n&#x02009;=&#x02009;51)</th><th align="center" valign="bottom" rowspan="1" colspan="1">MELD&#x02009;&#x02265;&#x02009;28 (n&#x02009;=&#x02009;45)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Age&#x02009;&#x0003c;&#x02009;46.9 years (n&#x02009;=&#x02009;43)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Age&#x02009;&#x02265;&#x02009;46.9 years (n&#x02009;=&#x02009;53)</th><th align="center" valign="bottom" rowspan="1" colspan="1">MELD&#x02009;&#x0003c;&#x02009;28 (n&#x02009;=&#x02009;69)</th><th align="center" valign="bottom" rowspan="1" colspan="1">MELD&#x02009;&#x02265;&#x02009;28 (n&#x02009;=&#x02009;38)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Age&#x02009;&#x0003c;&#x02009;46.9 years (n&#x02009;=&#x02009;58)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Age&#x02009;&#x02265;&#x02009;46.9 years (n&#x02009;=&#x02009;49)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Acute AH (group A)</td><td align="center" valign="top" rowspan="1" colspan="1">92 (95.8)</td><td align="center" valign="top" rowspan="1" colspan="1">101 (94.4)</td><td align="center" valign="top" rowspan="1" colspan="1">47 (92.2)</td><td align="center" valign="top" rowspan="1" colspan="1">45 (100)</td><td align="center" valign="top" rowspan="1" colspan="1">42 (97.7)</td><td align="center" valign="top" rowspan="1" colspan="1">50 (94.3)</td><td align="center" valign="top" rowspan="1" colspan="1">64 (92.8)</td><td align="center" valign="top" rowspan="1" colspan="1">37 (97.4)</td><td align="center" valign="top" rowspan="1" colspan="1">55 (94.8)</td><td align="center" valign="top" rowspan="1" colspan="1">46 (93.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AH superimposed on underlying liver disease not due to alcohol (group B)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (4.2)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (5.6)</td><td align="center" valign="top" rowspan="1" colspan="1">4 (7.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2.3)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (5.7)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (7.2)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (2.6)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (5.2)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (6.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Days between last alcohol and hospital admission</td><td align="center" valign="top" rowspan="1" colspan="1">19.8&#x02009;&#x000b1;&#x02009;14.2</td><td align="center" valign="top" rowspan="1" colspan="1">19.8&#x02009;&#x000b1;&#x02009;16.2</td><td align="center" valign="top" rowspan="1" colspan="1">17.7&#x02009;&#x000b1;&#x02009;13.7</td><td align="center" valign="top" rowspan="1" colspan="1">22.2&#x02009;&#x000b1;&#x02009;14.5</td><td align="center" valign="top" rowspan="1" colspan="1">17.8&#x02009;&#x000b1;&#x02009;12.7</td><td align="center" valign="top" rowspan="1" colspan="1">21.5&#x02009;&#x000b1;&#x02009;15.1</td><td align="center" valign="top" rowspan="1" colspan="1">16.9&#x02009;&#x000b1;&#x02009;14.9</td><td align="center" valign="top" rowspan="1" colspan="1">23.7&#x02009;&#x000b1;&#x02009;17.7</td><td align="center" valign="top" rowspan="1" colspan="1">18.9&#x02009;&#x000b1;&#x02009;16.7</td><td align="center" valign="top" rowspan="1" colspan="1">19.7&#x02009;&#x000b1;&#x02009;15.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Days between site admission and randomization</td><td align="center" valign="top" rowspan="1" colspan="1">10&#x02009;&#x000b1;&#x02009;6.1</td><td align="center" valign="top" rowspan="1" colspan="1">9.4&#x02009;&#x000b1;&#x02009;7.8</td><td align="center" valign="top" rowspan="1" colspan="1">8.3&#x02009;&#x000b1;&#x02009;5.8</td><td align="center" valign="top" rowspan="1" colspan="1">12.0&#x02009;&#x000b1;&#x02009;5.9</td><td align="center" valign="top" rowspan="1" colspan="1">9.2&#x02009;&#x000b1;&#x02009;5.7</td><td align="center" valign="top" rowspan="1" colspan="1">10.7&#x02009;&#x000b1;&#x02009;6.4</td><td align="center" valign="top" rowspan="1" colspan="1">7.8&#x02009;&#x000b1;&#x02009;4.9</td><td align="center" valign="top" rowspan="1" colspan="1">12.3&#x02009;&#x000b1;&#x02009;10.8</td><td align="center" valign="top" rowspan="1" colspan="1">9.7&#x02009;&#x000b1;&#x02009;9.1</td><td align="center" valign="top" rowspan="1" colspan="1">9.0&#x02009;&#x000b1;&#x02009;5.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Age, years</td><td align="center" valign="top" rowspan="1" colspan="1">46.5&#x02009;&#x000b1;&#x02009;9.1</td><td align="center" valign="top" rowspan="1" colspan="1">44.8&#x02009;&#x000b1;&#x02009;10.7</td><td align="center" valign="top" rowspan="1" colspan="1">45.6&#x02009;&#x000b1;&#x02009;8.4</td><td align="center" valign="top" rowspan="1" colspan="1">47.5&#x02009;&#x000b1;&#x02009;9.8</td><td align="center" valign="top" rowspan="1" colspan="1">38.2&#x02009;&#x000b1;&#x02009;5.6</td><td align="center" valign="top" rowspan="1" colspan="1">53.2&#x02009;&#x000b1;&#x02009;4.7</td><td align="center" valign="top" rowspan="1" colspan="1">45.8&#x02009;&#x000b1;&#x02009;10.7</td><td align="center" valign="top" rowspan="1" colspan="1">43.0&#x02009;&#x000b1;&#x02009;10.5</td><td align="center" valign="top" rowspan="1" colspan="1">36.6&#x02009;&#x000b1;&#x02009;5.9</td><td align="center" valign="top" rowspan="1" colspan="1">54.4&#x02009;&#x000b1;&#x02009;5.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Sex</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Males</td><td align="center" valign="top" rowspan="1" colspan="1">55 (57.3)</td><td align="center" valign="top" rowspan="1" colspan="1">65 (60.7)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (49.0)</td><td align="center" valign="top" rowspan="1" colspan="1">30 (66.7)</td><td align="center" valign="top" rowspan="1" colspan="1">22 (51.2)</td><td align="center" valign="top" rowspan="1" colspan="1">33 (62.3)</td><td align="center" valign="top" rowspan="1" colspan="1">40 (58.0)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (65.8)</td><td align="center" valign="top" rowspan="1" colspan="1">33 (56.9)</td><td align="center" valign="top" rowspan="1" colspan="1">32 (65.3)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Females</td><td align="center" valign="top" rowspan="1" colspan="1">41 (42.7)</td><td align="center" valign="top" rowspan="1" colspan="1">42 (39.3)</td><td align="center" valign="top" rowspan="1" colspan="1">26 (51.0)</td><td align="center" valign="top" rowspan="1" colspan="1">15 (33.3)</td><td align="center" valign="top" rowspan="1" colspan="1">21 (48.8)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (37.7)</td><td align="center" valign="top" rowspan="1" colspan="1">29 (42.0)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (34.2)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (43.1)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (34.7)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Subjects with infection and systemic antibiotics</td><td align="center" valign="top" rowspan="1" colspan="1">58 (60.4)</td><td align="center" valign="top" rowspan="1" colspan="1">58 (54.2)</td><td align="center" valign="top" rowspan="1" colspan="1">27 (52.9)</td><td align="center" valign="top" rowspan="1" colspan="1">31 (68.9)</td><td align="center" valign="top" rowspan="1" colspan="1">26 (60.5)</td><td align="center" valign="top" rowspan="1" colspan="1">32 (60.4)</td><td align="center" valign="top" rowspan="1" colspan="1">36 (52.2)</td><td align="center" valign="top" rowspan="1" colspan="1">22 (57.9)</td><td align="center" valign="top" rowspan="1" colspan="1">33 (56.9)</td><td align="center" valign="top" rowspan="1" colspan="1">25 (51.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">&#x0003e;2 episodes of dialysis in last week</td><td align="center" valign="top" rowspan="1" colspan="1">2 (2.1)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (4.4)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (3.8)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Intubated</td><td align="center" valign="top" rowspan="1" colspan="1">8 (8.3)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (2.8)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (9.8)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (6.7)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (14.0)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (3.8)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1.4)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (5.3)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (1.7)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (4.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Encephalopathy grade</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">0</td><td align="center" valign="top" rowspan="1" colspan="1">52</td><td align="center" valign="top" rowspan="1" colspan="1">54</td><td align="center" valign="top" rowspan="1" colspan="1">32</td><td align="center" valign="top" rowspan="1" colspan="1">20</td><td align="center" valign="top" rowspan="1" colspan="1">25</td><td align="center" valign="top" rowspan="1" colspan="1">27</td><td align="center" valign="top" rowspan="1" colspan="1">35</td><td align="center" valign="top" rowspan="1" colspan="1">19</td><td align="center" valign="top" rowspan="1" colspan="1">26</td><td align="center" valign="top" rowspan="1" colspan="1">28</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">1&#x02010;2</td><td align="center" valign="top" rowspan="1" colspan="1">39</td><td align="center" valign="top" rowspan="1" colspan="1">41</td><td align="center" valign="top" rowspan="1" colspan="1">18</td><td align="center" valign="top" rowspan="1" colspan="1">21</td><td align="center" valign="top" rowspan="1" colspan="1">17</td><td align="center" valign="top" rowspan="1" colspan="1">22</td><td align="center" valign="top" rowspan="1" colspan="1">26</td><td align="center" valign="top" rowspan="1" colspan="1">15</td><td align="center" valign="top" rowspan="1" colspan="1">29</td><td align="center" valign="top" rowspan="1" colspan="1">12</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">3&#x02010;4</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">9</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">1</td><td align="center" valign="top" rowspan="1" colspan="1">2</td><td align="center" valign="top" rowspan="1" colspan="1">6</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">3</td><td align="center" valign="top" rowspan="1" colspan="1">6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">On vasopressors</td><td align="center" valign="top" rowspan="1" colspan="1">18 (18.8)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (18.7)</td><td align="center" valign="top" rowspan="1" colspan="1">3 (5.9)</td><td align="center" valign="top" rowspan="1" colspan="1">15 (33.3)</td><td align="center" valign="top" rowspan="1" colspan="1">5 (11.6)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (24.5)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (10.1)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (34.2)</td><td align="center" valign="top" rowspan="1" colspan="1">11 (19.0)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (18.4)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Bilirubin from baseline MELD, mg/dL</td><td align="center" valign="top" rowspan="1" colspan="1">26.21&#x02009;&#x000b1;&#x02009;9.7</td><td align="center" valign="top" rowspan="1" colspan="1">24.07&#x02009;&#x000b1;&#x02009;8.3</td><td align="center" valign="top" rowspan="1" colspan="1">23.0&#x02009;&#x000b1;&#x02009;7.9</td><td align="center" valign="top" rowspan="1" colspan="1">29.8&#x02009;&#x000b1;&#x02009;10.3</td><td align="center" valign="top" rowspan="1" colspan="1">24.8&#x02009;&#x000b1;&#x02009;8.0</td><td align="center" valign="top" rowspan="1" colspan="1">27.4&#x02009;&#x000b1;&#x02009;10.8</td><td align="center" valign="top" rowspan="1" colspan="1">22.1&#x02009;&#x000b1;&#x02009;7.8</td><td align="center" valign="top" rowspan="1" colspan="1">27.7&#x02009;&#x000b1;&#x02009;8.2</td><td align="center" valign="top" rowspan="1" colspan="1">23.8&#x02009;&#x000b1;&#x02009;9.4</td><td align="center" valign="top" rowspan="1" colspan="1">24.4&#x02009;&#x000b1;&#x02009;6.9</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">INR</td><td align="center" valign="top" rowspan="1" colspan="1">2.0&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">2.1&#x02009;&#x000b1;&#x02009;0.5</td><td align="center" valign="top" rowspan="1" colspan="1">1.8&#x02009;&#x000b1;&#x02009;0.3</td><td align="center" valign="top" rowspan="1" colspan="1">2.3&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">2.0&#x02009;&#x000b1;&#x02009;0.5</td><td align="center" valign="top" rowspan="1" colspan="1">2.0&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">1.8&#x02009;&#x000b1;&#x02009;0.4</td><td align="center" valign="top" rowspan="1" colspan="1">2.4&#x02009;&#x000b1;&#x02009;0.5</td><td align="center" valign="top" rowspan="1" colspan="1">2.2&#x02009;&#x000b1;&#x02009;0.5</td><td align="center" valign="top" rowspan="1" colspan="1">1.9&#x02009;&#x000b1;&#x02009;0.5</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Creatinine, mg/dL</td><td align="center" valign="top" rowspan="1" colspan="1">1.1&#x02009;&#x000b1;&#x02009;0.9</td><td align="center" valign="top" rowspan="1" colspan="1">0.9&#x02009;&#x000b1;&#x02009;0.5</td><td align="center" valign="top" rowspan="1" colspan="1">0.7&#x02009;&#x000b1;&#x02009;0.3</td><td align="center" valign="top" rowspan="1" colspan="1">1.5&#x02009;&#x000b1;&#x02009;1.2</td><td align="center" valign="top" rowspan="1" colspan="1">0.9&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">1.2&#x02009;&#x000b1;&#x02009;1.1</td><td align="center" valign="top" rowspan="1" colspan="1">0.8&#x02009;&#x000b1;&#x02009;0.3</td><td align="center" valign="top" rowspan="1" colspan="1">1.3&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">0.9&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">0.9&#x02009;&#x000b1;&#x02009;0.4</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">MELD</td><td align="center" valign="top" rowspan="1" colspan="1">27.6&#x02009;&#x000b1;&#x02009;3.9</td><td align="center" valign="top" rowspan="1" colspan="1">27.1&#x02009;&#x000b1;&#x02009;3.8</td><td align="center" valign="top" rowspan="1" colspan="1">24.5&#x02009;&#x000b1;&#x02009;1.9</td><td align="center" valign="top" rowspan="1" colspan="1">31.1&#x02009;&#x000b1;&#x02009;2.4</td><td align="center" valign="top" rowspan="1" colspan="1">27.0&#x02009;&#x000b1;&#x02009;3.3</td><td align="center" valign="top" rowspan="1" colspan="1">28.0&#x02009;&#x000b1;&#x02009;4.4</td><td align="center" valign="top" rowspan="1" colspan="1">24.7&#x02009;&#x000b1;&#x02009;1.9</td><td align="center" valign="top" rowspan="1" colspan="1">31.3&#x02009;&#x000b1;&#x02009;2.3</td><td align="center" valign="top" rowspan="1" colspan="1">27.8&#x02009;&#x000b1;&#x02009;3.8</td><td align="center" valign="top" rowspan="1" colspan="1">26.2&#x02009;&#x000b1;&#x02009;3.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Albumin, g/dL</td><td align="center" valign="top" rowspan="1" colspan="1">2.8&#x02009;&#x000b1;&#x02009;0.7</td><td align="center" valign="top" rowspan="1" colspan="1">2.6&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">2.7&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">3.0&#x02009;&#x000b1;&#x02009;0.7</td><td align="center" valign="top" rowspan="1" colspan="1">2.8&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">2.8&#x02009;&#x000b1;&#x02009;0.8</td><td align="center" valign="top" rowspan="1" colspan="1">2.5&#x02009;&#x000b1;&#x02009;0.6</td><td align="center" valign="top" rowspan="1" colspan="1">2.9&#x02009;&#x000b1;&#x02009;0.7</td><td align="center" valign="top" rowspan="1" colspan="1">2.7&#x02009;&#x000b1;&#x02009;0.7</td><td align="center" valign="top" rowspan="1" colspan="1">2.6&#x02009;&#x000b1;&#x02009;0.6</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">AST, U/L</td><td align="center" valign="top" rowspan="1" colspan="1">129.2&#x02009;&#x000b1;&#x02009;60.9</td><td align="center" valign="top" rowspan="1" colspan="1">140.9&#x02009;&#x000b1;&#x02009;81.4</td><td align="center" valign="top" rowspan="1" colspan="1">137.3&#x02009;&#x000b1;&#x02009;64.4</td><td align="center" valign="top" rowspan="1" colspan="1">120.1&#x02009;&#x000b1;&#x02009;56.3</td><td align="center" valign="top" rowspan="1" colspan="1">130.3&#x02009;&#x000b1;&#x02009;62.2</td><td align="center" valign="top" rowspan="1" colspan="1">128.2&#x02009;&#x000b1;&#x02009;60.5</td><td align="center" valign="top" rowspan="1" colspan="1">151.0&#x02009;&#x000b1;&#x02009;83.9</td><td align="center" valign="top" rowspan="1" colspan="1">122.7&#x02009;&#x000b1;&#x02009;74.2</td><td align="center" valign="top" rowspan="1" colspan="1">143.0&#x02009;&#x000b1;&#x02009;90.7</td><td align="center" valign="top" rowspan="1" colspan="1">138.5&#x02009;&#x000b1;&#x02009;69.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">ALT, U/L</td><td align="center" valign="top" rowspan="1" colspan="1">61.3&#x02009;&#x000b1;&#x02009;44.1</td><td align="center" valign="top" rowspan="1" colspan="1">61.4&#x02009;&#x000b1;&#x02009;38.9</td><td align="center" valign="top" rowspan="1" colspan="1">58.0&#x02009;&#x000b1;&#x02009;42.5</td><td align="center" valign="top" rowspan="1" colspan="1">65.1&#x02009;&#x000b1;&#x02009;45.9</td><td align="center" valign="top" rowspan="1" colspan="1">56.1&#x02009;&#x000b1;&#x02009;44.6</td><td align="center" valign="top" rowspan="1" colspan="1">65.5&#x02009;&#x000b1;&#x02009;43.6</td><td align="center" valign="top" rowspan="1" colspan="1">63.9&#x02009;&#x000b1;&#x02009;42.8</td><td align="center" valign="top" rowspan="1" colspan="1">57.0&#x02009;&#x000b1;&#x02009;30.7</td><td align="center" valign="top" rowspan="1" colspan="1">57.9&#x02009;&#x000b1;&#x02009;30.9</td><td align="center" valign="top" rowspan="1" colspan="1">65.6&#x02009;&#x000b1;&#x02009;46.7</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">WBC, 10<sup>9</sup>/L</td><td align="center" valign="top" rowspan="1" colspan="1">15.4&#x02009;&#x000b1;&#x02009;8.0</td><td align="center" valign="top" rowspan="1" colspan="1">14.4&#x02009;&#x000b1;&#x02009;8.1</td><td align="center" valign="top" rowspan="1" colspan="1">14.1&#x02009;&#x000b1;&#x02009;6.8</td><td align="center" valign="top" rowspan="1" colspan="1">16.8&#x02009;&#x000b1;&#x02009;9.0</td><td align="center" valign="top" rowspan="1" colspan="1">15.7&#x02009;&#x000b1;&#x02009;7.5</td><td align="center" valign="top" rowspan="1" colspan="1">15.0&#x02009;&#x000b1;&#x02009;8.4</td><td align="center" valign="top" rowspan="1" colspan="1">13.3&#x02009;&#x000b1;&#x02009;7.7</td><td align="center" valign="top" rowspan="1" colspan="1">16.5&#x02009;&#x000b1;&#x02009;8.5</td><td align="center" valign="top" rowspan="1" colspan="1">14.9&#x02009;&#x000b1;&#x02009;9.5</td><td align="center" valign="top" rowspan="1" colspan="1">13.9&#x02009;&#x000b1;&#x02009;6.2</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Liver size ultrasound</td><td align="center" valign="top" rowspan="1" colspan="1">19.1&#x02009;&#x000b1;&#x02009;4.8</td><td align="center" valign="top" rowspan="1" colspan="1">19.3&#x02009;&#x000b1;&#x02009;3.9</td><td align="center" valign="top" rowspan="1" colspan="1">18.6&#x02009;&#x000b1;&#x02009;4.8</td><td align="center" valign="top" rowspan="1" colspan="1">18.9&#x02009;&#x000b1;&#x02009;4.7</td><td align="center" valign="top" rowspan="1" colspan="1">20.8&#x02009;&#x000b1;&#x02009;5.0</td><td align="center" valign="top" rowspan="1" colspan="1">17.8&#x02009;&#x000b1;&#x02009;4.2</td><td align="center" valign="top" rowspan="1" colspan="1">19.5&#x02009;&#x000b1;&#x02009;3.7</td><td align="center" valign="top" rowspan="1" colspan="1">19.1&#x02009;&#x000b1;&#x02009;4.2</td><td align="center" valign="top" rowspan="1" colspan="1">19.7&#x02009;&#x000b1;&#x02009;4.0</td><td align="center" valign="top" rowspan="1" colspan="1">18.8&#x02009;&#x000b1;&#x02009;3.8</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Ascites present</td><td align="center" valign="top" rowspan="1" colspan="1">55</td><td align="center" valign="top" rowspan="1" colspan="1">65</td><td align="center" valign="top" rowspan="1" colspan="1">25</td><td align="center" valign="top" rowspan="1" colspan="1">30</td><td align="center" valign="top" rowspan="1" colspan="1">31</td><td align="center" valign="top" rowspan="1" colspan="1">34</td><td align="center" valign="top" rowspan="1" colspan="1">39</td><td align="center" valign="top" rowspan="1" colspan="1">26</td><td align="center" valign="top" rowspan="1" colspan="1">37</td><td align="center" valign="top" rowspan="1" colspan="1">28</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">On steroids</td><td align="center" valign="top" rowspan="1" colspan="1">44 (45.8)</td><td align="center" valign="top" rowspan="1" colspan="1">53 (49.5)</td><td align="center" valign="top" rowspan="1" colspan="1">24 (47.1)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (44.4)</td><td align="center" valign="top" rowspan="1" colspan="1">20 (46.5)</td><td align="center" valign="top" rowspan="1" colspan="1">24 (45.3)</td><td align="center" valign="top" rowspan="1" colspan="1">39 (56.5)</td><td align="center" valign="top" rowspan="1" colspan="1">14 (36.8)</td><td align="center" valign="top" rowspan="1" colspan="1">27 (46.6)</td><td align="center" valign="top" rowspan="1" colspan="1">26 (53.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">On pentoxifylline</td><td align="center" valign="top" rowspan="1" colspan="1">33 (34.4)</td><td align="center" valign="top" rowspan="1" colspan="1">34 (31.8)</td><td align="center" valign="top" rowspan="1" colspan="1">17 (33.3)</td><td align="center" valign="top" rowspan="1" colspan="1">16 (35.6)</td><td align="center" valign="top" rowspan="1" colspan="1">14 (32.6)</td><td align="center" valign="top" rowspan="1" colspan="1">19 (35.8)</td><td align="center" valign="top" rowspan="1" colspan="1">21 (30.4)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (34.2)</td><td align="center" valign="top" rowspan="1" colspan="1">27 (46.6)</td><td align="center" valign="top" rowspan="1" colspan="1">7 (14.3)</td></tr></tbody></table><table-wrap-foot><fn id="lt24986-note-0008"><p>NOTE: Data are given as n (%) or mean&#x02009;&#x000b1;&#x02009;SD. Table <xref rid="lt24986-tbl-0001" ref-type="table-wrap">1</xref> provides the baseline characteristics of all subjects as well as of the predefined subgroups regarding age and baseline. MELD. With the exception of a higher ratio of younger patients in the control arm, none of the baseline characteristics reached statistical difference by either unpaired comparison (<italic>t</italic> test or Mann&#x02010;Whitney U test were appropriate) or chi&#x02010;square analysis for distribution analysis.</p></fn></table-wrap-foot></table-wrap><p>Approximately half of the subjects in both groups were on steroids and one&#x02010;third were treated with pentoxifylline at baseline.</p><p>There were no observed differences in the use of steroids between groups at screening, days 1&#x02010;7, or as the study progressed.</p><p>At baseline, 58 of 96 (60.4%) ELAD and 58 of 107 (54.2%) control (n.s.) subjects were on systemic antibiotics for infection. There were also no significant differences between ELAD and controls in this subpopulation with respect to disease severity based on MELD or age.</p><p>The safety population was defined according to whether subjects actually received either ELAD treatment or SOC because this would best define the safety profile of ELAD treatment. This population differed from the ITT population because 2 subjects randomized to ELAD did not actually receive ELAD treatment, because they became unstable before the therapy could be initiated and 1 subject randomized to control inadvertently received ELAD treatment, leading to 95 subjects in the ELAD treatment group and 108 subjects in the control group.</p></sec><sec id="lt24986-sec-0020"><title>TREATMENT EXPOSURE</title><p>Of the 96 subjects randomized to receive ELAD treatment, 45 completed treatment of 120 hours, 37 completed between 72 and 120 hours, 12 received &#x0003c;72 hours of treatment, and 2 became too unstable to initiate. The control subject who received ELAD was treated for &#x0003c;72 hours. In total, 95 subjects were exposed to ELAD therapy, of which 13 subjects did not receive minimum treatment.</p><p>There were 50 subjects who did not complete the protocol&#x02010;specified maximum treatment of 120 hours. These subjects were discontinued due to the following: clotting (n&#x02009;=&#x02009;2), investigator deeming patient too unstable to continue (n&#x02009;=&#x02009;9), adverse event (n&#x02009;=&#x02009;18), futility due to bilirubin increase &#x0003e;25% (n&#x02009;=&#x02009;1), subject withdrawing consent (n&#x02009;=&#x02009;1), subject wanting to be removed from ELAD (n&#x02009;=&#x02009;2), need for interruption to conduct CT scan or dialysis (n&#x02009;=&#x02009;2), mechanical issue (n&#x02009;=&#x02009;1), catheter issues (n&#x02009;=&#x02009;3), family wanting to proceed with comfort measures only (n&#x02009;=&#x02009;1), component issue (n&#x02009;=&#x02009;3), and 7 subjects were discontinued without documentation that explained why.</p></sec><sec id="lt24986-sec-0021"><title>OS AND SURVIVAL PROPORTION IN THE ITT</title><p>The OS with a minimum follow&#x02010;up time of 91 days, as evaluated according to the statistical plan, was not different between the groups as depicted in Fig. <xref rid="lt24986-fig-0003" ref-type="fig">3</xref> (HR, 1.03; 95% CI, 0.69&#x02010;1.53) with 47.9% death rate in the ELAD group and 47.7% in the control group. At the time of database lock, 51% of ELAD subjects and 49.5% of control subjects were alive (Fig. <xref rid="lt24986-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="lt24986-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>The Kaplan&#x02010;Meier analysis is given for the ITT population. At database lock, 46 subjects had died in the ELAD group and 53 in the control group. Remaining at risk were 49 in the ELAD group and 53 in the control group.</p></caption><graphic id="nlm-graphic-5" xlink:href="LT-24-380-g003"/></fig><p>The survival proportion at days 28 and 91 was comparable between the ELAD and control groups, with 76.0% versus 80.4% and 59.4% versus 61.7%, respectively.</p></sec><sec id="lt24986-sec-0022"><title>EFFECT OF ELAD TREATMENT EXPOSURE ON 91&#x02010;DAY MORTALITY</title><p>Of the 14 subjects receiving &#x0003c;72 hours of treatment, including 2 where treatment was not initiated due to progressive instability at the time ELAD arrived, 10 (71.4%) subjects died within 91 days. Of the 82 subjects completing the minimum treatment of 72 hours for per protocol analysis, 29 (35.4%) subjects died. Mortality differed minimally between subjects receiving between 72 and 120 hours (12/37) and completing 120 hours (17/45; 32.4% versus 37.8%).</p></sec><sec id="lt24986-sec-0023"><title>COVARIATES AND PROSPECTIVE SUBGROUP ANALYSIS</title><p>Analyses of the prespecified subgroups of baseline age and MELD greater or less than the baseline medians (46.9 years and 28, respectively) revealed that there were trends toward worse outcomes in subjects with MELD and/or age greater than the baseline medians. Conversely, subjects with MELD and/or age less than the baseline medians experienced better outcomes (Fig. <xref rid="lt24986-fig-0004" ref-type="fig">4</xref>). The majority of the study population (n = 120) presented with MELD&#x02009;&#x0003c;&#x02009;28, in which ELAD (n&#x02009;=&#x02009;51) was associated with lower mortality: 29.4% versus 43.5% in the control group (n&#x02009;=&#x02009;69; HR, 0.58; P&#x02009;=&#x02009;0.08). Comparison of the baseline characteristics in this subgroup revealed no significant differences between subjects randomized to ELAD versus control that could have confounded this result (Table <xref rid="lt24986-tbl-0001" ref-type="table-wrap">1</xref>).</p><fig fig-type="Figure" xml:lang="en" id="lt24986-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The Kaplan&#x02010;Meier analysis is given for the prespecified subgroup analysis with respect to age and baseline MELD. (upper right) The subgroup with age&#x02009;&#x0003c;&#x02009;46.9 years, at database lock, 14 subjects had died in the ELAD group and 26 in the control group. Remaining at risk were 29 in ELAD and 32 in the control group. (upper left) The subgroup with age&#x02009;&#x0003e;&#x02009;47 years, at database lock, 32 subjects had died in the ELAD group and 25 in the control group. Remaining at risk were 20 in the ELAD group and 22 in the control group. (lower right) The subgroup with MELD&#x02009;&#x0003c;&#x02009;28, at database lock, 15 subjects had died in the ELAD group and 30 in the control group. Remaining at risk were 35 in the ELAD group and 37 in the control group. (lower left) The subgroup with MELD&#x02009;&#x0003e;&#x02009;28, at database lock, 31 subjects had died in the ELAD group and 21 in the control group. Remaining at risk were 14 in the ELAD group and 16 in the control group.</p></caption><graphic id="nlm-graphic-7" xlink:href="LT-24-380-g004"/></fig><p>Those with MELD&#x02009;&#x02265;&#x02009;28 (n&#x02009;=&#x02009;83) had a mortality rate of 68.9% in the ELAD group (n&#x02009;=&#x02009;45) versus 55.3% in the control group (n&#x02009;=&#x02009;38; HR, 1.50; <italic>P</italic>&#x02009;=&#x02009;0.15).</p><p>Further analysis of the components of MELD that could be responsible for this effect revealed a trend toward poor survival in subjects who received treatment with ELAD who had severe kidney damage, as defined by creatinine&#x02009;&#x0003e;&#x02009;1.5&#x02009;mg/dL, and serious coagulopathy, as defined by INR&#x02009;&#x0003e;&#x02009;2.5. A high creatinine or high INR predicted a less favorable outcome on ELAD whereas high bilirubin showed no effect on relative survival between the groups.</p><p>In the subgroup of the study population that presented with age &#x0003c;46.9 years (n&#x02009;=&#x02009;101), ELAD (n&#x02009;=&#x02009;43) was associated with lower mortality compared with the control group (n&#x02009;=&#x02009;58): 32.6% versus 44.8% (HR, 0.63; <italic>P</italic>&#x02009;=&#x02009;0.17). Comparison of the baseline characteristics revealed no significant differences between ELAD and control subjects that could have explained this result (Table <xref rid="lt24986-tbl-0001" ref-type="table-wrap">1</xref>).</p><p>In the study population with &#x02265;46.9 years (n&#x02009;=&#x02009;102), there was a tendency toward higher mortality in ELAD (n&#x02009;=&#x02009;53) versus in control (n&#x02009;=&#x02009;49): 60.4% versus 51.0% (HR, 1.35; <italic>P</italic>&#x02009;=&#x02009;0.26).</p><p>Although not prespecified, survival in subjects with a combination of both MELD&#x02009;&#x0003c;&#x02009;28 and age&#x02009;&#x0003c;&#x02009;46.9 years (n&#x02009;=&#x02009;59) was significantly better in the ELAD group (n&#x02009;=&#x02009;26) than in the control group (n&#x02009;=&#x02009;33; 100% versus 73%; <italic>P</italic>&#x02009;=&#x02009;0.006) at 91 days.</p></sec><sec id="lt24986-sec-0024"><title>STANDARD OF CARE</title><p>The 33 of 96 (34.4%) ELAD subjects and 45 of 107 (42.1%) control subjects received a 7&#x02010;day standard dose &#x0003e;25&#x02009;mg of prednisone. Documented reasons for not administering steroids, such as renal failure or infection, were more frequent (n.s.) in the ELAD group; 58 out of 96 (60.4%) ELAD subjects presented with baseline infection under systemic antibiotic therapy compared with 58 out of 107 (54.2%) control subjects. Of the subgroup with baseline infection and systemic antibiotic treatment, 30 out of 58 (51.7%) ELAD subjects and 29 out of 58 (50.0%) control subjects were alive at 91 days, indicating a higher mortality than noninfected patients among both groups.</p><p>Survival analyses were run for prednisone use versus no prednisone use and for infection with antibiotic treatment versus no infection. The primary end point analyses showed no difference in outcome of the study for the overall population.</p><p>There was also no correlation between pentoxifylline or N&#x02010;acetylcysteine use and outcome. Comparison of procedures to manage complications did not differ between groups.</p><p>In general, there was no evidence that different administration of standard care affected the outcomes between ELAD and control in the ITT or subgroup analysis.</p></sec><sec id="lt24986-sec-0025"><title>OVERT AND COVERT ALCOHOL USE</title><p>Fewer ELAD subjects had positive postdischarge PEth than controls (28% versus 52%; <italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05). Of 49 subjects with a positive PEth test after discharge, only 14 (28.6%) self&#x02010;reported alcohol use (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05); 45 of 49 subjects (91.8%) with positive PEth versus 46 of 71 (64.8%) with no evidence of alcohol use were alive at 91 days (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05). Subjects with alcohol use were younger and had lower MELD, creatinine, and bilirubin levels at screening and discharge than those without (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05).</p></sec><sec id="lt24986-sec-0026"><title>BIOMARKERS</title><p>ELAD treatment resulted in a significant reduction of total bilirubin compared with controls at all time points from day 2 to day 7. Significantly more ELAD subjects (56/95, 59%) reached a bilirubin reduction over 20% compared with controls (25/108, 23%) by day 7.</p><p>Lille score calculation over that period showed 74.7% were responders (Lille&#x02009;&#x0003c;&#x02009;0.45) in the ELAD group versus 47% in the control group (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.01). In parallel, during the 7&#x02010;day period, the alkaline phosphatase decreased in the ELAD group from 188&#x02009;&#x000b1;&#x02009;110 to 152&#x02009;&#x000b1;&#x02009;81 U/L, whereas it increased from 173&#x02009;&#x000b1;&#x02009;83 to 178&#x02009;&#x000b1;&#x02009;100 U/L in the control group.</p><p>None of the other routine clinical chemistry parameters showed significant changes.</p><p>Concentration of IL1Ra, a key protein involved in the orchestration of the acute phase response, rose significantly during ELAD therapy, while remaining unchanged in control subjects (Fig. <xref rid="lt24986-fig-0005" ref-type="fig">5</xref>).</p><fig fig-type="Figure" xml:lang="en" id="lt24986-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>The IL1Ra concentrations of a subset of ELAD (n&#x02009;=&#x02009;14) and control patients (n&#x02009;=&#x02009;11) is depicted as means and standard errors. The IL1Ra analysis was conducted on a subset of VTI&#x02010; 208 subjects that met the inclusion criteria for the follow&#x02010;up study, VTL 308 (NCT02612428), which focuses on a population with lower MELD and age. Subjects were only included in this subset if they had a full sample set, which included samples from Baseline, Study Days 3, 5, and 7, as well as at least 1 sample from a follow&#x02010;up at either 14 or 28 days. Although levels were comparable at baseline, the difference between levels in ELAD versus control subjects was significant (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05, MWU&#x02010;test) at study days 3, 5, and 7 (1 week). Also, in the Wilcoxon signed rank test, IL1Ra levels were elevated compared with baseline significantly at study day 3, 5, and 7 in ELAD patients (<italic>P</italic>&#x02009;&#x0003c;&#x02009;0.05), but not in controls.</p></caption><graphic id="nlm-graphic-9" xlink:href="LT-24-380-g005"/></fig><p>Concentration of alpha&#x02010;fetoprotein (a protein secreted by C3A cells) reached their peak of 884,140&#x02009;ng/mL within 7 days, with a median of 200,000&#x02009;ng/mL. Those levels remained above 100&#x02009;ng/mL in all ELAD patients within 1 month and in 68% of patients within 2 months, but all had normalized at the end of the study.</p></sec><sec id="lt24986-sec-0027"><title>SAFETY OF ELAD</title><p>The percentage of subjects in each group of the safety population that experienced TESAEs was similar between the ELAD (76.8%) and control (69.4%) groups. The percentage of subjects who experienced certain subgroups of TESAEs is shown in Table <xref rid="lt24986-tbl-0002" ref-type="table-wrap">2</xref>.</p><table-wrap id="lt24986-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>TESAEs by System Organ Class Reported by More Than 2 ELAD Subjects</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000border-bottom:solid 1px #000000" span="1"/><thead valign="bottom"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="bottom" colspan="1">System Organ Class Serious Adverse Events Preferred Term</th><th colspan="2" align="center" valign="bottom" rowspan="1">Subjects Reporting at Least 1 Serious Adverse Event</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="bottom" rowspan="1" colspan="1">ELAD (n&#x02009;=&#x02009;95)</th><th align="center" valign="bottom" rowspan="1" colspan="1">Control (n&#x02009;=&#x02009;108)</th></tr></thead><tbody valign="top"><tr><td align="left" valign="top" rowspan="1" colspan="1">Blood and lymphatic system disorders</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Anemia</td><td align="center" valign="top" rowspan="1" colspan="1">8 (8.4)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (5.6)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Coagulopathy</td><td align="center" valign="top" rowspan="1" colspan="1">3 (3.2)</td><td align="center" valign="top" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">General disorders and administration site conditions</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Multiorgan failure</td><td align="center" valign="top" rowspan="1" colspan="1">7 (7.4)</td><td align="center" valign="top" rowspan="1" colspan="1">10 (9.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Hepatobiliary disorders</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Ascites</td><td align="center" valign="top" rowspan="1" colspan="1">6 (6.3)</td><td align="center" valign="top" rowspan="1" colspan="1">13 (12.0)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Hepatic failure</td><td align="center" valign="top" rowspan="1" colspan="1">13 (13.7)</td><td align="center" valign="top" rowspan="1" colspan="1">10 (9.3)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Hepatorenal syndrome</td><td align="center" valign="top" rowspan="1" colspan="1">3 (3.2)</td><td align="center" valign="top" rowspan="1" colspan="1">9 (8.3)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Infections and infestations</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Sepsis</td><td align="center" valign="top" rowspan="1" colspan="1">4 (4.2)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (1.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Nervous system disorders</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Hepatic encephalopathy</td><td align="center" valign="top" rowspan="1" colspan="1">8 (8.4)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (5.6)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Renal and urinary disorders</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Renal failure</td><td align="center" valign="top" rowspan="1" colspan="1">4 (4.2)</td><td align="center" valign="top" rowspan="1" colspan="1">1 (0.9)</td></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Renal failure acute</td><td align="center" valign="top" rowspan="1" colspan="1">6 (6.3)</td><td align="center" valign="top" rowspan="1" colspan="1">12 (11.1)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Respiratory, thoracic, and mediastinal disorders</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Respiratory failure</td><td align="center" valign="top" rowspan="1" colspan="1">5 (5.3)</td><td align="center" valign="top" rowspan="1" colspan="1">2 (1.9)</td></tr><tr><td align="left" valign="top" rowspan="1" colspan="1">Vascular disorders</td><td align="center" valign="top" rowspan="1" colspan="1"/><td align="center" valign="top" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" valign="top" rowspan="1" colspan="1">Gastrointestinal hemorrhage</td><td align="center" valign="top" rowspan="1" colspan="1">7 (7.4)</td><td align="center" valign="top" rowspan="1" colspan="1">6 (5.6)</td></tr></tbody></table><table-wrap-foot><fn id="lt24986-note-0009"><p>NOTE: Data are given as n (%). These data reflect the safety population (see flowchart in Fig. <xref rid="lt24986-fig-0002" ref-type="fig">2</xref>). The number of subjects experiencing system organ class&#x02013;related serious events and the percentage of subjects is shown. According to Good Clinical Practice Guidelines for Safety Reporting, the determination of seriousness was based on whether the event met one of the following criteria: life threatening, lead to hospital admission and or prolonged hospitalization, upgraded the subject to intensive care, led to death or continued disability, resulted in congenital/birth defects or the event was serious in the opinion of the investigator. Reported serious events were reviewed by a blinded DSMB. In case of a disagreement with the investigator's assessment, the investigator was informed and final assessment required consensus.</p></fn></table-wrap-foot></table-wrap><p>Deaths occurring during the 91&#x02010;day study period were also comparable between groups, with 39 deaths occurring in the ELAD group and 41 in the control group. On the basis of the study investigators' assessments, 2 deaths in the ELAD group were judged to be related to the interventional treatment: 1 was a precipitation of disseminated intravascular coagulation (DIC) that occurred in a subject with baseline MELD&#x02009;&#x0003e;&#x02009;28 and 1 was a catheter insertion&#x02013;related complication.</p><p>The number of subjects experiencing TEAEs were balanced between the ELAD and control groups, except for anemia (44% versus 16%, respectively), thrombocytopenia (35% versus 11%), coagulopathy (31% versus 12%), and hypotension (31% versus 17%).</p></sec></sec><sec id="lt24986-sec-0028"><title>Discussion</title><p>AH is a serious condition with a high mortality and no effective treatment. This study enrolled a relatively large group of subjects with a well&#x02010;defined clinical diagnosis of AH. The mean MELD score was 27.3 in these subjects, suggesting a 3&#x02010;month mortality of approximately 50%,<xref rid="lt24986-bib-0016" ref-type="ref">16</xref> highlighting the severity of liver failure in this study. The study failed its primary and secondary end point in a population with sAH (Maddrey's DF&#x02009;&#x0003e;&#x02009;32) and with a MELD ranging from 18 to 35 and no upper age limit.</p><p>Prospective subgroup analysis for MELD&#x02009;&#x0003c;&#x02009;28 and age less than the baseline median showed strong trends toward improved survival, whereas older patients and those with higher MELD scores had less favorable outcomes on ELAD.</p><p>Subanalysis of MELD components suggests that more severe coagulopathy with INR&#x02009;&#x0003e;&#x02009;2.5 reduced the tolerance of extracorporeal treatment. Although C3A cells have been shown to produce clotting factors in vitro and ex vivo, those effects seem not to outweigh the complex derangements of coagulation observed in advanced liver failure, which are not only an expression of reduced synthesis, but also of increased consumption due to DIC, frequently precipitated by looming infection. The inability to use citrate for anticoagulation with the ELAD system&#x02014;due to its negative effect on the C3A cells&#x02014;may have contributed to this problem because heparin has been discussed to be an anticoagulant of second choice in extracorporeal liver support in patients prone to bleeding.<xref rid="lt24986-bib-0017" ref-type="ref">17</xref> However, a recent publication showed that low&#x02010;dose heparin was associated with an acceptable benefit/risk profile when used for extracorporeal liver support even in severely ill patients with severe acute liver failure.<xref rid="lt24986-bib-0018" ref-type="ref">18</xref> Outcomes were worse for subjects treated with ELAD whose MELD scores were &#x02265;28 due to elevated creatinine indicating that kidney failure increases the risk while being treated with ELAD. ELAD cannot remove toxins by filtration or dialysis and thus does not provide renal support. Because of the lack of this function, potential benefits of ELAD cannot compensate for the usual adverse effects of extracorporeal therapy, such as contact activation and anticoagulation, once a subject is in renal failure.</p><p>Interestingly, the beneficial effects seen in subjects with MELD scores below the baseline median of 28 seemed to manifest themselves not at the time of treatment, but within the following 2&#x02010;3 weeks (Fig. <xref rid="lt24986-fig-0004" ref-type="fig">4</xref>). This suggests the primary mechanism of action of C3A cellular therapy is not secondary organ failure support such as in extracorporeal albumin dialysis, but in aiding in recovery of the liver, which is known to take 2&#x02010;4 weeks. This is also supported by the fact that age was a second strong covariate that determined response to ELAD and liver regeneration is well&#x02010;known to decrease with age. One hypothesized mechanism for how C3A cells may aid in recovery is based on C3A cells supporting the defective acute phase response in vivo. This is exemplified by the significant IL1Ra elevation in the ELAD group, which was not seen in controls.</p><p>The reduction of bilirubin in the ELAD group exceeds what can be explained by the dilution in the extracorporeal circuit, and furthermore, C3A cells in ELAD have no mechanism to drain bilirubin into the bile. The parallel reduction of alkaline phosphatase in the ELAD group versus an increase in the control group may suggest bile flow can improve while on ELAD. Although the response measured by the Lille score, the most validated measure for therapy response in AH,<xref rid="lt24986-bib-0019" ref-type="ref">19</xref> was significantly better in ELAD, it did not translate into a successful OS benefit, which the authors interpret as a consequence of the worsening of the outcome in nonresponders in the ELAD arm. Similarly, patients with high MELD scores and of older age had worse outcomes, diluting a potential survival benefit indicated by more Lille responders.</p><p>Although the results of subgroup analyses must be interpreted with caution, the subgroups according to MELD, creatinine, and coagulation were in fact prespecified, interrelated, and seen in large groups, and the authors applied accepted guidelines in reporting subgroup analyses.<xref rid="lt24986-bib-0020" ref-type="ref">20</xref> The subgroup analysis related to age alone was also prespecified. However, because the combined subgroup analysis with respect to age and MELD had not been prespecified, the authors take the results of this combined analysis with specific caution.</p><p>Confirming the diagnosis of AH with liver biopsy in this patient population is not routinely performed in many centers. Both AASLD guidelines<xref rid="lt24986-bib-0021" ref-type="ref">21</xref> for management of AH as well as recommendations from the National Institute on Alcohol Abuse and Alcoholism<xref rid="lt24986-bib-0001" ref-type="ref">1</xref> consider using a liver biopsy for AH diagnosis but recognize the barriers in acquiring a biopsy in this patient population. Our study did not require liver biopsy for diagnosis, and it followed the clinical diagnostic criteria put forth by these groups. It is possible that patients have other underlying diagnoses, but we would not expect the distribution between the treatment and control groups to be different. Only in 16 and 13 patients in the ELAD and the control groups, respectively, did the investigator perform a biopsy to confirm the clinical diagnosis.</p><p>The teroids or Pentoxifylline for Alcoholic Hepatitis (STOPAH) trial showed no benefit in 90&#x02010;day survival in steroid&#x02010;treated patients. Thus, the findings of our study gain increasing importance because there is an unmet need for effective therapy for this highly prevalent, highly mortal hepatic disorder.</p><p>Because there were limitations in the study design associated with the patient heterogeneity and a potential uncertainty of diagnosis in 10%&#x02010;20% of subjects, a confirmatory study is underway to investigate the reproducibility of these observations through the conduct of a prospective, randomized, controlled clinical study in patients with lower MELD and age (VTL 308&#x02010;NCT02612428).</p><p>If successful, younger patients with AH who do not respond to medical therapy without renal failure or severe coagulopathy could undergo cellular therapy. This would allow the donor organ pool considered for early transplantation in AH to be directed to patients with more advanced coagulopathy or renal failure.</p></sec></body><back><ref-list content-type="cited-references"><title>REFERENCES</title><ref id="lt24986-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="lt24986-cit-0001">
+<string-name>
+<surname>Crabb</surname>
+<given-names>DW</given-names>
+</string-name>, 
+<string-name>
+<surname>Bataller</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Chalasani</surname>
+<given-names>NP</given-names>
+</string-name>, 
+<string-name>
+<surname>Kamath</surname>
+<given-names>PS</given-names>
+</string-name>, 
+<string-name>
+<surname>Lucey</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Mathurin</surname>
+<given-names>P</given-names>
+</string-name>, et al.; <collab collab-type="authors">for NIAAA Alcoholic Hepatitis Consortia</collab>
+. <article-title>Standard definitions and common data elements for clinical trials in patients with alcoholic hepatitis: recommendation from the NIAAA alcoholic hepatitis consortia</article-title>. <source>Gastroenterology</source>
+<year>2016</year>;<volume>150</volume>:<fpage>785</fpage>&#x02010;<lpage>790</lpage>.
+<pub-id pub-id-type="pmid">26921783</pub-id></mixed-citation></ref><ref id="lt24986-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="lt24986-cit-0002">
+<string-name>
+<surname>Gao</surname>
+<given-names>B</given-names>
+</string-name>, 
+<string-name>
+<surname>Bataller</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Alcoholic liver disease: Pathogenesis and new therapeutic targets</article-title>. <source>Gastroenterology</source>
+<year>2011</year>;<volume>141</volume>:<fpage>1572</fpage>&#x02010;<lpage>1585</lpage>.
+<pub-id pub-id-type="pmid">21920463</pub-id></mixed-citation></ref><ref id="lt24986-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="lt24986-cit-0003">
+<string-name>
+<surname>Lucey</surname>
+<given-names>MR</given-names>
+</string-name>, 
+<string-name>
+<surname>Mathurin</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Morgan</surname>
+<given-names>TR</given-names>
+</string-name>. <article-title>Alcoholic hepatitis</article-title>. <source>N Engl J Med</source>
+<year>2009</year>;<volume>360</volume>:<fpage>2758</fpage>&#x02010;<lpage>2769</lpage>.
+<pub-id pub-id-type="pmid">19553649</pub-id></mixed-citation></ref><ref id="lt24986-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="lt24986-cit-0004">
+<string-name>
+<surname>Mehta</surname>
+<given-names>G</given-names>
+</string-name>, 
+<string-name>
+<surname>Mookerjee</surname>
+<given-names>RP</given-names>
+</string-name>, 
+<string-name>
+<surname>Sharma</surname>
+<given-names>V</given-names>
+</string-name>, 
+<string-name>
+<surname>Jalan</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>Systemic inflammation is associated with increased intrahepatic resistance and mortality in alcohol&#x02010;related acute&#x02010;on&#x02010;chronic liver failure</article-title>. <source>Liver Int</source>
+<year>2015</year>;<volume>35</volume>:<fpage>724</fpage>&#x02010;<lpage>734</lpage>.
+<pub-id pub-id-type="pmid">24703488</pub-id></mixed-citation></ref><ref id="lt24986-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="lt24986-cit-0005">
+<string-name>
+<surname>Thursz</surname>
+<given-names>MR</given-names>
+</string-name>, 
+<string-name>
+<surname>Forrest</surname>
+<given-names>EH</given-names>
+</string-name>, 
+<string-name>
+<surname>Ryder</surname>
+<given-names>S</given-names>
+</string-name>; <collab collab-type="authors">for STOPAH investigators</collab>
+. <article-title>Prednisolone or pentoxifylline for alcoholic hepatitis</article-title>. <source>N Engl J Med</source>
+<year>2015</year>;<volume>373</volume>:<fpage>282</fpage>&#x02010;<lpage>283</lpage>.
+<pub-id pub-id-type="pmid">26176387</pub-id></mixed-citation></ref><ref id="lt24986-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="lt24986-cit-0006">
+<string-name>
+<surname>DiNubile</surname>
+<given-names>MJ</given-names>
+</string-name>. <article-title>Prednisolone or pentoxifylline for alcoholic hepatitis</article-title>. <source>N Engl J Med</source>
+<year>2015</year>;<volume>373</volume>:<fpage>281</fpage>&#x02010;<lpage>282</lpage>.
+</mixed-citation></ref><ref id="lt24986-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="lt24986-cit-0007">
+<string-name>
+<surname>Verbeke</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Laleman</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Nevens</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Prednisolone or pentoxifylline for alcoholic hepatitis</article-title>. <source>N Engl J Med</source>
+<year>2015</year>;<volume>373</volume>:<fpage>281</fpage>.
+</mixed-citation></ref><ref id="lt24986-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="lt24986-cit-0008">
+<string-name>
+<surname>Artru</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Louvet</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Mathurin</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Liver transplantation for patients with alcoholic hepatitis</article-title>. <source>Liver Int</source>
+<year>2017</year>;<volume>37</volume>:<fpage>337</fpage>&#x02010;<lpage>339</lpage>.
+<pub-id pub-id-type="pmid">28240838</pub-id></mixed-citation></ref><ref id="lt24986-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="lt24986-cit-0009">
+<string-name>
+<surname>Busuttil</surname>
+<given-names>RW</given-names>
+</string-name>, 
+<string-name>
+<surname>DuBray</surname>
+<given-names>BJ</given-names>
+</string-name>. <article-title>Liver transplantation for alcoholic hepatitis</article-title>. <source>Ann Surg</source>
+<year>2017</year>;<volume>265</volume>:<fpage>30</fpage>&#x02010;<lpage>31</lpage>.
+<pub-id pub-id-type="pmid">27611611</pub-id></mixed-citation></ref><ref id="lt24986-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="lt24986-cit-0010">
+<string-name>
+<surname>Obed</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Stern</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Jarrad</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Lorf</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Six month abstinence rule for liver transplantation in sever alcoholic liver disease</article-title>. <source>World J Gastroenterol</source>
+<year>2015</year>;<volume>21</volume>:<fpage>4423</fpage>&#x02010;<lpage>4426</lpage>.
+<pub-id pub-id-type="pmid">25892898</pub-id></mixed-citation></ref><ref id="lt24986-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="lt24986-cit-0011">
+<string-name>
+<surname>Ezquer</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Bruna</surname>
+<given-names>F</given-names>
+</string-name>, 
+<string-name>
+<surname>Calligaris</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Conget</surname>
+<given-names>P</given-names>
+</string-name>, 
+<string-name>
+<surname>Ezquer</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Multipotent mesenchymal stromal cells: a promising strategy to manage alcoholic liver disease</article-title>. <source>World J Gastroenterol</source>
+<year>2016</year>;<volume>22</volume>:<fpage>24</fpage>&#x02010;<lpage>36</lpage>.
+<pub-id pub-id-type="pmid">26755858</pub-id></mixed-citation></ref><ref id="lt24986-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="lt24986-cit-0012">
+<string-name>
+<surname>Lanthier</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Lin&#x02010;Marq</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Rubbia&#x02010;Brandt</surname>
+<given-names>L</given-names>
+</string-name>, 
+<string-name>
+<surname>Cl&#x000e9;ment</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Goossens</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Spahr</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Autologouse bone marrow&#x02010;derived cell transplantation in decompensated alcoholic liver disease: what is the impact on liver histology and gene expression patterns?</article-title>
+<source>Stem Cell Res Ther</source>
+<year>2017</year>;<volume>8</volume>:<fpage>88</fpage>.
+<pub-id pub-id-type="pmid">28420441</pub-id></mixed-citation></ref><ref id="lt24986-bib-0013"><label>13</label><mixed-citation publication-type="miscellaneous" id="lt24986-cit-0013">
+<string-name>
+<surname>Landeen</surname>
+<given-names>LK</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Allen</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Heredia</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Lapetoda</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Bedard</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Brotherton</surname>
+<given-names>JD</given-names>
+</string-name>, et al. <article-title>Expression of acute&#x02010;phase proteins by ELAD C3A Cells</article-title>. Transplantation 2015;99:208; 21st Annual International Congress of the International&#x02010;Liver&#x02010;Transplant&#x02010;Society (ILTS) July 08&#x02010;11, <year>2015</year>, Chicago, IL.
+</mixed-citation></ref><ref id="lt24986-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="lt24986-cit-0014">
+<string-name>
+<surname>Bedard</surname>
+<given-names>PW</given-names>
+</string-name>, 
+<string-name>
+<surname>Lapetoda</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Van Allen</surname>
+<given-names>J</given-names>
+</string-name>, 
+<string-name>
+<surname>Heredia</surname>
+<given-names>N</given-names>
+</string-name>, 
+<string-name>
+<surname>Michalopoulos</surname>
+<given-names>GK</given-names>
+</string-name>, 
+<string-name>
+<surname>Landeen</surname>
+<given-names>LK</given-names>
+</string-name>. <article-title>ELAD VTL C3A cells may impact liver regeneration through secreted factors</article-title>. <source>Hepatology</source>
+<year>2015</year>;<volume>62</volume>(suppl 1):<fpage>1071A</fpage>.
+</mixed-citation></ref><ref id="lt24986-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="lt24986-cit-0015">
+<string-name>
+<surname>Teperman</surname>
+<given-names>L.</given-names>
+</string-name>
+<collab collab-type="authors">The ELAD Study Group</collab>
+. <article-title>Bilirubin Improvement correlates with 90-day survival with use of the ELAD&#x000ae; system in a randomized, controlled study of subjects with acute alcoholic hepatitis or acute decompensation of cirrhosis [abstract]</article-title>. <source>Am J Transplant</source>
+<year>2013</year>;13(suppl 5):<fpage>147</fpage>.
+<pub-id pub-id-type="pmid">23465008</pub-id></mixed-citation></ref><ref id="lt24986-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="lt24986-cit-0016">
+<string-name>
+<surname>Dunn</surname>
+<given-names>W</given-names>
+</string-name>, 
+<string-name>
+<surname>Jamil</surname>
+<given-names>LH</given-names>
+</string-name>, 
+<string-name>
+<surname>Brown</surname>
+<given-names>LS</given-names>
+</string-name>, 
+<string-name>
+<surname>Wiesner</surname>
+<given-names>RH</given-names>
+</string-name>, 
+<string-name>
+<surname>Kim</surname>
+<given-names>WR</given-names>
+</string-name>, 
+<string-name>
+<surname>Menon</surname>
+<given-names>KV</given-names>
+</string-name>, et al. <article-title>MELD accurately predicts mortality in patients with alcoholic hepatitis</article-title>. <source>Hepatology</source>
+<year>2005</year>;<volume>41</volume>:<fpage>353</fpage>&#x02010;<lpage>358</lpage>.
+<pub-id pub-id-type="pmid">15660383</pub-id></mixed-citation></ref><ref id="lt24986-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="lt24986-cit-0017">
+<string-name>
+<surname>Mitzner</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Extracorporeal liver support&#x02010;albumin dialysis with the Molecular Adsorbent Recirculating System (MARS)</article-title>. <source>Ann Hepatol</source>
+<year>2011</year>;<volume>10</volume>(<issue>suppl 1</issue>):<fpage>S21</fpage>&#x02010;<lpage>S28</lpage>.
+<pub-id pub-id-type="pmid">21566251</pub-id></mixed-citation></ref><ref id="lt24986-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="lt24986-cit-0018">
+<string-name>
+<surname>Larsen</surname>
+<given-names>FS</given-names>
+</string-name>, 
+<string-name>
+<surname>Schmidt</surname>
+<given-names>LE</given-names>
+</string-name>, 
+<string-name>
+<surname>Bernsmeier</surname>
+<given-names>C</given-names>
+</string-name>, 
+<string-name>
+<surname>Rasmussen</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Isoniemi</surname>
+<given-names>H</given-names>
+</string-name>, 
+<string-name>
+<surname>Patel</surname>
+<given-names>VC</given-names>
+</string-name>, et al. <article-title>High&#x02010;volume plasma exchange in patients with acute liver failure: an open randomised controlled trial</article-title>. <source>J Hepatol</source>
+<year>2016</year>;<volume>64</volume>:<fpage>69</fpage>&#x02010;<lpage>78</lpage>.
+<pub-id pub-id-type="pmid">26325537</pub-id></mixed-citation></ref><ref id="lt24986-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="lt24986-cit-0019">
+<string-name>
+<surname>Louvet</surname>
+<given-names>A</given-names>
+</string-name>, 
+<string-name>
+<surname>Naveau</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>Abdelnour</surname>
+<given-names>M</given-names>
+</string-name>, 
+<string-name>
+<surname>Ramond</surname>
+<given-names>MJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Diaz</surname>
+<given-names>E</given-names>
+</string-name>, 
+<string-name>
+<surname>Fartoux</surname>
+<given-names>L</given-names>
+</string-name>, et al. <article-title>The Lille model: a new tool for therapeutic strategy in patients with severe alcoholic hepatitis treated with steroids</article-title>. <source>Hepatology</source>
+<year>2007</year>;<volume>45</volume>:<fpage>1348</fpage>&#x02010;<lpage>1354</lpage>.
+<pub-id pub-id-type="pmid">17518367</pub-id></mixed-citation></ref><ref id="lt24986-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="lt24986-cit-0020">
+<string-name>
+<surname>Wang</surname>
+<given-names>R</given-names>
+</string-name>, 
+<string-name>
+<surname>Lagakos</surname>
+<given-names>SW</given-names>
+</string-name>, 
+<string-name>
+<surname>Ware</surname>
+<given-names>JH</given-names>
+</string-name>, 
+<string-name>
+<surname>Hunter</surname>
+<given-names>DJ</given-names>
+</string-name>, 
+<string-name>
+<surname>Drazen</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Statistics in medicine&#x02010;&#x02010;reporting of subgroup analysis in clinical trials</article-title>. <source>N Engl J Med</source>
+<year>2007</year>;<volume>357</volume>:<fpage>2189</fpage>&#x02010;<lpage>2194</lpage>.
+<pub-id pub-id-type="pmid">18032770</pub-id></mixed-citation></ref><ref id="lt24986-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="lt24986-cit-0021">
+<string-name>
+<surname>O'Shea</surname>
+<given-names>RS</given-names>
+</string-name>, 
+<string-name>
+<surname>Dasarathy</surname>
+<given-names>S</given-names>
+</string-name>, 
+<string-name>
+<surname>McCullough</surname>
+<given-names>AJ</given-names>
+</string-name>; <collab collab-type="authors">for Practice Guideline Committee of the American Association for the Study of Liver Diseases; Practice Parameters Committee of the American College of Gastroenterology</collab>
+. <article-title>Alcoholic liver disease</article-title>. <source>Hepatology</source>
+<year>2010</year>;<volume>51</volume>:<fpage>307</fpage>&#x02010;<lpage>328</lpage>.
+<pub-id pub-id-type="pmid">20034030</pub-id></mixed-citation></ref></ref-list></back></article>
