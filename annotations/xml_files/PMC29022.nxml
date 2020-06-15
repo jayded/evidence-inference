@@ -1,0 +1,408 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Archiving and Interchange DTD v2.3 20070202//EN" "archivearticle.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Crit Care</journal-id><journal-title>Critical Care</journal-title><issn pub-type="ppub">1364-8535</issn><issn pub-type="epub">1466-609X</issn><publisher><publisher-name>BioMed Central</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">11056732</article-id><article-id pub-id-type="pmc">29022</article-id><article-id pub-id-type="publisher-id">cc-3-4-101</article-id><article-categories><subj-group subj-group-type="heading"><subject>Research Paper</subject></subj-group></article-categories><title-group><article-title>A new prototype of an electronic jet-ventilator and its humidification
+		  system</article-title></title-group><contrib-group><contrib id="A1" contrib-type="author"><name><surname>Kraincuk</surname><given-names>Paul</given-names></name><xref ref-type="aff" rid="I1">1</xref></contrib><contrib id="A2" contrib-type="author"><name><surname>Kepka</surname><given-names>Anton</given-names></name><xref ref-type="aff" rid="I1">1</xref></contrib><contrib id="A3" contrib-type="author"><name><surname>Ihra</surname><given-names>Gerald</given-names></name><xref ref-type="aff" rid="I1">1</xref></contrib><contrib id="A4" contrib-type="author"><name><surname>Schabernig</surname><given-names>Christa</given-names></name><xref ref-type="aff" rid="I1">1</xref></contrib><contrib id="A5" contrib-type="author"><name><surname>Aloy</surname><given-names>Alexander</given-names></name><xref ref-type="aff" rid="I1">1</xref><email>alexander.aloy@univie.ac.at</email></contrib></contrib-group><aff id="I1"><label>1</label>Department of Anesthesiology and General Intensive Care,
+				University of Vienna, Austria.</aff><pub-date pub-type="ppub"><year>1999</year></pub-date><pub-date pub-type="epub"><day>30</day><month>7</month><year>1999</year></pub-date><volume>3</volume><issue>4</issue><fpage>101</fpage><lpage>110</lpage><ext-link ext-link-type="uri" xlink:href="http://ccforum.com"/><history><date date-type="received"><day>18</day><month>6</month><year>1998</year></date><date date-type="rev-request"><day>5</day><month>6</month><year>1999</year></date><date date-type="rev-recd"><day>21</day><month>6</month><year>1999</year></date><date date-type="accepted"><day>6</day><month>7</month><year>1999</year></date></history><permissions><copyright-statement>Copyright &#x000a9; 1999 Current Science Ltd</copyright-statement><copyright-year>1999</copyright-year><copyright-holder>Current Science Ltd</copyright-holder></permissions><abstract><sec><title>Background:</title><p>Adequate humidification in long-term jet ventilation is a critical
+				aspect in terms of clinical safety.</p></sec><sec><title>Aim:</title><p>To assess a prototype of an electronic jet-ventilator and its
+				humidification system.</p></sec><sec><title>Methods:</title><p>Forty patients with respiratory insufficiency were randomly
+				allocated to one of four groups. The criterion for inclusion in this study was
+				respiratory insufficiency exhibiting a Murray score above 2. The four groups of
+				patients were ventilated with three different respirators and four different
+				humidification systems. Patients in groups A and B received superimposed
+				high-frequency jet ventilation (SHFJV) by an electronic jet-ventilator either
+				with (group A) or without (group B) an additional humidification system.
+				Patients in group C received high-frequency percussive ventilation (HFPV) by a
+				pneumatic high-frequency respirator, using a hot water humidifier for warming
+				and moistening the inspiration gas. Patients in group D received conventional
+				mechanical ventilation using a standard intensive care unit respirator with a
+				standard humidification system. SHFJV and HFPV were used for a period of 100 h
+				(4days).</p></sec><sec><title>Results:</title><p>A significantly low inspiration gas temperature was noted in
+				patients in group B, initially (27.2 &#x000b1; 2.5&#x000b0;C) and after 2 days
+				(28.0 &#x000b1; 1.6&#x000b0;C) (<italic>P</italic> &#x0003c; 0.05). The percentage of relative
+				humidity of the inspiration gas in patients in group B was also initially
+				significantly low (69.8 &#x000b1; 4.1%; <italic>P</italic> &#x0003c; 0.05) but rose to an average
+				of 98 &#x000b1; 2.8% after 2 h. The average percentage across all four groups
+				amounted to 98 &#x000b1; 0.4% after 2 h. Inflammation of the tracheal mucosa was
+				found in patients in group B and the mucosal injury score (MIS) was
+				significantly higher than in all the other groups. Patients in groups A, C and
+				D showed no severe evidence of airway damage, exhibiting adequate values of
+				relative humidity and temperature of the inspired gas.</p></sec><sec><title>Conclusion:</title><p>The problems of humidification associated with jet ventilation can
+				be fully prevented by using this new jet-ventilator. These data were sustained
+				by nondeteriorating MIS values at the end of the 4-day study period in groups
+				A, C and D.</p></sec></abstract><kwd-group><kwd>bronchoscopy</kwd><kwd>conventional mechanical ventilation</kwd><kwd>electronic jet ventilation</kwd><kwd>jet adapter</kwd><kwd>humidification system</kwd></kwd-group></article-meta></front><body><sec><title>Introduction</title><p>High-frequency jet ventilation (HFJV) has proved to be an alternative
+		  to conventional mechanical ventilation (CMV) [<xref ref-type="bibr" rid="B1">1</xref>,<xref ref-type="bibr" rid="B2">2</xref>,<xref ref-type="bibr" rid="B3">3</xref>,<xref ref-type="bibr" rid="B4">4</xref>]. The major advantage of HFJV lies in the improvement of the
+		  mucociliary transport system [<xref ref-type="bibr" rid="B5">5</xref>], the recruitment of
+		  atelectatic areas [<xref ref-type="bibr" rid="B6">6</xref>], and the improvement of oxygenation
+		  [<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B8">8</xref>], maintaining very low tidal
+		  volumes to avoid lung barotrauma [<xref ref-type="bibr" rid="B9">9</xref>]. However, one of the
+		  critical issues concerning HFJV is the adequate humidification and warming of
+		  the inspired gases [<xref ref-type="bibr" rid="B10">10</xref>]. Specific problems derive from
+		  the physical phenomena of the high velocity of the jet-stream, the
+		  Joule-Thompsen effect and the Venturi effect [<xref ref-type="bibr" rid="B11">11</xref>],
+		  causing low temperature and low relative humidity of the inspired gases [<xref ref-type="bibr" rid="B12">12</xref>,<xref ref-type="bibr" rid="B13">13</xref>].</p><p>There are several forms of HFJV [<xref ref-type="bibr" rid="B14">14</xref>]. Combined
+		  high-frequency jet ventilation (CHFJV) is a technique that requires a
+		  conventional respirator (endotracheal tube) and a high-frequency jet-ventilator
+		  (endotracheal jet tube) [<xref ref-type="bibr" rid="B15">15</xref>]. A special type of the
+		  CHFJV is the superimposed high-frequency jet ventilation (SHFJV), which is a
+		  time-regulated, pressure-controlled ventilation technique. It is characterized
+		  by the simultaneous application of a low-frequency jet stream and a
+		  high-frequency jet stream, resulting in the superposition of two jet streams
+		  with different frequencies [<xref ref-type="bibr" rid="B16">16</xref>]. This ventilation
+		  technique is managed by one respirator. Volumetric diffusive respiration is a
+		  type of ventilation (using, for example, the VDR 4, Percussionaire Corp, Idaho,
+		  USA) named high-frequency percussive ventilation (HFPV) [<xref ref-type="bibr" rid="B17">17</xref>]. Although these techniques have been described in the
+		  literature, they have not been rigorously compared to each other in long-term
+		  applications. There are several humidification systems for CMV [<xref ref-type="bibr" rid="B18">18</xref>] and HFJV [<xref ref-type="bibr" rid="B19">19</xref>,<xref ref-type="bibr" rid="B20">20</xref>], for example, hot water humidifiers, cold water
+		  humidifiers and heat and moisture exchangers. The most commonly used
+		  humidification system in our institution is the hot water humidifier (Aquapor,
+		  Type 8406640, Draeger Corp, Luebeck, Germany).</p><p>The aim of this study was to show that the problems of humidification
+		  associated with SHFJV can be prevented by using the correct humidification
+		  system. Proper methods for showing possible epithelial damage were used.</p></sec><sec sec-type="materials|methods"><title>Material and methods</title><p>After approval by the institutional Ethics Committee and informed
+		  consent, 40 intensive care unit (ICU) patients (Table <xref ref-type="table" rid="T1">1</xref>)
+		  were randomly allocated to one of four groups (A, B, C or D; 10 patients in
+		  each group). The inclusion criterion was respiratory insufficiency due to
+		  pneumonia or involvement of the lungs in multi-organ dysfunction syndrome. All
+		  patients showed a Murray score [<xref ref-type="bibr" rid="B21">21</xref>] (Table
+		  <xref ref-type="table" rid="T2">2</xref>) above 2.0, fulfilling the criteria for acute
+		  respiratory distress syndrome (ARDS) or acute lung insufficiency (ALI)
+		  according to the European American Consensus Conference 1994 (Table
+		  <xref ref-type="table" rid="T2">2</xref>). The mean number of CMV respiration days before group
+		  allocation was 2.2 days. The median age of the 16 female and 24 male patients
+		  was 67 years, ranging from 55 to 79 years.</p><p>All patients were sedated with midazolam 0.1&#x02013;0.15 mg/kg per h and
+		  sufentanil 0.01&#x02013;0.015 mg/kg per h, and optionally with ketamine 1&#x02013;2 mg/kg per h.
+		  Fluid and catecholamines were administered to achieve a pulmonary capillary
+		  wedge pressure (PCWP) between 12 and 18 mmHg, a cardiac index (CI) above
+		  2.5 l/min per m<sup>2</sup>, and a systemic vascular resistance index (SVRI)
+		  between 600 and 1500 dyn &#x000d7; s/cm<sup>5</sup> per m<sup>2</sup>. Antibiotic
+		  therapy was adapted according to the results of bacterial cultures of the
+		  tracheobronchial secretion. Red packed cells where given to restore blood
+		  volume when required and to maintain the hematocrit &#x0003e;32%. Hemodynamic
+		  variables were assessed through central venous and peripheral arterial lines.
+		  In eight patients, a Swan-Ganz pulmonary artery catheter was inserted.</p><p>Patients in group A received SHFJV by a prototype of an electronic
+		  jet-ventilator (Alexander 1, Festo Corp, Vienna, Austria) (Fig. <xref ref-type="fig" rid="F1">1</xref>). The Alexander 1 works in an open system, providing a
+		  low-frequency jet stream ranging from 4 to 40 breaths/min that influences the
+		  peak pressure, and a high-frequency jet stream ranging from 60 to 990
+		  breaths/min that influences the positive end-expiratory pressure (PEEP). Both
+		  jet streams are simultaneously applied to the patient using a newly developed
+		  jet adapter [<xref ref-type="bibr" rid="B22">22</xref>]. This plastic jet adapter (T-connector
+		  with a luer lock, Willy R&#x000e3;SCH AG, Kermen, Germany) consists of a T-piece
+		  and four central small-bore cannulas that can be connected to any commercially
+		  available endotracheal tube, avoiding reintubation with an endotracheal jet
+		  tube when beginning SHFJV. The high-frequency and low-frequency ventilation is
+		  performed with two jet nozzles which have been designed according to optimal
+		  dynamic flow measurements. Two further jet nozzles are used for continuous
+		  airway pressure monitoring and for passing saline solution into the jet stream.
+		  Next to the T-piece there is a lockable aperture that can be used for
+		  suctioning or bronchoscopy, without loss of PEEP.</p><p>For humidification, we used a combined humidification and warming
+		  system for patients in group A. The entrained gases (bias flow) were humidified
+		  by a hot water humidifier (Aquapor) and the inspiration gas bubbles through a
+		  waterbath heated by an immersed heating element. Gas leaving the device is
+		  saturated with water vapor and is heated to a pre-set temperature. The absolute
+		  humidity can be altered by changing the temperature of the waterbath.</p><p>Humidification of the jet gas was achieved by a continuous infusion of
+		  0.9% saline via a separate cannulla in the jet adapter. This was propelled and
+		  nebulized by the high-pressure jet stream, starting at 20 ml/h. The saline
+		  solution was warmed to 39&#x000b0;C by a fluid warmer (HL-90 INT, Level 1
+		  Technologies Corp, Rockland, Massachusetts, USA) before it reached the jet
+		  adapter (ie, an additional humidification system). This allows for a possible
+		  warm-up of 42&#x000b0;C to compensate for the temperature drop of the gas after
+		  decompression (the Joule-Thompsen effect).</p><p>Patients in group B also used the Alexander 1, with a hot water
+		  humidifier for the bias flow (Aquapor) and a continuous saline infusion for the
+		  jet flow (the additional fluid warmer mentioned above was not used in patients
+		  in group B).</p><p>Patients in group C received HFPV using the VDR 4, which is a
+		  pneumatic time-regulated, pressure-controlled respirator that works in a closed
+		  system to provide two oscillating pressure plateaus. The HFPV is generated by a
+		  phasitron, causing gases in the airways to oscillate back and forth between the
+		  respirator and the patient, with the fresh gas entrained from the bias flow.
+		  Because of the continuous flow applied during HFPV the patient is able to
+		  breathe spontaneously at any time during the respiratory cycle, and respiratory
+		  weaning can be performed. This method allows conventional heater humidifiers to
+		  be used. In our study we used a hot water humidifier (Aquapor).</p><p>Patients in group D received CMV using a conventional intensive care
+		  respirator (Evita, Draeger Corp) in a pressure-controlled mode using a hot
+		  water humidifier (Aquapor).</p><p>In all four groups, PEEP, the fractional inspiratory oxygen
+		  concentration (FiO<sub>2</sub>) and inspiration to expiration time ratio (I:E)
+		  were adjusted to keep arterial oxygen saturation 
+		(SaO<sub>2</sub>) above 90% with the lowest possible peak airway
+		  pressure and FiO<sub>2</sub>.</p><p>On the first day of the study, relative humidity measurements were
+		  performed at jet ventilation commencement, and after 20 min and 2 h.
+		  Consequently, data were taken only twice a day until the end of the 4-day
+		  study. Values were accurate to &#x000b1; 2% of relative humidity. Relative
+		  humidity was measured inside the tube, at its distal end, with an electronic
+		  device (E20-FXD, E u. E Elektronik Corp, Unterwiesen, Austria). This very small
+		  sensor consists of a condensator with a capacity of 600 picoFarad at a relative
+		  humidity of 70%. The polymer sensor changes its capacity according to the
+		  amount of moisture inside the area that is measured. This chemical reaction is
+		  translated into an electronic signal, which is shown on a liquid crystal
+		  display (ie, monitor) outside the tube as a percentage of the relative humidity
+		  inside the inspired gas flow.</p><p>The temperature was measured at the same location following the same
+		  timetable as above with a temperature sensor line (21076 A, Hewlett Packard,
+		  Palo Alto, California, USA). Values were accurate to &#x000b1; 0.1&#x000b0;C.</p><p>The tracheobronchial mucosa was inspected twice a day by bronchoscopy
+		  (Olympus BF Type P20D, Olympus Corp Ltd, Shirakwa, Japan) over the entire 100-h
+		  study period according to a mucosal injury score (MIS). The MIS takes into
+		  account the area and the extent of macroscopic epithelial damage in the
+		  tracheobronchial system: area A represents the mucosa around the cuff (for
+		  inspection, the tube has to be withdrawn a little); area B represents the
+		  mucosa from below the cuff down to the carina; area C represents the mucosa of
+		  the right mainstem bronchus; and area D represents the mucosa of the left
+		  mainstem bronchus. Each area is given a number, representing the amount of
+		  mucosal damage (0, no exsiccosis, no inflammation and no necrosis; 1,
+		  exsiccosis as shown by a pale mucosa with no signs of epithelial damage; 2,
+		  inflammation of the mucosa shown by mucosal redness and tumor; 3, necrosis
+		  shown by a pale mucosa with signs of epithelial damage). Thus, the possible
+		  value of the MIS ranges from 0 to 12 with damage classified as: 1&#x02013;3, simple
+		  damage; 4&#x02013;8, significant damage; 9&#x02013;12, severe damage.</p><p>The humidification rate (initially 20 ml/h) was set depending on the
+		  bronchoscopic aspect of the tracheobronchial mucosa; classification above
+		  'simple damage' (ie, MIS above 3) led to an increase in the
+		  humidification rate up to and above 45 ml/h.</p><sec><title>Statistical analysis</title><p>For demographic data (Table <xref ref-type="table" rid="T1">1</xref>) and measured
+			 values of relative humidity and gas temperature a Duncan test was calculted to
+			 determine statistical significance. All values are expressed as mean &#x000b1;
+			 standard deviation. <italic>P</italic> &#x0003c; 0.05 was regarded as statistically
+			 significant.</p><p>Since homogeneity of variances were seen, statistical evaluation was
+			 performed using single factorial analysis. However, as the small number of spot
+			 samples impaired the standard distribution, a nonparametric method (variance
+			 analysis by Kruskal&#x02013;Wallis) was also used. Both methods showed the same
+			 significant differences between the groups. Furthermore, a pathanalysis was
+			 calculated to check the statistical relevance of the hypothetical influence of
+			 the forms of ventilation on temperature and humidity.</p><fig position="float" id="F1"><label>Figure 1</label><caption><p>A prototype of an electronic jet ventilator (Alexander 1; Festo
+				Corp, Vienna, Austria). This ventilator delivers a high-frequency and a
+				low-frequency jet stream simultaneously to the patient: superimposed
+				high-frequency jet ventilation (SHFJV). PEEP, positive end-expiratory pressure;
+				FiO<sub>2</sub>, fractional inspiratory oxygen concentration; LF, lowfrequency;
+				HF, high frequency.</p></caption><graphic xlink:href="cc-3-4-101-1"/></fig><table-wrap position="float" id="T1"><label>Table 1</label><caption><p>Patient characteristics and demographic data at study entry</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left">Characteristic</td><td></td></tr><tr><td align="left">&#x02003;Age (years)</td><td align="center">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;67 &#x000b1; 12</td></tr><tr><td align="left">&#x02003;Sex (male/female)</td><td align="center">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;24/16</td></tr><tr><td colspan="2">&#x000a0;</td></tr><tr><td align="left">Etiology of acute respiratory failure (<italic>n</italic>)</td><td></td></tr><tr><td align="left">&#x02003;Postoperative</td><td align="center">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;20</td></tr><tr><td align="left">&#x02003;Pneumonia</td><td align="center">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;12</td></tr><tr><td align="left">&#x02003;Sepsis</td><td align="center">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;8</td></tr><tr><td colspan="2">&#x000a0;</td></tr><tr><td align="left">Drug treatment</td><td></td></tr><tr><td align="left">&#x02003;Midazolam (<italic>n</italic>, mg/kg per h)</td><td align="center">&#x000a0;&#x000a0;40, 0.12 &#x000b1; 0.03</td></tr><tr><td align="left">&#x02003;Sufentanil (<italic>n</italic>, mg/kg per h)</td><td align="center">&#x000a0;&#x000a0;40, 0.012 &#x000b1; 0.003</td></tr><tr><td align="left">&#x02003;Ketamine (<italic>n</italic>, mg/kg per h)</td><td align="center">&#x000a0;&#x000a0;15, 1.5 &#x000b1; 0.5</td></tr><tr><td colspan="2">&#x000a0;</td></tr><tr><td align="left">Respirator therapy (CPPV, pressure controlled mode, by
+					 Evita*)</td><td></td></tr><tr><td align="left">&#x02003;Pmax (<italic>n</italic>, mbar)</td><td align="center">40, 26 &#x000b1; 4</td></tr><tr><td align="left">&#x02003;PEEP (<italic>n</italic>, mbar)</td><td align="center">40, 10 &#x000b1; 2</td></tr><tr><td align="left">&#x02003;FiO<sub>2</sub> (<italic>n</italic>, %)</td><td align="center">&#x000a0;&#x000a0;40, 70 &#x000b1; 16</td></tr><tr><td align="left">&#x02003;I:E (<italic>n</italic>, time ratio)</td><td align="center">&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;&#x000a0;40, 1:1</td></tr></tbody></table><table-wrap-foot><p>*Draeger Corp, Luebeck, Germany. CPPV, continuous
+				positive pressure ventilation; Pmax, maximal airway pressure; PEEP, positive
+				end-expiratory pressure; FiO<sub>2</sub>, fractional inspiratory oxygen
+				concentration; I:E, inspiration to expiration time ratio.</p></table-wrap-foot></table-wrap><table-wrap position="float" id="T2"><label>Table 2</label><caption><p>Respiratory insufficiency as the inclusion criterion (Murray score
+			 [<xref ref-type="bibr" rid="B21">21</xref>] and European American Consensus Conference 1994
+			 values)</p></caption><table frame="hsides" rules="groups"><tbody><tr><td align="left">Murray Score (mean values of 40 patients)</td><td></td><td></td></tr><tr><td></td><td align="center">Measured value</td><td align="center">Points</td></tr><tr><td align="left">&#x02003;PaO<sub>2</sub>/FiO<sub>2</sub></td><td align="center">160 &#x000b1; 15</td><td align="center">3</td></tr><tr><td align="left">&#x02003;PEEP (mbar)</td><td align="center">10 &#x000b1; 2</td><td align="center">2</td></tr><tr><td align="left">&#x02003;Compliance (ml/cmH<sub>2</sub>O)<break/></td><td align="center">36 &#x000b1; 3</td><td align="center">3</td></tr><tr><td align="left">&#x02003;X-ray quadrants</td><td align="center">&#x000a0;&#x000a0;2 &#x000b1; 1</td><td align="center">2</td></tr><tr><td align="left">&#x02003;Sum total</td><td></td><td align="center">10</td></tr><tr><td align="left">&#x02003;Score (Sum total/4)</td><td></td><td align="center">2.5</td></tr><tr><td colspan="3">&#x000a0;</td></tr><tr><td align="left">European American Consensus Conference 1994</td><td></td><td></td></tr><tr><td align="left">ARDS:</td><td></td><td></td></tr><tr><td align="left">&#x02003;acute onset</td><td></td><td></td></tr><tr><td align="left">&#x02003;PaO<sub>2</sub>/FiO &#x0003c; 200 mmHg (peep independent)</td><td></td><td></td></tr><tr><td align="left">&#x02003;Bilateral infiltration on ap chest X-ray</td><td></td><td></td></tr><tr><td align="left">&#x02003;PCWP &#x0003c; 18 mmHg or absence of left atrial
+					 hypertension</td><td></td><td></td></tr><tr><td align="left">ALI:</td><td></td><td></td></tr><tr><td align="left">&#x02003;acute onset</td><td></td><td></td></tr><tr><td align="left">&#x02003;PaO<sub>2</sub>/FiO<sub>2</sub> &#x0003c; 300 mmHg (peep
+					 independent)</td><td></td><td></td></tr><tr><td align="left">&#x02003;Bilateral infiltration on ap chest x-ray</td><td></td><td></td></tr><tr><td align="left">&#x02003;PCWP &#x0003c; 18 mmHg or absence of left atrial
+					 hypertension</td><td></td><td></td></tr></tbody></table><table-wrap-foot><p>PaO<sub>2</sub>, partial pressure of oxygen; FiO<sub>2</sub>,
+				fractional inspiratory oxygen Concentration; PEEP, positive end-expiratory
+				pressure; ARDS, acute respiratory distress syndrome; ALI, acute lung
+				insufficiancy; ap, anterior-posterior; PCWP, pulmonary capillary wedge
+				pressure.</p></table-wrap-foot></table-wrap></sec></sec><sec><title>Results</title><p>Prior to random allocation to the four groups, all patients were
+		  conventionally ventilated (CMV using Evita) for 48&#x02013;72 h. The average number of
+		  ventilation days in each group was 10 days (the duration of mechanical
+		  ventilation before weaning started). The overall period of ventilation was
+		  18 &#x000b1; 4 days.</p><sec><title>Relative humidity</title><p>Initially, the lowest percentage of mean relative humidity (Fig.
+			 <xref ref-type="fig" rid="F2">2</xref>) was seen in patients in group B (69.8 &#x000b1; 4.1%;
+			 <italic>P</italic> &#x0003c; 0.05). Patients in group A showed a mean relative humidity of
+			 71.2%, patients in group C showed a mean relative humidity of 92.2% and
+			 patients in group D showed a mean relative humidity of 92.0%.</p><p>After 20 min of ventilation the mean relative humidity of the
+			 inspiration gas was still lower in patients in group B (92.8%) compared with
+			 patients in group A (96.8%), group C (97.4%), and group D (98.6%).</p><p>After 2 h of ventilation patients in all four groups showed almost
+			 equivalent mean values (98 &#x000b1; 0.4%). All measurements taken from this point
+			 until the end of the 100-h study protocol showed no more significant changes
+			 compared to the values measured after 2 h.</p></sec><sec><title>Temperature</title><p>Initially, the lowest temperature measured inside the tube (Fig.
+			 <xref ref-type="fig" rid="F3">3</xref>) was seen in patients in group B (27.2 &#x000b1; 
+			 2.5&#x000b0;C; <italic>P</italic> &#x0003c; 0.05). Patients in group A had a mean gas
+			 temperature of 31.4 &#x000b1; 2.8&#x000b0;C, those in group C had a mean gas
+			 temperature of 32.1 &#x000b1; 2.6&#x000b0;C, and those in group D had a mean gas
+			 temperature of 34.2 &#x000b1; 2.7&#x000b0;C.</p><p>After 20 min of ventilation the inspiration gas temperature was still
+			 lower in patients in group B (27.1 &#x000b1; 1.8&#x000b0;C) compared with patients in
+			 group A (32 &#x000b1; 1.8&#x000b0;C), patients in group C (32.5 &#x000b1; 2.3&#x000b0;C), and
+			 patients in group D (34.1 &#x000b1; 2.5&#x000b0;C).</p><p>After 2 h of ventilation the trend was similar (patients in group B,
+			 27.1 &#x000b1; 1.8&#x000b0;C; patients in group A, 32.4 &#x000b1; 1.1&#x000b0;C; patients in
+			 group C, 32.6 &#x000b1; 1.6&#x000b0;C; and patients in group D, 34.3 &#x000b1;
+			 2.3&#x000b0;C).</p><p>After 2 days the values were: patients in group B, 28.0 &#x000b1;
+			 1.6&#x000b0;C; patients in group A, 33.2 &#x000b1; 1.7&#x000b0;C; patients in group C,
+			 33.2 &#x000b1; 2.5&#x000b0;C; patients in group D, 34.5 &#x000b1; 1.8&#x000b0;C.</p><p>After 4 days the values were: patients in group B, 28.0 &#x000b1;
+			 1.9&#x000b0;C; patients in group A, 33.0 &#x000b1; 1.7&#x000b0;C; patients in group C,
+			 33.6 &#x000b1; 2.5&#x000b0;C; patients in group D, 34.3&#x000b1; 1.8&#x000b0;C.</p></sec><sec><title>Mucosal injury score</title><p>During the course of SHFJV, patients in group B showed signs of
+			 epithelial lesions and inflammation of the mucosa in area B within hours
+			 (MIS = 2), deteriorating on the third and fourth day (MIS = 3) (Fig. <xref ref-type="fig" rid="F4">4</xref>). During bronchoscopy, a tracheobronchial secretion was
+			 removed. The bronchial epithelium (area C) showed no pathologic evidence.
+			 Typical changes to the mucosa were not detected in patients in any group other
+			 than those in group B.</p><p>In group A, C and D no epithelial damage could be found in any area.
+			 Eight patients (group independent) who were in an intermittent prone position
+			 (usually turned every 12 h) showed little tracheal damage at the end of the
+			 tube.</p><p>Although one patient in group C died as a result of severe sepsis,
+			 their tracheobronchial mucosa showed no adverse tissue change when compared to
+			 the control group. As the period of ventilation (72 h) was probably sufficient
+			 to induce any injury as a result of the humidification system, data from this
+			 patient were not excluded in our comparison. The statistical relevance of the
+			 hypothetical influence of the forms of ventilation on temperature and humidity
+			 were checked by pathanalysis. Only group B appeared to show any influence.</p></sec><sec><title>Humidification rate of the additional humidification system</title><p>Initially, the humidification rate of the additional humidification
+			 system was set at 20 ml/h saline solution via the jet adapter (Table
+			 <xref ref-type="table" rid="T3">3</xref>). This was changed depending on the bronchoscopic
+			 aspect of the tracheobronchial mucosa and the presence of dry secretion.
+			 Patients in group A showed an average setting of 30 &#x000b1; 10 ml/h, starting at
+			 20 ml/h and rising to 40ml/h on the second day. Patients in group B showed the
+			 highest demand for saline solution, with an average setting of 45 &#x000b1; 5 ml/h
+			 and a peak of 50 ml/h on the fourth day. Patients in groups C and D were served
+			 by a hot water humidifier without an additional humidification system.</p><fig position="float" id="F2"><label>Figure 2</label><caption><p>Percentage of relative humidity (RH) of the inspiration gas for
+				each group initially, after 20 min, 2 h, after 2 days and after 4 days of
+				ventilation (mean&#x000b1; standard deviation).</p></caption><graphic xlink:href="cc-3-4-101-2"/></fig><fig position="float" id="F3"><label>Figure 3</label><caption><p>Temperature of the inspiration gas of each group initially, after
+				20 min, 2 h, after 2 days and after 4 days of ventilation (mean &#x000b1; standard
+				deviation).</p></caption><graphic xlink:href="cc-3-4-101-3"/></fig><fig position="float" id="F4"><label>Figure 4</label><caption><p>Mucosal injury score of each group initially, after 20 min, 2 h,
+				after 2 days and after 4 days of ventilation (mean&#x000b1; standard
+				deviation).</p></caption><graphic xlink:href="cc-3-4-101-4"/></fig><table-wrap position="float" id="T3"><label>Table 3</label><caption><p>Mucosal injury score and humidification rate settings during the
+			 course of superimposed high-frequency jet ventilation</p></caption><table frame="hsides" rules="groups"><thead><tr><td></td><td align="center">Group A</td><td align="center">Group B</td></tr></thead><tbody><tr><td align="left">Initially</td><td></td><td></td></tr><tr><td align="left">&#x02003;Mucosal injury score</td><td align="center">0</td><td align="center">0</td></tr><tr><td align="left">&#x02003;Humidification rate setting (ml/h)</td><td align="center">20</td><td align="center">20</td></tr><tr><td colspan="3">&#x000a0;</td></tr><tr><td align="left">After 20 min</td><td></td><td></td></tr><tr><td align="left">&#x02003;Mucosal injury score</td><td align="center">0</td><td align="center">1</td></tr><tr><td align="left">&#x02003;Humidification rate setting (ml/h)</td><td align="center">20</td><td align="center">30</td></tr><tr><td colspan="3">&#x000a0;</td></tr><tr><td align="left">After 2 h</td><td></td><td></td></tr><tr><td align="left">&#x02003;Mucosal injury score</td><td align="center">1</td><td align="center">2</td></tr><tr><td align="left">&#x02003;Humidification rate setting (ml/h)</td><td align="center">30</td><td align="center">40</td></tr><tr><td colspan="3">&#x000a0;</td></tr><tr><td align="left">After 2 days</td><td></td><td></td></tr><tr><td align="left">&#x02003;Mucosal injury score</td><td align="center">2</td><td align="center">3</td></tr><tr><td align="left">&#x02003;Humidification rate setting (ml/h)</td><td align="center">40</td><td align="center">45</td></tr><tr><td colspan="3">&#x000a0;</td></tr><tr><td align="left">After 4 days</td><td></td><td></td></tr><tr><td align="left">&#x02003;;Mucosal injury score</td><td align="center">1</td><td align="center">3</td></tr><tr><td align="left">&#x02003;Humidification rate setting (ml/h)</td><td align="center">35</td><td align="center">50</td></tr></tbody></table></table-wrap></sec></sec><sec><title>Discussion</title><p>This study yielded two major findings. Firstly, adequate
+		  humidification without sufficient warming of the inspiration gas does not
+		  prevent epithelial damage or inflammation. Secondly, the amount of
+		  humidification needed has to be changed almost every day, sometimes even within
+		  hours. Thus, regular bronchoscopy is necessary. Leaving the inspiration gas
+		  temperature significantly below 30&#x000b0;C ('cold ventilation'),
+		  even under high humidity (relative humidity above 90%), leads to epithelial
+		  damage, inflammation or even necrotizing tracheobronchitis [<xref ref-type="bibr" rid="B23">23</xref>].</p><p>The continuous 0.9% saline infusion into the humidification line of
+		  the jet adapter started at 20 ml/h. Regular checks on the mucosa showed that
+		  over 75% of all patients needed higher humidification over the whole study
+		  period, in some cases an increase of 200%. This increase was dependent on the
+		  bronchoscopic aspect of the tracheobronchial mucosa and the presence of dry
+		  secretions. Detecting these changes for alteration of the humidification
+		  settings requires a lot of experience and cannot be explained merely by facts,
+		  figures and equations.</p><p>To humidify a dry gas and reach 100% relative humidity, however,
+		  requires 44mg water to be added per litre of inspired gas. As a consequence,
+		  the rate of humidification (Q<sub>H2O</sub>; ml/h) equals 2.64 &#x000d7; V, where V
+		  is the minute ventilation. Because minute ventilation during high-frequency
+		  ventilation ranges between 20 and 40 l/min, Q<sub>H2O</sub> may vary between 50
+		  and 100 ml/h. Of course, any change in the ventilatory parameters (tidal volume,
+		  ventilation frequency per min, driving pressure, I:E) modifies minute
+		  ventilation and, therefore, Q<sub>H2O</sub>. These basic physical principles of
+		  humidification are well known, and are accepted in ventilation therapy. The
+		  saline solution was warmed by a fluid warmer to 39&#x000b0;C before it reached the
+		  jet adapter, allowing for a possible warm up of 42&#x000b0;C if necessary, to
+		  compensate for the temperature drop of the gas after decompression
+		  (Joule-Thompsen effect) and possible epithelial lesions.</p><p>In fact, increasing the temperature of the inspired gas delivered
+		  during high-frequency jet ventilation from 39&#x000b0;C&#x02013;42&#x000b0;C might appear
+		  insufficient. After decompression of the gas into the trachea, there is a
+		  sudden drop in the temperature of 5&#x02013;10&#x000b0;C. As a consequence, to reach
+		  37&#x000b0;C in the tracheobronchial tree, inspired gas should be warmed to at
+		  least 45&#x000b0;C.</p><p>In the face of this argument, our humidification system seems to face
+		  a serious drawback by providing insufficient temperature of the inspired gas,
+		  especially in terms of inducing lesions in the tracheobronchial tree after a
+		  prolonged period of SHFJV. However, our period of observation covered
+		  approximately 4 days and no signs of persisting inflammation or even necrotizing
+		  tracheobronchitis were observed in any group; only tracheobronchial damage
+		  (epithelial lesions and transitory inflammation) were detected. These
+		  alterations could be compensated for by increasing the humidification rate
+		  (Table <xref ref-type="table" rid="T3">3</xref>) of the additional humidification system, which
+		  differed more than 50% from patient to patient.</p><p>The etiology of these different demands can be seen in the
+		  multifactorial reasons that influence it, the most important of which is the
+		  drift of the so-called isothermic saturation boundary (ISB). This boundary
+		  usually lies above the carina during spontaneous breathing and represents the
+		  point where the inspired air is fully saturated with vapor and has a
+		  temperature of 36&#x000b0;C. Turbulent flow also changes to laminar flow below
+		  this point [<xref ref-type="bibr" rid="B24">24</xref>], and intubation and ventilation bring
+		  this ISB further back along the tracheobronchial tract. Thus, the ability of
+		  the lungs to facilitate an adequate temperature and amount of moisture in the
+		  inspiration gas is dramatically impaired, leading to the problems that are
+		  associated with inadequate humidification and warming.</p><p>At present, equipment to monitor humidity is not sufficiently
+		  sophisticated to allow accurate breath to breath measurements of humidity
+		  within the airway. The estimation of humidification requirements must therefore
+		  be based on scientific evidence and clinical impression. Humidification of
+		  inspired gases should not be considered in isolation but as part of total
+		  airway management. It should be associated with careful fluid balance,
+		  physiotherapy, bronchial aspiration and appropriate drug therapy.</p><p>Functional studies [<xref ref-type="bibr" rid="B24">24</xref>,<xref ref-type="bibr" rid="B25">25</xref>] have shown adverse effects of dry inspiratory gas on the
+		  tracheal mucosa during ventilation. Chalon <italic>et al</italic> [<xref ref-type="bibr" rid="B12">12</xref>] studied the cytology of epithelial cells from tracheal
+		  washings taken during anesthesia via an endotracheal tube with gases at
+		  different humidities. Abnormal cytology was found within 2h of ventilation with
+		  dry gas but not at 60% humidity or higher. Doyle <italic>et al</italic> [<xref ref-type="bibr" rid="B18">18</xref>] demonstrated that extensive epithelial damage to the
+		  trachea with destruction of the cilia, tissue inflammation and necrosis
+		  occurred after 72h of CMV with dry gas, but no damage was observed at high
+		  humidity. Other studies concerning jet ventilation [<xref ref-type="bibr" rid="B26">26</xref>,<xref ref-type="bibr" rid="B27">27</xref>] demonstrated epithelial damage
+		  at the level of the carina and left and right main-stem bronchus. There are
+		  multiple effects of passing warm, dry gas over the tracheal mucosa. Initially,
+		  there is an increase in blood supply to this region [<xref ref-type="bibr" rid="B28">28</xref>], probably as a result of release of local vasodilators
+		  [<xref ref-type="bibr" rid="B29">29</xref>]. Subsequently, there is an increase in the
+		  osmolality of the mucus secretion as the airway mucosa humidifies the gas
+		  before it enters the lungs [<xref ref-type="bibr" rid="B30">30</xref>]. Mucus secretions are
+		  under parasympathetic control and increase in volume after vagal nerve
+		  stimulation [<xref ref-type="bibr" rid="B31">31</xref>] or acetylcholine treatment [<xref ref-type="bibr" rid="B32">32</xref>]. As the mucus secretion becomes increasingly hyperosmolar
+		  and dry, it is trapped and encapsulated beneath the surface. Cellular injury
+		  occurs and neutrophil sequestration is exaggerated due to the increase in blood
+		  supply. In this situation, with aggravating tissue damage, an exsudate is
+		  formed that appears as blisters below the mucosal surface. Because of the
+		  external force from mechanical ventilation or jet ventilation, the encapsulated
+		  mucus penetrates and causes sloughing of the tracheal epithelial cells.</p><p>The clinical implications of inadequate humidification during
+		  mechanical ventilation or jet ventilation are very important. The use of dry
+		  gas during anesthesia is still common during surgical procedures. Furthermore,
+		  dry oxygen is used during resuscitation of asphyxiated patients and preterm
+		  infants. The use of dry gas during routine respiratory changes may impair
+		  already compromised lungs, especially in infants with chronic obtructive
+		  pulmonary disease and adults with ARDS. Tarnow-Mordi <italic>et al</italic> [<xref ref-type="bibr" rid="B32">32</xref>,<xref ref-type="bibr" rid="B33">33</xref>] showed an increase in the
+		  incidence of pneumothorax and chronic lung disease in patients who were
+		  ventilated with inspired gas at low temperatures, implying a low inspired
+		  absolute humidity. Necrotizing tracheobronchitis [<xref ref-type="bibr" rid="B34">34</xref>],
+		  which has been described in several ICUs, has also been attributed to low
+		  inspired humidity leading to sloughing of tracheal and bronchial cells [<xref ref-type="bibr" rid="B35">35</xref>]. Buchdahl <italic>et al</italic> [<xref ref-type="bibr" rid="B36">36</xref>]
+		  showed an increase in chronic upper respiratory tract problems in children with
+		  reduced ciliary beat frequency. Damage to the tracheal mucosa occurs during
+		  endotracheal intubation and ventilation whatever the inspired humidity. Using
+		  dry inspired gas the damage is dramatically worse; therefore, clinical
+		  procedures should aim to reduce the use of dry gases in ventilator
+		  circuits.</p><p>Warming of the inspiration gas is just as important as its
+		  humidification to avoid bronchotracheal damage. A lack of warming of the
+		  inspired gas is said to be responsible for necrotizing tracheobronchitis among
+		  many other cofactors, especially under treatment with HFJV [<xref ref-type="bibr" rid="B37">37</xref>,<xref ref-type="bibr" rid="B38">38</xref>]. However, Keszler <italic>et al</italic>
+		  [<xref ref-type="bibr" rid="B39">39</xref>] showed in a multicenter clinical trial that the
+		  incidence of necrotizing tracheobronchitis is similar comparing HFJV with CMV
+		  in neonates.</p><p>Although multiple factors are associated with necrotizing
+		  tracheobronchits, Hanson <italic>et al</italic> [<xref ref-type="bibr" rid="B40">40</xref>] proposed
+		  that regional or generalized airway ischemia was the mechanism for airway
+		  damage, based on the appearance of mucosal damage with a lack of warming.</p><p>Cavanagh <italic>et al</italic> [<xref ref-type="bibr" rid="B41">41</xref>] found an increase
+		  in regional tracheal blood flow (10.3-fold), measured by radioactive
+		  microspheres, under HFJV compared with spontaneous breathing, increasing
+		  further when using dry gas at 22&#x000b0;C. The authors claim the enhanced local
+		  hyperemia effect is because of greater water and heat extraction. A moderate
+		  hyperventilation that occurred during high-frequency jet ventilation in this
+		  study [<xref ref-type="bibr" rid="B41">41</xref>] might also have affected tracheal blood flow,
+		  although the authors concede that the hyperemia effects appear to relate to
+		  shear stress and water removal rather than alveolar partial pressure of carbon
+		  dioxide. They found blood flow improvements in the tracheal mucosa, with the
+		  highest increase using dry gas.</p><p>Although the study by Cavanagh <italic>et al</italic> covers only a period of
+		  2.5 h, another study [<xref ref-type="bibr" rid="B42">42</xref>] shows that longer periods of
+		  ventilation (33 h) produce no significant differences in airway damage when
+		  comparing CMV with HFJV.</p><p>Another explanation for the hyperemia effects under HFJV is given by
+		  Baile <italic>et al</italic> [<xref ref-type="bibr" rid="B43">43</xref>]. They claim that greater shear
+		  stresses with HFJV may also alter mucosal epithelia permeability and
+		  secondarily affect the blood flow.</p><p>Our study showed that, by providing proper humidification and warming
+		  of the inspiration gases, epithelial damage to the tracheobronchial mucosa can
+		  be prevented, as can possible inflammation and necrotizing tracheobronchitis,
+		  even in long-term applications.</p><p>The damage to the mucosa observed in patients in group B relates well
+		  with the outcome of the studies by Rouby <italic>et al</italic> [<xref ref-type="bibr" rid="B7">7</xref>,<xref ref-type="bibr" rid="B8">8</xref>] and Chatburn and McClellan [<xref ref-type="bibr" rid="B19">19</xref>], who have made a very interesting contribution to the
+		  problems associated with humidification and warming of high-frequency jet
+		  ventilation. Doyle <italic>et al</italic> [<xref ref-type="bibr" rid="B18">18</xref>] and Chatburn and
+		  McClellan [<xref ref-type="bibr" rid="B19">19</xref>] showed that, by providing adequate
+		  moisture and proper temperature of the inspiration gases, deleterious effects
+		  on the tracheobronchial mucosa can be prevented. Although their mechanical
+		  expenditures and material costs were much higher than ours, the outcome of
+		  their studies were just as satisfactory as the results of this study. SHFJV has
+		  been shown to be a serious alternative to CMV. Using the Alexander 1, the
+		  problems of humidification and warming of the ventilation gas can be handled
+		  very well.</p></sec></body><back><ref-list><ref id="B1"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Klain</surname><given-names>M</given-names></name><name><surname>Smith</surname><given-names>RB</given-names></name></person-group><article-title>High frequency percutaneous transtracheal jet ventilation.</article-title><source>Crit Care Med</source><year>1977</year><volume>5</volume><fpage>230</fpage><lpage>236</lpage><pub-id pub-id-type="pmid">332447</pub-id></citation></ref><ref id="B2"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Schuster</surname><given-names>DP</given-names></name><name><surname>Klain</surname><given-names>M</given-names></name><name><surname>Snyder</surname><given-names>JV</given-names></name></person-group><article-title>Comparison of high frequency jet ventilation to conventional
+			 ventilation during severe acute respiratory failure.</article-title><source>Crit Care Med</source><year>1982</year><volume>10</volume><fpage>625</fpage><lpage>631</lpage><pub-id pub-id-type="pmid">6749433</pub-id></citation></ref><ref id="B3"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nordin</surname><given-names>U</given-names></name><name><surname>Klain</surname><given-names>M</given-names></name><name><surname>Keszler</surname><given-names>H</given-names></name></person-group><article-title>Electron-microscopic studies of tracheal mucosa after high frequency
+			 jet ventilation.</article-title><source>Crit Care Med</source><year>1981</year><volume>10</volume><fpage>211</fpage><lpage>215</lpage></citation></ref><ref id="B4"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Neu</surname><given-names>J</given-names></name><name><surname>Hamilton</surname><given-names>L</given-names></name><name><surname>Linehan</surname><given-names>J</given-names></name></person-group><article-title>Long-term high frequency jet ventilation in neonates.</article-title><source>Crit Care Med</source><year>1984</year><volume>12</volume><fpage>833</fpage><lpage>839</lpage><pub-id pub-id-type="pmid">6467958</pub-id></citation></ref><ref id="B5"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chang</surname><given-names>HK</given-names></name><name><surname>Harf</surname><given-names>A</given-names></name></person-group><article-title>High-frequency jet ventilation: a review. </article-title><source>Respir Physiol</source><year>1984</year><volume>57</volume><fpage>135</fpage><lpage>152</lpage><pub-id pub-id-type="pmid">6387837</pub-id></citation></ref><ref id="B6"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Nordin</surname><given-names>U</given-names></name><name><surname>Keszler</surname><given-names>H</given-names></name><name><surname>Klain</surname><given-names>M</given-names></name></person-group><article-title>How does high frequency jet ventilation effect the muciliary
+			 transport ?</article-title><source>Crit Care Med</source><year>1981</year><volume>19</volume><fpage>160</fpage><lpage>165</lpage></citation></ref><ref id="B7"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rouby</surname><given-names>JJ</given-names></name><name><surname>Fusciardi</surname><given-names>J</given-names></name><name><surname>Bourgain</surname><given-names>JL</given-names></name><name><surname>Viars</surname><given-names>P</given-names></name></person-group><article-title>High-frequency jet-ventilation in postoperative respiratory failure:
+			 determinants of oxygenation.</article-title><source>Anaesthesiology</source><year>1983</year><volume>59</volume><fpage>281</fpage><lpage>287</lpage></citation></ref><ref id="B8"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Rouby</surname><given-names>JJ</given-names></name><name><surname>Simonneau</surname><given-names>G</given-names></name><name><surname>Benhamou</surname><given-names>D</given-names></name><etal></etal></person-group><article-title>Factors influencing pulmonary volumes and CO<sub>2</sub> elimination
+			 during high-frequency jet-ventilation.</article-title><source>Anaesthesiology</source><year>1985</year><volume>63</volume><fpage>473</fpage><lpage>482</lpage></citation></ref><ref id="B9"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Herridge</surname><given-names>MS</given-names></name><name><surname>Slutsky</surname><given-names>AS</given-names></name><name><surname>Colditz</surname><given-names>GA</given-names></name></person-group><article-title>Has high-frequency ventilation been inappropriately discarded in
+			 adult acute respiratory distress syndrome?</article-title><source>Crit Care Med</source><year>1998</year><volume>26</volume><fpage>2073</fpage><lpage>2077</lpage><pub-id pub-id-type="pmid">9875923</pub-id></citation></ref><ref id="B10"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kahn</surname><given-names>RC</given-names></name></person-group><article-title>Humidification of the airways: adequate for function and
+			 integrity?</article-title><source>Chest</source><year>1983</year><volume>5</volume><fpage>510</fpage><lpage>514</lpage><pub-id pub-id-type="pmid">6628002</pub-id></citation></ref><ref id="B11"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chalon</surname><given-names>J</given-names></name></person-group><article-title>Low humidity and damage to tracheal mucosa. </article-title><source>Bull NY Acad Med</source><year>1980</year><volume>56</volume><fpage>314</fpage><lpage>319</lpage></citation></ref><ref id="B12"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chalon</surname><given-names>J</given-names></name><name><surname>Loew</surname><given-names>D</given-names></name><name><surname>Malebranche</surname><given-names>J</given-names></name></person-group><article-title>Effects of dry anesthetic gases on tracheobronchial ciliated
+			 epithelium.</article-title><source>Anesthesiology</source><year>1972</year><volume>37</volume><fpage>338</fpage><lpage>343</lpage><pub-id pub-id-type="pmid">4115208</pub-id></citation></ref><ref id="B13"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shelly</surname><given-names>MP</given-names></name><name><surname>Lloyd</surname><given-names>GM</given-names></name><name><surname>Park</surname><given-names>GR</given-names></name></person-group><article-title>A review of mechanisms and methods of humidification of inspired
+			 gases.</article-title><source>Int Care Med</source><year>1988</year><volume>14 </volume><fpage>118</fpage><lpage>123</lpage></citation></ref><ref id="B14"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Klain</surname><given-names>M</given-names></name><name><surname>Smith</surname><given-names>RB</given-names></name></person-group><article-title>High frequency percutaneous transtracheal jet ventilation.</article-title><source>Crit Care Med</source><year>1977</year><volume>5</volume><fpage>280</fpage><lpage>287</lpage><pub-id pub-id-type="pmid">338247</pub-id></citation></ref><ref id="B15"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Roustan</surname><given-names>JP</given-names></name></person-group><article-title>High frequency jet ventilation combined with conventional mechanical
+			 ventilation in the treatment of adult respiratory distress syndrome.</article-title><source>Ann Fr Anesth Reanim</source><year>1995</year><volume>14</volume><fpage>276</fpage><lpage>288</lpage><pub-id pub-id-type="pmid">7486298</pub-id></citation></ref><ref id="B16"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Aloy</surname><given-names>A</given-names></name><name><surname>Schachner</surname><given-names>M</given-names></name><name><surname>Cancura</surname><given-names>W</given-names></name></person-group><article-title>Tubeless translaryngeal superimposed jet ventilation.</article-title><source>Eur Arch Otorhinolaryngol</source><year>1991</year><volume>248</volume><fpage>475</fpage><lpage>478</lpage><pub-id pub-id-type="pmid">1768410</pub-id></citation></ref><ref id="B17"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Gallagher</surname><given-names>TJ</given-names></name><name><surname>Boysen</surname><given-names>PG</given-names></name><name><surname>Davidson</surname><given-names>DD</given-names></name><name><surname>Miller</surname><given-names>JR</given-names></name><name><surname>Leven</surname><given-names>SB</given-names></name></person-group><article-title>High frequency percussive ventilation compared with conventional
+			 mechanical ventilation.</article-title><source>Crit Care Med</source><year>1989</year><volume>17</volume><fpage>364</fpage><lpage>366</lpage><pub-id pub-id-type="pmid">2495212</pub-id></citation></ref><ref id="B18"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Doyle</surname><given-names>H</given-names></name><name><surname>Napolitano</surname><given-names>A</given-names></name><name><surname>Lippmann</surname><given-names>R</given-names></name></person-group><article-title>Different humidification systems for high frequency jet
+			 ventilation.</article-title><source>Crit Care Med</source><year>1984</year><volume>12</volume><fpage>815</fpage><lpage>819</lpage><pub-id pub-id-type="pmid">6590205</pub-id></citation></ref><ref id="B19"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Chatburn</surname><given-names>RL</given-names></name><name><surname>McClellan</surname><given-names>LD</given-names></name></person-group><article-title>A heat and humidification system for high frequency jet
+			 ventilation.</article-title><source>Repir Care</source><year>1982</year><volume>27</volume><fpage>1386</fpage><lpage>1391</lpage></citation></ref><ref id="B20"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Burton</surname><given-names>JDK</given-names></name></person-group><article-title>Effects of dry anaesthetic gases on the respiratory mucus
+			 membrane.</article-title><source>Lancet</source><year>1982</year><volume>11</volume><fpage>235</fpage><lpage>240</lpage></citation></ref><ref id="B21"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Murray</surname><given-names>JF</given-names></name><name><surname>Matthay</surname><given-names>MA</given-names></name><name><surname>Luce</surname><given-names>JM</given-names></name><name><surname>Flick</surname><given-names>MR</given-names></name></person-group><article-title>An expanded definition of the adult respiratory distress
+			 syndrome.</article-title><source>Am Rev Respir Dis </source><year>1988</year><volume>138</volume><fpage>720</fpage><lpage>723</lpage><pub-id pub-id-type="pmid">3202424</pub-id></citation></ref><ref id="B22"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ihra</surname><given-names>G</given-names></name><name><surname>Kepka</surname><given-names>A</given-names></name><name><surname>Lanzenberger</surname><given-names>E</given-names></name><name><surname>Schabernig</surname><given-names>C</given-names></name><name><surname>Zimpfer</surname><given-names>M</given-names></name><name><surname>Aloy</surname><given-names>A</given-names></name></person-group><article-title>SHFJV via a newly developed jet adaptor in the ICU [in German].</article-title><source>Anaesthesist</source><year>1998</year><volume>47</volume><fpage>209</fpage><lpage>219</lpage><pub-id pub-id-type="pmid">9567154</pub-id></citation></ref><ref id="B23"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Shelly</surname><given-names>MP</given-names></name><name><surname>Lloyd</surname><given-names>GM</given-names></name><name><surname>Park</surname><given-names>GR</given-names></name><etal></etal></person-group><article-title>A review of mechanisms and methods of humidification of inspired
+			 gases.</article-title><source>Int Care Med</source><year>1988</year><volume>14</volume><fpage>1</fpage><lpage>9</lpage></citation></ref><ref id="B24"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hirsch</surname><given-names>JA</given-names></name><name><surname>Tokayer</surname><given-names>JL</given-names></name><name><surname>Robison</surname><given-names>MJ</given-names></name><etal></etal></person-group><article-title>Effects of dry air and subsequent humidification on tracheal mucous
+			 velocity in dogs. </article-title><source>J Appl Physiol</source><year>1975</year><volume>39</volume><fpage>242</fpage><lpage>249</lpage><pub-id pub-id-type="pmid">1176385</pub-id></citation></ref><ref id="B25"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Mammel</surname><given-names>MC</given-names></name><name><surname>Ophoven</surname><given-names>JP</given-names></name><name><surname>Lewallen</surname><given-names>PK</given-names></name><etal></etal></person-group><article-title>High frequency ventilation and tracheal injuries.</article-title><source>Pediatrics</source><year>1986</year><volume>77</volume><fpage>608</fpage><lpage>612</lpage><pub-id pub-id-type="pmid">3515307</pub-id></citation></ref><ref id="B26"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Wiswell</surname><given-names>TE</given-names></name><name><surname>Clark</surname><given-names>RM</given-names></name><name><surname>Null</surname><given-names>DM</given-names></name><etal></etal></person-group><article-title>Tracheal and bronchial injury in high-frequency oscillatory
+			 ventilation and high-frequency flow-interruption compared with positive
+			 pressure ventilation.</article-title><source>J Pediatr</source><year>1988</year><volume>112</volume><fpage>249</fpage><lpage>253</lpage><pub-id pub-id-type="pmid">3276863</pub-id></citation></ref><ref id="B27"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bail</surname><given-names>EM</given-names></name><name><surname>Dahlby</surname><given-names>RW</given-names></name><name><surname>Wiggs</surname><given-names>BR</given-names></name><etal></etal></person-group><article-title>Effect of cold and warm dry air hyperventilation on canine airway
+			 blood flow.</article-title><source>J Appl Physiol</source><year>1987</year><volume>62</volume><fpage>526</fpage><lpage>531</lpage><pub-id pub-id-type="pmid">3558212</pub-id></citation></ref><ref id="B28"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Bail</surname><given-names>EM</given-names></name><name><surname>Godden</surname><given-names>DJ</given-names></name><name><surname>Pare</surname><given-names>PD</given-names></name></person-group><article-title>Mechanism for increase in tracheobronchial blood flow induced by
+			 hyperventilation of dry air in dogs. </article-title><source>J Appl Physiol</source><year>1990</year><volume>68</volume><fpage>105</fpage><lpage>111</lpage><pub-id pub-id-type="pmid">2312447</pub-id></citation></ref><ref id="B29"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Man</surname><given-names>SFP</given-names></name><name><surname>Adams</surname><given-names>GK</given-names></name><name><surname>Proctor</surname><given-names>DF</given-names></name><etal></etal></person-group><article-title>Effects of temperature, relative humidity and mode of breathing in
+			 canine airway sections.</article-title><source>J Appl Physiol</source><year>1979</year><volume>46</volume><fpage>205</fpage><lpage>211</lpage><pub-id pub-id-type="pmid">422436</pub-id></citation></ref><ref id="B30"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Phillips</surname><given-names>RJ</given-names></name><name><surname>Richardson</surname><given-names>PS</given-names></name></person-group><article-title>The effect of autonomic nerve system and related drugs on tracheal
+			 mucous secretion.</article-title><source>J Physiol (Lond) </source><year>1975</year><volume>247</volume><fpage>270</fpage><lpage>274</lpage></citation></ref><ref id="B31"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Strugess</surname><given-names>J</given-names></name><name><surname>Reid</surname><given-names>L</given-names></name></person-group><article-title>An organ culture study of the effect of drugs on the secretory
+			 activity of the human bronchial submucosal gland. </article-title><source>Clin Sci</source><year>1972</year><volume>43</volume><fpage>533</fpage><lpage>537</lpage><pub-id pub-id-type="pmid">4653592</pub-id></citation></ref><ref id="B32"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tarnow-Mordi</surname><given-names>WO</given-names></name><name><surname>Reid</surname><given-names>E</given-names></name><name><surname>Griffiths</surname><given-names>PR</given-names></name><etal></etal></person-group><article-title>Low inspired gas temperature and respiratory complications in very
+			 low birthweight infants.</article-title><source>J Pediatr</source><year>1989</year><volume>114</volume><fpage>438</fpage><lpage>442</lpage><pub-id pub-id-type="pmid">2921688</pub-id></citation></ref><ref id="B33"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Tarnow-Mordi</surname><given-names>WO</given-names></name><name><surname>Sutton</surname><given-names>P</given-names></name><name><surname>Wilkinson</surname><given-names>AR</given-names></name></person-group><article-title>Inadequate humidification of respiratory gases during mechanical
+			 ventilation of the newborn.</article-title><source>Arch Dis Child</source><year>1986</year><volume>61</volume><fpage>698</fpage><lpage>704</lpage><pub-id pub-id-type="pmid">3740912</pub-id></citation></ref><ref id="B34"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Kirpalani</surname><given-names>H</given-names></name><name><surname>Higa</surname><given-names>T</given-names></name><name><surname>Perlman</surname><given-names>M</given-names></name><etal></etal></person-group><article-title>Diagnosis and therapy of necrotizing tracheobronchitis in ventilated
+			 neonates. </article-title><source>Crit Care Med</source><year>1985</year><volume>13</volume><fpage>792</fpage><lpage>798</lpage><pub-id pub-id-type="pmid">4028749</pub-id></citation></ref><ref id="B35"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Metlay</surname><given-names>LA</given-names></name><name><surname>MacPherson</surname><given-names>TA</given-names></name><name><surname>Doshi</surname><given-names>N</given-names></name><etal></etal></person-group><article-title>A new iatrogenous lesion in newborns requiring assisted
+			 ventilation.</article-title><source>N Engl J Med</source><year>1983</year><volume>309</volume><fpage>111</fpage><lpage>116</lpage><pub-id pub-id-type="pmid">6855863</pub-id></citation></ref><ref id="B36"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Buchdahl</surname><given-names>RM</given-names></name><name><surname>Reiser</surname><given-names>J</given-names></name><name><surname>Ingram</surname><given-names>D</given-names></name><etal></etal></person-group><article-title>Ciliary abnormalities in respiratory disease.</article-title><source>Arch Dis Child</source><year>1988</year><volume>63</volume><fpage>238</fpage><lpage>244</lpage><pub-id pub-id-type="pmid">3355203</pub-id></citation></ref><ref id="B37"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Ophoven</surname><given-names>JP</given-names></name><name><surname>Mammel</surname><given-names>MC</given-names></name><name><surname>Gordon</surname><given-names>MJ</given-names></name><etal></etal></person-group><article-title>Tracheobronchial histopathology associated with high-frequency
+			 jet-ventilation.</article-title><source>Crit Care Med</source><year>1984</year><volume>12</volume><fpage>829</fpage><lpage>832</lpage><pub-id pub-id-type="pmid">6467957</pub-id></citation></ref><ref id="B38"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Boros</surname><given-names>SJ</given-names></name><name><surname>Mammel</surname><given-names>MC</given-names></name><name><surname>Coleman</surname><given-names>JM</given-names></name><etal></etal></person-group><article-title>Neonatal high-frequency jet-ventilation: four year's experience.</article-title><source>Pediatrics </source><year>1985</year><volume>75</volume><fpage>657</fpage><lpage>663</lpage><pub-id pub-id-type="pmid">3982897</pub-id></citation></ref><ref id="B39"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Keszler</surname><given-names>M</given-names></name><name><surname>Donn</surname><given-names>SM</given-names></name><name><surname>Bucciarelli</surname><given-names>RL</given-names></name><etal></etal></person-group><article-title>Multicenter controlled trial comparing high-frequency
+			 jet-ventilation and conventional mechanical ventilation in newborn infants with
+			 pulmonary interstitial emphysema.</article-title><source>J Pediatr</source><year>1991</year><volume>119</volume><fpage>85</fpage><lpage>93</lpage><pub-id pub-id-type="pmid">1906102</pub-id></citation></ref><ref id="B40"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Hanson</surname><given-names>JB</given-names></name><name><surname>Waldstein</surname><given-names>G</given-names></name><name><surname>Hernandez</surname><given-names>JA</given-names></name><etal></etal></person-group><article-title>Necrotizing tracheobronchitis: an ischemic lesion.</article-title><source>Am J Dis Child</source><year>1998</year><volume>142</volume><fpage>1094</fpage><lpage>1098</lpage><pub-id pub-id-type="pmid">3177306</pub-id></citation></ref><ref id="B41"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Cavanagh</surname><given-names>KA</given-names></name><name><surname>Hill</surname><given-names>HF</given-names></name><name><surname>Wojciechowsky</surname><given-names>WV</given-names></name><name><surname>Parker</surname><given-names>JC</given-names></name></person-group><article-title>Regional tracheal blood flow during conventional and high-frequency
+			 jet-ventilation in suckling pigs.</article-title><source>Crit Care Med</source><year>1996</year><volume>24</volume><fpage>280</fpage><lpage>286</lpage><pub-id pub-id-type="pmid">8605802</pub-id></citation></ref><ref id="B42"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Naglie</surname><given-names>RA</given-names></name><name><surname>Donn</surname><given-names>SM</given-names></name><name><surname>Nicks</surname><given-names>JJ</given-names></name><etal></etal></person-group><article-title>Tracheobronchial and pulmonary histopathology following conventional
+			 ventilation and high-frequency jet-ventilation.</article-title><source>J Perinatol</source><year>1986</year><volume>10</volume><fpage>46</fpage><lpage>51</lpage><pub-id pub-id-type="pmid">2179488</pub-id></citation></ref><ref id="B43"><citation citation-type="journal"><person-group person-group-type="author"><name><surname>Baile</surname><given-names>EM</given-names></name><name><surname>Guillemi</surname><given-names>S</given-names></name><name><surname>Pare</surname><given-names>PD</given-names></name></person-group><article-title>Tracheobronchial and upper airway blood flow in dogs during
+			 thermally induced panting.</article-title><source>J Appl Physiol </source><year>1987</year><volume>63</volume><fpage>2240</fpage><lpage>2246</lpage><pub-id pub-id-type="pmid">3436860</pub-id></citation></ref></ref-list></back></article>
+
+

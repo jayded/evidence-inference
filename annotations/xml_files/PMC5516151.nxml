@@ -1,0 +1,749 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Am J Transplant</journal-id><journal-id journal-id-type="iso-abbrev">Am. J. Transplant</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1600-6143</journal-id><journal-id journal-id-type="publisher-id">AJT</journal-id><journal-title-group><journal-title>American Journal of Transplantation</journal-title></journal-title-group><issn pub-type="ppub">1600-6135</issn><issn pub-type="epub">1600-6143</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">27130868</article-id><article-id pub-id-type="pmc">5516151</article-id><article-id pub-id-type="doi">10.1111/ajt.13830</article-id><article-id pub-id-type="publisher-id">AJT13830</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Article</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Articles</subject><subj-group subj-group-type="heading"><subject>Clinical Science</subject></subj-group></subj-group></article-categories><title-group><article-title>Long&#x02010;Term Outcomes in Belatacept&#x02010; Versus Cyclosporine&#x02010;Treated Recipients of Extended Criteria Donor Kidneys: Final Results From BENEFIT&#x02010;EXT, a Phase III Randomized Study</article-title><alt-title alt-title-type="left-running-head">Durrbach et al</alt-title></title-group><contrib-group><contrib id="ajt13830-cr-0001" contrib-type="author" corresp="yes"><name><surname>Durrbach</surname><given-names>A.</given-names></name><address><email>antoine.durrbach@bct.aphp.fr</email></address><xref ref-type="aff" rid="ajt13830-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="ajt13830-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="ajt13830-cr-0002" contrib-type="author"><name><surname>Pestana</surname><given-names>J. M.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="ajt13830-cr-0003" contrib-type="author"><name><surname>Florman</surname><given-names>S.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="ajt13830-cr-0004" contrib-type="author"><name><surname>del Carmen Rial</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="ajt13830-cr-0005" contrib-type="author"><name><surname>Rostaing</surname><given-names>L.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="ajt13830-cr-0006" contrib-type="author"><name><surname>Kuypers</surname><given-names>D.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="ajt13830-cr-0007" contrib-type="author"><name><surname>Matas</surname><given-names>A.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="ajt13830-cr-0008" contrib-type="author"><name><surname>Wekerle</surname><given-names>T.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="ajt13830-cr-0009" contrib-type="author"><name><surname>Polinsky</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ajt13830-cr-0010" contrib-type="author"><name><surname>Meier&#x02010;Kriesche</surname><given-names>H. U.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="ajt13830-cr-0011" contrib-type="author"><name><surname>Munier</surname><given-names>S.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="ajt13830-cr-0012" contrib-type="author"><name><surname>Griny&#x000f3;</surname><given-names>J. M.</given-names></name><xref ref-type="aff" rid="ajt13830-aff-0012">
+<sup>12</sup>
+</xref></contrib></contrib-group><aff id="ajt13830-aff-0001">
+<label><sup>1</sup></label>
+<institution>University H&#x000f4;pital of Bic&#x000ea;tre</institution>
+<named-content content-type="city">Le Kremlin&#x02010;Bic&#x000ea;tre</named-content>
+<country country="FR">France</country>
+</aff><aff id="ajt13830-aff-0002">
+<label><sup>2</sup></label>
+<institution>Universit&#x000e9; Paris&#x02010;Saclay</institution>
+<named-content content-type="city">Plateau de Saclay</named-content>
+<country country="FR">France</country>
+</aff><aff id="ajt13830-aff-0003">
+<label><sup>3</sup></label>
+<institution>Hospital do Rim</institution>
+<named-content content-type="city">Sao Paulo</named-content>
+<country country="BR">Brazil</country>
+</aff><aff id="ajt13830-aff-0004">
+<label><sup>4</sup></label>
+<institution>Mount Sinai Medical Center</institution>
+<named-content content-type="city">New York</named-content>
+<named-content content-type="country-part">NY</named-content>
+</aff><aff id="ajt13830-aff-0005">
+<label><sup>5</sup></label>
+<institution>Instituto de Nefrolog&#x000ed;a</institution>
+<named-content content-type="city">Buenos Aires</named-content>
+<country country="AR">Argentina</country>
+</aff><aff id="ajt13830-aff-0006">
+<label><sup>6</sup></label>
+<institution>University Hospital</institution>
+<named-content content-type="city">Toulouse</named-content>
+<country country="FR">France</country>
+</aff><aff id="ajt13830-aff-0007">
+<label><sup>7</sup></label>
+<institution>University Hospitals Leuven</institution>
+<named-content content-type="city">Leuven</named-content>
+<country country="BE">Belgium</country>
+</aff><aff id="ajt13830-aff-0008">
+<label><sup>8</sup></label>
+<institution>University of Minnesota</institution>
+<named-content content-type="city">Minneapolis</named-content>
+<named-content content-type="country-part">MN</named-content>
+</aff><aff id="ajt13830-aff-0009">
+<label><sup>9</sup></label>
+<institution>Medical University of Vienna</institution>
+<named-content content-type="city">Vienna</named-content>
+<country country="AT">Austria</country>
+</aff><aff id="ajt13830-aff-0010">
+<label><sup>10</sup></label>
+<institution>Bristol&#x02010;Myers Squibb</institution>
+<named-content content-type="city">Lawrenceville</named-content>
+<named-content content-type="country-part">NJ</named-content>
+</aff><aff id="ajt13830-aff-0011">
+<label><sup>11</sup></label>
+<institution>Bristol&#x02010;Myers Squibb</institution>
+<named-content content-type="city">Braine&#x02010;l'Alleud</named-content>
+<country country="BE">Belgium</country>
+</aff><aff id="ajt13830-aff-0012">
+<label><sup>12</sup></label>
+<institution>University Hospital Bellvitge</institution>
+<named-content content-type="city">Barcelona</named-content>
+<country country="ES">Spain</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label>Corresponding author: Antoine Durrbach, <email>antoine.durrbach@bct.aphp.fr</email></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>6</month><year>2016</year></pub-date><pub-date pub-type="ppub"><month>11</month><year>2016</year></pub-date><volume>16</volume><issue>11</issue><issue-id pub-id-type="doi">10.1111/ajt.2016.16.issue-11</issue-id><fpage>3192</fpage><lpage>3201</lpage><history><date date-type="received"><day>22</day><month>11</month><year>2015</year></date><date date-type="rev-recd"><day>01</day><month>4</month><year>2016</year></date><date date-type="accepted"><day>08</day><month>4</month><year>2016</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 the American Society of Transplantation and the American Society of Transplant Surgeons <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. American Journal of Transplantation published by Wiley Periodicals, Inc. on behalf of American Society of Transplant Surgeons</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:AJT-16-3192.pdf"/><abstract id="ajt13830-abs-0001"><p>In the Belatacept Evaluation of Nephroprotection and Efficacy as First&#x02010;Line Immunosuppression Trial&#x02013;Extended Criteria Donors (<styled-content style="fixed-case">BENEFIT</styled-content>&#x02010;<styled-content style="fixed-case">EXT</styled-content>), extended criteria donor kidney recipients were randomized to receive belatacept&#x02010;based (more intense [<styled-content style="fixed-case">MI</styled-content>] or less intense [<styled-content style="fixed-case">LI</styled-content>]) or cyclosporine&#x02010;based immunosuppression. In prior analyses, belatacept was associated with significantly better renal function compared with cyclosporine. In this prospective analysis of the intent&#x02010;to&#x02010;treat population, efficacy and safety were compared across regimens at 7 years after transplant. Overall, 128 of 184 belatacept <styled-content style="fixed-case">MI</styled-content>&#x02013;treated, 138 of 175 belatacept <styled-content style="fixed-case">LI</styled-content>&#x02013;treated and 108 of 184 cyclosporine&#x02010;treated patients contributed data to these analyses. Hazard ratios (<styled-content style="fixed-case">HR</styled-content>s) comparing time to death or graft loss were 0.915 (95% confidence interval [<styled-content style="fixed-case">CI</styled-content>] 0.625&#x02013;1.339; p = 0.65) for belatacept <styled-content style="fixed-case">MI</styled-content> versus cyclosporine and 0.927 (95% <styled-content style="fixed-case">CI</styled-content> 0.634&#x02013;1.356; p = 0.70) for belatacept <styled-content style="fixed-case">LI</styled-content> versus cyclosporine. Mean estimated <styled-content style="fixed-case">GFR (eGFR)</styled-content> plus or minus standard error at 7 years was 53.9 &#x000b1; 1.9, 54.2 &#x000b1; 1.9, and 35.3 &#x000b1; 2.0 <styled-content style="fixed-case">mL</styled-content>/min per 1.73 m<sup>2</sup> for belatacept <styled-content style="fixed-case">MI</styled-content>, belatacept <styled-content style="fixed-case">LI</styled-content> and cyclosporine, respectively (p &#x0003c; 0.001 for overall treatment effect). <styled-content style="fixed-case">HR</styled-content>s comparing freedom from death, graft loss or e<styled-content style="fixed-case">GFR</styled-content> &#x0003c;20 <styled-content style="fixed-case">mL</styled-content>/min per 1.73 m<sup>2</sup> were 0.754 (95% <styled-content style="fixed-case">CI</styled-content> 0.536&#x02013;1.061; p = 0.10) for belatacept <styled-content style="fixed-case">MI</styled-content> versus cyclosporine and 0.706 (95% <styled-content style="fixed-case">CI</styled-content> 0.499&#x02013;0.998; p = 0.05) for belatacept <styled-content style="fixed-case">LI</styled-content> versus cyclosporine. Acute rejection rates and safety profiles of belatacept&#x02010; and cyclosporine&#x02010;based treatment were similar. <italic>De novo</italic> donor&#x02010;specific antibody incidence was lower for belatacept (p &#x02264; 0.0001). Relative to cyclosporine, belatacept was associated with similar death and graft loss and improved renal function at 7 years after transplant and had a safety profile consistent with previous reports.</p></abstract><abstract abstract-type="short" id="ajt13830-abs-0101"><p>In patients transplanted with an extended donation criteria kidney, belatacept&#x02010;based immunosuppression is associated with a similar death/graft loss and improved renal function at 7 years posttransplant as a cyclosporine&#x02010;based immunosuppression, with a safety profile consistent with previous reports.</p></abstract><kwd-group kwd-group-type="author-generated"><kwd id="ajt13830-kwd-0001">clinical research/practice</kwd><kwd id="ajt13830-kwd-0002">kidney transplantation/nephrology</kwd><kwd id="ajt13830-kwd-0003">clinical trial</kwd><kwd id="ajt13830-kwd-0004">donors and donation: deceased</kwd><kwd id="ajt13830-kwd-0005">donors and donation: extended criteria</kwd><kwd id="ajt13830-kwd-0006">donors and donation: donation after circulatory death (DCD)</kwd><kwd id="ajt13830-kwd-0007">immunosuppressant</kwd><kwd id="ajt13830-kwd-0008">fusion proteins and monoclonal antibodies: belatacept</kwd></kwd-group><funding-group><award-group><funding-source>Bristol&#x02010;Myers Squibb</funding-source></award-group></funding-group><counts><fig-count count="4"/><table-count count="3"/><page-count count="10"/><word-count count="7294"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>ajt13830</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>November 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:5.1.4 mode:remove_FC converted:19.07.2017</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="ajt13830-cit-1001">
+<string-name>
+<surname>Durrbach</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pestana</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Florman</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>del Carmen Rial</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rostaing</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kuypers</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Matas</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Wekerle</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Polinsky</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Meier&#x02010;Kriesche</surname>
+<given-names>HU</given-names>
+</string-name>, <string-name>
+<surname>Munier</surname>
+<given-names>S</given-names>
+</string-name> &#x00026; <string-name>
+<surname>Griny&#x000f3;</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Long&#x02010;Term Outcomes in Belatacept&#x02010; Versus Cyclosporine&#x02010;Treated Recipients of Extended Criteria Donor Kidneys: Final Results From BENEFIT&#x02010;EXT, a Phase III Randomized Study</article-title>. <source>Am J Transplant</source>
+<year>2016</year>; <volume>16</volume>: <fpage>3192</fpage>&#x02013;<lpage>3201</lpage>
+<pub-id pub-id-type="pmid">27130868</pub-id></mixed-citation>
+</p></notes><notes><fn-group id="ajt13830-ntgp-1101"><fn id="ajt13830-note-0111"><p>[The copyright line for this article was changed on June 19, 2017 after original publication.]</p></fn></fn-group></notes></front><body><def-list list-content="abbreviations" id="ajt13830-dl-0001"><title>Abbreviations</title><def-item><term>AE</term><def><p>adverse event</p></def></def-item><def-item><term>CI</term><def><p>confidence interval</p></def></def-item><def-item><term>CsA</term><def><p>cyclosporine</p></def></def-item><def-item><term>DSA</term><def><p>donor&#x02010;specific antibody</p></def></def-item><def-item><term>EBV</term><def><p>Epstein&#x02013;Barr virus</p></def></def-item><def-item><term>ECD</term><def><p>expanded criteria donor</p></def></def-item><def-item><term>eGFR</term><def><p>estimated GFR</p></def></def-item><def-item><term>HR</term><def><p>hazard ratio</p></def></def-item><def-item><term>KDPI</term><def><p>Kidney Donor Profile Index</p></def></def-item><def-item><term>LI</term><def><p>less intense</p></def></def-item><def-item><term>MI</term><def><p>more intense</p></def></def-item><def-item><term>PTLD</term><def><p>posttransplant lymphoproliferative disorder</p></def></def-item><def-item><term>q2w</term><def><p>every 2 weeks</p></def></def-item><def-item><term>q4w</term><def><p>every 4 weeks</p></def></def-item><def-item><term>UNOS</term><def><p>United Network for Organ Sharing</p></def></def-item></def-list><sec id="ajt13830-sec-0001"><title>Introduction</title><p>The disparity between the number of patients awaiting kidney transplantation and the number of available donor kidneys continues to increase <xref rid="ajt13830-bib-0001" ref-type="ref">1</xref>, <xref rid="ajt13830-bib-0002" ref-type="ref">2</xref>. To address this growing demand, expanded criteria donor (ECD) kidneys are increasingly being used <xref rid="ajt13830-bib-0002" ref-type="ref">2</xref>, <xref rid="ajt13830-bib-0003" ref-type="ref">3</xref>; however, compared with recipients of non&#x02010;ECD kidneys, those who receive ECD kidneys are at increased risk of graft failure and cardiovascular events and have worse renal function and decreased life expectancy <xref rid="ajt13830-bib-0003" ref-type="ref">3</xref>, <xref rid="ajt13830-bib-0004" ref-type="ref">4</xref>, <xref rid="ajt13830-bib-0005" ref-type="ref">5</xref>, <xref rid="ajt13830-bib-0006" ref-type="ref">6</xref>, <xref rid="ajt13830-bib-0007" ref-type="ref">7</xref>, <xref rid="ajt13830-bib-0008" ref-type="ref">8</xref>, <xref rid="ajt13830-bib-0009" ref-type="ref">9</xref>, <xref rid="ajt13830-bib-0010" ref-type="ref">10</xref>. Causes of graft lost include inherited donor lesions <xref rid="ajt13830-bib-0011" ref-type="ref">11</xref>, the adverse effects of immunosuppression and antibody&#x02010;mediated chronic rejection. The calcineurin inhibitors cyclosporine (CsA) and tacrolimus&#x02014;the existing standard of care for maintenance immunosuppression&#x02014;are potentially nephrotoxic, which may contribute to declining renal function, the development of chronic allograft nephropathy and graft loss <xref rid="ajt13830-bib-0012" ref-type="ref">12</xref>, <xref rid="ajt13830-bib-0013" ref-type="ref">13</xref>, <xref rid="ajt13830-bib-0014" ref-type="ref">14</xref>, <xref rid="ajt13830-bib-0015" ref-type="ref">15</xref>, <xref rid="ajt13830-bib-0016" ref-type="ref">16</xref>, <xref rid="ajt13830-bib-0017" ref-type="ref">17</xref>, <xref rid="ajt13830-bib-0018" ref-type="ref">18</xref>. Because ECD kidneys may be more susceptible to the nephrotoxic effects of calcineurin inhibitors, the use of CsA or tacrolimus is of greater concern in recipients of ECD versus non&#x02010;ECD kidneys <xref rid="ajt13830-bib-0019" ref-type="ref">19</xref>. The <italic>de novo</italic> development of donor&#x02010;specific antibodies (DSAs) and patient nonadherence to prescribed immunosuppressive regimens have also been recognized as major risk factors for graft loss <xref rid="ajt13830-bib-0020" ref-type="ref">20</xref>, <xref rid="ajt13830-bib-0021" ref-type="ref">21</xref>.</p><p>Belatacept is a soluble fusion protein composed of a modified version of the extracellular domain of cytotoxic T lymphocyte antigen 4 linked to the Fc domain of a human IgG1 antibody <xref rid="ajt13830-bib-0022" ref-type="ref">22</xref>. Belatacept selectively inhibits T cell activation through costimulation blockade <xref rid="ajt13830-bib-0023" ref-type="ref">23</xref>, <xref rid="ajt13830-bib-0024" ref-type="ref">24</xref>, <xref rid="ajt13830-bib-0025" ref-type="ref">25</xref>, <xref rid="ajt13830-bib-0026" ref-type="ref">26</xref>, <xref rid="ajt13830-bib-0027" ref-type="ref">27</xref>. In 2011, belatacept was approved in the United States and the European Union based in part on 3&#x02010;year data from two phase III trials: Belatacept Evaluation of Nephroprotection and Efficacy as First&#x02010;Line Immunosuppression Trial (BENEFIT) and BENEFIT&#x02013;Extended Criteria Donors (BENEFIT&#x02010;EXT). These randomized phase III studies compared two belatacept&#x02010;based immunosuppressive regimens (more intense [MI] and less intense [LI]) with CsA&#x02010;based immunosuppression in adult kidney transplant recipients. In BENEFIT&#x02010;EXT, analyses performed at 1, 3 and 5 years after transplant demonstrated that belatacept&#x02010;based immunosuppression was associated with similar rates of patient and graft survival and superior renal function versus CsA&#x02010;based immunosuppression; however, rates of acute rejection were numerically higher with belatacept&#x02010;based treatment <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>, <xref rid="ajt13830-bib-0029" ref-type="ref">29</xref>, <xref rid="ajt13830-bib-0030" ref-type="ref">30</xref>.</p><p>This report summarizes efficacy and safety outcomes from randomization to year 7 (month 84) in the intent&#x02010;to&#x02010;treat population of BENEFIT&#x02010;EXT.</p></sec><sec id="ajt13830-sec-0002"><title>Methods</title><sec id="ajt13830-sec-0003"><title>Study design</title><p>The study design of BENEFIT&#x02010;EXT (ClinicalTrials.gov identifier NCT00114777) has been described <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>. Briefly, this was a 3&#x02010;year, international, multicenter, randomized, partially blinded, active&#x02010;controlled, parallel&#x02010;group study of adults transplanted with an extended criteria donor kidney. Extended criteria donor kidneys were protocol defined as those from donors aged &#x02265;60 years, from donors aged 50&#x02013;59 years with at least two other risk factors (death due to cerebrovascular accident, history of hypertension, or terminal serum creatinine level &#x0003e;1.5 mg/dL), from donors with an anticipated cold ischemia time &#x02265;24 h, or from non&#x02013;heart&#x02010;beating donors (i.e. donation after cardiac death). Patients were randomized (1:1:1) to receive primary immunosuppression with a belatacept MI&#x02013;based, belatacept LI&#x02013;based or CsA&#x02010;based regimen. All patients received basiliximab induction, mycophenolate mofetil and corticosteroids.</p><p>BENEFIT&#x02010;EXT was conducted in accordance with the principles outlined in the Declaration of Helsinki. The institutional review board or ethics committee at each site approved the protocol, and all participants provided written informed consent.</p></sec><sec id="ajt13830-sec-0004"><title>Outcomes</title><p>Efficacy and safety outcomes from randomization to month 84 (year 7), including time to death and/or graft loss, acute rejection, renal function, safety and <italic>de novo</italic> DSA incidence, are summarized. As in prior analyses <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>, <xref rid="ajt13830-bib-0029" ref-type="ref">29</xref>, <xref rid="ajt13830-bib-0030" ref-type="ref">30</xref>, acute rejection was defined as central biopsy&#x02013;proven rejection that was either clinically suspected for protocol&#x02010;defined reasons or clinically suspected for other reasons and treated. A combined end point comprising time to first occurrence of death, graft loss or estimated GFR (eGFR) &#x0003c;20 mL/min per 1.73 m<sup>2</sup> was examined <italic>post hoc</italic>. GFR was estimated using the six&#x02010;variable MDRD equation <xref rid="ajt13830-bib-0031" ref-type="ref">31</xref>. Adverse events (AEs) were mapped to terms from the Medical Dictionary for Regulatory Activities version 17.0 (MedDRA MSSO, McLean, VA) and expressed as incidence rates adjusted per 100 person&#x02010;years of exposure to assigned treatment. Serious AEs are defined in the supplementary material. <italic>De novo</italic> DSA development was assessed centrally by solid&#x02010;phase flow cytometry (FLowPRA; One Lambda, Inc., Canoga Park, CA), with HLA class specificity (class I or II) determined by LABScreen single antigen beads (One Lambda, Inc.).</p></sec><sec id="ajt13830-sec-0005"><title>Statistical methods</title><p>For this prospective analysis, time to death or graft loss was compared between each belatacept&#x02010;based regimen and the CsA&#x02010;based regimen using a log&#x02010;rank test. Data are presented using Kaplan&#x02013;Meier curves and event rates. Cox regression was used to calculate hazard ratios (HRs) and 95% confidence intervals (CIs) for the first 60 and 84 mo. Time to death and time to death&#x02010;censored graft loss were assessed as sensitivity analyses to understand the contribution of each individual component to the composite end point of time to death or graft loss; the same statistical methods were used as for the composite analysis, and no adjustment for multiplicity was made. See the supplementary material for censoring rules.</p><p>Mean eGFR and corresponding CIs were determined from months 1&#x02013;84 using a repeated&#x02010;measures model with an unstructured covariance matrix. This model takes into account between&#x02010;subject variability and the intrasubject correlation between eGFR measurements across all time points and assumes that missing data are missing at random. The model included treatment, time and a time&#x02013;treatment interaction; no further adjustment was made for other potentially confounding covariates. Time was regarded as a categorical variable (intervals of 3 mo up to month 36 and intervals of 6 mo thereafter). A sensitivity analysis was performed in which GFR values that were missing due to death or graft loss were imputed as zero. For this sensitivity analysis, the same model was used as for the primary analysis, but a Toeplitz covariance matrix best fit the data because the unstructured covariance matrix was not converging.</p><p>A slope&#x02010;based model without imputation was also used to determine whether there was a difference between each of the belatacept slopes and the CsA slope, assuming linearity of the eGFR values between months 1 and 84. The difference between slopes was tested using contrasts. Time was regarded as a continuous variable, treatment as a fixed effect, and intercept and time as random effects; no further adjustment was made for other potentially confounding covariates. A sensitivity analysis was performed in which GFR values that were missing due to death or graft loss were imputed as zero; the same model was used as for the slope analysis without imputation.</p><p>The statistical approaches used in this 7&#x02010;year analysis differ from those used at 1, 3, and 5 years after transplant <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>, <xref rid="ajt13830-bib-0029" ref-type="ref">29</xref>, <xref rid="ajt13830-bib-0030" ref-type="ref">30</xref>. First, in the present report, all evaluable patients were analyzed per the intent&#x02010;to&#x02010;treat principle; evaluable patients were alive and observable at 84 mo after randomization or died or experienced graft loss by month 84. Similarly, the intent&#x02010;to&#x02010;treat population was analyzed at 1 and 3 years after transplant <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>, <xref rid="ajt13830-bib-0029" ref-type="ref">29</xref>, whereas a subgroup of patients corresponding to the long&#x02010;term extension cohort was analyzed at 5 years after transplant <xref rid="ajt13830-bib-0030" ref-type="ref">30</xref>. The long&#x02010;term extension cohort represented a subset of the intent&#x02010;to&#x02010;treat population because it was composed of only those patients who completed 36 mo of study treatment and consented to continue the study beyond month 36 <xref rid="ajt13830-bib-0030" ref-type="ref">30</xref>. Second, rates of death and/or graft loss were presented as point estimates at 1 and 3 years after transplant <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>, <xref rid="ajt13830-bib-0029" ref-type="ref">29</xref>, but in the present analysis, the Kaplan&#x02013;Meier method was used to derive estimated rates of death and/or graft loss. Third, renal function was assessed at 1, 3, and 5 years after transplant using analysis of variance, linear mixed modeling and analysis of covariance, respectively <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>, <xref rid="ajt13830-bib-0029" ref-type="ref">29</xref>, <xref rid="ajt13830-bib-0030" ref-type="ref">30</xref>. At 7 years after transplant, renal function was examined using a repeated&#x02010;measures model. The statistical approaches used evolved to reflect convention at the time of analysis. Compared with earlier time points, the methods used in the present report are more statistically robust.</p></sec></sec><sec id="ajt13830-sec-0006"><title>Results</title><sec id="ajt13830-sec-0007"><title>Patient disposition</title><p>In total, 543 patients composed the intent&#x02010;to&#x02010;treat population; of these, 128 of 184 belatacept MI&#x02013;treated, 138 of 175 belatacept LI&#x02013;treated and 108 of 184 CsA&#x02010;treated patients had data available for the analysis at month 84 (Figure <xref rid="ajt13830-fig-0001" ref-type="fig">1</xref>). At month 84, 68.9% of all randomized and transplanted patients were assessed for death or graft loss (Figure <xref rid="ajt13830-fig-0002" ref-type="fig">2</xref>). Notably, only a small number of patients declined to participate in the long&#x02010;term extension (belatacept MI, n = 3; belatacept LI, n = 0; CsA, n = 8). The median duration of follow&#x02010;up for patients randomized to belatacept MI, belatacept LI and CsA was 84.0 mo (range 0.03&#x02013;84.0 mo), 84.0 mo (range 0.03&#x02013;84.0 mo) and 70.8 mo (range 0.03&#x02013;84.0 mo), respectively (Table S1).</p><fig fig-type="Figure" xml:lang="en" id="ajt13830-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>
+<bold>Patient disposition.</bold> Evaluable patients were defined as those who were followed for &#x0003e;84 mo or who had died or experienced graft loss by month 84. LI, less intense; MI, more intense. q2w, every 2 weeks; q4w, every 4 weeks.</p></caption><graphic id="nlm-graphic-1" xlink:href="AJT-16-3192-g001"/></fig><fig fig-type="Figure" xml:lang="en" id="ajt13830-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<bold>Proportion of patients assessed for death or graft loss.</bold> Data values are number (percentage). LI, less intense; MI, more intense.</p></caption><graphic id="nlm-graphic-3" xlink:href="AJT-16-3192-g002"/></fig></sec><sec id="ajt13830-sec-0008"><title>Patient and graft survival</title><p>Kaplan&#x02013;Meier estimated rates of death or graft loss for belatacept MI, belatacept LI and CsA were 19.0%, 17.1%, and 20.2%, respectively, at month 36; 26.5%, 25.6%, and 31.2%, respectively, at month 60; and 33.4%, 34.7%, and 35.5%, respectively, at month 84 (Table S2). At month 60, the HR for the comparison of belatacept MI with CsA was 0.874 (95% CI 0.583&#x02013;1.310; p = 0.51), and the HR for the comparison of belatacept LI with CsA was 0.822 (95% CI 0.544&#x02013;1.242; p = 0.35). At month 84, the HR for the comparison of belatacept MI with CsA was 0.915 (95% CI 0.625&#x02013;1.339; p = 0.65), and the HR for the comparison of belatacept LI with CsA was 0.927 (95% CI 0.634&#x02013;1.356; p = 0.70) (Figure <xref rid="ajt13830-fig-0003" ref-type="fig">3</xref>A).</p><fig fig-type="Figure" xml:lang="en" id="ajt13830-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>
+<bold>Kaplan&#x02013;Meier curve for (A) the composite end point of time to death or graft loss; (B) the individual contribution of death; (C) the individual contribution of death&#x02010;censored graft loss; and (D) the combined end point of first occurrence of death, graft loss or eGFR &#x0003c;20 mL/min per 1.73 m</bold>
+<sup><bold>2</bold></sup>
+<bold>.</bold> eGFR, estimated GFR; LI, less intense; MI, more intense.</p></caption><graphic id="nlm-graphic-5" xlink:href="AJT-16-3192-g003"/></fig><p>Kaplan&#x02013;Meier estimated rates of death for belatacept MI, belatacept LI and CsA were 11.4%, 8.7%, and 9.5%, respectively, at month 36; 17.2%, 16.5%, and 18.5%, respectively, at month 60; and 24.9%, 26.7%, and 22.4%, respectively, at month 84 (Table S3). At month 60, the HR for the comparison of belatacept MI with CsA was 1.014 (95% CI 0.594&#x02013;1.729; p = 0.95), and the HR for the comparison of belatacept LI with CsA was 0.907 (95% CI 0.523&#x02013;1.571; p = 0.73). At month 84, the HR for the comparison of belatacept MI with CsA was 1.108 (95% CI 0.679&#x02013;1.808; p = 0.69), and the HR for the comparison of belatacept LI with CsA was 1.119 (95% CI 0.688&#x02013;1.822; p = 0.66) (Figure <xref rid="ajt13830-fig-0003" ref-type="fig">3</xref>B). Causes of death are summarized in Table S4.</p><p>Kaplan&#x02013;Meier estimated rates of death&#x02010;censored graft loss for belatacept MI, belatacept LI and CsA were 9.9%, 11.5%, and 12.8%, respectively, at month 36; 12.4%, 13.6%, and 18.0%, respectively, at month 60; and 12.4%, 13.6%, and 19.3%, respectively, at month 84 (Table S5). At month 60, the HR for the comparison of belatacept MI with CsA was 0.728 (95% CI 0.413&#x02013;1.282; p = 0.27); the corresponding value for the comparison of belatacept LI with CsA was 0.815 (95% CI 0.469&#x02013;1.415; p = 0.45). At month 84, the HR for the comparison of belatacept MI with CsA was 0.700 (95% CI 0.399&#x02013;1.228; p = 0.21); the corresponding value for the comparison of belatacept LI with CsA was 0.783 (95% CI 0.452&#x02013;1.353; p = 0.36) (Figure <xref rid="ajt13830-fig-0003" ref-type="fig">3</xref>C). Causes of graft loss are summarized in Table S6.</p><p>Kaplan&#x02013;Meier estimated rates for the combined end point (first occurrence of death, graft loss or eGFR &#x0003c;20 mL/min per 1.73 m<sup>2</sup>) for belatacept MI, belatacept LI and CsA were 23.9%, 18.3%, and 30.0%, respectively, at month 36; 29.8%, 27.1%, and 40.2%, respectively, at month 60; and 37.4%, 36.8%, and 45.1%, respectively, at month 84. HRs comparing freedom from death, graft loss or eGFR &#x0003c;20 mL/min per 1.73 m<sup>2</sup> from randomization to month 84 were 0.754 (95% CI 0.536&#x02013;1.061; p = 0.10) for belatacept MI versus CsA and 0.706 (95% CI 0.499&#x02013;0.998; p = 0.05) for belatacept LI versus CsA (Figure <xref rid="ajt13830-fig-0003" ref-type="fig">3</xref>D).</p></sec><sec id="ajt13830-sec-0009"><title>Renal function</title><p>From randomization to year 7, mean eGFR increased for both belatacept regimens but declined for CsA (Figure <xref rid="ajt13830-fig-0004" ref-type="fig">4</xref>). Mean eGFR plus or minus standard error for belatacept MI at months 12, 36, 60, and 84 was 48.3 &#x000b1; 1.3, 52.5 &#x000b1; 1.4, 52.2 &#x000b1; 1.7, and 53.9 &#x000b1; 1.9 mL/min per 1.73 m<sup>2</sup>, respectively. The corresponding values for belatacept LI were 47.8 &#x000b1; 1.3, 50.1 &#x000b1; 1.4, 52.7 &#x000b1; 1.6, and 54.2 &#x000b1; 1.9 mL/min per 1.73 m<sup>2</sup>, whereas those for CsA were 40.3 &#x000b1; 1.3, 38.0 &#x000b1; 1.4, 35.8 &#x000b1; 1.7, and 35.3 &#x000b1; 2.0 mL/min per 1.73 m<sup>2</sup>. The estimated differences in GFR significantly favored each belatacept&#x02010;based regimen versus the CsA&#x02010;based regimen (p &#x0003c; 0.001 for overall treatment effect). Per the slope&#x02010;based model (and relative to month 1), patients randomized to belatacept MI or LI experienced a mean eGFR gain of 1.45 mL/min per 1.73 m<sup>2</sup> (95% CI 0.94&#x02013;1.96) and 1.51 mL/min per 1.73 m<sup>2</sup> (95% CI 1.02&#x02013;2.01) per year, respectively. Over the period from months 1 to 84, patients randomized to CsA had a mean decline in eGFR equivalent to &#x02212;0.01 mL/min per 1.73 m<sup>2</sup> (95% CI &#x02212;0.55 to 0.52) per year. The GFR slopes diverged significantly between belatacept and CsA over time. The interaction of the treatment versus time effect deriving from the mixed&#x02010;effects model significantly favored each belatacept regimen versus CsA (each p &#x0003c; 0.001).</p><fig fig-type="Figure" xml:lang="en" id="ajt13830-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>
+<bold>Estimated mean GFR from months 1 to 84, as estimated via mixed&#x02010;effects modeling (without imputation).</bold> In this model, time was regarded as a categorical variable.</p></caption><graphic id="nlm-graphic-7" xlink:href="AJT-16-3192-g004"/></fig><p>For the sensitivity analysis in which GFR values that were missing due to patient death or graft loss were imputed as zero, mean eGFR plus or minus standard error for belatacept MI at months 12, 36, 60, and 84 was 43.9 &#x000b1; 1.8, 42.5 &#x000b1; 1.8, 39.0 &#x000b1; 1.9, and 35.5 &#x000b1; 2.0 mL/min per 1.73 m<sup>2</sup>, respectively. The corresponding values for belatacept LI were 44.1 &#x000b1; 1.8, 42.5 &#x000b1; 1.9, 39.6 &#x000b1; 1.9, and 36.3 &#x000b1; 1.9 mL/min per 1.73 m<sup>2</sup>. The corresponding values for CsA were 36.1 &#x000b1; 1.8, 32.1 &#x000b1; 1.9, 27.4 &#x000b1; 2.0, and 25.5 &#x000b1; 2.1 mL/min per 1.73 m<sup>2</sup>. With imputation, the effect of belatacept versus CsA at each time point remained statistically significant (p &#x0003c; 0.001 for overall treatment effect). Results from the slope&#x02010;based model with imputation showed that there was a mean decline in eGFR for all treatment regimens. The slope value was &#x02212;0.77 mL/min per 1.73 m<sup>2</sup> (95% CI &#x02212;1.42 to &#x02212;0.13) per year for belatacept MI and &#x02212;0.80 mL/min per 1.73 m<sup>2</sup> (95% CI &#x02212;1.44 to &#x02212;0.16) per year for belatacept LI. The corresponding value for the CsA&#x02010;based regimen was &#x02212;1.17 mL/min per 1.73 m<sup>2</sup> (95% CI &#x02212;1.83 to &#x02212;0.51). Compared with CsA, the slope estimates in the imputed analysis did not differ significantly for belatacept MI (p = 0.40) or LI (p = 0.43).</p></sec><sec id="ajt13830-sec-0010"><title>Acute rejection</title><p>The Kaplan&#x02013;Meier cumulative event rates of acute rejection for belatacept MI, belatacept LI and CsA were 19.3%, 18.6%, and 17.3%, respectively, at month 36; 21.1%, 19.5%, and 17.3%, respectively, at month 60; and 21.1%, 19.5%, and 17.3%, respectively, at month 84. At month 84, the HR for the comparison of belatacept MI with CsA was 1.22 (95% CI 0.75&#x02013;2.00; p = 0.43); the corresponding value for the comparison of belatacept LI with CsA was 1.15 (95% CI 0.70&#x02013;1.90; p = 0.59). Potential cases of suspected antibody&#x02010;mediated acute rejection were identified <italic>post hoc</italic> and are described in Table S7.</p></sec><sec id="ajt13830-sec-0011"><title>Donor&#x02010;specific antibodies</title><p>The cumulative event rates of <italic>de novo</italic> DSAs at months 36, 60 and 84 for belatacept MI were 2.3%, 6.2% and 6.2%, respectively; the corresponding values for belatacept LI were 1.5%, 2.4%, and 4.5%, respectively, and the corresponding values for CsA were 11.3%, 17.1%, and 22.9%, respectively. At month 84, the HR for the comparison of belatacept MI with CsA was 0.26 (95% CI 0.11&#x02013;0.59; p = 0.0001), and the HR for the comparison of belatacept LI with CsA was 0.18 (95% CI 0.07&#x02013;0.46; p &#x0003c; 0.0001). Class I HLA specificity was detected in five belatacept MI&#x02013;treated, three belatacept LI&#x02013;treated, and 15 CsA&#x02010;treated patients. Class II HLA specificity was seen in two belatacept MI&#x02013;treated and three CsA&#x02010;treated patients. In the CsA treatment arm, an additional four patients had DSAs with both class I and II HLA specificity.</p></sec><sec id="ajt13830-sec-0012"><title>Safety</title><p>Serious AEs occurred in 87.0% of belatacept MI&#x02013;treated, 89.1% of belatacept LI&#x02013;treated and 84.2% of CsA&#x02010;treated patients. Infections were the most common serious AE. Incidence rates of serious infections per 100 person&#x02010;years of study drug exposure were similar across the treatment arms (Table <xref rid="ajt13830-tbl-0001" ref-type="table-wrap">1</xref>). The incidence rates of any&#x02010;grade viral infections per 100 person&#x02010;years of treatment exposure were 20.98, 17.45 and 19.05 for belatacept MI, belatacept LI and CsA, respectively. The corresponding values for the incidence rates of any&#x02010;grade fungal infections per 100 person&#x02010;years of treatment exposure were 9.79, 6.93 and 11.00. The incidence rates of any&#x02010;grade malignancies per 100 person&#x02010;years of treatment exposure were similar across the treatment arms (Table <xref rid="ajt13830-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="ajt13830-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Cumulative incidence rates of selected serious adverse events adjusted per 100 person&#x02010;years of treatment exposure</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">Belatacept MI (n = 184)</th><th align="center" valign="top" rowspan="1" colspan="1">Belatacept LI (n = 175)</th><th align="center" valign="top" rowspan="1" colspan="1">CsA (n = 184)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Serious infections<xref ref-type="fn" rid="ajt13830-note-0002">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="ajt13830-note-0003">b</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">22.67</td><td align="char" char="." rowspan="1" colspan="1">16.52</td><td align="char" char="." rowspan="1" colspan="1">20.32</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Urinary tract infection</td><td align="char" char="." rowspan="1" colspan="1">3.02</td><td align="char" char="." rowspan="1" colspan="1">3.62</td><td align="char" char="." rowspan="1" colspan="1">3.54</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cytomegalovirus infection</td><td align="char" char="." rowspan="1" colspan="1">2.20</td><td align="char" char="." rowspan="1" colspan="1">1.94</td><td align="char" char="." rowspan="1" colspan="1">1.71</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pneumonia</td><td align="char" char="." rowspan="1" colspan="1">1.76</td><td align="char" char="." rowspan="1" colspan="1">1.50</td><td align="char" char="." rowspan="1" colspan="1">1.41</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pyelonephritis</td><td align="char" char="." rowspan="1" colspan="1">1.44</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">1.83</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Gastroenteritis</td><td align="char" char="." rowspan="1" colspan="1">0.93</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">1.02</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Herpes zoster</td><td align="char" char="." rowspan="1" colspan="1">0.93</td><td align="char" char="." rowspan="1" colspan="1">0.34</td><td align="char" char="." rowspan="1" colspan="1">0.38</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Sepsis</td><td align="char" char="." rowspan="1" colspan="1">0.80</td><td align="char" char="." rowspan="1" colspan="1">1.14</td><td align="char" char="." rowspan="1" colspan="1">1.93</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Urosepsis</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">0.80</td><td align="char" char="." rowspan="1" colspan="1">0.76</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Cellulitis</td><td align="char" char="." rowspan="1" colspan="1">0.57</td><td align="char" char="." rowspan="1" colspan="1">0.45</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Gangrene</td><td align="char" char="." rowspan="1" colspan="1">0.46</td><td align="char" char="." rowspan="1" colspan="1">0.22</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Pyelonephritis acute</td><td align="char" char="." rowspan="1" colspan="1">0.46</td><td align="char" char="." rowspan="1" colspan="1">0.11</td><td align="char" char="." rowspan="1" colspan="1">0.91</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Osteomyelitis</td><td align="char" char="." rowspan="1" colspan="1">0.46</td><td align="char" char="." rowspan="1" colspan="1">0.11</td><td align="char" char="." rowspan="1" colspan="1">0.12</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bacteremia</td><td align="char" char="." rowspan="1" colspan="1">0.34</td><td align="char" char="." rowspan="1" colspan="1">0.11</td><td align="char" char="." rowspan="1" colspan="1">0.63</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Septic shock</td><td align="char" char="." rowspan="1" colspan="1">0.23</td><td align="char" char="." rowspan="1" colspan="1">0.22</td><td align="char" char="." rowspan="1" colspan="1">0.75</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Escherichia urinary tract infection</td><td align="char" char="." rowspan="1" colspan="1">0.23</td><td align="char" char="." rowspan="1" colspan="1">0.11</td><td align="char" char="." rowspan="1" colspan="1">0.64</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bronchopneumonia</td><td align="char" char="." rowspan="1" colspan="1">0.11</td><td align="char" char="." rowspan="1" colspan="1">0.45</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious gastrointestinal disorders<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">6.3</td><td align="char" char="." rowspan="1" colspan="1">6.2</td><td align="char" char="." rowspan="1" colspan="1">6.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious cardiac disorders<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">5.2</td><td align="char" char="." rowspan="1" colspan="1">4.1</td><td align="char" char="." rowspan="1" colspan="1">5.2</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious general disorders and administration site conditions<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">3.9</td><td align="char" char="." rowspan="1" colspan="1">3.1</td><td align="char" char="." rowspan="1" colspan="1">4.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious blood and lymphatic system disorders<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">3.5</td><td align="char" char="." rowspan="1" colspan="1">2.4</td><td align="char" char="." rowspan="1" colspan="1">2.5</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious vascular disorders<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">3.1</td><td align="char" char="." rowspan="1" colspan="1">5.1</td><td align="char" char="." rowspan="1" colspan="1">5.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious investigations (laboratory parameters)<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">2.0</td><td align="char" char="." rowspan="1" colspan="1">2.2</td><td align="char" char="." rowspan="1" colspan="1">4.4</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious hepatobiliary disorders<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.5</td><td align="char" char="." rowspan="1" colspan="1">0.7</td><td align="char" char="." rowspan="1" colspan="1">0.8</td></tr><tr><td align="left" rowspan="1" colspan="1">Serious endocrine disorders<xref ref-type="fn" rid="ajt13830-note-0004">c</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">0.1</td><td align="char" char="." rowspan="1" colspan="1">0.1</td><td align="char" char="." rowspan="1" colspan="1">0.3</td></tr></tbody></table><table-wrap-foot><fn id="ajt13830-note-0001"><p>CsA, cyclosporine; LI, less intense; MI, more intense.</p></fn><fn id="ajt13830-note-0002"><label>a</label><p>The duration (patient&#x02010;years) of patient exposure to assigned study drug was calculated from the randomization date to the event date, to the date of last follow&#x02010;up or to month 84, whichever was earliest.</p></fn><fn id="ajt13830-note-0003"><label>b</label><p>Only preferred terms occurring in &#x02265;2% of patients in any treatment arm are reported.</p></fn><fn id="ajt13830-note-0004"><label>c</label><p>The duration (patient&#x02010;years) of patient exposure to assigned study drug was calculated from the randomization date to the event date, to the date of last dose of study medication plus 56 days or to month 84, whichever was earliest.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="ajt13830-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Cumulative incidence rates of any&#x02010;grade malignancy adjusted per 100 person&#x02010;years of treatment exposure</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="center" valign="top" rowspan="1" colspan="1">Belatacept MI (n = 184)</th><th align="center" valign="top" rowspan="1" colspan="1">Belatacept LI (n = 175)</th><th align="center" valign="top" rowspan="1" colspan="1">CsA (n = 184)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Any malignancy<xref ref-type="fn" rid="ajt13830-note-0006">a</xref>
+<sup>,</sup>
+<xref ref-type="fn" rid="ajt13830-note-0007">b</xref>
+</td><td align="char" char="." rowspan="1" colspan="1">3.80</td><td align="char" char="." rowspan="1" colspan="1">3.23</td><td align="char" char="." rowspan="1" colspan="1">3.64</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Basal cell carcinoma</td><td align="char" char="." rowspan="1" colspan="1">1.05</td><td align="char" char="." rowspan="1" colspan="1">0.69</td><td align="char" char="." rowspan="1" colspan="1">1.55</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Squamous cell carcinoma of the skin</td><td align="char" char="." rowspan="1" colspan="1">0.93</td><td align="char" char="." rowspan="1" colspan="1">0.68</td><td align="char" char="." rowspan="1" colspan="1">0.51</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Bowen's disease</td><td align="char" char="." rowspan="1" colspan="1">0.46</td><td align="char" char="." rowspan="1" colspan="1">0</td><td align="char" char="." rowspan="1" colspan="1">0.25</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Prostate cancer</td><td align="char" char="." rowspan="1" colspan="1">0.23</td><td align="char" char="." rowspan="1" colspan="1">0.46</td><td align="char" char="." rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="ajt13830-note-0005"><p>CsA, cyclosporine; LI, less intense; MI, more intense.</p></fn><fn id="ajt13830-note-0006"><label>a</label><p>The duration (patient&#x02010;years) of patient exposure to assigned study drug was calculated from the randomization date to the event date, to the date of last follow&#x02010;up or to month 84, whichever was earliest.</p></fn><fn id="ajt13830-note-0007"><label>b</label><p>Only preferred terms occurring in two or more patients in any treatment arm are reported.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>Nine patients experienced posttransplant lymphoproliferative disorder (PTLD) prior to month 84 (n = 4, Epstein&#x02013;Barr virus [EBV] positive; n = 5, EBV negative) (Table <xref rid="ajt13830-tbl-0003" ref-type="table-wrap">3</xref>). Incidence rates per 100 person&#x02010;years of exposure in EBV&#x02010;positive patients treated with belatacept MI, belatacept LI and CsA were 0.12, 0.25 and 0.14, respectively. The corresponding values in EBV&#x02010;negative patients were 1.71, 5.19 and 0.00, respectively. Of those patients who had PTLD, five had primary central nervous system PTLD (n = 2, belatacept MI; n = 3, belatacept LI) and seven died (n = 3, belatacept MI; n = 4, belatacept LI). Two additional cases of PTLD were reported after month 84 but prior to database lock (n = 1, EBV&#x02010;positive patient randomized to belatacept MI; n = 1, EBV&#x02010;negative patient randomized to belatacept LI); the EBV&#x02010;negative patient randomized to belatacept LI who developed PTLD after month 84 also died.</p><table-wrap id="ajt13830-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Cumulative incidence rates of PTLD adjusted per 100 person&#x02010;years of treatment exposure</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1">Time period, mo</th><th align="left" colspan="3" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Patients, n (incidence rate)</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Belatacept MI (n = 184)</th><th align="left" valign="top" rowspan="1" colspan="1">Belatacept LI (n = 175)</th><th align="left" valign="top" rowspan="1" colspan="1">CsA (n = 184)</th></tr></thead><tbody><tr><td align="left" colspan="4" rowspan="1">EBV positive</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0&#x02013;12</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">12&#x02013;24</td><td align="left" rowspan="1" colspan="1">1 (0.63)</td><td align="left" rowspan="1" colspan="1">1 (0.68)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">24&#x02013;36</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">36&#x02013;48</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (0.93)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">48&#x02013;60</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">1 (1.37)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">60&#x02013;84</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Overall</td><td align="left" rowspan="1" colspan="1">1 (0.12)<xref ref-type="fn" rid="ajt13830-note-0009">a</xref>
+</td><td align="left" rowspan="1" colspan="1">2 (0.25)</td><td align="left" rowspan="1" colspan="1">1 (0.14)</td></tr><tr><td align="left" colspan="4" rowspan="1">EBV negative</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">0&#x02013;12</td><td align="left" rowspan="1" colspan="1">1 (7.89)</td><td align="left" rowspan="1" colspan="1">2 (11.88)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">12&#x02013;48</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">48&#x02013;60</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">2 (25.28)</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">60&#x02013;84</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td><td align="left" rowspan="1" colspan="1">0</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Overall</td><td align="left" rowspan="1" colspan="1">1 (1.71)</td><td align="left" rowspan="1" colspan="1">4 (5.19)<xref ref-type="fn" rid="ajt13830-note-0010">b</xref>
+</td><td align="left" rowspan="1" colspan="1">0</td></tr></tbody></table><table-wrap-foot><fn id="ajt13830-note-0008"><p>CsA, cyclosporine; EBV, Epstein&#x02013;Barr virus; LI, less intense; MI, more intense; PTLD, posttransplant lymphoproliferative disorder.</p></fn><fn id="ajt13830-note-0009"><label>a</label><p>One additional patient randomized to belatacept MI developed PTLD beyond month 84.</p></fn><fn id="ajt13830-note-0010"><label>b</label><p>One additional patient randomized to belatacept LI developed PTLD beyond month 84.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec></sec><sec id="ajt13830-sec-0013"><title>Discussion</title><p>In this analysis of the final 7&#x02010;year results from BENEFIT&#x02010;EXT, recipients of extended criteria donor kidneys randomized to belatacept had graft survival rates that were similar to those seen in patients randomized to CsA; however, fewer belatacept LI&#x02013;treated than CsA&#x02010;treated patients met the combined end point of first occurrence of death, graft loss or eGFR &#x0003c;20 mL/min per 1.73 m<sup>2</sup>, which corresponded to a 29% reduction in risk (p = 0.05). An eGFR threshold of &#x02264;20 mL/min per 1.73 m<sup>2</sup> is clinically meaningful, given that patients with GFR values in this range are approaching end&#x02010;stage renal disease and the need for retransplantation.</p><p>The improvement in GFR previously reported for belatacept versus CsA through 5 years of follow&#x02010;up was sustained and remained statistically significant at 7 years. The differences in eGFR between each belatacept&#x02010;based regimen and the CsA&#x02010;based regimen continued to increase over time. Trends from the slope&#x02010;based analysis with imputation are consistent with those from the slope&#x02010;based analysis without imputation; however, in the analysis with imputation, the difference between each belatacept&#x02010;based and the CsA&#x02010;based regimen did not remain statistically significant. A possible explanation is that there was clear differentiation of GFR slope estimates between regimens in the analysis without imputation, but by introducing zero values for GFR results that were missing due to death or graft loss, the slope estimates moved closer to each another; therefore, the difference between regimens became less pronounced, and statistical significance was lost. Notably, in a meta&#x02010;analysis of six clinical trials comparing belatacept with either CsA or tacrolimus, belatacept was associated with significantly greater eGFR at 12, 24 and 36 mo after transplant <xref rid="ajt13830-bib-0032" ref-type="ref">32</xref>. This result is important from a clinical perspective because recipients of ECD kidneys tend to have statistically significantly lower GFR values than those who receive standard criteria donor kidneys <xref rid="ajt13830-bib-0033" ref-type="ref">33</xref>, <xref rid="ajt13830-bib-0034" ref-type="ref">34</xref>, <xref rid="ajt13830-bib-0035" ref-type="ref">35</xref>, <xref rid="ajt13830-bib-0036" ref-type="ref">36</xref>. A non&#x02010;nephrotoxic immunosuppressive regimen may help to maintain ECD renal function, delaying the time that recipients of such kidneys progress to chronic kidney disease, must return to maintenance dialysis and/or undergo retransplantation.</p><p>As in earlier analyses of the intent&#x02010;to&#x02010;treat population of BENEFIT&#x02010;EXT <xref rid="ajt13830-bib-0028" ref-type="ref">28</xref>, <xref rid="ajt13830-bib-0029" ref-type="ref">29</xref>, rates of biopsy&#x02010;proven acute rejection were statistically similar across treatment arms. Most cases of acute rejection occurred prior to month 36; thereafter, one case of acute rejection was reported in each of the belatacept treatment arms. No patient randomized to CsA experienced acute rejection after month 36.</p><p>Antibody&#x02010;mediated rejection has been identified as a major cause of late (&#x0003e;1 year after transplant) graft loss <xref rid="ajt13830-bib-0021" ref-type="ref">21</xref>, <xref rid="ajt13830-bib-0037" ref-type="ref">37</xref>, and the <italic>de novo</italic> development of DSAs is associated with significantly shorter graft survival <xref rid="ajt13830-bib-0038" ref-type="ref">38</xref>, <xref rid="ajt13830-bib-0039" ref-type="ref">39</xref>, <xref rid="ajt13830-bib-0040" ref-type="ref">40</xref>, <xref rid="ajt13830-bib-0041" ref-type="ref">41</xref>. In BENEFIT&#x02010;EXT, the cumulative incidence of <italic>de novo</italic> DSAs was statistically significantly lower in each belatacept&#x02010;based treatment arm versus the CsA&#x02010;based comparator regimen. This finding is consistent with data showing that the reduced strength of the CD28 signal, which is inhibited by belatacept, leads to a reduction in B cell responses <xref rid="ajt13830-bib-0042" ref-type="ref">42</xref>; however, the significantly greater incidence of <italic>de novo</italic> DSA development among CsA&#x02010;treated patients also may have been the result of poorer treatment compliance. In BENEFIT&#x02010;EXT, information on study medication adherence was collected up to month 36 (Table S1).</p><p>The incidence of serious AEs, serious infections, any&#x02010;grade viral or fungal infections, and any&#x02010;grade malignancies was similar across all treatment arms, suggesting that the safety profile of belatacept over the long term is similar to that of CsA. Nevertheless, the risk of PTLD was greater among belatacept&#x02010; versus CsA&#x02010;treated patients, particularly those who were EBV negative prior to transplant. It is for this reason that belatacept is contraindicated in patients who are EBV negative or whose EBV serostatus is unknown prior to transplant <xref rid="ajt13830-bib-0043" ref-type="ref">43</xref>, <xref rid="ajt13830-bib-0044" ref-type="ref">44</xref>.</p><p>In the present study, no difference in patient or graft survival was seen between belatacept&#x02010; and CsA&#x02010;based immunosuppression. Analysis of the individual components of the composite end point showed an 11&#x02013;12% increase in the risk of death and a 20&#x02013;30% reduction in the risk of death&#x02010;censored graft loss for belatacept versus CsA at 7 years after transplant; neither sensitivity analysis was statistically significant. The lack of statistical significance for the composite end point in BENEFIT&#x02010;EXT contrasts with the survival advantage observed for belatacept versus CsA at 5 and 7 years after transplant in BENEFIT, which examined patients transplanted with a living or standard criteria donor kidney <xref rid="ajt13830-bib-0045" ref-type="ref">45</xref>. In addition to kidney donor type, the discrepant findings between these two phase III trials can at least partially be attributed to the complementary rather than identical nature of the study populations: Kidney transplant recipients participating in BENEFIT were younger overall and had fewer comorbidities and thus were less likely to die with a functioning graft than were BENEFIT&#x02010;EXT participants.</p><p>BENEFIT&#x02010;EXT is the largest and, with 7 years of follow&#x02010;up, the longest randomized prospective clinical trial evaluating a non&#x02013;calcineurin inhibitor&#x02013;based immunosuppressive regimen in recipients of extended criteria donor renal allografts. A limitation of this 7&#x02010;year analysis is that not all randomized and transplanted patients were evaluable for the entire follow&#x02010;up period. Nonetheless, &#x02248;70% of patients in each treatment arm completed treatment at month 12 (28), a 1&#x02010;year completion rate comparable to <xref rid="ajt13830-bib-0046" ref-type="ref">46</xref> or higher than <xref rid="ajt13830-bib-0047" ref-type="ref">47</xref> those reported in other randomized prospective registration trials. Moreover, almost 70% of the intent&#x02010;to&#x02010;treat population was evaluable for prospectively defined outcomes at month 84.</p><p>Another limitation is that donor kidneys in BENEFIT&#x02010;EXT were protocol defined by extended criteria that incorporated but were not limited to those consistent with the former United Network for Organ Sharing (UNOS) definition of ECD kidneys <xref rid="ajt13830-bib-0048" ref-type="ref">48</xref>. When the protocol for BENEFIT&#x02010;EXT was being developed in 2003, these kidney subtypes were considered high risk under UNOS and other published criteria available at the time <xref rid="ajt13830-bib-0008" ref-type="ref">8</xref>, <xref rid="ajt13830-bib-0048" ref-type="ref">48</xref>; however, definitions of high&#x02010;risk kidneys have since evolved. In 2013, the Kidney Donor Profile Index (KDPI) was introduced <xref rid="ajt13830-bib-0049" ref-type="ref">49</xref>; therefore, the above findings are not necessarily predictive of outcomes that might be observed among recipients of donor kidneys with high (&#x0003e;85%) KDPI scores. This is important because not all ECD kidneys are equivalent in terms of anticipated patient outcomes; some ECD kidneys may have more favorable KDPI scores than others <xref rid="ajt13830-bib-0050" ref-type="ref">50</xref>. Future studies should incorporate the newer KDPI scoring paradigm. In summary, in this 7&#x02010;year analysis of BENEFIT&#x02010;EXT, in comparison to CsA, belatacept was associated with similar rates of patient and graft survival and acute rejection, sustained improvements in renal function and significantly lower cumulative incidence of detectable <italic>de novo</italic> DSAs.</p></sec><sec id="ajt13830-sec-0015"><title>Disclosure</title><p>The authors of this manuscript have conflicts of interest to disclose as described by the <italic>American Journal of Transplantation</italic>. A. Durrbach has received research support from Bristol&#x02010;Myers Squibb, and his spouse was once an employee of Bristol&#x02010;Myers Squibb. S. Florman and M. del Carmen Rial have received research/grant support from Bristol&#x02010;Myers Squibb. L. Rostaing has served on speakers' bureaus for Novartis, Astellas, Veloxis, Fresenius, and LFB. A. Matas has received grant support from Bristol&#x02010;Myers Squibb. T. Wekerle has received honoraria and research grants from Bristol&#x02010;Myers Squibb. M. Polinsky, H. U. Meier&#x02010;Kriesche, and S. Munier are salaried employees of Bristol&#x02010;Myers Squibb. J. M. Griny&#x000f3; has served as an advisor to Bristol&#x02010;Myers Squibb, Chiesi, Veloxis, Quark, and Opsona. The other authors have no conflicts of interest to disclose.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data"><caption><p>
+<bold>Data S1:</bold> Supplementary material.</p><p>
+<bold>Table S1:</bold> Duration of follow&#x02010;up and treatment exposure in randomized, transplanted and treated patients.</p><p>
+<bold>Table S2:</bold> Kaplan&#x02013;Meier survival rate for time to death or graft loss from randomization to month 84 (year 7; all randomized and transplanted patients).</p><p>
+<bold>Table S3:</bold> Kaplan&#x02013;Meier survival rate for time to death from randomization to month 84 (year 7; all randomized and transplanted patients).</p><p>
+<bold>Table S4:</bold> Causes of death.</p><p>
+<bold>Table S5:</bold> Kaplan&#x02013;Meier survival rate for time to death&#x02010;censored graft loss from randomization to month 84 (year 7; all randomized and transplanted patients).</p><p>
+<bold>Table S6:</bold> Causes of graft loss.</p><p>
+<bold>Table S7:</bold> Potential cases of suspected antibody&#x02010;mediated acute rejection.</p></caption><media xlink:href="AJT-16-3192-s001.docx"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="ajt13830-sec-0014"><title>Acknowledgments</title><p>The authors would like to thank the BENEFIT&#x02010;EXT investigators (see Supporting Information for complete list). Professional medical writing and editorial assistance were provided by Tiffany DeSimone, PhD, of CodonMedical, an Ashfield Company, part of UDG Healthcare plc, and were funded by Bristol&#x02010;Myers Squibb.</p></ack><ref-list content-type="cited-references" id="ajt13830-bibl-0001"><title>References</title><ref id="ajt13830-bib-0001"><label>1</label><mixed-citation publication-type="miscellaneous" id="ajt13830-cit-0001">
+<collab collab-type="authors">United States Renal Data System</collab>
+. <article-title>2014 Annual Data Report. Chapter 6: Transplantation</article-title>. <year>2014</year> [cited 2015 May 19]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.usrds.org/2014/view/v2_06.aspx">http://www.usrds.org/2014/view/v2_06.aspx</ext-link>.</mixed-citation></ref><ref id="ajt13830-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="ajt13830-cit-0002">
+<string-name>
+<surname>Matas</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Smith</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Skeans</surname>
+<given-names>MA</given-names>
+</string-name>, et al. <collab collab-type="authors">OPTN/SRTR</collab>
+. <article-title>2012 Annual Data Report: Kidney</article-title>. <source>Am J Transplant</source>
+<year>2014</year>; <volume>14</volume>(<issue>suppl 1</issue>): <fpage>11</fpage>&#x02013;<lpage>44</lpage>.</mixed-citation></ref><ref id="ajt13830-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="ajt13830-cit-0003">
+<string-name>
+<surname>Axelrod</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>McCullough</surname>
+<given-names>KP</given-names>
+</string-name>, <string-name>
+<surname>Brewer</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Becker</surname>
+<given-names>BN</given-names>
+</string-name>, <string-name>
+<surname>Segev</surname>
+<given-names>DL</given-names>
+</string-name>, <string-name>
+<surname>Rao</surname>
+<given-names>PS</given-names>
+</string-name>. <article-title>Kidney and pancreas transplantation in the United States, 1999&#x02013;2008: The changing face of living donation</article-title>. <source>Am J Transplant</source>
+<year>2010</year>; <volume>10</volume>(<issue>4 Pt 2</issue>): <fpage>987</fpage>&#x02013;<lpage>1002</lpage>.<pub-id pub-id-type="pmid">20420648</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="ajt13830-cit-0004">
+<string-name>
+<surname>Audard</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Matignon</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Dahan</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Grimbert</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>Renal transplantation from extended criteria cadaveric donors: Problems and perspectives overview</article-title>. <source>Transpl Int</source>
+<year>2008</year>; <volume>21</volume>: <fpage>11</fpage>&#x02013;<lpage>17</lpage>.<pub-id pub-id-type="pmid">17850235</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="ajt13830-cit-0005">
+<string-name>
+<surname>Collins</surname>
+<given-names>MG</given-names>
+</string-name>, <string-name>
+<surname>Chang</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Russ</surname>
+<given-names>GR</given-names>
+</string-name>, <string-name>
+<surname>McDonald</surname>
+<given-names>SP</given-names>
+</string-name>. <article-title>Outcomes of transplantation using kidneys from donors meeting expanded criteria in Australia and New Zealand, 1991 to 2005</article-title>. <source>Transplantation</source>
+<year>2009</year>; <volume>87</volume>: <fpage>1201</fpage>&#x02013;<lpage>1209</lpage>.<pub-id pub-id-type="pmid">19384167</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="ajt13830-cit-0006">
+<string-name>
+<surname>Metzger</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Delmonico</surname>
+<given-names>FL</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Port</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name>
+<surname>Wynn</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Merion</surname>
+<given-names>RM</given-names>
+</string-name>. <article-title>Expanded criteria donors for kidney transplantation</article-title>. <source>Am J Transplant</source>
+<year>2003</year>; <volume>3</volume>(<issue>Suppl 4</issue>): <fpage>114</fpage>&#x02013;<lpage>125</lpage>.<pub-id pub-id-type="pmid">12694055</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="ajt13830-cit-0007">
+<string-name>
+<surname>Ojo</surname>
+<given-names>AO</given-names>
+</string-name>, <string-name>
+<surname>Hanson</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Meier&#x02010;Kriesche</surname>
+<given-names>H</given-names>
+</string-name>, et al. <article-title>Survival in recipients of marginal cadaveric donor kidneys compared with other recipients and wait&#x02010;listed transplant candidates</article-title>. <source>J Am Soc Nephrol</source>
+<year>2001</year>; <volume>12</volume>: <fpage>589</fpage>&#x02013;<lpage>597</lpage>.<pub-id pub-id-type="pmid">11181808</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="ajt13830-cit-0008">
+<string-name>
+<surname>Port</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name>
+<surname>Bragg&#x02010;Gresham</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Metzger</surname>
+<given-names>RA</given-names>
+</string-name>, et al. <article-title>Donor characteristics associated with reduced graft survival: An approach to expanding the pool of kidney donors</article-title>. <source>Transplantation</source>
+<year>2002</year>; <volume>74</volume>: <fpage>1281</fpage>&#x02013;<lpage>1286</lpage>.<pub-id pub-id-type="pmid">12451266</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="ajt13830-cit-0009">
+<string-name>
+<surname>Saidi</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Elias</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kawai</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Outcome of kidney transplantation using expanded criteria donors and donation after cardiac death kidneys: Realities and costs</article-title>. <source>Am J Transplant</source>
+<year>2007</year>; <volume>7</volume>: <fpage>2769</fpage>&#x02013;<lpage>2774</lpage>.<pub-id pub-id-type="pmid">17927805</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="ajt13830-cit-0010">
+<string-name>
+<surname>Blanca</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Jim&#x000e9;nez</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Cabello</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Cardiovascular risk in recipients with kidney transplants from expanded criteria donors</article-title>. <source>Transplant Proc</source>
+<year>2012</year>; <volume>44</volume>: <fpage>2579</fpage>&#x02013;<lpage>2581</lpage>.<pub-id pub-id-type="pmid">23146460</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="ajt13830-cit-0011">
+<string-name>
+<surname>De Vusser</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lerut</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Kuypers</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>The predictive value of kidney allograft baseline biopsies for long&#x02010;term graft survival</article-title>. <source>J Am Soc Nephrol</source>
+<year>2013</year>; <volume>24</volume>: <fpage>1913</fpage>&#x02013;<lpage>1923</lpage>.<pub-id pub-id-type="pmid">23949799</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="ajt13830-cit-0012">
+<string-name>
+<surname>Klintmalm</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bohman</surname>
+<given-names>SO</given-names>
+</string-name>, <string-name>
+<surname>Sundelin</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Wilczek</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Interstitial fibrosis in renal allografts after 12 to 46 months of cyclosporin treatment: Beneficial effect of low doses in early post&#x02010;transplantation period</article-title>. <source>Lancet</source>
+<year>1984</year>; <volume>2</volume>: <fpage>950</fpage>&#x02013;<lpage>954</lpage>.<pub-id pub-id-type="pmid">6149343</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="ajt13830-cit-0013">
+<string-name>
+<surname>Myers</surname>
+<given-names>BD</given-names>
+</string-name>, <string-name>
+<surname>Ross</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Newton</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Luetscher</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Perlroth</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cyclosporine&#x02010;associated chronic nephropathy</article-title>. <source>N Engl J Med</source>
+<year>1984</year>; <volume>311</volume>: <fpage>699</fpage>&#x02013;<lpage>705</lpage>.<pub-id pub-id-type="pmid">6382005</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="ajt13830-cit-0014">
+<string-name>
+<surname>Palestine</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Austin</surname>
+<given-names>HA</given-names>
+<suffix>3rd</suffix>
+</string-name>, <string-name>
+<surname>Balow</surname>
+<given-names>JE</given-names>
+</string-name>, et al. <article-title>Renal histopathologic alterations in patients treated with cyclosporine for uveitis</article-title>. <source>N Engl J Med</source>
+<year>1986</year>; <volume>314</volume>: <fpage>1293</fpage>&#x02013;<lpage>1298</lpage>.<pub-id pub-id-type="pmid">3702930</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="ajt13830-cit-0015">
+<string-name>
+<surname>Starzl</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Fung</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jordan</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Kidney transplantation under FK 506</article-title>. <source>JAMA</source>
+<year>1990</year>; <volume>264</volume>: <fpage>63</fpage>&#x02013;<lpage>67</lpage>.<pub-id pub-id-type="pmid">1693970</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="ajt13830-cit-0016">
+<string-name>
+<surname>Griny&#x000f3;</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Bestard</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Torras</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Cruzado</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Optimal immunosuppression to prevent chronic allograft dysfunction</article-title>. <source>Kidney Int Suppl</source>
+<year>2010</year>; <volume>119</volume>: <fpage>S66</fpage>&#x02013;<lpage>S70</lpage>.</mixed-citation></ref><ref id="ajt13830-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="ajt13830-cit-0017">
+<string-name>
+<surname>Randhawa</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Shapiro</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jordan</surname>
+<given-names>ML</given-names>
+</string-name>, <string-name>
+<surname>Starzl</surname>
+<given-names>TE</given-names>
+</string-name>, <string-name>
+<surname>Demetris</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>The histopathological changes associated with allograft rejection and drug toxicity in renal transplant recipients maintained on FK506. Clinical significance and comparison with cyclosporine</article-title>. <source>Am J Surg Pathol</source>
+<year>1993</year>; <volume>17</volume>: <fpage>60</fpage>&#x02013;<lpage>68</lpage>.<pub-id pub-id-type="pmid">7680544</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="ajt13830-cit-0018">
+<string-name>
+<surname>Nankivell</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Borrows</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Fung</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>O'Connell</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Allen</surname>
+<given-names>RD</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>JR</given-names>
+</string-name>. <article-title>The natural history of chronic allograft nephropathy</article-title>. <source>N Engl J Med</source>
+<year>2003</year>; <volume>349</volume>: <fpage>2326</fpage>&#x02013;<lpage>2333</lpage>.<pub-id pub-id-type="pmid">14668458</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="ajt13830-cit-0019">
+<string-name>
+<surname>Halloran</surname>
+<given-names>PF</given-names>
+</string-name>. <article-title>Immunosuppressive drugs for kidney transplantation</article-title>. <source>N Engl J Med</source>
+<year>2004</year>; <volume>351</volume>: <fpage>2715</fpage>&#x02013;<lpage>2729</lpage>.<pub-id pub-id-type="pmid">15616206</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="ajt13830-cit-0020">
+<string-name>
+<surname>Weimert</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Alloway</surname>
+<given-names>RR</given-names>
+</string-name>. <article-title>Renal transplantation in high&#x02010;risk patients</article-title>. <source>Drugs</source>
+<year>2007</year>; <volume>67</volume>: <fpage>1603</fpage>&#x02013;<lpage>1627</lpage>.<pub-id pub-id-type="pmid">17661529</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="ajt13830-cit-0021">
+<string-name>
+<surname>Mohan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Palanisamy</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Tsapepas</surname>
+<given-names>D</given-names>
+</string-name>, et al. <article-title>Donor&#x02010;specific antibodies adversely affect kidney allograft outcomes</article-title>. <source>J Am Soc Nephrol</source>
+<year>2012</year>; <volume>23</volume>: <fpage>2061</fpage>&#x02013;<lpage>2071</lpage>.<pub-id pub-id-type="pmid">23160511</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="ajt13830-cit-0022">
+<string-name>
+<surname>Sellar&#x000e9;s</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>de Freitas</surname>
+<given-names>DG</given-names>
+</string-name>, <string-name>
+<surname>Mengel</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Understanding the causes of kidney transplant failure: The dominant role of antibody&#x02010;mediated rejection and nonadherence</article-title>. <source>Am J Transplant</source>
+<year>2012</year>; <volume>12</volume>: <fpage>388</fpage>&#x02013;<lpage>399</lpage>.<pub-id pub-id-type="pmid">22081892</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0023"><label>23</label><mixed-citation publication-type="book" id="ajt13830-cit-0023">
+<string-name>
+<surname>Squibb</surname>
+<given-names>B&#x02010;M</given-names>
+</string-name>. <source>Belatacept (NULOJIX) prescribing information</source>. <publisher-loc>Princeton, NJ</publisher-loc>: <publisher-name>Bristol&#x02010;Myers Squibb Company</publisher-name>; <year>2014</year>.</mixed-citation></ref><ref id="ajt13830-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="ajt13830-cit-0024">
+<string-name>
+<surname>Bestard</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Campistol</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Morales</surname>
+<given-names>JM</given-names>
+</string-name>, et al. <article-title>Advances in immunosuppression for kidney transplantation: New strategies for preserving kidney function and reducing cardiovascular risk</article-title>. <source>Nefrologia</source>
+<year>2012</year>; <volume>32</volume>: <fpage>374</fpage>&#x02013;<lpage>384</lpage>.<pub-id pub-id-type="pmid">22535159</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="ajt13830-cit-0025">
+<string-name>
+<surname>Masson</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Henderson</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Chapman</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Craig</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Webster</surname>
+<given-names>AC</given-names>
+</string-name>. <article-title>Belatacept for kidney transplant recipients</article-title>. <source>Cochrane Database Syst Rev</source>
+<year>2014</year>; <volume>11</volume>: <fpage>CD010699</fpage>.</mixed-citation></ref><ref id="ajt13830-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="ajt13830-cit-0026">
+<string-name>
+<surname>Larsen</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>AB</given-names>
+</string-name>, et al. <article-title>Rational development of LEA29Y (belatacept), a high&#x02010;affinity variant of CTLA4&#x02010;Ig with potent immunosuppressive properties</article-title>. <source>Am J Transplant</source>
+<year>2005</year>; <volume>5</volume>: <fpage>443</fpage>&#x02013;<lpage>453</lpage>.<pub-id pub-id-type="pmid">15707398</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="ajt13830-cit-0027">
+<string-name>
+<surname>Wekerle</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Griny&#x000f3;</surname>
+<given-names>JM</given-names>
+</string-name>. <article-title>Belatacept: From rational design to clinical application</article-title>. <source>Transpl Int</source>
+<year>2012</year>; <volume>25</volume>: <fpage>139</fpage>&#x02013;<lpage>150</lpage>.<pub-id pub-id-type="pmid">22151353</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="ajt13830-cit-0028">
+<string-name>
+<surname>Durrbach</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pestana</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Pearson</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>A phase III study of belatacept versus cyclosporine in kidney transplants from extended criteria donors (BENEFIT&#x02010;EXT study)</article-title>. <source>Am J Transplant</source>
+<year>2010</year>; <volume>10</volume>: <fpage>547</fpage>&#x02013;<lpage>557</lpage>.<pub-id pub-id-type="pmid">20415898</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="ajt13830-cit-0029">
+<string-name>
+<surname>Pestana</surname>
+<given-names>JO</given-names>
+</string-name>, <string-name>
+<surname>Grinyo</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Vanrenterghem</surname>
+<given-names>Y</given-names>
+</string-name>, et al. <article-title>Three&#x02010;year outcomes from BENEFIT&#x02010;EXT: A phase III study of belatacept versus cyclosporine in recipients of extended criteria donor kidneys</article-title>. <source>Am J Transplant</source>
+<year>2012</year>; <volume>12</volume>: <fpage>630</fpage>&#x02013;<lpage>639</lpage>.<pub-id pub-id-type="pmid">22300431</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="ajt13830-cit-0030">
+<string-name>
+<surname>Charpentier</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Medina</surname>
+<given-names>PJ</given-names>
+</string-name>, <string-name>
+<surname>Del C Rial</surname>
+<given-names>M</given-names>
+</string-name>, et al. <article-title>Long&#x02010;term exposure to belatacept in recipients of extended criteria donor kidneys</article-title>. <source>Am J Transplant</source>
+<year>2013</year>; <volume>13</volume>: <fpage>2884</fpage>&#x02013;<lpage>2891</lpage>.<pub-id pub-id-type="pmid">24103072</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="ajt13830-cit-0031">
+<string-name>
+<surname>Levey</surname>
+<given-names>AS</given-names>
+</string-name>, <string-name>
+<surname>Bosch</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Greene</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>A more accurate method to estimate glomerular filtration rate from serum creatinine: A new prediction equation. Modification of Diet in Renal Disease Study Group</article-title>. <source>Ann Intern Med</source>
+<year>1999</year>; <volume>130</volume>: <fpage>461</fpage>&#x02013;<lpage>470</lpage>.<pub-id pub-id-type="pmid">10075613</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="ajt13830-cit-0032">
+<string-name>
+<surname>Talawila</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Pengel</surname>
+<given-names>LH</given-names>
+</string-name>. <article-title>Does belatacept improve outcomes for kidney transplant recipients? A systematic review</article-title>
+<source>Transpl Int</source>
+<year>2015</year>; <volume>28</volume>: <fpage>1251</fpage>&#x02013;<lpage>1264</lpage>.<pub-id pub-id-type="pmid">25965549</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="ajt13830-cit-0033">
+<string-name>
+<surname>Hwang</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>SC</given-names>
+</string-name>, <string-name>
+<surname>Kwon</surname>
+<given-names>KH</given-names>
+</string-name>, et al. <article-title>Long&#x02010;term outcomes of kidney transplantation from expanded criteria deceased donors at a single center: Comparison with standard criteria deceased donors</article-title>. <source>Transplant Proc</source>
+<year>2014</year>; <volume>46</volume>: <fpage>431</fpage>&#x02013;<lpage>436</lpage>.<pub-id pub-id-type="pmid">24655981</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="ajt13830-cit-0034">
+<string-name>
+<surname>Lionaki</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kapsia</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Makropoulos</surname>
+<given-names>I</given-names>
+</string-name>, et al. <article-title>Kidney transplantation outcomes from expanded criteria donors, standard criteria donors or living donors older than 60 years</article-title>. <source>Ren Fail</source>
+<year>2014</year>; <volume>36</volume>: <fpage>526</fpage>&#x02013;<lpage>533</lpage>.<pub-id pub-id-type="pmid">24456131</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="ajt13830-cit-0035">
+<string-name>
+<surname>Goh</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Ladouceur</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Peters</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Desmond</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Tchervenkov</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Baran</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Lengthy cold ischemia time is a modifiable risk factor associated with low glomerular filtration rates in expanded criteria donor kidney transplant recipients</article-title>. <source>Transplant Proc</source>
+<year>2009</year>; <volume>41</volume>: <fpage>3290</fpage>&#x02013;<lpage>3292</lpage>.<pub-id pub-id-type="pmid">19857732</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="ajt13830-cit-0036">
+<string-name>
+<surname>Frutos</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Sola</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mansilla</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Ruiz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mart&#x000ed;n&#x02010;G&#x000f3;mez</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Seller</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Expanded criteria donors for kidney transplantation: Quality control and results</article-title>. <source>Transplant Proc</source>
+<year>2006</year>; <volume>38</volume>: <fpage>2371</fpage>&#x02013;<lpage>2373</lpage>.<pub-id pub-id-type="pmid">17097937</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="ajt13830-cit-0037">
+<string-name>
+<surname>Einecke</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Sis</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Reeve</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Antibody&#x02010;mediated microcirculation injury is the major cause of late kidney transplant failure</article-title>. <source>Am J Transplant</source>
+<year>2009</year>; <volume>9</volume>: <fpage>2520</fpage>&#x02013;<lpage>2523</lpage>.<pub-id pub-id-type="pmid">19843030</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="ajt13830-cit-0038">
+<string-name>
+<surname>Worthington</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Al&#x02010;Husseini</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Dyer</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Posttransplantation production of donor HLA&#x02010;specific antibodies as a predictor of renal transplant outcome</article-title>. <source>Transplantation</source>
+<year>2003</year>; <volume>75</volume>: <fpage>1034</fpage>&#x02013;<lpage>1040</lpage>.<pub-id pub-id-type="pmid">12698094</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="ajt13830-cit-0039">
+<string-name>
+<surname>Wiebe</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Gibson</surname>
+<given-names>IW</given-names>
+</string-name>, <string-name>
+<surname>Blydt&#x02010;Hansen</surname>
+<given-names>TD</given-names>
+</string-name>, et al. <article-title>Evolution and clinical pathologic correlations of <italic>de novo</italic> donor&#x02010;specific HLA antibody post kidney transplant</article-title>. <source>Am J Transplant</source>
+<year>2012</year>; <volume>12</volume>: <fpage>1157</fpage>&#x02013;<lpage>1167</lpage>.<pub-id pub-id-type="pmid">22429309</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="ajt13830-cit-0040">
+<string-name>
+<surname>Hidalgo</surname>
+<given-names>LG</given-names>
+</string-name>, <string-name>
+<surname>Campbell</surname>
+<given-names>PM</given-names>
+</string-name>, <string-name>
+<surname>Sis</surname>
+<given-names>B</given-names>
+</string-name>, et al. <article-title>
+<italic>De novo</italic> donor&#x02010;specific antibody at the time of kidney transplant biopsy associates with microvascular pathology and late graft failure</article-title>. <source>Am J Transplant</source>
+<year>2009</year>; <volume>9</volume>: <fpage>2532</fpage>&#x02013;<lpage>2541</lpage>.<pub-id pub-id-type="pmid">19843031</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="ajt13830-cit-0041">
+<string-name>
+<surname>Legendre</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Canaud</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Factors influencing long&#x02010;term outcome after kidney transplantation</article-title>. <source>Transpl Int</source>
+<year>2014</year>; <volume>27</volume>: <fpage>19</fpage>&#x02013;<lpage>27</lpage>.<pub-id pub-id-type="pmid">24138291</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="ajt13830-cit-0042">
+<string-name>
+<surname>Wang</surname>
+<given-names>CJ</given-names>
+</string-name>, <string-name>
+<surname>Heuts</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Ovcinnikovs</surname>
+<given-names>V</given-names>
+</string-name>, et al. <article-title>CTLA&#x02010;4 controls follicular helper T&#x02010;cell differentiation by regulating the strength of CD28 engagement</article-title>. <source>Proc Natl Acad Sci U S A</source>
+<year>2015</year>; <volume>112</volume>: <fpage>524</fpage>&#x02013;<lpage>529</lpage>.<pub-id pub-id-type="pmid">25548162</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="ajt13830-cit-0043">
+<string-name>
+<surname>Archdeacon</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Dixon</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Belen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Albrecht</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Meyer</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Summary of the US FDA approval of belatacept</article-title>. <source>Am J Transplant</source>
+<year>2012</year>; <volume>12</volume>: <fpage>554</fpage>&#x02013;<lpage>562</lpage>.<pub-id pub-id-type="pmid">22335273</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0044"><label>44</label><mixed-citation publication-type="miscellaneous" id="ajt13830-cit-0044">
+<collab collab-type="authors">European Medicines Agency</collab>
+. <article-title>Nulojix: EPAR &#x02010; summary for the public</article-title>. <year>2011</year> [cited 2015 May 19]. Available from: <ext-link ext-link-type="uri" xlink:href="http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/002098/human_med_001459.jsp&#x00026;mid=WC0b01ac058001d124">http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/medicines/002098/human_med_001459.jsp&#x00026;mid=WC0b01ac058001d124</ext-link>.</mixed-citation></ref><ref id="ajt13830-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="ajt13830-cit-0045">
+<string-name>
+<surname>Vincenti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Rostaing</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Grinyo</surname>
+<given-names>J</given-names>
+</string-name>, et al. <article-title>Belatacept and long&#x02010;term outcomes in kidney transplantation</article-title>. <source>N Engl J Med</source>
+<year>2016</year>; <volume>374</volume>: <fpage>333</fpage>&#x02013;<lpage>343</lpage>.<pub-id pub-id-type="pmid">26816011</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0046"><label>46</label><mixed-citation publication-type="journal" id="ajt13830-cit-0046">
+<string-name>
+<surname>Tedesco Silva</surname>
+<given-names>H</given-names>
+<suffix>Jr.</suffix>
+</string-name>, <string-name>
+<surname>Cibrik</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Johnston</surname>
+<given-names>T</given-names>
+</string-name>, et al. <article-title>Everolimus plus reduced&#x02010;exposure CsA versus mycophenolic acid plus standard&#x02010;exposure CsA in renal&#x02010;transplant recipients</article-title>. <source>Am J Transplant</source>
+<year>2010</year>; <volume>10</volume>: <fpage>1401</fpage>&#x02013;<lpage>1413</lpage>.<pub-id pub-id-type="pmid">20455882</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0047"><label>47</label><mixed-citation publication-type="journal" id="ajt13830-cit-0047">
+<string-name>
+<surname>Kahan</surname>
+<given-names>BD</given-names>
+</string-name>. <article-title>Efficacy of sirolimus compared with azathioprine for reduction of acute renal allograft rejection: A randomised multicentre study. The Rapamune US Study Group</article-title>. <source>Lancet</source>
+<year>2000</year>; <volume>356</volume>: <fpage>194</fpage>&#x02013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">10963197</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0048"><label>48</label><mixed-citation publication-type="journal" id="ajt13830-cit-0048">
+<string-name>
+<surname>Rosengard</surname>
+<given-names>BR</given-names>
+</string-name>, <string-name>
+<surname>Feng</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Alfrey</surname>
+<given-names>EJ</given-names>
+</string-name>, et al. <article-title>Report of the Crystal City meeting to maximize the use of organs recovered from the cadaver donor</article-title>. <source>Am J Transplant</source>
+<year>2002</year>; <volume>2</volume>: <fpage>701</fpage>&#x02013;<lpage>711</lpage>.<pub-id pub-id-type="pmid">12243491</pub-id></mixed-citation></ref><ref id="ajt13830-bib-0049"><label>49</label><mixed-citation publication-type="miscellaneous" id="ajt13830-cit-0049">
+<collab collab-type="authors">Organ Procurement and Transplantation Network</collab>
+. <article-title>Allocation calculators</article-title>. <year>2014</year> [cited 2015 May 21]. Available from: <ext-link ext-link-type="uri" xlink:href="http://optn.transplant.hrsa.gov/converge/resources/allocationcalculators.asp?index=81">http://optn.transplant.hrsa.gov/converge/resources/allocationcalculators.asp?index=81</ext-link>.</mixed-citation></ref><ref id="ajt13830-bib-0050"><label>50</label><mixed-citation publication-type="miscellaneous" id="ajt13830-cit-0050">
+<collab collab-type="authors">Organ Procurement and Transplantation Network</collab>
+. <article-title>A Guide to Calculating and Interpreting the Kidney Donor Profile Index (KDPI)</article-title>. 2014 [cited Jun 15]. Available from: optn.transplant.hrsa.gov/ContentDocuments/Guide_to_Calculating_Interpreting_KDPI.pdf.</mixed-citation></ref></ref-list></back></article>

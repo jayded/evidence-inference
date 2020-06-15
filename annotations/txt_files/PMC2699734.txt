@@ -1,0 +1,190 @@
+OBJECTIVE
+To estimate the impacts on Medicare costs of providing a particular type of home telemedicine to eligible Medicare beneficiaries with type 2 diabetes.
+
+RESEARCH DESIGN AND METHODS
+Two cohorts of beneficiaries (n = 1,665 and 504, respectively) living in two medically underserved areas of New York between 2000 and 2007 were randomized to intensive nurse case management via televisits or usual care. Medicare service use and costs covering a 6-year follow-up period were drawn from claims data. Impacts were estimated using regression analyses.
+
+RESULTS
+Informatics for Diabetes Education and Telemedicine (IDEATel) did not reduce Medicare costs in either site. Total costs were between 71 and 116% higher for the treatment group than for the control group.
+
+CONCLUSIONS
+Although IDEATel had modest effects on clinical outcomes (reported elsewhere), it did not reduce Medicare use or costs for health services. The intervention's costs were excessive (over $8,000 per person per year) compared with programs with similar-sized clinical impacts.
+
+Home telemedicine delivers monitoring, educational, and therapeutic services to people through telecommunications technology. It may be a promising way to deliver such services to individuals with poor access to high-quality care due to language, culture, low educational attainment, disempowerment, and lack of social reinforcement for healthy behaviors.
+The congressionally mandated Informatics for Diabetes Education and Telemedicine (IDEATel) tested the clinical outcomes of providing a particular type of home telemedicine to Medicare beneficiaries with type 2 diabetes. A consortium led by Columbia University implemented IDEATel in two 4-year phases (February 2000 to February 2008) (1).
+RESEARCH DESIGN AND METHODS
+Goals
+For phase I, participants aimed to control blood glucose, high blood pressure, and abnormal lipid levels and reduce or eliminate obesity and physical inactivity. Physicians aimed to increase guideline-based diabetes care. For phase II, the consortium addressed phase I lessons learned and pursued the original goals.
+
+Recruitment
+Between December 2000 and October 2002, the Consortium recruited and randomized 1,665 cohort 1 Medicare beneficiaries (775 in New York City; 890 in upstate NY). Subsequently, between December 2004 and October 2005, the Consortium recruited and randomized 504 cohort 2 beneficiaries (174 in New York City; 330 in upstate NY). For both cohorts, eligibility was limited to beneficiaries aged ≥55 years who were being treated for diabetes by diet, oral medications, or insulin; living in a medically underserved or health professional shortage area in New York state; and English or Spanish speaking. Poor-health exclusion criteria also applied. After consenting, beneficiaries underwent an in-person baseline assessment by Consortium staff. The Consortium randomly assigned beneficiaries in both cohorts, in equal proportions, to a treatment or control group.
+
+The intervention
+After randomization, treatment and control group members continued receiving diabetes care from their primary care physicians, but treatment group members' physicians received recommendations from the IDEATel diabetologists concerning the care of participants. Treatment group members were offered installation of a home telemedicine unit (HTU) and training in its use.
+For phase I, the HTU was a desktop-model PC, connected to a regular telephone line, with a monitor, keyboard, and mouse; video camera; speakers; microphone; and glucose and blood pressure meters. Participants could use the HTU components to 1) measure and monitor blood glucose and blood pressure readings; 2) interact with an IDEATel nurse case manager, in English or Spanish, through scheduled two-way video conferences; and 3) access web-based educational materials. For phase II, the Consortium redesigned the HTU to address its large size and difficulty of use.
+
+Hypotheses
+Nurse education and coaching through televisits and self-tracking of progress through other HTU functions could have improved participants' self-care behaviors, adhering to diet, exercise, foot care, and medication regimes. IDEATel's guideline-based recommendations to physicians could have promoted better prescribing patterns. These improvements could help participants avoid long-term health complications that could reduce use of acute care services, primarily hospitalizations, and Medicare costs.
+
+Outcomes
+Use of Medicare-covered services and Medicare costs by type of service, total Medicare costs for health care services, and total Medicare costs for both health care services and the intervention.
+
+Data
+The Consortium extracted Medicare claims without identifying information. Follow-up data were available for up to 6 years, from randomization through December 2006. An intention-to-treat analysis included 1,625 cohort 1 and 491 cohort 2 enrollees with complete data.
+
+Impact estimation
+Site-specific impacts were estimated with linear regression (ordinary least-squares) models that controlled for baseline sociodemographic characteristics, experience with computers, diabetes control, and a measure of the outcome in question. Outcomes were annualized and weighted by their months of enrollment in fee-for-service Medicare because no claims data exist for HMO enrollees. The reported treatment and control group means were predicted from the coefficients of the estimated models.
+
+Demonstration costs
+The budget for the demonstration's first and second phases was $28,159,066 and $28,812,419, respectively (2). Estimates of the intervention's costs are summarized in Table A4 (available in an online-only appendix at http://care.diabetesjournals.org/cgi/content/full/dc09-0094/DC1).
+
+
+RESULTS
+In both sites, and for both cohorts, treatment and control group members were similar, on average, on all baseline characteristics, as expected under random assignment (online appendix Tables A1 and A2). However, enrollees' characteristics varied by site and cohort.
+Only for cohort 1 were mean annual total Medicare Part B expenditures significantly higher (13% of the control group mean; P = 0.025) for treatment group members than for control group members in upstate New York (Table 1).
+Table 1Estimated annual per-person expenditures for Medicare-covered services, intervention-related costs, and costs for total services, by site, evaluation group, and cohort
+New York CityUpstate New YorkTreatment groupControl groupDifference (P)Treatment groupControl groupDifference (P)Cohort 1 (both phases)
+
+
+
+
+
+
+    Total expenditures for
+
+
+
+
+
+
+        Medicare-covered services
+13,845
+12,961
+884 (0.476)
+9,566
+8,450
+1,116 (0.094)
+        Medicare Part A
+8,446
+7,502
+945 (0.344)
+5,136
+4,539
+597 (0.247)
+        Medicare Part B
+5,399
+5,459
+−59 (0.870)
+4,430
+3,911
+519 (0.025)
+    Total intervention-related costs*
+8,662
+0
+NA
+8,662
+0
+NA
+    Total costs
+22,507
+12,961
+9,546 (0.001)
+18,228
+8,450
+9,778 (0.000)
+Cohort 2 (only phase II)
+
+
+
+
+
+
+    Total expenditures for
+
+
+
+
+
+
+        Medicare-covered services
+11,906
+11,661
+245 (0.931)
+6,450
+8,694
+−2,244 (0.132)
+        Medicare Part A
+7,296
+6,886
+410 (0.867)
+2,991
+4,957
+−1,966 (0.118)
+        Medicare Part B
+4,610
+4,775
+−165 (0.799)
+3,458
+3,736
+−278 (0.443)
+    Total intervention-related costs
+8,437
+0
+NA
+8,437
+0
+NA
+    Total costs
+20,343
+11,661
+8,682 (0.000)
+14,877
+8,694
+6,183 (0.000)
+Sample sizes
+
+
+
+
+
+
+    Cohort 1
+379
+358
+—
+446
+442
+—
+    Cohort 2
+82
+84
+—
+161
+164
+—
+Data are means, in dollars. Source: IDEATel tracking status file and 1999–2006 Medicare claims and enrollment records. Means were predicted with ordinary least- squares regression models, which controlled for enrollees' baseline characteristics and the pre-enrollment value of the outcome measure. Estimates reflect annualized expenditures for the period from each sample member's randomization through the end of the study follow-up period (31 December 2006). Observations are weighted by the fraction of the follow-up period that the enrollee was alive and not in an HMO; expenditures are excluded during months the enrollee was in an HMO or not alive. Three control group members were dropped from the analysis in New York City because they are missing control variables used in the regression analysis. See the online appendix for details on the data sources for and construction of the intervention-related cost estimates.
+*Total intervention-related costs for cohort 1 are based on the arithmetic average of demonstration costs for phase I and phase II, weighted by the average length of time that phase I participants were enrolled during each phase (see online appendix). NA, not applicable.
+Total intervention costs were $8,924 and $8,437 per person per year for phases I and II, respectively. The costs during phase II were lower than during phase I because the costs were spread over a longer period.
+The savings in total Medicare expenditures in any site or cohort were either nonexistent or too small to offset the high costs of the intervention. Total per-person costs were between $9,500 and $9,800 higher for treatment group than for control group members for cohort 1 and $6,200 to $8,700 for cohort 2 (P < 0.001).
+The study is limited because it cannot definitively attribute impacts to telemedicine, case management, or both. Several sensitivity tests were conducted, with no change in findings.
+
+CONCLUSIONS
+IDEATel's intervention-related costs were excessive because of the size of the budget allocated to its operations and the costly HTUs. The demonstration's costs were higher than the costs of comparable telemedicine programs ($415 to $1,830 per participant per year) that served people with diabetes, used televisits with nurse case managers and in-home visits, and had the “potential to effect costs savings” (3,4).
+Given the absence of effects on service use (2), finding no effects on Medicare costs was not surprising. The higher Medicare expenditures for the treatment group may have been due to chance or because IDEATel identified the need for some health services among medically underserved beneficiaries.
+For IDEATel to be cost-effective, the intervention-related costs would have to be drastically reduced, while maintaining clinical impacts. Less expensive telephonic interventions (5,6) and diabetes case-management programs have yielded comparable improvements in beneficiaries' clinical outcomes to IDEATel's impacts (7). Even if intervention costs were halved and the program reduced hospitalizations by 50%, both unlikely scenarios, the program would still increase costs to the government.
+
+
+      
+         Supplementary Material
+
+         
+            
+               Online-Only Appendix
+
+            
+            
+            
+         
+      
+
+   

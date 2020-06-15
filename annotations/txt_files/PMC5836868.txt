@@ -1,0 +1,276 @@
+Aims
+To investigate relationships between glycated haemoglobin (HbA1c) and reported hypoglycaemia and risk of major adverse cardiovascular events (MACE).
+
+Methods
+The EXAMINE trial randomized 5380 patients with type 2 diabetes (T2DM) and a recent acute coronary syndrome (ACS) event, in 49 countries, to double‐blind treatment with alogliptin or placebo in addition to standard of care. We used Cox proportional hazards models to analyse relationships among MACE, HbA1c levels and hypoglycaemic events.
+
+Results
+Patients randomized to alogliptin achieved lower HbA1c levels than the placebo group in all baseline HbA1c categories without differences in hypoglycaemia rates. No systematic change was found in MACE rates according to baseline HbA1c (P
+interaction = 0.971) or HbA1c category at 1 month. Patients in the combined treatment groups (n = 5380) who experienced serious hypoglycaemia (n = 34) had higher MACE rates than those who did not (35.3% vs 11.4%, adjusted hazard ratio [HR] 2.42, 95% confidence interval [CI] 1.27–4.60; P = .007), although the association was less strong when analysing only events after the hypoglycaemic event (adjusted HR 1.60, 95% CI 0.80, 3.20).
+
+Conclusions
+There were no relationships between baseline HbA1c levels or HbA1c levels after 1 month of treatment and the risk of MACE. Alogliptin improved glycaemic control without increasing hypoglycaemia. Reported events of hypoglycaemia and serious hypoglycaemia were associated with MACE. These data underscore the safety of alogliptin in improving glycaemic control in T2DM post‐ACS. Further study of hypoglycaemia as an independent risk factor for MACE in patients with T2DM and coronary disease is needed.
+
+1INTRODUCTION
+In 2008, the Action to Control Cardiovascular Risk in Diabetes (ACCORD) study, which was designed to test the hypothesis that intensive glucose control would reduce macrovascular disease in patients with type 2 diabetes (T2DM) and cardiovascular risk factors, was terminated prematurely after 3.5 years because there were 22% more deaths in patients who were treated intensively.1, 2 This and other evidence prompted concern among the diabetes community that hypoglycaemia might lead to an increase in cardiovascular events, both fatal and non‐fatal. Three lines of evidence are among the support for the postulation that hypoglycaemia may contribute to cardiac events: (1) experimental hypoglycaemia causes sympathoadrenal activation and prolonged low‐grade inflammation and impairs endothelial function3; (2) spontaneous hypoglycaemia, particularly at night, has been associated with an increased risk of cardiac arrhythmia4; and (3) hypoglycaemia and low levels of glycated haemoglobin (HbA1c) are linked to an increased risk of death in patients with diabetes, hospitalized for myocardial infarction (MI).5 In the present analysis, we have evaluated the relationships of glycaemic control and reported hypoglycaemia with the risk of major adverse cardiovascular events (MACE; cardiovascular death, non‐fatal MI, non‐fatal stroke), using data from the Examination of Cardiovascular Outcomes with Alogliptin versus Standard of Care (EXAMINE) study.
+The EXAMINE study showed that alogliptin, a selective dipeptidyl peptidase‐4 (DPP‐4) inhibitor approved for the treatment of patients with T2DM, was non‐inferior to placebo in its effect on MACE in patients with T2DM and a recent acute coronary syndrome (ACS) event.6, 7 In the clinical studies conducted as part of the development programme for alogliptin, no imbalance in cardiovascular events, including mortality, was noted in 4168 alogliptin‐treated patients with T2DM studied relative to placebo and active comparators (metformin, pioglitazone, sulphonylurea, glipizide or insulin).6 The extent to which glycaemic control at the start of the trial and glycaemic control post‐randomization predict cardiovascular outcomes and anti‐hyperglycaemic response to treatment is unclear. In the present analysis, we investigated the individual effects of baseline HbA1c level, HbA1c achieved 1 month post‐randomization, final HbA1c level, and rates of reported hypoglycaemia on MACE. We also evaluated the profiles of additional anti‐hyperglycaemic medication use in each treatment arm.
+
+2METHODS
+The EXAMINE study was a randomized, double‐blind, placebo‐controlled study of alogliptin vs placebo with standard of care for the treatment of T2DM and secondary cardiovascular prevention in patients who had experienced an ACS event within 15 to 90 days prior to randomization.7 The design, patient characteristics and principal findings of the EXAMINE trial have been published previously.7, 8 To be included in the trial, patients had to have a diagnosis of T2DM requiring anti‐hyperglycaemic medications with a baseline HbA1c of 6.5% to 11.0% (48‐97 mmol/mol or 7.0%‐10.0% [53‐86 mmol/mol] if on insulin therapy). Throughout the trial, patients were required to receive standard of care for treatment of T2DM and cardiovascular risk factors according to regional or national guidelines. Study‐related visits occurred at screening and randomization, as well as at 1, 3, 6, 9 and 12 months post‐randomization during the first year of the study and every 4 months during subsequent years of participation. HbA1c values were assessed at all study visits; hypoglycaemic events were characterized by local investigators according to their intensity (mild to severe [requiring assistance]) and seriousness (whether requiring hospitalization or emergency department management).
+2.1Statistical methods
+Cox proportional hazards models were used to analyse the time to the first occurrence of MACE for all randomized patients. The individual relationships between MACE and several measures of glycaemic control (baseline HbA1c, HbA1c at 1 month, baseline hypoglycaemia and incidence of hypoglycaemia) were analysed without adjustment for multiple comparisons. The relationships among baseline HbA1c categories and adverse events of hypoglycaemia were similarly explored.
+In the evaluations of risk of subsequent MACE according to HbA1c category, hazard ratios (HRs) and two‐sided 95% confidence intervals (CIs) were derived from Cox proportional hazards models with a factor for HbA1c categories, and adjusted for baseline age, sex, duration of diabetes, smoking status, estimated glomerular filtration rate (eGFR), index ACS type and glycaemic medication (insulin, metformin and sulphonylureas), and stratified by screening renal function and geographic region. The group of patients with HbA1c levels <7% served as the reference group.
+In the analyses of the relationship of reported hypoglycaemia and MACE, HRs and two‐sided 95% CIs were derived from Cox proportional hazards models, with a factor for hypoglycaemia incidence, and adjusted for baseline age, sex, treatment, HbA1c, glycaemic medication and stratified by screening renal function and geographic region.
+
+
+3RESULTS
+3.1Baseline characteristics
+The EXAMINE study enrolled 5380 patients in 49 countries who were randomized to treatment with alogliptin (n = 2701) or placebo (n = 2679) in addition to standard of care.7 Baseline characteristics for these patients are presented according to reported incidence of hypoglycaemia during the study (Table 1).
+Table 1Demographic and baseline characteristics according to reported hypoglycaemia during the study
+Any reported hypoglycaemia (N = 354)No reported hypoglycaemia (N = 5026)
+P
+Treatment assignment, % (n/N)
+
+
+.719
+Alogliptin
+51.1 (181/354)
+50.1 (2520/5026)
+
+Placebo
+48.9 (173/354)
+49.9 (2506/5026)
+
+Age
+
+
+
+Mean ± s.d. (N)
+62 ± 9 (354)
+61 ± 10 (5026)
+.057
+Age ≥ 65 years, % (n/N)
+39.0 (138/354)
+35.2 (1769/5026)
+.150
+Male, % (n/N)
+63.6 (225/354)
+68.2 (3426/5026)
+.073
+Duration of diabetes, years
+
+
+
+Mean ± s.d. (N)
+12.0 ± 8.7 (353)
+9.0 ± 8.1 (5006)
+<.001
+Baseline HbA1c concentration
+
+
+
+Mean ± s.d. (N)
+8.0 ± 1.0 (354)
+8.0 ± 1.1 (5025)
+.701
+Body weight, kg
+
+
+
+Mean ± s.d. (N)
+77.5 ± 20.0 (354)
+82.5 ± 19.1 (5026)
+<.001
+BMI, kg/m2
+
+
+
+
+Mean ± s.d. (N)
+28.7 ± 6.2 (354)
+29.5 ± 5.5 (5025)
+.016
+Race, % (n/N)
+
+
+.040
+American‐Indian or Alaska Native
+2.0 (7/354)
+2.0 (103/5026)
+
+Asian
+26.6 (94/354)
+19.8 (995/5026)
+
+Black or African‐American
+5.1 (18/354)
+3.9 (198/5026)
+
+Native Hawaiian or Other Pacific Islander
+0.3 (1/354)
+0.2 (10/5026)
+
+White
+65.5 (232/354)
+73.2 (3677/5026)
+
+Multiracial
+0.6 (2/354)
+0.9 (43/5026)
+
+Region of world, % (n/N)
+
+
+<.001
+USA, Canada
+16.1 (57/354)
+15.8 (796/5026)
+
+Western Europe, Australia, New Zealand and Middle East
+10.5 (37/354)
+11.5 (579/5026)
+
+Central and South America, Mexico
+40.7 (144/354)
+24.9 (1249/5026)
+
+Eastern Europe and Africa
+6.8 (24/354)
+29.5 (1484/5026)
+
+Asia, Pacific Islands
+26.0 (92/354)
+18.3 (918/5026)
+
+Cardiovascular risk factors and history, % (n/N)
+
+
+
+Current smoker
+9.0 (32/354)
+14.0 (702/5026)
+.033
+Hypertension
+82.8 (293/354)
+83.1 (4176/5026)
+.877
+Myocardial infarction
+87.6 (310/354)
+88.0 (4424/5026)
+.801
+PCI
+61.6 (218/354)
+62.8 (3154/5026)
+.660
+CABG
+16.1 (57/354)
+12.6 (631/5026)
+.053
+Congestive heart failure
+26.3 (93/354)
+28.0 (1408/5026)
+.480
+Cerebrovascular accident
+7.1 (25/354)
+7.2 (363/5026)
+.910
+Peripheral arterial disease
+13.6 (48/354)
+9.3 (466/5026)
+.008
+Renal function eGFR, mL/min/1.73 m2
+
+
+
+
+Mean ± s.d. (N)
+62.6 ± 20.9 (354)
+71.5 ± 21.3 (5026)
+<.001
+eGFR < 60 mL/min/1.73 m2, % (n/N)
+43.2 (153/354)
+28.1 (1412/5026)
+<.001
+Index ACS event
+
+
+.351
+Myocardial infarction
+79.4 (281/354)
+77.2 (3871/5012)
+
+Unstable angina
+20.6 (73/354)
+22.8 (1141/5012)
+
+Time from index ACS event to randomization, days
+
+
+
+Mean ± s.d. (N)
+48.1 ± 21.5 (354)
+47.8 ± 22.0 (5012)
+.787
+Glycaemic medication, % (n/N)
+
+
+
+Insulin
+42.7 (151/354)
+29.0 (1456/5026)
+<.001
+Metformin
+63.0 (223/354)
+66.6 (3349/5026)
+.161
+Sulphonylureas
+52.0 (184/354)
+46.1 (2319/5026)
+.033
+Abbreviations: BMI, body mass index; CABG, coronary artery bypass graft; PCI, percutaneous coronary intervention; s.d., standard deviation.
+Patients who experienced hypoglycaemia during the trial had baseline measurements indicating a longer duration of diabetes, lower weight and a lower eGFR compared with those without reported hypoglycaemia. A higher proportion of patients who had hypoglycaemia were taking insulin (42.7% vs 29.0%; P < .001) or sulphonylureas (52.0% vs 46.1%; P = .033) at baseline compared with patients who did not have reported hypoglycaemia. In terms of regional differences, patients from Asia and the Pacific Islands, as well as those from Central and South America, experienced an increased incidence of reported hypoglycaemia; by contrast, patients from Eastern Europe and Africa experienced a very low incidence of reported hypoglycaemia.
+At baseline, 29.4% (793/2701) and 30.4% (814/2679) of patients in the alogliptin and placebo groups, respectively, were receiving insulin, and at month 16, these proportions had risen to 31.6% (595/1880) and 35.8% (658/1838) of patients (P = .007, Pearson's chi‐squared test). Similar increases were observed in the proportions of patients taking metformin, sulphonylureas, and thiazolidinediones (Supporting Information, Table S1).
+
+3.2Changes in HbA1c
+
+From baseline to the end of the study, there was a consistently significant relative reduction in HbA1c in the alogliptin group as compared with placebo in each baseline HbA1c category (Figure 1). The least‐squares mean difference in change from baseline between alogliptin and placebo was most pronounced for patients with HbA1c ≥ 9.0% (75 mmol/mol) at baseline (least‐squares mean difference −0.54% [6 mmol/mol], 95% CI −0.74%, −0.34%; P < .001).
+Figure 1Change in HbA1c from baseline to last visit by baseline HbA1c category and treatment group analysed using Cox proportional hazards models without adjustment for multiple comparisons. LS, least squares.
+Regardless of treatment group, most patients (3118 [58%]) had an HbA1c of <7% measured on at least 1 study visit, with 918 patients (17%) in that HbA1c category at baseline and 1599 patients (30%) by 1 month; 1519 (28%) others would achieve HbA1c <7% at some point after 1 month. By contrast, 785 patients (14.6%) did not have an HbA1c <8% during the study and 246 (4.6%) patients did not have an HbA1c <9%. Among patients whose lowest HbA1c level was ≥8%, the proportion of patients treated with placebo was larger (478 [8.9%]) than for those treated with alogliptin (307 [5.7%]; Supporting Information, Table S2).
+
+3.3
+HbA1c and cardiovascular outcomes
+For each baseline HbA1c category, the rates of MACE composite events and individual event types occurring by the end of the study were similar between treatment groups (Figure 2). Relative to the category of patients with HbA1c <7% at baseline, patients in higher categories did not have any altered risk for the composite of MACE or any of the component events, and the same was true for HbA1c category at 1 month (Figure 3). There was also no change in risk of hospitalization for heart failure or the composite risk of cardiovascular death and hospitalization for heart failure according to baseline HbA1c category.
+Figure 2Percentage of patients experiencing MACE and composite by baseline HbA1c category and treatment group: HRs and P values for the primary endpoint of composite MACE with alogliptin vs placebo. Relationships between MACE and baseline HbA1c were analysed using Cox proportional hazards models without adjustment for multiple comparisons.
+Figure 3Risk of MACE outcomes based on HbA1c at 1 month. Combined event rate (both treatment groups). For analysis of MACE by categories of HbA1c, only the first event after 1‐month HbA1c measurement is included in the analysis for each patient. HRs and 95% CIs are derived from Cox proportional hazards models with a factor for HbA1c categories at 1 month and adjusted by age, sex, duration of diabetes, smoking status, renal function eGFR, index ACS type, glycaemic medication (insulin, metformin and sulphonylureas) at baseline and stratified by screening renal function and geographic region. The group of patients with HbA1c < 7% at 1 month is the reference group.
+
+3.4Cardiovascular outcome associated with the incidence of reported hypoglycaemia
+Adjusting for baseline covariates and study treatment, there was a significant association of MACE with patients who had an episode of serious hypoglycaemia (12/34 [35.3%]) vs those who did not (609/5346 [11.4%]; adjusted HR 2.42, 95% CI 1.27‐4.60; P = .007 [Figure 4A]). An association with MACE was also found for patients with any hypoglycaemia (64/354 [18.1%]) vs those without (557/5026 [11.1%]; adjusted HR 1.38, 95% CI 1.05‐1.80; P = .019). When limiting the analysis only to MACE that occurred subsequent to a reported hypoglycaemic event, the association was less robust and not statistically significant (Figure 4B). There was no appreciable difference between treatment groups in MACE rates for patients with or without hypoglycaemia.
+Figure 4Risk of MACE outcomes based on reported hypoglycaemia for (A) any MACE and (B) subsequent MACE. Hypoglycaemia incidence is based on reported adverse events of the hypoglycaemia preferred term coded according to the Medical Dictionary for Regulatory Activities. HRs and 2‐sided 95% CIs are derived from Cox proportional hazards models with a factor for hypoglycaemia incidence and adjusted by baseline age, sex, treatment, HbA1c and glycaemic medication (insulin, metformin and sulphonylureas) and stratified by screening renal function and geographic region.
+
+3.5Hypoglycaemia based on HbA1c at baseline and end of study
+Overall, 354 patients (6.6%) were reported to have hypoglycaemia (6.7% with alogliptin and 6.5% with placebo); rates of serious hypoglycaemia were low (0.7% with alogliptin and 0.6% with placebo). There were no significant differences in the rates of all reported hypoglycaemia or serious hypoglycaemia between the alogliptin and placebo groups for any category of baseline HbA1c value. Serious hypoglycaemic events occurred only in patients in both randomized treatment arms who were taking insulin and/or sulphonylureas and who had a comorbid event, such as inability to eat or intercurrent gastrointestinal illnesses.
+
+
+4DISCUSSION
+In the present analysis of the relationship of glycaemic control and reported hypoglycaemia to MACE in patients with T2DM and a recent ACS, we found no relationship between HbA1c levels and MACE as previously observed in individuals with or without unstable cardiovascular disease; however, we did find an interesting association between hypoglycaemia and cardiac events in this patient population.
+Patients in the EXAMINE trial had baseline T2DM and a recent history of an ACS, making them a high cardiovascular risk population. The highest event rates of MACE (12.8% at 2 years) were reported for patients with a baseline HbA1c of between 8% and 9%, although these did not differ notably from rates seen in the other categories. Patients in the alogliptin arm achieved a lower HbA1c than those on placebo regardless of their baseline HbA1c category. After initiation of treatment with alogliptin or placebo, there was a greater use of add‐on medications in the placebo group, although this was insufficient to match HbA1c levels in the group treated with alogliptin. Using the combined group of patients with HbA1c <7% at 1 month (allowing for treatment effect) as a reference, we found no increase in risk of subsequent MACE for categories of higher HbA1c levels, and the same was true when the analysis was performed for categories of HbA1c at baseline. This contrasts with a previous analysis of data from a trial of saxagliptin vs placebo in lower risk patients with T2DM and stable cardiovascular disease or atherosclerotic risk factors (SAVOR‐TIMI 53), which showed that categories of higher baseline HbA1c (>7%) were associated with a higher risk of MACE.9 This may reflect different populations; those in the EXAMINE trial, who were on average 45 days from a previous ACS at baseline, experienced MACE at a rate approximately double that of patients in the SAVOR‐TIMI 53 trial, and their enhanced cardiovascular risk may have masked a modest effect of glycaemic control.
+In the entire EXAMINE cohort, reported events of any hypoglycaemia and serious hypoglycaemia were associated with the primary endpoint of MACE. A stronger relationship between serious hypoglycaemic events (compared to any hypoglycaemic event) and MACE could indicate a dose–response effect, although reporting of serious hypoglycaemia was also probably more reliable. A review of patients with serious hypoglycaemia found that all were taking concomitant insulin or sulphonylureas and usually had a comorbid gastrointestinal event or were anorectic and failed to eat on the day of the hypoglycaemic event. In light of the limitations of the frequency of data collection and the inclusion only of reported events with the preferred term of “hypoglycaemia,” it is likely that non‐serious episodes of hypoglycaemia were more frequent than reported in the study population. Additionally, the different definition of serious as opposed to severe hypoglycaemia may have contributed to the lower rates of hypoglycaemia overall than have been reported in other comparable trials.
+The more robust relationship between hypoglycaemia and any MACE, as opposed to MACE after hypoglycaemia, suggests that confounding contributes to these findings; namely, that hypoglycaemia is associated with a comorbidity that increases the likelihood of MACE. The potential contribution of hypoglycaemia to subsequent cardiovascular mortality in individuals with T2DM has been the subject of considerable debate since the premature closure of the ACCORD trial because of an increased mortality rate in the intensive glycaemic control group.1 Rates of severe hypoglycaemia were considerably higher in the intensively treated group (16.2% vs 5.1% in the standard treatment group) but were one of a number of potential causes of increased mortality which included weight gain, specific medications or chance. Furthermore, subsequent sub‐analyses were cited by the ACCORD investigators as excluding severe hypoglycaemia as a cause of mortality.10
+
+Nevertheless, 2 other trials measuring the impact of intensive glucose control on macrovascular disease in individuals with T2DM, with very different rates of severe hypoglycaemia, the ADVANCE study (2.7% vs 1.5%, intensive vs standard) and the VADT study (21.2% vs. 9.9%, intensive vs standard), which were contemporary with ACCORD, have reported strong associations between a severe hypoglycaemic event and subsequent mortality.11, 12 The ADVANCE investigators highlighted the potential contribution of confounding to their reported association13; however, a recent meta‐analysis which included data on six large observational studies involving >900 000 patients used a statistical approach – bias analysis – to show that confounding as a result of comorbid severe illness was unlikely to explain the whole association.5 The authors concluded that there was, in fact, a strong likelihood of a direct relationship between hypoglycaemic episodes and subsequent cardiovascular events. ACCORD did not evaluate a direct effect of hypoglycaemia on risk of cardiovascular death or determine a definite reason for increased cardiovascular death among patients treated intensively. By contrast, the ADVANCE study found higher risk in patients who had an episode of severe hypoglycaemia for vascular events, cardiovascular death and death from any cause – and speculated such hypoglycaemia episodes could be only markers for susceptibility; any causative contribution of hypoglycaemia to risk of cardiovascular events remains uncertain.1, 13 More recent results from the SAVOR‐TIMI 53 study in patients with T2DM and renal impairment have shown an increase in hypoglycaemia and major cardiovascular events in patients with moderate but not severe renal impairment, potentially attributable to higher rates of concomitant medication use in the moderately impaired group.14
+
+In conclusion, alogliptin improved glycaemic control without increasing hypoglycaemia. We found no association between baseline HbA1c levels or HbA1c levels within 1 month of initiating treatment with the risk of MACE. Reported “serious” hypoglycaemic events were significantly associated with MACE but when the analysis was limited to MACE that occurred subsequent to a serious hypoglycaemic event, the association was less robust and no longer statistically significant. These data underscore the safety of alogliptin in improving glycaemic control in T2DM post‐ACS. Together with findings from the ADVANCE, ACCORD and SAVOR‐TIMI 53 trials, the findings of the present analysis support the notion that events of incapacitating hypoglycaemia in T2DM may portend increased risk of major cardiovascular events, in which the concomitant use of insulin and/or sulphonylureas with a DPP‐4 inhibitor may play a role. Further research is warranted to understand the temporal relationship and prognostic value of hypoglycaemia in patients treated for T2DM to events of the MACE composite.
+Conflict of interest
+S.R. Heller: Research Grant; Takeda, NovoNordisk, Eli Lilly, Sanofi Aventis. Consultant/Advisory Board; Takeda, NovoNordisk, Eli Lilly. R.M. Bergenstal: Consultant/Advisory Board; Abbott Diabetes Care, Amylin, AstraZeneca, Bayer, Takeda, Becton Dickinson, Calibra, Eli Lilly, Halozyme, Johnson and Johnson, Medronic, NovoNordisk, Resmed, Roche, Sanofi. W.B. White: consulting/personal fees as Chair, Steering Committee for EXAMINE, Takeda. S. Kupfer: Full time employee of Takeda. G.L. Bakris: Research Grant; Takeda, Medtronic, Relypsa. Consultant/Advisory Board; Abbvie, CVRx, Janssen, Eli Lilly, Medtronic, Novartis, GSK, Bayer. W.C. Cushman: Research Grant; Boehringer‐Ingelheim, Lilly. C.R. Mehta: None. S.E. Nissen: None. C. Wilson: Full time employee of Takeda. F. Zannad: Consultant/Advisory Board; Servier, Resmed, Janssen, Novartis, Air Liquide, Cardiorenal diagnostics, CVCT, Biotronik, St. Jude, Boston Scientific. Consultant/Advisory Board; Takeda, Pfizer. Yuyin Liu: Full time employee of Takeda. Noah M. Gourlie: Full time employee of Takeda. C.P. Cannon: Research Grant; Takeda, Accumetrics, Arisaph, Astr
+
+Author contributions
+S. R. H. researched data and contributed to/reviewed and edited the manuscript; R. M. B. researched data; W. B. W. contributed to/reviewed and edited the manuscript; S. K. performed analyses and reviewed the manuscript; G. L. B., W. C. C., C. R. M., and S. E. N. reviewed and edited the manuscript; C. W. performed analyses and reviewed the manuscript; F. Z. reviewed the manuscript; Y. L. performed analyses and reviewed the results; N. M. G. contributed to and edited the manuscript; C. P. C. designed analyses and reviewed the manuscript.
+
+
+Supporting information
+
+Table S1. Additional antidiabetic medications at baseline and month 16 by treatment group.
+
+Table S2. Rate of composite MACE by lowest achieved HbA1c and treatment group.
+Click here for additional data file.
+

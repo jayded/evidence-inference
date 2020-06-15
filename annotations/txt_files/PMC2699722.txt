@@ -1,0 +1,499 @@
+OBJECTIVE
+To assess whether providing customized clinical information to patients and physicians improves safety or quality of diabetes care.
+
+RESEARCH DESIGN AND METHODS
+Study subjects included 123 primary care physicians and 3,703 eligible adult diabetic patients with elevated A1C or LDL cholesterol, who were randomly assigned to receive customized feedback of clinical information as follows: 1) patient only, 2) physician only, 3) both the patient and physician, or 4) neither patient nor physician. In the intervention groups, patients received customized mailed information or physicians received printed, prioritized lists of patients with recommended clinical actions and performance feedback. Hierarchical models were used to accommodate group random assignment.
+
+RESULTS
+Study interventions did not improve A1C test ordering (P = 0.35) and negatively affected LDL cholesterol test ordering (P < 0.001) in the 12 months postintervention. Interventions had no effect on LDL cholesterol values (P = 0.64), which improved in all groups over time. Interventions had a borderline unfavorable effect on A1C values among those with baseline A1C ≥7% (P = 0.10) and an unfavorable effect on A1C values among those with baseline A1C ≥8% (P < 0.01). Interventions did not reduce risky prescribing events or increase treatment intensification. Time to next visit was longer in all intervention groups compared with that for the control group (P < 0.05).
+
+CONCLUSIONS
+Providing customized decision support to physicians and/or patients did not improve quality or safety of diabetes care and worsened A1C control in patients with baseline A1C ≥8%. Future researchers should consider providing point-of-care decision support with redesign of office systems and/or incentives to increase appropriate actions in response to decision-support information.
+
+Despite recent improvements in glucose, blood pressure, and LDL cholesterol (LDL) control in adults with diabetes (1), <15% of adults with diabetes were simultaneously at the goal for these three critically important components of care as recently as 2007 (2). Research studies document substantial ongoing problems with safety of diabetes care as well. Risky prescribing events are common and may occur in ∼12% of adults with diabetes annually (3). Errors of omission, defined as failure to intensify pharmacotherapy when indicated, affect 30–65% of adults with diabetes (4).
+Only ∼30% of U.S. physicians currently have access to comprehensive outpatient electronic medical records (EMRs) (5). However, many medical groups have electronic laboratory, diagnosis, and/or pharmacy databases that can be used to generate reminders and suggestions for future care based on results of past actions. In general, information feedback is most effective in altering behavior when it is tailored (customized) to the conditions on which performance is based (6). Simple outcome feedback is only weakly related to improvements in performance across a variety of complex problem-solving and decision-making tasks (7,8). Feedback to physicians has been shown to be most effective in bringing about change in physician behaviors when it is keyed to clearly identified components in specific diagnostic and patient management tasks (9,10). On the patient side, the capacity to make decisions is enhanced when 1) patients are given specific information regarding their progress in achieving specific health outcomes and 2) this information is discussed with their health care providers (11).
+Few studies have assessed the effectiveness of coordinated interventions targeted simultaneously to physicians and to their patients. However, a Cochrane collaborative review of strategies to improve diabetes care reported that interventions that combine patient components with other components (physician or organization of care) are the most potent intervention strategies (12). One classic study (13) showed in 1985 that coordinated patient and physician interventions were more effective than those aimed at one or the other group. Limits of that study included a very expensive intervention model and the fact that A1C fell only from 11 to 10%. A more recent report of a coordinated patient and physician intervention (14) showed that intensive (and very expensive), noncustomized feedback to patients and their physicians reduced A1C by 0.5% (to 8.3%). Importantly, the coordinated feedback strategy was acceptable to physicians. However, in that intervention, most physicians received feedback on only one of their patients, so it did not take advantage of transfer of learning by physicians to other patients when they receive customized feedback on multiple patients (15).
+Based on these and other considerations, we hypothesized that a potent intervention to improve quality and safety of diabetes care in the absence of EMRs would be to extract clinical data from automated databases and provide clinical decision support guided by past patient-specific physician actions with coordinated interventions targeted to their patients. For this purpose, we developed an approach to improve diabetes care that was designed to encourage both patient activation and guide physician intensification of therapy. Customized interventions, such as the automated one described here, are simple and inexpensive and have the potential of being acceptable to most patients, while fitting easily into routine primary care practice settings.
+RESEARCH DESIGN AND METHODS
+Hypothesis
+This clinic-randomized trial was designed to assess whether feedback of specific clinical information to patients only, physicians only, or both patients and their physicians improved quality or safety of diabetes care compared with that for a usual-care control group with no intervention.
+
+Study setting and study subjects
+This study was conducted from 2002 to 2005 at HealthPartners Medical Group (HPMG), a Minnesota multispecialty medical group providing care to ∼7,000 adults with diagnosed diabetes at 18 clinics. At HPMG most diabetes care is provided by primary care physicians (PCPs) with support from diabetes educators. Approximately 10% of diabetic patients were seen by an endocrinologist or endocrine nurse clinician each year, most often for a single visit. Approximately 30% of diabetic patients had an encounter with a diabetes teaching nurse or dietitian each year, most often for a single one-on-one visit. Additional data on the study population have been published previously (16).
+The study included all HPMG PCPs providing ongoing care to at least 10 adults with diabetes in 2001. The study included all patients of study PCPs who met the study criteria for diagnosis of diabetes in a 12-month time period: two or more ICD-9 diagnosis codes for diabetes or a filled prescription for a diabetes-specific drug. This method of diabetes identification has an estimated sensitivity of 0.91 and positive predictive value of 0.94 in the study population (17).
+
+Definition and measurement of variables: glycemic and lipid control
+All A1C tests at HPMG were done at one accredited clinical chemistry laboratory using a standard high-pressure chromatography assay method (18) with a coefficient of variation of 0.058% at A1C of 8.8%. There were no changes in the assay method during the study period. Direct assays of total cholesterol, HDL cholesterol, and triglycerides (minimum 10 h fast) were done using standard assay methods at the same laboratory with LDL cholesterol calculated using the Friedewald equation only if triglycerides were <400 mg/dl. All A1C and LDL cholesterol values and test dates were recorded for a defined 12-month period before and a 12-month period after the date of the first intervention. If multiple A1C or LDL cholesterol tests were done within a period, the most recent value was analyzed.
+
+Quality and safety of diabetes care
+We classified patients as receiving high-quality and safe medical care if they either achieved A1C and LDL cholesterol goals with no inappropriate pharmacotherapy or were above the A1C or LDL cholesterol goal but received appropriate pharmacotherapy within 4 months. Appropriate pharmacotherapy was defined as initiation of therapy, an increase in doses of appropriately chosen agents, or addition of an appropriately chosen agent in response to A1C or LDL cholesterol values above goal. Dose increases for specific glycemic control agents and lipid control agents were assessed based on dose in milligrams per day, as calculated for each drug for each patient. Insulin titration could not be assessed because of limited data in pharmacy databases.
+Inappropriate pharmacotherapy included reducing dose or withdrawing medications, failing to intensify treatment when A1C or LDL cholesterol were above the goal, or risky prescribing events including the following: 1) use of metformin in a patient with congestive heart failure (ICD-9 code 428) or with creatinine >1.5 mg/dl or alanine aminotransferase (ALT) >4 × normal; 2) use of thiazolidinediones in a patient with congestive heart failure or ALT >2.5 × normal; 3) use of a statin in a patient with ALT >4 × normal; or 4) use of both a statin and fibrate in a patient with creatine phosphokinase >2 × normal.
+
+Other variables
+Patient data extracted from computerized databases included age, sex, A1C and LDL cholesterol values, coronary artery disease status based on ICD-9 and Current Procedural Terminology, 4th edition, codes, eligibility for glucose or lipid intervention, creatinine levels, and medication prescriptions filled.
+
+Description of interventions
+Customized physician intervention.
+Physicians received a printed list of their diabetic patients every 4 months. Patients were prioritized based on distance from A1C or LDL cholesterol goal, and the list included patient laboratory data, medications, comorbidity, and renal function. Decision-support feedback included in the list to each physician focused on one or more of the following for each patient:
+Reminders for overdue A1C or LDL cholesterol tests.
+Recommendation to intensify pharmacotherapy if A1C or LDL cholesterol was above the goal and there was no treatment intensification in the prior 4 months.
+Notification of inappropriate pharmacotherapy. If patients were receiving any potentially risky treatments, a specific alternative treatment was suggested.
+ Performance feedback was also provided every 4 months to physicians receiving this intervention. Feedback ranked each provider on the percentage of their diabetic patients at the goal relative to other physicians in their clinic and in the medical group.
+
+Customized patient intervention.
+Patients assigned to this intervention who were not at the goal for either A1C or LDL cholesterol received a mailed customized 4-page brochure every 4 months that included the following components:
+A summary of the patient's current condition. A graph showed personal trends in A1C and LDL cholesterol values over at least a 12-month period and noted that the patient was above the goal for A1C, LDL cholesterol or both.
+General medication recommendations. Patients were encouraged to see their physician soon and were given a customized checklist of items to discuss with him or her, including the following: a) if the patient was taking no medications, initiation of pharmacotherapy was suggested; b) if the patient was receiving pharmacotherapy, adjustment of therapy was suggested; and c) if inappropriate pharmacotherapy was identified, caution and a discussion with the physician were suggested.
+Outline of the benefits of decisions (and behaviors) to reduce A1C or LDL cholesterol.
+ No incentives were provided to either patients or providers to take recommended actions. No specific training was provided to clinics other than a brief explanation to participating physicians advising collaboration with their nurses and each clinic's diabetes educator in pursuing recommended therapeutic actions. EMR technology was not used to generate or provide diabetes clinical decision support during this study.
+
+
+Plan of analysis
+Preintervention patient characteristics were compared across the four study groups using logistic regression, a general linear model, or a Kruskal-Wallis test, as appropriate, to identify characteristics not equally distributed after group randomization. Three planned contrasts identified intervention groups that differed from the control group. The hypothesis that interventions improved care was tested using general (normal error distribution and identity link function) or generalized (binomial error and logit link) linear mixed regression models (19). Postintervention outcomes were predicted from physician and patient intervention main effects and their interaction, a set of covariates (i.e., age, sex, preintervention test values [A1C or LDL cholesterol], coronary artery disease status, insulin use, and glucose or lipid intervention eligibility), and significant covariate-by-intervention parameters to estimate and describe intervention effects that were different across patient groups. Three planned contrasts were used to compare each intervention group with the control group. All analyses were performed using SAS version 9.0 (α2 = 0.05) and were limited to patients with prerandomization A1C ≥7% or LDL cholesterol ≥100 mg/dl who were enrolled 1 year before and after the intervention. With N = 123 providers and an average of 30 eligible patients per physician and assuming intraclass correlation coefficientphysician = 0.01–0.05, the analysis was powered to detect standardized effect sizes of d = 0.11–0.14 for the main effects and d = 0.15–0.20 for the interaction and, for binary outcomes, main effect increases of 0.07–0.10 relative to 0.30 (or 0.70) and for interaction effects of 0.10–0.14 relative to 0.35.
+
+Protection of human subjects
+This study was reviewed, approved in advance, and monitored by the HealthPartners Institutional Review Board (project 01-053).
+
+
+RESULTS
+Table 1 shows a comparison of baseline characteristics of study subjects in each intervention group. Because the study was randomized at the clinic level, it was not surprising to find some baseline patient covariate imbalance across groups. These data guided covariate adjustment in subsequent analyses.
+Table 1Description of patients and physicians participating in the randomized trial
+AllIntervention groupP*ControlPatientPhysicianBothPatients
+
+
+
+
+
+
+    n
+3,703
+847
+869
+1,041
+946
+
+    Age as of intervention date (years)
+56.1 ± 12.1
+56.3 ± 11.7
+57.2 ± 12.2
+56.3 ± 12.6
+54.8 ± 11.8‖
+0.001
+    Age ≥65 years (% yes)
+26.4
+26.4
+29.8
+27.2
+22.4§
+0.005
+    Sex (% female)
+46.1
+45.7
+49.1
+47.7
+42.0
+0.02
+    CAD in 12 months preintervention (% yes)
+11.1
+12.0
+11.2
+11.2
+9.9
+0.55
+    Charlson score in 12 months preintervention (% Charlson = 2)
+22.3
+21.5
+20.5
+26.2§
+20.5
+0.005
+    Insulin use at baseline (% yes)
+30.4
+31.6
+28.7
+27.7
+34.0‡
+0.01
+    Lipid intervention eligible (% yes)
+61.9
+59.3
+61.9
+62.8
+63.2+
+0.17
+    Glucose intervention eligible (% yes)
+66.8
+61.7
+68.4‖
+68.7‖
+67.8‖
+0.005
+    Preintervention A1C†
+7.2
+7.1
+7.2§
+7.2§
+7.2‖
+0.05
+    Postintervention A1C†
+7.0
+6.9
+7.0‖
+7.1‖
+7.1‖
+0.005
+    Preintervention LDL cholesterol†
+103
+104
+102
+102
+104
+0.19
+    Postintervention LDL cholesterol†
+89
+88
+89
+89
+89
+0.76
+    Preintervention A1C†
+7.53 ± 1.6
+7.42 ± 1.6
+7.53 ± 1.6
+7.55 ± 1.6§
+7.60 ± 1.6§
+0.10
+    Postintervention A1C†
+7.36 ± 1.5
+7.20 ± 1.4
+7.3 ± 1.5§
+7.43 ± 1.6§
+7.43 ± 1.6‖
+0.01
+    Preintervention LDL cholesterol†
+108.0 ± 31.9
+108.6 ± 31.7
+107.4 ± 32.5
+106.4 ± 31.2
+109.6 ± 32.3
+0.21
+    Postintervention LDL cholesterol†
+93.2 ± 30.5
+92.2 ± 29.5
+93.3 ± 30.0
+94.1 ± 31.7
+93.3 ± 30.6
+0.72
+Physicians
+
+
+
+
+
+
+    n
+123
+32
+27
+37
+27
+
+    Eligible patients per physician
+30.1
+26.5
+32.2
+28.1
+35.0
+0.27
+Data are means ± SD or median.
+*Omnibus test of significance for differences across intervention groups.
+†
+‡P < 0.10;
+§P < 0.05;
+‖P < 0.01 for planned comparison of intervention group relative to control group. CAD, coronary artery disease.
+Table 2 shows that A1C and LDL cholesterol improved in all groups during the study period. Among the n = 3,702 patients with a preintervention A1C test, A1C test rates were significantly lower in the three intervention groups (Mpt = 67.0, Mphys = 70.7, and Mpt × phys = 66.0) compared with that for the control group (Mc = 76.9) among patients not using insulin 6 months postintervention, whereas the A1C test rate only dropped in the physician intervention among insulin users (Mc = 76.2, Mpt = 74.8, Mphys = 70.0, and Mpt × phys = 74.8). There were no significant differences in A1C test rates among groups at 12 months postintervention. Among patients with preintervention A1C ≥8%, the impact of the intervention depended on the patient's age, sex, and insulin use. Patients using insulin had higher A1C values than those not using insulin, and their A1C values did not differ significantly across the four groups (Mc = 8.93, Mpt = 8.70, Mphys = 9.09, and Mpt × phys = 8.58), whereas those patients not using insulin in the three active intervention groups had higher A1C values than those in the control group (Mc = 8.04, Mpt = 8.53, Mphys = 8.64, and Mpt × phys = 9.08).
+Table 2Impact of intervention group assignment on A1C and LDL cholesterol testing rates and values
+AllIntervention groupP*ControlPatientPhysicianBothA1C testing rate: 1+ test in 6 months (any preintervention A1C value†)
+
+
+
+
+
+
+    n
+3,107
+715
+718
+895
+779
+Ppt = 0.34
+    Preintervention (%)
+100
+100
+100
+100
+100
+Pphys = 0.16
+    Postintervention (%)
+71.2
+76.6
+69.2††
+70.5**
+68.9††
+Ppt × phys = 0.10
+A1C testing rate: 1+ test in 12 months (any preintervention A1C value)
+
+
+
+
+
+
+    n
+3,107
+715
+718
+895
+779
+Ppt = 0.76
+    Preintervention (%)
+100
+100
+100
+100
+100
+Pphys = 0.07
+    Postintervention (%)
+86.1
+87.8
+87.2
+85.4
+84.2
+Ppt × phys = 0.91
+A1C values (any preintervention A1C value)
+
+
+
+
+
+
+    n
+2,673
+628
+626
+763
+656
+Ppt = 0.51
+    Preintervention
+7.47 ± 1.5
+7.39 ± 1.5
+7.47 ± 1.5
+7.49 ± 1.5
+7.52 ± 1.5
+Pphys = 0.08
+    Postintervention
+7.35 ± 1.5
+7.20 ± 1.4
+7.35 ± 1.4
+7.42 ± 1.5**
+7.41 ± 1.6¶
+Ppt × phys = 0.10
+Preintervention A1C ≥8%§
+
+
+
+
+
+
+    n
+658
+149
+152
+184
+173
+Ppt = 0.81
+    Preintervention A1C
+9.45 ± 1.4
+9.44 ± 1.4
+9.47 ± 1.4
+9.43 ± 1.5
+9.48 ± 1.3
+Pphys = 0.02
+    Postintervention A1C
+8.71 ± 1.7
+8.50 ± 1.8
+8.60 ± 1.6††
+8.85 ± 1.8††
+8.85 ± 1.8‡‡
+Ppt × phys = 0.71
+LDL cholesterol testing rate: 1+ test in 12 months (any preintervention LDL cholesterol value)§
+
+
+
+
+
+
+    n
+2,547
+614
+569
+716
+648
+Ppt = 0.85
+    Preintervention (%)
+100
+100
+100
+100
+100
+Pphys = 0.02
+    Postintervention (%)
+79.3
+83.2
+80.1**
+76.3††
+78.2††
+Ppt × phys = 0.10
+LDL cholesterol values (mg/dl) (preintervention LDL cholesterol ≥ 100 mg/dl)
+
+
+
+
+
+
+    n
+991
+254
+221
+267
+249
+Ppt = 0.37
+    Preintervention LDL cholesterol
+128 ± 26
+128 ± 25
+128 ± 28
+129 ± 27
+129 ± 26
+Pphys = 0.33
+    Postintervention LDL cholesterol‖
+104 ± 31
+104 ± 32
+101 ± 27
+106 ± 34
+105 ± 31
+Ppt × phys = 0.75
+Data are means ± SD or percent unless otherwise indicated.
+*Ppt = P value for type III patient main effect; Pphys = P value for type III physician main effect; Ppt × phys = P value for type III patient × physician interaction.
+†Significant covariate × treatment parameter: insulin use × pt.
+‡Significant covariate × treatment parameters: age × pt, age × pt × phys, male × pt, male × phys, male × pt × phys, insulin use × pt, insulin use × phys.
+§Significant covariate × treatment parameter: male × pt.
+‖Significant covariate × treatment parameters: LDL cholesterol × phys, age × pt, glucose eligible × phys, insulin use × phys.
+¶P < 0.10;
+**P < 0.05;
+††P < 0.01;
+‡‡P < 0.001 for planned comparison of intervention group relative to control group.
+Among 2,547 subjects with a preintervention LDL cholesterol test, LDL cholesterol test rates in the 12-month postintervention period were significantly lower for all three intervention groups than for the control group. Among 508 patients without preintervention LDL cholesterol values, there were no significant differences in postintervention LDL cholesterol test rates (55.1%, P = 0.21; not shown). Among the 991 patients with preintervention LDL cholesterol ≥100 mg/dl, those with particularly high values tended to have higher postintervention LDL cholesterol values, even more so in the two provider intervention groups. Patients in the two provider groups who used insulin tended to have higher LDL cholesterol values (Mphys = 109 and Mpt × phys = 105) relative to the control group (Mc = 100) and patient (Mpt = 97) intervention groups, whereas patients in all four groups who did not use insulin had equally high LDL cholesterol values (Mc = 105, Mpt = 103, Mphys = 105, and Mpt × phys = 105).
+Table 3 presents data that reflect the impact of the interventions on pharmacotherapy intensification in patients with baseline LDL cholesterol ≥100 mg/dl (n = 1,283) or baseline A1C > = 7% (n = 1,037 not receiving insulin therapy; n = 1,683 including those receiving insulin therapy). Adjusted models show no significant impact of any of the three interventions on the likelihood of intensification among those not at the A1C or LDL cholesterol goals. This result supports the null hypothesis that the study interventions did not improve quality of diabetes care.
+Table 3Impact of interventions on lipid and glucose medication initiations and titration
+AllIntervention groupP*ControlPatientPhysicianBothLipid moves: any hyperlipidemia medication initiation or titration in the 12 months postintervention (preintervention LDL cholesterol ≥100 mg/dl)
+
+
+
+
+
+
+    n
+1,283
+310
+288
+352
+333
+Ppt = 0.39
+    Lipid medication preintervention (%)
+49.9
+47.1
+51.4
+54.3
+46.5
+Pphys = 0.34
+    Lipid move postintervention (%)
+34.7
+35.2
+37.5
+32.4
+34.2
+Ppt × phys = 0.88
+Glucose moves: any diabetes medication initiation or titration in the 12 months postintervention (preintervention A1C ≥7%)
+
+
+
+
+
+
+    n
+1,037
+207
+256
+317
+257
+Ppt = 0.31
+    Glucose medication preintervention (%)
+89.3
+88.4
+89.5
+89.6
+89.5
+Pphys = 0.52
+    Glucose move postintervention (%)
+33.8
+35.3
+34.4
+31.9
+34.6
+Ppt × phys = 0.86
+Glucose starts: any diabetes medication initiation in the 12 months postintervention (preintervention A1C ≥7%)
+
+
+
+
+
+
+    n
+1,683
+360
+394
+501
+428
+Ppt = 0.16
+    Glucose medication preintervention (%)
+93.4
+93.3
+93.1
+93.4
+96.7
+Pphys = 0.41
+    Glucose start postintervention (%)
+18.1
+19.7
+18.3
+17.0
+17.8
+Ppt × phys = 0.67
+*Ppt = P value for type III patient main effect; Pphys = P value for type III physician main effect; Ppt × phys = P value for type III patient × physician interaction.
+We assessed 12 specific defined instances of inappropriate pharmacotherapy for A1C or LDL cholesterol control. The baseline frequency of inappropriate pharmacotherapy was low. Therefore, we consolidated these instances into larger categories but still found no significant differences related to the interventions. Although power may be an issue here, other studies suggested that at this sample size and with similar error rates, other error reduction strategies may significantly reduce error rates.
+To help understand the main results, we performed unplanned exploratory analyses among patients with a preintervention A1C or LDL cholesterol value above goal. The mean ± SD time to the first primary care visit was 52.8 ± 63.5 days. Patients exposed to the patient letter took longer to have a primary care visit than those in the control group (hazard ratio 0.68 [95% CI 0.55–0.85], P < 0.001). Patients in the physician treatment group were also slower to have a primary care visit (0.86 [95% CI 0.76–0.98], P < 0.03), but the interaction between patient and physician treatments was not statistically significant (0.68, P = 0.14).
+
+CONCLUSIONS
+In this randomized trial, providing customized interventions to patients and physicians 1) failed to increase LDL cholesterol or A1C testing rates, 2) failed to improve LDL cholesterol levels, 3) had a detrimental effect on those with baseline A1C ≥8% and a marginally negative effect on A1C levels in subjects with baseline A1C ≥7%, 4) failed to reduce a set of 12 risky prescribing events, and 5) delayed time to the next primary care visit.
+Patient intervention
+In a 2006 review of diabetes quality improvement efforts, Shojania et al. (20) in a meta-regression model with adjustment for baseline A1C and trial sample size showed that 14 controlled trials of patient reminders reduced A1C an absolute 0.11% (P = 0.40) and 38 controlled trials of patient education reduced A1C an absolute 0.15% (P = 0.20). Other reviews also suggested only a modest impact of patient activation or patient education interventions (12,21). Some prior reports document unanticipated or negative patient responses to mailed clinical information (22).
+Analysis confirmed that patients in all three intervention groups had significantly delayed time to the next primary care visit, a visit that was advised in the patient letters. Time to next visit was 46 days in the control group, 52 days in the physician only intervention group, and 56 days in both groups exposed to the patient letter. This delay, contrary to what we anticipated, suggests that some patients may have reacted negatively to the letter. An alternative possibility, that patients delayed visits to work on lifestyle changes, is not supported by the pattern of worsening A1C values in the intervention groups. Whatever the reason, a delay in visits reduced the ability of physicians and patients to adjust pharmacotherapy based on the clinical information they had received.
+Other features of our patient intervention may have contributed to their unexpectedly negative results. We customized patient letters to levels of A1C and LDL cholesterol and not to “readiness to change,” medication adherence, or other behavioral patterns. Low health literacy, innumeracy, or cognitive impairment may have distorted the interpretation of quantitative information by some patients (23). The information in some patient letters may have been outdated, discordant with previous advice, or perceived as indicating that the patients were receiving substandard care from their current physician. Additional research is needed to document benefits and rule out unintended consequences of customized mailings of clinical data to diabetic patients.
+
+Physician intervention
+The need for clinical decision support and the desirability of customizing care to individual patients were the guiding principles of the physician intervention and are strongly supported by the literature. Although the information provided to physicians was specific for the patients under their care, various operational challenges probably contributed to the failure of the intervention. Among these was the fact that the batched clinical data provided to physicians was typically ≥6 weeks out of date by the time physicians received it and were expected to take action. A delay in providing information on the consequences of past action has significant detrimental effects on how it is interpreted and used (24). Moreover, physicians received patient lists with decision support every 4 months, rather than receiving the information at the time of patient visits. The intervention did not include office system redesign, team care models, or incentives to maximize use of the information provided or assure that patients made appointments to discuss recommended changes in care (25).
+
+Limitations of the study
+There are a number of factors that limit the interpretation of the data. First, the study was conducted at a single medical group, and results should be generalized to other populations only with caution. Second, the interventions were done without the benefit of EMR technology capable of providing more up-to-date clinical information at the point of care.
+In summary, physician and patient decision support, in the absence of a personal patient encounter, EMR support, incentives, and office systems designed to support use of the information provided, failed to improve diabetes care and worsened diabetes care for many patients. Customized patient mailings such as those tested in this study are being widely implemented in an unevaluated way by many large medical groups and disease management programs on the assumption that such communications will improve diabetes care. Based upon our results, this practice should be questioned, and further efforts to substantiate purported benefits are urgently needed.
+
+

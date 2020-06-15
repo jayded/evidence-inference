@@ -1,0 +1,252 @@
+Objective:
+To evaluate the cost-effectiveness of caspofungin vs. liposomal amphotericin B in the treatment of suspected fungal infections in the UK.
+
+Methods:
+The cost-effectiveness of caspofungin vs. liposomal amphotericin B was evaluated using a decision-tree model. The decision tree was populated using both data and clinical definitions from published clinical studies. Model outcomes included success in terms of resolution of fever, baseline infection, absence of breakthrough infection, survival and quality adjusted life years (QALYs) saved. Discontinuation due to nephrotoxicity or other adverse events were included in the model. Efficacy and safety data were based on additional analyses of a randomised, double blind, multinational trial of caspofungin compared with liposomal amphotericin B. Information on life expectancy, quality of life, medical resource consumption and costs were obtained from peer-reviewed published data.
+
+Results:
+The caspofungin mean total treatment cost was £9762 (95% uncertainty interval 6955–12 577), which was £2033 (−2489; 6779) less than liposomal amphotericin B. Treatment with caspofungin resulted in 0.40 (−0.12; 0.94) additional QALYs saved in comparison with liposomal amphotericin B. Probabilistic sensitivity analysis found a 95% probability of the incremental cost per QALY saved being within the generally accepted threshold for cost-effectiveness (£30 000). Additional analyses with varying dose of caspofungin and liposomal amphotericin B confirmed these findings.
+
+Conclusion:
+Given the underlying assumptions, caspofungin is cost-effective compared with liposomal amphotericin B in the treatment of suspected fungal infections in the UK.
+
+Controlling healthcare budgets is a major priority for all healthcare systems. In the UK, recommendations for the role of specific treatments and disease management guidelines are produced by organisations such as the National Institute of Clinical Excellence (NICE). These recommendations are usually based on cost-effectiveness (utility) analysis that compares therapies based on a combination of outcomes. These include: clinical outcomes (resolution of infection, observed mortality, projected mortality based on age and disease of patients alive), economic outcomes (such as overall treatment costs, including drug acquisition costs, costs due to adverse events, length of stay (LOS) and treatment switches) and humanistic outcomes (quality of life or utility scores). In practice, little if any direct cost-effectiveness analysis exists to support such decisions.
+Our paper focuses on an economic evaluation of antifungal drugs. The economic burden of fungal infections is high (1). Novel antifungal drugs seem to contribute to the increased cost of treating systemic fungal infections. The ever more aggressive and immunosuppressive treatment regimens employed in haematology–oncology result in longer periods of neutropenia, which in turn have driven the need for more effective agents against opportunistic infections. Much of this is contributed to infections by Aspergillus spp. Accordingly, new agents effective against such moulds, such as voriconazole, posaconazole and echinocandins, are now of considerable interest to clinicians wishing to eradicate tumour whilst protecting against, or treating, invasive fungal infections, which continue to rise inexorably (2–4).
+In the UK, accepted standard practice for neutropenic patients with persistent fever includes antifungal therapy with either conventional amB or liposomal amphotericin B (L-Amb) (5, 6). An economic analysis in the USA demonstrated average treatment costs of about $50 000 with L-Amb and $43 000 with conventional amB (7). These economic analyses are usually based on head-to-head clinical trials of antifungal drugs (8, 9). L-Amb was found to be as effective as conventional amB, but associated with less nehprotoxicity, less infusion-related events and less breakthrough infections (9). Consequently, L-Amb is the preferred amphotericin formulation in the majority of centres in the UK.
+Caspofungin has been recently licensed in the UK for empirical therapy for presumed fungal infections (such as Candida or Aspergillus) in febrile, neutropenic adult patients. This licence was based upon a randomised, double blind, multinational study which used L-Amb as a comparator and demonstrated comparable efficacy as well as significantly less nephrotoxicity (2.6% vs. 11.5%), defined as a doubling of the serum creatinine level or, if the creatinine level was elevated at enrolment, an increase of at least 1 mg per decilitre and other drug-related events (5% vs. 8%) for the caspofungin treated arm (8). Voriconazole neither included as a comparator in this analysis given there is no head-to-head data comparing voriconazole with caspofungin, nor indicated in empirical therapy.
+Randomised controlled trials (RCT) are normally not designed to address questions of economic relevance unlike health economic-based models. Economic models integrate the efficacy and safety data obtained from published clinical trials, and medical resource consumption and quality of life (utility) information obtained from the published literature, expert opinion and database analysis. They additionally make explicit the uncertainties generated by such a combination of information. Accordingly, we evaluated the cost-effectiveness of caspofungin and L-Amb for the treatment of suspected fungal infections in the UK.
+Both L-Amb and caspofungin are relatively expensive agents compared with older antifungals. Additionally, a recent review by Jorgensen et al. (2006) concluded that L-Amb is the preferred therapy in suspected fungal infections (6, 10). We therefore, conducted this study to determine whether one would be superior to the other in terms of value for money.
+Methods
+Model structure
+A decision-analytic model (Fig. 1) was developed to estimate the cost-effectiveness of caspofungin (70 mg on day one and 50 mg once daily thereafter) vs. L-Amb (3 mg/kg per day for an average patient weighing 77 kg (based on data for UK patients).
+Figure 1Decision-tree model for cost-effectiveness evaluation of caspofungin vs. liposomal amphotericin B in the treatment of suspected.
+Patients were differentiated according to the presence (branches P1–P6) or absence of baseline infection (branches P7–P12). A baseline infection was defined as the presence of a proven or probable infection on the first or second day of the antifungal treatment (11). Patients dying prior to 7 d on initial therapy were collapsed into two branches (P6 and P12), irrespective of premature discontinuation of therapy or clinical failure. This was conducted to reduce model complexity and since cause of death could not be ascertained. However, nephrotoxicity being a cost driver was estimated within patients that died. Therefore, our costing process took into consideration the incidence of nehprotoxicity amongst patients that died on initial therapy (P6 and P12). A patient that survived initial therapy (branches P1–P5 and P7–P11) could either continue their initial therapy (P1–P3 and P7–P9) or discontinue due to drug-related toxicity. Nephrotoxicity (P4 and P10) being a significant cost-driver was differentiated from other drug-related adverse events (P5 and P11).
+A patient categorised as successful in branch P1 was defined as having complete resolution of baseline fungal infection, including resolution of their fever during the neutropenic period, no premature discontinuation of therapy due to drug-related toxicity, and survival for 7 d after completion of therapy. A patient categorised as successful in group P7 (those without a baseline infection) had resolution of fever during the neutropenic period and no breakthrough fungal infection (defined as absence of infection from day 3 onward) during therapy or within 7 d after the completion of therapy, no premature discontinuation of therapy due to drug-related toxicity, and survival for 7 d after completion of therapy. These definitions of success are in accordance with the five-component end point used in clinical trials on empirical antifungal treatments (6, 8, 9, 12, 13).
+For pragmatic reasons, we assumed that a patient does not discontinue due to lack of efficacy, as most of these patients have been accounted for in other branches related to adverse clinical outcomes (P3, P6, P9, P12). An additional analysis of the trial by Walsh et al. (2004) supports this assumption (8). If a patient discontinued initial therapy due to toxicity, a switch to a second line antifungal drug took place (from caspofungin to L-Amb or vice versa). Mortality and costs of these second line antifungal drugs were also included in the model.
+The following data were estimated to use within our model:
+(1) Probability that the patient has a successful outcome, or dies on initial treatment. The conditional probabilities of efficacy, survival and discontinuation of initial therapy (Table 1) were based on additional analyses of the RCT which assessed the efficacy and safety of caspofungin compared with L-Amb in empirical therapy (8).
+Table 1Conditional probabilities of discontinuation and efficacy of first line treatment as used in model
+CaspofunginL-AmbBaseline infection
+0.05 (0.03–0.07)
+0.05 (0.03–0.07)
+Survival*
+0.93 (0.85–1.00)
+0.66 (0.37–0.74)
+Continuation of initial antifungal drug*
+0.96 (0.94–0.97)
+0.91 (0.89–0.94)
+Resolution of baseline infection*
+0.56 (0.37–0.75)
+0.36 (0.11–0.61)
+Discontinuation due to toxicity *
+0.04 (0.03–0.06)
+0.09 (0.06–0.11)
+Success (P1)*
+0.29 (0.05–0.52)
+0.40 (0.00–0.80)
+Resolution of baseline infection, no resolution of fever (P2)*
+0.71 (0.48–0.95)
+0.60 (0.20–1.00)
+No resolution of baseline infection (P3)*
+0.44 (0.25–0.63)
+0.64 (0.39–0.89)
+Discontinuation due to nephrotoxicity (P4)*
+0.05 (0.00–0.09)
+0.22 (0.09–0.35)
+Discontinuation due to other adverse events (P5)*
+0.95 (0.91–1.00)
+0.78 (0.65–0.91)
+Death (P6)*
+0.07 (0.00–0.15)
+0.44 (0.26–0.63)
+No baseline infection
+0.95 (0.93–0.97)
+0.95 (0.93–0.97)
+Survival*
+0.93 (0.90–0.95)
+0.91 (0.89–0.93)
+Continuation of initial antifungal drug*
+0.96 (0.94–0.97)
+0.91 (0.89–0.94)
+Discontinuation due to toxicity
+0.04 (0.03–0.06)
+0.09 (0.06–0.11)
+Success (P7)*
+0.41 (0.37–0.46)
+0.42 (0.38–0.47)
+No resolution of fever (P8)*
+0.55 (0.50–0.59)
+0.54 (0.50–0.59)
+Breakthrough infection (P9)*
+0.04 (0.02–0.06)
+0.03 (0.02–0.05)
+Discontinuation due to nephrotoxicity (P10)*
+0.05 (0.00–0.09)
+0.22 (0.09–0.35)
+Discontinuation due to other adverse events (P11)*
+0.95 (0.91–1.00)
+0.78 (0.65–0.91)
+Death (P12)*
+0.07 (0.05–0.10)
+0.09 (0.07–0.11)
+*Conditional probabilities (probability given the knowledge that the event in the previous branch of the tree has occurred) with uncertainty ranges used for sensitivity analysis.
+(2) Life years lost: the expected life years lost per treatment arm were calculated by multiplying the probability of death on first line treatment (P6/P12) and the mortality observed on second line treatment (P4–P5 and P10–P11) with the life expectancy based on the underlying condition of patients enrolled in the study.
+The estimate for life years lost was based on the life expectancy of the underlying diagnoses. In the study by Walsh et al. (2004), 74% of the patients suffered from acute leukaemia, 11% from non-Hodgkin's lymphoma and 15% from other cancers. We used 1- and 5-yr UK survival data from 1998–2001 (National Statistics, Survival data England 1998–2001) to calculate life expectancy for each of these conditions (14). Survival probability for a patient with acute leukaemia was defined in the model according to figures reported within the acute myelogenous leukaemia (AML) trials of the Medical Research Council. Overall, this resulted in an average discounted life expectancy of 12.9 yr. For second line treatment, the probability of dying was assumed to be 24% (15–33%) based on the study by Maertens et al. (15) who evaluated patients with fungal infections who were intolerant or refractory to their first line antifungal agent.
+(3) Quality adjusted life years (QALYs) lost: this was determined by multiplying life years lost in each treatment arm by the utility (or quality of life score) based on the underlying condition. QALY estimates were discounted at 3.5% per year according to UK requirements.
+Each life year lost was valued with a weighted quality of life multiplier of 0.72 (0.50–0.94) in order to calculate the QALYs lost upon death. This utility value for the defined underlying conditions was based on the catalogue of preference scores 1997–2000 from the CEA Registry from the Harvard School of Public Health (http://www.hsph.harvard.edu). QALYs saved were determined as the difference between QALYs lost with caspofungin and L-Amb.
+(4) The cost evaluation included: expected antifungal drug costs (first line and second line), other direct costs (hospitalisation costs + drug costs related to adverse events) and overall costs. Costs were expressed in 2005 British Pounds (1 pound = 1.80 US dollar).
+Drug-related cost
+To estimate the total cost of the first line antifungal drug use, the average treatment duration by the type of patient was obtained from Walsh et al. (8). The average treatment duration of second line antifungal drug was assumed to be the same as the treatment duration of a patient that continued initial therapy. The total treatment duration for the patient that discontinued and switched therapy was calculated as the sum of average treatment duration of second line drug and the average treatment duration of the initial drug until discontinuation. Table 2 shows an overview of the treatment duration we used in the model. The cost per day for caspofungin was £417 for the first day (70 mg) and £328 per day (50 mg/d) from the second day onwards (MIMS September 2005). The cost for L-Amb for a 77-kg patient (3 mg/kg per day) was £483 per day (based on British National Formulary costs per vial of £96.69 in September 2005).
+Table 2Treatment duration and length of stay in the hospital due to treatment of suspected fungal infection by type of patient
+Length of hospital stay (days)Duration of initial treatment (days)Duration of second line treatment (days)With nephrotoxicityWithout nephrotoxicityPatient with baseline infection
+ Patient continued initial therapy and was successfully treated (P1)
+22.0 (13.5–30.5)
+–
+33.0 (16.2–49.8)
+24.0 (15.5–32.5)
+ Patient continued initial therapy, with resolution of baseline infection but no resolution of fever (P2)
+22.5 (15.3–29.7)
+–
+33.8 (18.3–49.2)
+24.5 (17.3–31.7)
+ Patient continued initial therapy, without resolution of baseline infection (P3)
+16.5 (8.2–24.8)
+–
+24.8 (9.9–39.6)
+18.5 (10.2–26.8)
+ Patient discontinued initial therapy due to nephrotoxicity (P4)
+13.6 (1.0–26.3)
+19.3 (11.4–27.3)
+49.5 (14.8–84.1)
+–
+ Patient discontinued initial therapy due to other adverse events (P5)
+13.6 (1.0–26.2)
+19.3 (11.4–27.3)
+49.4 (14.8–84.0)
+34.9 (14.4–55.5)
+ Patient died during initial therapy (P6)
+8.9 (6.8–11.0)
+–
+13.4 (7.9–18.5)
+10.9 (8.8–13.0)
+Patient without baseline infection
+ Patient continued initial therapy and was successfully treated (P7)
+15.7 (14.8–16.6)
+–
+23.6 (17.7–29.4)
+17.7 (16.8–18.6)
+ Patient continued initial therapy, without resolution of fever (P8)
+10.7 (9.9–11.5)
+–
+16.1 (11.9–20.2)
+12.7 (11.9–13.5)
+ Patient continued initial therapy, with a breakthrough infection (P9)
+19.9 (13.0–26.8)
+–
+29.9 (15.6–44.1)
+21.9 (15.0–28.8)
+ Patient discontinued initial therapy due to nephrotoxicity (P10)
+12.2 (5.5–18.9)
+13.1 (12.1–14.2)
+38.0 (21.1–54.9)
+–
+ Patient discontinued initial therapy due to other adverse events (P11)
+5.7 (4.2–7.2)
+13.1 (12.1–14.2)
+28.2 (19.5–37.0)
+20.8 (18.2–23.4)
+ Patient died during initial therapy (P12)
+11.2 (8.9–13.5)
+–
+16.8 (10.6–23.0)
+13.2 (10.9–15.5)
+
+Toxicity-related cost
+Adverse events included in the model were chills, nausea, vomiting, dyspnoea and nephrotoxicity (8). Cost for chills (£1.1; 0.3–1.9 per event), nausea and vomiting (£63.9; 50.5–75.3), dyspnoea and flushing (£2.0; 1.6–2.4) were based on the drug used for these events (expert opinion and MIMS September 2005). As the cost of oxygen for dyspnoea can be considered a small expense, this cost was assumed to be included in the cost due to LOS in a general ward.
+In Table 3, the probabilities of nephrotoxicity by type of patient in the model are reported. For the patient that switched to a second line drug in the model (P4–P5 and P10–P11) the risk of nephrotoxicity for the second line drug was based on the average probability of nephrotoxicity seen in the first line treatments. Costs for nephrotoxicity were captured as additional length of hospital stay.
+Table 3Probability of nephrotoxicity on first line treatment by type of patient as used in model
+CaspofunginL-AmbType of patient:
+ Success (P1, P7)
+0.01 (0.00–0.02)1
+0.10 (0.06–0.15)
+ No resolution of fever (P2, P8)
+0.02 (0.00–0.04)
+0.07 (0.04–0.10)
+ No resolution of baseline infection/breakthrough infection (P3, P9)
+0.07 (0.00–0.14)
+0.33 (0.09–0.57)
+ Discontinuation due to nephrotoxicity (P4, P10)
+ First line treatment
+1.00 (1.00–1.00)
+1.0 (1.00–1.00)
+ Second line treatment
+0.12 (0.09–0.14)
+0.03 (0.01–0.04)
+ Discontinuation due to other adverse events (P5, P11)
+ First line treatment
+0.00 (0.00–0.00)
+0.03 (0.00–0.06)
+ Second line treatment
+0.12 (0.09–0.14)
+0.03 (0.01–0.04)
+ Death (P6)
+0.12 (0.02–0.22)
+0.21 (0.10–0.31)
+1Uncertainty interval used for sensitivity analysis.
+
+LOS-related cost
+A patient is usually not immediately discharged after stopping antifungal therapy. In the UK, we estimated that patients without serious side effects from the antifungal treatment stay on average two extra days in hospital. However, patients experiencing nephrotoxicity stay longer (estimated as 1.5 times average treatment duration). The average stay in the Intensive Care Unit (ICU) was separately estimated and subtracted from the overall LOS in the hospital in order to calculate the LOS in the hospital. Table 2 shows an overview of the LOS used in the hospital in the model for different types of patients. The average LOS on the ICU of patients with nephrotoxicity and a baseline infection was estimated at 0.7 d, in absence of a baseline infection 0.5 d. The average LOS on the ICU of a patient without nephrotoxicity and a baseline infection was estimated at 0.3 d, and in absence of a baseline infection 0.1 d. We defined per diem cost for stay in general ward as £316 (NHS reference cost 2004) and the per diem cost for stay in the intensive care unit as £1238 (NHS reference cost) (16). The unit cost estimates included average drug costs and average procedure costs (e.g. lab costs).
+
+
+Analysis
+The source data are characterised by uncertainty. To incorporate uncertainty in the evaluation, a probabilistic sensitivity analysis (PSA) was performed to quantify the uncertainty in model outcomes. A random value was repeatedly sampled from distributions reflecting the uncertainty level of the input source data, plugged into the model, and then the outcome of the model was calculated. Each outcome was presented with a point estimate along with uncertainty reflected by the 2.5th and 97.5th percentile of the uncertainty distribution. Acceptability curves (Fig. 2) were created to estimate the probability that caspofungin would be cost-effective in comparison with L-Amb for different willingness-to-pay (WTP) ratios, defined as the assumed maximum amount a decision-maker would be willing to pay for an additional unit of benefit (QALY).
+Figure 2Acceptability curve representing the probability that caspofungin is cost-effective in comparison to L-Amb for different values of willingness-to-pay for a quality adjusted life year saved.
+
+
+Results
+Patients treated with caspofungin or L-Amb for a suspected fungal infection had comparable chances of having a successful outcome (see Table 4). The caspofungin-treated patient group had a lower overall mortality when compared with the group treated with L-Amb. When mortality on second line treatment was also incorporated and expressed as the number of life years lost relative to the life expectancy of the underlying condition, treatment with caspofungin was predicted to save 0.55 additional life years (95% uncertainty interval 0.10–0.97) per patient treated compared with L-Amb. Adjusting for quality of life, caspofungin was expected to save 0.40 QALYs (−0.13–0.97).
+Table 4Outcomes and costs estimated from the model per treatment arm
+Caspofungin estimate (p2.5–p97.5)1L-Amb estimate (p2.5–p97.5)Probability of success
+0.35 (0.33–0.39)
+0.34 (0.31–0.37)
+Probability of failure
+0.57 (0.54–0.60)
+0.55 (0.52–0.59)
+Mortality during initial treatment
+0.07 (0.05–0.10)
+0.11 (0.08–0.13)
+Life years lost
+1.08 (0.82–1.38)
+1.63 (1.27–1.99)
+QALYs lost
+0.78 (0.47–1.11)
+1.17 (0.78–1.62)
+Average total direct cost
+£9763 (6955–12 577)
+£11 795 (8902–14 724)
+Average total antifungal drug cost
+£4601 (4396–4816)
+£6395 (6112–6705)
+First line antifungal cost
+£4344 (4139–4571)
+£6067 (5767–6384)
+Average other direct cost
+£5161 (2365–7903)
+£5400 (2445–8269)
+1Uncertainty range (2.5th percentile and 97.5th percentile of simulated uncertainty distribution).
+The average total direct costs with caspofungin was £9763 (6955–12 577; 95% CI) compared with £11 795 (8902–14 724; 95% CI) for L-Amb. This difference was primarily caused by higher antifungal drug cost observed for the L-Amb-treated patient.
+In Fig. 2, the probability that caspofungin is cost-effective in comparison with L-Amb is presented for different values of WTP ratios. Such probability reflects the likelihood of cost-effectiveness of caspofungin compared with L-Amb given the uncertainty of the data inputs. When the decision-maker is willing to pay for a QALY saved, we found the probability that caspofungin to be cost-effective when compared with L-Amb always exceeded 78%. Given the generally accepted maximum WTP threshold of £20 000 or £30 000 per QALY saved, there is a 95% probability that caspofungin is cost-effective.
+When L-Amb dosages of 1 mg/kg were used instead of 3 mg/kg, the cost difference between caspofungin and L-Amb was +£1453 (−3179 – +6093), favouring L-Amb. The resulting cost per QALY saved with caspofungin relative to L-Amb is expected to be £3665. Although it is expected there are no cost-savings with caspofungin relative to 1 mg/kg L-Amb, these incremental cost per QALY saved are still below generally accepted WTP threshold of £20 000 per QALY saved. Given the uncertainty in the cost differences and QALYs saved we found an 85% probability that caspofungin is cost-effective when compared with L-Amb for this threshold. £20 000 per QALY saved. When L-Amb dosage of 5 mg/kg were incorporated into the calculations instead of 3 mg/kg, the savings yielded with caspofungin was £5519 (−10 076 to −1023), resulting in >99% probability of cost-effectiveness (based on British National Formulary drug prices in September 2005).
+
+Discussion
+Cost-effectiveness analysis integrates clinical outcomes with information relation to both costs and quality of life. It aims to provide information on the value of a new intervention compared with the accepted or standard intervention. Cost-effectiveness does not necessarily mean cost-saving; the total cost of a new treatment can be higher, but is still considered good value for money if it significantly enhances quality and duration of life (i.e. results in a gain in QALYs) over and above the current best standard.
+The economic evaluation described in this paper applies to treatment of suspected fungal infections in neutropenic patients in the UK. Our model demonstrated caspofungin to be economically superior to L-Amb for both QALY gains and cost-savings. The analysis demonstrated cost-effectiveness of caspofungin when compared with 1 mg/kg L-Amb and 3 mg/kg L-Amb (the dose recommended in the L-Amb summary of product characteristics); both well below the threshold of £30 000 per QALY deemed acceptable by the NICE. It must be noted that though we varied the cost estimates based on different drug doses of L-Amb, the clinical outcomes were still based on standard doses used within the Walsh study.
+Moreover, the results of our economic analysis is restricted to the average weight of patients eligible for empiric therapy (77 kg). Patients with a weight over 80 kg may use higher doses of caspofungin, increasing overall caspofungin drug costs and changing the results vs. L-Amb from cost-saving to cost-effective (additional incremental cost and additional incremental clinical benefit). However, it is must be noted that some of empiric therapy patients are well into several courses of chemotherapy and have lost considerable weight. Additionally, those prone to serious fungal infection are often cachectic.
+Furthermore, the definition of success in this analysis may be underestimated as it is well known that patients adequately treated for their fungus often remain feverish during neutropenia for a variety of other reasons (4). Interestingly, a recent analysis using data from the Walsh study (8) with alternate definitions of success (eliminating fever resolution as a component of the endpoint) showed caspofungin to be clinically superior to L-Amb (17). Eliminating fever resolution in the current economic model, thereby combining branches P1 and P2 and branches P7 and P8, showed that caspofungin was more efficacious (84%; 80–87% probability of success) than L-Amb (77%; 74–81% probability of success), and therefore, dominant over L-Amb because of lower treatment costs and superior efficacy.
+We made several assumptions and simplifications when developing our economic model. First, the decision tree was not designed to support clinical decision-making, but rather to differentiate between type of patients with varying degrees of resource consumption, mortality and success. For example, the first branch differentiated patients with a baseline infection from those without; in standard practice the presence of baseline infection is assumed rather than proven at treatment initiation. Secondly, the implication of assigning life years lost to a patient who has died, implies that no difference in life expectancy is assumed between a patient who is successfully treated and one whose baseline infection is not successfully resolved or experiences a breakthrough infection. Thirdly, the quality of life during the neutropenic period when treated for the suspected fungal infection was not taken into consideration in the QALY calculations due to lack of information available in the literature. We considered this to be of little relevance as the average number of life years after the neutropenic period is much larger than the weeks in a neutropenic state. QALY estimates in this patient group are therefore almost completely driven by the quality of life after the relatively short neutropenic period.
+Our model was also simplified by assuming that a patient discontinuing first line therapy went on to have a full course of second line therapy. We also assumed that patients discontinuing caspofungin switched to L-Amb and vice versa. Conversely, in the Walsh study, these patients were switched to a diverse mix of different antifungal drugs used either alone or as part of combination therapy. However, as the probability of discontinuation (of initial therapy) was < 10%, it is unlikely that this assumption will have significantly biased the cost estimates. Additionally, our results are not applicable to patients who were excluded from the Walsh study, such as solid-organ transplant patients and those requiring rifampin, cyclosporine, or concomitant systemic antifungal therapy.
+While the RCT by Walsh et al. (8) (the basis for this analysis) provides a high quality of evidence for the efficacy and safety of caspofungin compared with L-Amb, the actual estimates are characterised by uncertainty (as represented by 95% CI). Utility and resource use data used in the evaluation originating from both peer-reviewed publications and expert opinion confers additional uncertainty. Model-based economic evaluations only provide value if the impact of these uncertainties is accepted and investigated.
+The PSA led to a distribution of model outcomes. More than three quarters (78%) of the analyses varying input values resulted in cost-savings with caspofungin relative to L-Amb. Ninety-five per cent (95%) of the analyses provided a cost per QALY falling below a willingness to pay of £30 000 (see Fig. 2). We conclude that when accounting for every aspect of uncertainty of the input data, caspofungin remains cost-effective compared with L-Amb (95% probability); we furthermore placed a 78% probability on this drug resulting in a net saving.
+From a cost-effectiveness perspective, the disadvantages of L-Amb over caspofungin are the higher treatment costs due to increased likelihood of adverse events including the higher probability of nephrotoxicity and related discontinuation. Nephrotoxicity results in higher medical costs due to an increased LOS. Discontinuation of initial treatment and switch to second line therapy, subsequent to an adverse event, may result in increased overall duration of the antifungal therapy, additional length of hospital stay, and a further increase in cost. Furthermore, nephrotoxicity may even delay the next cycle of chemotherapy, with possible consequences on disease progression and overall survival.
+Our study suggests that caspofungin remains not only a cost-effective therapy for the treatment of suspected fungal infections in the febrile neutropenic patient when compared with L-Amb, but may also generate savings in treatment costs and gains in QALYs. Given limited healthcare budgets, our findings suggest the possibility that such savings might contribute towards treating more patients with better outcomes. Finally, these findings were based on drug prices which were published in September 2005 and the model furthermore assumed patients to all weight 77 kg. Local drug pricing variation and patient casemix, may all significantly impact on our conclusions.
+

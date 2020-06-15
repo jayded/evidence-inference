@@ -1,0 +1,531 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Diabet Med</journal-id><journal-id journal-id-type="iso-abbrev">Diabet. Med</journal-id><journal-id journal-id-type="doi">10.1111/(ISSN)1464-5491</journal-id><journal-id journal-id-type="publisher-id">DME</journal-id><journal-title-group><journal-title>Diabetic Medicine</journal-title></journal-title-group><issn pub-type="ppub">0742-3071</issn><issn pub-type="epub">1464-5491</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26331280</article-id><article-id pub-id-type="pmc">5057414</article-id><article-id pub-id-type="doi">10.1111/dme.12949</article-id><article-id pub-id-type="publisher-id">DME12949</article-id><article-categories><subj-group subj-group-type="overline"><subject>Research: Care Delivery</subject></subj-group><subj-group subj-group-type="heading"><subject>Research Articles</subject><subj-group subj-group-type="heading"><subject>Care Delivery</subject></subj-group></subj-group></article-categories><title-group><article-title>A cluster randomized trial on the effect of a multifaceted intervention improved the technical quality of diabetes care by primary care physicians: The Japan Diabetes Outcome Intervention Trial&#x02010;2 (J&#x02010;<styled-content style="fixed-case">DOIT</styled-content>2)</article-title><alt-title alt-title-type="left-running-head">Y. Hayashino et al.</alt-title></title-group><contrib-group><contrib id="dme12949-cr-0001" contrib-type="author"><name><surname>Hayashino</surname><given-names>Y.</given-names></name><xref ref-type="aff" rid="dme12949-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="dme12949-cr-0002" contrib-type="author"><name><surname>Suzuki</surname><given-names>H.</given-names></name><xref ref-type="aff" rid="dme12949-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="dme12949-cr-0003" contrib-type="author"><name><surname>Yamazaki</surname><given-names>K.</given-names></name><xref ref-type="aff" rid="dme12949-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="dme12949-cr-0004" contrib-type="author"><name><surname>Goto</surname><given-names>A.</given-names></name><xref ref-type="aff" rid="dme12949-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="dme12949-cr-0005" contrib-type="author"><name><surname>Izumi</surname><given-names>K.</given-names></name><xref ref-type="aff" rid="dme12949-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="dme12949-cr-0006" contrib-type="author" corresp="yes"><name><surname>Noda</surname><given-names>M.</given-names></name><xref ref-type="aff" rid="dme12949-aff-0006">
+<sup>6</sup>
+</xref></contrib></contrib-group><aff id="dme12949-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Endocrinology</named-content><institution>Tenri Hospital</institution><named-content content-type="city">Nara</named-content><country country="JP">Japan</country></aff><aff id="dme12949-aff-0002"><label><sup>2</sup></label><institution>Japan Community Health Care Organization Takaoka Fushiki Hospital</institution><named-content content-type="city">Takaoka</named-content><country country="JP">Japan</country></aff><aff id="dme12949-aff-0003"><label><sup>3</sup></label><institution>Kawai Clinic</institution><named-content content-type="city">Tsukuba</named-content><country country="JP">Japan</country></aff><aff id="dme12949-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Department of Public Health</named-content><institution>Tokyo Women's Medical University</institution><named-content content-type="city">Tokyo</named-content><country country="JP">Japan</country></aff><aff id="dme12949-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Department of Diabetes and Metabolic Medicine</named-content><institution>Center Hospital</institution><institution>National Center for Global Health and Medicine</institution><named-content content-type="city">Tokyo</named-content><country country="JP">Japan</country></aff><aff id="dme12949-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Department of Diabetes Research</named-content><institution>National Center for Global Health and Medicine</institution><named-content content-type="city">Tokyo</named-content><country country="JP">Japan</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><italic>Correspondence to</italic>: Mitsuhiko Noda. Email: <email>mnoda@hosp.ncgm.go.jp</email></corresp></author-notes><pub-date pub-type="epub"><day>09</day><month>10</month><year>2015</year></pub-date><pub-date pub-type="ppub"><month>5</month><year>2016</year></pub-date><volume>33</volume><issue>5</issue><issue-id pub-id-type="doi">10.1111/dme.2016.33.issue-5</issue-id><fpage>599</fpage><lpage>608</lpage><history><date date-type="accepted"><day>27</day><month>8</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Diabetic Medicine &#x000a9; 2016 Diabetes UK <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2015 The Authors. Diabetic Medicine by John Wiley &#x00026; Sons Ltd on behalf of Diabetes UK.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:DME-33-599.pdf"/><abstract id="dme12949-abs-0001"><title>Abstract</title><sec id="dme12949-sec-0001"><title>Aims</title><p>To evaluate the effect of multifaceted interventions using the Achievable Benchmark of Care (<styled-content style="fixed-case">ABC</styled-content>) method for improving the technical quality of diabetes care in primary care settings.</p></sec><sec id="dme12949-sec-0002"><title>Methods</title><p>We conducted a 1&#x02010;year cluster randomized controlled trial in 22 regions divided into an intervention group (<styled-content style="fixed-case">IG</styled-content>) or control group (<styled-content style="fixed-case">CG</styled-content>). Physicians in the <styled-content style="fixed-case">IG</styled-content> received a monthly report of their care quality, with the top 10% quality of diabetes care scores for all physicians being the achievable benchmark. The change in quality&#x02010;of&#x02010;care scores between the <styled-content style="fixed-case">IG</styled-content> and <styled-content style="fixed-case">CG</styled-content> during follow&#x02010;up was analysed using a generalized linear model considering clustering.</p></sec><sec id="dme12949-sec-0003"><title>Results</title><p>A total of 2199 patients were included. Their mean (<sc>sd</sc>) age was 56.5 &#x000b1; 5.9 years and the mean (<sc>sd</sc>) HbA<sub>1c</sub> level was 56.4 &#x000b1; 13.3 mmol/mol (7.4 &#x000b1; 1.2%). The quality&#x02010;of&#x02010;care score in the <styled-content style="fixed-case">CG</styled-content> changed from 50.2%&#x02010;point at baseline to 51%&#x02010;point at 12 months, whereas the <styled-content style="fixed-case">IG</styled-content> score changed from 49.9%&#x02010;point to 69.6%&#x02010;point, with statistically significant differences between the two groups during follow&#x02010;up [the effect of intervention was 19.0%&#x02010;point (95% confidence interval 16.7%&#x02010; to 21.3%&#x02010;point; <italic>P</italic> &#x0003c; 0.001)].</p></sec><sec id="dme12949-sec-0004"><title>Conclusions</title><p>Multifaceted intervention, measuring quality&#x02010;of&#x02010;care indicators and providing feedback regarding the quality of diabetes care to physicians with <styled-content style="fixed-case">ABC</styled-content>, was effective for improving the technical quality of care in patients with Type 2 diabetes in primary care settings. (Trial Registration: umin.ac.jp/ctr as <styled-content style="fixed-case">UMIN</styled-content>000002186)</p></sec></abstract><abstract abstract-type="short" id="dme12949-abs-0002"><title>What's new?</title><p>
+<list list-type="bullet" id="dme12949-list-0001"><list-item><p>The effect of the Achievable Benchmark of Care (ABC) method in improving the quality of care has not been extensively studied in the field of diabetes care.</p></list-item><list-item><p>We evaluated the effect of multifaceted interventions using the ABC method to improve the technical quality of diabetes care in a prospective, cluster randomized controlled trial in primary care settings in Japan.</p></list-item><list-item><p>This study provided information on the strategies for improving the technical quality of diabetes care in primary care settings.</p></list-item></list>
+</p></abstract><funding-group><award-group><funding-source>Japan Agency for Medical Research and Development</funding-source><award-id>Practical Research Project for Life&#x02010;Style related Diseases including CVD and Diabetes</award-id></award-group></funding-group><funding-group><award-group><funding-source>Ministry of Health, Labour and Welfare, Japan</funding-source><award-id>Strategic Outcomes Research Program for Research on Diabetes</award-id><award-id>Comprehensive Research on Life&#x02010;Style Related Diseases including CVD and Diabetes H25&#x02010;016</award-id></award-group></funding-group><counts><page-count count="10"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>dme12949</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>May 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.9.4 mode:remove_FC converted:12.10.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="dme12949-cit-1001">
+<source>Diabet. Med.</source>
+<volume>33</volume>, <fpage>599</fpage>&#x02013;<lpage>608</lpage> (<year>2016</year>)<pub-id pub-id-type="pmid">26331280</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="dme12949-blkfxd-0001" orientation="portrait"><caption><title>What's new?</title></caption><p>
+<list list-type="bullet" id="dme12949-list-1001"><list-item><p>The effect of the Achievable Benchmark of Care (ABC) method in improving the quality of care has not been extensively studied in the field of diabetes care.</p></list-item><list-item><p>We evaluated the effect of multifaceted interventions using the ABC method to improve the technical quality of diabetes care in a prospective, cluster randomized controlled trial in primary care settings in Japan.</p></list-item><list-item><p>This study provided information on the strategies for improving the technical quality of diabetes care in primary care settings.</p></list-item></list>
+</p></boxed-text>
+</p><sec id="dme12949-sec-0006"><title>Introduction</title><p>The incidence of Type 2 diabetes is increasing rapidly worldwide <xref rid="dme12949-bib-0001" ref-type="ref">1</xref>. A national survey in Japan from 1997 to 2007 showed that the number of patients with probable diabetes increased from 6.9 million to 8.9 million, whereas the number of patients with probable impaired glucose tolerance increased from 6.8 million to 13.2 million <xref rid="dme12949-bib-0002" ref-type="ref">2</xref>.</p><p>Practical guidelines for patients with diabetes have been developed by many organizations and are associated with better outcomes with regard to blindness, end&#x02010;stage renal disease, coronary artery disease, amputations and death <xref rid="dme12949-bib-0003" ref-type="ref">3</xref>, <xref rid="dme12949-bib-0004" ref-type="ref">4</xref>. Despite some improvements <xref rid="dme12949-bib-0005" ref-type="ref">5</xref>, the quality of diabetes care has not yet reached the level recommended by the practical guidelines developed on the basis of state&#x02010;of&#x02010;the&#x02010;art scientific evidence (&#x02018;evidence&#x02013;practice gap&#x02019;) <xref rid="dme12949-bib-0006" ref-type="ref">6</xref>, although the gap is gradually decreasing <xref rid="dme12949-bib-0005" ref-type="ref">5</xref>, <xref rid="dme12949-bib-0007" ref-type="ref">7</xref>. To reduce the &#x02018;evidence&#x02013;practice gap&#x02019; in diabetes care, effective, evidence&#x02010;based interventions should be developed. Improvements in the quality of diabetes care have previously been reported using multifaceted interventions in primary care settings <xref rid="dme12949-bib-0008" ref-type="ref">8</xref>, <xref rid="dme12949-bib-0009" ref-type="ref">9</xref>. Most of these studies, however, were poorly controlled, small and focused only on glycaemic control <xref rid="dme12949-bib-0008" ref-type="ref">8</xref>; few studies have focused on the technical quality of care. Donabedian <xref rid="dme12949-bib-0010" ref-type="ref">10</xref> defined three quality components: technical quality of care, interpersonal quality of care and amenities. Technical quality of care is the extent to which the use of healthcare services meets predefined standards of acceptable or adequate care relative to the requirement (i.e. the patient received the recommended care). Interpersonal quality refers to the interaction between the provider and the patient.</p><p>The Achievable Benchmark of Care (ABC) method for improving healthcare quality, which has been used for quality control in industry since the 1980s, is being refined under an Agency for Health Care Policy and Research initiative <xref rid="dme12949-bib-0011" ref-type="ref">11</xref>. The achievable benchmark is determined on the performance basis of all members of a peer group and represents a realistic standard of excellence attained by the top performers in that group. The ABC method is objective, readily understandable, easily updated and useful for identifying areas that require improvements in the various fields <xref rid="dme12949-bib-0012" ref-type="ref">12</xref>, <xref rid="dme12949-bib-0013" ref-type="ref">13</xref>, <xref rid="dme12949-bib-0014" ref-type="ref">14</xref>. In a cluster randomized controlled trial (RCT) in primary care settings, the ABC method has been shown to significantly improve the effect of physician performance feedback in a multifaceted, quality improvement intervention <xref rid="dme12949-bib-0015" ref-type="ref">15</xref>. However, the effect of the ABC method in improving the quality of care has not been extensively studied in the field of diabetes care.</p><p>The objective of this study was to evaluate the effect of multifaceted interventions using the ABC method to improve the technical quality of diabetes care using a prospective, cluster RCT in primary care settings.</p></sec><sec id="dme12949-sec-0007"><title>Patients and methods</title><sec id="dme12949-sec-0008"><title>Study design</title><p>This study was a 1&#x02010;year, prospective, cluster randomized, two&#x02010;armed intervention study. Details on the participants and methods have been reported elsewhere (Trial Registration: umin.ac.jp/ctr as UMIN000002186) <xref rid="dme12949-bib-0016" ref-type="ref">16</xref>. Briefly, 11 district medical associations (DMAs) were divided into two subregions (clusters) and then randomized to either the intervention group (IG) or the control group (CG). Each group acted as a cluster within the DMA. In the IG, patients received reminders for medical visits to their primary care physician (PCP) and lifestyle advice by telephone or face&#x02010;to&#x02010;face. In the CG, PCPs provided ordinary medical treatment to their patients. With a 1&#x02010;year intervention and follow&#x02010;up period, the primary outcome corresponding to the rate of patient drop&#x02010;out from regular medical care was evaluated. In this analysis, we focused on the quality of care, which is the secondary outcome of the original trial. The study protocol was approved by the ethics committee of the Japan Foundation for the Promotion of International Medical Research Cooperation.</p></sec><sec id="dme12949-sec-0009"><title>DMAs and PCPs</title><p>The DMA eligibility criteria were as follows: participation of ~ 20 PCPs; ability to divide PCPs into two groups according to the geographical locations of their clinics and the DMA branch to which they belong, with an anticipated registration of 125 diabetes patients within each DMA group; capability of the DMA to establish a diabetes treatment network comprising PCPs, physicians specializing in diabetes and kidney disease, and ophthalmologists. The eligibility criteria for PCPs were as follows: membership of a recruited DMA; working as a PCP, not a board&#x02010;certified diabetologist; ability to acquire the consent of 10 or more patients with diabetes and no history of participation in a study with similar interventions within the last 5 years. Of the 15 municipal&#x02010;level DMAs eligible for this study, 192 PCPs at 11 DMAs met the inclusion criteria and provided consent to participate in the study. All DMAs were in urban areas with a median population of 174 462 (range, 34 243&#x02013;966 493). All PCPs were solo practitioners and non&#x02010;diabetologists (mean age &#x000b1; <sc>sd</sc>, 55.5 &#x000b1; 8.4 years).</p></sec><sec id="dme12949-sec-0010"><title>Patients</title><p>The patient eligibility criteria were as follows: diagnosis of Type 2 diabetes prior to registration, aged 40&#x02013;64 years, no history of haemodialysis, no hospitalization, no bed confinement, not resident in a nursing home, no blindness, no history of lower limb amputation, no history of diagnosis with a malignant tumour within the last 5 years, no pregnancy or potential pregnancy, and care provided by a single medical doctor in charge of the patient's diabetes treatment (except in the event of diabetes complications). There was no inclusion restriction based on plasma glucose or HbA<sub>1c</sub> levels. Written informed consent was obtained from all participants.</p></sec><sec id="dme12949-sec-0011"><title>Randomization</title><p>Each municipal DMA was divided into two subregions (clusters). To split each DMA, a straight line was drawn on the map of the municipal areas to which each DMA belonged and the line adjusted if a PCP clinic was exactly on the line. The statistician, blind to the identities of the clusters, randomly allocated 0 (control) or 1 (intervention) codes generated by statistical software, to 22 clusters stratified by each DMA.</p></sec><sec id="dme12949-sec-0012"><title>Data collection</title><p>Clinical research coordinators (CRCs) visited the PCP clinics on a regular basis and collected patients&#x02019; anonymous medical records. In the IG, the CRCs visited each clinic at 1, 4, 7, 10 and 13 months after the beginning of the follow&#x02010;up term. In the CG, the CRCs visited each clinic at 1 and 13 months after the beginning of the follow&#x02010;up term. Patients in both groups were asked to complete a self&#x02010;administered Problem Areas in Diabetes (PAID) survey questionnaire <xref rid="dme12949-bib-0017" ref-type="ref">17</xref> at baseline. At baseline and during follow&#x02010;ups, CRCs visited the PCP clinics and collected blood pressure and laboratory data, including HbA<sub>1c</sub> levels, lipid profiles and urinary microalbumin levels. In addition, CRCs reviewed medical charts to determine whether patients received fundoscopic examination, foot examination or smoking cessation advice if they were smokers. For data collection, CRCs used pre&#x02010;specified care report forms. For the IG, CRCs visited the PCP clinics every 3 months, whereas in the CG, CRCs visited the PCP clinics only at baseline and at the end of the study. These data were used to evaluate the quality of diabetes care.</p></sec><sec id="dme12949-sec-0013"><title>Outcome measures</title><p>For this analysis, we used a quality of diabetes care score calculated on the outcomes of eight quality indicators. The clinical information required to evaluate the outcome measures were gathered from medical charts. The eight clinical quality indicators were selected from those used in the Diabetes Quality Improvement Project <xref rid="dme12949-bib-0018" ref-type="ref">18</xref> and were further revised based upon consideration of updated evidence and the Japan Diabetes Society clinical practice guidelines using a modified Delphi method <xref rid="dme12949-bib-0019" ref-type="ref">19</xref>. In a modified Delphi approach, a panel of experts assesses the appropriateness of particular clinical decisions in an iterative way. Initially, a literature study is carried out to critically appraise and summarize the evidence from clinical studies. Using the results from this overview and additional comments from the experts, quality indicators are selected that may be relevant for the clinical decision under investigation. A panel of experts is then asked to rate the appropriateness of certain clinical decisions for each of these indicators. A decision is called &#x02018;appropriate&#x02019; when the expected benefit (e.g. symptom reduction) exceeds the expected risk (e.g. adverse event). The extent of appropriateness is expressed using a 9&#x02010;point scale in which 9 = extremely appropriate, 1 = extremely inappropriate and 5 = equivocal or uncertain. After the panellists have individually rated all indications, they meet to discuss the results. After this discussion, a second individual rating round takes place, in which all or part of the indications are rated a second time. Based on the median score and the extent of agreement for each of the quality indicators, a panel statement (appropriate, uncertain and inappropriate) is calculated. We used eight quality indicators that a panel finally rated as appropriate. The eight clinical indicators are shown in Table <xref rid="dme12949-tbl-0001" ref-type="table-wrap">1</xref>. Outcome differences may be due to case mix, how the data were collected, or quality of care. The advantages of process indicators are that they are more sensitive to quality of care differences and are a direct measure of quality. Thus, we focused mainly on the process of diabetes care. In addition, we evaluated the effect of intervention on patient outcomes comprising HbA<sub>1c</sub>, systolic and diastolic blood pressure, and BMI.</p><table-wrap id="dme12949-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Diabetes care quality indicators</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">No.</th><th align="left" valign="top" rowspan="1" colspan="1">Quality indicator</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">1.</td><td align="left" rowspan="1" colspan="1">All patients with diabetes should have a medical check&#x02010;up at least every 3 months.</td></tr><tr><td align="left" rowspan="1" colspan="1">2.</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, the HbA<sub>1c</sub> level should be examined at least every 3 months.</td></tr><tr><td align="left" rowspan="1" colspan="1">3.</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, serum lipid levels should be examined at least every 12 months.</td></tr><tr><td align="left" rowspan="1" colspan="1">4.</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, blood pressure should be checked during each visit to the clinic.</td></tr><tr><td align="left" rowspan="1" colspan="1">5.</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, a fundoscopy should be performed at least every 12 months.</td></tr><tr><td align="left" rowspan="1" colspan="1">6.</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, the patient's feet should be examined at least every 12 months.</td></tr><tr><td align="left" rowspan="1" colspan="1">7.</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes without overt proteinuria, urinary microalbumin levels should be examined at least every 6 months.</td></tr><tr><td align="left" rowspan="1" colspan="1">8.</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes who smoke, smoking cessation should be recommended at least every 12 months.</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="dme12949-sec-0014"><title>Intervention</title><p>Physicians assigned to the IG were able to use a disease management system of monitoring and provided feedback on the quality of diabetes care, which was evaluated in terms of adherence to the eight clinical indicators. We prepared feedback sheets for adherence to these eight indicators using data from the physicians&#x02019; self&#x02010;report forms, as the physicians monitored and promoted these indicators to improve adherence (Fig. <xref rid="dme12949-fig-0001" ref-type="fig">1</xref>). Forms were sent by facsimile to the data centre every month. PCPs in the IG received a feedback letter every month that included their quality of diabetes care score and the benchmarks for each indicator calculated as the average top 10% of PCP indicators every month as achievable goals.</p><fig fig-type="Figure" xml:lang="en" id="dme12949-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>An example of the feedback sheet used to evaluate the quality&#x02010;of&#x02010;care score for the participating physicians. This sheet shows the quality&#x02010;of&#x02010;care score for indicator 7 (urinary microalbumin testing). The bar graph indicates the quality&#x02010;of&#x02010;care score at the clinic where this sheet was sent, and the line graph indicates the achievable benchmark for this indicator representing the monthly average top 10% score for the participating physicians, regarded as achievable goals.</p></caption><graphic id="nlm-graphic-1" xlink:href="DME-33-599-g001"/></fig><p>Other intervention components included reminders for regular visits and lifestyle modifications. The study group established a Treatment Support Centre that sent reminders to the patients for regular medical visits to their PCPs and provided lifestyle modification interventions aimed to encourage behavioural changes in terms of diet and exercise. The PCPs filled out the pre&#x02010;specified instruction form for each patient with respect to target body weight, recommended food intake and permission or notandum for exercise therapy and sent it to the Treatment Support Centre. The centre then offered the information written in this form to certified diabetes educators, registered dieticians or public health nurses who participated in the standardized programme for behavioural theory on patient education. They then provided advice by telephone based on this instruction form. Patients were supposed to receive six sessions of phone calls on lifestyle advice each lasting ~ 15&#x02013;30 min. However, in some DMAs that trained certified diabetes educators and provided a location for face&#x02010;to&#x02010;face advice, four sessions of face&#x02010;to&#x02010;face advice were provided for ~ 30 min each. All interventions lasted for 1 year.</p></sec><sec id="dme12949-sec-0015"><title>Statistical analysis</title><p>Patient characteristics between the intervention and control groups were calculated using proportions and means with standard deviations. Because randomization was at the cluster level, patient&#x02010;level characteristics would not be as likely to balance out as random at the patient level. Covariate balance was checked using fixed effects linear regression for continuous confounders (e.g. age) and fixed effects binomial or multinomial logistic regression for categorical confounders (e.g. gender) considering clustering within each DMA.</p><p>First, adherence to the clinical indicators was calculated for PCPs as the percentage of recommended care processes received, referred to as the quality&#x02010;of&#x02010;care score (%&#x02010;point); we used the equation shown in the <xref rid="dme12949-app-0001" ref-type="app">Appendix</xref> and each indicator had the same weight. To evaluate the effects of intervention on the change in adherence to quality indicators, we subtracted the baseline score from the score at the end of the study to calculate the change in score during the follow&#x02010;up. Further, we examined the relationship between the change in the quality&#x02010;of&#x02010;care score and the intervention using a generalized linear model that considered clustering within the unit of randomization. We first performed this analysis for all indicators and then for each indicator.</p><p>To next evaluate the effect of modification of patient&#x02010;level factors on the effect of intervention for improving the quality of diabetes care, we used logistic regression analysis with adherence to each indicator (1 = adherent, 0 = non&#x02010;adherent) as an outcome.</p><p>For patient's outcomes, we calculated the difference of each outcome subtracting the value at baseline from that at 12 months and used linear regression analysis considering clustering within each DMA adjusted for baseline value. All analyses were performed using Stata/SE 12.1 (Stata Corp., College Station, TX, USA) and <italic>P</italic> &#x0003c; 0.05 was considered statistically significant for all analyses.</p></sec></sec><sec id="dme12949-sec-0016"><title>Results</title><p>Figure <xref rid="dme12949-fig-0002" ref-type="fig">2</xref> shows the flow of study clusters and the patients eligible for this trial. Of the 15 DMAs screened, 11 (22 clusters) were eligible for this trial and randomized into intervention and control groups stratified by each DMA (Fig. <xref rid="dme12949-fig-0003" ref-type="fig">3</xref>). A total of 1091 patients in the IG and 1387 patients in the CG were assessed for eligibility. Of these patients, 971 patients were enrolled in the IG and 1265 in the CG. All 22 clusters were followed until the end of the trial. For the final analysis, 954 patients were enrolled in the IG and 1245 patients in the CG after excluding patients who proved to be ineligible or who declined to participate at a later stage. The patients&#x02019; baseline characteristics are shown in Table <xref rid="dme12949-tbl-0002" ref-type="table-wrap">2</xref>. The mean age was 56.5 &#x000b1; 5.9 years and 37.5% were women. The mean HbA<sub>1c</sub> level was 56.4 &#x000b1; 13.3 mmol/mol (7.4 &#x000b1; 1.2%). There was no statistical difference in baseline characteristics other than the type of diabetes therapy between the IG and the CG; patients in the IG were more likely to receive diabetes medication (<italic>P</italic> = 0.049).</p><fig fig-type="Figure" xml:lang="en" id="dme12949-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>
+<styled-content style="fixed-case">CONSORT</styled-content> flow chart illustrating the recruitment of patients for the present randomized controlled trial.</p></caption><graphic id="nlm-graphic-3" xlink:href="DME-33-599-g002"/></fig><fig fig-type="Figure" xml:lang="en" id="dme12949-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Geographical presentation of the 11 district medical associations (<styled-content style="fixed-case">DMA</styled-content>s). Map of Japan describing the participating <styled-content style="fixed-case">DMA</styled-content>s (<inline-graphic xlink:href="DME-33-599-g004.jpg" xlink:title="image"/>). Solid lines on the map indicate prefecture borders.</p></caption><graphic id="nlm-graphic-5" xlink:href="DME-33-599-g003"/></fig><table-wrap id="dme12949-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Baseline characteristics of participants according to the assigned intervention<xref ref-type="fn" rid="dme12949-note-0001">a</xref>
+</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr><th align="left" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1">All</th><th align="char" valign="top" rowspan="1" colspan="1">Control</th><th align="char" valign="top" rowspan="1" colspan="1">Intervention</th><th align="char" valign="top" rowspan="1" colspan="1"/></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Participants</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic> = 2199</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic> = 1245</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic> = 954</td><td align="char" char="." rowspan="1" colspan="1">
+<italic>P</italic>
+</td></tr><tr style="border-bottom:solid 1px #000000"><td align="left" rowspan="1" colspan="1">Primary care clinics</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic> = 192</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic> = 99</td><td align="char" rowspan="1" colspan="1">
+<italic>n</italic> = 93</td><td align="char" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">Age, years</td><td align="char" char="." rowspan="1" colspan="1">56.5 (5.9)</td><td align="char" char="." rowspan="1" colspan="1">56.5 (5.9)</td><td align="char" char="." rowspan="1" colspan="1">56.5 (5.9)</td><td align="char" char="." rowspan="1" colspan="1">0.961</td></tr><tr><td align="left" rowspan="1" colspan="1">Female, %</td><td align="char" char="." rowspan="1" colspan="1">37.5</td><td align="char" char="." rowspan="1" colspan="1">36.2</td><td align="char" char="." rowspan="1" colspan="1">39.1</td><td align="char" char="." rowspan="1" colspan="1">0.102</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI, kg/m<sup>2</sup>
+</td><td align="char" char="." rowspan="1" colspan="1">26.0 (4.2)</td><td align="char" char="." rowspan="1" colspan="1">26.0 (4.1)</td><td align="char" char="." rowspan="1" colspan="1">25.9 (4.3)</td><td align="char" char="." rowspan="1" colspan="1">0.525</td></tr><tr><td align="left" rowspan="1" colspan="1">HbA<sub>1c</sub>
+</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">IFCC, mmol/mol</td><td align="char" char="." rowspan="1" colspan="1">56.4 (13.3)</td><td align="char" char="." rowspan="1" colspan="1">56.0 (13.0)</td><td align="char" char="." rowspan="1" colspan="1">56.9 (13.7)</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">NGSP, %</td><td align="char" char="." rowspan="1" colspan="1">7.4 (1.2)</td><td align="char" char="." rowspan="1" colspan="1">7.3 (1.2)</td><td align="char" char="." rowspan="1" colspan="1">7.4 (1.3)</td><td align="char" char="." rowspan="1" colspan="1">0.304</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes therapy, %</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.048</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">No medication</td><td align="char" char="." rowspan="1" colspan="1">10.6</td><td align="char" char="." rowspan="1" colspan="1">12.0</td><td align="char" char="." rowspan="1" colspan="1">8.9</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Oral hypoglycaemic agent only</td><td align="char" char="." rowspan="1" colspan="1">81.2</td><td align="char" char="." rowspan="1" colspan="1">80.1</td><td align="char" char="." rowspan="1" colspan="1">82.6</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Insulin</td><td align="char" char="." rowspan="1" colspan="1">8.2</td><td align="char" char="." rowspan="1" colspan="1">7.9</td><td align="char" char="." rowspan="1" colspan="1">8.5</td><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">PAID</td><td align="char" char="." rowspan="1" colspan="1">36.0 (13.1)</td><td align="char" char="." rowspan="1" colspan="1">36.5 (13.4)</td><td align="char" char="." rowspan="1" colspan="1">35.2 (12.7)</td><td align="char" char="." rowspan="1" colspan="1">0.134</td></tr></tbody></table><table-wrap-foot><fn id="dme12949-note-0001"><label>a</label><p>Data are presented as mean (<sc>sd</sc>).</p></fn><fn id="dme12949-note-0002"><p>IFCC, International Federation of Clinical Chemistry; NGSP, National Glycohemoglobin Standardization Program; PAID, Problem Areas in Diabetes scale score.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><p>The effect of intervention on the quality&#x02010;of&#x02010;care score for PCPs is shown in Table <xref rid="dme12949-tbl-0003" ref-type="table-wrap">3</xref>. Overall, the quality&#x02010;of&#x02010;care score for all participants was 50.1%&#x02010;point [95% confidence interval (CI) 48.7%&#x02010; to 51.5%&#x02010;point] at baseline. The score did not significantly improve in the CG from 50.2%&#x02010;point (95% CI 48.2%&#x02010; to 52.3%&#x02010;point) at baseline to 51.0%&#x02010;point (95% CI 38.3%&#x02010; to 71.4%&#x02010;point) at 12 months. However, in the IG it did improve from 49.9%&#x02010;point (95% CI 48.2%&#x02010; to 51.7%&#x02010;point) at baseline to 69.6%&#x02010;point (95% CI 49.5%&#x02010; to 95.2%&#x02010;point) at 12 months. We observed statistically significant changes in the score during follow&#x02010;ups between the two groups and the mean effect of intervention was 19.0%&#x02010;point (95% CI 16.7%&#x02010; to 21.3%&#x02010;point; <italic>P</italic> &#x0003c; 0.001). Next, we observed the effect of intervention on the quality&#x02010;of&#x02010;care score for each indicator. The quality&#x02010;of&#x02010;care scores at baseline for indicators 1, 2 and 3 were very high at 92.4%&#x02010;point (95% CI 65.0%&#x02010; to 100%&#x02010;point), 82.1% (95% CI 40.0%&#x02010; to 100%&#x02010;point) and 85.4%&#x02010;point (95% CI 45.5%&#x02010; to 100%&#x02010;point) respectively. The score for indicator 4 was moderate at 67.0%&#x02010;point (95% CI 22.2%&#x02010; to 100%&#x02010;point), whereas scores for indicators 5&#x02013;8 were very low from 6.1%&#x02010; to 16.4%&#x02010;point. We observed statistically significant differences between the two intervention groups in terms of a change in the quality&#x02010;of&#x02010;care scores for indicators 2, 4, 5, 6, 7 and 8 during follow&#x02010;ups<xref rid="dme12949-tbl-0004" ref-type="table-wrap">4</xref>. The effect of intervention on patient outcomes is shown in Table <xref rid="dme12949-tbl-0004" ref-type="table-wrap">4</xref>. We observed statistically significant change in HbA<sub>1c</sub> by &#x02212;1.49 mmol/mol (95%CI &#x02212;2.76 to &#x02212;0.21 mmol/mol), and BMI by &#x02212;0.21 kg/m<sup>2</sup> (95%CI &#x02212;0.33 to &#x02212;0.98).</p><table-wrap id="dme12949-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>The effect of intervention on adherence to quality indicators in primary care clinics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" colspan="2" valign="top"/><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Baseline</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">12 months</th><th align="char" rowspan="4" style="border-bottom:solid 1px #000000" valign="top" colspan="1">Effects of intervention</th><th align="char" rowspan="4" style="border-bottom:solid 1px #000000" valign="top" colspan="1">
+<italic>P</italic>
+</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Control</th><th align="char" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">Intervention</th><th align="char" valign="top" rowspan="1" colspan="1">Control</th><th align="char" valign="top" rowspan="1" colspan="1">Intervention</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="top" rowspan="1">Participants</th><th align="char" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> = 1245</th><th align="char" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> = 954</th><th align="char" valign="top" rowspan="1" colspan="1"/><th align="char" valign="top" rowspan="1" colspan="1"/></tr><tr style="border-bottom:solid 1px #000000"><th align="left" colspan="2" valign="top" rowspan="1">Primary care clinics</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> = 99</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> = 93</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> = 99</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>n</italic> = 93</th></tr></thead><tbody><tr><td align="left" colspan="2" rowspan="1">Overall quality&#x02010;of&#x02010;care score, %&#x02010;point (95% CI)</td><td align="char" char=" " rowspan="1" colspan="1">50.2 (48.2 to 52.3)</td><td align="char" char=" " rowspan="1" colspan="1">49.9 (48.2 to 51.7)</td><td align="char" char=" " rowspan="1" colspan="1">51.0 (38.3 to 71.4)</td><td align="char" char=" " rowspan="1" colspan="1">69.6 (49.5 to 95.2)</td><td align="char" char=" " rowspan="1" colspan="1">19.0 (16.7 to 21.3)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" colspan="2" rowspan="1">Quality&#x02010;of&#x02010;care score for each indicator, %&#x02010;point (95% CI)</td><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/><td align="left" rowspan="1" colspan="1"/></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">1</td><td align="left" rowspan="1" colspan="1">All patients with diabetes should have a medical check&#x02010;up at least every 3 months</td><td align="char" char=" " rowspan="1" colspan="1">92.1 (47.6 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">92.7 (75.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">94.7 (81.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">98.7 (92.7 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">3.4 (&#x02013;2.0 to 8.9)</td><td align="char" char="." rowspan="1" colspan="1">0.195</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">2</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, the HbA<sub>1c</sub> level should be examined at least every 3 months</td><td align="char" char=" " rowspan="1" colspan="1">80.9 (33.3 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">83.4 (50.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">80.9 (40.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">93.5 (62.5 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">10.2 (6.1 to 14.2)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">3</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, the serum lipid level should be examined at least every 12 months</td><td align="char" char=" " rowspan="1" colspan="1">86.7 (45.5 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">84.1 (50.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">90.1 (50.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">94.0 (58.3 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">6.6 (&#x02013;1.0 to 14.1)</td><td align="char" char="." rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">4</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, blood pressure should be checked at each visit to the clinic</td><td align="char" char=" " rowspan="1" colspan="1">65.2 (22.2 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">69.4 (20.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">67.1 (25.0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">80.8 (40.7 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">9.5 (4.4 to 14.5)</td><td align="char" char="." rowspan="1" colspan="1">0.002</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, a fundoscopy should be performed at least every 12 months</td><td align="char" char=" " rowspan="1" colspan="1">12.4 (0 to 50)</td><td align="char" char=" " rowspan="1" colspan="1">13.9 (0 to 57.1)</td><td align="char" char=" " rowspan="1" colspan="1">11.1 (0 to 50.0)</td><td align="char" char=" " rowspan="1" colspan="1">45.0 (0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">32.4 (25.6 to 39.1)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes, the patient's feet should be examined at least every 12 months</td><td align="char" char=" " rowspan="1" colspan="1">20.2 (0 to 86.7)</td><td align="char" char=" " rowspan="1" colspan="1">12.3 (0 to 50.0)</td><td align="char" char=" " rowspan="1" colspan="1">18.7 (0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">55.0 (0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">44.2 (35.5 to 52.9)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes without overt proteinuria, the urinary microalbumin level should be examined at least every 6 months</td><td align="char" char=" " rowspan="1" colspan="1">6.7 (0 to 45.8)</td><td align="char" char=" " rowspan="1" colspan="1">5.6 (0 to 45.8)</td><td align="char" char=" " rowspan="1" colspan="1">8.0 (0 to 66.7)</td><td align="char" char=" " rowspan="1" colspan="1">24.6 (0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">17.8 (11.5 to 24.1)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c; 0.001</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">8</td><td align="left" rowspan="1" colspan="1">For all patients with diabetes who smoke, smoking cessation advice should be provided at least every 12 months</td><td align="char" char=" " rowspan="1" colspan="1">11.8 (0 to 60.0)</td><td align="char" char=" " rowspan="1" colspan="1">9.7 (0 to 50.0)</td><td align="char" char=" " rowspan="1" colspan="1">10.3 (0 to 50.0)</td><td align="char" char=" " rowspan="1" colspan="1">48.5 (0 to 100)</td><td align="char" char=" " rowspan="1" colspan="1">40.4 (29.0 to 51.7)</td><td align="char" char="." rowspan="1" colspan="1">&#x0003c; 0.001</td></tr></tbody></table><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><table-wrap id="dme12949-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>The effect of intervention on patient outcomes</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Outcomes</th><th align="char" valign="top" rowspan="1" colspan="1">Difference: 12 months&#x02013;baseline (control group)<xref ref-type="fn" rid="dme12949-note-0003">a</xref>
+</th><th align="char" valign="top" rowspan="1" colspan="1">Difference: 12 months&#x02013;baseline (intervention group)<xref ref-type="fn" rid="dme12949-note-0003">a</xref>
+</th><th align="char" valign="top" rowspan="1" colspan="1">Difference: Intervention&#x02013;control (95% CI)</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>
+</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">HbA<sub>1c</sub>
+</td><td align="char" char=" " rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1"/><td align="char" char=" " rowspan="1" colspan="1"/><td align="char" char="." rowspan="1" colspan="1">0.027</td></tr><tr><td align="left" rowspan="1" colspan="1">ICFF, mmol/mol</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.98 (10.5)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;2.79 (10.6)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.49 (&#x02212;2.76 to &#x02212;0.21)</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">NGSP, %</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.09 (0.97)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.26 (0.98)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.14 (&#x02212;0.26 to &#x02212;0.02)</td><td align="char" char="." rowspan="1" colspan="1"/></tr><tr><td align="left" rowspan="1" colspan="1">SBP, mmHg</td><td align="char" char=" " rowspan="1" colspan="1">0.69 (14.88)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.82 (13.6)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;1.58 (&#x02212;3.33 to 0.17)</td><td align="char" char="." rowspan="1" colspan="1">0.072</td></tr><tr><td align="left" rowspan="1" colspan="1">DBP, mmHg</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.64 (9.4)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.50 (9.0)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.60 (&#x02212;1.61 to 0.41)</td><td align="char" char="." rowspan="1" colspan="1">0.213</td></tr><tr><td align="left" rowspan="1" colspan="1">BMI, kg/m<sup>2</sup>
+</td><td align="char" char=" " rowspan="1" colspan="1">0.05 (0.98)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.16 (1.2)</td><td align="char" char=" " rowspan="1" colspan="1">&#x02212;0.21 (&#x02212;0.33 to &#x02212;0.98)</td><td align="char" char="." rowspan="1" colspan="1">0.002</td></tr></tbody></table><table-wrap-foot><fn id="dme12949-note-0003"><label>a</label><p>Mean and <sc>sd</sc>.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="dme12949-sec-0017"><title>Discussion</title><p>This large&#x02010;scale, cluster randomized controlled study has shown that multifaceted interventions measured by quality&#x02010;of&#x02010;care indicators and feedback regarding the quality of diabetes care with ABC to physicians were effective in improving the technical quality of care for patients with Type 2 diabetes in primary care settings.</p><p>To our knowledge, this is the first large&#x02010;scale, cluster randomized study conducted in Japan to evaluate the effects of multifaceted interventions to improve the technical quality of diabetes care. Our study has several strengths. First, this is a multi&#x02010;institutional study in which PCPs from different areas of Japan participated; therefore, our results can be applied to actual clinical settings in Japan. Second, this was a large&#x02010;scale, well&#x02010;designed study that adapted a cluster randomized design. The unit of randomization is a key issue in trial design to evaluate quality improvement interventions. In addition, contamination, which occurs because physicians or patients within distinct areas share information regarding the intervention or because clinics do not adhere to their assigned intervention if the unit of randomization, a physician or a patient, introduces bias <xref rid="dme12949-bib-0020" ref-type="ref">20</xref>. The J&#x02010;DOIT 2 is one of three research strategies supported by a national fund of &#x000a5;4 billion from the Ministry of Health, Labour and Welfare (MHLW) in Japan to fight Type 2 diabetes and obesity <xref rid="dme12949-bib-0021" ref-type="ref">21</xref>. Although cluster randomized trials are more difficult to design compared with individually randomized trials for several reasons <xref rid="dme12949-bib-0020" ref-type="ref">20</xref>, Japanese government initiatives permitted us to conduct this complex, well&#x02010;designed, randomized controlled trial.</p><p>Among all indicators, our intervention was not effective in improving the quality&#x02010;of&#x02010;care score as assessed at the 3&#x02010;month follow&#x02010;ups (indicator 1). Given that the baseline quality&#x02010;of&#x02010;care score for this indicator was very high at 92.4%&#x02010;point, it should be further improved for adherence to this indicator. Similarly, our intervention was not statistically significant in terms of improving the quality&#x02010;of&#x02010;care score for annual lipid testing (indicator 3). The adherence to renal screening at baseline was very low (6.1%&#x02010;point) probably because the health insurance system in Japan only permits urine albumin testing every 4 months. Similarly, the quality&#x02010;of&#x02010;care score for foot examination was very low compared with that reported in a meta&#x02010;analysis (median of included studies, 47%&#x02010;point) <xref rid="dme12949-bib-0022" ref-type="ref">22</xref>. In Japan, the mean consultation time for patient visits is only 6.16 min <xref rid="dme12949-bib-0023" ref-type="ref">23</xref>, therefore, physicians do not have enough time to examine patients&#x02019; feet. Despite this difficult situation for physicians in Japan, our intervention improved the quality&#x02010;of&#x02010;care score for the above indicators with very low adherence.</p><p>Our study has shown that our multifaceted intervention was significantly effective in promoting smoking cessation in patients with diabetes. Studies of diabetes patients have consistently demonstrated that smokers have an increased risk of cardiovascular disease, premature death and an increased rate of microvascular diabetic complications. Therefore, promotion of smoking cessation is a key component for diabetes care <xref rid="dme12949-bib-0024" ref-type="ref">24</xref>. However, in a published meta&#x02010;analysis that evaluated the effect of quality improvement strategies for diabetes care, the pooled effect of the intervention to promote smoking cessation was not statistically significant <xref rid="dme12949-bib-0022" ref-type="ref">22</xref>. We suggest several reasons for our success in promoting smoking cessation in patients with diabetes. First, our intervention included the ABC method, which may promote competition among physicians and change their behaviour in terms of providing smoking cessation advice resulting in the increased rate of smoking cessation in the IG. Second, it was suggested in a meta&#x02010;analysis that the quality improvement intervention was more effective if the study enrolled patients who did not achieve diabetes&#x02010;relevant quality indicators <xref rid="dme12949-bib-0022" ref-type="ref">22</xref>. The smoking rate in Japan is very high (~ 44%) and needs to be decreased; this situation may promote our intervention.</p><p>It could be argued that the frequency of measuring quality indicators might have influenced the quality&#x02010;of&#x02010;care score; in the IG, CRCs visited the PCP clinics every 3 months, whereas in the CG, CRCs visited the PCP clinics only at baseline and at the end of the study. There is no evidence that a high measuring frequency is associated with better quality of care; individuals improve their behaviour in response to their awareness of being observed, a phenomenon known as the Hawthorne effect <xref rid="dme12949-bib-0025" ref-type="ref">25</xref>.</p><p>Over the past decade, the quality of diabetes care in the United States has improved <xref rid="dme12949-bib-0005" ref-type="ref">5</xref>. This might be related to the use of quality&#x02010;of&#x02010;care measures such as comparing provider performance or the use of performance incentives <xref rid="dme12949-bib-0026" ref-type="ref">26</xref>. In other areas in the world founded on the presumption that guideline&#x02010;based care will generate savings by reducing demands on costly hospital&#x02010;based services over the long&#x02010;term incentive programmes aimed at improving diabetes outcomes are increasing in popularity <xref rid="dme12949-bib-0027" ref-type="ref">27</xref>. The concept of measuring the effectiveness among diabetes care providers is not new. The United Kingdom (UK) is the most ambitious example of pay&#x02010;for&#x02010;performance in diabetes care. In connection with an initiative to improve chronic disease care and outcomes, the UK government introduced a pay&#x02010;for&#x02010;performance model called the Quality Outcomes Framework (QOF) as part of the general practitioner contract in 2004. The evidence suggests that in the UK, incentive models have spurred some improvements in process outcomes <xref rid="dme12949-bib-0028" ref-type="ref">28</xref>, <xref rid="dme12949-bib-0029" ref-type="ref">29</xref>. However, these improvements do not appear to have been uniform across all patients groups <xref rid="dme12949-bib-0030" ref-type="ref">30</xref>. In 1999, Australia introduced financial incentives to PCPs related to the quality of care for patients with chronic diseases in the form of the Practice Incentive Programme <xref rid="dme12949-bib-0031" ref-type="ref">31</xref>. Under the Practice Incentive Programme, PCPs can elect to participate in a blended payment model, which includes additional incentives for each patient who completes a cycle of care, including diabetes mellitus. In 2001, Taiwan introduced a voluntary incentive programme (DM&#x02010;P4P) for diabetes care. The Taiwan National Health Insurance design initially involved care management fees provided to physicians for achieving process&#x02010;based outcomes <xref rid="dme12949-bib-0032" ref-type="ref">32</xref>. In Canada, several provinces have introduced incentive programmes in the form of enhanced billing or condition&#x02010;based payments. Physicians can receive additional payments for each patient with diabetes who is managed in accordance with practice guidelines <xref rid="dme12949-bib-0033" ref-type="ref">33</xref>.</p><p>This carefully designed, large&#x02010;scale, randomized controlled study has several limitations. Because our study was conducted in Japan, which has adopted a public health insurance system for the entire nation, our results may not be applicable to countries with different organizational or insurance systems. Moreover, the contribution of individual components of our intervention was not evaluated, but this weakness is present in the evaluation of all multifaceted interventions.</p><p>In conclusion, multifaceted interventions, by measuring quality&#x02010;of&#x02010;care indicators and providing feedback to physicians regarding the quality of care with ABC were effective in improving the technical quality of care in patients with Type 2 diabetes in primary care settings, thereby offering promising strategies for improving technical quality of care in primary care settings.</p></sec><sec id="dme12949-sec-0018"><title>Funding sources</title><p>Funding was received from the Japan Agency for Medical Research and Development, Grant Number: Practical Research Project for Life&#x02010;Style related Diseases including CVD and Diabetes; Ministry of Health, Labour and Welfare, Japan, Grant Number: Strategic Outcomes Research Program for Research on Diabetes; Ministry of Health, Labour and Welfare, Japan, Grant Number: Comprehensive Research on Life&#x02010;Style Related Diseases including CVD and Diabetes H25&#x02010;016. The funding source had no role in the study design, data collection, data analysis, data interpretation, report writing or decision to submit the article for publication.</p></sec><sec id="dme12949-sec-0019"><title>Competing interests</title><p>None declared.</p></sec></body><back><ref-list content-type="cited-references" id="dme12949-bibl-0001"><title>References</title><ref id="dme12949-bib-0001"><label>1</label><mixed-citation publication-type="book" id="dme12949-cit-0001">
+<collab collab-type="authors">International Diabetes Federation</collab>
+. <source>IDF Diabetes Atlas update poster</source>, <edition>6th edn</edition>
+<publisher-loc>Brussels, Belgium</publisher-loc>: <publisher-name>International Diabetes Federation</publisher-name>, <year>2014</year>.</mixed-citation></ref><ref id="dme12949-bib-0002"><label>2</label><mixed-citation publication-type="book" id="dme12949-cit-0002">
+<collab collab-type="authors">Ministry of Health, Labour and Welfare</collab>
+. <article-title>National Health and Nutrition Survey</article-title>, <publisher-loc>Tokyo</publisher-loc>: <publisher-name>Ministry of Health, Labour and Welfare</publisher-name>, <year>2007</year>.</mixed-citation></ref><ref id="dme12949-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="dme12949-cit-0003">
+<article-title>Standards of Medical Care in Diabetes&#x02013;2015: summary of revisions</article-title>. <source>Diabetes Care</source>
+<year>2015</year>; <volume>38</volume>(<issue>Suppl S4</issue>): doi: <ext-link ext-link-type="doi" xlink:href="10.2337/dc15-S003">10.2337/dc15&#x02010;S003</ext-link>.</mixed-citation></ref><ref id="dme12949-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="dme12949-cit-0004">
+<article-title>Global Guideline for Type 2 Diabetes</article-title>. <source>Diabetes Res Clin Pract</source>
+<year>2014</year>; <volume>104</volume>: <fpage>1</fpage>&#x02013;<lpage>52</lpage>.<pub-id pub-id-type="pmid">24508150</pub-id></mixed-citation></ref><ref id="dme12949-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="dme12949-cit-0005">
+<string-name>
+<surname>Ali</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>Bullard</surname>
+<given-names>KM</given-names>
+</string-name>, <string-name>
+<surname>Saaddine</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Cowie</surname>
+<given-names>CC</given-names>
+</string-name>, <string-name>
+<surname>Imperatore</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Gregg</surname>
+<given-names>EW</given-names>
+</string-name>. <article-title>Achievement of goals in U.S. diabetes care, 1999&#x02013;2010</article-title>. <source>N Engl J Med</source>
+<year>2013</year>; <volume>368</volume>: <fpage>1613</fpage>&#x02013;<lpage>1624</lpage>.<pub-id pub-id-type="pmid">23614587</pub-id></mixed-citation></ref><ref id="dme12949-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="dme12949-cit-0006">
+<string-name>
+<surname>Saaddine</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Cadwell</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Gregg</surname>
+<given-names>EW</given-names>
+</string-name>, <string-name>
+<surname>Engelgau</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Vinicor</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Imperatore</surname>
+<given-names>G</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Improvements in diabetes processes of care and intermediate outcomes: United States, 1988&#x02013;2002</article-title>. <source>Ann Intern Med</source>
+<year>2006</year>; <volume>144</volume>: <fpage>465</fpage>&#x02013;<lpage>474</lpage>.<pub-id pub-id-type="pmid">16585660</pub-id></mixed-citation></ref><ref id="dme12949-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="dme12949-cit-0007">
+<string-name>
+<surname>Stone</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Charpentier</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Doggen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kuss</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Lindblad</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Kellner</surname>
+<given-names>C</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Quality of care of people with type 2 diabetes in eight European countries: findings from the Guideline Adherence to Enhance Care (GUIDANCE) study</article-title>. <source>Diabetes Care</source>
+<year>2013</year>; <volume>36</volume>: <fpage>2628</fpage>&#x02013;<lpage>2638</lpage>.<pub-id pub-id-type="pmid">23628621</pub-id></mixed-citation></ref><ref id="dme12949-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="dme12949-cit-0008">
+<string-name>
+<surname>Renders</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Valk</surname>
+<given-names>GD</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>EH</given-names>
+</string-name>, <string-name>
+<surname>Eijk Van</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Assendelft</surname>
+<given-names>WJ</given-names>
+</string-name>. <article-title>Interventions to improve the management of diabetes in primary care, outpatient, and community settings: a systematic review</article-title>. <source>Diabetes Care</source>
+<year>2001</year>; <volume>24</volume>: <fpage>1821</fpage>&#x02013;<lpage>1833</lpage>.<pub-id pub-id-type="pmid">11574449</pub-id></mixed-citation></ref><ref id="dme12949-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="dme12949-cit-0009">
+<string-name>
+<surname>Majumdar</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Guirguis</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Toth</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Lewanczuk</surname>
+<given-names>RZ</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>TK</given-names>
+</string-name>, <string-name>
+<surname>Johnson</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Controlled trial of a multifaceted intervention for improving quality of care for rural patients with type 2 diabetes</article-title>. <source>Diabetes Care</source>
+<year>2003</year>; <volume>26</volume>: <fpage>3061</fpage>&#x02013;<lpage>3066</lpage>.<pub-id pub-id-type="pmid">14578240</pub-id></mixed-citation></ref><ref id="dme12949-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="dme12949-cit-0010">
+<string-name>
+<surname>Donabedian</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>The quality of care. How can it be assessed?</article-title>
+<source>JAMA</source>
+<year>1988</year>; <volume>260</volume>: <fpage>1743</fpage>&#x02013;<lpage>1748</lpage>.<pub-id pub-id-type="pmid">3045356</pub-id></mixed-citation></ref><ref id="dme12949-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="dme12949-cit-0011">
+<string-name>
+<surname>Clancy</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Ensuring health care quality: an AHCPR perspective. Agency for Health Care Policy and Research</article-title>. <source>Clin Ther</source>
+<year>1997</year>; <volume>19</volume>: <fpage>1564</fpage>&#x02013;<lpage>1571</lpage>.<pub-id pub-id-type="pmid">9444462</pub-id></mixed-citation></ref><ref id="dme12949-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="dme12949-cit-0012">
+<string-name>
+<surname>Hall</surname>
+<given-names>RE</given-names>
+</string-name>, <string-name>
+<surname>Khan</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bayley</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Asllani</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lindsay</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Hill</surname>
+<given-names>MD</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Benchmarks for acute stroke care delivery</article-title>. <source>Int J Qual Health Care</source>
+<year>2013</year>; <volume>25</volume>: <fpage>710</fpage>&#x02013;<lpage>718</lpage>.<pub-id pub-id-type="pmid">24141011</pub-id></mixed-citation></ref><ref id="dme12949-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="dme12949-cit-0013">
+<string-name>
+<surname>Hammermeister</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bronsert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Henderson</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Coombs</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hosokawa</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Brandt</surname>
+<given-names>E</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Risk&#x02010;adjusted comparison of blood pressure and low&#x02010;density lipoprotein (LDL) noncontrol in primary care offices</article-title>. <source>J Am Board Fam Med</source>
+<year>2013</year>; <volume>26</volume>: <fpage>658</fpage>&#x02013;<lpage>668</lpage>.<pub-id pub-id-type="pmid">24204062</pub-id></mixed-citation></ref><ref id="dme12949-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="dme12949-cit-0014">
+<string-name>
+<surname>Wadland</surname>
+<given-names>WC</given-names>
+</string-name>, <string-name>
+<surname>Holtrop</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Weismantel</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Pathak</surname>
+<given-names>PK</given-names>
+</string-name>, <string-name>
+<surname>Fadel</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Powell</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Practice&#x02010;based referrals to a tobacco cessation quit line: assessing the impact of comparative feedback vs general reminders</article-title>. <source>Ann Fam Med</source>
+<year>2007</year>; <volume>5</volume>: <fpage>135</fpage>&#x02013;<lpage>142</lpage>.<pub-id pub-id-type="pmid">17389537</pub-id></mixed-citation></ref><ref id="dme12949-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="dme12949-cit-0015">
+<string-name>
+<surname>Kiefe</surname>
+<given-names>CI</given-names>
+</string-name>, <string-name>
+<surname>Allison</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>OD</given-names>
+</string-name>, <string-name>
+<surname>Person</surname>
+<given-names>SD</given-names>
+</string-name>, <string-name>
+<surname>Weaver</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Weissman</surname>
+<given-names>NW</given-names>
+</string-name>. <article-title>Improving quality improvement using achievable benchmarks for physician feedback: a randomized controlled trial</article-title>. <source>JAMA</source>
+<year>2001</year>; <volume>285</volume>: <fpage>2871</fpage>&#x02013;<lpage>2879</lpage>.<pub-id pub-id-type="pmid">11401608</pub-id></mixed-citation></ref><ref id="dme12949-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="dme12949-cit-0016">
+<string-name>
+<surname>Izumi</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hayashino</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yamazaki</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Suzuki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ishizuka</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Kobayashi</surname>
+<given-names>M</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Multifaceted intervention to promote the regular visiting of patients with diabetes to primary care physicians: rationale, design and conduct of a cluster&#x02010;randomized controlled trial. The Japan Diabetes Outcome Intervention Trial&#x02010;2 study protocol</article-title>. <source>Diabetol Int</source>
+<year>2010</year>; <volume>1</volume>: <fpage>83</fpage>&#x02013;<lpage>89</lpage>.</mixed-citation></ref><ref id="dme12949-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="dme12949-cit-0017">
+<string-name>
+<surname>Polonsky</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>BJ</given-names>
+</string-name>, <string-name>
+<surname>Lohrer</surname>
+<given-names>PA</given-names>
+</string-name>, <string-name>
+<surname>Welch</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Jacobson</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Aponte</surname>
+<given-names>JE</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Assessment of diabetes&#x02010;related distress</article-title>. <source>Diabetes Care</source>
+<year>1995</year>; <volume>18</volume>: <fpage>754</fpage>&#x02013;<lpage>760</lpage>.<pub-id pub-id-type="pmid">7555499</pub-id></mixed-citation></ref><ref id="dme12949-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="dme12949-cit-0018">
+<string-name>
+<surname>Fleming</surname>
+<given-names>BB</given-names>
+</string-name>, <string-name>
+<surname>Greenfield</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Engelgau</surname>
+<given-names>MM</given-names>
+</string-name>, <string-name>
+<surname>Pogach</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>Clauser</surname>
+<given-names>SB</given-names>
+</string-name>, <string-name>
+<surname>Parrott</surname>
+<given-names>MA</given-names>
+</string-name>. <article-title>The Diabetes Quality Improvement Project: moving science into health policy to gain an edge on the diabetes epidemic</article-title>. <source>Diabetes Care</source>
+<year>2001</year>; <volume>24</volume>: <fpage>1815</fpage>&#x02013;<lpage>1820</lpage>.<pub-id pub-id-type="pmid">11574448</pub-id></mixed-citation></ref><ref id="dme12949-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="dme12949-cit-0019">
+<string-name>
+<surname>Verhagen</surname>
+<given-names>AP</given-names>
+</string-name>, <string-name>
+<surname>de Vet</surname>
+<given-names>HC</given-names>
+</string-name>, <string-name>
+<surname>de Bie</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Kessels</surname>
+<given-names>AG</given-names>
+</string-name>, <string-name>
+<surname>Boers</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bouter</surname>
+<given-names>LM</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>The Delphi list: a criteria list for quality assessment of randomized clinical trials for conducting systematic reviews developed by Delphi consensus</article-title>. <source>J Clin Epidemiol</source>
+<year>1998</year>; <volume>51</volume>: <fpage>1235</fpage>&#x02013;<lpage>1241</lpage>.<pub-id pub-id-type="pmid">10086815</pub-id></mixed-citation></ref><ref id="dme12949-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="dme12949-cit-0020">
+<string-name>
+<surname>Glynn</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Brookhart</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Stedman</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Avorn</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Solomon</surname>
+<given-names>DH</given-names>
+</string-name>. <article-title>Design of cluster&#x02010;randomized trials of quality improvement interventions aimed at medical care providers</article-title>. <source>Med Care</source>
+<year>2007</year>; <volume>45</volume>(<issue>10 Suppl 2</issue>): <fpage>S38</fpage>&#x02013;<lpage>S43</lpage>.<pub-id pub-id-type="pmid">17909381</pub-id></mixed-citation></ref><ref id="dme12949-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="dme12949-cit-0021">
+<string-name>
+<surname>Yazaki</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Kadowaki</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Combating diabetes and obesity in Japan</article-title>. <source>Nat Med</source>
+<year>2006</year>; <volume>12</volume>: <fpage>73</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">16397574</pub-id></mixed-citation></ref><ref id="dme12949-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="dme12949-cit-0022">
+<string-name>
+<surname>Tricco</surname>
+<given-names>AC</given-names>
+</string-name>, <string-name>
+<surname>Ivers</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Grimshaw</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Moher</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Turner</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Galipeau</surname>
+<given-names>J</given-names>
+</string-name>
+<italic>et al</italic>
+<article-title>Effectiveness of quality improvement strategies on the management of diabetes: a systematic review and meta&#x02010;analysis</article-title>. <source>Lancet</source>
+<year>2012</year>; <volume>379</volume>: <fpage>2252</fpage>&#x02013;<lpage>2261</lpage>.<pub-id pub-id-type="pmid">22683130</pub-id></mixed-citation></ref><ref id="dme12949-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="dme12949-cit-0023">
+<string-name>
+<surname>Wooldridge</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name>
+<surname>Arat&#x000f3;</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Sen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Amenomori</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fetters</surname>
+<given-names>MD</given-names>
+</string-name>. <article-title>Truth or fallacy? Three hour wait for three minutes with the doctor: findings from a private clinic in rural Japan</article-title>. <source>Asia Pac Fam Med</source>
+<year>2010</year>; <volume>9</volume>: <fpage>11</fpage>.<pub-id pub-id-type="pmid">21092269</pub-id></mixed-citation></ref><ref id="dme12949-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="dme12949-cit-0024">
+<collab collab-type="authors">American Diabetes Association</collab>
+. <article-title>Standards of Medical Care in Diabetes&#x02013;2013</article-title>. <source>Diabetes Care</source>
+<year>2013</year>; <volume>36</volume>(<issue>Suppl 1</issue>): <fpage>S11</fpage>&#x02013;<lpage>S66</lpage>.<pub-id pub-id-type="pmid">23264422</pub-id></mixed-citation></ref><ref id="dme12949-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="dme12949-cit-0025">
+<string-name>
+<surname>McCarney</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Warner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Iliffe</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>van Haselen</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Griffin</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Fisher</surname>
+<given-names>P</given-names>
+</string-name>. <article-title>The Hawthorne effect: a randomised, controlled trial</article-title>. <source>BMC Med Res Methodol</source>
+<year>2007</year>; <volume>7</volume>: <fpage>30</fpage>.<pub-id pub-id-type="pmid">17608932</pub-id></mixed-citation></ref><ref id="dme12949-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="dme12949-cit-0026">
+<string-name>
+<surname>Pogach</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Aron</surname>
+<given-names>DC</given-names>
+</string-name>. <article-title>Sudden acceleration of diabetes quality measures</article-title>. <source>JAMA</source>
+<year>2011</year>; <volume>305</volume>: <fpage>709</fpage>&#x02013;<lpage>710</lpage>.<pub-id pub-id-type="pmid">21325188</pub-id></mixed-citation></ref><ref id="dme12949-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="dme12949-cit-0027">
+<string-name>
+<surname>Latham</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Marshall</surname>
+<given-names>EG</given-names>
+</string-name>. <article-title>Performance&#x02010;based financial incentives for diabetes care: an effective strategy?</article-title>
+<source>Can J Diabetes</source>
+<year>2015</year>; <volume>39</volume>: <fpage>83</fpage>&#x02013;<lpage>87</lpage>.<pub-id pub-id-type="pmid">25444683</pub-id></mixed-citation></ref><ref id="dme12949-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="dme12949-cit-0028">
+<string-name>
+<surname>Calvert</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shankar</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>McManus</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Lester</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Freemantle</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Effect of the quality and outcomes framework on diabetes care in the United Kingdom: retrospective cohort study</article-title>. <source>BMJ</source>
+<year>2009</year>; <volume>338</volume>: <fpage>b1870</fpage>.<pub-id pub-id-type="pmid">19474024</pub-id></mixed-citation></ref><ref id="dme12949-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="dme12949-cit-0029">
+<string-name>
+<surname>Alshamsan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>JT</given-names>
+</string-name>, <string-name>
+<surname>Majeed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Netuveli</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Millett</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Effect of a UK pay&#x02010;for&#x02010;performance program on ethnic disparities in diabetes outcomes: interrupted time series analysis</article-title>. <source>Ann Fam Med</source>
+<year>2012</year>; <volume>10</volume>: <fpage>228</fpage>&#x02013;<lpage>234</lpage>.<pub-id pub-id-type="pmid">22585887</pub-id></mixed-citation></ref><ref id="dme12949-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="dme12949-cit-0030">
+<string-name>
+<surname>Alshamsan</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Millett</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Majeed</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Khunti</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Has pay for performance improved the management of diabetes in the United Kingdom?</article-title>
+<source>Prim Care Diabetes</source>
+<year>2010</year>; <volume>4</volume>: <fpage>73</fpage>&#x02013;<lpage>78</lpage>.<pub-id pub-id-type="pmid">20363200</pub-id></mixed-citation></ref><ref id="dme12949-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="dme12949-cit-0031">
+<string-name>
+<surname>Russell</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mitchell</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Primary care reform. View from Australia</article-title>. <source>Can Fam Physician</source>
+<year>2002</year>; <volume>48</volume>: <fpage>440</fpage>&#x02013;<lpage>443</lpage>, 9&#x02013;53.<pub-id pub-id-type="pmid">11935703</pub-id></mixed-citation></ref><ref id="dme12949-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="dme12949-cit-0032">
+<string-name>
+<surname>Cheng</surname>
+<given-names>SH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>CC</given-names>
+</string-name>. <article-title>A longitudinal examination of a pay&#x02010;for&#x02010;performance program for diabetes care: evidence from a natural experiment</article-title>. <source>Med Care</source>
+<year>2012</year>; <volume>50</volume>: <fpage>109</fpage>&#x02013;<lpage>116</lpage>.<pub-id pub-id-type="pmid">22249920</pub-id></mixed-citation></ref><ref id="dme12949-bib-0033"><label>33</label><mixed-citation publication-type="book" id="dme12949-cit-0033">
+<collab collab-type="authors">Canadian Diabetes Association, Diab&#x000e8;te Qu&#x000e9;bec</collab>
+. <source>Diabetes: Canada at the Tipping Point &#x02013; Charting a New Path</source>. <publisher-loc>Toronto</publisher-loc>: <publisher-name>Canadian Diabetes Association</publisher-name>, <year>2010</year>.</mixed-citation></ref></ref-list><app-group><app id="dme12949-app-0001" content-type="Appendix"><sec id="dme12949-sec-0020"><p>
+<disp-formula id="dme12949-disp-0001"><mml:math id="nlm-math-1"><mml:mrow><mml:msub><mml:mi>Y</mml:mi><mml:mi>i</mml:mi></mml:msub><mml:mo>=</mml:mo><mml:mfenced close=")" open="(" separators=""><mml:mfrac><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>8</mml:mn></mml:msubsup><mml:mi>X</mml:mi><mml:msub><mml:mi>d</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow><mml:mrow><mml:msubsup><mml:mo>&#x02211;</mml:mo><mml:mrow><mml:mi>j</mml:mi><mml:mo>=</mml:mo><mml:mn>1</mml:mn></mml:mrow><mml:mn>8</mml:mn></mml:msubsup><mml:mi>X</mml:mi><mml:msub><mml:mi>n</mml:mi><mml:mrow><mml:mi>i</mml:mi><mml:mi>j</mml:mi></mml:mrow></mml:msub></mml:mrow></mml:mfrac></mml:mfenced><mml:mo>&#x000d7;</mml:mo><mml:mn>100</mml:mn></mml:mrow></mml:math></disp-formula>
+</p><p>
+<italic>Yi</italic>: quality&#x02010;of&#x02010;care score.</p><p>
+<italic>i</italic>: identification number of participant.</p><p>
+<italic>j</italic>: identification number of the eight quality indicators, <italic>j</italic> = 1, 2, &#x02026;, 8.</p><p>
+<italic>Xd</italic>
+<sub><italic>ij</italic></sub>: <italic>Xd</italic>
+<sub><italic>ij</italic></sub> = 1 if the physician adhered to the <italic>j</italic>th indicator for participant <italic>I</italic>;<italic> Xd</italic>
+<sub><italic>ij</italic></sub> = 0 if the physician did not adhere to the <italic>j</italic>th indicator for participant <italic>i</italic>.</p><p>
+<italic>Xn</italic>
+<sub><italic>ij</italic></sub>: <italic>Xn</italic>
+<sub><italic>ij</italic></sub> = 1 if the <italic>j</italic>th indicator was applicable to participant <italic>i</italic>;<italic> Xn</italic>
+<sub><italic>ij</italic></sub> = 0 if the <italic>j</italic>th indicator was not applicable to participant <italic>i</italic>.</p></sec></app></app-group></back></article>

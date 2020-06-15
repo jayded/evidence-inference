@@ -1,0 +1,1512 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29440010</article-id><article-id pub-id-type="pmc">5850179</article-id><article-id pub-id-type="doi">10.1161/JAHA.117.006833</article-id><article-id pub-id-type="publisher-id">JAH32862</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Coronary Heart Disease</subject></subj-group></subj-group></article-categories><title-group><article-title>Effect and Safety of Morphine Use in Acute Anterior <styled-content style="fixed-case">ST</styled-content>&#x02010;Segment Elevation Myocardial Infarction</article-title><alt-title alt-title-type="left-running-head">Bonin et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah32862-cr-0001" contrib-type="author" corresp="yes"><name><surname>Bonin</surname><given-names>Mickael</given-names></name><degrees>MD</degrees><address><email>mickael.bonin44@gmail.com</email></address><xref ref-type="aff" rid="jah32862-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32862-cr-0002" contrib-type="author"><name><surname>Mewton</surname><given-names>Nathan</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32862-cr-0003" contrib-type="author"><name><surname>Roubille</surname><given-names>Francois</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32862-cr-0004" contrib-type="author"><name><surname>Morel</surname><given-names>Olivier</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah32862-cr-0005" contrib-type="author"><name><surname>Cayla</surname><given-names>Guillaume</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="jah32862-cr-0006" contrib-type="author"><name><surname>Angoulvant</surname><given-names>Denis</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0006">
+<sup>6</sup>
+</xref></contrib><contrib id="jah32862-cr-0007" contrib-type="author"><name><surname>Elbaz</surname><given-names>Meyer</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="jah32862-cr-0008" contrib-type="author"><name><surname>Claeys</surname><given-names>Marc J.</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="jah32862-cr-0009" contrib-type="author"><name><surname>Garcia&#x02010;Dorado</surname><given-names>David</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="jah32862-cr-0010" contrib-type="author"><name><surname>Giraud</surname><given-names>C&#x000e9;line</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="jah32862-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32862-cr-0011" contrib-type="author"><name><surname>Rioufol</surname><given-names>Gilles</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="jah32862-cr-0012" contrib-type="author"><name><surname>Jossan</surname><given-names>Claire</given-names></name><degrees>MSc</degrees><xref ref-type="aff" rid="jah32862-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32862-cr-0013" contrib-type="author"><name><surname>Ovize</surname><given-names>Michel</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32862-cr-0014" contrib-type="author"><name><surname>Guerin</surname><given-names>Patrice</given-names></name><degrees>MD, PhD</degrees><xref ref-type="aff" rid="jah32862-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32862-cr-0015" contrib-type="author"><collab collab-type="authors">the CIRCUS Study Investigators<contrib-group><contrib id="jah32862-cr-0016" contrib-type="author"><name><surname>Bonnefoy&#x02010;Cudraz</surname><given-names>Eric</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0017" contrib-type="author"><name><surname>Delarche</surname><given-names>Nicolas</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0018" contrib-type="author"><name><surname>Coste</surname><given-names>Pierre</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0019" contrib-type="author"><name><surname>Vanzetto</surname><given-names>Gerald</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0020" contrib-type="author"><name><surname>Metge</surname><given-names>Marc</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0021" contrib-type="author"><name><surname>Aupetit</surname><given-names>Jean&#x02010;Fran&#x000e7;ois</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0022" contrib-type="author"><name><surname>Jouve</surname><given-names>Bernard</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0023" contrib-type="author"><name><surname>Motreff</surname><given-names>Pascal</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0024" contrib-type="author"><name><surname>Tron</surname><given-names>Christophe</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0025" contrib-type="author"><name><surname>Labeque</surname><given-names>Jean&#x02010;Noel</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0026" contrib-type="author"><name><surname>Steg</surname><given-names>Philippe Gabriel</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0027" contrib-type="author"><name><surname>Cottin</surname><given-names>Yves</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0028" contrib-type="author"><name><surname>Range</surname><given-names>Gr&#x000e9;goire</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0029" contrib-type="author"><name><surname>Clerc</surname><given-names>J&#x000e9;rome</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0030" contrib-type="author"><name><surname>Coussement</surname><given-names>Patrick</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0031" contrib-type="author"><name><surname>Prunier</surname><given-names>Fabrice</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0032" contrib-type="author"><name><surname>Moulin</surname><given-names>Fr&#x000e9;d&#x000e9;ric</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0033" contrib-type="author"><name><surname>Roth</surname><given-names>Olivier</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0034" contrib-type="author"><name><surname>Belle</surname><given-names>Lo&#x000ef;c</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0035" contrib-type="author"><name><surname>Dubois</surname><given-names>Philippe</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0036" contrib-type="author"><name><surname>Barragan</surname><given-names>Paul</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0037" contrib-type="author"><name><surname>Gilard</surname><given-names>Martine</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0038" contrib-type="author"><name><surname>Piot</surname><given-names>Christophe</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0039" contrib-type="author"><name><surname>Colin</surname><given-names>Patrice</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0040" contrib-type="author"><name><surname>De Poli</surname><given-names>Fabien</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0041" contrib-type="author"><name><surname>Morice</surname><given-names>Marie&#x02010;Claude</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0042" contrib-type="author"><name><surname>Ider</surname><given-names>Omar</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0043" contrib-type="author"><name><surname>Dubois&#x02010;Rand&#x000e9;</surname><given-names>Jean&#x02010;Luc</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0044" contrib-type="author"><name><surname>Unterseeh</surname><given-names>Thierry</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0045" contrib-type="author"><name><surname>Le Breton</surname><given-names>Herv&#x000e9;</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0046" contrib-type="author"><name><surname>B&#x000e9;ard</surname><given-names>Thierry</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0047" contrib-type="author"><name><surname>Blanchard</surname><given-names>Didier</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0048" contrib-type="author"><name><surname>Grollier</surname><given-names>Gilles</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0049" contrib-type="author"><name><surname>Malquarti</surname><given-names>Vincent</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0050" contrib-type="author"><name><surname>Staat</surname><given-names>Patrick</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0051" contrib-type="author"><name><surname>Sudre</surname><given-names>Arnaud</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0052" contrib-type="author"><name><surname>Elmer</surname><given-names>Eskil</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0053" contrib-type="author"><name><surname>Hansson</surname><given-names>Magnus J.</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0054" contrib-type="author"><name><surname>Bergerot</surname><given-names>Cyrille</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0055" contrib-type="author"><name><surname>Boussaha</surname><given-names>Inesse</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib><contrib id="jah32862-cr-0056" contrib-type="author"><name><surname>Derumeaux</surname><given-names>Genevi&#x000e8;ve</given-names></name><xref ref-type="contrib" rid="jah32862-cr-0015"/></contrib></contrib-group></collab><xref ref-type="author-notes" rid="jah32862-note-1002">
+<sup>&#x02020;</sup>
+</xref></contrib></contrib-group><aff id="jah32862-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Unit&#x000e9; d'h&#x000e9;modynamique et Cardio&#x02010;Vasculaire Interventionnel</named-content>
+<named-content content-type="organisation-division">Institut du Thorax</named-content>
+<institution>Centre Hospitalier Universitaire (CHU) Nantes</institution>
+<named-content content-type="city">Nantes</named-content>
+<country country="FR">France</country>
+</aff><aff id="jah32862-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Centre d'Investigations Cliniques</named-content>
+<named-content content-type="organisation-division">Service d'explorations Fonctionnelles Cardiovasculaires</named-content>
+<institution>H&#x000f4;pital Cardiologique Louis Pradel</institution>
+<named-content content-type="city">Bron</named-content>
+<country country="FR">France</country>
+</aff><aff id="jah32862-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">UFR de M&#x000e9;decine</named-content>
+<named-content content-type="organisation-division">Cardiology Department</named-content>
+<named-content content-type="organisation-division">H&#x000f4;pital Arnaud&#x02010;de&#x02010;Villeneuve</named-content>
+<named-content content-type="organisation-division">CHU Montpellier</named-content>
+<institution>University of Montpellier 1</institution>
+<named-content content-type="city">Montpellier</named-content>
+<country country="FR">France</country>
+</aff><aff id="jah32862-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Cardiology Department</named-content>
+<named-content content-type="organisation-division">Nouvel H&#x000f4;pital Civil</named-content>
+<institution>University of Strasbourg</institution>
+<named-content content-type="city">Strasbourg</named-content>
+<country country="FR">France</country>
+</aff><aff id="jah32862-aff-0005">
+<label><sup>5</sup></label>
+<named-content content-type="organisation-division">Cardiology Department</named-content>
+<named-content content-type="organisation-division">CHU N&#x000ee;mes</named-content>
+<institution>University of Montpellier</institution>
+<named-content content-type="city">N&#x000ee;mes</named-content>
+<country country="FR">France</country>
+</aff><aff id="jah32862-aff-0006">
+<label><sup>6</sup></label>
+<named-content content-type="organisation-division">Cardiology Department and EA4245</named-content>
+<named-content content-type="organisation-division">Facult&#x000e9; de M&#x000e9;decine</named-content>
+<named-content content-type="organisation-division">Tours University Hospital</named-content>
+<institution>University Fran&#x000e7;ois&#x02010;Rabelais</institution>
+<named-content content-type="city">Tours</named-content>
+<country country="FR">France</country>
+</aff><aff id="jah32862-aff-0007">
+<label><sup>7</sup></label>
+<named-content content-type="organisation-division">Cardiology Department</named-content>
+<institution>Rangueil Hospital</institution>
+<named-content content-type="city">Toulouse</named-content>
+<country country="FR">France</country>
+</aff><aff id="jah32862-aff-0008">
+<label><sup>8</sup></label>
+<named-content content-type="organisation-division">Cardiology Department</named-content>
+<named-content content-type="organisation-division">Antwerp University Hospital</named-content>
+<institution>University of Antwerp</institution>
+<named-content content-type="city">Antwerp</named-content>
+<country country="BE">Belgium</country>
+</aff><aff id="jah32862-aff-0009">
+<label><sup>9</sup></label>
+<institution>Hospital Universitari Vall d'Hebron</institution>
+<named-content content-type="city">Barcelona</named-content>
+<country country="ES">Spain</country>
+</aff><aff id="jah32862-aff-0010">
+<label><sup>10</sup></label>
+<named-content content-type="organisation-division">Interventional Cardiology Department</named-content>
+<institution>Hospices Civils de Lyon</institution>
+<named-content content-type="city">Lyon</named-content>
+<country country="FR">France</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Mickael Bonin, MD, Institut du Thorax, Hopital Nord Laennec, Boulevard Jacques Monod, 44800 Saint Herblain, France. E&#x02010;mail: <email>mickael.bonin44@gmail.com</email></corresp><fn id="jah32862-note-1002"><label>&#x02020;</label><p>A complete list of the CIRCUS Study Investigators can be found in the <xref rid="jah32862-app-0001" ref-type="app"> Appendix</xref>&#x000a0;at the end of the article.</p></fn></author-notes><pub-date pub-type="epub"><day>10</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="collection"><month>2</month><year>2018</year></pub-date><volume>7</volume><issue>4</issue><issue-id pub-id-type="doi">10.1002/jah3.2018.7.issue-4</issue-id><elocation-id>e006833</elocation-id><history><date date-type="received"><day>05</day><month>6</month><year>2017</year></date><date date-type="accepted"><day>20</day><month>11</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors and Hospices Civils de Lyon. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy-nc"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution&#x02010;NonCommercial</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited and is not used for commercial purposes.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-7-e006833.pdf"/><abstract id="jah32862-abs-0001"><sec id="jah32862-sec-0001"><title>Background</title><p>Morphine is commonly used to treat chest pain during myocardial infarction, but its effect on cardiovascular outcome has never been directly evaluated. The aim of this study was to examine the effect and safety of morphine in patients with acute anterior <styled-content style="fixed-case">ST</styled-content>&#x02010;segment elevation myocardial infarction followed up for 1&#x000a0;year.</p></sec><sec id="jah32862-sec-0002"><title>Methods and Results</title><p>We used the database of the CIRCUS (Does Cyclosporine Improve Outcome in ST Elevation Myocardial Infarction Patients) trial, which included 969 patients with anterior <styled-content style="fixed-case">ST</styled-content>&#x02010;segment elevation myocardial infarction, admitted for primary percutaneous coronary intervention. Two groups were defined according to use of morphine preceding coronary angiography. The composite primary outcome was the combined incidence of major adverse cardiovascular events, including cardiovascular death, heart failure, cardiogenic shock, myocardial infarction, unstable angina, and stroke during 1&#x000a0;year. A total of 554 (57.1%) patients received morphine at first medical contact. Both groups, with and without morphine treatment, were comparable with respect to demographic and periprocedural characteristics. There was no significant difference in major adverse cardiovascular events between patients who received morphine compared with those who did not (26.2% versus 22.0%, respectively; <italic>P</italic>=0.15). The all&#x02010;cause mortality was 5.3% in the morphine group versus 5.8% in the no&#x02010;morphine group (<italic>P</italic>=0.89). There was no difference between groups in infarct size as assessed by the creatine kinase peak after primary percutaneous coronary intervention (4023&#x000b1;118 versus 3903&#x000b1;149&#x000a0;IU/L; <italic>P</italic>=0.52).</p></sec><sec id="jah32862-sec-0003"><title>Conclusions</title><p>In anterior <styled-content style="fixed-case">ST</styled-content>&#x02010;segment elevation myocardial infarction patients treated by primary percutaneous coronary intervention, morphine was used in half of patients during initial management and was not associated with a significant increase in major adverse cardiovascular events at 1&#x000a0;year.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah32862-kwd-0001">clinical</kwd><kwd id="jah32862-kwd-0002">morphine</kwd><kwd id="jah32862-kwd-0003">opioid</kwd><kwd id="jah32862-kwd-0004">percutaneous coronary intervention</kwd><kwd id="jah32862-kwd-0005">pharmaceutical safety</kwd><kwd id="jah32862-kwd-0006"><styled-content style="fixed-case">ST</styled-content>&#x02010;segment elevation myocardial infarction</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Clinical Studies</kwd><kwd>Acute Coronary Syndromes</kwd><kwd>Percutaneous Coronary Intervention</kwd><kwd>Quality and Outcomes</kwd><kwd>Pharmacology</kwd></kwd-group><counts><fig-count count="4"/><table-count count="4"/><page-count count="8"/><word-count count="6345"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah32862</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>February 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:20.02.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah32862-cit-1001">(<source>J Am Heart Assoc</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e006833</elocation-id> DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.117.006833">10.1161/JAHA.117.006833</ext-link>.)<pub-id pub-id-type="pmid">29440010</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="jah32862-blkfxd-0001" orientation="portrait"><sec id="jah32862-sec-0005"><title>Clinical Perspective</title><sec id="jah32862-sec-0006"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah32862-list-0001"><list-item><p>This retrospective study evaluating outcomes associated with morphine use in an <styled-content style="fixed-case">ST</styled-content>&#x02010;segment elevation myocardial infarction population provides additional data that use of morphine is not associated with adverse outcomes.</p></list-item></list>
+</p></sec><sec id="jah32862-sec-0007"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah32862-list-0002"><list-item><p>Use of morphine to relieve chest pain is safe in patients with <styled-content style="fixed-case">ST</styled-content>&#x02010;segment elevation myocardial infarction.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah32862-sec-0008"><title>Introduction</title><p>Morphine is currently used and recommended for the treatment of chest pain during myocardial infarction, but the level of evidence is low, attributed to the lack of supportive clinical studies.<xref rid="jah32862-bib-0001" ref-type="ref">1</xref>, <xref rid="jah32862-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32862-bib-0003" ref-type="ref">3</xref>, <xref rid="jah32862-bib-0004" ref-type="ref">4</xref>
+</p><p>Moreover, the American Heart Association has relegated morphine use in patients with non&#x02010;ST&#x02010;segment elevation myocardial infarction from a Class I to a Class IIa recommendation.<xref rid="jah32862-bib-0003" ref-type="ref">3</xref> This modification was driven by the results from the CRUSADE (Can Rapid Risk Stratification of Unstable Angina Patients Suppress Adverse Outcomes with Early Implementation of the American College of Cardiology/American Heart Association Guidelines) registry showing that, in patients with non&#x02010;ST&#x02010;segment elevation myocardial infarction, morphine use increased the risk of death and adverse outcome.<xref rid="jah32862-bib-0005" ref-type="ref">5</xref> Morphine has also been associated with suboptimal reperfusion success and a low myocardial salvage index after primary percutaneous coronary intervention (PPCI) in patients presenting with ST&#x02010;segment elevation myocardial infarction (STEMI).<xref rid="jah32862-bib-0006" ref-type="ref">6</xref>
+</p><p>Nevertheless, in 2 independent cohorts from the FAST&#x02010;MI (French Registry of Acute ST&#x02010;elevation and non&#x02010;ST&#x02010;elevation Myocardial Infarction) registry, prehospital morphine use in STEMI patients did not increase in&#x02010;hospital complications or 1&#x02010;year mortality.<xref rid="jah32862-bib-0007" ref-type="ref">7</xref> Because of this controversy, additional investigations are necessary.</p><p>The aim of this study was to explore the effect of morphine on clinical outcomes in a population of patients with anterior STEMI referred for PPCI.</p></sec><sec id="jah32862-sec-0009"><title>Methods</title><p>The data, analytical methods, and study materials will not be made available to other researchers for purposes of reproducing the results or replicating the procedure.</p><sec id="jah32862-sec-0010"><title>Study Design</title><p>We used the database of the recently published CIRCUS (Does Cyclosporine Improve Outcome in ST Elevation Myocardial Infarction Patients) trial<xref rid="jah32862-bib-0008" ref-type="ref">8</xref>, <xref rid="jah32862-bib-0009" ref-type="ref">9</xref> for a post hoc analysis assessing the effect of morphine use in the initial management of patients with anterior STEMI undergoing PPCI.</p><p>CIRCUS was an international, multicenter, double&#x02010;blind, placebo&#x02010;controlled trial conducted between April 2011 and February 2014. The CIRCUS trial showed no significant effect of cyclosporine on the clinical outcomes of patients with anterior STEMI.<xref rid="jah32862-bib-0009" ref-type="ref">9</xref>
+</p><p>CIRCUS study was performed in accord with the principles of the Declaration of Helsinki and the European guidelines for Good Clinical Practice. Approval was obtained from the ethics committees in the relevant countries, and written consent for data use was obtained from all patients.</p></sec><sec id="jah32862-sec-0011"><title>Study Population</title><p>We analyzed data from the intent&#x02010;to&#x02010;treat population of the CIRCUS trial.</p><p>Eligible patients (male and female) were aged &#x02265;18&#x000a0;years and presented within 12&#x000a0;hours of onset of symptoms evocative of acute coronary syndrome (ACS). They were required to have ST&#x02010;segment elevation &#x02265;0.2&#x000a0;mV in 2 anterior contiguous leads and to be scheduled for PPCI. Written informed consent was obtained from all patients.</p><p>Exclusion criteria included cardiogenic shock or loss of consciousness during the prehospital period, known hypersensitivity to cyclosporine, known kidney or liver failure, pregnancy or absence of contraception in women of childbearing age, and any disorder associated with immunological dysfunction within the previous 6&#x000a0;months.</p></sec><sec id="jah32862-sec-0012"><title>Study Treatment</title><p>CIRCUS patients were divided into 2 groups with and without intravenous morphine before PPCI. In a post&#x02010;hoc analysis setting, we hypothesized that morphine use would be superior to the absence of morphine use in terms of primary outcomes.</p></sec><sec id="jah32862-sec-0013"><title>Study Outcomes</title><p>The primary outcome was the rate of occurrence of major adverse cardiovascular event (MACE) including cardiovascular death, heart failure, cardiogenic shock, recurrent myocardial infarction, unstable angina, and stroke during 1 year of follow&#x02010;up. Cardiogenic shock was defined as systolic blood pressure &#x0003c;80&#x000a0;mm&#x000a0;Hg for &#x0003e;30&#x000a0;minutes, unresponsive to fluid replacement, and associated with signs of peripheral and end&#x02010;organ hypoperfusion. Heart failure was defined as clinical symptoms requiring initiation or intensification of heart failure treatment with intravenous administration of diuretics. Unstable angina was defined as the presence of acute chest pain associated with ST depression, or new onset of negative T waves, and no elevation of troponins.</p><p>Secondary outcomes included rate of occurrence of individual MACE, all&#x02010;cause death, adverse left ventricular remodeling during 1 year of follow&#x02010;up, and the creatine phosphokinase (CPK) peak blood concentration in the 24&#x000a0;hours post&#x02010;PPCI.</p><p>MACE were adjudicated by an event validation committee composed of at least 3 cardiologists/physicians blinded to treatment. Total CPK blood concentration was measured in peripheral total blood at the time of PPCI and 4, 12, and 24&#x000a0;hours post&#x02010;PPCI. CPK measures were conducted locally, in each participating center. CPK peak concentration was defined as the highest value collected during the 24&#x000a0;hours post&#x02010;PPCI. It was used as an indirect evaluation of infarct size.<xref rid="jah32862-bib-0010" ref-type="ref">10</xref>, <xref rid="jah32862-bib-0011" ref-type="ref">11</xref> Adverse left ventricular remodeling was defined as an increase of 15% or more of end diastolic left ventricular volume indexed to body surface area. End diastolic volume was measured at discharge and at 1&#x000a0;year by blinded expert readers. The measures were performed on echocardiographic data, according to the Simpson biplane rule.</p></sec><sec id="jah32862-sec-0014"><title>Subgroup Analysis</title><p>Cyclosporine is an inhibitor of cerebral<xref rid="jah32862-bib-0012" ref-type="ref">12</xref> and intestinal<xref rid="jah32862-bib-0013" ref-type="ref">13</xref> P&#x02010;glycoprotein. P&#x02010;glycoproteins are involved in morphine intestinal absorption<xref rid="jah32862-bib-0014" ref-type="ref">14</xref> and neurological circulation.<xref rid="jah32862-bib-0015" ref-type="ref">15</xref> This P&#x02010;glycoprotein inhibition could lead to an increased effect of morphine.<xref rid="jah32862-bib-0014" ref-type="ref">14</xref>
+</p><p>To evaluate the effect of this pharmacological interaction on our results, we compared the 4 subgroups: morphine with cyclosporine; morphine with placebo; no morphine with cyclosporine; and no morphine with placebo on MACE occurrence and on infarct size. We also explored morphine with cyclosporine interaction effect on MACE occurrence by 2&#x02010;way ANOVA with an interaction term.</p></sec><sec id="jah32862-sec-0015"><title>Statistical Analysis</title><p>All statistical analyses were post hoc and were not prespecified in the original CIRCUS Statistical Analysis Plan.</p><p>Continuous variables with normal distribution are expressed as means and SDs. Continuous variables with a non&#x02010;normal distribution are expressed as medians and interquartile ranges. Normality was tested with the Shapiro&#x02013;Wilk test. Categorical variables are expressed as percentages. The study population was divided into 2 groups according to morphine use. Comparison of baseline characteristics or outcomes was performed using the chi&#x02010;squared test or Fischer's exact test, as appropriate, for categorical variables. The Student <italic>t</italic> test was used for continuous variables with normal distribution and the Wilkoxon test for continuous variables with non&#x02010;normal distribution. Unadjusted event&#x02010;free survival was evaluated by Kaplan&#x02013;Meier estimates, and comparison between groups was conducted using the log&#x02010;rank test. Adjusted risk estimates were obtained using the Cox proportional hazards model, including variables found to differ significantly between groups on univariate analysis or deemed to be clinically relevant.</p><p>For all comparisons, a value of <italic>P</italic>&#x0003c;0.05 was considered statistically significant. When appropriate, 95% confidence intervals were calculated.</p><p>All statistical analyses were conducted using STATA software (version SE 14.2; (StataCorp LP, College Station, TX).</p></sec></sec><sec id="jah32862-sec-0016"><title>Results</title><p>The intent&#x02010;to&#x02010;treat CIRCUS population included 969 patients.<xref rid="jah32862-bib-0008" ref-type="ref">8</xref>, <xref rid="jah32862-bib-0009" ref-type="ref">9</xref> Two patients were not included in our analysis because of lack of information on morphine use. Morphine was used before PPCI in 554 (57.3%) patients. Baseline characteristics (Table&#x000a0;<xref rid="jah32862-tbl-0001" ref-type="table-wrap">1</xref>) and periprocedural characteristics (Table&#x000a0;<xref rid="jah32862-tbl-0002" ref-type="table-wrap">2</xref>) were well balanced between groups with and without morphine use. There was a nonsignificant trend toward younger age and a shorter total ischemic time in patients receiving morphine. There was also a trend toward more heart failure and cardiogenic shock in the morphine group: 13.1% versus 10.2% of patients admitted in Killip 2 or 3 and 1.4% versus 0% of patients admitted with cardiogenic in morphine and no&#x02010;morphine group, respectively (Table&#x000a0;<xref rid="jah32862-tbl-0002" ref-type="table-wrap">2</xref>).</p><table-wrap id="jah32862-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Characteristics of the Patients at Baseline</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">All Patients (n=967)</th><th align="left" valign="top" rowspan="1" colspan="1">Patients With Morphine (n=554)</th><th align="left" valign="top" rowspan="1" colspan="1">Patients Without Morphine (n=413)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value (Wilcoxon or Fisher's Test)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y</td><td align="left" rowspan="1" colspan="1">60&#x000b1;13</td><td align="left" rowspan="1" colspan="1">59&#x000b1;13</td><td align="left" rowspan="1" colspan="1">61&#x000b1;13</td><td align="left" rowspan="1" colspan="1">0.07</td></tr><tr><td align="left" rowspan="1" colspan="1">Male sex, %</td><td align="left" rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">82</td><td align="left" rowspan="1" colspan="1">0.73</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">27&#x000b1;4</td><td align="left" rowspan="1" colspan="1">27&#x000b1;4</td><td align="left" rowspan="1" colspan="1">27&#x000b1;4</td><td align="left" rowspan="1" colspan="1">0.14</td></tr><tr><td align="left" rowspan="1" colspan="1">Current smoker, %</td><td align="left" rowspan="1" colspan="1">42</td><td align="left" rowspan="1" colspan="1">43</td><td align="left" rowspan="1" colspan="1">41</td><td align="left" rowspan="1" colspan="1">0.39</td></tr><tr><td align="left" rowspan="1" colspan="1">Hypertension, %</td><td align="left" rowspan="1" colspan="1">37</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">37</td><td align="left" rowspan="1" colspan="1">0.74</td></tr><tr><td align="left" rowspan="1" colspan="1">Diabetes mellitus, %</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">13</td><td align="left" rowspan="1" colspan="1">1.00</td></tr><tr><td align="left" rowspan="1" colspan="1">Dyslipidemia, %</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">40</td><td align="left" rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1">0.18</td></tr><tr><td align="left" rowspan="1" colspan="1">Previous myocardial infarction, %</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">5</td><td align="left" rowspan="1" colspan="1">0.67</td></tr><tr><td align="left" rowspan="1" colspan="1">Previous PCI, %</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">7</td><td align="left" rowspan="1" colspan="1">6</td><td align="left" rowspan="1" colspan="1">0.61</td></tr><tr><td align="left" rowspan="1" colspan="1">LVEF, %</td><td align="left" rowspan="1" colspan="1">47&#x000b1;10</td><td align="left" rowspan="1" colspan="1">47&#x000b1;10</td><td align="left" rowspan="1" colspan="1">48&#x000b1;10</td><td align="left" rowspan="1" colspan="1">0.16</td></tr><tr><td align="left" rowspan="1" colspan="1">Cyclosporine use before PPCI, %</td><td align="left" rowspan="1" colspan="1">49</td><td align="left" rowspan="1" colspan="1">51</td><td align="left" rowspan="1" colspan="1">46</td><td align="left" rowspan="1" colspan="1">0.12</td></tr></tbody></table><table-wrap-foot><fn id="jah32862-note-0003"><p>Values are expressed as means&#x000b1;SD. LVEF indicates left ventricular ejection fraction (measured by echocardiography); PCI, percutaneous coronary intervention; PPCI, primary percutaneous coronary intervention.</p></fn></table-wrap-foot></table-wrap><table-wrap id="jah32862-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Periprocedural Characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Patients With Morphine (n=554)</th><th align="left" valign="top" rowspan="1" colspan="1">Patients Without Morphine (n=413)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Killip class at admission</td><td align="left" rowspan="1" colspan="1">505</td><td align="left" rowspan="1" colspan="1">353</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Class 1</td><td align="left" rowspan="1" colspan="1">432 (85.5)</td><td align="left" rowspan="1" colspan="1">317 (90.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Class 2</td><td align="left" rowspan="1" colspan="1">57 (11.3)</td><td align="left" rowspan="1" colspan="1">29 (8.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Class 3</td><td align="left" rowspan="1" colspan="1">9 (1.8)</td><td align="left" rowspan="1" colspan="1">7 (2.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Class 4</td><td align="left" rowspan="1" colspan="1">7 (1.4)</td><td align="left" rowspan="1" colspan="1">0 (0.0)</td></tr><tr><td align="left" rowspan="1" colspan="1">Total ischemic time, mean&#x000b1;SD (h)</td><td align="left" rowspan="1" colspan="1">3.99&#x000b1;2.39</td><td align="left" rowspan="1" colspan="1">4.94&#x000b1;3.07</td></tr><tr><td align="left" rowspan="1" colspan="1">Rentrop Grade 2 or 3</td><td align="left" rowspan="1" colspan="1">34/554 (6.1)</td><td align="left" rowspan="1" colspan="1">31/413 (7.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Angiographic thrombus burden &#x02265;3</td><td align="left" rowspan="1" colspan="1">358/533 (67.2)</td><td align="left" rowspan="1" colspan="1">267/395 (67.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Area at risk, mean&#x000b1;SD (%)<xref ref-type="fn" rid="jah32862-note-0005">a</xref>
+</td><td align="left" rowspan="1" colspan="1">36.8&#x000b1;8.4</td><td align="left" rowspan="1" colspan="1">35.6&#x000b1;8.6</td></tr><tr><td align="left" rowspan="1" colspan="1">Proximal localization</td><td align="left" rowspan="1" colspan="1">252/552 (45.6)</td><td align="left" rowspan="1" colspan="1">157/403 (38.9)</td></tr><tr><td align="left" rowspan="1" colspan="1">Multivessel disease</td><td align="left" rowspan="1" colspan="1">203/554 (36.6)</td><td align="left" rowspan="1" colspan="1">154/413 (37.3)</td></tr><tr><td align="left" rowspan="1" colspan="1">Thrombolysis rate</td><td align="left" rowspan="1" colspan="1">33/554 (5.9)</td><td align="left" rowspan="1" colspan="1">27/413 (6.5)</td></tr><tr><td align="left" rowspan="1" colspan="1">Stenting</td><td align="left" rowspan="1" colspan="1">492/554 (88.8)</td><td align="left" rowspan="1" colspan="1">362/413 (87.6)</td></tr><tr><td align="left" rowspan="1" colspan="1">No reflow</td><td align="left" rowspan="1" colspan="1">30/554 (5.4)</td><td align="left" rowspan="1" colspan="1">25/413 (6.1)</td></tr><tr><td align="left" rowspan="1" colspan="1">Final TIMI</td><td align="left" rowspan="1" colspan="1">548</td><td align="left" rowspan="1" colspan="1">403</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TIMI=0</td><td align="left" rowspan="1" colspan="1">9 (1.6)</td><td align="left" rowspan="1" colspan="1">4 (1.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TIMI=1</td><td align="left" rowspan="1" colspan="1">2 (0.3)</td><td align="left" rowspan="1" colspan="1">8 (2.0)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TIMI=2</td><td align="left" rowspan="1" colspan="1">29 (5.3)</td><td align="left" rowspan="1" colspan="1">29 (7.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">TIMI=3</td><td align="left" rowspan="1" colspan="1">508 (92.7)</td><td align="left" rowspan="1" colspan="1">362 (89.8)</td></tr><tr><td align="left" colspan="3" rowspan="1">Treatment at discharge</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Double antiplatelet treatment</td><td align="left" rowspan="1" colspan="1">511/544 (93.9)</td><td align="left" rowspan="1" colspan="1">380/408 (93.1)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Beta&#x02010;blockers</td><td align="left" rowspan="1" colspan="1">507/544 (93.2)</td><td align="left" rowspan="1" colspan="1">370/408 (90.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Statins</td><td align="left" rowspan="1" colspan="1">522/544 (95.9)</td><td align="left" rowspan="1" colspan="1">389/408 (95.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ACEi</td><td align="left" rowspan="1" colspan="1">482/544 (88.6)</td><td align="left" rowspan="1" colspan="1">348/408 (85.3)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">ARB</td><td align="left" rowspan="1" colspan="1">10/544 (1.8)</td><td align="left" rowspan="1" colspan="1">15/408 (3.7)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Calcium&#x02010;channel blockers</td><td align="left" rowspan="1" colspan="1">12/544 (2.2)</td><td align="left" rowspan="1" colspan="1">13/408 (3.2)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Diuretics</td><td align="left" rowspan="1" colspan="1">138/554 (25.4)</td><td align="left" rowspan="1" colspan="1">105/413 (25.4)</td></tr><tr><td align="left" style="padding-left:10%" rowspan="1" colspan="1">Aldosterone antagonists</td><td align="left" rowspan="1" colspan="1">147/544 (27.0)</td><td align="left" rowspan="1" colspan="1">82/408 (20.1)</td></tr></tbody></table><table-wrap-foot><fn id="jah32862-note-0004"><p>Values are expressed as numbers (percentages), unless otherwise specified. ACEi indicates angiotensin&#x02010;converting enzyme inhibitors; ARB, angiotensin receptor blockers; TIMI, Thrombolysis in Myocardial Infarction.</p></fn><fn id="jah32862-note-0005"><label>a</label><p>Using the APPROACH angiographic score.</p></fn></table-wrap-foot></table-wrap><p>At 1&#x000a0;year, 236 (24.4%) patients had experienced at least 1 MACE. There was no significant difference in occurrence of MACE between groups: 145 (26.2%) and 91 (22.0%) patients in the groups with and without morphine, respectively (<italic>P</italic>=0.15; Table&#x000a0;<xref rid="jah32862-tbl-0003" ref-type="table-wrap">3</xref>). Cumulative Kaplan&#x02013;Meier estimates for the first occurrence of MACE (Figure&#x000a0;<xref rid="jah32862-fig-0001" ref-type="fig">1</xref>) were not significantly different between groups (<italic>P</italic>=0.10).</p><table-wrap id="jah32862-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Clinical Outcome After 1&#x02010;Year Follow&#x02010;up</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Event</th><th align="left" valign="top" rowspan="1" colspan="1">Morphine (n=554)</th><th align="left" valign="top" rowspan="1" colspan="1">No Morphine (n=413)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> (Fischer's Test)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Any MACE<xref ref-type="fn" rid="jah32862-note-0007">a</xref>
+</td><td align="left" rowspan="1" colspan="1">145 (26.2)</td><td align="left" rowspan="1" colspan="1">91 (22.0)</td><td align="left" rowspan="1" colspan="1">0.15</td></tr><tr><td align="left" rowspan="1" colspan="1">Cardiovascular death</td><td align="left" rowspan="1" colspan="1">29 (5.2)</td><td align="left" rowspan="1" colspan="1">20 (4.8)</td><td align="left" rowspan="1" colspan="1">0.88</td></tr><tr><td align="left" rowspan="1" colspan="1">Heart failure</td><td align="left" rowspan="1" colspan="1">110 (19.9)</td><td align="left" rowspan="1" colspan="1">70 (16.9)</td><td align="left" rowspan="1" colspan="1">0.28</td></tr><tr><td align="left" rowspan="1" colspan="1">Cardiogenic shock</td><td align="left" rowspan="1" colspan="1">30 (5.4)</td><td align="left" rowspan="1" colspan="1">19 (4.6)</td><td align="left" rowspan="1" colspan="1">0.66</td></tr><tr><td align="left" rowspan="1" colspan="1">Recurrent myocardial infarction</td><td align="left" rowspan="1" colspan="1">21 (3.8)</td><td align="left" rowspan="1" colspan="1">7 (1.7)</td><td align="left" rowspan="1" colspan="1">0.08</td></tr><tr><td align="left" rowspan="1" colspan="1">Unstable angina</td><td align="left" rowspan="1" colspan="1">15 (2.7)</td><td align="left" rowspan="1" colspan="1">8 (1.9)</td><td align="left" rowspan="1" colspan="1">0.53</td></tr><tr><td align="left" rowspan="1" colspan="1">Stroke</td><td align="left" rowspan="1" colspan="1">10 (1.8)</td><td align="left" rowspan="1" colspan="1">9 (2.2)</td><td align="left" rowspan="1" colspan="1">0.82</td></tr></tbody></table><table-wrap-foot><fn id="jah32862-note-0006"><p>Values are expressed as numbers (percentages). MACE indicates major adverse cardiovascular events.</p></fn><fn id="jah32862-note-0007"><label>a</label><p>A patient with more than 1 clinical event was counted as having 1 MACE.</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="jah32862-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Kaplan&#x02013;Meier curves for major adverse cardiovascular events (<styled-content style="fixed-case">MACE</styled-content>).</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-7-e006833-g001"/></fig><p>In the Cox model, morphine use was not associated with the incidence of MACE (hazard ratio=1.25; 95% confidence interval [0.96; 1.62]; <italic>P</italic>=0.10), even after adjustment for age, ischemic time, infarct size (CPK peak), initial and final Thrombolysis in Myocardial Infarction flow, sex, smoking, hypertension, diabetes mellitus, previous myocardial infarction, and Killip class (hazard ratio=1.04; 95% confidence interval [0.75; 1.45]; <italic>P</italic>=0.82).</p><p>Incidence of individual MACE during 1&#x000a0;year was not significantly different between groups (Table&#x000a0;<xref rid="jah32862-tbl-0003" ref-type="table-wrap">3</xref>; Figure&#x000a0;<xref rid="jah32862-fig-0002" ref-type="fig">2</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah32862-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Occurrence of major adverse cardiovascular events (<styled-content style="fixed-case">MACE</styled-content>) and individual events after 1&#x02010;year of follow&#x02010;up.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-7-e006833-g002"/></fig><p>There was no statistically significant difference on MACE occurrence (<italic>P</italic>=0.56) and on infarct size (<italic>P</italic>=0.61) between the 4 different treatment subgroups (Table&#x000a0;<xref rid="jah32862-tbl-0004" ref-type="table-wrap">4</xref>). Interaction term, even after adjustment, was not significant and so for each clinical outcome individually (Table&#x000a0;<xref rid="jah32862-sup-0001" ref-type="supplementary-material">S1</xref>).</p><table-wrap id="jah32862-tbl-0004" xml:lang="en" orientation="portrait" position="float"><label>Table 4</label><caption><p>Subgroups Analysis, Evaluation of Morphine&#x02014;Cyclosporine Interactions</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1"/><th align="left" valign="top" rowspan="1" colspan="1">Morphine+Cyclosporine (n=266)</th><th align="left" valign="top" rowspan="1" colspan="1">Morphine+Placebo (n=246)</th><th align="left" valign="top" rowspan="1" colspan="1">No Morphine+Cyclosporine (n=178)</th><th align="left" valign="top" rowspan="1" colspan="1">No Morphine+Placebo (n=205)</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> (ANOVA)</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">MACEs<xref ref-type="fn" rid="jah32862-note-0009">a</xref>
+</td><td align="left" rowspan="1" colspan="1">70 (26.3)</td><td align="left" rowspan="1" colspan="1">75 (30.5)</td><td align="left" rowspan="1" colspan="1">44 (24.7)</td><td align="left" rowspan="1" colspan="1">47 (22.9)</td><td align="left" rowspan="1" colspan="1">0.56</td></tr><tr><td align="left" rowspan="1" colspan="1">CPK peak<xref ref-type="fn" rid="jah32862-note-0010">b</xref>
+</td><td align="left" rowspan="1" colspan="1">3945&#x000b1;2638</td><td align="left" rowspan="1" colspan="1">4054&#x000b1;2677</td><td align="left" rowspan="1" colspan="1">4061&#x000b1;3182</td><td align="left" rowspan="1" colspan="1">3742&#x000b1;2571</td><td align="left" rowspan="1" colspan="1">0.61</td></tr></tbody></table><table-wrap-foot><fn id="jah32862-note-0008"><p>CPK indicates creatine phosphokinase; MACE, major adverse cardiovascular events.</p></fn><fn id="jah32862-note-0009"><label>a</label><p>Values are expressed as numbers (percent).</p></fn><fn id="jah32862-note-0010"><label>b</label><p>Values are expressed as mean&#x000b1;SD.</p></fn></table-wrap-foot></table-wrap><p>There was no significant difference in rates of all&#x02010;cause death at 1&#x000a0;year between groups (32 [5.3%] and 22 [5.8%] deaths in the groups with and without morphine, respectively; <italic>P</italic>=0.89).</p><p>The unadjusted Kaplan&#x02013;Meier hazard curve for 1&#x02010;year all&#x02010;cause mortality is presented in Figure&#x000a0;<xref rid="jah32862-fig-0003" ref-type="fig">3</xref>. No significant difference was observed between the groups with and without morphine (<italic>P</italic>=0.77).</p><fig fig-type="Figure" xml:lang="en" id="jah32862-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Kaplan&#x02013;Meier curves for 1&#x02010;year all&#x02010;cause mortality.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-7-e006833-g003"/></fig><p>CPK peak blood concentrations after PPCI were comparable in both groups (4023&#x000b1;118 and 3903&#x000b1;149&#x000a0;IU/L in the groups with and without morphine, respectively; <italic>P</italic>=0.52; Figure&#x000a0;<xref rid="jah32862-fig-0004" ref-type="fig">4</xref>).</p><fig fig-type="Figure" xml:lang="en" id="jah32862-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>Creatine phosphokinase (<styled-content style="fixed-case">CPK</styled-content>) blood concentration evolution during the first 24&#x000a0;hours following primary percutaneous coronary intervention (<styled-content style="fixed-case">PPCI</styled-content>)&#x02014;median, first and third quartiles, and first and ninth decile are presented for each measurement. Mixed&#x02010;model analysis for morphine effect on <styled-content style="fixed-case">CPK</styled-content> kinetic curve: <italic>P</italic>=0.09.</p></caption><graphic id="nlm-graphic-7" xlink:href="JAH3-7-e006833-g004"/></fig><p>Rates of adverse left ventricular remodeling were also similar in both groups (205 [37.0%] and 134 [32.4%] patients with adverse remodeling in the groups with and without morphine, respectively; <italic>P</italic>=0.21).</p></sec><sec id="jah32862-sec-0017"><title>Discussion</title><p>In a large cohort of patients with acute anterior STEMI, morphine was used in half of patients before PPCI and had no significant effect on the composite primary outcome including cardiovascular death, heart failure, cardiogenic shock, recurrent myocardial infarction, unstable angina, and stroke.</p><p>Few other studies have evaluated the clinical outcomes of patients who received morphine to alleviate chest pain during an ACS.<xref rid="jah32862-bib-0016" ref-type="ref">16</xref> In line with our results, 2 retrospective studies concluded that morphine/intravenous narcotics did not adversely affect the outcomes in patients with ACS. In 1 study including 1758 patients (765 STEMI and 993 non&#x02010;ST&#x02010;segment elevation myocardial infarction), the rate of 30&#x02010;day death was not increased with the use of intravenous narcotics.<xref rid="jah32862-bib-0017" ref-type="ref">17</xref> In the second study, the analysis of 2 cohorts of STEMI patients (2438 patients from the FAST&#x02010;MI 2010 registry and 1726 from the FAST&#x02010;MI 2005)<xref rid="jah32862-bib-0007" ref-type="ref">7</xref> suggested that prehospital morphine use was not associated with increased in&#x02010;hospital complications and 1&#x02010;year mortality.</p><p>On the contrary, an American retrospective study based on the CRUSADE registry,<xref rid="jah32862-bib-0005" ref-type="ref">5</xref> which included 57&#x000a0;039 patients who presented with non&#x02010;ST&#x02010;segment elevation ACS, reported an increase in mortality and challenged the safety of morphine use in these patients. It is difficult to compare the CRUSADE study with ours because of differences in population, study dates, and design. The CRUSADE study retrospectively enrolled non&#x02010;ST&#x02010;segment elevation ACS patients, who are different from STEMI patients. It was conducted between 2002 and 2003, at a time when oral antiplatelet agent use was limited to clopidogrel, which has more pharmacological interactions with morphine than more recently approved agents such as ticagrelor and prasugrel.<xref rid="jah32862-bib-0018" ref-type="ref">18</xref>, <xref rid="jah32862-bib-0019" ref-type="ref">19</xref>
+</p><p>Thus, it seems that there is currently limited evidence for adverse outcomes associated with morphine use in STEMI patients, whereas additional caution may be necessary in NSTEMI patients.</p><p>In our study, morphine use did not appear to be associated with any significant cardioprotective effect. Myocardial protection with opioid use has been inconsistently reported. Several studies suggest a cardioprotective effect especially with morphine in the surgical context of coronary artery bypass graft, but these studies were conducted in small surgical patient populations and assessed indirect outcomes.<xref rid="jah32862-bib-0020" ref-type="ref">20</xref>, <xref rid="jah32862-bib-0021" ref-type="ref">21</xref> In STEMI patients undergoing PPCI, a cardioprotective effect could be demonstrated for morphine in addition to the basal effect of remote ischemic conditioning,<xref rid="jah32862-bib-0022" ref-type="ref">22</xref> but no additional myocardial protection was observed with fentanyl in patients undergoing elective PPCI.<xref rid="jah32862-bib-0023" ref-type="ref">23</xref>
+</p><p>In experimental models of ischemia reperfusion injury, morphine inhibits the mitochondrial permeability transition pore<xref rid="jah32862-bib-0024" ref-type="ref">24</xref> opening through &#x003bc; and &#x003ba; myocardial opioid receptors,<xref rid="jah32862-bib-0025" ref-type="ref">25</xref>, <xref rid="jah32862-bib-0026" ref-type="ref">26</xref> and induced a significant cardioprotective effect.<xref rid="jah32862-bib-0027" ref-type="ref">27</xref> Morphine also stimulates the reperfusion injury salvage kinase pathway.<xref rid="jah32862-bib-0024" ref-type="ref">24</xref> In animal studies, these mechanisms have been associated with a reduction of infarct size following intravenous or intrathecal morphine use before or immediately after reperfusion.<xref rid="jah32862-bib-0028" ref-type="ref">28</xref>, <xref rid="jah32862-bib-0029" ref-type="ref">29</xref>, <xref rid="jah32862-bib-0030" ref-type="ref">30</xref> However, the translation from animal models to humans is not straightforward owing to disease complexity and associated comorbidities, and our data do not suggest any cardioprotective effect of morphine on ischemia&#x02010;reperfusion injury. In the near future, 2 noncurrently published studies (Clinical Trials NCT01186445 and NCT01738100) may provide additional understanding of the cardioprotective effects of intracoronary morphine during ACS.</p><p>In recent years, there has been a growing concern about the use of morphine for pain relief in patients with ACS. Morphine delays and attenuates the release peak and efficacy of oral antiplatelet agents in ACS<xref rid="jah32862-bib-0031" ref-type="ref">31</xref>, <xref rid="jah32862-bib-0032" ref-type="ref">32</xref>, <xref rid="jah32862-bib-0033" ref-type="ref">33</xref> and healthy<xref rid="jah32862-bib-0018" ref-type="ref">18</xref>, <xref rid="jah32862-bib-0019" ref-type="ref">19</xref>, <xref rid="jah32862-bib-0034" ref-type="ref">34</xref> patients, by inhibiting gastrointestinal absorption<xref rid="jah32862-bib-0035" ref-type="ref">35</xref> and inducing to vomiting.<xref rid="jah32862-bib-0016" ref-type="ref">16</xref> However, there is no evidence for the clinical relevance of these effects. In our study, although morphine was not associated with any adverse outcome in STEMI patients, there was a nonsignificant trend toward an increase in individual MACE in patients treated with morphine. In particular, recurrent myocardial infarction and heart failure seemed to be more frequent when morphine was used before PPCI, although these results did not reach statistical significance (<italic>P</italic>=0.08 and 0.28, respectively; Table&#x000a0;<xref rid="jah32862-tbl-0003" ref-type="table-wrap">3</xref>).</p><p>Regardless of the potential outcome modifications associated with morphine use during ACS, pain release is essential to decrease patients' discomfort and to avoid proarrhythmic anxiety. In our study, 42.7% patients did not receive any analgesia, meaning that pain was probably undertreated. This is not acceptable, and pain release should be a priority of any medical care. Without ethical possibility of a placebo&#x02010;controlled, randomized study, it is difficult to conclude definitively about morphine safety in this indication. There is no analgesic alternatives to morphine in this indication, and the only new approach currently evaluated is equimolar oxygen/nitrous oxide mixture (MEOPA) associated with paracetamol, under investigation in the ongoing SCADOLII (Comparison of MEOPA + Paracetamol Versus Morphine Treatment in Acute Coronary Syndrome Analgesia) trial. In the absence of clear evidence of adverse effects, morphine should be used without restraint in STEMI as was concluded in a recent review.<xref rid="jah32862-bib-0016" ref-type="ref">16</xref>
+</p><sec id="jah32862-sec-0018"><title>Study Limitations</title><p>Although analyses were conducted on a prospective homogenous anterior STEMI population, they were post hoc analyses, not prespecified in the original CIRCUS protocol, leading to a loss of statistical relevance and limited statistical power.</p><p>Given that CIRCUS trial randomization was not stratified on morphine use, the effect of unmeasured confounders on the results cannot be ruled out. Anyway, patients in the morphine group seemed to be sicker at initial medical care than those in the no&#x02010;morphine group: 13.1% of patients were admitted with heart failure (Killip 2 or 3) in the morphine group versus 10.2% in the no&#x02010;morphine group; 1.4% of patients were admitted with cardiogenic shock in the morphine group versus 0% in the no&#x02010;morphine group. There was no randomization, nor precise recommendation, for morphine use in the CIRCUS protocol. So, morphine could have been used as a symptomatic treatment, in combination with continuous positive airway pressure, for patients suffering from dyspnea or acute heart failure at first medical care. Initial heart failure and/or cardiogenic shock are strongly associated with a poorest prognosis.<xref rid="jah32862-bib-0036" ref-type="ref">36</xref> Despite this initial difference, the morphine group did not experience significantly more adverse events than the no&#x02010;morphine group.</p><p>The study was not initially designed to evaluate the effect of morphine in patients with anterior STEMI, so the investigation was limited by the number of subjects. It is difficult to evaluate precisely the statistical power of our work. For example, if we previously calculated the number needed to treat with the hypothesis of the 4.2% absolute difference between groups observed in our study, with 80% power and 5% alpha risk, triple sample size would have been necessary. So, limited sample sizes may explain the lack of statistical significance of the observed difference in our work.</p><p>The use of cyclosporine, even though its known interactions with morphine intestinal absorption and neurological effect, had no significant effect on the results of our study. There was no statistically significant difference between the 4 different subgroups defined by the use of cyclosporine and of morphine, nor significant interaction between morphine and cyclosporine.</p><p>In the morphine group, we did not record the dose of morphine that was administered as well as corresponding pain scales. Further studies are needed to assess precisely pain management in STEMI patients and its potential impact on clinical outcomes</p></sec></sec><sec id="jah32862-sec-0019"><title>Conclusion</title><p>In the prospective CIRCUS trial, intravenous morphine was used in half of patients and was not associated with any significant modification in MACE occurrence at 1&#x000a0;year. Further large, randomized studies are needed to assess the impact of morphine use on clinical outcomes and pain management strategies in STEMI patients.</p></sec><sec id="jah32862-sec-0023"><title>Disclosures</title><p>None.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah32862-sup-0001"><caption><p>
+<bold>Table&#x000a0;S1.</bold> Interaction of Morphine With Cyclosporine Effect on MACE Occurrence, Explored by 2&#x02010;Way ANOVA With Interaction Term</p></caption><media xlink:href="JAH3-7-e006833-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah32862-sec-0022"><title>Acknowledgments</title><p>The authors thank all CIRCUS research coordinators and associated investigators from the different participating centers that made this study possible.</p></ack><ref-list content-type="cited-references" id="jah32862-bibl-0001"><title>References</title><ref id="jah32862-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah32862-cit-0001">
+<string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Atar</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Badano</surname>
+<given-names>LP</given-names>
+</string-name>, <string-name>
+<surname>Blomstrom&#x02010;Lundqvist</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Borger</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Di Mario</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Dickstein</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Ducrocq</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fernandez&#x02010;Aviles</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Gershlick</surname>
+<given-names>AH</given-names>
+</string-name>, <string-name>
+<surname>Giannuzzi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Halvorsen</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Juni</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Kastrati</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Knuuti</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Lenzen</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Mahaffey</surname>
+<given-names>KW</given-names>
+</string-name>, <string-name>
+<surname>Valgimigli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>van&#x02018;t Hof</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Widimsky</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Zahger</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>ESC guidelines for the management of acute myocardial infarction in patients presenting with ST&#x02010;segment elevation</article-title>. <source>Eur Heart J</source>. <year>2012</year>;<volume>33</volume>:<fpage>2569</fpage>&#x02013;<lpage>2619</lpage>.<pub-id pub-id-type="pmid">22922416</pub-id></mixed-citation></ref><ref id="jah32862-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah32862-cit-0002">
+<string-name>
+<surname>O'Gara</surname>
+<given-names>PT</given-names>
+</string-name>, <string-name>
+<surname>Kushner</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Ascheim</surname>
+<given-names>DD</given-names>
+</string-name>, <string-name>
+<surname>Casey</surname>
+<given-names>DE</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Chung</surname>
+<given-names>MK</given-names>
+</string-name>, <string-name>
+<surname>de Lemos</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Ettinger</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Fang</surname>
+<given-names>JC</given-names>
+</string-name>, <string-name>
+<surname>Fesmire</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Franklin</surname>
+<given-names>BA</given-names>
+</string-name>, <string-name>
+<surname>Granger</surname>
+<given-names>CB</given-names>
+</string-name>, <string-name>
+<surname>Krumholz</surname>
+<given-names>HM</given-names>
+</string-name>, <string-name>
+<surname>Linderbaum</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Morrow</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Newby</surname>
+<given-names>LK</given-names>
+</string-name>, <string-name>
+<surname>Ornato</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Ou</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Radford</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Tamis&#x02010;Holland</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Tommaso</surname>
+<given-names>CL</given-names>
+</string-name>, <string-name>
+<surname>Tracy</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Woo</surname>
+<given-names>YJ</given-names>
+</string-name>, <string-name>
+<surname>Zhao</surname>
+<given-names>DX</given-names>
+</string-name>, <string-name>
+<surname>Anderson</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Jacobs</surname>
+<given-names>AK</given-names>
+</string-name>, <string-name>
+<surname>Halperin</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Albert</surname>
+<given-names>NM</given-names>
+</string-name>, <string-name>
+<surname>Brindis</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Creager</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>DeMets</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Guyton</surname>
+<given-names>RA</given-names>
+</string-name>, <string-name>
+<surname>Hochman</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Kovacs</surname>
+<given-names>RJ</given-names>
+</string-name>, <string-name>
+<surname>Kushner</surname>
+<given-names>FG</given-names>
+</string-name>, <string-name>
+<surname>Ohman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Stevenson</surname>
+<given-names>WG</given-names>
+</string-name>, <string-name>
+<surname>Yancy</surname>
+<given-names>CW</given-names>
+</string-name>; <collab collab-type="authors">American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines</collab>
+. <article-title>2013 ACCF/AHA guideline for the management of ST&#x02010;elevation myocardial infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines</article-title>. <source>Circulation</source>. <year>2013</year>;<volume>127</volume>:<fpage>e362</fpage>&#x02013;<lpage>e425</lpage>.<pub-id pub-id-type="pmid">23247304</pub-id></mixed-citation></ref><ref id="jah32862-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah32862-cit-0003">
+<string-name>
+<surname>Anderson</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Adams</surname>
+<given-names>CD</given-names>
+</string-name>, <string-name>
+<surname>Antman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Bridges</surname>
+<given-names>CR</given-names>
+</string-name>, <string-name>
+<surname>Califf</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Casey</surname>
+<given-names>DE</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Chavey</surname>
+<given-names>WE</given-names>
+<suffix>II</suffix>
+</string-name>, <string-name>
+<surname>Fesmire</surname>
+<given-names>FM</given-names>
+</string-name>, <string-name>
+<surname>Hochman</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Levin</surname>
+<given-names>TN</given-names>
+</string-name>, <string-name>
+<surname>Lincoff</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>ED</given-names>
+</string-name>, <string-name>
+<surname>Theroux</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Wenger</surname>
+<given-names>NK</given-names>
+</string-name>, <string-name>
+<surname>Wright</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Jneid</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Ettinger</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Ganiats</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Lincoff</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Philippides</surname>
+<given-names>GJ</given-names>
+</string-name>, <string-name>
+<surname>Zidar</surname>
+<given-names>JP</given-names>
+</string-name>; <collab collab-type="authors">American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines</collab>
+. <article-title>2012 ACCF/AHA focused update incorporated into the ACCF/AHA 2007 guidelines for the management of patients with unstable angina/non&#x02010;ST&#x02010;elevation myocardial infarction: a report of the American College of Cardiology Foundation/American Heart Association Task Force on Practice Guidelines</article-title>. <source>Circulation</source>. <year>2013</year>;<volume>127</volume>:<fpage>e663</fpage>&#x02013;<lpage>e828</lpage>.<pub-id pub-id-type="pmid">23630129</pub-id></mixed-citation></ref><ref id="jah32862-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah32862-cit-0004">
+<string-name>
+<surname>Roffi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Patrono</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Collet</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Mueller</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Valgimigli</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Andreotti</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bax</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Borger</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Brotons</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Chew</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Gencer</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Hasenfuss</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kjeldsen</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Lancellotti</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Landmesser</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Mehilli</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Mukherjee</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Storey</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Windecker</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Baumgartner</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Gaemperli</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Achenbach</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Agewall</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Badimon</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Baigent</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bueno</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Bugiardini</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Carerj</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Casselman</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Cuisset</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Erol</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Fitzsimons</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Halle</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Hamm</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Hildick&#x02010;Smith</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Huber</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Iliodromitis</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>James</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Lewis</surname>
+<given-names>BS</given-names>
+</string-name>, <string-name>
+<surname>Lip</surname>
+<given-names>GY</given-names>
+</string-name>, <string-name>
+<surname>Piepoli</surname>
+<given-names>MF</given-names>
+</string-name>, <string-name>
+<surname>Richter</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Rosemann</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sechtem</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Vrints</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Luis Zamorano</surname>
+<given-names>J</given-names>
+</string-name>; <collab collab-type="authors">Management of Acute Coronary Syndromes in Patients Presenting without Persistent ST&#x02010;Segment Elevation of the European Society of Cardiology</collab>
+. <article-title>2015 ESC guidelines for the management of acute coronary syndromes in patients presenting without persistent ST&#x02010;segment elevation: Task Force for the management of acute coronary syndromes in patients presenting without persistent ST&#x02010;segment elevation of the European Society of Cardiology (ESC)</article-title>. <source>Eur Heart J</source>. <year>2016</year>;<volume>37</volume>:<fpage>267</fpage>&#x02013;<lpage>315</lpage>.<pub-id pub-id-type="pmid">26320110</pub-id></mixed-citation></ref><ref id="jah32862-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah32862-cit-0005">
+<string-name>
+<surname>Meine</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Roe</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>AY</given-names>
+</string-name>, <string-name>
+<surname>Patel</surname>
+<given-names>MR</given-names>
+</string-name>, <string-name>
+<surname>Washam</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Ohman</surname>
+<given-names>EM</given-names>
+</string-name>, <string-name>
+<surname>Peacock</surname>
+<given-names>WF</given-names>
+</string-name>, <string-name>
+<surname>Pollack</surname>
+<given-names>CV</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Gibler</surname>
+<given-names>WB</given-names>
+</string-name>, <string-name>
+<surname>Peterson</surname>
+<given-names>ED</given-names>
+</string-name>; CRUSADE <collab collab-type="authors">Investigators</collab>
+. <article-title>Association of intravenous morphine use and outcomes in acute coronary syndromes: results from the CRUSADE Quality Improvement Initiative</article-title>. <source>Am Heart J</source>. <year>2005</year>;<volume>149</volume>:<fpage>1043</fpage>&#x02013;<lpage>1049</lpage>.<pub-id pub-id-type="pmid">15976786</pub-id></mixed-citation></ref><ref id="jah32862-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah32862-cit-0006">
+<string-name>
+<surname>de Waha</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Eitel</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Desch</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Fuernau</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lurz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Urban</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Schuler</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Thiele</surname>
+<given-names>H</given-names>
+</string-name>. <article-title>Intravenous morphine administration and reperfusion success in ST&#x02010;elevation myocardial infarction: insights from cardiac magnetic resonance imaging</article-title>. <source>Clin Res Cardiol</source>. <year>2015</year>;<volume>104</volume>:<fpage>727</fpage>&#x02013;<lpage>734</lpage>.<pub-id pub-id-type="pmid">25725777</pub-id></mixed-citation></ref><ref id="jah32862-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah32862-cit-0007">
+<string-name>
+<surname>Puymirat</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Lamhaut</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Bonnet</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Aissaoui</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Henry</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Cayla</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Cattan</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mock</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Ducrocq</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Goldstein</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Schiele</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Bonnefoy&#x02010;Cudraz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Danchin</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Correlates of pre&#x02010;hospital morphine use in ST&#x02010;elevation myocardial infarction patients and its association with in&#x02010;hospital outcomes and long&#x02010;term mortality: the FAST&#x02010;MI (French Registry of Acute ST&#x02010;elevation and non&#x02010;ST&#x02010;elevation Myocardial Infarction) programme</article-title>. <source>Eur Heart J</source>. <year>2016</year>;<volume>37</volume>:<fpage>1063</fpage>&#x02013;<lpage>1071</lpage>.<pub-id pub-id-type="pmid">26578201</pub-id></mixed-citation></ref><ref id="jah32862-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah32862-cit-0008">
+<string-name>
+<surname>Mewton</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cung</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Morel</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Cayla</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bonnefoy&#x02010;Cudraz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Rioufol</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Angoulvant</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Guerin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Elbaz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Delarche</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Coste</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vanzetto</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Metge</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aupetit</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Jouve</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Motreff</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tron</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Labeque</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Cottin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Range</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Clerc</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Coussement</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Prunier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Moulin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Belle</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dubois</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Barragan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gilard</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Piot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Colin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Morice</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Monassier</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Ider</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Dubois&#x02010;Rande</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Unterseeh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Lebreton</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Beard</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Blanchard</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Grollier</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Malquarti</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Staat</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sudre</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hansson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Elmer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Boussaha</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Jossan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Torner</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Claeys</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Dorado</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ovize</surname>
+<given-names>M</given-names>
+</string-name>; CIRCUS Study <collab collab-type="authors">Investigators</collab>
+. <article-title>Rationale and design of the cyclosporine to improve clinical outcome in ST&#x02010;elevation myocardial infarction patients (the CIRCUS trial)</article-title>. <source>Am Heart J</source>. <year>2015</year>;<volume>169</volume>:<fpage>758</fpage>&#x02013;<lpage>766</lpage>.e6.<pub-id pub-id-type="pmid">26027612</pub-id></mixed-citation></ref><ref id="jah32862-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah32862-cit-0009">
+<string-name>
+<surname>Cung</surname>
+<given-names>TT</given-names>
+</string-name>, <string-name>
+<surname>Morel</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Cayla</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Rioufol</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Dorado</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Angoulvant</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Bonnefoy&#x02010;Cudraz</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Guerin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Elbaz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Delarche</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Coste</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Vanzetto</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Metge</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Aupetit</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Jouve</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Motreff</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Tron</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Labeque</surname>
+<given-names>JN</given-names>
+</string-name>, <string-name>
+<surname>Steg</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Cottin</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Range</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Clerc</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Claeys</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Coussement</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Prunier</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Moulin</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Belle</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Dubois</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Barragan</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Gilard</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Piot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Colin</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>De Poli</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Morice</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Ider</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Dubois&#x02010;Rande</surname>
+<given-names>JL</given-names>
+</string-name>, <string-name>
+<surname>Unterseeh</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Le Breton</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Beard</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Blanchard</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Grollier</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Malquarti</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Staat</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Sudre</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Elmer</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Hansson</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Bergerot</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Boussaha</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Jossan</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Derumeaux</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Mewton</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ovize</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cyclosporine before PCI in patients with acute myocardial infarction</article-title>. <source>N Engl J Med</source>. <year>2015</year>;<volume>373</volume>:<fpage>1021</fpage>&#x02013;<lpage>1031</lpage>.<pub-id pub-id-type="pmid">26321103</pub-id></mixed-citation></ref><ref id="jah32862-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah32862-cit-0010">
+<string-name>
+<surname>Minella</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Rognoni</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Fortina</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Brustia</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rossi</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Aquili</surname>
+<given-names>C</given-names>
+</string-name>. [<article-title>Automatic method for the evaluation of the extent of myocardial infarct from the serum of CPK curve</article-title>]. <source>Minerva Med</source>. <year>1979</year>;<volume>70</volume>:<fpage>325</fpage>&#x02013;<lpage>331</lpage>.<pub-id pub-id-type="pmid">431862</pub-id></mixed-citation></ref><ref id="jah32862-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah32862-cit-0011">
+<string-name>
+<surname>Ezaki</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Matsushita</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Ohkawa</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Kuramoto</surname>
+<given-names>K</given-names>
+</string-name>. <article-title>Comparison of enzymatic, anatomic and electrocardiographic estimates of myocardial infarct size in man</article-title>. <source>Jpn Circ J</source>. <year>1987</year>;<volume>51</volume>:<fpage>374</fpage>&#x02013;<lpage>382</lpage>.<pub-id pub-id-type="pmid">3613040</pub-id></mixed-citation></ref><ref id="jah32862-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah32862-cit-0012">
+<string-name>
+<surname>Damont</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Goutal</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Auvity</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Valette</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Kuhnast</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Saba</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Tournier</surname>
+<given-names>N</given-names>
+</string-name>. <article-title>Imaging the impact of cyclosporin A and dipyridamole on P&#x02010;glycoprotein (ABCB1) function at the blood&#x02010;brain barrier: A [(11)C]&#x02010;N&#x02010;desmethyl&#x02010;loperamide PET study in nonhuman primates</article-title>. <source>Eur J Pharm Sci</source>. <year>2016</year>;<volume>91</volume>:<fpage>98</fpage>&#x02013;<lpage>104</lpage>.<pub-id pub-id-type="pmid">27283486</pub-id></mixed-citation></ref><ref id="jah32862-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah32862-cit-0013">
+<string-name>
+<surname>van Asperen</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>van Tellingen</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>van der Valk</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Rozenhart</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Beijnen</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Enhanced oral absorption and decreased elimination of paclitaxel in mice cotreated with cyclosporin A</article-title>. <source>Clin Cancer Res</source>. <year>1998</year>;<volume>4</volume>:<fpage>2293</fpage>&#x02013;<lpage>2297</lpage>.<pub-id pub-id-type="pmid">9796957</pub-id></mixed-citation></ref><ref id="jah32862-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah32862-cit-0014">
+<string-name>
+<surname>Fujita&#x02010;Hamabe</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Nishida</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nawa</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kobori</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Nakamoto</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kishioka</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Tokuyama</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Etoposide modulates the effects of oral morphine analgesia by targeting the intestinal P&#x02010;glycoprotein</article-title>. <source>J Pharm Pharmacol</source>. <year>2012</year>;<volume>64</volume>:<fpage>496</fpage>&#x02013;<lpage>504</lpage>.<pub-id pub-id-type="pmid">22420656</pub-id></mixed-citation></ref><ref id="jah32862-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah32862-cit-0015">
+<string-name>
+<surname>Thompson</surname>
+<given-names>SJ</given-names>
+</string-name>, <string-name>
+<surname>Koszdin</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Bernards</surname>
+<given-names>CM</given-names>
+</string-name>. <article-title>Opiate&#x02010;induced analgesia is increased and prolonged in mice lacking P&#x02010;glycoprotein</article-title>. <source>Anesthesiology</source>. <year>2000</year>;<volume>92</volume>:<fpage>1392</fpage>&#x02013;<lpage>1399</lpage>.<pub-id pub-id-type="pmid">10781286</pub-id></mixed-citation></ref><ref id="jah32862-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah32862-cit-0016">
+<string-name>
+<surname>McCarthy</surname>
+<given-names>CP</given-names>
+</string-name>, <string-name>
+<surname>Mullins</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Sidhu</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Schulman</surname>
+<given-names>SP</given-names>
+</string-name>, <string-name>
+<surname>McEvoy</surname>
+<given-names>JW</given-names>
+</string-name>. <article-title>The on&#x02010; and off&#x02010;target effects of morphine in acute coronary syndrome: a narrative review</article-title>. <source>Am Heart J</source>. <year>2016</year>;<volume>176</volume>:<fpage>114</fpage>&#x02013;<lpage>121</lpage>.<pub-id pub-id-type="pmid">27264228</pub-id></mixed-citation></ref><ref id="jah32862-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah32862-cit-0017">
+<string-name>
+<surname>Iakobishvili</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Porter</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Battler</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Behar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Roth</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Atar</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Boyko</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Mager</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hasdai</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Effect of narcotic treatment on outcomes of acute coronary syndromes</article-title>. <source>Am J Cardiol</source>. <year>2010</year>;<volume>105</volume>:<fpage>912</fpage>&#x02013;<lpage>916</lpage>.<pub-id pub-id-type="pmid">20346305</pub-id></mixed-citation></ref><ref id="jah32862-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah32862-cit-0018">
+<string-name>
+<surname>Hobl</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Reiter</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Schoergenhofer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schwameis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Derhaschnig</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Kubica</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Stimpfl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jilma</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Morphine decreases ticagrelor concentrations but not its antiplatelet effects: a randomized trial in healthy volunteers</article-title>. <source>Eur J Clin Invest</source>. <year>2016</year>;<volume>46</volume>:<fpage>7</fpage>&#x02013;<lpage>14</lpage>.<pub-id pub-id-type="pmid">26449338</pub-id></mixed-citation></ref><ref id="jah32862-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah32862-cit-0019">
+<string-name>
+<surname>Hobl</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Reiter</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Schoergenhofer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Schwameis</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Derhaschnig</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>IM</given-names>
+</string-name>, <string-name>
+<surname>Stimpfl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Jilma</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Morphine interaction with prasugrel: a double&#x02010;blind, cross&#x02010;over trial in healthy volunteers</article-title>. <source>Clin Res Cardiol</source>. <year>2016</year>;<volume>105</volume>:<fpage>349</fpage>&#x02013;<lpage>355</lpage>.<pub-id pub-id-type="pmid">26493304</pub-id></mixed-citation></ref><ref id="jah32862-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah32862-cit-0020">
+<string-name>
+<surname>Murphy</surname>
+<given-names>GS</given-names>
+</string-name>, <string-name>
+<surname>Szokol</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Marymont</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Avram</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Vender</surname>
+<given-names>JS</given-names>
+</string-name>. <article-title>Opioids and cardioprotection: the impact of morphine and fentanyl on recovery of ventricular function after cardiopulmonary bypass</article-title>. <source>J Cardiothorac Vasc Anesth</source>. <year>2006</year>;<volume>20</volume>:<fpage>493</fpage>&#x02013;<lpage>502</lpage>.<pub-id pub-id-type="pmid">16884978</pub-id></mixed-citation></ref><ref id="jah32862-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah32862-cit-0021">
+<string-name>
+<surname>Tanaka</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Kersten</surname>
+<given-names>JR</given-names>
+</string-name>, <string-name>
+<surname>Riess</surname>
+<given-names>ML</given-names>
+</string-name>. <article-title>Opioid&#x02010;induced cardioprotection</article-title>. <source>Curr Pharm Des</source>. <year>2014</year>;<volume>20</volume>:<fpage>5696</fpage>&#x02013;<lpage>5705</lpage>.<pub-id pub-id-type="pmid">24502571</pub-id></mixed-citation></ref><ref id="jah32862-bib-0022"><label>22</label><mixed-citation publication-type="journal" id="jah32862-cit-0022">
+<string-name>
+<surname>Rentoukas</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Giannopoulos</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Kaoukis</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Kossyvakis</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Raisakis</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Driva</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Panagopoulou</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Tsarouchas</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Vavetsi</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Pyrgakis</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Deftereos</surname>
+<given-names>S</given-names>
+</string-name>. <article-title>Cardioprotective role of remote ischemic periconditioning in primary percutaneous coronary intervention: enhancement by opioid action</article-title>. <source>JACC Cardiovasc Interv</source>. <year>2010</year>;<volume>3</volume>:<fpage>49</fpage>&#x02013;<lpage>55</lpage>.<pub-id pub-id-type="pmid">20129568</pub-id></mixed-citation></ref><ref id="jah32862-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah32862-cit-0023">
+<string-name>
+<surname>Abdel&#x02010;Wahab</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Khattab</surname>
+<given-names>AA</given-names>
+</string-name>, <string-name>
+<surname>Liska</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Kassner</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Geist</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Toelg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Richardt</surname>
+<given-names>G</given-names>
+</string-name>. <article-title>Diazepam versus fentanyl for premedication during percutaneous coronary intervention: results from the myocardial protection by fentanyl during coronary intervention (PROFIT) trial</article-title>. <source>J Interv Cardiol</source>. <year>2008</year>;<volume>21</volume>:<fpage>232</fpage>&#x02013;<lpage>238</lpage>.<pub-id pub-id-type="pmid">18422519</pub-id></mixed-citation></ref><ref id="jah32862-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah32862-cit-0024">
+<string-name>
+<surname>Headrick</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>See Hoe</surname>
+<given-names>LE</given-names>
+</string-name>, <string-name>
+<surname>Du Toit</surname>
+<given-names>EF</given-names>
+</string-name>, <string-name>
+<surname>Peart</surname>
+<given-names>JN</given-names>
+</string-name>. <article-title>Opioid receptors and cardioprotection&#x02014;&#x02018;opioidergic conditioning&#x02019; of the heart</article-title>. <source>Br J Pharmacol</source>. <year>2015</year>;<volume>172</volume>:<fpage>2026</fpage>&#x02013;<lpage>2050</lpage>.<pub-id pub-id-type="pmid">25521834</pub-id></mixed-citation></ref><ref id="jah32862-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah32862-cit-0025">
+<string-name>
+<surname>Sobanski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Krajnik</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Shaqura</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bloch&#x02010;Boguslawska</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Schafer</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Mousa</surname>
+<given-names>SA</given-names>
+</string-name>. <article-title>The presence of mu&#x02010;, delta&#x02010;, and kappa&#x02010;opioid receptors in human heart tissue</article-title>. <source>Heart Vessels</source>. <year>2014</year>;<volume>29</volume>:<fpage>855</fpage>&#x02013;<lpage>863</lpage>.<pub-id pub-id-type="pmid">24390763</pub-id></mixed-citation></ref><ref id="jah32862-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah32862-cit-0026">
+<string-name>
+<surname>Villemagne</surname>
+<given-names>PS</given-names>
+</string-name>, <string-name>
+<surname>Dannals</surname>
+<given-names>RF</given-names>
+</string-name>, <string-name>
+<surname>Ravert</surname>
+<given-names>HT</given-names>
+</string-name>, <string-name>
+<surname>Frost</surname>
+<given-names>JJ</given-names>
+</string-name>. <article-title>PET imaging of human cardiac opioid receptors</article-title>. <source>Eur J Nucl Med Mol Imaging</source>. <year>2002</year>;<volume>29</volume>:<fpage>1385</fpage>&#x02013;<lpage>1388</lpage>.<pub-id pub-id-type="pmid">12271423</pub-id></mixed-citation></ref><ref id="jah32862-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah32862-cit-0027">
+<string-name>
+<surname>Muntean</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Sturza</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Danila</surname>
+<given-names>MD</given-names>
+</string-name>, <string-name>
+<surname>Borza</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Duicu</surname>
+<given-names>OM</given-names>
+</string-name>, <string-name>
+<surname>Mornos</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>The role of mitochondrial reactive oxygen species in cardiovascular injury and protective strategies</article-title>. <source>Oxid Med Cell Longev</source>. <year>2016</year>;<volume>2016</volume>:<fpage>8254942</fpage>.<pub-id pub-id-type="pmid">27200148</pub-id></mixed-citation></ref><ref id="jah32862-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah32862-cit-0028">
+<string-name>
+<surname>Chen</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Li</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Zhang</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Morphine postconditioning protects against reperfusion injury in the isolated rat hearts</article-title>. <source>J Surg Res</source>. <year>2008</year>;<volume>145</volume>:<fpage>287</fpage>&#x02013;<lpage>294</lpage>.<pub-id pub-id-type="pmid">18155248</pub-id></mixed-citation></ref><ref id="jah32862-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah32862-cit-0029">
+<string-name>
+<surname>Kim</surname>
+<given-names>JH</given-names>
+</string-name>, <string-name>
+<surname>Chun</surname>
+<given-names>KJ</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kim</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Jang</surname>
+<given-names>YH</given-names>
+</string-name>, <string-name>
+<surname>Lee</surname>
+<given-names>MY</given-names>
+</string-name>, <string-name>
+<surname>Park</surname>
+<given-names>JH</given-names>
+</string-name>. <article-title>Morphine&#x02010;induced postconditioning modulates mitochondrial permeability transition pore opening via delta&#x02010;1 opioid receptors activation in isolated rat hearts</article-title>. <source>Korean J Anesthesiol</source>. <year>2011</year>;<volume>61</volume>:<fpage>69</fpage>&#x02013;<lpage>74</lpage>.<pub-id pub-id-type="pmid">21860754</pub-id></mixed-citation></ref><ref id="jah32862-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah32862-cit-0030">
+<string-name>
+<surname>Wong</surname>
+<given-names>GT</given-names>
+</string-name>, <string-name>
+<surname>Yao</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Xia</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Irwin</surname>
+<given-names>MG</given-names>
+</string-name>. <article-title>Intrathecal morphine remotely preconditions the heart via a neural pathway</article-title>. <source>J Cardiovasc Pharmacol</source>. <year>2012</year>;<volume>60</volume>:<fpage>172</fpage>&#x02013;<lpage>178</lpage>.<pub-id pub-id-type="pmid">22635074</pub-id></mixed-citation></ref><ref id="jah32862-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah32862-cit-0031">
+<string-name>
+<surname>Parodi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Bellandi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Xanthopoulou</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>Capranzano</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Capodanno</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Valenti</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Stavrou</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Migliorini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Antoniucci</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tamburino</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Alexopoulos</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Morphine is associated with a delayed activity of oral antiplatelet agents in patients with ST&#x02010;elevation acute myocardial infarction undergoing primary percutaneous coronary intervention</article-title>. <source>Circ Cardiovasc Interv</source>. <year>2014</year>;<volume>8</volume>:<fpage>e001593</fpage>.<pub-id pub-id-type="pmid">25552565</pub-id></mixed-citation></ref><ref id="jah32862-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah32862-cit-0032">
+<string-name>
+<surname>Johnson</surname>
+<given-names>TW</given-names>
+</string-name>, <string-name>
+<surname>Mumford</surname>
+<given-names>AD</given-names>
+</string-name>, <string-name>
+<surname>Scott</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Mundell</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Butler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Strange</surname>
+<given-names>JW</given-names>
+</string-name>, <string-name>
+<surname>Rogers</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Reeves</surname>
+<given-names>BC</given-names>
+</string-name>, <string-name>
+<surname>Baumbach</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>A study of platelet inhibition, using a &#x02018;point of care&#x02019; platelet function test, following primary percutaneous coronary intervention for ST&#x02010;elevation myocardial infarction [PINPOINT&#x02010;PPCI]</article-title>. <source>PLoS One</source>. <year>2015</year>;<volume>10</volume>:<fpage>e0144984</fpage>.<pub-id pub-id-type="pmid">26672598</pub-id></mixed-citation></ref><ref id="jah32862-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah32862-cit-0033">
+<string-name>
+<surname>Kubica</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Adamski</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Ostrowska</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sikora</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Kubica</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Sroka</surname>
+<given-names>WD</given-names>
+</string-name>, <string-name>
+<surname>Stankowska</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Buszko</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Navarese</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Jilma</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Siller&#x02010;Matula</surname>
+<given-names>JM</given-names>
+</string-name>, <string-name>
+<surname>Marszall</surname>
+<given-names>MP</given-names>
+</string-name>, <string-name>
+<surname>Rosc</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Kozinski</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Morphine delays and attenuates ticagrelor exposure and action in patients with myocardial infarction: the randomized, double&#x02010;blind, placebo&#x02010;controlled IMPRESSION trial</article-title>. <source>Eur Heart J</source>. <year>2016</year>;<volume>37</volume>:<fpage>245</fpage>&#x02013;<lpage>252</lpage>.<pub-id pub-id-type="pmid">26491112</pub-id></mixed-citation></ref><ref id="jah32862-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah32862-cit-0034">
+<string-name>
+<surname>Hobl</surname>
+<given-names>EL</given-names>
+</string-name>, <string-name>
+<surname>Stimpfl</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Ebner</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Schoergenhofer</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Derhaschnig</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Sunder&#x02010;Plassmann</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Jilma&#x02010;Stohlawetz</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Mannhalter</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Posch</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Jilma</surname>
+<given-names>B</given-names>
+</string-name>. <article-title>Morphine decreases clopidogrel concentrations and effects: a randomized, double&#x02010;blind, placebo&#x02010;controlled trial</article-title>. <source>J Am Coll Cardiol</source>. <year>2014</year>;<volume>63</volume>:<fpage>630</fpage>&#x02013;<lpage>635</lpage>.<pub-id pub-id-type="pmid">24315907</pub-id></mixed-citation></ref><ref id="jah32862-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah32862-cit-0035">
+<string-name>
+<surname>Nimmo</surname>
+<given-names>WS</given-names>
+</string-name>, <string-name>
+<surname>Heading</surname>
+<given-names>RC</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Tothill</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Prescott</surname>
+<given-names>LF</given-names>
+</string-name>. <article-title>Inhibition of gastric emptying and drug absorption by narcotic analgesics</article-title>. <source>Br J Clin Pharmacol</source>. <year>1975</year>;<volume>2</volume>:<fpage>509</fpage>&#x02013;<lpage>513</lpage>.<pub-id pub-id-type="pmid">9953</pub-id></mixed-citation></ref><ref id="jah32862-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jah32862-cit-0036">
+<string-name>
+<surname>McNamara</surname>
+<given-names>RL</given-names>
+</string-name>, <string-name>
+<surname>Kennedy</surname>
+<given-names>KF</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Diercks</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Moscucci</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ramee</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>TY</given-names>
+</string-name>, <string-name>
+<surname>Connolly</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Spertus</surname>
+<given-names>JA</given-names>
+</string-name>. <article-title>Predicting in&#x02010;hospital mortality in patients with acute myocardial infarction</article-title>. <source>J Am Coll Cardiol</source>. <year>2016</year>;<volume>68</volume>:<fpage>626</fpage>&#x02013;<lpage>635</lpage>.<pub-id pub-id-type="pmid">27491907</pub-id></mixed-citation></ref></ref-list><app-group><app id="jah32862-app-0001" content-type="Appendix"><sec id="jah32862-sec-0021"><title>Contributors</title><p>
+<italic>CIRCUS Study Investigators:</italic> Thien&#x02010;Tri Cung, MD, Eric Bonnefoy&#x02010;Cudraz, MD, PhD, Nicolas Delarche, MD, Pierre Coste, MD, PhD, Gerald Vanzetto, MD, PhD, Marc Metge, MD, Jean&#x02010;Fran&#x000e7;ois Aupetit, MD, PhD, Bernard Jouve, MD, Pascal Motreff, MD, PhD, Christophe Tron, MD, Jean&#x02010;Noel Labeque, MD, Philippe Gabriel Steg, MD, PhD, Yves Cottin, MD, PhD, Gr&#x000e9;goire Range, MD, J&#x000e9;rome Clerc, MD, Patrick Coussement, MD, PhD, Fabrice Prunier, MD, PhD, Fr&#x000e9;d&#x000e9;ric Moulin, MD, Olivier Roth, MD, PhD, Lo&#x000ef;c Belle, MD, Philippe Dubois, MD, Paul Barragan, MD, Martine Gilard, MD, PhD, Christophe Piot, MD, PhD, Patrice Colin, MD, PhD, Fabien De Poli, MD, Marie&#x02010;Claude Morice, MD, PhD, Omar Ider, MD, Jean&#x02010;Luc Dubois&#x02010;Rand&#x000e9;, MD, PhD, Thierry Unterseeh, MD, Herv&#x000e9; Le Breton, MD, PhD, Thierry B&#x000e9;ard, MD, Didier Blanchard, MD, Gilles Grollier, MD, PhD, Vincent Malquarti, MD, Patrick Staat, MD, Arnaud Sudre, MD, Eskil Elmer, MD, PhD, Magnus J. Hansson, MD, PhD, Cyrille Bergerot, MD, Inesse Boussaha, MSc, and Genevi&#x000e8;ve Derumeaux, MD, PhD.</p></sec></app></app-group></back></article>

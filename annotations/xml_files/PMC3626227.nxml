@@ -1,0 +1,372 @@
+<?xml-model href="http://dtd.nlm.nih.gov/publishing/3.0/rng/journalpublishing3.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Bone Joint Res</journal-id><journal-id journal-id-type="iso-abbrev">Bone Joint Res</journal-id><journal-title-group><journal-title>Bone &#x00026; Joint Research</journal-title></journal-title-group><issn pub-type="ppub">2046-3758</issn><issn pub-type="epub">2046-3758</issn><publisher><publisher-name>British Editorial Society of Bone and Joint Surgery</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">23610690</article-id><article-id pub-id-type="pmc">3626227</article-id><article-id pub-id-type="doi">10.1302/2046-3758.18.2000095</article-id><article-id pub-id-type="publisher-id">2000095</article-id><article-categories><subj-group subj-group-type="heading"><subject>Upper Limb</subject></subj-group><subj-group subj-group-type="hwp-journal-coll"><subject>4</subject></subj-group><subj-group subj-group-type="search-keyword"><subject>Lateral Epicondylitis</subject><subject>Local Corticosteroid</subject><subject>Autologous Blood Injection</subject><subject>Elbow</subject><subject>Injection</subject><subject>Rct</subject></subj-group></article-categories><title-group><article-title>A randomised control trial to evaluate
+the efficacy of autologous blood injection <italic>versus</italic> local
+corticosteroid injection for treatment of lateral epicondylitis</article-title></title-group><contrib-group><contrib id="c1" contrib-type="author"><name><surname>Dojode</surname><given-names>C. M.</given-names></name><degrees>MBBS, MS(Ortho)</degrees><role>Orthopaedic Surgeon</role><xref ref-type="aff" rid="a1">1</xref><uri content-type="homepage" xlink:type="simple" xlink:href="http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1001165">http://orthodox.boneandjoint.org.uk/viewprofileinfo.aspx?authorid=1001165</uri></contrib><aff id="a1"><label>1</label>Jawaharlal Nehru Medical College, Nehru
+Nagar, Balgaum 590010, India.</aff></contrib-group><author-notes><corresp>Correspondence should be sent to Dr C. M.
+Dojode; e-mail: <email>drchetanmdojode@gmail.com</email></corresp></author-notes><pub-date pub-type="collection"><month>8</month><year>2012</year></pub-date><pub-date pub-type="epub"><day>01</day><month>8</month><year>2012</year></pub-date><volume>1</volume><issue>8</issue><fpage>192</fpage><lpage>197</lpage><history><date date-type="received"><day>08</day><month>5</month><year>2012</year></date><date date-type="accepted"><day>03</day><month>7</month><year>2012</year></date></history><permissions><copyright-statement>&#x000a9;2012 British Editorial Society of Bone and Joint Surgery</copyright-statement><license license-type="open-access"><license-p>This is an open-access article distributed under the terms of the Creative Commons Attributions licence, which permits unrestricted use, distribution, and reproduction in any medium, but not for commercial gain, provided the original author and source are credited.</license-p></license></permissions><abstract><sec><title>Objectives</title><p>Local corticosteroid infiltration is a common practice of treatment
+for lateral epicondylitis. In recent studies no statistically significant
+or clinically relevant results in favour of corticosteroid injections
+were found. The injection of autologous blood has been reported
+to be effective for both intermediate and long-term outcomes. It
+is hypothesised that blood contains growth factors, which induce
+the healing cascade.</p></sec><sec><title>Methods</title><p>A total of 60 patients were included in this prospective randomised
+study: 30 patients received 2 ml autologous blood drawn from contralateral
+upper limb vein + 1 ml 0.5% bupivacaine, and 30 patients received
+2 ml local corticosteroid + 1 ml 0.5% bupivacaine at the lateral
+epicondyle. Outcome was measured using a pain score and Nirschl
+staging of lateral epicondylitis. Follow-up was continued for total
+of six months, with assessment at one week, four weeks, 12 weeks
+and six months.</p></sec><sec><title>Results</title><p>The corticosteroid injection group showed a statistically significant
+decrease in pain compared with autologous blood injection group
+in both visual analogue scale (VAS) and Nirschl stage at one week
+(both p &#x0003c; 0.001) and at four weeks (p = 0.002 and p = 0.018,
+respectively). At the 12-week and six-month follow-up, autologous
+blood injection group showed statistically significant decrease
+in pain compared with corticosteroid injection group (12 weeks:
+VAS p = 0.013 and Nirschl stage p = 0.018; six months: VAS p = 0.006
+and Nirschl p = 0.006). At the six-month final follow-up, a total
+of 14 patients (47%) in the corticosteroid injection group and 27
+patients (90%) in autologous blood injection group were completely
+relieved of pain.</p></sec><sec><title>Conclusions</title><p>Autologous blood injection is efficient compared with corticosteroid
+injection, with less side-effects and minimum recurrence rate.</p></sec></abstract><kwd-group><kwd>Lateral epicondylitis</kwd><kwd>Local corticosteroid</kwd><kwd>Autologous blood injection</kwd><kwd>Elbow</kwd><kwd>Injection</kwd><kwd>RCT</kwd></kwd-group><funding-group><funding-statement>This research received no
+specific grant from any funding agency in the public, commercial
+or not-for-profit sectors.</funding-statement></funding-group><custom-meta-group><custom-meta><meta-name>odf2nlm-version</meta-name><meta-value>1.0</meta-value></custom-meta><custom-meta><meta-name>price</meta-name><meta-value>$2.00</meta-value></custom-meta><custom-meta><meta-name>principal-institution</meta-name><meta-value>Jawaharlal Nehru Medical College, Belgaum, India</meta-value></custom-meta><custom-meta><meta-name>article-type</meta-name><meta-value>Research</meta-value></custom-meta><custom-meta><meta-name>coi-statement</meta-name><meta-value>None declared</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Article focus</title><list list-type="bullet"><list-item><p>The injection of autologous blood is compared with the standard
+practice of local corticosteroid injection for the treatment of
+lateral epicondylitis</p></list-item><list-item><p>Outcomes are assessed in terms of decrease in pain, rates of
+recurrence and complication</p></list-item></list></sec><sec><title>Key messages</title><list list-type="bullet"><list-item><p>This study offers encouraging results of an alternative treatment
+that addresses the pathophysiology of lateral epicondylitis that
+has been resistant to traditional conservative modalities</p></list-item></list></sec><sec><title>Strengths and limitations</title><list list-type="bullet"><list-item><p>This is a randomised study where a new modality of treatment
+is evaluated by comparing it with a commonly practiced modality
+of treatment</p></list-item><list-item><p>There are only a few studies of this kind</p></list-item><list-item><p>Larger studies, with longer periods of -follow-up, and potentially
+including -multiple injections over a period of time, are required</p></list-item></list></sec><sec><title>Introduction</title><p>Lateral epicondylitis, or tennis elbow, is commonly encountered
+in orthopaedic practice, being the second most frequently diagnosed
+musculo-skeletal disorder in the neck and upper extremity in a primary
+care setting.<sup><xref ref-type="bibr" rid="r1">1</xref></sup> It
+has an incidence of between four and seven per 1000 cases per year in general practice, with
+a peak between the ages of 35 and 54 years, and a mean age of approximately
+42 years.<sup><xref ref-type="bibr" rid="r2">2</xref>-<xref ref-type="bibr" rid="r5">5</xref></sup> An epidemiological
+study reported that 87% of cases involved the dominant arm.<sup><xref ref-type="bibr" rid="r6">6</xref></sup></p><p>The characteristic clinical findings are pain and tenderness
+over the lateral epicondyle. Lateral epicondylitis has been reported
+to be the result of overuse from many activities. Although it is
+often referred to as tennis elbow, it is seen to affect non-athletes
+rather than athletes.<sup><xref ref-type="bibr" rid="r7">7</xref>,<xref ref-type="bibr" rid="r8">8</xref></sup></p><p>The pathophysiology of the condition is a matter of controversy,
+and there is not enough scientific evidence to favour any particular
+type of treatment for acute lateral epicondylitis.<sup><xref ref-type="bibr" rid="r9">9</xref>,<xref ref-type="bibr" rid="r10">10</xref></sup> Most current research has proposed degeneration
+of the origin of the extensor carpi radialis brevis and repeated
+microtrauma and incomplete healing response (tendinosis) as the
+cause of lateral epicondy-litis.<sup><xref ref-type="bibr" rid="r10">10</xref>-<xref ref-type="bibr" rid="r15">15</xref></sup> The constellation
+of findings has been termed angiofibroblastic hyperplasia.<sup><xref ref-type="bibr" rid="r16">16</xref></sup>
+</p><p>Most conservative modalities such as local injection of corticosteroid
+have focused on suppressing an inflammatory process that does not
+actually exist. It is theorised that the beneficial effects of the
+steroid injection result from the bleeding caused by forcing fluid
+through tissue planes at high pressures.<sup><xref ref-type="bibr" rid="r17">17</xref></sup></p><p>Recently an injection of autologous blood has been reported to
+be effective for both intermediate and long-term outcomes for the
+treatment of lateral epicondylitis, with a significant decrease
+in pain.<sup><xref ref-type="bibr" rid="r10">10</xref>,<xref ref-type="bibr" rid="r15">15</xref>,<xref ref-type="bibr" rid="r18">18</xref></sup> Chemical modifiers of cellular activity
+carried in the blood and are known to be mitomorphogenic.<sup><xref ref-type="bibr" rid="r16">16</xref></sup> Injection of autologous
+blood might provide the necessary cellular and humeral mediators
+to induce a healing cascade.<sup><xref ref-type="bibr" rid="r10">10</xref>,<xref ref-type="bibr" rid="r19">19</xref>-<xref ref-type="bibr" rid="r21">21</xref></sup></p><p>There are very few studies that have evaluated the injection
+of autologous blood for lateral epicondylitis as a treatment modality.
+The objective of this study was to evaluate the efficacy and role
+of autologous blood -injection for the treatment of lateral epicondylitis, -compared
+with the commonly used local injection of cortico-steroid.<sup><xref ref-type="bibr" rid="r22">22</xref>-<xref ref-type="bibr" rid="r25">25</xref></sup></p></sec><sec sec-type="methods"><title>Patients and Methods</title><p>This is a randomised control trial as a pilot study.</p><p>Our study population has a high proportion of people involved
+in manual labour. There is no current published data on the prevalence
+of lateral epicondylitis in the region where the study was conducted.
+Age &#x0003e; 15 years and a diagnosis of lateral epicondylitis were the
+inclusion criteria. The exclusion criteria were: 1) patients receiving steroid
+injections in the three months prior to study treatment; 2) history
+of substantial trauma; 3) previous surgery for lateral epicondylitis;
+4) presence of other causes of elbow pain such as osteochondritis
+dessicans of capitellum, epiphyseal plate injuries, lateral compartment arthosis,
+varus instability, radial head arthritis, posterior interosseous
+nerve syndrome, cervical disc syndrome, synovitis of radiohumeral
+joint, cervical radiculopathy, fibromyalgia, osteoarthritis of elbow,
+or carpal tunnel syndrome. Each patient was assessed by history
+and clinical examination. In some cases radiological and imaging investigations
+were carried out to confirm the diagnosis and to identify any exclusion
+criteria.</p><p>Patients attending outpatient department were included after
+a diagnosis of lateral epicondylitis was established. This included
+interview and clinical examination comprising testing for tenderness
+over the lateral epicondyle or just distal to it, a positive Cozen&#x02019;s
+test and Mill&#x02019;s maneouvre.<sup><xref ref-type="bibr" rid="r26">26</xref></sup> In
+12 cases diagnosis was confirmed with radiography and in two cases
+by MRI, after radiographs were inconclusive. Patients were allotted
+sequentially into two parallel groups, A and B, of 30 cases each.
+Equal randomisation (1:1 allocation ratio) was undertaken according
+to a computer-generated randomisation table.</p><sec><title content-type="h3">Procedure</title><p>Group A was designated to receive an injection of autologous
+blood. Patients were infiltrated with injection of 2 ml autologous
+blood drawn from the contralateral upper limb vein mixed with 1
+ml 0.5% bupivacaine, at the lateral epicondyle according to the
+technique described below.<sup><xref ref-type="bibr" rid="r10">10</xref></sup> Group
+B was designated to receive an injection of local cortiocosteroid.
+Patients were infiltrated with 2 ml of local corticosteroid (methyl
+prednisolone acetate 80 mg) mixed with 1 ml 0.5% bupivacaine, at
+the -lateral epicondyle according to the same technique. </p><p>Briefly, the technique is as follows (Fig. 1).<sup><xref ref-type="bibr" rid="r10">10</xref></sup> With the patient
+in supine or sitting posture the elbow is flexed to 90&#x000b0; with the
+palm facing down. The anatomical bony landmarks were identified.
+Under aseptic precautions the needle is introduced proximal to the
+lateral epicondyle along the supracondylar ridge, and gently advanced
+in to the undersurface of the extensor carpi radialis brevis while
+infiltrating. A small adhesive sterile dressing is applied. Patients
+are advised to rest the upper limb for three days, with no restriction of activity after that.</p><fig id="f1" orientation="portrait" position="float"><label>Fig. 1</label><caption><p>Clinical photograph showing the injection
+of autologous blood at the lateral epicondyle.</p></caption><graphic xlink:href="2000095-galleyfig1"/></fig></sec><sec><title content-type="h3">Outcome evaluation</title><p>Outcome in terms of pain relief was assessed using a visual analogue
+scale (VAS) and the Nirschl staging system.<sup><xref ref-type="bibr" rid="r10">10</xref>,<xref ref-type="bibr" rid="r27">27</xref></sup></p><p>The VAS comprised a 10 cm line marked at one end with &#x02018;no pain&#x02019;
+and at other end with &#x02018;worst pain ever&#x02019;. The participant is asked
+to indicate where on the line he or she rates the pain on the day
+of presentation.</p><p>The Nirschl staging system consists of seven phases in ascending
+order of severity of pain (Table I). It ranges from phase 1 (mild
+pain with exercise, resolves within 24 hours) to phase 7 (constant
+pain at rest, disrupts sleeps).</p><table-wrap id="t1" orientation="portrait" position="float"><label>Table I</label><caption><p>Details of the Nirschl staging system</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"><bold>Phase</bold></th><th rowspan="1" colspan="1"><bold>Description</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">1</td><td rowspan="1" colspan="1">Mild pain with exercise, resolves within 24 hours</td></tr><tr><td rowspan="1" colspan="1">2</td><td rowspan="1" colspan="1">Pain after exercise, exceeds 48 hours</td></tr><tr><td rowspan="1" colspan="1">3</td><td rowspan="1" colspan="1">Pain with exercise, does not alter activity</td></tr><tr><td rowspan="1" colspan="1">4</td><td rowspan="1" colspan="1">Pain with exercise, alters activity</td></tr><tr><td rowspan="1" colspan="1">5</td><td rowspan="1" colspan="1">Pain with heavy activities of daily living</td></tr><tr><td rowspan="1" colspan="1">6</td><td rowspan="1" colspan="1">Pain with light activities of daily living, intermittent pain
+at rest</td></tr><tr><td rowspan="1" colspan="1">7</td><td rowspan="1" colspan="1">Constant pain at rest, disrupts sleeps</td></tr></tbody></table></table-wrap><p>Both the VAS and the Nirschl stage were assessed by visit to
+the clinic pre-injection, and at one week, four weeks, 12 weeks
+and at the six-month final follow-up.</p></sec><sec><title content-type="h3">Statistical analysis</title><p>The Mann-Whitney U test (non-parametric test) was used to compare
+outcome regarding pain between the two groups. The chi-squared test
+was used to compare categorical variables between the groups. A
+p-value &#x0003c; 0.05 was considered to indicate -statistical significance.</p></sec></sec><sec><title>Results</title><p>Group A comprised 13 males and 17 female patients with a mean
+age of 42.9 years (22 to 67), and group B comprised 12 males and
+18 females with a mean age of 42.2&#x000a0;years (17 to 62). The characteristics
+of both groups are shown in Table II. It was noted that 20 patients
+(33%) had diabetes mellitus.</p><table-wrap id="t2" orientation="portrait" position="float"><label>Table II</label><caption><p>Characteristics of group A (autologous
+blood injection) and group B (corticosteroid injection)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"><bold>Characteristic</bold></th><th rowspan="1" colspan="1"><bold>Group A 
+(n = 30)</bold></th><th rowspan="1" colspan="1"><bold>Group B 
+(n = 30)</bold></th><th rowspan="1" colspan="1"><bold>p-value</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1">Male:female</td><td rowspan="1" colspan="1">13:17</td><td rowspan="1" colspan="1">12:18</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Mean age (yrs) (range)</td><td rowspan="1" colspan="1">42.9 (22 to 67)</td><td rowspan="1" colspan="1">42.2 (17 to 62)</td><td rowspan="1" colspan="1">0.828</td></tr><tr><td rowspan="1" colspan="1">Side (right:left)</td><td rowspan="1" colspan="1">23:7</td><td rowspan="1" colspan="1">23:7</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Dominant side (n, %)</td><td rowspan="1" colspan="1">25 (<italic>83</italic>)</td><td rowspan="1" colspan="1">26 (<italic>87</italic>)</td><td rowspan="1" colspan="1">1</td></tr><tr><td rowspan="1" colspan="1">Mean duration of -symptoms (weeks) (range)</td><td rowspan="1" colspan="1"> &#x000a0;9.5 (2 to 54)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;7.7 (1 to 36)</td><td rowspan="1" colspan="1">0.828</td></tr><tr><td rowspan="1" colspan="1">Employment (n, %)</td><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Manual</td><td rowspan="1" colspan="1">13 (<italic>43</italic>)</td><td rowspan="1" colspan="1">&#x000a0;&#x000a0;9 (<italic>30</italic>)</td><td rowspan="1" colspan="1">0.3</td></tr><tr><td rowspan="1" colspan="1">&#x000a0;&#x000a0;&#x000a0;Non-manual</td><td rowspan="1" colspan="1">17 (<italic>57</italic>)</td><td rowspan="1" colspan="1">21 (<italic>70</italic>)</td><td rowspan="1" colspan="1">0.3</td></tr></tbody></table></table-wrap><p> The severity of pain was measured pre-injection and after one,
+four and 12 weeks, and at six months by the VAS for pain and Nirschl
+staging. Pre-injection, the mean VAS scores for pain were similar between group A and group B (7.7 (<sc>sd</sc> 1.3) <italic>versus</italic> 7.5
+(<sc>sd</sc> 1.3), p = 0.5395), as were the mean Nirschl stages
+(5.4 (<sc>sd</sc> 1.1) <italic>versus</italic> 5.2 (<sc>sd</sc>&#x000a0;1.0),
+p = 0.4918) (Tables III and IV).</p><table-wrap id="t3" orientation="portrait" position="float"><label>Table III</label><caption><p>Mean visual analogue scale (VAS)
+for pain for group A (autologous blood injection) and group B (corticosteroid
+injection)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th colspan="2" rowspan="1"><bold>Mean (<sc>sd</sc>) VAS</bold></th><th rowspan="1" colspan="1"/></tr><tr><th rowspan="1" colspan="1"><bold>Follow-up</bold></th><th rowspan="1" colspan="1"><bold>Group A 
+(autologous blood)</bold></th><th rowspan="1" colspan="1"><bold>Group B 
+(corticosteroid)</bold></th><th rowspan="1" colspan="1"><bold>p-value</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Pre-injection</td><td rowspan="1" colspan="1">7.7 (1.3)</td><td rowspan="1" colspan="1">7.5 (1.3)</td><td rowspan="1" colspan="1">0.5395</td></tr><tr><td rowspan="1" colspan="1">1 week</td><td rowspan="1" colspan="1">7.2 (1.9)</td><td rowspan="1" colspan="1">4.5 (1.9)</td><td rowspan="1" colspan="1">&#x0003c; 0.0001</td></tr><tr><td rowspan="1" colspan="1">4 weeks</td><td rowspan="1" colspan="1">3.2 (2.4)</td><td rowspan="1" colspan="1">1.5 (2.3)</td><td rowspan="1" colspan="1">0.0022</td></tr><tr><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">0.6 (1.9)</td><td rowspan="1" colspan="1">1.5 (1.8)</td><td rowspan="1" colspan="1">0.0127</td></tr><tr><td rowspan="1" colspan="1">6 months</td><td rowspan="1" colspan="1">0.5 (1.9)</td><td rowspan="1" colspan="1">1.8 (2.0)</td><td rowspan="1" colspan="1">0.0058</td></tr></tbody></table></table-wrap><table-wrap id="t4" orientation="portrait" position="float"><label>Table IV</label><caption><p>Mean Nirschl staging for group
+A (autologous blood injection) and group B (corticosteroid injection)</p></caption><table frame="hsides" rules="groups"><thead><tr><th rowspan="1" colspan="1"/><th colspan="2" rowspan="1"><bold>Mean (<sc>sd</sc>) Nirschl stage</bold></th><th rowspan="1" colspan="1"/></tr><tr><th rowspan="1" colspan="1"><bold>Follow-up</bold></th><th rowspan="1" colspan="1"><bold>Group A 
+(autologous blood)</bold></th><th rowspan="1" colspan="1"><bold>Group B 
+(corticosteroid)</bold></th><th rowspan="1" colspan="1"><bold>p-value</bold></th></tr></thead><tbody><tr><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/><td rowspan="1" colspan="1"/></tr><tr><td rowspan="1" colspan="1">Pre-injection</td><td rowspan="1" colspan="1">5.4 (1.1)</td><td rowspan="1" colspan="1">5.2 (1.0)</td><td rowspan="1" colspan="1">0.4918</td></tr><tr><td rowspan="1" colspan="1">1 week</td><td rowspan="1" colspan="1">5.1 (1.5)</td><td rowspan="1" colspan="1">3.1 (1.4)</td><td rowspan="1" colspan="1">&#x0003c; 0.0001</td></tr><tr><td rowspan="1" colspan="1">4 weeks</td><td rowspan="1" colspan="1">2.2 (1.6)</td><td rowspan="1" colspan="1">1.0 (1.6)</td><td rowspan="1" colspan="1">0.003</td></tr><tr><td rowspan="1" colspan="1">12 weeks</td><td rowspan="1" colspan="1">0.43 (1.3)</td><td rowspan="1" colspan="1">1.0 (1.3)</td><td rowspan="1" colspan="1">0.0184</td></tr><tr><td rowspan="1" colspan="1">6 months</td><td rowspan="1" colspan="1">0.36 (1.3)</td><td rowspan="1" colspan="1">1.2 (1.4)</td><td rowspan="1" colspan="1">0.0064</td></tr></tbody></table></table-wrap><p>The results of the VAS for pain and Nirschl grades -followed
+a remarkably similar course over the period of follow-up, as can
+be seen from Figure 2 and Figure 3, respectively. Initially the
+patients in group A reported a much smaller effect in terms of pain
+resolution, with group B reporting significantly lower VAS and lower Nirschl
+scores at one week (both p &#x0003c; 0.0001) and again at four weeks
+(p = 0.0022 and p = 0.003, respectively) (Tables III and IV, Figs
+2 and 3).</p><fig id="f2" orientation="portrait" position="float"><label>Fig. 2</label><caption><p>Graph showing the mean visual analogue
+scale (VAS) of pain in both groups before treatment and at one week,
+four weeks, 12 weeks and six months post-injection.</p></caption><graphic xlink:href="2000095-galleyfig2"/></fig><fig id="f3" orientation="portrait" position="float"><label>Fig. 3</label><caption><p>Graph showing the mean Nirschl stage
+in both groups before treatment and at one week, four weeks, 12
+weeks and six months post-injection.</p></caption><graphic xlink:href="2000095-galleyfig3"/></fig><p>However, at 12 weeks, the scores for group B had slowed, and
+the VAS and Nirschl scores were significantly lower in group A (p
+= 0.0127 and p = 0.0184, respectively). This difference was maintained
+at the final six-month follow-up, at which point the pain scores
+for group B had begun to rise compared with the four- and 12-week
+scores (Tables III and IV, Figs 2 and 3). At six months after injection,
+the pain scores were significantly lower in group A compared with
+group B (VAS: 0.5 (<sc>sd</sc>&#x000a0;1.9) <italic>versus</italic> 1.8
+(<sc>sd</sc> 2.0), p = 0.0058; Nirschl grade: 0.36 (<sc>sd</sc> 1.3) <italic>versus</italic> 1.2
+(<sc>sd</sc> 1.4), p = 0.0064).</p><p>At the six-month follow-up, a total of 27 patients (90%) in group
+A were completely relieved of pain, compared with 14 patients (47%)
+in group B (p &#x0003c; 0.001, chi-squared test). However, at the four-week
+assessment, 19 patients (63%) in group B had complete relief of
+pain, and many of these patientsreported recurrences
+at 12 weeks and at six months, resulting in a rate of recurrence
+in this group of 36.8%. In comparison, only five patients (17%)
+in group A were pain-free at four weeks, but there was a no recurrence
+by six months, which reached statistical significance (p &#x0003c; 0.001,
+chi-squared test).</p><p>In group A, 18 patients (60%) complained of an increase in pain
+immediately (and during the following few days) after the injection,
+compared with eight (26%) in group B (p = 0.009). Only two patients
+(6.6%) had local skin atrophy in group B while no patient in group
+A had this problem, but this did not reach statistical significance
+(p = 0.150, chi-squared test); demonstrating that the local steroid infiltration
+done with proper care minimises this complication. No patients reported
+elbow stiffness, infection, reflex sympathetic dystrophy, post-injection
+flare, facial flushing, neurovascular damage or tendon rupture or
+other untoward complications.</p></sec><sec><title>Discussion</title><p>The mean age of the patients included in our study was 42.6 years
+(17 to 67), with a peak incidence in the fourth decade. A study
+by Hamilton<sup><xref ref-type="bibr" rid="r2">2</xref></sup> included
+a population with age ranging between 14 and 78 years with a mean
+age of 45 years. Other studies have reported mean ages of approximately
+42 years.<sup><xref ref-type="bibr" rid="r3">3</xref>-<xref ref-type="bibr" rid="r5">5</xref></sup></p><p>There has been much controversy over the pathophysiology of this
+disorder.<sup><xref ref-type="bibr" rid="r28">28</xref>,<xref ref-type="bibr" rid="r29">29</xref></sup> The most widely
+held theory proposes macro- or microscopic tears in the common tendon,
+coupled with an incomplete healing response.<sup><xref ref-type="bibr" rid="r30">30</xref>-<xref ref-type="bibr" rid="r32">32</xref></sup></p><p>Theorigin of the extensor carpi radialis brevis is
+the primarysite of this injury, and pathological changes
+have been consistentlydocumented at this location.<sup><xref ref-type="bibr" rid="r12">12</xref>,<xref ref-type="bibr" rid="r31">31</xref>,<xref ref-type="bibr" rid="r33">33</xref>-<xref ref-type="bibr" rid="r35">35</xref></sup> Histopathologicalstudies
+have demonstrated that tennis elbow is not an inflammatorycondition;
+rather, it is a fibroblastic and vascular responsecalled
+angiofibroblastic degeneration, now more commonly knownas
+tendinosis.<sup><xref ref-type="bibr" rid="r27">27</xref>,<xref ref-type="bibr" rid="r36">36</xref></sup> Thus, the terms
+epicondylitis and tendinitis are misnomers.<sup><xref ref-type="bibr" rid="r7">7</xref>,<xref ref-type="bibr" rid="r14">14</xref>,<xref ref-type="bibr" rid="r28">28</xref>,<xref ref-type="bibr" rid="r33">33</xref></sup></p><p>Assendelft et al,<sup><xref ref-type="bibr" rid="r37">37</xref></sup> in
+their 1996 systematic review, compared the validity and outcome
+of randomised controlled trials of corticosteroid injections for
+lateral epicondylitis. Pooled analysis indicated short-term effectiveness
+only (two to six weeks). At
+follow-up &#x0003e; six weeks, no difference was found between corticosteroid
+injection and other treatments, including placebo. No conclusions
+could be made about the most suitable corticosteroid, dose, injection
+interval or volume.<sup><xref ref-type="bibr" rid="r37">37</xref></sup></p><p>Bisset et al<sup><xref ref-type="bibr" rid="r38">38</xref></sup> concluded
+that physiotherapy combining elbow manipulation and exercise has
+a superior benefit to &#x02018;wait-and-see&#x02019; in the first six weeks and
+to corticosteroid injections after six weeks. The significant short-term
+benefits of corticosteroid injection are paradoxically reversed after
+six weeks, with high recurrence rates, implying that this treatment
+should be used with caution in the management of tennis elbow.<sup><xref ref-type="bibr" rid="r38">38</xref></sup> These are comparable
+to our results, which by 12 weeks were showing a slight reversal of
+the early pain relief in the corticosteroid group, with high rates
+of recurrence. </p><p>Studies on animal models have shown that intra-tendinous corticosteroid
+adversely affect the biomechanical properties of tendons.<sup><xref ref-type="bibr" rid="r39">39</xref>-<xref ref-type="bibr" rid="r42">42</xref></sup> Corticosteroid injection has also
+been associated with side-effects such as sepsis, tendon rupture,
+post-injection pain, local skin atrophy, facial flushing, post-injection
+flare, hyperglycaemia and hypersensitivity reactions.<sup><xref ref-type="bibr" rid="r8">8</xref>,<xref ref-type="bibr" rid="r24">24</xref>,<xref ref-type="bibr" rid="r30">30</xref>,<xref ref-type="bibr" rid="r42">42</xref>-<xref ref-type="bibr" rid="r44">44</xref></sup></p><p>Resuscitation facilities should be available in case patients
+have a rare severe reaction.</p><p>Edwards and Calandruccio,<sup><xref ref-type="bibr" rid="r10">10</xref></sup> investigating
+autologous blood injections in 28 patients in&#x000a0;whom conservative therapy
+had failed to resolve symptoms of lateral epicondylitis, found that
+22 patients (79%) had a reduction in pain over 9.5 months post-injection.
+All patients maintained their maximal benefit throughout the course
+of their follow-up evaluation, with no recurrence.<sup><xref ref-type="bibr" rid="r10">10</xref></sup></p><p>There are very few studies in the literature comparing the efficacy
+of injection of autologous blood with injection of local corticosteroid
+for lateral epicondylitis.<sup><xref ref-type="bibr" rid="r45">45</xref>,<xref ref-type="bibr" rid="r46">46</xref></sup> This is a pilot
+study to evaluate the efficacy and role of single auto-logous blood
+injection with single local corticosteroid injection for treatment
+of lateral epicondylitis.</p><p>There are studies with more than one injection of auto-logous
+blood and local corticosteroid in patients who had suboptimal relief
+of symptoms after the initial injection.<sup><xref ref-type="bibr" rid="r10">10</xref>,<xref ref-type="bibr" rid="r18">18</xref>,<xref ref-type="bibr" rid="r22">22</xref>,<xref ref-type="bibr" rid="r37">37</xref>,<xref ref-type="bibr" rid="r38">38</xref></sup> The
+optimal interval between autologous blood injections is unknown,
+but postulated to be six&#x000a0;weeks, with up to three injections. The
+time required to reach maximal benefit after the repeat injection
+was on average shorter (one to two weeks) than after the initial injection
+&#x02013; possibly because the healing cascade was already underway.<sup><xref ref-type="bibr" rid="r10">10</xref>,<xref ref-type="bibr" rid="r18">18</xref></sup> However, in this study the role
+of only one injection of autologous blood or corticosteroid was
+used, as the follow-up was limited to six months.</p><p>In our study group B showed a statistically significant decrease
+in VAS score and Nirschl stage at one and four weeks compared with
+group A. Hay et al<sup><xref ref-type="bibr" rid="r30">30</xref></sup> found
+similar results when local corticosteroid injection was compared with
+oral naproxen.</p><p>At six months, we found that significantly more of group A had
+complete relief of pain compared with group B (90% <italic>versus</italic> 47%,
+p &#x0003c; 0.001). Edwards and Calandruccio<sup><xref ref-type="bibr" rid="r10">10</xref></sup> found that 22 of 28 patients (79%)
+were relieved completely of pain with autologous blood injections,
+with the mean Nirschl stage decreasing from 6.5 to 2.0 at a mean
+of 9.5 months.</p><p>Despite good early results, with a rate of complete pain relief
+of 63% at four weeks, we found the corticosteroid group more likely
+to experience recurrence of pain, with a rate of recurrence of 37%
+by final follow-up at six months. Bisset et al<sup><xref ref-type="bibr" rid="r38">38</xref></sup> described 72%
+recurrence after three to six weeks on longer follow-up.</p><p>In conclusion, autologous blood injection demonstrated statistically
+significant lower pain compared with corticosteroid injection group
+at long-term follow-up (six&#x000a0;months), with 90% of patients in this
+group having complete relief of pain. Corticosteroid injection group showed
+early decrease in pain compared to autologous blood injection group
+but the short-term benefits of -corticosteroid injection were followed
+by high rates of recurrence (Figs 2 and 3).</p><p>This study offers encouraging results of an alternative treatment
+that addresses the pathophysiology of lateral epicondylitis, which
+has failed to resolve with traditional nonsurgical modalities. We
+feel with larger control trials with one or more than one injection
+and with a longer -follow-up period, a fair conclusion can be drawn
+with regard to the efficacy and otherwise of this treatment modality.</p></sec></body><back><fn-group content-type="bjr-block"><fn fn-type="con"><p><bold>Author contributions:</bold>C. M. Dojode: Study design, Data collection, Data analysis, Writing
+the paper</p></fn><fn fn-type="conflict"><p><bold>ICMJE Conflict of Interest:</bold>None declared</p></fn></fn-group><ref-list><ref id="r1"><label>1</label><mixed-citation publication-type="journal"><string-name><surname>Haahr</surname>
+<given-names>JP</given-names></string-name>, <string-name><surname>Andersen</surname>
+<given-names>JH</given-names></string-name>. <article-title>Physical and psychosocial risk factors for lateral epicondylitis: a population based case-referent study</article-title>. <source>Occup Environ Med</source><year>2003</year>;<volume>60</volume>:<fpage>322</fpage>&#x02013;<lpage>329</lpage><pub-id pub-id-type="pmid">12709516</pub-id></mixed-citation></ref><ref id="r2"><label>2</label><mixed-citation publication-type="journal"><string-name><surname>Hamilton</surname>
+<given-names>PG</given-names></string-name>. <article-title>The prevalence of humeral epicondylitis: a survey in general practice</article-title>. <source>J R Coll Gen Pract</source><year>1986</year>;<volume>36</volume>:<fpage>464</fpage>&#x02013;<lpage>465</lpage><pub-id pub-id-type="pmid">3440991</pub-id></mixed-citation></ref><ref id="r3"><label>3</label><mixed-citation publication-type="other">Verhaar JAN. Tennis elbow [thesis]. Maastricht: Maastricht University Press, 1992.</mixed-citation></ref><ref id="r4"><label>4</label><mixed-citation publication-type="journal"><string-name><surname>Gruchow</surname>
+<given-names>HW</given-names></string-name>, <string-name><surname>Pelletier</surname>
+<given-names>D</given-names></string-name>. <article-title>An epidemiologic study of tennis elbow: incidence, recurrence, and effectiveness of prevention strategies</article-title>. <source>Am J Sports Med</source><year>1979</year>;<volume>7</volume>:<fpage>234</fpage>&#x02013;<lpage>238</lpage><pub-id pub-id-type="pmid">474862</pub-id></mixed-citation></ref><ref id="r5"><label>5</label><mixed-citation publication-type="journal"><string-name><surname>Nirschl</surname>
+<given-names>RP</given-names></string-name>. <article-title>Tennis elbow</article-title>. <source>Prim Care</source><year>1977</year>;<volume>4</volume>:<fpage>367</fpage>&#x02013;<lpage>382</lpage><pub-id pub-id-type="pmid">586725</pub-id></mixed-citation></ref><ref id="r6"><label>6</label><mixed-citation publication-type="journal"><string-name><surname>Bernhang</surname>
+<given-names>AM</given-names></string-name>. <article-title>The many causes of tennis elbow</article-title>. <source>N Y State J Med</source><year>1979</year>;<volume>79:1363-6.</volume></mixed-citation></ref><ref id="r7"><label>7</label><mixed-citation publication-type="journal"><string-name><surname>Teitz</surname>
+<given-names>CC</given-names></string-name>, <string-name><surname>Garrett</surname>
+<given-names>WE</given-names></string-name>, <string-name><surname>Miniaci</surname>
+<given-names>A</given-names></string-name>, <string-name><surname>Lee</surname>
+<given-names>MH</given-names></string-name>, <string-name><surname>Mann</surname>
+<given-names>RA</given-names></string-name>. <article-title>Instuctional Course Lectures. The American Academy of Orthopaedic Surgeons: tendon problem in athletic individuals</article-title>. <source>J Bone Joint Surg [Am]</source><year>1997</year>;<volume>79-A</volume>:<fpage>138</fpage>&#x02013;<lpage>152</lpage></mixed-citation></ref><ref id="r8"><label>8</label><mixed-citation publication-type="other">Terry CS, Beaty JH. Shoulder and elbow injuries. In: Terry CS, ed. Campbell&#x02019;s operative orthopaedics. 11th ed. Vol. 3. Mosby: Elsevier, 2008:2634&#x02013;2638.</mixed-citation></ref><ref id="r9"><label>9</label><mixed-citation publication-type="journal"><string-name><surname>Bowen</surname>
+<given-names>RE</given-names></string-name>, <string-name><surname>Dorey</surname>
+<given-names>FJ</given-names></string-name>, <string-name><surname>Shapiro</surname>
+<given-names>MS</given-names></string-name>. <article-title>Efficacy of nonoperative treatment for lateral epicondylitis</article-title>. <source>Am J Orthop (Belle Mead NJ)</source><year>2001</year>;<volume>30</volume>:<fpage>642</fpage>&#x02013;<lpage>646</lpage><pub-id pub-id-type="pmid">11520020</pub-id></mixed-citation></ref><ref id="r10"><label>10</label><mixed-citation publication-type="journal"><string-name><surname>Edwards</surname>
+<given-names>SG</given-names></string-name>, <string-name><surname>Calandruccio</surname>
+<given-names>JH</given-names></string-name>. <article-title>Autologous blood injections for refractory lateral epicondylitis</article-title>. <source>J Hand Surg Am</source><year>2003</year>;<volume>28-A</volume>:<fpage>272</fpage>&#x02013;<lpage>278</lpage><pub-id pub-id-type="pmid">12671860</pub-id></mixed-citation></ref><ref id="r11"><label>11</label><mixed-citation publication-type="journal"><string-name><surname>Leadbetter</surname>
+<given-names>WB</given-names></string-name>. <article-title>Cell-matrix response in tendon injury</article-title>. <source>Clin Sports Med</source><year>1992</year>;<volume>11</volume>:<fpage>533</fpage>&#x02013;<lpage>578</lpage><pub-id pub-id-type="pmid">1638640</pub-id></mixed-citation></ref><ref id="r12"><label>12</label><mixed-citation publication-type="journal"><string-name><surname>Regan</surname>
+<given-names>W</given-names></string-name>, <string-name><surname>Wold</surname>
+<given-names>LE</given-names></string-name>, <string-name><surname>Coonrad</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Morrey</surname>
+<given-names>BF</given-names></string-name>. <article-title>Microscopic histopathology of chronic refractory lateral epicondylitis</article-title>. <source>Am J Sports Med</source><year>1992</year>;<volume>20</volume>:<fpage>746</fpage>&#x02013;<lpage>749</lpage><pub-id pub-id-type="pmid">1280910</pub-id></mixed-citation></ref><ref id="r13"><label>13</label><mixed-citation publication-type="other">J&#x000f3;zsa LG, Kannus P. Overuse injuries of tendons. In: Human tendons: anatomy, physiology and pathology. Champaign: Human Kinetics, 1997:164&#x02013;253.</mixed-citation></ref><ref id="r14"><label>14</label><mixed-citation publication-type="journal"><string-name><surname>Kraushaar</surname>
+<given-names>BS</given-names></string-name>, <string-name><surname>Nirschl</surname>
+<given-names>RP</given-names></string-name>. <article-title>Tendinosis of the elbow (tennis elbow): clinical features and findings of histological, immunohistochemical, and electron microscopy studies</article-title>. <source>J Bone Joint Surg [Am]</source><year>1999</year>;<volume>81-A</volume>:<fpage>259</fpage>&#x02013;<lpage>278</lpage></mixed-citation></ref><ref id="r15"><label>15</label><mixed-citation publication-type="journal"><string-name><surname>Taylor</surname>
+<given-names>MA</given-names></string-name>, <string-name><surname>Norman</surname>
+<given-names>TL</given-names></string-name>, <string-name><surname>Clovis</surname>
+<given-names>NB</given-names></string-name>, <string-name><surname>Blaha</surname>
+<given-names>JD</given-names></string-name>. <article-title>The response of rabbit patellar tendons after autologous blood injection</article-title>. <source>Med Sci Sports Exerc</source><year>2002</year>;<volume>34</volume>:<fpage>70</fpage>&#x02013;<lpage>73</lpage><pub-id pub-id-type="pmid">11782650</pub-id></mixed-citation></ref><ref id="r16"><label>16</label><mixed-citation publication-type="journal"><string-name><surname>Iwasaki</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Nakahara</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Nakata</surname>
+<given-names>K</given-names></string-name>, <etal/>
+<article-title>Regulation of proliferation and osteochondrogenic differentiation of periosteum-derived cells by transforming growth factor-B and basic fibroblast growth factor</article-title>. <source>J Bone Joint Surg [Am]</source><year>1995</year>;<volume>77-A</volume>:<fpage>543</fpage>&#x02013;<lpage>554</lpage></mixed-citation></ref><ref id="r17"><label>17</label><mixed-citation publication-type="journal"><string-name><surname>Balasubramaniam</surname>
+<given-names>P</given-names></string-name>, <string-name><surname>Prathap</surname>
+<given-names>K</given-names></string-name>. <article-title>The effect of injection of hydrocortisone into rabbit calcaneal tendons</article-title>. <source>J Bone Joint Surg [Br]</source><year>1972</year>;<volume>54-B</volume>:<fpage>729</fpage>&#x02013;<lpage>734</lpage></mixed-citation></ref><ref id="r18"><label>18</label><mixed-citation publication-type="journal"><string-name><surname>Connell</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Ali</surname>
+<given-names>KE</given-names></string-name>, <string-name><surname>Ahmad</surname>
+<given-names>M</given-names></string-name>, <etal/>
+<article-title>Ultrasound guided autologous blood injection for tennis elbow</article-title>. <source>Skeletal Radiol</source><year>2006</year>;<volume>35</volume>:<fpage>371</fpage>&#x02013;<lpage>377</lpage><pub-id pub-id-type="pmid">16552606</pub-id></mixed-citation></ref><ref id="r19"><label>19</label><mixed-citation publication-type="journal"><string-name><surname>Anitua</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>And&#x000ed;a</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>Sanchez</surname>
+<given-names>M</given-names></string-name>, <etal/>
+<article-title>Autologous preparations rich in growth factors promote proliferation and induce VEGF and HGF production by human tendon cells in culture</article-title>. <source>J Orthop Res</source><year>2005</year>;<volume>23</volume>:<fpage>281</fpage>&#x02013;<lpage>286</lpage><pub-id pub-id-type="pmid">15779147</pub-id></mixed-citation></ref><ref id="r20"><label>20</label><mixed-citation publication-type="journal"><string-name><surname>Wadsworth</surname>
+<given-names>TG</given-names></string-name>. <article-title>Lateral epicondylitis (tennis elbow)</article-title>. <source>Lancet</source><year>1972</year>;<volume>1</volume>:<fpage>959</fpage>&#x02013;<lpage>960</lpage><pub-id pub-id-type="pmid">4112123</pub-id></mixed-citation></ref><ref id="r21"><label>21</label><mixed-citation publication-type="journal"><string-name><surname>Baumgard</surname>
+<given-names>SH</given-names></string-name>, <string-name><surname>Schwartz</surname>
+<given-names>DR</given-names></string-name>. <article-title>Percutaneous release of the epicondylar muscles for humeral epicondylitis</article-title>. <source>Am J Sports Med</source><year>1982</year>;<volume>10</volume>:<fpage>233</fpage>&#x02013;<lpage>236</lpage><pub-id pub-id-type="pmid">7125045</pub-id></mixed-citation></ref><ref id="r22"><label>22</label><mixed-citation publication-type="journal"><string-name><surname>Smidt</surname>
+<given-names>N</given-names></string-name>, <string-name><surname>van der Windt</surname>
+<given-names>DA</given-names></string-name>, <string-name><surname>Assendelft</surname>
+<given-names>WJ</given-names></string-name>, <etal/>
+<article-title>Corticosteroid injections, physiotherapy, or a wait-and-see policy for lateral epicondylitis: a randomised controlled trial</article-title>. <source>Lancet</source><year>2002</year>;<volume>359</volume>:<fpage>657</fpage>&#x02013;<lpage>662</lpage><pub-id pub-id-type="pmid">11879861</pub-id></mixed-citation></ref><ref id="r23"><label>23</label><mixed-citation publication-type="journal"><string-name><surname>Nirschl</surname>
+<given-names>RF</given-names></string-name>, <string-name><surname>Sobel</surname>
+<given-names>J</given-names></string-name>. <article-title>Conservative treatment of tennis elbow</article-title>. <source>Phys Sports Med</source><year>1981</year>;<volume>9</volume>:<fpage>43</fpage>&#x02013;<lpage>54</lpage></mixed-citation></ref><ref id="r24"><label>24</label><mixed-citation publication-type="journal"><string-name><surname>Baily</surname>
+<given-names>RA</given-names></string-name>, <string-name><surname>Brock</surname>
+<given-names>BH</given-names></string-name>. <article-title>Hydrocortisone in tennis elbow: a controlled series</article-title>. <source>Proc R Soc Med</source><year>1957</year>;<volume>50</volume>:<fpage>389</fpage>&#x02013;<lpage>390</lpage><pub-id pub-id-type="pmid">13453415</pub-id></mixed-citation></ref><ref id="r25"><label>25</label><mixed-citation publication-type="other">Leadbetter WB. Corticosteroid injection therapy in sports injuries. In: Leadbetter WB, Buckwalter JA, Gordon SL, eds. Sports-induced inflammation. Rosemont: American Academy of Orthopaedic Surgeons, 1990:527&#x02013;545.</mixed-citation></ref><ref id="r26"><label>26</label><mixed-citation publication-type="journal"><string-name><surname>Zouzias</surname>
+<given-names>IC</given-names></string-name>, <string-name><surname>Byram</surname>
+<given-names>IR</given-names></string-name>, <string-name><surname>Shillingford</surname>
+<given-names>JN</given-names></string-name>, <string-name><surname>Levine</surname>
+<given-names>WN</given-names></string-name>. <article-title>A primer for physical examination of the elbow</article-title>. <source>Phys Sports Med</source><year>2012</year>;<volume>40</volume>:<fpage>51</fpage>&#x02013;<lpage>61</lpage></mixed-citation></ref><ref id="r27"><label>27</label><mixed-citation publication-type="journal"><string-name><surname>Nirschl</surname>
+<given-names>RP</given-names></string-name>. <article-title>Elbow tendinosis/tennis elbow</article-title>. <source>Clin Sports Med</source><year>1992</year>;<volume>11</volume>:<fpage>851</fpage>&#x02013;<lpage>870</lpage><pub-id pub-id-type="pmid">1423702</pub-id></mixed-citation></ref><ref id="r28"><label>28</label><mixed-citation publication-type="journal"><string-name><surname>Labelle</surname>
+<given-names>H</given-names></string-name>, <string-name><surname>Guibert</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Joncas</surname>
+<given-names>J</given-names></string-name>, <etal/>
+<article-title>Lack of scientific evidence for the treatment of lateral epicondylitis of the elbow: an attempted meta-analysis</article-title>. <source>J Bone Joint Surg [Br]</source><year>1992</year>;<volume>74-B</volume>:<fpage>646</fpage>&#x02013;<lpage>651</lpage></mixed-citation></ref><ref id="r29"><label>29</label><mixed-citation publication-type="journal"><string-name><surname>Boyer</surname>
+<given-names>MI</given-names></string-name>, <string-name><surname>Hastings</surname>
+<given-names>H</given-names></string-name>. <article-title>Lateral tennis elbow: &#x0201c;is there any science out there?&#x0201d;</article-title>. <source>J Shoulder Elbow Surg</source><year>1999</year>;<volume>8</volume>:<fpage>481</fpage>&#x02013;<lpage>491</lpage><pub-id pub-id-type="pmid">10543604</pub-id></mixed-citation></ref><ref id="r30"><label>30</label><mixed-citation publication-type="journal"><string-name><surname>Hay</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Paterson</surname>
+<given-names>SM</given-names></string-name>, <string-name><surname>Lewis</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Hosie</surname>
+<given-names>G</given-names></string-name>, <string-name><surname>Croft</surname>
+<given-names>P</given-names></string-name>. <article-title>Pragmatic randomised controlled trial of local corticosteroid injection and naproxen for treatment of lateral epicondylitis of elbow in primary care</article-title>. <source>BMJ</source><year>1999</year>;<volume>319</volume>:<fpage>964</fpage>&#x02013;<lpage>968</lpage><pub-id pub-id-type="pmid">10514160</pub-id></mixed-citation></ref><ref id="r31"><label>31</label><mixed-citation publication-type="journal"><string-name><surname>Cyriax</surname>
+<given-names>JH</given-names></string-name>. <article-title>The pathology and treatment of tennis elbow</article-title>. <source>J Bone Joint Surg</source><year>1936</year>;<volume>18</volume>:<fpage>921</fpage>&#x02013;<lpage>940</lpage></mixed-citation></ref><ref id="r32"><label>32</label><mixed-citation publication-type="journal"><string-name><surname>Greenbaum</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Itamura</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Vangsness</surname>
+<given-names>CT</given-names></string-name>, <string-name><surname>Tibone</surname>
+<given-names>J</given-names></string-name>, <string-name><surname>Atkinson</surname>
+<given-names>R</given-names></string-name>. <article-title>Extensor carpi radialis brevis: an anatomical analysis of its origin</article-title>. <source>J Bone Joint Surg [Br]</source><year>1999</year>;<volume>81-B</volume>:<fpage>926</fpage>&#x02013;<lpage>929</lpage></mixed-citation></ref><ref id="r33"><label>33</label><mixed-citation publication-type="other">Nirschl RP. Tennis elbow tendinosis: pathoanatomy, nonsurgical and surgical management. In: Gordon SL, Blair SJ, Fine LJ, eds. Repetitive motion disorders of the upper extremity. Rosemont: American Academy of Orthopaedic Surgeons, 1995:467&#x02013;479.</mixed-citation></ref><ref id="r34"><label>34</label><mixed-citation publication-type="journal"><string-name><surname>Coonrad</surname>
+<given-names>RW</given-names></string-name>, <string-name><surname>Hooper</surname>
+<given-names>WR</given-names></string-name>. <article-title>Tennis elbow: its course, natural history, conservative and surgical management</article-title>. <source>J Bone Joint Surg [Am]</source><year>1973</year>;<volume>55-A</volume>:<fpage>1177</fpage>&#x02013;<lpage>1182</lpage></mixed-citation></ref><ref id="r35"><label>35</label><mixed-citation publication-type="journal"><string-name><surname>Goldie</surname>
+<given-names>I</given-names></string-name>. <article-title>Epicondylitis lateralis humeri (epicondylalgia or tennis elbow): a pathogenetical study</article-title>. <source>Acta Chir Scand Suppl</source><year>1964</year>;<volume>57</volume>:<fpage>339</fpage></mixed-citation></ref><ref id="r36"><label>36</label><mixed-citation publication-type="journal"><string-name><surname>Nirschl</surname>
+<given-names>RP</given-names></string-name>, <string-name><surname>Pettrone</surname>
+<given-names>FA</given-names></string-name>. <article-title>Tennis elbow</article-title>. <source>J Bone Joint Surg [Am]</source><year>1979</year>;<volume>61-A</volume>:<fpage>832</fpage>&#x02013;<lpage>839</lpage></mixed-citation></ref><ref id="r37"><label>37</label><mixed-citation publication-type="journal"><string-name><surname>Assendelft</surname>
+<given-names>WJ</given-names></string-name>, <string-name><surname>Hay</surname>
+<given-names>EM</given-names></string-name>, <string-name><surname>Adshead</surname>
+<given-names>R</given-names></string-name>, <string-name><surname>Bouter</surname>
+<given-names>LM</given-names></string-name>. <article-title>Corticosteroid injections for lateral epicondylitis: a systematic overview</article-title>. <source>Br J Gen Pract</source><year>1996</year>;<volume>46</volume>:<fpage>209</fpage>&#x02013;<lpage>216</lpage><pub-id pub-id-type="pmid">8703521</pub-id></mixed-citation></ref><ref id="r38"><label>38</label><mixed-citation publication-type="journal"><string-name><surname>Bisset</surname>
+<given-names>L</given-names></string-name>, <string-name><surname>Beller</surname>
+<given-names>E</given-names></string-name>, <string-name><surname>Jull</surname>
+<given-names>G</given-names></string-name>, <etal/>
+<article-title>Mobilisation with movement and exercise, corticosteroid injection, or wait and see for tennis elbow: randomised trial</article-title>. <source>BMJ</source><year>2006</year>;<volume>333</volume>:<fpage>939</fpage><pub-id pub-id-type="pmid">17012266</pub-id></mixed-citation></ref><ref id="r39"><label>39</label><mixed-citation publication-type="journal"><string-name><surname>Kapetanos</surname>
+<given-names>G</given-names></string-name>. <article-title>The effect of the local corticosteroids on the healing and biomechanical properties of the partially injured tendon</article-title>. <source>Clin Orthop Relat Res</source><year>1982</year>;<volume>163</volume>:<fpage>170</fpage>&#x02013;<lpage>179</lpage><pub-id pub-id-type="pmid">7067249</pub-id></mixed-citation></ref><ref id="r40"><label>40</label><mixed-citation publication-type="journal"><string-name><surname>Ketchum</surname>
+<given-names>LD</given-names></string-name>. <article-title>Effects of triamcinalone on tendon healing and function: a laboratory study</article-title>. <source>Plast Reconstr Surg</source><year>1971</year>;<volume>47</volume>:<fpage>471</fpage>&#x02013;<lpage>482</lpage><pub-id pub-id-type="pmid">4930006</pub-id></mixed-citation></ref><ref id="r41"><label>41</label><mixed-citation publication-type="journal"><string-name><surname>Unverferth</surname>
+<given-names>LJ</given-names></string-name>, <string-name><surname>Olix</surname>
+<given-names>ML</given-names></string-name>. <article-title>The effect of local steroid injections on tendon</article-title>. <source>J Sports Med</source><year>1973</year>;<volume>1</volume>:<fpage>31</fpage>&#x02013;<lpage>37</lpage><pub-id pub-id-type="pmid">4806601</pub-id></mixed-citation></ref><ref id="r42"><label>42</label><mixed-citation publication-type="journal"><string-name><surname>Gottlieb</surname>
+<given-names>NL</given-names></string-name>, <string-name><surname>Riskin</surname>
+<given-names>WG</given-names></string-name>. <article-title>Complications of local corticosteroid injections</article-title>. <source>JAMA</source><year>1980</year>;<volume>243</volume>:<fpage>1547</fpage>&#x02013;<lpage>1548</lpage><pub-id pub-id-type="pmid">6965736</pub-id></mixed-citation></ref><ref id="r43"><label>43</label><mixed-citation publication-type="journal"><string-name><surname>Haslock</surname>
+<given-names>I</given-names></string-name>, <string-name><surname>MacFarlane</surname>
+<given-names>D</given-names></string-name>, <string-name><surname>Speed</surname>
+<given-names>C</given-names></string-name>. <article-title>Intra-articular and soft tissue injections: a survey of current practice</article-title>. <source>Br J Rheumatol</source><year>1995</year>;<volume>34</volume>:<fpage>449</fpage>&#x02013;<lpage>452</lpage><pub-id pub-id-type="pmid">7788175</pub-id></mixed-citation></ref><ref id="r44"><label>44</label><mixed-citation publication-type="journal">No authors listed. Articular and periarticular corticosteroid injections <source>Drugs Ther Bull</source><year>1995</year>;<volume>33</volume>:<fpage>67</fpage>&#x02013;<lpage>70</lpage></mixed-citation></ref><ref id="r45"><label>45</label><mixed-citation publication-type="journal"><string-name><surname>Wolf</surname>
+<given-names>JM</given-names></string-name>, <string-name><surname>&#x000a0;Ozer</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>&#x000a0;Scott</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>&#x000a0;Gordon</surname>
+<given-names>MJ</given-names></string-name>, <string-name><surname>&#x000a0;Williams</surname>
+<given-names>AE</given-names></string-name>. <article-title>Comparison of autologous blood, corticosteroid, and saline injection in the treatment of lateral epicondylitis: a prospective, randomized, controlled multicenter study</article-title>. <source>J Hand Surg Am</source><year>2011</year>;<volume>36</volume>:<fpage>1269</fpage>&#x02013;<lpage>1272</lpage><pub-id pub-id-type="pmid">21705157</pub-id></mixed-citation></ref><ref id="r46"><label>46</label><mixed-citation publication-type="journal"><string-name><surname>Kazemi</surname>
+<given-names>M</given-names></string-name>, <string-name><surname>Azma</surname>
+<given-names>K</given-names></string-name>, <string-name><surname>Tavana</surname>
+<given-names>B</given-names></string-name>, <string-name><surname>Rezaiee Moghaddam</surname>
+<given-names>F</given-names></string-name>, <string-name><surname>Panahi</surname>
+<given-names>A</given-names></string-name>. <article-title>Autologous blood versus corticosteroid local injection in the short-term treatment of lateral elbow tendinopathy: a randomized clinical trial of efficacy</article-title>. <source>Am J Phys Med Rehabil</source><year>2010</year>;<volume>89</volume>:<fpage>660</fpage>&#x02013;<lpage>667</lpage><pub-id pub-id-type="pmid">20463564</pub-id></mixed-citation></ref></ref-list></back></article>

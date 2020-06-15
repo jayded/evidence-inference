@@ -1,0 +1,930 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:ali="http://www.niso.org/schemas/ali/1.0/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">Brain Behav</journal-id><journal-id journal-id-type="iso-abbrev">Brain Behav</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2157-9032</journal-id><journal-id journal-id-type="publisher-id">BRB3</journal-id><journal-title-group><journal-title>Brain and Behavior</journal-title></journal-title-group><issn pub-type="epub">2162-3279</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">26855826</article-id><article-id pub-id-type="pmc">4733105</article-id><article-id pub-id-type="doi">10.1002/brb3.427</article-id><article-id pub-id-type="publisher-id">BRB3427</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject></subj-group></article-categories><title-group><article-title>High&#x02010;gamma power changes after cognitive intervention: preliminary results from twenty&#x02010;one senior adult subjects</article-title><alt-title alt-title-type="left-running-head">Y. Akimoto <italic>et&#x000a0;al</italic>.</alt-title></title-group><contrib-group><contrib id="brb3427-cr-0001" contrib-type="author" corresp="yes"><name><surname>Akimoto</surname><given-names>Yoritaka</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb3427-cr-0002" contrib-type="author"><name><surname>Nozawa</surname><given-names>Takayuki</given-names></name><xref ref-type="aff" rid="brb3427-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="brb3427-cr-0003" contrib-type="author"><name><surname>Kanno</surname><given-names>Akitake</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb3427-cr-0004" contrib-type="author"><name><surname>Kambara</surname><given-names>Toshimune</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="brb3427-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="brb3427-cr-0005" contrib-type="author"><name><surname>Ihara</surname><given-names>Mizuki</given-names></name><xref ref-type="aff" rid="brb3427-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="brb3427-cr-0006" contrib-type="author"><name><surname>Ogawa</surname><given-names>Takeshi</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb3427-cr-0007" contrib-type="author"><name><surname>Goto</surname><given-names>Takakuni</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb3427-cr-0008" contrib-type="author"><name><surname>Taki</surname><given-names>Yasuyuki</given-names></name><xref ref-type="aff" rid="brb3427-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="brb3427-cr-0009" contrib-type="author"><name><surname>Yokoyama</surname><given-names>Ryoichi</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb3427-cr-0010" contrib-type="author"><name><surname>Kotozaki</surname><given-names>Yuka</given-names></name><xref ref-type="aff" rid="brb3427-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="brb3427-cr-0011" contrib-type="author"><name><surname>Nouchi</surname><given-names>Rui</given-names></name><xref ref-type="aff" rid="brb3427-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="brb3427-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="brb3427-cr-0012" contrib-type="author"><name><surname>Sekiguchi</surname><given-names>Atsushi</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="brb3427-aff-0006">
+<sup>6</sup>
+</xref><xref ref-type="aff" rid="brb3427-aff-0011">
+<sup>11</sup>
+</xref></contrib><contrib id="brb3427-cr-0013" contrib-type="author"><name><surname>Takeuchi</surname><given-names>Hikaru</given-names></name><xref ref-type="aff" rid="brb3427-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="brb3427-cr-0014" contrib-type="author"><name><surname>Miyauchi</surname><given-names>Carlos Makoto</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="brb3427-cr-0015" contrib-type="author"><name><surname>Sugiura</surname><given-names>Motoaki</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="brb3427-aff-0005">
+<sup>5</sup>
+</xref></contrib><contrib id="brb3427-cr-0016" contrib-type="author"><name><surname>Okumura</surname><given-names>Eiichi</given-names></name><xref ref-type="aff" rid="brb3427-aff-0007">
+<sup>7</sup>
+</xref></contrib><contrib id="brb3427-cr-0017" contrib-type="author"><name><surname>Sunda</surname><given-names>Takashi</given-names></name><xref ref-type="aff" rid="brb3427-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="brb3427-cr-0018" contrib-type="author"><name><surname>Shimizu</surname><given-names>Toshiyuki</given-names></name><xref ref-type="aff" rid="brb3427-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="brb3427-cr-0019" contrib-type="author"><name><surname>Tozuka</surname><given-names>Eiji</given-names></name><xref ref-type="aff" rid="brb3427-aff-0009">
+<sup>9</sup>
+</xref></contrib><contrib id="brb3427-cr-0020" contrib-type="author"><name><surname>Hirose</surname><given-names>Satoru</given-names></name><xref ref-type="aff" rid="brb3427-aff-0008">
+<sup>8</sup>
+</xref></contrib><contrib id="brb3427-cr-0021" contrib-type="author"><name><surname>Nanbu</surname><given-names>Tatsuyoshi</given-names></name><xref ref-type="aff" rid="brb3427-aff-0010">
+<sup>10</sup>
+</xref></contrib><contrib id="brb3427-cr-0022" contrib-type="author"><name><surname>Kawashima</surname><given-names>Ryuta</given-names></name><xref ref-type="aff" rid="brb3427-aff-0001">
+<sup>1</sup>
+</xref><xref ref-type="aff" rid="brb3427-aff-0002">
+<sup>2</sup>
+</xref><xref ref-type="aff" rid="brb3427-aff-0004">
+<sup>4</sup>
+</xref></contrib></contrib-group><aff id="brb3427-aff-0001"><label><sup>1</sup></label><named-content content-type="organisation-division">Department of Functional Brain Imaging</named-content><named-content content-type="organisation-division">Institute of Development, Aging and Cancer</named-content><institution>Tohoku University</institution><named-content content-type="city">Sendai</named-content><named-content content-type="post-code">980&#x02010;8575</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0002"><label><sup>2</sup></label><named-content content-type="organisation-division">Smart Ageing International Research Center</named-content><named-content content-type="organisation-division">Institute of Development, Aging and Cancer</named-content><institution>Tohoku University</institution><named-content content-type="city">Sendai</named-content><named-content content-type="post-code">980&#x02010;8575</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0003"><label><sup>3</sup></label><institution>Japan Society for the Promotion of Science (JSPS)</institution><named-content content-type="city">Tokyo</named-content><named-content content-type="post-code">102&#x02010;8472</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0004"><label><sup>4</sup></label><named-content content-type="organisation-division">Division of Developmental Cognitive Neuroscience</named-content><named-content content-type="organisation-division">Institute of Development, Aging and Cancer</named-content><institution>Tohoku University</institution><named-content content-type="city">Sendai</named-content><named-content content-type="post-code">980&#x02010;8575</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0005"><label><sup>5</sup></label><named-content content-type="organisation-division">Human and Social Response Research Division</named-content><named-content content-type="organisation-division">International Research</named-content><named-content content-type="organisation-division">Institute of Disaster Science</named-content><institution>Tohoku University</institution><named-content content-type="city">Sendai</named-content><named-content content-type="post-code">980&#x02010;8575</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0006"><label><sup>6</sup></label><named-content content-type="organisation-division">Division of Medical Neuroimage Analysis</named-content><named-content content-type="organisation-division">Department of Community Medical Supports</named-content><named-content content-type="organisation-division">Tohoku Medical Megabank Organization</named-content><institution>Tohoku University</institution><named-content content-type="city">Sendai</named-content><named-content content-type="post-code">980&#x02010;8575</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0007"><label><sup>7</sup></label><named-content content-type="organisation-division">Department of Epileptology</named-content><institution>Tohoku University Graduate School of Medicine</institution><named-content content-type="city">Sendai</named-content><named-content content-type="post-code">980&#x02010;8575</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0008"><label><sup>8</sup></label><named-content content-type="organisation-division">Mobility Services Laboratory</named-content><named-content content-type="organisation-division">Research Division 2</named-content><institution>Nissan Motor Co., Ltd.</institution><named-content content-type="city">Kanagawa</named-content><named-content content-type="post-code">243&#x02010;0123</named-content><country>Japan</country></aff><aff id="brb3427-aff-0009"><label><sup>9</sup></label><named-content content-type="organisation-division">Vehicle Test and Measurement Technology Development Department</named-content><named-content content-type="organisation-division">CAE and Testing Division 1</named-content><institution>Nissan Motor Co., Ltd.</institution><named-content content-type="city">Kanagawa</named-content><named-content content-type="post-code">243&#x02010;0192</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0010"><label><sup>10</sup></label><named-content content-type="organisation-division">Prototype and Test Department</named-content><named-content content-type="organisation-division">Research Division 2</named-content><institution>Nissan Motor Co., Ltd.</institution><named-content content-type="city">Kanagawa</named-content><named-content content-type="post-code">243&#x02010;0123</named-content><country country="JP">Japan</country></aff><aff id="brb3427-aff-0011"><label><sup>11</sup></label><named-content content-type="organisation-division">Department of Adult Mental Health</named-content><named-content content-type="organisation-division">National Institute of Mental Health</named-content><institution>National Center of Neurology and Psychiatry</institution><named-content content-type="city">Kodaira</named-content><named-content content-type="post-code">187&#x02010;8553</named-content><country country="JP">Japan</country></aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence</bold><break/>
+Yoritaka Akimoto, RIKEN Brain Science Institute, Laboratory for Language Development, 2&#x02010;1, Hirosawa, Wako&#x02010;shi, Saitama 351&#x02010;0198, Japan. Tel: +81 48 462 1111 Ext. 6758; Fax: +81 48 467 9760; E&#x02010;mail: <email>y-akimoto@brain.riken.jp</email><break/></corresp></author-notes><pub-date pub-type="epub"><day>30</day><month>1</month><year>2016</year></pub-date><pub-date pub-type="collection"><month>3</month><year>2016</year></pub-date><volume>6</volume><issue>3</issue><issue-id pub-id-type="doi">10.1002/brb3.2016.6.issue-3</issue-id><elocation-id>e00427</elocation-id><history><date date-type="received"><day>17</day><month>4</month><year>2015</year></date><date date-type="rev-recd"><day>08</day><month>12</month><year>2015</year></date><date date-type="accepted"><day>11</day><month>12</month><year>2015</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> &#x000a9; 2016 Published by Wiley Periodicals, Inc. <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2016 The Authors. <italic>Brain and Behavior</italic> published by Wiley Periodicals, Inc.</copyright-statement><license license-type="creativeCommonsBy"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution</ext-link> License, which permits use, distribution and reproduction in any medium, provided the original work is properly cited.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:BRB3-6-e00427.pdf"/><abstract id="brb3427-abs-0001"><title>Abstract</title><sec id="brb3427-sec-0001"><title>Introduction</title><p>Brain&#x02010;imaging techniques have begun to be popular in evaluating the effectiveness of cognitive intervention training. Although gamma activities are rarely used as an index of training effects, they have several characteristics that suggest their potential suitability for this purpose. This pilot study examined whether cognitive training in elderly people affected the high&#x02010;gamma activity associated with attentional processing and whether high&#x02010;gamma power changes were related to changes in behavioral performance.</p></sec><sec id="brb3427-sec-0002"><title>Methods</title><p>We analyzed (MEG) magnetoencephalography data obtained from 35 healthy elderly subjects (60&#x02013;75&#x000a0;years old) who had participated in our previous intervention study in which the subjects were randomly assigned to one of the three types of intervention groups: Group V trained in a vehicle with a newly developed onboard cognitive training program, Group P trained with a similar program but on a personal computer, and Group C was trained to solve a crossword puzzle as an active control group. High&#x02010;gamma (52&#x02013;100&#x000a0;Hz) activity during a three&#x02010;stimulus visual oddball task was measured before and after training. As a result of exclusion in the <styled-content style="fixed-case">MEG</styled-content> data analysis stage, the final sample consisted of five subjects in Group V, nine subjects in Group P, and seven subjects in Group C.</p></sec><sec id="brb3427-sec-0003"><title>Results</title><p>Results showed that high&#x02010;gamma activities were differently altered between groups after cognitive intervention. In particular, members of Group V, who showed significant improvements in cognitive function after training, exhibited increased high&#x02010;gamma power in the left middle frontal gyrus during top&#x02010;down anticipatory target processing. High&#x02010;gamma power changes in this region were also associated with changes in behavioral performance.</p></sec><sec id="brb3427-sec-0004"><title>Conclusions</title><p>Our preliminary results suggest the usefulness of high&#x02010;gamma activities as an index of the effectiveness of cognitive training in elderly subjects.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="brb3427-kwd-0001">Behavioral performance</kwd><kwd id="brb3427-kwd-0002">cognitive intervention</kwd><kwd id="brb3427-kwd-0003">elderly</kwd><kwd id="brb3427-kwd-0004">high&#x02010;gamma activity</kwd></kwd-group><funding-group><award-group><funding-source>Tohoku University</funding-source></award-group></funding-group><funding-group><award-group><funding-source>Nissan Motor Co., Ltd., Japan</funding-source></award-group></funding-group><counts><page-count count="11"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>brb3427</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>March 2016</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:4.8.6 mode:remove_FC converted:12.04.2016</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="brb3427-cit-1001">
+<string-name>
+<given-names>Y.</given-names>
+<surname>Akimoto</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nozawa</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kambara</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ihara</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ogawa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Goto</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Taki</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yokoyama</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Kotozaki</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Nouchi</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sekiguchi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>C. M.</given-names>
+<surname>Miyauchi</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sugiura</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Okumura</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Sunda</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Shimizu</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Tozuka</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Hirose</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nanbu</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Kawashima</surname>
+</string-name>, <article-title>High&#x02010;gamma power changes after cognitive intervention: preliminary results from twenty&#x02010;one senior adult subjects</article-title>, <source>Brain and Behavior</source>, <year>2016</year>; <volume>6</volume>(<issue>3</issue>), e00427, doi: <ext-link ext-link-type="doi" xlink:href="10.1002/brb3.427">10.1002/brb3.427</ext-link>
+</mixed-citation>
+</p></notes></front><body><sec id="brb3427-sec-0005"><title>Introduction</title><p>Cognitive training improves several cognitive functions, including processing speed, attention, and executive functions, not only in healthy young adults but also in senior adults (Nouchi et&#x000a0;al. <xref rid="brb3427-bib-0037" ref-type="ref">2012</xref>, <xref rid="brb3427-bib-0038" ref-type="ref">2013</xref>). Recently, brain&#x02010;imaging techniques have begun to be popular to evaluate the effectiveness of cognitive training in elderly people [for reviews, please see 3]. Several MR (magnetic resonance) imaging studies have examined neural structural and functional changes, which might represent the underlying mechanism of improvements in cognitive performance (Takeuchi et&#x000a0;al. <xref rid="brb3427-bib-0053" ref-type="ref">2010</xref>; Chapman et&#x000a0;al. <xref rid="brb3427-bib-0012" ref-type="ref">2013</xref>). Gamma oscillatory activity, which is measured by EEG (electroencephalography) or MEG (magnetoencephalography) and has been observed during various perceptual and cognitive processes (Fries <xref rid="brb3427-bib-0021" ref-type="ref">2009</xref>), has only rarely been used to evaluate the effectiveness of cognitive training. However, gamma activities have several characteristics that are suitable for this purpose. Practically, EEG and MEG are safely applicable to children, patients, and elderly people who are often targets for cognitive intervention, but are less suitable for MRI scanning. Theoretically, gamma&#x02010;band event&#x02010;related synchronization is considered a signature of local circuit operations (Buzs&#x000e1;ki and Wang <xref rid="brb3427-bib-0010" ref-type="ref">2012</xref>). Gamma activities show more specific timing and localization than lower frequencies, such as, theta (Crone et&#x000a0;al. <xref rid="brb3427-bib-0013" ref-type="ref">2006</xref>), which has been shown to be useful for evaluating training effects (Anguera et&#x000a0;al. <xref rid="brb3427-bib-0003" ref-type="ref">2013</xref>). Gamma activities also show considerable individual differences and intraindividual reliabilities (Keil et&#x000a0;al. <xref rid="brb3427-bib-0030" ref-type="ref">2003</xref>; Fr&#x000fc;nd et&#x000a0;al. <xref rid="brb3427-bib-0022" ref-type="ref">2007</xref>). In addition, previous studies have revealed that individual differences in gamma activities predict individual variations in behavioral performance (Hoogenboom et&#x000a0;al. <xref rid="brb3427-bib-0026" ref-type="ref">2010</xref>; Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0001" ref-type="ref">2013</xref>, <xref rid="brb3427-bib-0002" ref-type="ref">2014</xref>). For example, our previous study revealed that those who exhibit higher high&#x02010;gamma (52&#x02013;100&#x000a0;Hz) power in the left MFG (middle frontal gyrus), the left IPS (intraparietal sulcus), and the left thalamus show better performance during a three&#x02010;stimulus visual oddball task (Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0002" ref-type="ref">2014</xref>). Furthermore, a few reports have shown that cognitive training affects gamma activity during training&#x02010;related perceptual processes (Shahin et&#x000a0;al. <xref rid="brb3427-bib-0047" ref-type="ref">2008</xref>; Popov et&#x000a0;al. <xref rid="brb3427-bib-0044" ref-type="ref">2012</xref>). Shahin et&#x000a0;al. (<xref rid="brb3427-bib-0047" ref-type="ref">2008</xref>) have measured gamma&#x02010;band activity in 4&#x02010; and 5&#x02010;year&#x02010;olds before starting music lessons and 1&#x000a0;year later. They found that the children receiving music training exhibited increased gamma activity during the passive listening of sounds. Popov et&#x000a0;al. (<xref rid="brb3427-bib-0044" ref-type="ref">2012</xref>) conducted 4&#x000a0;weeks of cognitive training in patients with schizophrenia, and they have found that cognitive training for auditory&#x02010;verbal discrimination increased gamma activity during the passive listening of sound. However, it remains unclear whether cognitive training affects gamma activity in elderly subjects.</p><p>Our aim in this pilot study was to evaluate the usefulness of high&#x02010;gamma activities as an index of the efficacy of cognitive training in elderly subjects. For this purpose, we investigated whether cognitive training in elderly people affected the high&#x02010;gamma activity associated with attentional processing and whether high&#x02010;gamma power changes were related to changes in behavioral performance. Recently, we conducted an intervention study (Nozawa et&#x000a0;al. <xref rid="brb3427-bib-0039" ref-type="ref">2015</xref>) to investigate the effects of different types of cognitive training on cognitive function and driving safety: Group V trained in a vehicle with a newly developed onboard cognitive training program, Group P trained with a similar program but on a personal computer, and Group C was trained to solve a crossword puzzle as an active control group. After the 8&#x02010;week intervention, Group V showed significant improvement in the processing speed (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.048) and working memory (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.048) composites. Additionally, marginally significant improvements were observed in Group V in the executive function (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.076) and cognitive impairment (COGSTAT) (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.076) composites, and in Group C in the working memory (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.092) and COGSTAT (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.078) composites. In this study, we analyzed the MEG data that were obtained when these senior adult subjects conducted a three&#x02010;stimulus visual oddball task before and after the intervention periods. On the basis of previous meta&#x02010;analysis results indicating that reliable near&#x02010;transfer effects were obtained from executive function and working memory training in elderly subjects (Karbach and Verhaeghen <xref rid="brb3427-bib-0029" ref-type="ref">2014</xref>), we expected improvement in behavioral performance, and more importantly an alteration in high&#x02010;gamma activities after cognitive intervention in Group V. This is because oddball processing has been associated with executive function and working memory as well as other attentional processes (Huettel and McCarthy <xref rid="brb3427-bib-0027" ref-type="ref">2004</xref>; Polich <xref rid="brb3427-bib-0043" ref-type="ref">2007</xref>; West et&#x000a0;al. <xref rid="brb3427-bib-0062" ref-type="ref">2010</xref>), which were targeted in the cognitive intervention in Groups V and P. Our specific hypotheses were first, that Group V would exhibit the highest high&#x02010;gamma power increase in the left MFG, the left IPS, and the left thalamus in oddball processing (but not in the processing of standard stimuli) after the intervention, because Group V showed the best improvements in cognitive function after training. And, from the point of view of near&#x02010; and far&#x02010;transfer effects, Group P could achieve greater improvement than Group V as both the oddball task and the training in Group P were conducted in a common setting (i.e., personal computer). However, we expected a weaker effect in Group P than in Group V, given that no significant improvement was observed in Group P in the neuropsychological test battery evaluation. We had no specific expectations about Group C, whose cognitive intervention did not relate to the current task but showed marginally significant improvement in the working memory and COGSTAT composites. A previous meta&#x02010;analysis found that significant but small far&#x02010;transfer effects in working memory training in elderly subjects (Karbach and Verhaeghen <xref rid="brb3427-bib-0029" ref-type="ref">2014</xref>). Among the target brain regions, we expected to observe increased high&#x02010;gamma power most likely in the left MFG, which is an important region for executive control and top&#x02010;down anticipatory attention (Liang and Wang <xref rid="brb3427-bib-0033" ref-type="ref">2003</xref>; Aron et&#x000a0;al. <xref rid="brb3427-bib-0004" ref-type="ref">2004</xref>). It has been repeatedly shown that elderly people exhibit greater recruitment of prefrontal regions and reduced activation of posterior regions in various cognitive tasks (O'Connell et&#x000a0;al. <xref rid="brb3427-bib-0040" ref-type="ref">2012</xref>; Van Dinteren et&#x000a0;al. <xref rid="brb3427-bib-0056" ref-type="ref">2014</xref>). Therefore, we assumed that our elderly subjects had relied most heavily on prefrontal regions during training, and thus, the training effect would be most evident in the prefrontal regions. Second, we predicted that high&#x02010;gamma activity changes that occurred during target processing would be associated with changes in behavioral performance regardless of group. In other words, we expected that high&#x02010;gamma power was sensitive to changes in behavioral performance occurring for any reason.</p></sec><sec id="brb3427-sec-0006"><title>Methods</title><sec id="brb3427-sec-0007"><title>Subjects</title><p>Thirty&#x02010;seven healthy senior adults (60&#x02013;75&#x000a0;years old) participated in this study. They were the same subjects as those in our previous intervention study (Nozawa et&#x000a0;al. <xref rid="brb3427-bib-0039" ref-type="ref">2015</xref>). The subjects were randomly assigned to one of the three groups (Group V, P, or C) by a computerized random draw with a balanced sex ratio among the groups (Nozawa et&#x000a0;al. <xref rid="brb3427-bib-0039" ref-type="ref">2015</xref>). However, the balanced number of subjects and sex ratio among the groups were eventually lost in the final sample, as described below. Although the data for the preintervention period were reported in our previous MEG study (Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0002" ref-type="ref">2014</xref>), the data for the postintervention period have not yet been reported. We also noted that some of the subjects who were included in our previous MEG study were not included in this study because their interventions were disrupted by the 2011 Japan earthquake. In order to exclude those with potential dementia, the exclusion criterion of a Mini&#x02010;Mental State Examination score &#x0003c;25 was employed (Folstein et&#x000a0;al. <xref rid="brb3427-bib-0019" ref-type="ref">1975</xref>). None of the participants was excluded based on this criterion. Those who had dental metal in their mouth were not excluded from the study, but some were eventually excluded from the analysis due to high magnetic noise. One participant withdrew consent before the group allocation, and one participant in Group P dropped out during the intervention period. We excluded three subjects who showed low accuracy in the target condition (two standard deviations below the mean), two subjects who had extremely large reaction times (two standard deviations above the mean), four subjects who exhibited brain atrophy, and five subjects who had trials available for less than the half of the conditions in either of the pre/postintervention periods due to a large amount of magnetic noise. As a result, five subjects in group V, nine subjects in group P, and seven subjects in group C were included in the final analysis. Baseline characteristics of the subjects in the final total sample are presented in Table&#x000a0;<xref rid="brb3427-tbl-0001" ref-type="table-wrap">1</xref>. They were not significantly different among training groups. Written informed consent was obtained from each participant. The Ethics Committee of the Tohoku University Graduate School of Medicine approved the protocol of this study. The study was conducted in accordance with the Declaration of Helsinki.</p><table-wrap id="brb3427-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Baseline characteristics of the subjects in the final sample</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" rowspan="2" valign="top" colspan="1"/><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Group C <italic>n</italic>&#x000a0;=&#x000a0;7 (2&#x000a0;F/5&#x000a0;M)</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Group P <italic>n</italic>&#x000a0;=&#x000a0;9 (4&#x000a0;F/5&#x000a0;M)</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Group V <italic>n</italic>&#x000a0;=&#x000a0;5 (1&#x000a0;F/4&#x000a0;M)</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Main effect of group</th></tr><tr style="border-bottom:solid 1px #000000"><th align="char" valign="top" rowspan="1" colspan="1">Mean</th><th align="char" valign="top" rowspan="1" colspan="1">SD</th><th align="char" valign="top" rowspan="1" colspan="1">Mean</th><th align="char" valign="top" rowspan="1" colspan="1">SD</th><th align="char" valign="top" rowspan="1" colspan="1">Mean</th><th align="char" valign="top" rowspan="1" colspan="1">SD</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>F</italic>&#x02010;value</th><th align="char" valign="top" rowspan="1" colspan="1">
+<italic>P</italic>&#x02010;value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age (year)</td><td align="char" char="." rowspan="1" colspan="1">67.31</td><td align="char" char="." rowspan="1" colspan="1">4.97</td><td align="char" char="." rowspan="1" colspan="1">68.71</td><td align="char" char="." rowspan="1" colspan="1">5.96</td><td align="char" char="." rowspan="1" colspan="1">67.34</td><td align="char" char="." rowspan="1" colspan="1">5.59</td><td align="char" char="." rowspan="1" colspan="1">0.160</td><td align="char" char="." rowspan="1" colspan="1">0.854</td></tr><tr><td align="left" rowspan="1" colspan="1">Education (year)</td><td align="char" char="." rowspan="1" colspan="1">14.86</td><td align="char" char="." rowspan="1" colspan="1">1.57</td><td align="char" char="." rowspan="1" colspan="1">13.44</td><td align="char" char="." rowspan="1" colspan="1">2.40</td><td align="char" char="." rowspan="1" colspan="1">13.60</td><td align="char" char="." rowspan="1" colspan="1">2.19</td><td align="char" char="." rowspan="1" colspan="1">0.972</td><td align="char" char="." rowspan="1" colspan="1">0.397</td></tr><tr><td align="left" rowspan="1" colspan="1">MMSE base (score)</td><td align="char" char="." rowspan="1" colspan="1">28.71</td><td align="char" char="." rowspan="1" colspan="1">1.11</td><td align="char" char="." rowspan="1" colspan="1">28.00</td><td align="char" char="." rowspan="1" colspan="1">1.80</td><td align="char" char="." rowspan="1" colspan="1">28.00</td><td align="char" char="." rowspan="1" colspan="1">1.23</td><td align="char" char="." rowspan="1" colspan="1">0.543</td><td align="char" char="." rowspan="1" colspan="1">0.590</td></tr></tbody></table><table-wrap-foot><fn id="brb3427-note-0002"><p>F, female; M, male; SD, standard deviation; Education, number of years of education completed; MMSE, Mini&#x02010;Mental State Examination.</p></fn><fn id="brb3427-note-0003"><p>The base score indicates the preintervention test score. The main effect of group was tested with one&#x02010;way analysis of variance (ANOVA).</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap></sec><sec id="brb3427-sec-0008"><title>Cognitive interventions</title><p>Group V trained in a vehicle with an on&#x02010;board cognitive training program. In the training task, color stimuli were presented rhythmically and randomly by five LEDs placed around the driver's seat (four lights: top&#x02010;right, bottom&#x02010;right, top&#x02010;left, and bottom&#x02010;left were approximately equidistant from the center of the driver's view; an additional LED was located beside the side mirror on the passenger side). Participants were instructed to turn the steering wheel when two lights of the same color (green or blue, but not yellow) were presented on the same side (left or right). Yellow lights were distractors, so participants were expected to suppress their response even if two yellow lights were presented on the same side. Participants were also instructed to press the brake pedal when red lights were presented at random times by any of the five LEDs. Training comprised both an immediate response version and a delayed response (i.e., n&#x02010;back) version. The system provided adaptive training by dynamically adjusting tempo according to subjects' successive correct or incorrect responses. In sum, the training focused on processing speed, executive control, visual processing, divided attention, and working memory. Group P trained with a similar program but on a personal computer. This condition was intended to examine the hypothesized advantage of an on&#x02010;board training program over training on a PC in terms of transfer of training effects to cognitive functions and driving safety. Group C was trained to solve a crossword puzzle, and thus served as an active control group. Participants visited our laboratory 24 times (3&#x000a0;days a week for 8&#x000a0;weeks) and completed 20&#x000a0;min of training each time. Before and after the training intervention period, participants completed a neuropsychological test battery including the Block Design subtest of the Wechsler Adult Intelligence Scale III (Wechsler <xref rid="brb3427-bib-0061" ref-type="ref">1997</xref>), Frontal Assessment Battery at bedside (Dubois et&#x000a0;al. <xref rid="brb3427-bib-0018" ref-type="ref">2000</xref>), Word Fluency Test (Lezak <xref rid="brb3427-bib-0032" ref-type="ref">1995</xref>), Trail Making Test (Reitan <xref rid="brb3427-bib-0045" ref-type="ref">1958</xref>), Symbol&#x02010;Digit Modalities Test (Smith <xref rid="brb3427-bib-0049" ref-type="ref">1984</xref>), Spatial Span subtest of the Wechsler Memory Scale&#x02010;Revised (Wechsler <xref rid="brb3427-bib-0060" ref-type="ref">1987</xref>), Benton visual retention test (Benton <xref rid="brb3427-bib-0007" ref-type="ref">1963</xref>), Rey&#x02010;Osterrieth Complex Figure&#x000a0;Test (Shin et&#x000a0;al. <xref rid="brb3427-bib-0048" ref-type="ref">2006</xref>), Rey Auditory&#x02010;verbal learning test (Schmidt <xref rid="brb3427-bib-0046" ref-type="ref">1996</xref>), and Judgment of Line Orientation (Benton et&#x000a0;al. <xref rid="brb3427-bib-0008" ref-type="ref">1983</xref>). Cognitive function was evaluated in four domains (processing speed, executive function, working memory, and cognitive impairment; COGSTAT) by calculating a composite measure across multiple neuropsychological tests. For more detail, see (Nozawa et&#x000a0;al. <xref rid="brb3427-bib-0039" ref-type="ref">2015</xref>).</p></sec><sec id="brb3427-sec-0009"><title>Three&#x02010;stimulus oddball task</title><p>Before and after the training intervention period, participants completed a three&#x02010;stimulus visual oddball task, which was the same as that used in our previous study (Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0001" ref-type="ref">2013</xref>, <xref rid="brb3427-bib-0002" ref-type="ref">2014</xref>), with MEG measurements. In this task, target, nontarget, and standard stimuli were presented with an appearance rate of 10%, 10%, and 80%, respectively. The standard stimuli were blue elliptical shapes, the height and width of which subtended visual angles of 4.6&#x000b0; and 4.1&#x000b0;, respectively. The target stimuli were larger blue elliptical shapes, the height and width of which subtended visual angles of 5.6&#x000b0; and 4.6&#x000b0;, respectively. The infrequent nontarget stimuli were large blue rectangles, the height and width of which subtended visual angles of 6.4&#x000b0; and 5.6&#x000b0;, respectively. Subjects pushed a button with their right index finger only when the target stimulus appeared. Each stimulus was presented for 500&#x000a0;msec. The interstimulus interval was 1500&#x000a0;msec. There were 260 trials in all.</p></sec><sec id="brb3427-sec-0010"><title>MEG measurements and analysis</title><p>The MEG data were acquired with a whole&#x02010;head 200&#x02010;channel MEG system (PQA160C, Yokogawa Electric Corporation, Tokyo, Japan) with a sample rate of 2000&#x000a0;Hz and a band&#x02010;pass filter of 0.01&#x02013;500&#x000a0;Hz. The head shape of each participant was digitized with a three&#x02010;dimensional digitizer (FastSCAN Cobra, Polhemus, Colchester, VT) and coregistered with individual structural MR images. Structural MR images were acquired with a 3T MR system (Achieva, Philips Healthcare, Best, the Netherlands).</p><p>We analyzed the MEG data with a similar procedure as that used in our previous study (Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0001" ref-type="ref">2013</xref>, <xref rid="brb3427-bib-0002" ref-type="ref">2014</xref>). The left MFG (Montreal Neurological Institute coordinates: &#x02212;25, 24, 48), left IPS (&#x02212;25, &#x02212;46, 53), and left thalamus (&#x02212;5, &#x02212;26, 8) were defined as ROIs (regions of interest) because their high&#x02010;gamma power measures have been previously shown to be significant indicators of attentional ability (Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0001" ref-type="ref">2013</xref>, <xref rid="brb3427-bib-0002" ref-type="ref">2014</xref>). We also noted that these regions did not overlap with the regions showing structural changes after cognitive intervention (Nozawa et&#x000a0;al. <xref rid="brb3427-bib-0039" ref-type="ref">2015</xref>). The Fieldtrip software package (Oostenveld et&#x000a0;al. <xref rid="brb3427-bib-0041" ref-type="ref">2011</xref>) was used to conduct an independent component analysis of the MEG data and the typical noise components (e.g., eye blink) were removed by a researcher based on visual inspection. The data were reconstituted from the independent components that remained after the removal of the artifact independent components. We applied the array&#x02010;gain&#x02010;constraint version of diagonal loading (see the Supplement of (Ueno et&#x000a0;al. <xref rid="brb3427-bib-0054" ref-type="ref">2012</xref>)) to all of the source reconstructions in this study. The data after preprocessing were band&#x02010;pass filtered in the 52&#x02013;100&#x02010;Hz frequency domain. We extracted the brain activities in each ROI with a narrow&#x02010;band adaptive beamformer (Dalal et&#x000a0;al. <xref rid="brb3427-bib-0014" ref-type="ref">2008</xref>). Group level analyses were conducted in the Montreal Neurological Institute space after the individual data were normalized with SPM8 (Wellcome Department of Cognitive Neurology, London, U.K.) with a standard T1 template image. The trials were epoched from 300&#x000a0;msec before stimulus onset to 600&#x000a0;msec after stimulus onset. The trials with incorrect responses or magnetic flux in excess of 2000 fT in any channel were excluded. The number of analyzed trials was nearly equalized among the conditions in order to produce similar noise levels across conditions (Herdman and Cheyne <xref rid="brb3427-bib-0025" ref-type="ref">2009</xref>). This was done by randomly selecting the same number of standard trials and nontarget trials for analysis. The average number of analyzed nontarget&#x02010;, target&#x02010;, and standard&#x02010;stimulus trials were 24.2 [standard error of the mean (SE)&#x000a0;=&#x000a0;0.46], 23.0 (SE&#x000a0;=&#x000a0;0.50), and 24.2 (SE&#x000a0;=&#x000a0;0.46), respectively.</p><p>We calculated the power changes relative to baseline with a logarithmic conversion with 100&#x02010;msec moving windows starting at stimulus onset (0&#x000a0;msec) to 400&#x000a0;msec after stimulus onset. The baseline was the time between &#x02212;300 and 0&#x000a0;msec of the stimulus onset. Then, the high&#x02010;gamma power change (Post &#x02013; Pre) was computed for each subject. In order to examine the effects of each cognitive intervention, we conducted permutation tests of an ANCOVA (analysis of covariance) for the high&#x02010;gamma power changes in each time window in each condition and ROI. The permutation test for ANCOVA was conducted with the &#x0201c;aovp&#x0201d; function of the lmperm package (<ext-link ext-link-type="uri" xlink:href="http://cran.r-project.org/web/packages/lmPerm/index.html">http://cran.r-project.org/web/packages/lmPerm/index.html</ext-link>) in R version 3.0.1 (<ext-link ext-link-type="uri" xlink:href="http://www.rproject.org/">http://www.rproject.org/</ext-link>). The high&#x02010;gamma power change (Post &#x02013; Pre) was the dependent variable, and the group was the independent variable. The high&#x02010;gamma power of the preperiod, sex, and age were included in the model as covariates. The effects of the intervention on task accuracy {i.e., discriminability index (A') based on signal detection theory (Grier <xref rid="brb3427-bib-0024" ref-type="ref">1971</xref>)} and reaction time were analyzed in a similar way with the permutation test for ANCOVA. In addition, we conducted partial correlation analyses between the changes in high&#x02010;gamma power in the target condition and the reaction time in all subjects (i.e., collapsing intervention groups) in each time window and ROI with the high&#x02010;gamma power of the preperiod, sex, and age as covariates. The statistical threshold was set at <italic>P&#x000a0;</italic>&#x0003c;<italic>&#x000a0;</italic>0.05 with the false discovery rate method (Benjamini and Hochberg <xref rid="brb3427-bib-0006" ref-type="ref">1995</xref>) with controlling the number of time windows and ROIs. If significant effects were found in these analyses, we would also examine partial correlations between change in high&#x02010;gamma power and change in the cognitive composites scores, adjusting the high&#x02010;gamma power of the preperiod, the cognitive composite scores of the preperiod, sex, and age.</p></sec></sec><sec id="brb3427-sec-0011"><title>Results</title><p>The behavioral results are presented in Table&#x000a0;<xref rid="brb3427-tbl-0002" ref-type="table-wrap">2</xref>. There was no significant effect of training group either on task accuracy or reaction time (<italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.723 and <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.200, respectively). The time course of the high&#x02010;gamma power measurements for all of the subjects are shown in Figure&#x000a0;<xref rid="brb3427-fig-0001" ref-type="fig">1</xref>, indicating the involvement of all of these regions in top&#x02010;down attentional processing specific to the target trials.</p><table-wrap id="brb3427-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Behavioral performance in each group in each intervention period</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><th align="center" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">RT</th><th align="center" colspan="4" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">A'</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" style="border-bottom:solid 1px #000000" valign="top" rowspan="1" colspan="1"/><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Pre</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Post</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Pre</th><th align="char" colspan="2" style="border-bottom:solid 1px #000000" valign="top" rowspan="1">Post</th></tr><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Group</th><th align="char" valign="top" rowspan="1" colspan="1">Mean</th><th align="char" valign="top" rowspan="1" colspan="1">SD</th><th align="char" valign="top" rowspan="1" colspan="1">Mean</th><th align="char" valign="top" rowspan="1" colspan="1">SD</th><th align="char" valign="top" rowspan="1" colspan="1">Mean</th><th align="char" valign="top" rowspan="1" colspan="1">SD</th><th align="char" valign="top" rowspan="1" colspan="1">Mean</th><th align="char" valign="top" rowspan="1" colspan="1">SD</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">C</td><td align="char" char="." rowspan="1" colspan="1">504.1</td><td align="char" char="." rowspan="1" colspan="1">69.7</td><td align="char" char="." rowspan="1" colspan="1">508.9</td><td align="char" char="." rowspan="1" colspan="1">46.2</td><td align="char" char="." rowspan="1" colspan="1">0.976</td><td align="char" char="." rowspan="1" colspan="1">0.026</td><td align="char" char="." rowspan="1" colspan="1">0.983</td><td align="char" char="." rowspan="1" colspan="1">0.009</td></tr><tr><td align="left" rowspan="1" colspan="1">P</td><td align="char" char="." rowspan="1" colspan="1">464.3</td><td align="char" char="." rowspan="1" colspan="1">41.2</td><td align="char" char="." rowspan="1" colspan="1">510.9</td><td align="char" char="." rowspan="1" colspan="1">63.1</td><td align="char" char="." rowspan="1" colspan="1">0.978</td><td align="char" char="." rowspan="1" colspan="1">0.019</td><td align="char" char="." rowspan="1" colspan="1">0.983</td><td align="char" char="." rowspan="1" colspan="1">0.019</td></tr><tr><td align="left" rowspan="1" colspan="1">V</td><td align="char" char="." rowspan="1" colspan="1">480.4</td><td align="char" char="." rowspan="1" colspan="1">68.0</td><td align="char" char="." rowspan="1" colspan="1">465.5</td><td align="char" char="." rowspan="1" colspan="1">63.2</td><td align="char" char="." rowspan="1" colspan="1">0.985</td><td align="char" char="." rowspan="1" colspan="1">0.012</td><td align="char" char="." rowspan="1" colspan="1">0.990</td><td align="char" char="." rowspan="1" colspan="1">0.007</td></tr></tbody></table><table-wrap-foot><fn id="brb3427-note-0004"><p>RT, reaction time; A', discriminability index; SD, standard deviation.</p></fn></table-wrap-foot><permissions><copyright-holder>John Wiley &#x00026; Sons, Ltd</copyright-holder></permissions></table-wrap><fig fig-type="Figure" xml:lang="en" id="brb3427-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Time course of the high&#x02010;gamma power changes averaged for all the subjects in the pre/postintervention periods. The error bars indicate standard errors of the mean.</p></caption><graphic id="nlm-graphic-3" xlink:href="BRB3-6-e00427-g001"/></fig><p>The ANCOVA permutation tests revealed no significant effects of training group. Without the multiple comparison correction, however, we found effects of training group on the high&#x02010;gamma activities in the target condition from 100 to 200&#x000a0;msec in the left MFG, in the nontarget condition from 300 to 400&#x000a0;msec in the left MFG, and in the nontarget condition from 0 to 100&#x000a0;msec and from 200 to 300&#x000a0;msec in the left thalamus (Fig.&#x000a0;<xref rid="brb3427-fig-0002" ref-type="fig">2</xref>). Consistent with our expectations, the posthoc comparisons revealed that Group V showed the greatest increase in high&#x02010;gamma power in the left MFG from 100 to 200&#x000a0;msec in the target condition. In addition, Groups V and P showed increased high&#x02010;gamma power compared to Group C (which exhibited decreased high&#x02010;gamma power) in the left thalamus from 0 to 100&#x000a0;msec and from 200 to 300&#x000a0;msec in the nontarget condition. Unexpectedly, Group C showed the greatest increase in high&#x02010;gamma power in the left MFG from 300 to 400&#x000a0;msec in the nontarget condition. None of them showed a significant partial correlation with the change in cognitive composite scores.</p><fig fig-type="Figure" xml:lang="en" id="brb3427-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Changes in high&#x02010;gamma power (<styled-content style="fixed-case">dB</styled-content>) in each training group. (A) High&#x02010;gamma power changes in the target condition from 100 to 200&#x000a0;msec in the left MFG. (B) High&#x02010;gamma power change in the nontarget condition from 300 to 400&#x000a0;msec in the left MFG. (C) High&#x02010;gamma power change in the nontarget condition in the left thalamus from 0 to 100&#x000a0;msec and (D) from 200 to 300&#x000a0;msec. The asterisks indicate significant differences (<italic>P</italic>&#x000a0;&#x0003c;&#x000a0;0.05). The number of time windows, the stimulus conditions, and the regions of interests were not corrected. The values were adjusted for age, sex, and pre (baseline) values. The error bars in the graphs indicate the standard error of the mean for the subjects in each group. Multiple comparison correction was not applied.</p></caption><graphic id="nlm-graphic-5" xlink:href="BRB3-6-e00427-g002"/></fig><p>The partial correlation analyses revealed significant correlations between the changes in reaction time and high&#x02010;gamma power in the left MFG from 0 to 100&#x000a0;msec (<italic>r&#x000a0;</italic>=<italic>&#x000a0;</italic>&#x02212;0.65, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.004) and in the left IPS from 300 to 400&#x000a0;msec (<italic>r&#x000a0;</italic>=<italic>&#x000a0;</italic>&#x02212;0.62, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.007), both of which survived after false discovery rate multiple comparison corrections. The scatter plots are presented in Figure&#x000a0;<xref rid="brb3427-fig-0003" ref-type="fig">3</xref>. Again, none of them showed a significant partial correlation with the change in cognitive composite scores.</p><fig fig-type="Figure" xml:lang="en" id="brb3427-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Scatter plots of the partial correlations. (A) Scatter plots between reaction time and change in high&#x02010;gamma power in the left middle frontal gyrus from 0 to 100&#x000a0;msec and (B) change in high&#x02010;gamma power in the left intraparietal sulcus from 300 to 400&#x000a0;msec in the target condition. The high&#x02010;gamma power of the preperiod, sex, and age were included in the model as covariates. False discovery rate multiple comparison correction (<italic>q</italic>&#x000a0;&#x0003c;&#x000a0;.05) was applied. Note that there are two points almost overlapping around (<italic>x</italic>&#x000a0;=&#x000a0;0.1, <italic>y</italic>&#x000a0;=&#x000a0;0) in Group P in Figure&#x000a0;<xref rid="brb3427-fig-0003" ref-type="fig">3</xref> (A).</p></caption><graphic id="nlm-graphic-7" xlink:href="BRB3-6-e00427-g003"/></fig></sec><sec id="brb3427-sec-0012"><title>Discussion</title><p>We found that the high&#x02010;gamma power changes in the left MFG from 0 to 100&#x000a0;msec and in the left IPS from 300 to 400&#x000a0;msec were associated with a change in behavioral performance (Fig.&#x000a0;<xref rid="brb3427-fig-0003" ref-type="fig">3</xref>). Somewhat similar patterns in the two scatter plots suggest that their contribution to reaction time might not be independent, possibly because together they make up a frontoparietal network (Szczepanski et&#x000a0;al. <xref rid="brb3427-bib-0052" ref-type="ref">2013</xref>), although the partial correlation between high&#x02010;gamma power in the left MFG from 0 to 100&#x000a0;msec and in the left IPS from 300 to 400&#x000a0;msec did not reach significance (<italic>r&#x000a0;</italic>=<italic>&#x000a0;</italic>0.35, <italic>P&#x000a0;</italic>=<italic>&#x000a0;</italic>0.123). The fact that these correlations were observed regardless of group suggests that high&#x02010;gamma power was sensitive to change in behavioral performance, not only induced by the effective cognitive training but also by less effective training and for other reasons, such as age&#x02010;induced changes due to the 2&#x02010;month intervention period. However, we also found that Group V showed increased high&#x02010;gamma power during target processing in the left MFG from 100 to 200&#x000a0;msec. Taken together, the increased high&#x02010;gamma power in the left MFG after intervention training in Group V very likely reflects a beneficial effect of on&#x02010;board cognitive training. The left MFG has been associated with top&#x02010;down attention (Gazzaley et&#x000a0;al. <xref rid="brb3427-bib-0023" ref-type="ref">2007</xref>; Polich <xref rid="brb3427-bib-0043" ref-type="ref">2007</xref>). In line with this notion, these significant effects were observed in early time windows, suggesting that they were related to the executive function that plays an important role in top&#x02010;down anticipatory attention (Liang and Wang <xref rid="brb3427-bib-0033" ref-type="ref">2003</xref>). This interpretation seems reasonable given that the stimulus presentation was rhythmic (i.e., fixed stimulus presentation time and interstimulus interval) in this study.</p><p>Group P, who conducted similar cognitive training but with a PC, did not show this effect. This result was less expected in terms of the shared basic design of Group P's on&#x02010;PC training and Group V's on&#x02010;board training, but was consistent with previous findings showing that combined cognitive and physical training was more advantageous than cognitive or physical training alone (Bamidis et&#x000a0;al. <xref rid="brb3427-bib-0005" ref-type="ref">2014</xref>). Indeed, Group V but not Group P showed significant improvements in cognitive functions as assessed by the neuropsychological test battery (Nozawa et&#x000a0;al. <xref rid="brb3427-bib-0039" ref-type="ref">2015</xref>). Previous studies have shown that not only cardiovascular (aerobic) exercise but also coordinative exercise could improve cognitive functioning in older adults (Voelcker&#x02010;Rehage et&#x000a0;al. <xref rid="brb3427-bib-0058" ref-type="ref">2010</xref>, <xref rid="brb3427-bib-0059" ref-type="ref">2011</xref>; Bherer et&#x000a0;al. <xref rid="brb3427-bib-0009" ref-type="ref">2013</xref>; Voelcker&#x02010;Rehage and Niemann <xref rid="brb3427-bib-0057" ref-type="ref">2013</xref>). Motor coordination requires perceptual and cognitive processes, such as attention, that are important for mapping sensation to action (Voelcker&#x02010;Rehage and Niemann <xref rid="brb3427-bib-0057" ref-type="ref">2013</xref>). Thus, the observed difference might be due to a higher requirement for eye&#x02010;hand&#x02010;foot coordination in Group V. Another possible factor is motivation, which has been shown to contribute to training success (D&#x000f6;rrenb&#x000e4;cher et&#x000a0;al. <xref rid="brb3427-bib-0017" ref-type="ref">2014</xref>; Jaeggi et&#x000a0;al. <xref rid="brb3427-bib-0028" ref-type="ref">2014</xref>). Although our participants seemed to be intrinsically motivated, as they voluntarily participated in the demanding intervention program, additional incentive might be provided by the training environment in a vehicle in Group V.</p><p>We also observed significant effects of intervention group in the left MFG and left thalamus in the infrequent nontarget condition. Unfortunately, we could not conclude whether these changes were associated with improved or declined cognitive performance due to the lack of a behavioral index (i.e., reaction time) in this condition. However, the similar patterns in Groups P and V, which were different from Group C, suggest that the changes reflect the difference in training tasks. Specifically, the nature of the cognitive training in Groups P and V was oriented toward the external environmental (i.e., stimulus&#x02010;driven), whereas the training for Group C was oriented inwardly (i.e., memory retrieval). Given that the thalamus plays an important role in filtering irrelevant but salient visual distractor (Strumpf et&#x000a0;al. <xref rid="brb3427-bib-0050" ref-type="ref">2013</xref>), the high&#x02010;gamma power increase for nontarget stimuli in the left thalamus in Groups V and P might reflect an enhanced neural response to the salient external event, whereas the decrease in Group C might reflect a suppressed neural response to the same event. The fact that these significant effects were observed in early time windows is also consistent with this notion. Converging evidence suggests that MEG succeeded in measuring the signal from deep brain regions (Kimura et&#x000a0;al. <xref rid="brb3427-bib-0031" ref-type="ref">2008</xref>; Parkkonen et&#x000a0;al. <xref rid="brb3427-bib-0042" ref-type="ref">2009</xref>), even gamma&#x02010;band signals (Luo et&#x000a0;al. <xref rid="brb3427-bib-0034" ref-type="ref">2007</xref>). Although the limited number of trials in this study needs careful consideration, there seemed to be a certain level of reliability because similar results were observed in a different sample with the same experimental settings as in our previous studies (Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0001" ref-type="ref">2013</xref>, <xref rid="brb3427-bib-0002" ref-type="ref">2014</xref>). On the other hand, the high&#x02010;gamma power increase in the left MFG from 300 to 400&#x000a0;msec in Group C for nontarget stimuli was not expected. One possible interpretation is that this reflects a far&#x02010;transfer effect of crossword puzzle training, by which working memory was marginally improved. In Group C, we observed a decreased neural response to the nontarget stimuli in the left thalamus, which possibly reflects early selective gating of goal&#x02010;irrelevant stimuli. Nevertheless, their task performance (i.e., task accuracy) was maintained, suggesting that compensatory mechanisms may be provided by alternative neural resources. It has been proposed that prefrontal regions play an important role in the compensatory mechanisms for maintained performance in senior adults (van Dinteren et&#x000a0;al. <xref rid="brb3427-bib-0015" ref-type="ref">2014</xref>). A previous study further reported that the left MFG is the source of working memory capacity for suppressing goal&#x02010;irrelevant information in delay distractor filtering (Minamoto et&#x000a0;al. <xref rid="brb3427-bib-0036" ref-type="ref">2010</xref>), which might rely on a different mechanism from that of early distractor filtering (McNab and Dolan <xref rid="brb3427-bib-0035" ref-type="ref">2014</xref>). Therefore, neuroplasticity in the left MFG may underlie mechanisms of the far&#x02010;transfer effect possibly occurring in Group C. This could also explain why the observed time window of the high&#x02010;gamma power change in the left MFG in Group C differed from those of the left thalamus in Groups V and P. In the standard condition, we observed no difference. This suggested that the effects of our interventions were more associated with cognitive processes rather than with simple perceptual processes. The lack of a significant effect of training group on behavioral performance might be due to a ceiling effect, as shown by the good performance in the elderly adult subjects in this study, which was comparable to young adult subjects in previous study (Akimoto et&#x000a0;al. <xref rid="brb3427-bib-0001" ref-type="ref">2013</xref>).</p><p>In general, fast oscillations such as gamma are considered to reflect local interactions, whereas slow oscillations like delta or theta are considered to reflect long&#x02010;range interactions (Donner and Siegel <xref rid="brb3427-bib-0016" ref-type="ref">2011</xref>). In line with this idea, we found that cognitive training increased high&#x02010;gamma power in the regions specifically associated with oddball processing (i.e., attention, executive function, and working memory). A recent intervention study with elderly subjects at risk for dementia (Styliadis et&#x000a0;al. <xref rid="brb3427-bib-0051" ref-type="ref">2015</xref>) reported that a combined cognitive and physical training regimen decreased resting state EEG activity in delta, theta, and beta bands in the precuneus/posterior cingulate cortex, which is a functional core of the default&#x02010;mode network (Fransson and Marrelec <xref rid="brb3427-bib-0020" ref-type="ref">2008</xref>; Utevsky et&#x000a0;al. <xref rid="brb3427-bib-0055" ref-type="ref">2014</xref>). These results suggests that cognitive training with physical activity can induce positive neuroplastic changes in elderly people at both local and long&#x02010;range cortical interaction levels. Given that the phases of slow oscillations modulate the amplitude of fast oscillations (Canolty and Knight <xref rid="brb3427-bib-0011" ref-type="ref">2010</xref>), these changes may not be independent, but rather be complementary measures for the evaluation of training efficacy. For example, evaluating training effects during the cognitive task has the benefit of precise interpretation of the results, as the observed brain activity should be related to the task, and the behavioral index is often available. Similarly, evaluating the training effects from the analysis of resting state data is advantageous because doing so is feasible even when the subjects could not adequately perform that cognitive task. In addition, fast gamma oscillations during cognitive tasks would be more useful for evaluation of neuroplasticity in specific brain areas, whereas slow oscillations obtained from resting states would be more suitable for evaluation of neuroplasticity in the functional brain network among distant brain regions. It is also possible that the former may be more associated with the near&#x02010;transfer effect and the latter may be more related to the far&#x02010;transfer effect, although this conclusion remains largely speculative and further investigation is necessary to confirm it.</p><p>The major limitation of this study was a small and unbalanced number of subjects in each training group. Given the large inter&#x02010; and intra&#x02010;individual variance among elderly subjects, a larger sample is needed to obtain stable results. This might be the reason why the high&#x02010;gamma power change did not significantly correlate with the changes in cognitive composite scores. Thus, our results should be considered preliminary, although the robust correlation between changes in high&#x02010;gamma power and changes in reaction time obtained from the same task is promising. Our small sample size was partly due to the 2011 Japan earthquake, but also due to the large number of excluded subjects in the analysis. The large number of exclusions was mainly caused by the following two reasons: (1) large magnetic noise due to metallic dental implants, and (2) brain atrophy due to age, the former seems to be specific problem when using electrophysiological measures as an index of the effectiveness of cognitive training in elderly subjects. Another limitation was that we did not include a passive control group, making our interpretation of the training effects somewhat speculative. Adding a passive control group would be helpful to distinguish the effect of cognitive training from an age&#x02010;induced effect caused by the intervention period. However, the addition of only a passive control group would confound the effect of participation in the intervention itself.</p></sec><sec id="brb3427-sec-0013"><title>Conclusions</title><p>We examined the effects of cognitive training in elderly people on high&#x02010;gamma activities and the relationship between the changes in high&#x02010;gamma power and behavioral performance. The results showed that high&#x02010;gamma power measurements changed differently among the training groups. In particular, Group V exhibited increased high&#x02010;gamma power during top&#x02010;down anticipatory target processing in the left MFG. The change in high&#x02010;gamma power in the left MFG was also associated with change in behavioral performance. Our preliminary findings suggested that changes in high&#x02010;gamma activities in executive control&#x02010;related regions are one of the neural mechanisms underlying training effects, and to the best of our knowledge, we are the first to suggest the usefulness of high&#x02010;gamma activities as an index of the effectiveness of cognitive training in elderly subjects.</p></sec><sec id="brb3427-sec-0015"><title>Conflict of Interest</title><p>T. Sunda, T. Shimizu, E. Tozuka, S. Hirose, and T. Nanbu are employed by Nissan Motor Co. Ltd., Japan. They have no other competing interests. All other authors have declared that no competing interests exist.</p></sec></body><back><ack id="brb3427-sec-0014"><title>Acknowledgments</title><p>We thank Y. Yamada for her support with the MEG experiment and to Editage for providing editorial assistance.</p></ack><ref-list content-type="cited-references" id="brb3427-bibl-0001"><title>References</title><ref id="brb3427-bib-0001"><mixed-citation publication-type="journal" id="brb3427-cit-0001">
+<string-name>
+<surname>Akimoto</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kambara</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nozawa</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Sugiura</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Okumura</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Spatiotemporal dynamics of high&#x02010;gamma activities during a 3&#x02010;stimulus visual oddball task</article-title>. <source>PLoS One</source>
+<volume>8</volume>:<fpage>e59969</fpage>.<pub-id pub-id-type="pmid">23555852</pub-id></mixed-citation></ref><ref id="brb3427-bib-0002"><mixed-citation publication-type="journal" id="brb3427-cit-0002">
+<string-name>
+<surname>Akimoto</surname>, <given-names>Y.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nozawa</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ihara</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Goto</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Ogawa</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>High&#x02010;gamma activity in an attention network predicts individual differences in elderly adults' behavioral performance</article-title>. <source>NeuroImage</source>
+<volume>100</volume>:<fpage>290</fpage>&#x02013;<lpage>300</lpage>.<pub-id pub-id-type="pmid">24960420</pub-id></mixed-citation></ref><ref id="brb3427-bib-0003"><mixed-citation publication-type="journal" id="brb3427-cit-0003">
+<string-name>
+<surname>Anguera</surname>, <given-names>J. A.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Boccanfuso</surname>
+</string-name>, <string-name>
+<given-names>J. L.</given-names>
+<surname>Rintoul</surname>
+</string-name>, <string-name>
+<given-names>O.</given-names>
+<surname>Al&#x02010;Hashimi</surname>
+</string-name>, <string-name>
+<given-names>F.</given-names>
+<surname>Faraji</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Janowich</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Video game training enhances cognitive control in older adults</article-title>. <source>Nature</source>
+<volume>501</volume>:<fpage>97</fpage>&#x02013;<lpage>101</lpage>.<pub-id pub-id-type="pmid">24005416</pub-id></mixed-citation></ref><ref id="brb3427-bib-0004"><mixed-citation publication-type="journal" id="brb3427-cit-0004">
+<string-name>
+<surname>Aron</surname>, <given-names>A. R.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Monsell</surname>
+</string-name>, <string-name>
+<given-names>B. J.</given-names>
+<surname>Sahakian</surname>
+</string-name>, and <string-name>
+<given-names>T. W.</given-names>
+<surname>Robbins</surname>
+</string-name>. <year>2004</year>
+<article-title>A componential analysis of task&#x02010;switching deficits associated with lesions of left and right frontal cortex</article-title>. <source>Brain</source>
+<volume>127</volume>:<fpage>1561</fpage>&#x02013;<lpage>1573</lpage>.<pub-id pub-id-type="pmid">15090477</pub-id></mixed-citation></ref><ref id="brb3427-bib-0005"><mixed-citation publication-type="journal" id="brb3427-cit-0005">
+<string-name>
+<surname>Bamidis</surname>, <given-names>P. D.</given-names>
+</string-name>, <string-name>
+<given-names>A. B.</given-names>
+<surname>Vivas</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Styliadis</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Frantzidis</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Klados</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Schlee</surname>
+</string-name>, et&#x000a0;al. <year>2014</year>
+<article-title>A review of physical and cognitive interventions in aging</article-title>. <source>Neurosci. Biobehav. Rev.</source>
+<volume>44</volume>:<fpage>206</fpage>&#x02013;<lpage>220</lpage>.<pub-id pub-id-type="pmid">24705268</pub-id></mixed-citation></ref><ref id="brb3427-bib-0006"><mixed-citation publication-type="journal" id="brb3427-cit-0006">
+<string-name>
+<surname>Benjamini</surname>, <given-names>Y.</given-names>
+</string-name>, and <string-name>
+<given-names>Y.</given-names>
+<surname>Hochberg</surname>
+</string-name>. <year>1995</year>
+<article-title>Controlling the false discovery rate: a practical and powerful approach to multiple testing</article-title>. <source>J. R. Stat. Soc. Series B Stat. Methodol.</source>
+<volume>57</volume>:<fpage>289</fpage>&#x02013;<lpage>300</lpage>.</mixed-citation></ref><ref id="brb3427-bib-0007"><mixed-citation publication-type="book" id="brb3427-cit-0007">
+<string-name>
+<surname>Benton</surname>, <given-names>A.</given-names>
+</string-name>
+<year>1963</year>
+<source>The revised visual retention test: clinical and experimental applications</source>. <publisher-name>The State Univ. of Iowa</publisher-name>, <publisher-loc>Iowa City, IA</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0008"><mixed-citation publication-type="book" id="brb3427-cit-0008">
+<string-name>
+<surname>Benton</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Hamsher</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Varney</surname>
+</string-name>, and <string-name>
+<given-names>O.</given-names>
+<surname>Spreen</surname>
+</string-name>. <year>1983</year>
+<source>Judgement of line orientation</source>. <publisher-name>Oxford Univ. Press</publisher-name>, <publisher-loc>New York, NY</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0009"><mixed-citation publication-type="journal" id="brb3427-cit-0009">
+<string-name>
+<surname>Bherer</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>K. I.</given-names>
+<surname>Erickson</surname>
+</string-name>, and <string-name>
+<given-names>T.</given-names>
+<surname>Liu&#x02010;Ambrose</surname>
+</string-name>. <year>2013</year>
+<article-title>A review of the effects of physical activity and exercise on cognitive and brain functions in older adults</article-title>. <source>J. Aging Res.</source>
+<volume>2013</volume>:<fpage>1</fpage>&#x02013;<lpage>8</lpage> Article ID 657508.</mixed-citation></ref><ref id="brb3427-bib-0010"><mixed-citation publication-type="journal" id="brb3427-cit-0010">
+<string-name>
+<surname>Buzs&#x000e1;ki</surname>, <given-names>G.</given-names>
+</string-name>, and <string-name>
+<given-names>X. J.</given-names>
+<surname>Wang</surname>
+</string-name>. <year>2012</year>
+<article-title>Mechanisms of gamma oscillations</article-title>. <source>Annu. Rev. Neurosci.</source>
+<volume>35</volume>:<fpage>203</fpage>&#x02013;<lpage>225</lpage>.<pub-id pub-id-type="pmid">22443509</pub-id></mixed-citation></ref><ref id="brb3427-bib-0011"><mixed-citation publication-type="journal" id="brb3427-cit-0011">
+<string-name>
+<surname>Canolty</surname>, <given-names>R. T.</given-names>
+</string-name>, and <string-name>
+<given-names>R. T.</given-names>
+<surname>Knight</surname>
+</string-name>. <year>2010</year>
+<article-title>The functional role of cross&#x02010;frequency coupling</article-title>. <source>Trends Cogn. Sci.</source>
+<volume>14</volume>:<fpage>506</fpage>&#x02013;<lpage>515</lpage>.<pub-id pub-id-type="pmid">20932795</pub-id></mixed-citation></ref><ref id="brb3427-bib-0012"><mixed-citation publication-type="journal" id="brb3427-cit-0012">
+<string-name>
+<surname>Chapman</surname>, <given-names>S. B.</given-names>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Aslan</surname>
+</string-name>, <string-name>
+<given-names>J. S.</given-names>
+<surname>Spence</surname>
+</string-name>, <string-name>
+<given-names>J. J.</given-names>
+<suffix>Jr</suffix>
+<surname>Hart</surname>
+</string-name>, <string-name>
+<given-names>E. K.</given-names>
+<surname>Bartz</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Didehbani</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Neural mechanisms of brain plasticity with complex cognitive training in healthy seniors</article-title>. <source>Cereb. Cortex</source>
+<volume>25</volume>:<fpage>396</fpage>&#x02013;<lpage>405</lpage>.<pub-id pub-id-type="pmid">23985135</pub-id></mixed-citation></ref><ref id="brb3427-bib-0013"><mixed-citation publication-type="journal" id="brb3427-cit-0013">
+<string-name>
+<surname>Crone</surname>, <given-names>N. E.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sinai</surname>
+</string-name>, and <string-name>
+<given-names>A.</given-names>
+<surname>Korzeniewska</surname>
+</string-name>. <year>2006</year>
+<article-title>High&#x02010;frequency gamma oscillations and human brain mapping with electrocorticography</article-title>. <source>Prog. Brain Res.</source>
+<volume>159</volume>:<fpage>275</fpage>&#x02013;<lpage>295</lpage>.<pub-id pub-id-type="pmid">17071238</pub-id></mixed-citation></ref><ref id="brb3427-bib-0014"><mixed-citation publication-type="journal" id="brb3427-cit-0014">
+<string-name>
+<surname>Dalal</surname>, <given-names>S. S.</given-names>
+</string-name>, <string-name>
+<given-names>A. G.</given-names>
+<surname>Guggisberg</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Edwards</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Sekihara</surname>
+</string-name>, <string-name>
+<given-names>A. M.</given-names>
+<surname>Findlay</surname>
+</string-name>, <string-name>
+<given-names>R. T.</given-names>
+<surname>Canolty</surname>
+</string-name>, et&#x000a0;al. <year>2008</year>
+<article-title>Five&#x02010;dimensional neuroimaging: localization of the time&#x02010;frequency dynamics of cortical activity</article-title>. <source>NeuroImage</source>
+<volume>40</volume>:<fpage>1686</fpage>&#x02013;<lpage>1700</lpage>.<pub-id pub-id-type="pmid">18356081</pub-id></mixed-citation></ref><ref id="brb3427-bib-0015"><mixed-citation publication-type="journal" id="brb3427-cit-0015">
+<string-name>
+<surname>van Dinteren</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Arns</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Jongsma</surname>
+</string-name>, and <string-name>
+<given-names>R. P.</given-names>
+<surname>Kessels</surname>
+</string-name>. <year>2014</year>
+<article-title>Combined frontal and parietal P300 amplitudes indicate compensated cognitive processing across the lifespan</article-title>. <source>Front. Aging Neurosci.</source>
+<volume>6</volume>:<fpage>294</fpage>.<pub-id pub-id-type="pmid">25386141</pub-id></mixed-citation></ref><ref id="brb3427-bib-0016"><mixed-citation publication-type="journal" id="brb3427-cit-0016">
+<string-name>
+<surname>Donner</surname>, <given-names>T. H.</given-names>
+</string-name>, and <string-name>
+<given-names>M.</given-names>
+<surname>Siegel</surname>
+</string-name>. <year>2011</year>
+<article-title>A framework for local cortical oscillation patterns</article-title>. <source>Trends Cogn. Sci.</source>
+<volume>15</volume>:<fpage>191</fpage>&#x02013;<lpage>199</lpage>.<pub-id pub-id-type="pmid">21481630</pub-id></mixed-citation></ref><ref id="brb3427-bib-0017"><mixed-citation publication-type="journal" id="brb3427-cit-0017">
+<string-name>
+<surname>D&#x000f6;rrenb&#x000e4;cher</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>P. M.</given-names>
+<surname>M&#x000fc;ller</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Tr&#x000f6;ger</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Kray</surname>
+</string-name>. <year>2014</year>
+<article-title>Dissociable effects of game elements on motivation and cognition in a task&#x02010;switching training in middle childhood</article-title>. <source>Front. Psychol.</source>
+<volume>5</volume>:<fpage>1</fpage>&#x02013;<lpage>22</lpage> Article 1275.<pub-id pub-id-type="pmid">24474945</pub-id></mixed-citation></ref><ref id="brb3427-bib-0018"><mixed-citation publication-type="journal" id="brb3427-cit-0018">
+<string-name>
+<surname>Dubois</surname>, <given-names>B.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Slachevsky</surname>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Litvan</surname>
+</string-name>, and <string-name>
+<given-names>B.</given-names>
+<surname>Pillon</surname>
+</string-name>. <year>2000</year>
+<article-title>The fab: a frontal assessment battery at bedside</article-title>. <source>Neurology</source>
+<volume>55</volume>:<fpage>1621</fpage>&#x02013;<lpage>1626</lpage>.<pub-id pub-id-type="pmid">11113214</pub-id></mixed-citation></ref><ref id="brb3427-bib-0019"><mixed-citation publication-type="journal" id="brb3427-cit-0019">
+<string-name>
+<surname>Folstein</surname>, <given-names>M. F.</given-names>
+</string-name>, <string-name>
+<given-names>S. E.</given-names>
+<surname>Folstein</surname>
+</string-name>, and <string-name>
+<given-names>P. R.</given-names>
+<surname>McHugh</surname>
+</string-name>. <year>1975</year>
+<article-title>&#x0201c;Mini&#x02010;mental state&#x0201d;. A practical method for grading the cognitive state of patients for the clinician</article-title>. <source>J. Psychiatr. Res.</source>
+<volume>12</volume>:<fpage>189</fpage>&#x02013;<lpage>198</lpage>.<pub-id pub-id-type="pmid">1202204</pub-id></mixed-citation></ref><ref id="brb3427-bib-0020"><mixed-citation publication-type="journal" id="brb3427-cit-0020">
+<string-name>
+<surname>Fransson</surname>, <given-names>P.</given-names>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>Marrelec</surname>
+</string-name>. <year>2008</year>
+<article-title>The precuneus/posterior cingulate cortex plays a pivotal role in the default mode network: evidence from a partial correlation network analysis</article-title>. <source>NeuroImage</source>
+<volume>42</volume>:<fpage>1178</fpage>&#x02013;<lpage>1184</lpage>.<pub-id pub-id-type="pmid">18598773</pub-id></mixed-citation></ref><ref id="brb3427-bib-0021"><mixed-citation publication-type="journal" id="brb3427-cit-0021">
+<string-name>
+<surname>Fries</surname>, <given-names>P.</given-names>
+</string-name>
+<year>2009</year>
+<article-title>Neuronal gamma&#x02010;band synchronization as a fundamental process in cortical computation</article-title>. <source>Annu. Rev. Neurosci.</source>
+<volume>32</volume>:<fpage>209</fpage>&#x02013;<lpage>224</lpage>.<pub-id pub-id-type="pmid">19400723</pub-id></mixed-citation></ref><ref id="brb3427-bib-0022"><mixed-citation publication-type="journal" id="brb3427-cit-0022">
+<string-name>
+<surname>Fr&#x000fc;nd</surname>, <given-names>I.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Schadow</surname>
+</string-name>, <string-name>
+<given-names>N. A.</given-names>
+<surname>Busch</surname>
+</string-name>, <string-name>
+<given-names>U.</given-names>
+<surname>K&#x000f6;rner</surname>
+</string-name>, and <string-name>
+<given-names>C. S.</given-names>
+<surname>Herrmann</surname>
+</string-name>. <year>2007</year>
+<article-title>Evoked gamma oscillations in human scalp EEG are test&#x02010;retest reliable</article-title>. <source>Clin. Neurophysiol.</source>
+<volume>118</volume>:<fpage>221</fpage>&#x02013;<lpage>227</lpage>.<pub-id pub-id-type="pmid">17126070</pub-id></mixed-citation></ref><ref id="brb3427-bib-0023"><mixed-citation publication-type="journal" id="brb3427-cit-0023">
+<string-name>
+<surname>Gazzaley</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Rissman</surname>
+</string-name>, <string-name>
+<given-names>J.</given-names>
+<surname>Cooney</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Rutman</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Seibert</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Clapp</surname>
+</string-name>, et&#x000a0;al. <year>2007</year>
+<article-title>Functional interactions between prefrontal and visual association cortex contribute to top&#x02010;down modulation of visual processing</article-title>. <source>Cereb. Cortex</source>
+<volume>17</volume>:<fpage>125</fpage>&#x02013;<lpage>135</lpage>.</mixed-citation></ref><ref id="brb3427-bib-0024"><mixed-citation publication-type="journal" id="brb3427-cit-0024">
+<string-name>
+<surname>Grier</surname>, <given-names>J. B.</given-names>
+</string-name>
+<year>1971</year>
+<article-title>Nonparametric indexes for sensitivity and bias: computing formulas</article-title>. <source>Psychol. Bull.</source>
+<volume>75</volume>:<fpage>424</fpage>&#x02013;<lpage>429</lpage>.<pub-id pub-id-type="pmid">5580548</pub-id></mixed-citation></ref><ref id="brb3427-bib-0025"><mixed-citation publication-type="book" id="brb3427-cit-0025">
+<string-name>
+<surname>Herdman</surname>, <given-names>A. T.</given-names>
+</string-name>, and <string-name>
+<given-names>D.</given-names>
+<surname>Cheyne</surname>
+</string-name>. <year>2009</year>
+<chapter-title>A practical guide for MEG and beamforming</chapter-title> Pp. <fpage>99</fpage>&#x02013;<lpage>140</lpage>
+<italic>in</italic>
+<person-group person-group-type="editor"><name><surname>Handy</surname><given-names>T. C.</given-names></name></person-group>, ed. <source>Brain signal analysis</source>. <publisher-name>MIT Press</publisher-name>, <publisher-loc>Cambridge</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0026"><mixed-citation publication-type="journal" id="brb3427-cit-0026">
+<string-name>
+<surname>Hoogenboom</surname>, <given-names>N.</given-names>
+</string-name>, <string-name>
+<given-names>J. M.</given-names>
+<surname>Schoffelen</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Oostenveld</surname>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Fries</surname>
+</string-name>. <year>2010</year>
+<article-title>Visually induced gamma&#x02010;band activity predicts speed of change detection in humans</article-title>. <source>NeuroImage</source>
+<volume>51</volume>:<fpage>1162</fpage>&#x02013;<lpage>1167</lpage>.<pub-id pub-id-type="pmid">20307670</pub-id></mixed-citation></ref><ref id="brb3427-bib-0027"><mixed-citation publication-type="journal" id="brb3427-cit-0027">
+<string-name>
+<surname>Huettel</surname>, <given-names>S. A.</given-names>
+</string-name>, and <string-name>
+<given-names>G.</given-names>
+<surname>McCarthy</surname>
+</string-name>. <year>2004</year>
+<article-title>What is odd in the oddball task?: prefrontal cortex is activated by dynamic changes in response strategy</article-title>. <source>Neuropsychologia</source>
+<volume>42</volume>:<fpage>379</fpage>&#x02013;<lpage>386</lpage>.<pub-id pub-id-type="pmid">14670576</pub-id></mixed-citation></ref><ref id="brb3427-bib-0028"><mixed-citation publication-type="journal" id="brb3427-cit-0028">
+<string-name>
+<surname>Jaeggi</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Buschkuehl</surname>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Shah</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Jonides</surname>
+</string-name>. <year>2014</year>
+<article-title>The role of individual differences in cognitive training and transfer</article-title>. <source>Mem. Cognit.</source>
+<volume>42</volume>:<fpage>464</fpage>&#x02013;<lpage>480</lpage>.</mixed-citation></ref><ref id="brb3427-bib-0029"><mixed-citation publication-type="journal" id="brb3427-cit-0029">
+<string-name>
+<surname>Karbach</surname>, <given-names>J.</given-names>
+</string-name>, and <string-name>
+<given-names>P.</given-names>
+<surname>Verhaeghen</surname>
+</string-name>. <year>2014</year>
+<article-title>Making working memory work: a meta&#x02010;analysis of executive&#x02010;control and working memory training in older adults</article-title>. <source>Psychol. Sci.</source>
+<volume>25</volume>:<fpage>2027</fpage>&#x02013;<lpage>2037</lpage>.<pub-id pub-id-type="pmid">25298292</pub-id></mixed-citation></ref><ref id="brb3427-bib-0030"><mixed-citation publication-type="journal" id="brb3427-cit-0030">
+<string-name>
+<surname>Keil</surname>, <given-names>A.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Stolarova</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Heim</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Gruber</surname>
+</string-name>, and <string-name>
+<given-names>M. M.</given-names>
+<surname>M&#x000fc;ller</surname>
+</string-name>. <year>2003</year>
+<article-title>Temporal stability of high&#x02010;frequency brain oscillations in the human EEG</article-title>. <source>Brain Topogr.</source>
+<volume>16</volume>:<fpage>101</fpage>&#x02013;<lpage>110</lpage>.<pub-id pub-id-type="pmid">14977203</pub-id></mixed-citation></ref><ref id="brb3427-bib-0031"><mixed-citation publication-type="journal" id="brb3427-cit-0031">
+<string-name>
+<surname>Kimura</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>I.</given-names>
+<surname>Ozaki</surname>
+</string-name>, and <string-name>
+<given-names>I.</given-names>
+<surname>Hashimoto</surname>
+</string-name>. <year>2008</year>
+<article-title>Impulse propagation along thalamocortical fibers can be detected magnetically outside the human brain</article-title>. <source>J. Neurosci.</source>
+<volume>28</volume>:<fpage>12535</fpage>&#x02013;<lpage>12538</lpage>.<pub-id pub-id-type="pmid">19020045</pub-id></mixed-citation></ref><ref id="brb3427-bib-0032"><mixed-citation publication-type="book" id="brb3427-cit-0032">
+<string-name>
+<surname>Lezak</surname>, <given-names>M.</given-names>
+</string-name>
+<year>1995</year>
+<source>Neuropsychological assessment</source>, <edition>3rd ed</edition>
+<publisher-name>Oxford Univ. Press</publisher-name>, <publisher-loc>New York, NY</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0033"><mixed-citation publication-type="journal" id="brb3427-cit-0033">
+<string-name>
+<surname>Liang</surname>, <given-names>H.</given-names>
+</string-name>, and <string-name>
+<given-names>H.</given-names>
+<surname>Wang</surname>
+</string-name>. <year>2003</year>
+<article-title>Top&#x02010;down anticipatory control in prefrontal cortex</article-title>. <source>Theory Biosci.</source>
+<volume>122</volume>:<fpage>70</fpage>&#x02013;<lpage>86</lpage>.</mixed-citation></ref><ref id="brb3427-bib-0034"><mixed-citation publication-type="journal" id="brb3427-cit-0034">
+<string-name>
+<surname>Luo</surname>, <given-names>Q.</given-names>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Holroyd</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Jones</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Hendler</surname>
+</string-name>, and <string-name>
+<given-names>J.</given-names>
+<surname>Blair</surname>
+</string-name>. <year>2007</year>
+<article-title>Neural dynamics for facial threat processing as revealed by gamma band synchronization using MEG</article-title>. <source>NeuroImage</source>
+<volume>34</volume>:<fpage>839</fpage>&#x02013;<lpage>847</lpage>.<pub-id pub-id-type="pmid">17095252</pub-id></mixed-citation></ref><ref id="brb3427-bib-0035"><mixed-citation publication-type="journal" id="brb3427-cit-0035">
+<string-name>
+<surname>McNab</surname>, <given-names>F.</given-names>
+</string-name>, and <string-name>
+<given-names>R. J.</given-names>
+<surname>Dolan</surname>
+</string-name>. <year>2014</year>
+<article-title>Dissociating distractor&#x02010;filtering at encoding and during maintenance</article-title>. <source>J. Exp. Psychol. Hum. Percept. Perform.</source>
+<volume>40</volume>:<fpage>960</fpage>&#x02013;<lpage>967</lpage>.<pub-id pub-id-type="pmid">24512609</pub-id></mixed-citation></ref><ref id="brb3427-bib-0036"><mixed-citation publication-type="journal" id="brb3427-cit-0036">
+<string-name>
+<surname>Minamoto</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Osaka</surname>
+</string-name>, and <string-name>
+<given-names>N.</given-names>
+<surname>Osaka</surname>
+</string-name>. <year>2010</year>
+<article-title>Individual differences in working memory capacity and distractor processing: possible contribution of top&#x02010;down inhibitory control</article-title>. <source>Brain Res.</source>
+<volume>1335</volume>:<fpage>63</fpage>&#x02013;<lpage>73</lpage>.<pub-id pub-id-type="pmid">20381462</pub-id></mixed-citation></ref><ref id="brb3427-bib-0037"><mixed-citation publication-type="journal" id="brb3427-cit-0037">
+<string-name>
+<surname>Nouchi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Taki</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hashizume</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Akitsuki</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Shigemune</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Brain training game improves executive functions and processing speed in the elderly: a ramdomized controlled study</article-title>. <source>PLoS One</source>
+<volume>7</volume>:<fpage>e29676</fpage>.<pub-id pub-id-type="pmid">22253758</pub-id></mixed-citation></ref><ref id="brb3427-bib-0038"><mixed-citation publication-type="journal" id="brb3427-cit-0038">
+<string-name>
+<surname>Nouchi</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Taki</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Takeuchi</surname>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Hashizume</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Nozawa</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Kambara</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>Brain training game boosts executive functions, working memory and processing speed in the young adults: a randomized controlled trial</article-title>. <source>PLoS One</source>
+<volume>8</volume>:<fpage>e55518</fpage>.<pub-id pub-id-type="pmid">23405164</pub-id></mixed-citation></ref><ref id="brb3427-bib-0039"><mixed-citation publication-type="journal" id="brb3427-cit-0039">
+<string-name>
+<surname>Nozawa</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Taki</surname>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Kanno</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Akimoto</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Ihara</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Yokoyama</surname>
+</string-name>, et&#x000a0;al. <year>2015</year>
+<article-title>Effects of different types of cognitive training on cognitive function, brain structure, and driving safety in senior daily drivers: a pilot study</article-title>. <source>Behav. Neurol.</source>
+<volume>2015</volume>:<fpage>525901</fpage>.<pub-id pub-id-type="pmid">26161000</pub-id></mixed-citation></ref><ref id="brb3427-bib-0040"><mixed-citation publication-type="journal" id="brb3427-cit-0040">
+<string-name>
+<surname>O'Connell</surname>, <given-names>R. G.</given-names>
+</string-name>, <string-name>
+<given-names>J. H.</given-names>
+<surname>Balsters</surname>
+</string-name>, <string-name>
+<given-names>S. M.</given-names>
+<surname>Kilcullen</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Campbell</surname>
+</string-name>, <string-name>
+<given-names>A. W.</given-names>
+<surname>Bokde</surname>
+</string-name>, <string-name>
+<given-names>R.</given-names>
+<surname>Lai</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>A simultaneous ERP/fMRI investigation of the P300 aging effect</article-title>. <source>Neurobiol. Aging</source>
+<volume>33</volume>:<fpage>2448</fpage>&#x02013;<lpage>2461</lpage>.<pub-id pub-id-type="pmid">22277263</pub-id></mixed-citation></ref><ref id="brb3427-bib-0041"><mixed-citation publication-type="journal" id="brb3427-cit-0041">
+<string-name>
+<surname>Oostenveld</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Fries</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Maris</surname>
+</string-name>, and <string-name>
+<given-names>J. M.</given-names>
+<surname>Schoffelen</surname>
+</string-name>. <year>2011</year>
+<article-title>FieldTrip: open source software for advanced analysis of MEG, EEG, and invasive electrophysiological data</article-title>. <source>Comput. Intell. Neurosci.</source>
+<volume>2011</volume>:<fpage>156869</fpage>.<pub-id pub-id-type="pmid">21253357</pub-id></mixed-citation></ref><ref id="brb3427-bib-0042"><mixed-citation publication-type="journal" id="brb3427-cit-0042">
+<string-name>
+<surname>Parkkonen</surname>, <given-names>L.</given-names>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Fujiki</surname>
+</string-name>, and <string-name>
+<given-names>J. P.</given-names>
+<surname>M&#x000e4;kel&#x000e4;</surname>
+</string-name>. <year>2009</year>
+<article-title>Sources of auditory brainstem responses revisited: contribution by magnetoencephalography</article-title>. <source>Hum. Brain Mapp.</source>
+<volume>30</volume>:<fpage>1772</fpage>&#x02013;<lpage>1782</lpage>.<pub-id pub-id-type="pmid">19378273</pub-id></mixed-citation></ref><ref id="brb3427-bib-0043"><mixed-citation publication-type="journal" id="brb3427-cit-0043">
+<string-name>
+<surname>Polich</surname>, <given-names>J.</given-names>
+</string-name>
+<year>2007</year>
+<article-title>Updating P300: an integrative theory of P3a and P3b</article-title>. <source>Clin. Neurophysiol.</source>
+<volume>118</volume>:<fpage>2128</fpage>&#x02013;<lpage>2148</lpage>.<pub-id pub-id-type="pmid">17573239</pub-id></mixed-citation></ref><ref id="brb3427-bib-0044"><mixed-citation publication-type="journal" id="brb3427-cit-0044">
+<string-name>
+<surname>Popov</surname>, <given-names>T.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Rockstroh</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Weisz</surname>
+</string-name>, <string-name>
+<given-names>T.</given-names>
+<surname>Elbert</surname>
+</string-name>, and <string-name>
+<given-names>G. A.</given-names>
+<surname>Miller</surname>
+</string-name>. <year>2012</year>
+<article-title>Adjusting brain dynamics in schizophrenia by means of perceptual and cognitive training</article-title>. <source>PLoS One</source>
+<volume>7</volume>:<fpage>e39051</fpage>.<pub-id pub-id-type="pmid">22815697</pub-id></mixed-citation></ref><ref id="brb3427-bib-0045"><mixed-citation publication-type="journal" id="brb3427-cit-0045">
+<string-name>
+<surname>Reitan</surname>, <given-names>R. M.</given-names>
+</string-name>
+<year>1958</year>
+<article-title>Validity of the trail making test as an indicator of organic brain damage</article-title>. <source>Percept. Mot. Skills</source>
+<volume>8</volume>:<fpage>271</fpage>.</mixed-citation></ref><ref id="brb3427-bib-0046"><mixed-citation publication-type="book" id="brb3427-cit-0046">
+<string-name>
+<surname>Schmidt</surname>, <given-names>M.</given-names>
+</string-name>
+<year>1996</year>
+<source>Rey auditory verbal learning test: RAVLT</source>. <publisher-name>Western Psychological Services</publisher-name>, <publisher-loc>Los Angeles, CA</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0047"><mixed-citation publication-type="journal" id="brb3427-cit-0047">
+<string-name>
+<surname>Shahin</surname>, <given-names>A. J.</given-names>
+</string-name>, <string-name>
+<given-names>L. E.</given-names>
+<surname>Roberts</surname>
+</string-name>, <string-name>
+<given-names>W.</given-names>
+<surname>Chau</surname>
+</string-name>, <string-name>
+<given-names>L. J.</given-names>
+<surname>Trainor</surname>
+</string-name>, and <string-name>
+<given-names>L. M.</given-names>
+<surname>Miller</surname>
+</string-name>. <year>2008</year>
+<article-title>Music training leads to the development of timbre&#x02010;specific gamma band activity</article-title>. <source>NeuroImage</source>
+<volume>41</volume>:<fpage>113</fpage>&#x02013;<lpage>122</lpage>.<pub-id pub-id-type="pmid">18375147</pub-id></mixed-citation></ref><ref id="brb3427-bib-0048"><mixed-citation publication-type="journal" id="brb3427-cit-0048">
+<string-name>
+<surname>Shin</surname>, <given-names>M. S.</given-names>
+</string-name>, <string-name>
+<given-names>S. Y.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>S. R.</given-names>
+<surname>Park</surname>
+</string-name>, <string-name>
+<given-names>S. H.</given-names>
+<surname>Seol</surname>
+</string-name>, and <string-name>
+<given-names>J. S.</given-names>
+<surname>Kwon</surname>
+</string-name>. <year>2006</year>
+<article-title>Clinical and empirical applications of the rey&#x02010;osterrieth complex figure test</article-title>. <source>Nat. Protoc.</source>
+<volume>1</volume>:<fpage>892</fpage>&#x02013;<lpage>899</lpage>.<pub-id pub-id-type="pmid">17406322</pub-id></mixed-citation></ref><ref id="brb3427-bib-0049"><mixed-citation publication-type="book" id="brb3427-cit-0049">
+<string-name>
+<surname>Smith</surname>, <given-names>A.</given-names>
+</string-name>
+<year>1984</year>
+<source>Symbol digit modalities test manual&#x02014;revised</source>. <publisher-name>Western Psychological Corp</publisher-name>, <publisher-loc>Los Angeles, CA</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0050"><mixed-citation publication-type="journal" id="brb3427-cit-0050">
+<string-name>
+<surname>Strumpf</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>G. R.</given-names>
+<surname>Mangun</surname>
+</string-name>, <string-name>
+<given-names>C. N.</given-names>
+<surname>Boehler</surname>
+</string-name>, <string-name>
+<given-names>C.</given-names>
+<surname>Stoppel</surname>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Schoenfeld</surname>
+</string-name>, <string-name>
+<given-names>H. J.</given-names>
+<surname>Heinze</surname>
+</string-name>, et&#x000a0;al. <year>2013</year>
+<article-title>The role of the pulvinar in distractor processing and visual search</article-title>. <source>Hum. Brain Mapp.</source>
+<volume>34</volume>:<fpage>1115</fpage>&#x02013;<lpage>1132</lpage>.<pub-id pub-id-type="pmid">22488931</pub-id></mixed-citation></ref><ref id="brb3427-bib-0051"><mixed-citation publication-type="journal" id="brb3427-cit-0051">
+<string-name>
+<surname>Styliadis</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>P.</given-names>
+<surname>Kartsidis</surname>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Paraskevopoulos</surname>
+</string-name>, <string-name>
+<given-names>A. A.</given-names>
+<surname>Ioannides</surname>
+</string-name>, and <string-name>
+<given-names>P. D.</given-names>
+<surname>Bamidis</surname>
+</string-name>. <year>2015</year>
+<article-title>Neuroplastic effects of combined&#x000a0;computerized physical and cognitive training in elderly individuals at risk for dementia: an eLORETA controlled study on resting states</article-title>. <source>Neural. Plast.</source>
+<volume>2015</volume>:<fpage>172192</fpage>.<pub-id pub-id-type="pmid">25945260</pub-id></mixed-citation></ref><ref id="brb3427-bib-0052"><mixed-citation publication-type="journal" id="brb3427-cit-0052">
+<string-name>
+<surname>Szczepanski</surname>, <given-names>S. M.</given-names>
+</string-name>, <string-name>
+<given-names>M. A.</given-names>
+<surname>Pinsk</surname>
+</string-name>, <string-name>
+<given-names>M. M.</given-names>
+<surname>Douglas</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Kastner</surname>
+</string-name>, and <string-name>
+<given-names>Y. B.</given-names>
+<surname>Saalmann</surname>
+</string-name>. <year>2013</year>
+<article-title>Functional and structural architecture of the human dorsal frontoparietal attention network</article-title>. <source>Proc. Natl Acad. Sci. USA</source>
+<volume>110</volume>:<fpage>15806</fpage>&#x02013;<lpage>15811</lpage>.<pub-id pub-id-type="pmid">24019489</pub-id></mixed-citation></ref><ref id="brb3427-bib-0053"><mixed-citation publication-type="journal" id="brb3427-cit-0053">
+<string-name>
+<surname>Takeuchi</surname>, <given-names>H.</given-names>
+</string-name>, <string-name>
+<given-names>A.</given-names>
+<surname>Sekiguchi</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Taki</surname>
+</string-name>, <string-name>
+<given-names>S.</given-names>
+<surname>Yokoyama</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yomogida</surname>
+</string-name>, <string-name>
+<given-names>N.</given-names>
+<surname>Komuro</surname>
+</string-name>, et&#x000a0;al. <year>2010</year>
+<article-title>Training of working memory impacts structural connectivity</article-title>. <source>J. Neurosci.</source>
+<volume>30</volume>:<fpage>3297</fpage>&#x02013;<lpage>3303</lpage>.<pub-id pub-id-type="pmid">20203189</pub-id></mixed-citation></ref><ref id="brb3427-bib-0054"><mixed-citation publication-type="journal" id="brb3427-cit-0054">
+<string-name>
+<surname>Ueno</surname>, <given-names>S.</given-names>
+</string-name>, <string-name>
+<given-names>E.</given-names>
+<surname>Okumura</surname>
+</string-name>, <string-name>
+<given-names>G. B.</given-names>
+<surname>Remijn</surname>
+</string-name>, <string-name>
+<given-names>Y.</given-names>
+<surname>Yoshimura</surname>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Kikuchi</surname>
+</string-name>, <string-name>
+<given-names>K.</given-names>
+<surname>Shitamichi</surname>
+</string-name>, et&#x000a0;al. <year>2012</year>
+<article-title>Spatiotemporal frequency characteristics of cerebral oscillations during the perception of fundamental frequency contour changes in one&#x02010;syllable intonation</article-title>. <source>Neurosci. Lett.</source>
+<volume>515</volume>:<fpage>141</fpage>&#x02013;<lpage>146</lpage>.<pub-id pub-id-type="pmid">22465137</pub-id></mixed-citation></ref><ref id="brb3427-bib-0055"><mixed-citation publication-type="journal" id="brb3427-cit-0055">
+<string-name>
+<surname>Utevsky</surname>, <given-names>A. V.</given-names>
+</string-name>, <string-name>
+<given-names>D. V.</given-names>
+<surname>Smith</surname>
+</string-name>, and <string-name>
+<given-names>S. A.</given-names>
+<surname>Huettel</surname>
+</string-name>. <year>2014</year>
+<article-title>Precuneus is a functional core of the default&#x02010;mode network</article-title>. <source>J. Neurosci.</source>
+<volume>34</volume>:<fpage>932</fpage>&#x02013;<lpage>940</lpage>.<pub-id pub-id-type="pmid">24431451</pub-id></mixed-citation></ref><ref id="brb3427-bib-0056"><mixed-citation publication-type="journal" id="brb3427-cit-0056">
+<string-name>
+<surname>Van Dinteren</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>M.</given-names>
+<surname>Arns</surname>
+</string-name>, <string-name>
+<given-names>M. L.</given-names>
+<surname>Jongsma</surname>
+</string-name>, and <string-name>
+<given-names>R. P.</given-names>
+<surname>Kessels</surname>
+</string-name>. <year>2014</year>
+<article-title>Combined frontal and parietal P300 amplitudes indicate compensated cognitive processing across the lifespan</article-title>. <source>Front. Aging Neurosci.</source>
+<volume>6</volume>:<fpage>1</fpage>&#x02013;<lpage>9</lpage>.<pub-id pub-id-type="pmid">24478697</pub-id></mixed-citation></ref><ref id="brb3427-bib-0057"><mixed-citation publication-type="journal" id="brb3427-cit-0057">
+<string-name>
+<surname>Voelcker&#x02010;Rehage</surname>, <given-names>C.</given-names>
+</string-name>, and <string-name>
+<given-names>C.</given-names>
+<surname>Niemann</surname>
+</string-name>. <year>2013</year>
+<article-title>Structural and functional brain changes related to different types of physical activity across the life span</article-title>. <source>Neurosci. Biobehav. Rev.</source>
+<volume>37</volume>:<fpage>2268</fpage>&#x02013;<lpage>2295</lpage>.<pub-id pub-id-type="pmid">23399048</pub-id></mixed-citation></ref><ref id="brb3427-bib-0058"><mixed-citation publication-type="journal" id="brb3427-cit-0058">
+<string-name>
+<surname>Voelcker&#x02010;Rehage</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Godde</surname>
+</string-name>, and <string-name>
+<given-names>U. M.</given-names>
+<surname>Staudinger</surname>
+</string-name>. <year>2010</year>
+<article-title>Physical and motor fitness are both related to cognition in old age</article-title>. <source>Eur. J. Neurosci.</source>
+<volume>31</volume>:<fpage>167</fpage>&#x02013;<lpage>176</lpage>.<pub-id pub-id-type="pmid">20092563</pub-id></mixed-citation></ref><ref id="brb3427-bib-0059"><mixed-citation publication-type="journal" id="brb3427-cit-0059">
+<string-name>
+<surname>Voelcker&#x02010;Rehage</surname>, <given-names>C.</given-names>
+</string-name>, <string-name>
+<given-names>B.</given-names>
+<surname>Godde</surname>
+</string-name>, and <string-name>
+<given-names>U. M.</given-names>
+<surname>Staudinger</surname>
+</string-name>. <year>2011</year>
+<article-title>Cardiovascular and coordination training differentially improve cognitive performance and neural processing in older adults</article-title>. <source>Front Hum. Neurosci.</source>
+<volume>5</volume>:<fpage>1</fpage>&#x02013;<lpage>12</lpage> Article 26.<pub-id pub-id-type="pmid">21283556</pub-id></mixed-citation></ref><ref id="brb3427-bib-0060"><mixed-citation publication-type="book" id="brb3427-cit-0060">
+<string-name>
+<surname>Wechsler</surname>, <given-names>D.</given-names>
+</string-name>
+<year>1987</year>
+<source>Wechsler memory scale &#x02014; revised</source>. <publisher-name>The Psychological Corporation</publisher-name>, <publisher-loc>San Antonio, TX</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0061"><mixed-citation publication-type="book" id="brb3427-cit-0061">
+<string-name>
+<surname>Wechsler</surname>, <given-names>D.</given-names>
+</string-name>
+<year>1997</year>
+<source>Wechsler adult intelligence scale</source>, <edition>3rd ed</edition>
+<publisher-name>The Psychological Corporation</publisher-name>, <publisher-loc>San Antonio, TX</publisher-loc>.</mixed-citation></ref><ref id="brb3427-bib-0062"><mixed-citation publication-type="journal" id="brb3427-cit-0062">
+<string-name>
+<surname>West</surname>, <given-names>R.</given-names>
+</string-name>, <string-name>
+<given-names>H.</given-names>
+<surname>Schwarb</surname>
+</string-name>, and <string-name>
+<given-names>B. N.</given-names>
+<surname>Johnson</surname>
+</string-name>. <year>2010</year>
+<article-title>The influence of age and individual differences in executive function on stimulus processing in the oddball task</article-title>. <source>Cortex</source>
+<volume>46</volume>:<fpage>550</fpage>&#x02013;<lpage>563</lpage>.<pub-id pub-id-type="pmid">19720373</pub-id></mixed-citation></ref></ref-list></back></article>
