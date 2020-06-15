@@ -12,13 +12,15 @@ import json
 import torch
 import torch.nn as nn
 
-from transformers import BertForSequenceClassification, BertTokenizer, PretrainedConfig
+from transformers import RobertaForSequenceClassification, RobertaTokenizer, PretrainedConfig
+#from transformers import BertForSequenceClassification, BertTokenizer, PretrainedConfig
 
 from evidence_inference.models.utils import PaddedSequence
 
 def initialize_models(params: dict, unk_token='<unk>'):
     max_length = params['max_length']
-    tokenizer = BertTokenizer.from_pretrained(params['bert_vocab'])
+    tokenizer = RobertaTokenizer.from_pretrained(params['bert_vocab'])
+    #tokenizer = BertTokenizer.from_pretrained(params['bert_vocab'])
     pad_token_id = tokenizer.pad_token_id
     cls_token_id = tokenizer.cls_token_id
     sep_token_id = tokenizer.sep_token_id
@@ -64,8 +66,9 @@ def initialize_models(params: dict, unk_token='<unk>'):
                                              num_labels=len(evidence_classes),
                                              max_length=max_length,
                                              use_half_precision=use_half_precision)
-    word_interner = tokenizer.vocab
-    de_interner = tokenizer.ids_to_tokens
+    word_interner = tokenizer.get_vocab()
+    de_interner = dict((x,y) for (y,x) in word_interner.items())
+    #de_interner = tokenizer.ids_to_tokens
     return evidence_identifier, evidence_classifier, word_interner, de_interner, evidence_classes, tokenizer
 
 class BertClassifier(nn.Module):
@@ -83,9 +86,11 @@ class BertClassifier(nn.Module):
         if bert_dir is None:
             assert config is not None
             assert config.num_labels == num_labels
-            bert = BertForSequenceClassification(config)
+            bert = RobertaForSequenceClassification(config)
+            #bert = BertForSequenceClassification(config)
         else:
-            bert = BertForSequenceClassification.from_pretrained(bert_dir, num_labels=num_labels)
+            bert = RobertaForSequenceClassification.from_pretrained(bert_dir, num_labels=num_labels)
+            #bert = BertForSequenceClassification.from_pretrained(bert_dir, num_labels=num_labels)
         if use_half_precision:
             import apex
             bert = bert.half()

@@ -100,8 +100,6 @@ class Annotation:
                           c=tuple(handle_str(self.c)),
                           o=tuple(handle_str(self.o)),
                           evidence_texts=tuple(handle_str(s) for s in set(map(str.lower, filter(lambda x: isinstance(x, str), self.evidence_texts)))),
-                          # TODO tokenize the evidence texts
-                          #evidence_texts=tuple(handle_str(self.evidence_texts)),
                           evidence_spans=self.evidence_spans,
                           evidence_vector=self.evidence_vector,
                           significance_class=self.significance_class)
@@ -454,21 +452,6 @@ def decode(evidence_identifier: nn.Module,
                                                                              criterion=criterion)
             torch.save((id_loss, id_soft_pred, id_hard_pred, id_truth), identifier_save_file)
 
-        #import ipdb; ipdb.set_trace()
-        if os.path.exists(oracle_classifier_save_file):
-            logging.info(f'Loading evidence oracle classification predictions on {data_name} from {oracle_classifier_save_file}')
-            or_cls_loss, or_cls_soft_pred, or_cls_hard_pred, or_cls_truth = torch.load(oracle_classifier_save_file)
-        else:
-            logging.info(f'Making evidence oracle classification predictions on {data_name} and saving to {oracle_classifier_save_file}')
-            decode_target = 'classifier' if conditioned else 'unconditioned_classifier'
-            or_cls_loss, or_cls_soft_pred, or_cls_hard_pred, or_cls_truth = make_preds_epoch(evidence_classifier, 
-                                                                                             [instance.to_model_input(decode_target) for instance in oracle_instances],
-                                                                                             sep_token_id,
-                                                                                             batch_size,
-                                                                                             device=next(evidence_classifier.parameters()).device,
-                                                                                             criterion=criterion)
-            torch.save((or_cls_loss, or_cls_soft_pred, or_cls_hard_pred, or_cls_truth), oracle_classifier_save_file)
-
         if os.path.exists(classifier_save_file):
             logging.info(f'Loading evidence classification predictions on {data_name} from {classifier_save_file}')
             cls_loss, cls_soft_pred, cls_hard_pred, cls_truth = torch.load(classifier_save_file)
@@ -525,7 +508,6 @@ def decode(evidence_identifier: nn.Module,
         unconditioned_cls = dict() 
 
         # TODO how many of the identification mistakes are plausible?
-        # TODO run the unconditioned evidence identifier and repeat whatever I do above
 
         total_length = 0
         #import ipdb; ipdb.set_trace()
@@ -636,9 +618,6 @@ def decode(evidence_identifier: nn.Module,
         # oracle classification F1 for cls, picking *all* evidence
         oracle_all_truth, oracle_all_pred = zip(*itertools.chain.from_iterable(oracle_pipeline_predictions.values()))
         e2e_score(oracle_all_truth, oracle_all_pred, 'Oracle (all)', evidence_classes)
-
-        # TODO this really needs a separate type of model trained to handle it.
-        #e2e_score(or_cls_truth, or_cls_hard_pred, 'Evidence text oracle span predictions (all)')
 
         # for just the correctly predicted evidence spans, how does our final classification perform?
         # how hard is it when it's "easy" to find the evidence?
@@ -1067,6 +1046,7 @@ def main():
     """, formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument('--output_dir', dest='output_dir', required=True, help='Where shall we write intermediate models + final data to?')
     parser.add_argument('--params', dest='params', required=True, help='JSoN file for loading arbitrary model parameters (e.g. optimizers, pre-saved files, etc.')
+    parser.add_argument('--data_only', dest='data_only', required=False, action='store_true', help='Process data only, no training')
     args = parser.parse_args()
     with open(args.params, 'r') as fp:
         logger.info(f'Loading model parameters from {args.params}')
@@ -1087,6 +1067,8 @@ def main():
     #val = train
     #test = train
     logging.info(f'Loaded {len(train)} training instances, {len(val)} valing instances, and {len(test)} testing instances')
+    if args.data_only:
+        sys.exit(0)
     evidence_classifier, evidence_classifier_training_results = train_module(evidence_classifier.cuda(),
                                                                              args.output_dir,
                                                                              "evidence_classifier",
