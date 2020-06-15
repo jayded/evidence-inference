@@ -140,7 +140,7 @@ def to_structured(article: Union[Article, str],
 
 def retokenize_with_bert(doc: Document,
                          bert_tokenizer) -> Document:
-    vocab = bert_tokenizer.vocab
+    vocab = bert_tokenizer.get_vocab()
     sentences = []
     for sent in doc.sentences:
         tokens = []
