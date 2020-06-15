@@ -1,0 +1,26 @@
+{
+    "train_data": "annotations/splits/ev1_train_article_ids.txt",
+    "val_data": "annotations/splits/ev1_validation_article_ids.txt",
+    "test_data": "annotations/splits/ev1_validation_article_ids.txt",
+    "bert_vocab": "embeddings/scibert_scivocab_uncased",
+    "bert_dir": "embeddings/scibert_scivocab_uncased",
+    "max_length": 512,
+    "evidence_identifier": {
+        "use_half_precision": 0,
+        "batch_size": 10,
+        "epochs": 10,
+        "patience": 10,
+        "max_grad_norm": 1.0,
+        "lr": 2e-5,
+        "sampling_ratio": 1.0
+    },
+    "evidence_classifier": {
+        "use_half_precision": 0,
+        "batch_size": 10,
+        "epochs": 10,
+        "patience": 10,
+        "max_grad_norm": 1.0,
+        "lr": 2e-5,
+        "classes": ["significantly decreased", "no significant difference", "significantly increased"]
+    }
+}
