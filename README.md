@@ -1,3 +1,7 @@
+# evidence inference 2.0 note
+
+We have recently collected additional data for this task (https://arxiv.org/abs/2005.04177), which we will present at BioNLP 2020. The data is available at: http://evidence-inference.ebm-nlp.com/download/. We are still working on cleaning the code for release of the new models here, but expect this to be available within a week or so of this writing (6/15/2020).
+
 # evidence-inference
 
 Data and code from our "Inferring Which Medical Treatments Work from Reports of Clinical Trials", NAACL 2019. This work concerns inferring the results reported in clinical trials from text. 

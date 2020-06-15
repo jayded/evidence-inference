@@ -29,7 +29,7 @@ In this study patients aged 18–35 years, infected with HIV without distinction
 
 BODY.METHODS.SAMPLE SIZE:
 In addition to weight gain and given the fact that improvement in nutritional status leads to an improvement in immune status we based the calculation of the sample size on the proportion of patient (P) with an increase of 100 CD4 cell count at the end of 3 months of nutritional supplementation. The benchmark of 100 CD4 cells count which was chosen was based on a previous field study in Cameroon.30 We powered our study to detect a 50% difference in the proportion of patients with a significant increase of CD4 between the treatment (Spirulina) group and the control (Soya) group. We used sample size computational tables to estimate different values of sample size. Our parameters were:
-Ratio Treatment group/Control group = 1; Precision = 0.05; Zα = 1.645.
+Ratio Treatment group/Control group = 1; Precision = 0.05; Zα = 1.645.With a power of 80%, we needed 23 subjects per group.The individuals were selected randomly, on the basis of consecutive sampling. The randomisation pattern was stratified according to the time of arrival at the clinic. The subjects were allocated in groups of 5 in each treatment group. Data were analysed as per protocol.
 
 BODY.METHODS.INTERVIEW:
 Outpatients infected by HIV, who arrived for routine consultations with a medical doctor, were approached and invited to participate in the study. The purpose, requirements and procedure of the study were explained to them. An interview allowed identifying and partially verifying inclusion criteria. Then, patients who gave their informed consent to participate in the study were submitted to a complete physical examination and blood sample collection for laboratory tests. They received their food supplement, and an appointment was given every two weeks.
@@ -44,9 +44,9 @@ BODY.METHODS.BODY COMPOSITION ANALYSIS:
 Participants had a single, tetrapolar BIA measurement of resistance (Res) and reactance at 50 kHz on the right side of the body, using Quantum® Bio-Impedance (BIA) Body Composition Analyzer (RJL systems, USA). The electrodes were placed on the hand, wrist, foot, and ankle of each subject according to the standard placement for adults stated in the manufacturer's guidelines. All metal objects were removed from the subjects before the measurements were made. The subjects were supine for at least 15 min on a non-conductive surface with their arms and thighs apart. All BIA measurements were performed by the same person.
 
 BODY.METHODS.EQUATIONS USED FOR DETERMINING BODY COMPOSITION (FROM CHUMLEA ET AL:
-The following equations were used to calculate the body composition;   xmlns:ns0="http://www.w3.org/1998/Math/MathML">Fat Free Mass (FFM)
+The following equations were used to calculate the body composition;  Fat Free Mass (FFM)
 Men=FFM=-10.678+0.262×Weight+0.652×Height2/Res+0.015×Res
-Women=FFM=-9.529+Weight+0.696×Height2/Res+0.016×Res  Res=Resistance   xmlns:ns0="http://www.w3.org/1998/Math/MathML">Total Body Fat (TBF)
+Women=FFM=-9.529+Weight+0.696×Height2/Res+0.016×Res  Res=Resistance  Total Body Fat (TBF)
 TBF=Weight-FFM
 
 BODY.METHODS.BIOLOGICAL PARAMETERS:

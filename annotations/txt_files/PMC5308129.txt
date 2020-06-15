@@ -1,7 +1,7 @@
 TITLE: Polyethylene Glycol and Lactulose versus Lactulose Alone in the Treatment of Hepatic Encephalopathy in Patients with Cirrhosis: A Non-Inferiority Randomized Controlled Trial
 
   ABSTRACT:
-BACKGROUND
+BACKGROUND  
 In this clinical trial, polyethylene glycol (PEG) solution was compared with lactulose in the treatment of hepatic encephalopathy in patients with cirrhosis.
   METHODS  
 This randomized controlled trial was performed on 40 patients in two groups. The patients in the lactulose group received either 20-30 grams of lactulose orally or by a nasogastric tube, or 200 grams of lactulose enema by a rectal tube. The patients in the PEG–lactulose group received the same amount of oral or rectal lactulose, plus 280 grams of PEG in 4 liters of water orally as a single dose in 30-120 minutes. Serial physical examinations, hepatic encephalopathy scoring algorithm (HESA), blood level of ammonia, and serum biochemical studies were used to evaluate the severity of hepatic encephalopathy.
@@ -38,7 +38,27 @@ All patients with a known history of cirrhosis who presented with episodic hepat
   
 Patients having all the following criteria were included:
   
+- Documented cirrhosis with any underlying etiology
+
+- Hepatic encephalopathy of any grade
+
+- 18 to 80 years of age
+  
 Exclusion criteria were as follows:
+  
+- Acute liver failure defined as severe acute liver injury with encephalopathy and international normalized ratio (INR)≥1.5 in a patient without pre-existing liver disease
+
+- Acute change in mental status due to a diagnosis other than hepatic encephalopathy
+
+- Hemodynamic instability obviating vasopressors for resuscitation
+
+- Pregnancy
+
+- Lack of LAR
+
+- Refusal of consent by the LAR
+
+- Patient's unwillingness to participate
   
 The patients were randomly assigned to two groups according to a series of block randomization numbers (8 blocks of 6 patients). The patients in the lactulose group received either 20-30 grams of lactulose (at least 3 doses in 24 hours) orally or by a nasogastric tube, or 200 grams of lactulose enema by a rectal tube. The patients in the PEG–lactulose group received the same amount of oral or rectal lactulose, plus 280 grams of PEG in 4 liters of water orally as a single dose during 30-120 minutes. Lactulose dose increased until at least two soft or loose bowel movements per day were produced. All the patients received otherwise routine care by the treating physician.
   
@@ -187,10 +207,14 @@ We used Mann Whitney U test to analyze “baseline HESA score”, “24-h HESA s
 Fisher’s exact test was used to analyze “one or more score improvement in HESA score”. Data for “length of hospital stay” were analyzed using Log-rank test.
    
 In comparison with lactulose alone, PEG-lactulose could improve HESA score in 24 hours more effectively (p =0.04, table 3). 20 patients in PEG-lactulose group had a decrease of at least 1 HESA score after 24 hours, as compared with 14 patients in lactulose group and the difference was significant (p =0.05, figure 1).
+  Fig. 124-hour HESA score changes in lactulose and PEG-lactulose groups
+HESA score at presentation and 24 hours after treatment have been shown with different bullet colors for each treatment group. Dark gray for the beginning and light gray for 24 hours after treatment. The patients whose HESA score did not show any changes after 24 hours have been shown with black bullets.
   
 Of the 21 patients in PEG-lactulose arm, 1 patient had no improvement in HESA score, 14 patients had improvement of one score and 6 patients improved by two scores. Of the 19 patients in lactulose arm, 5 patients had no improvement in HESA score, 13 patients had improvement as much as one score and 1 patient had improvement up to two scores (figure 1).
   
 There was no significant change in the blood level of ammonia after 24 hours between the treatment groups (p =0.858, table 3). But, PEG-lactulose regimen was associated with a decrease in length of hospital stay as compared with lactulose treatment (p =0.03, figure 2).
+  Fig. 2Time to discharge in patients presented with hepatic encephalopathy(HE)
+In a Kaplan-Meier graph, depicting the proportion of hospitalized patients and length of hospital stay for patients presented with hepatic encephalopathy. The patients who received PEG in addition to lactulose more rapidly discharged from hospital (p=0.03).
   
 There were no notable adverse effects in either PEG-lactulose group or in lactulose group. Death did not occur in any of the groups up to the end of hospital discharge. There were not any significant changes in electrolyte levels and kidney functions as well.
 

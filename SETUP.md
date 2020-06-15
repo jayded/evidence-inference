@@ -2,7 +2,17 @@ Download embeddings to "embeddings" from
 http://evexdb.org/pmresources/vec-space-models/PubMed-w2v.bin
 
 You should create a virtualenv satisfying requirements.txt. We recommend using
-conda. You will need to install a very recent PyTorch (1.1 or later).
+conda (https://www.anaconda.com/). You will need to install a very recent
+PyTorch (1.1 or later):
+```
+conda create  -p ~/local/evidence_inference_venv
+conda activate ~/local/evidence_inference_venv
+# this may differ for your CUDA installation
+conda install pytorch -c pytorch
+pip install -r requirements.txt
+python -m spacy download en
+```
+
 
 Experiments were run on a mix of 1080Tis, K40ms, K80ms, and P100s.
 You should be able to (approximately) reproduce the main experiments via the

@@ -13,7 +13,7 @@ ABSTRACT.CONCLUSIONS:
 We found no evidence that participating in an organizational-level occupational health intervention aiming to improve the working environment with a focus on the core task at work has an effect on pre-school employees' job satisfaction, exhaustion and sleep disturbances.
 
 ABSTRACT.TRIAL REGISTRATION:
- xmlns:ns0="http://www.w3.org/1999/xlink">
+
 ISRCTN16271504, November 15, 2016.
 
 BODY.BACKGROUND:
@@ -23,7 +23,8 @@ BODY.METHODS:
 The aim of this intervention study was to study municipal pre-schools. The intervention was an initiative from the Municipality of Copenhagen, Denmark. The intervention was implemented in pre-schools in the Children and Youth Administration in Copenhagen by eight professional working environment consultants from a private company. The research evaluation was conducted by the University of Aalborg and the Danish National Research Centre for the Working Environment (NRCWE).
 
 BODY.METHODS.STUDY DESIGN AND PARTICIPANTS:
-This is an organizational-level occupational health intervention study that was cluster randomized and parallel with two arms. Questionnaire measurements were conducted at baseline and at 24 months of follow-up. Seventy eight workplaces formed the cluster randomized controlled trial. The Municipality of Copenhagen decided to conduct the intervention at 44 pre-schools, whereas 34 pre-schools served as the control group. A statistician randomized the workplaces accordingly. Of the 44 intervention workplaces, three were lost during follow-up: one workplace did not receive the intervention, because the workplace was preoccupied with other project activities; two workplaces discontinued the intervention, one was closed during follow-up and one left the study because the management had a negative appraisal of the intervention. Of the 34 control group workplaces, four were lost because they did not provide baseline or follow-up measurements. Thus, the analyses were based on 41 intervention and 30 control group workplaces  Flow chart towards the final study sample
+This is an organizational-level occupational health intervention study that was cluster randomized and parallel with two arms. Questionnaire measurements were conducted at baseline and at 24 months of follow-up. Seventy eight workplaces formed the cluster randomized controlled trial. The Municipality of Copenhagen decided to conduct the intervention at 44 pre-schools, whereas 34 pre-schools served as the control group. A statistician randomized the workplaces accordingly. Of the 44 intervention workplaces, three were lost during follow-up: one workplace did not receive the intervention, because the workplace was preoccupied with other project activities; two workplaces discontinued the intervention, one was closed during follow-up and one left the study because the management had a negative appraisal of the intervention. Of the 34 control group workplaces, four were lost because they did not provide baseline or follow-up measurements. Thus, the analyses were based on 41 intervention and 30 control group workplaces  Employees were eligible for the study if they were employed and present at the intervention and control group workplaces during the time of the baseline questionnaire measurements. Figure 1 shows that at baseline (September 2011), 944 employees at the intervention group pre-schools and 616 employees at the control group pre-schools received the questionnaire. Of these, 775 in the intervention (82.1%) and 470 (76.3%) in the control group responded. Of the 775 intervention group baseline responders, 423 employees responded to the follow-up questionnaire 24 months later, whereas 352 employees were lost to follow up. Due to missing information on some of the outcome measures, the final study sample in the intervention group was n = 409 for job satisfaction, n = 411 for exhaustion, and n = 409 for sleep disturbances. Of the 470 control group baseline responses, 241 employees responded to the follow-up questionnaire, whereas 229 were lost to follow up. The final study sample in the control group was n = 228 for job satisfaction, n = 234 for exhaustion, and n = 226 for sleep disturbances. According to Danish law, research studies that use solely questionnaire and register data do not need approval from the National Committee on Health Research Ethics (Den Nationale Videnskabetiske Komité).Fig. 1Flow chart towards the final study sample
+
 
 BODY.METHODS.THE INTERVENTION:
 The intervention was a participatory intervention focusing on the core task at work. Employees participated in the workplace problem analysis and solution finding process to ensure employees' involvement, commitment and control and at the same time to ensure that intervention activities were tailored to the specific needs of the workplace. In each intervention workplace, the pedagogical leader and two employee representatives, the shop steward and the health and safety representative, formed a steering group that managed the intervention. Each steering group received implementation support from a professional working environment consultant for the full intervention period. The intervention consisted of intervention activities common for all steering groups, i.e. seminars and workshops on how to develop and implement workplace specific intervention activities using a participatory approach, change management, workplace culture and evaluation tools. Based on the common intervention activities and consultants implementation support, the steering groups developed and implemented workplace specific intervention activities involving all employees. The intervention followed a structured and step-wise approach. From September 2010 to September 2011, the intervention project leader team planned and coordinated the intervention study. For five months from September 2011, workplace specific intervention activities were developed by the steering groups with the participation of all employees. Consultants explained to workplaces that this intervention's focus on the core task at work was equivalent to develop activities to improve the performance of central work tasks and procedures. The implementation lasted from February 2012 to June 2013. Finally, the workplaces conducted a self-evaluation between March and June 2013.
@@ -35,13 +36,58 @@ BODY.METHODS.STATISTICAL ANALYSIS:
 All analyses were conducted using SAS 9.3.  First, to test baseline differences between intervention and control group in the study sample, we used Chi-square test, two sample t-test and Proc GLM.  Next, we calculated the baseline and follow-up mean scores for each outcome variable separately for the intervention and the control group. Using paired t-tests, we analyzed changes from baseline to follow-up for each outcome variable, separately within the intervention and within the control group.  Next, using the Genmod procedure in SAS, we analyzed differences in changes of the outcome variables between the intervention and the control group during follow-up in a mixed model with a repeated statement to account for the clustering effect of workplaces.  We calculated unadjusted estimates and estimates adjusted for sex and age (continuous) (Model 1) and further adjusted for job group (pedagogical leader, nursery nurse, nursery nurse assistant, other job group), workplace type (integrated, day care, kindergarten) and workplace size (continuous) (Model 2).  Finally, we conducted post-hoc analyses, in which we repeated the between group analyses while adjusting for the baseline scores of the outcome variables.
 
 BODY.RESULTS.CHARACTERISTICS OF PARTICIPANTS:
-Table 1 shows employee and workplace characteristics in the intervention and control group. Compared to control group participants, intervention group participants were younger (mean age: 42.9 vs. 44.9 years, p = 0.02) and were employed at workplaces of greater size (mean size 23.4 vs. 21.8 employees, p = 0.02). The groups did not differ with regard to sex, job group, and workplace type.Table 1Employee and workplace characteristics and baseline scores of outcome variables in the intervention and the control group in the study sample  Table 1 also shows the baseline scores of the three outcome variables. Intervention group participants had more favorable scores on all three variables, i.e. they reported more job satisfaction and less exhaustion and sleep disturbances than control group participants. These differences remained statistically significant, when we adjusted the analyses for employee and workplace characteristics (age, sex, job group, workplace size and workplace type, data not shown but is available on request from the first author).
+Table 1 shows employee and workplace characteristics in the intervention and control group. Compared to control group participants, intervention group participants were younger (mean age: 42.9 vs. 44.9 years, p = 0.02) and were employed at workplaces of greater size (mean size 23.4 vs. 21.8 employees, p = 0.02). The groups did not differ with regard to sex, job group, and workplace type.Table 1Employee and workplace characteristics and baseline scores of outcome variables in the intervention and the control group in the study sampleIntervention groupControl groupChi2 (p)t (p)MeanSD%
+n
+MeanSD%
+n
+
+Employee characteristic
+423241 Age42.910.444.99.8
+2.43 (0.02)
+ Women87.036890.02171.36 (0.24) Job group2.05 (0.56)  - Pedagogical leaders6.6286.215  - Nursery nurses57.224252.7127  - Nursery nurse assistants28.412030.774  - Other job groups7.83310.425
+Workplace characteristics
+4130 Size23.48.421.89.6
+-2.25 (0.02)
+ Workplace type2.26 (0.32)  - Integrated77.132679.7192  - Day care18.77918.344  - Kindergarden4.3182.15
+Baseline scores of outcome variables
+ Job satisfaction3.190.574093.020.70228
+-3.11 (0.002)
+ Exhaustion2.721.134113.011.26234
+3.06 (0.002)
+ Sleep disturbances2.041.284092.341.40226
+2.68 (0.008)
+Statistically significant results are printed in bold
+
+  Table 1 also shows the baseline scores of the three outcome variables. Intervention group participants had more favorable scores on all three variables, i.e. they reported more job satisfaction and less exhaustion and sleep disturbances than control group participants. These differences remained statistically significant, when we adjusted the analyses for employee and workplace characteristics (age, sex, job group, workplace size and workplace type, data not shown but is available on request from the first author).
 
 BODY.RESULTS.COMPARISON OF THE STUDY SAMPLE WITH EMPLOYEES LOST DURING FOLLOW-UP:
 When comparing the participants in the study sample with the participants that dropped out during follow-up, we found that the drop-out pattern was similar in the intervention and control group with regard to age and sex. In both groups, younger employees compared to older employees and men compared to women were more likely to drop out of the study. In the intervention group, mean age was 39.7 years for dropouts and 42.9 years for non-dropouts (p < 0.0001) compared to 41.1 years for dropouts and 44.9 years for non-drop-outs in the control group (p = 0.0002). Proportion of men was 17.9% among dropouts and 13.0% among non-dropouts in the intervention group (p = 0.06) and 16.2% among dropouts and 10.0% among non-dropouts in the control group (p = 0.05). In addition, in the intervention group, the mean workplace size was 26.0 employees among those who dropped out of the study compared to 23.4 employees among employees in the study sample (p < 0.0001). There was no such pattern in the control group (workplace size: 22.1 vs. 21.8 for those who dropped out and remained, respectively, p = 0.71). In both intervention and control group, participants who dropped out had a higher exhaustion score at baseline compared to those who remained in the study. This difference was statistically significant in the intervention group (2.93 vs. 2.72, p = 0.01) but not in the control group (3.16 vs. 3.01, p = 0.20).
 
 BODY.RESULTS.EFFECT OF THE INTERVENTION ON JOB SATISFACTION, EXHAUSTION AND SLEEP DISTURBANCES:
-Table 2 shows within group changes from baseline to follow-up in job satisfaction, exhaustion and sleep disturbances. Exhaustion decreased statistically significantly in both the intervention group (-0.16 points, p = 0.01) and the control group (-0.29 points, p < 0.001). There was no statistically significant change in job satisfaction and sleep disturbances, neither in the intervention group nor the control group.Table 2Within group changes in job satisfaction, exhaustion and sleep disturbances during 24 months of follow-up  Table 3 shows the between-group changes for job satisfaction, exhaustion and sleep disturbances. There was no statistically significant difference between the intervention and control group for any of the three variables, neither in the crude nor in the adjusted analyses.Table 3Intervention effect on job satisfaction, exhaustion and sleep disturbances in the intervention group compared to the control group during 24 months of follow-up
+Table 2 shows within group changes from baseline to follow-up in job satisfaction, exhaustion and sleep disturbances. Exhaustion decreased statistically significantly in both the intervention group (-0.16 points, p = 0.01) and the control group (-0.29 points, p < 0.001). There was no statistically significant change in job satisfaction and sleep disturbances, neither in the intervention group nor the control group.Table 2Within group changes in job satisfaction, exhaustion and sleep disturbances during 24 months of follow-upIntervention group (n = 423)Control group (n = 241)
+n
+Baseline Mean (SD)Follow-up Mean (SD)changet
+p
+
+n
+Baseline Mean (SD)Follow-up Mean (SD)changeT
+p
+Job satisfaction4093.19 (0.57)3.20 (0.54)+0.010.290.772283.02 (0.70)3.09 (0.62)+0.071.210.23Exhaustion4112.72 (1.13)2.56 (1.17)-0.16-2.50
+0.01
+2343.01 (1.26)2.73 (1.16)-0.29-3.48
+<0.001
+Sleep disturbances4092.04 (1.28)1.97 (1.22)-0.08-1.140.262262.34 (1.40)2.25 (1.36)-0.09-0.940.35Statistically significant results are printed in bold
+
+  Table 3 shows the between-group changes for job satisfaction, exhaustion and sleep disturbances. There was no statistically significant difference between the intervention and control group for any of the three variables, neither in the crude nor in the adjusted analyses.Table 3Intervention effect on job satisfaction, exhaustion and sleep disturbances in the intervention group compared to the control group during 24 months of follow-up
+n
+UnadjustedModel 1Model 2Est95% CI
+p
+Est95% CI
+p
+Est95% CI
+p
+Job satisfaction637-0.06-0.21–0.100.47-0.04-0.20–0.110.59-0.06-0.21–0.090.40Exhaustion6450.13-0.12–0.370.310.12-0.12–0.370.310.15-0.08–0.380.20Sleep disturbances6350.01-0.28–0.310.930.01-0.29–0.310.940.03-0.24–0.310.82Interaction change x group analyses: Unadjusted; Model 1: Adjusted for sex and age (continuous); Model 2: further adjusted for job group (pedagogical leader, nursery nurse, nursery nurse assistant, other job group), workplace type (integrated, day care, kindergarden) and workplace size (continuous). Workplace identification number is included in a repeated statement
+
 
 BODY.RESULTS.POST-HOC ANALYSES:
 Because we had found that intervention and control group differed statistically significantly in the baseline scores of the three outcome variables (see Table 1), we conducted post-hoc analyses that repeated the between-group analyses in Table 3, while adjusting for the baseline values of the outcome variables. The estimates from this post-hoc analyses were similar to the estimates reported in Table 3 (data not shown but is available on request from the first author).

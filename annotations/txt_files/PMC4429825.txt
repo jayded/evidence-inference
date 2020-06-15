@@ -13,7 +13,7 @@ ABSTRACT.CONCLUSIONS:
 It is possible to mask trial arm from cause of death reviewers, by using their feedback to standardise the information submitted to them.
 
 ABSTRACT.TRIAL REGISTRATION:
- xmlns:ns0="http://www.w3.org/1999/xlink">ISRCTN92187251
+ISRCTN92187251
 
 ABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL:
 The online version of this article (doi:10.1186/1471-2288-15-6) contains supplementary material, which is available to authorized users.
@@ -22,7 +22,7 @@ BODY.BACKGROUND:
 In trials of cancer screening, where the primary outcome is target cancer-specific mortality, the accurate determination of cause of death is crucial. The use of an independent panel of experts to assign underlying cause of death (UCD) following a review of medical notes is usually regarded, with the exception of autopsy, as the gold standard [1–4] and in most countries is preferable to the use of death certificates alone, where doubt may exist about the overall quality of cause of death certification [5–7]. This is especially true in trials where the population is elderly with multiple, competing co-morbidities or malignancies [8–10]. In these circumstances a degree of misclassification of cause of death is inevitable, but if this is unrelated to trial arm (non-differential misclassification) then the effect of screening will be modestly underestimated at worst [11]. However, substantial bias such that the effect of screening is over or underestimated may arise if misclassification is worse in one trial arm than the other (differential misclassification). Differential misclassification may be avoided by blinding panel experts to the trial arm a participant was in.  In cancer screening trials differential misclassification may arise from two well-known sources of potential death certificate bias. First, 'sticking-diagnosis' or attribution bias, which arises because more target cancers are diagnosed in the intervention arm and therefore deaths are more likely to be attributed to that cancer compared to the control arm [1, 12]. Secondly, deaths due to the screening process itself which are not traced back to screening but are certified as due to other causes will lead to an overestimation of the beneficial effects of screening [1, 12]. Such 'slippery-linkage' bias might arise from complications during the diagnostic process or following specific therapeutic interventions for screen-detected disease (such as complications following surgery for the screen-detected cancer). The use of all-cause mortality as an alternative endpoint avoids problems of attribution bias and includes unattributed deaths due to screening, but requires very large numbers of trial participants contributing many person-years of observation. For this reason, most cancer screening trials use target cancer-specific mortality as the primary outcome, while seeking to minimise the effect of these biases through the review of medical notes and assignment of UCD by an endpoint committee blind to allocation [13–15].  The accurate assignment of UCD by an endpoint committee requires identical methods of data collection across trial arms and masking of reviewers to both the allocated trial arm and the screening status of individuals [1]. A major criticism of the early breast cancer screening trials was that endpoint committee reviewers were fully aware of which women had been screened [16]. In cancer screening trials it is a challenge to conceal the trial arm from cause of death reviewers without compromising the accurate verification of UCD. Nevertheless, to optimise masking of trial arm, one guiding principle should be that the type of information presented to reviewers must be standardised [1].  This paper investigated whether the standardisation of information submitted to an endpoint committee for UCD ascertainment in the ongoing Cluster randomised triAl of PSA testing for Prostate cancer (CAP) (ISRCTN92187251) successfully reduced the ability of reviewers in correctly guessing the trial arm, thereby minimising any potential biases arising from such guesses. Trained researchers abstracted clinical information from medical records and wrote short structured vignettes that were independently reviewed by a team of clinicians, each of whom separately assigned an UCD. To reduce bias in the verification process, vignettes were carefully worded and followed specific rules aimed at concealing trial arm allocation from cause of death reviewers, such that any misclassification would be unrelated to trial arm. In addition to UCD assignment, reviewers were requested to guess trial arm allocation, and to provide reasons for their guesses. These reasons were used to revise vignette-writing rules and further standardise information across trial arms, therefore reducing any potential biases in the assignment of UCD arising from the beliefs of reviewers about screening.
 
 BODY.METHODS.STUDY DESIGN:
-
+CAP is a randomised-controlled trial (RCT) that evaluates the effectiveness and cost-effectiveness of population-based prostate-specific antigen (PSA) testing for prostate cancer in the UK. The primary outcome of the trial is prostate cancer mortality at ten years (median) follow-up; secondary outcomes are disease stage and grade, progression and all-cause mortality. The trial design (Figure 1) has been reported fully elsewhere [17]. Briefly, between 2001 and 2007 over 550 General Practitioner (GP) practices in eight centres in England and Wales were cluster-randomised to either a single round of PSA testing (intervention) or the National Health Service (NHS) prostate cancer risk management programme [18]. Over 415,000 men aged 50–69 years were included, representing approximately 8% of the male population of England and Wales in this age group. Men in the intervention arm diagnosed with localised prostate cancer through PSA testing were eligible to participate in an embedded randomised-controlled trial - the ProtecT (Prostate testing for cancer and Treatment) trial that evaluates three treatments for clinically localised disease: active monitoring (regular PSA testing and review), radical conformal radiotherapy and radical prostatectomy (ISRCTN20141297) [19]. Approximately 59% of intervention arm men did not respond to the PSA testing invitation (non-attendees) or were not invited for a PSA test because they did not fulfil the Protect inclusion criteria (they were excluded by their GP because of serious co-morbidity or severe mental illness) (Figure 1), and so followed standard NHS prostate cancer risk management. All eligible men in CAP without a pre-randomisation prostate cancer diagnosis were identified and flagged with the regional cancer registries and the Health and Social Care Information Centre (HSCIC) for notification of subsequent cancer diagnoses, embarkations and deaths.Figure 1
 CAP trial design. *Further n = 1451 excluded due to prostate cancer pre-randomisation, or failed to trace at HSCIC. **Further n = 1716 men excluded due to prostate cancer pre-randomisation, failed to trace at HSCIC, or refused.
 
 BODY.METHODS.CLINICAL VIGNETTES:
@@ -43,7 +43,127 @@ To January 2014, 1313 independent CODE reviewer assessments of UCD for 605 cases
 BODY.RESULTS.PHASE 1:
 Table 1 shows the reasons reviewers gave for their choice of trial arm in both phases. Because the trial is ongoing, absolute numbers (i.e. of deaths by trial arm) cannot be disclosed so the information is presented here as percentages of the total number in each trial arm. In phase 1, reviewers were unsure of trial arm allocation in 33% of intervention and 30% of control arm assessments. Initially, decisions for the correct identification of intervention arm men were based on the fact that men were asymptomatic at presentation (10%), or because of study-specific criteria that may have suggested the presence of screening, such as the timing of a PSA test result preceding TRUS biopsy, or regular intervals between PSA results (7%). It is important to recognise that since over half of the men allocated to the intervention arm did not accept the invitation for screening or were ineligible for screening and did not have a PSA test (see Figure 1), cancers detected among 'non-attendees' would be more akin to control arm cancers. Consequently, intervention arm men were incorrectly assigned to the control arm by reviewers because of the absence of a PSA test (21%) or other study-specific criteria which may have implied the absence of screening (9%), or because men were symptomatic at diagnosis (12%). Correct decisions about the control arm were also based on the absence of either a PSA test result (31%), or prostate cancer diagnosis (8%); or because men were symptomatic or had advanced disease at presentation (13%).Table 1
 Reasons given for choice of trial arm
+Phase I (N = 510)Phase 2 (N = 589)Correct armReason givenCorrectIncorrectUnsureCorrectIncorrectUnsure
+1. Factors relating to initial presentation
 
+10%
+
+14%
+
+1%
+
+6%
+
+24%
+
+0%
+a. Asymptomatic, low PSA test result, localised disease, early presentation1020630b. Symptomatic, high PSA test result, locally advanced/metastatic disease, late presentation01210210
+2. Study-specific factors
+
+8%
+
+30%
+
+4%
+
+3%
+
+22%
+
+2%
+
+Intervention
+a. No formal prostate cancer diagnosis030020
+arm
+b. PSA test not performed02100110c. Timing of PSA test, investigations or treatments452121d. Presence of co-morbidities or other cancers001041e. Investigations, treatments received300120f. Other study-specific factors111110
+3. No reason stated
+
+3%
+
+1%
+
+25%
+
+0%
+
+1%
+
+42%
+
+(Total for each phase = 100%)
+
+21%
+
+46%
+
+33%
+
+9%
+
+46%
+
+45%
+
+1. Factors relating to initial presentation
+
+14%
+
+1%
+
+1%
+
+23%
+
+3%
+
+3%
+a. Asymptomatic, low PSA test result, localised disease, early presentation111031b. Symptomatic, high PSA test result, locally advanced/metastatic disease, late presentation13002302
+2. Study-specific factors
+
+50%
+
+1%
+
+4%
+
+20%
+
+2%
+
+1%
+
+Control
+a. No formal prostate cancer diagnosis801100
+arm
+b. PSA test not performed31011000c. Timing of PSA test, investigations or treatments611210d. Presence of co-morbidities or other cancers100300e. Investigations, treatments received200111f. Other study-specific factors201300
+3. No reason stated
+
+4%
+
+0%
+
+25%
+
+3%
+
+0%
+
+44%
+
+(Total for each phase = 100%)
+
+68%
+
+2%
+
+30%
+
+46%
+
+6%
+
+48%
+Table 1 shows the reasons reviewers gave for their choice of trial arm, for correct, incorrect and unsure categories; for both phases. Highlighted in bold are the total percentages. Figures have been rounded so may not add up to 100%.
 
 BODY.RESULTS.PHASE 2:
 In phase 2 there was a reduction in the proportion of correct guesses and much greater uncertainty: reviewers were unsure of the trial arm in 45% of all intervention and 48% of control arm assessments. Incorrect assignment of intervention arm men to the control arm was influenced by the absence of a PSA result (11%) or because the cancer had been detected at a much later biological stage than would be expected as a result of detection by screening, for example, advanced disease at presentation or a high PSA level (21%). Study-specific criteria may have implied exclusion from the ProtecT trial (such as previous cancers, multiple co-morbidities and age at diagnosis). The correct identification of control arm men were based on factors such as advanced disease at presentation or a high PSA test result (23%), or the absence of a PSA test (10%).
@@ -56,3 +176,8 @@ Our analysis of 1099 assessments of 509 vignettes by an endpoint committee of ca
 
 BODY.CONCLUSIONS:
 In CAP, researcher-written vignettes were used to mask external cause of death reviewers to the allocation of trial arm in order to reduce any potential biases in the verification of UCD. Feedback from the reviewers was used to standardise and streamline the information presented to the endpoint committee for UCD assignment. This has been shown to improve masking of trial arm without compromising vignette quality. This finding is particularly relevant to RCTs where the primary outcome is cause-specific mortality determined by independent cause of death review.
+
+BODY.ELECTRONIC SUPPLEMENTARY MATERIAL:
+Additional file 1:
+Vignette for cause of death review.
+(PDF 79 KB)
