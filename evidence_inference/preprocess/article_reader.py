@@ -28,8 +28,9 @@ class Article:
     # front matter/meta data and body indices.
     FRONT_IDX, BODY_IDX = 0, 1
 
-    def __init__(self, xml_path):
+    def __init__(self, xml_path, use_plain_text = False):
         self.id = xml_path
+        self.use_plain_text = use_plain_text
         self.article_tree = ET.parse(xml_path)
         self.article_root = self.article_tree.getroot()
         self.article_dict = OrderedDefaultListDict()
@@ -47,6 +48,73 @@ class Article:
     def __str__(self):
         return self.get_title()
     
+    def format_xmlns(self, s, el):
+        nsmap_inverse = { v: k for k, v in el.nsmap.items() }
+        # universal non-specified namespace as per:
+        #     https://www.w3.org/TR/xml-names/
+        nsmap_inverse['http://www.w3.org/XML/1998/namespace'] = 'xml'
+        prefix, suffix = s[1:].split('}', 1)
+        ns = nsmap_inverse.get(prefix, '')
+        if not ns:
+          pass
+        return '{}:{}'.format(ns, suffix)
+
+    def gen_plain_text(self, fname = None):
+        """
+        Get the plain text version of the NXML file.
+        
+        @param fname     is the full path/location of the XML file.
+        @return txt_out  is a string that is the plain text version of the xml.
+        @return all_sections is a dictionary with section names and their character offsets.
+        """
+        fname = fname or self.id
+        txt_out = ''   
+        newline_tags = ['p', 'sec', 'title', 'td']
+        collected_tags = ['abstract', 'body']
+        collect_txt = False
+        tag_list = []
+        all_sections = {}
+    
+        for e, el in etree.iterparse(open(fname, 'rb'), ('start', 'end')):
+            if e == 'start':
+                tag = el.tag
+                if el.tag.startswith('{'):
+                  tag = self.format_xmlns(tag, el)
+                
+                if tag in collected_tags or ((tag == 'sec' or tag == 'title') and el.text != None):
+                    tag_list.append(tag if tag in collected_tags else el.text)
+                    all_sections[".".join(tag_list)] = {'start': len(txt_out)}
+                       
+                if tag in collected_tags:
+                    collect_txt = True
+                    txt_out += '<{}>\n'.format(tag.upper())
+            
+                if el.text:
+                    if collect_txt:  
+                      txt_out += el.text
+            
+            elif e == 'end':
+                tag = el.tag
+                if el.tag.startswith('{'):
+                    tag = self.format_xmlns(tag, el)
+            
+                if collect_txt and tag in newline_tags:
+                    txt_out += '\n'
+                    
+                if (tag in collected_tags or tag == 'sec') and len(tag_list) > 0:
+                    all_sections[".".join(tag_list)]['end'] = len(txt_out)
+                    del tag_list[-1]
+            
+                # wrap tail in a special html tag since the start index is no longer linked to the opening tag
+                if el.tail:
+                    if collect_txt:
+                      txt_out += el.tail
+            
+                if tag in collected_tags:
+                    collect_txt = False
+                    
+        return txt_out, all_sections
+
     def get_title(self):
         # note that we return an empty string if the title is missing.
         return self.article_meta.findall("title-group")[0].findall("article-title")[0].text or ""
@@ -69,6 +137,9 @@ class Article:
         Generate an unstructured string representation of the article, or of the
         subset of the article specified by the optional 'fields' argument.
         '''
+        if self.use_plain_text:
+            return self.gen_plain_text(self.id)[0]
+        
         if fields is None:
             fields = self.article_dict.keys()
 
@@ -76,7 +147,7 @@ class Article:
         for field in fields: 
             texts = [none_to_empty_str(s) for s in self.article_dict[field]]
             field_text = join_para_on.join(texts)
-            out_str.append(field.upper() + ":\n" + field_text)
+            out_str.append(field.upper() + ": " + field_text)
             
         return join_sections_on.join(out_str)
 
