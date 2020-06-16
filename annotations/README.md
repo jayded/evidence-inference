@@ -20,15 +20,36 @@ There are 6 different files contained in this zip file:
 - In Abstract: This column consists of responses of '0' and '1'. This column reads '1' if the annotator got the answer from the abstract, and '0' if he or she used more than the abstract in order to answer the question.
 - Start Evidence: This column represents what index in the text that the “reasoning” from this row starts at (this is inclusive). 
 - End Evidence: This column represents what index in the text that the “reasoning” from this row ends at (this is also inclusive). 
-- Evidence Start Plain Text: This column represents what index in the text that the “reasoning” from this row starts at (this is inclusive). However, this differs from previous 'Evidence Start' column since it relies on the plain-text version of the document, rather than the XML.
-- Evidence End Plain Text: This column represents what index in the text that the “reasoning” from this row ends at (this is also inclusive). However, this differs from previous 'Evidence End' column since it relies on the plain-text version of the document, rather than the XML.
 - Note: Some prompts will have 2 answers by a single doctor. This is because they might cite 2 different pieces of evidence. To properly identify this, look for rows with the same 'PromptID' and also the same 'UserID'.
 
 ## Article Types (XML vs. TXT): 
 We provide two different formats to read the article from. One is the XML format, that the article reader is able to parse through. The offsets (column headers 'Evidence Start', and 'Evidence End') listed in the annotations.csv files are based on the output from the article_reader reading the XML file. 
-The other is a plaintext (extension of *.txt), where we have preprocessed the XMLs. The offsets listed in the 'Evidence Start Plain Text', and 'Evidence End Plain Text' can be used right after reading the text from the .txt file. Please note that the tables in this format are particularly hard to read. Often, the offsets of table extracted information are not listed. 
+The other is a plaintext (extension of *.txt), where we have preprocessed the XMLs, such that the output of the article_reader is saved into a text file. The offsets listed in the 'Evidence Start', and 'Evidence End' can be used right after reading the text from the .txt file. Please note that the tables in this format are particularly hard to read. Please also use 'utf-8' encoding when reading the txt files.
 
 ## File Description (Prompts):
 - PromptID: Like previously stated, this is an ID given to this specific row, including the PMCID, outcome, intervention and comparator.
 - PMCID: This is the ID that we use to identify the articles. In order to find the correct article used, simply attach "PMC" + PMCID + '.nxml' and search within the xml_files folder.
 - Outcome/Intervention/Comparator: The outcome/intervention/comparator columns represent the fill-in-the-blank inputs for the following prompt formed: With respect to outcome, characterize the reported difference between intervention and those receiving comparator.
+
+## New Patch (V1.1):
+Version 1.0 of annotations, available on 8/21/19, had numerous problems with respect to quality of offsets and annotation strings. 
+Moving forward, in patch v1.1, we have modified the annotation strings in order to remove encoding errors. 
+Likewise, 98% of the offsets are correctly aligned with the annotation (this may be a few characters off). 
+As for the other 2%, we have replaced the offsets with -1, -1 for the "Evidence Start" & "Evidence End" columns. 
+These new changes to the annotations_merged.csv, as well as the article_reader.py, has had minimal impact on paper results; however,
+those using v1.0 should upgrade to the newer version since it has improved code and data quality. 
+
+# Caveat:
+Although each of these prompts have gone through our 3-stage process, there is still some noise in the dataset. Here we have flagged some of the prompt ids that may be a problem. We have split up this into 3 groups: Incorrect, Questionable, and Somewhat Malformed. 
+- Incorrect: obviously wrong and should not be included.
+- Questionable: requires closer examination of the article to make a full decision on the quality of prompt.
+- Somewhat malformed: do not have the proper context or details needed.
+ 
+### Incorrect: 
+911, 912, 1262, 1261, 3044, 3248, 3111, 3620, 4308, 4490, 4491, 4324, 4325, 4492, 4824, 5000, 5001, 5002, 5046, 5047, 4948, 5639, 5710, 5752, 5775, 5782, 5841, 5843, 5861, 5862, 5863, 5964, 5965, 5966, 5975, 4807, 5776, 5777, 5778, 5779, 5780, 5781, 6034, 6065, 6066, 6666, 6667, 6668, 6669, 7040, 7042, 7944, 8590, 8605, 8606, 8639, 8640, 8745, 8747, 8749,  8877, 8878, 8593, 8631, 8635, 8884, 8886, 8773, 10032, 10035, 8876, 8875, 8885, 8917, 8921, 8118, 10885, 10886, 10887, 10888, 10889, 10890
+
+### Questionable: 
+7811, 7812, 7813, 7814, 7815, 8197, 8198, 8199, 8200, 8201, 9429, 9430, 9431, 8536, 9432
+
+### Somewhat malformed: 
+3514, 346, 5037, 4715, 8767, 9295, 9297, 8870, 9862

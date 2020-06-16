@@ -1,8 +1,8 @@
 TITLE: Butyrylated starch intake can prevent red meat-induced
 O
 
-ABSTRACT 
-  ABSTRACT: Epidemiological studies have identified increased colorectal cancer (CRC) risk with high
+  ABSTRACT:
+Epidemiological studies have identified increased colorectal cancer (CRC) risk with high
 red meat (HRM) intakes, whereas dietary fibre intake appears to be protective. In the
 present study, we examined whether a HRM diet increased rectal
 O6-methyl-2-deoxyguanosine (O6MeG) adduct levels in healthy human
@@ -33,7 +33,8 @@ O6MeG adducts. HAMSB consumption prevented red meat-induced adduct formation,
 which may be associated with increased stool SCFA levels and/or changes in the microbiota
 composition.
 
-BODY: Colorectal cancer (CRC) is one of the most frequently diagnosed malignancies worldwide,
+BODY:
+Colorectal cancer (CRC) is one of the most frequently diagnosed malignancies worldwide,
 accounting for 10 % of all cancers and for approximately 20 % of all cancer-related deaths in
 developed countries(
 
@@ -166,10 +167,12 @@ of these diets on other indices of colonic health including rectal proliferation
 fermentation products and microbiota composition, as these might participate in the generation
 of adducts.
 
-BODY.METHODS.STUDY DESIGN AND PARTICIPANTS: Overview of the randomised cross-over intervention study design. HRM, high red
+BODY.METHODS.STUDY DESIGN AND PARTICIPANTS:
+Overview of the randomised cross-over intervention study design. HRM, high red
 meat; HAMSB, butyrylated high-amylose maize starch.
 
-BODY.METHODS.SAMPLE COLLECTION: Stool and rectal pinch biopsy samples were obtained at the completion of the 4-week entry
+BODY.METHODS.SAMPLE COLLECTION:
+Stool and rectal pinch biopsy samples were obtained at the completion of the 4-week entry
 period (baseline) and at the end of each intervention period. A complete faecal collection
 was made by all participants for the last 48 h of each dietary period, and the samples
 were stored in portable freezers ( − 20°C). At each visit to the Flinders Medical Centre
@@ -178,7 +181,8 @@ alligator forceps through a 25 cm rigid sigmoidoscope; this procedure was perfor
 without bowel preparation or prior dietary restriction. Biopsies were formalin-fixed and
 dehydrated through gradient alcohol and xylene before being embedded in paraffin wax.
 
-BODY.METHODS.STOOL ANALYSES: Faecal samples were thawed at 4°C, pooled, homogenised, and then subsampled for analysis.
+BODY.METHODS.STOOL ANALYSES:
+Faecal samples were thawed at 4°C, pooled, homogenised, and then subsampled for analysis.
 For the determination of SCFA, weighed portions were diluted at 1:3 (w/w) with deionised
 water containing 1·68 mmol heptanoic acid/l as an internal standard (Sigma Chemical Co.),
 and processed for SCFA analysis using GC as described previously(
@@ -221,14 +225,16 @@ water sample with the response of an N-nitrosodipropylamine standard
 
 ).
 
-BODY.METHODS.RECTAL BIOPSY ANALYSIS: Light microscope images (20 ×  optical zoom) of human rectal crypts showing
+BODY.METHODS.RECTAL BIOPSY ANALYSIS:
+Light microscope images (20 ×  optical zoom) of human rectal crypts showing
 O6-methyl-2-deoxyguanosine staining intensity from the baseline and after
 the 4-week intervention phase selected from participant #20. Images showing the
 sections (a) at the end of the high red meat (HRM) baseline, (b) at the end of the
 4-week HRM treatment, (c) at the end of the HRM+butyrylated high-amylose maize
 starch (HAMSB) baseline and (d) at the end of the 4-week HRM+HAMSB treatment.
 
-BODY.METHODS.MOLECULAR MICROBIOLOGY: Extraction of DNA from stool samples and subsequent quantitative real-time PCR (qPCR) was
+BODY.METHODS.MOLECULAR MICROBIOLOGY:
+Extraction of DNA from stool samples and subsequent quantitative real-time PCR (qPCR) was
 performed and analysed according to the method used by Christophersen and colleagues(
 
 36
@@ -256,7 +262,8 @@ muciniphila, were also targeted. Sulphate-reducing bacteria were included to
 determine whether the production of toxic hydrogen sulphide could contribute to
 large-bowel DNA adduct formation in response to red meat treatment.
 
-BODY.METHODS.STATISTICAL METHODS: All statistical analyses were performed with scripts in R, version 3.0.1, using the R
+BODY.METHODS.STATISTICAL METHODS:
+All statistical analyses were performed with scripts in R, version 3.0.1, using the R
 statistical package(
 
 37
@@ -271,7 +278,8 @@ Differences between the interventions were tested on first-period cross-sectiona
 comparison only using Permanova+ version 1.06 (PRIMER-E). A P
 value < 0·05 was considered significant.
 
-BODY.RESULTS.STUDY COMPARISONS FOR THE WHOLE DATASET: Initial analyses were carried out using the two periods of the trial, including baseline
+BODY.RESULTS.STUDY COMPARISONS FOR THE WHOLE DATASET:
+Initial analyses were carried out using the two periods of the trial, including baseline
 and washout periods. However, data analyses of the initial study showed that some of the
 response variables had carry-over effects, including the primary end-point
 O6MeG, epithelial proliferation, certain bacterial species but not SCFA (see
@@ -303,7 +311,8 @@ the volunteers consumed the HRM diet first, the microbial composition during the
 subsequent consumption of the HRM+HAMSB diet was only different from that of the washout
 levels (P= 0·02).
 
-BODY.RESULTS.STUDY COMPARISONS FOR THE FIRST PERIOD: The results arising from the respective baseline periods and the first arm of the dietary
+BODY.RESULTS.STUDY COMPARISONS FOR THE FIRST PERIOD:
+The results arising from the respective baseline periods and the first arm of the dietary
 intervention (i.e. at week 4 of the intervention) are described in detail below, as the
 results of the second arm (cross-over) showed carry-over effects for O6MeG,
 epithelial proliferation and certain bacterial species. The study was still adequately
@@ -312,7 +321,8 @@ t test with a power of 80 % with means of 60·8 and 77·4 and a standard
 deviation of 15 showed that group sizes of five were adequate to detect a difference
 between the baseline and the HRM intervention.
 
-BODY.RESULTS.DEMOGRAPHIC DATA, PARTICIPANT CHARACTERISTICS AND DIETARY INTAKE: Recruitment commenced in July 2009, with each participant followed up for the 4-month
+BODY.RESULTS.DEMOGRAPHIC DATA, PARTICIPANT CHARACTERISTICS AND DIETARY INTAKE:
+Recruitment commenced in July 2009, with each participant followed up for the 4-month
 duration of the interventions. Data collection was completed by September 2010. A total of
 twenty-five participants were assigned randomly, with twelve allocated to the HRM dietary
 intervention first and thirteen allocated to the HRM+HAMSB dietary intervention first.
@@ -336,7 +346,8 @@ Fe intake from meat was significantly higher for the HRM and HRM+HAMSB intervent
 week 4 compared with their respective baseline levels
 (P< 0·001).
 
-BODY.RESULTS.RECTAL EPITHELIAL MEASURES: The O6MeG adduct load was increased at week 4 in the HRM group compared with
+BODY.RESULTS.RECTAL EPITHELIAL MEASURES:
+The O6MeG adduct load was increased at week 4 in the HRM group compared with
 its baseline level (P< 0·01); however, the addition of HAMSB to
 the HRM diet prevented this increase (Table 2).
 Relative to their respective baseline levels, the number of PCNA-labelled cells in the
@@ -345,7 +356,8 @@ HRM+HAMSB (P< 0·05) groups; however, the number was lower
 following the HRM+HAMSB intervention than the HRM intervention
 (P< 0·05; Table 2).
 
-BODY.RESULTS.STOOL BIOCHEMISTRY: The results of the stool analyses are presented in Table 3. Stool output and pH did not differ significantly between the
+BODY.RESULTS.STOOL BIOCHEMISTRY:
+The results of the stool analyses are presented in Table 3. Stool output and pH did not differ significantly between the
 treatments. Stool excretion of acetate, propionate, butyrate and total SCFA was higher in
 the HRM+HAMSB group at 4 weeks compared with its baseline level
 (P< 0·05) as was the stool concentrations of acetate, propionate
@@ -355,7 +367,8 @@ concentration was lower in the HRM+HAMSB group at 4 weeks compared with its base
 Branched-chain fatty acids, phenols, NH3 and NOC were unaffected by the
 treatment.
 
-BODY.RESULTS.STOOL BACTERIA: Significant changes in stool bacteria in response to the diet are presented in Table 4. When the numbers of bacteria/g of stool were
+BODY.RESULTS.STOOL BACTERIA:
+Significant changes in stool bacteria in response to the diet are presented in Table 4. When the numbers of bacteria/g of stool were
 examined, the HRM+HAMSB group at 4 weeks elicited an increase in the number of
 Parabacteroides distasonis relative to its baseline level
 (P< 0·0001) and the HRM group (P< 0·001).
@@ -382,7 +395,8 @@ diversity during the HRM+HAMSB intervention was different from that at baseline
 (P< 0·01); however, the composition at baseline and the HRM
 intervention did not differ.
 
-BODY.DISCUSSION: Previously, we reported that feeding a diet rich in red meat to rodents can increase the
+BODY.DISCUSSION:
+Previously, we reported that feeding a diet rich in red meat to rodents can increase the
 level of the pro-mutagenic DNA adduct (O6MeG) in the colon, whereas
 co-consumption of a fermentable carbohydrate can reduce this effect(
 

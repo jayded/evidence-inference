@@ -1,20 +1,22 @@
 TITLE: Allowing for non-adherence to treatment in a randomized controlled trial of
 two antidepressants (citalopram 
 
-ABSTRACT 
-ABSTRACT.BACKGROUND: Meta-analyses suggest that reboxetine may be less effective than other antidepressants.
+  ABSTRACT.BACKGROUND:
+Meta-analyses suggest that reboxetine may be less effective than other antidepressants.
 Such comparisons may be biased by lower adherence to reboxetine and subsequent handling
 of missing outcome data. This study illustrates how to adjust for differential
 non-adherence and hence derive an unbiased estimate of the efficacy of reboxetine
 compared with citalopram in primary care patients with depression.
 
-ABSTRACT.METHOD: A structural mean modelling (SMM) approach was used to generate adherence-adjusted
+ABSTRACT.METHOD:
+A structural mean modelling (SMM) approach was used to generate adherence-adjusted
 estimates of the efficacy of reboxetine compared with citalopram using GENetic and
 clinical Predictors Of treatment response in Depression (GENPOD) trial data.
 Intention-to-treat (ITT) analyses were performed to compare estimates of effectiveness
 with results from previous meta-analyses.
 
-ABSTRACT.RESULTS: At 6 weeks, 92% of those randomized to citalopram were still taking their medication,
+ABSTRACT.RESULTS:
+At 6 weeks, 92% of those randomized to citalopram were still taking their medication,
 compared with 72% of those randomized to reboxetine. In ITT analysis, there was only
 weak evidence that those on reboxetine had a slightly worse outcome than those on
 citalopram [adjusted difference in mean Beck Depression Inventory (BDI) scores: 1.19,
@@ -23,38 +25,15 @@ evidence of a difference in efficacy when differential non-adherence was account
 using the SMM approach for mean BDI (–0.29, 95% CI –3.04 to 2.46,
 p = 0.84) or the other mental health outcomes.
 
-ABSTRACT.CONCLUSIONS: There was no evidence of a difference in the efficacy of reboxetine and citalopram when
-these drugs are taken and tolerated by depressed patients. The SMM approach can be
-implemented in standard statistical software to adjust for differential non-adherence
-and generate unbiased estimates of treatment efficacy for comparisons of two (or more)
-active interventions.  ABSTRACT.BACKGROUND: Meta-analyses suggest that reboxetine may be less effective than other antidepressants.
-Such comparisons may be biased by lower adherence to reboxetine and subsequent handling
-of missing outcome data. This study illustrates how to adjust for differential
-non-adherence and hence derive an unbiased estimate of the efficacy of reboxetine
-compared with citalopram in primary care patients with depression.
-
-ABSTRACT.METHOD: A structural mean modelling (SMM) approach was used to generate adherence-adjusted
-estimates of the efficacy of reboxetine compared with citalopram using GENetic and
-clinical Predictors Of treatment response in Depression (GENPOD) trial data.
-Intention-to-treat (ITT) analyses were performed to compare estimates of effectiveness
-with results from previous meta-analyses.
-
-ABSTRACT.RESULTS: At 6 weeks, 92% of those randomized to citalopram were still taking their medication,
-compared with 72% of those randomized to reboxetine. In ITT analysis, there was only
-weak evidence that those on reboxetine had a slightly worse outcome than those on
-citalopram [adjusted difference in mean Beck Depression Inventory (BDI) scores: 1.19,
-95% confidence interval (CI) –0.52 to 2.90, p = 0.17]. There was no
-evidence of a difference in efficacy when differential non-adherence was accounted for
-using the SMM approach for mean BDI (–0.29, 95% CI –3.04 to 2.46,
-p = 0.84) or the other mental health outcomes.
-
-ABSTRACT.CONCLUSIONS: There was no evidence of a difference in the efficacy of reboxetine and citalopram when
+ABSTRACT.CONCLUSIONS:
+There was no evidence of a difference in the efficacy of reboxetine and citalopram when
 these drugs are taken and tolerated by depressed patients. The SMM approach can be
 implemented in standard statistical software to adjust for differential non-adherence
 and generate unbiased estimates of treatment efficacy for comparisons of two (or more)
 active interventions.
 
-BODY.INTRODUCTION: Antidepressants are often prescribed in primary care as the first-line treatment for
+BODY.INTRODUCTION:
+Antidepressants are often prescribed in primary care as the first-line treatment for
 depression. In England in 2011, 46 million prescriptions for antidepressants were issued at
 a cost of £270 million (HSCIC, 2012). Selective
 serotonin reuptake inhibitors (SSRIs) are the most commonly prescribed (54% of prescriptions
@@ -103,7 +82,8 @@ non-adherence in an RCT of two active interventions and hence to derive an unbia
 of the efficacy of reboxetine compared with citalopram in the treatment of primary care
 patients with a new episode of depression.
 
-BODY.METHOD.THE GENPOD TRIAL: The GENPOD trial (Thomas et al.
+BODY.METHOD.THE GENPOD TRIAL:
+The GENPOD trial (Thomas et al.
 2008) was designed to test two primary hypotheses
 regarding (1) genetic and (2) clinical predictors of response to antidepressant
 medication. There was no evidence that the genetic serotonin polymorphism 5-HTTLPR (Lewis
@@ -114,7 +94,8 @@ al.
 antidepressant medication. Secondary analysis of these trial data can provide information
 on the comparative efficacy of an SSRI (citalopram) and an NaRI (reboxetine).
 
-BODY.METHOD.PARTICIPANTS: Following agreement that an antidepressant should be prescribed, general practitioners
+BODY.METHOD.PARTICIPANTS:
+Following agreement that an antidepressant should be prescribed, general practitioners
 (GPs) referred patients to the research team. Those eligible were aged 18–74 years, had a
 Beck Depression Inventory (BDI; Beck et al.
 1996) score of ⩾15 and met ICD-10 criteria for a
@@ -125,7 +106,8 @@ the SSRI citalopram (20 mg daily) or the NaRI reboxetine (4 mg twice daily).  Pa
 were excluded, as were those who had taken antidepressants in the 2 weeks prior to
 baseline or who could not complete self-administered questionnaires.
 
-BODY.METHOD.BASELINE MEASURES: In addition to age, gender, BDI score and CIS-R score, the following data were recorded
+BODY.METHOD.BASELINE MEASURES:
+In addition to age, gender, BDI score and CIS-R score, the following data were recorded
 at baseline: ethnicity, marital status, employment status, financial strain [based on
 questions from the Breadline Britain survey (Gordon et al.
 2000) and a single question asking about how they
@@ -141,13 +123,15 @@ Primary Care, AUDIT-PC; Piccinelli et al.
 1997), and scores on the 12-item Short Form
 Health Survey (SF-12) mental and physical subscales (Jenkinson & Layte, 1997).
 
-BODY.METHOD.RANDOMIZATION PROCEDURE: Randomization was conducted by means of a computer-generated code, administered centrally
+BODY.METHOD.RANDOMIZATION PROCEDURE:
+Randomization was conducted by means of a computer-generated code, administered centrally
 and communicated by telephone and hence concealed from the recruiting researcher.
 Allocation was stratified by severity of overall symptoms (CIS-R score < 28 or ⩾28)
 and centre. The researcher gave the allocated medication to the participant. Neither
 patients nor researchers were blind to treatment allocation.
 
-BODY.METHOD.ALLOCATED TREATMENTS: Patients randomized to citalopram were prescribed 20 mg daily. Citalopram taken at this
+BODY.METHOD.ALLOCATED TREATMENTS:
+Patients randomized to citalopram were prescribed 20 mg daily. Citalopram taken at this
 dose has been shown to occupy about 80% of serotonin transporter reuptake sites, which is
 reported to be the level of occupancy needed to produce reliable antidepressant effects
 (Meyer et al.
@@ -162,19 +146,22 @@ et al.
 1998). GPs could increase the dose of either
 allocated treatment if deemed clinically appropriate.
 
-BODY.METHOD.MEASURES OF TREATMENT ADHERENCE: Participants were asked about their use of antidepressant medication in the follow-up
+BODY.METHOD.MEASURES OF TREATMENT ADHERENCE:
+Participants were asked about their use of antidepressant medication in the follow-up
 questionnaires (six closed response options: I have not taken any of my tablets; I have
 taken hardly any of my tablets; I have taken less than half of my tablets; I have taken
 more than half of my tablets; I have taken nearly all my tablets; I have taken my tablets
 every day).
 
-BODY.METHOD.OUTCOME MEASURES: Self-reported outcome data were collected 6 and 12 weeks after randomization. For the
+BODY.METHOD.OUTCOME MEASURES:
+Self-reported outcome data were collected 6 and 12 weeks after randomization. For the
 purpose of this study, which demonstrates the approach to adjusting for differential
 non-adherence between the two treatments, we used the 6-week outcome data. The (original)
 primary outcome was the total BDI score at 6 weeks. Secondary outcomes were the HADS total
 and subscale scores and the SF-12 mental and physical subscale scores.
 
-BODY.METHOD.DATASET: The 6-week follow-up was completed by 91% of participants (n = 546)
+BODY.METHOD.DATASET:
+The 6-week follow-up was completed by 91% of participants (n = 546)
 [citalopram: 274/298 (92%) and reboxetine: 272/303 (90%)]. Younger individuals, those with
 more life events and less social support were more likely to have missing data (Lewis
 et al.
@@ -185,7 +172,8 @@ factors were associated with adherence to medication (data not shown). Therefore
 present analyses, the dataset comprised the 546 participants with 6-week follow-up data
 (complete cases).
 
-BODY.METHOD.STATISTICAL ANALYSIS: All analyses were conducted in Stata version 11.1 (Stata Corporation, USA). To compare
+BODY.METHOD.STATISTICAL ANALYSIS:
+All analyses were conducted in Stata version 11.1 (Stata Corporation, USA). To compare
 the data from the GENPOD trial with the previous literature on the comparative
 effectiveness of antidepressants (Papakostas et al.
 2008; Cipriani et al.
@@ -198,14 +186,16 @@ estimates of effectiveness in the presence of differential non-adherence. Finall
 focused on the application of the novel SMM approach to estimating treatment efficacy in
 the presence of differential non-adherence.
 
-BODY.METHOD.ESTIMATES OF EFFECTIVENESS: The primary comparative ITT analysis compared the BDI score at 6 weeks between the two
+BODY.METHOD.ESTIMATES OF EFFECTIVENESS:
+The primary comparative ITT analysis compared the BDI score at 6 weeks between the two
 groups as randomized, with adjustment for baseline BDI score and the stratification
 variables. To estimate treatment effectiveness, data from all participants followed up at
 6 weeks were included in these analyses, irrespective of adherence to the allocated
 medication.
 
 BODY.METHOD.EFFECT OF IMPUTING MISSING OUTCOMES AS ‘NON-RECOVERY’ OR USING AN LOCF APPROACH TO
-HANDLING MISSING OUTCOME DATA ON ESTIMATES OF EFFECTIVENESS: Previous studies comparing outcomes for those taking citalopram and reboxetine (Cipriani
+HANDLING MISSING OUTCOME DATA ON ESTIMATES OF EFFECTIVENESS:
+Previous studies comparing outcomes for those taking citalopram and reboxetine (Cipriani
 et al.
 2009; Eyding et al.
 2010) analysed data on an ITT basis but either:
@@ -219,7 +209,8 @@ approaches to handling missing data was examined by artificially constraining th
 dataset such that only those who had continued to take their medication at 6 weeks were
 regarded as having outcome data.
 
-BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES: The final set of analyses generated unbiased estimates of treatment efficacy in the
+BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES:
+The final set of analyses generated unbiased estimates of treatment efficacy in the
 presence of differential non-adherence between treatment arms. The SMM method assumes that
 the mean outcomes in the two arms would be equal in the absence of treatment, and that
 each treatment has a (separate) linear causal effect on outcome. To estimate the two
@@ -232,7 +223,10 @@ Baseline variables that predict adherence and/or outcome (as main effects) are a
 in improving precision. The following procedure was used to identify these baseline
 variables.
 
-BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES.IDENTIFYING PREDICTORS OF OUTCOME: All baseline variables that were possible predictors of outcome [age, gender,
+BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES.IDENTIFYING PREDICTORS OF OUTCOME:
+
+(1)
+  All baseline variables that were possible predictors of outcome [age, gender,
 ethnicity, marital status, employment status, housing status, financial strain, history
 of depression (self/family), prior treatment for depression, longstanding illness,
 disability/infirmity, social support, life events, alcohol score, BDI score, HADS
@@ -251,7 +245,10 @@ stratification variables and treatment allocation to improve precision.  This li
 included. Omission of a potentially important predictor of outcome from the SMM model
 would result in a loss of precision.
 
-BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES.IDENTIFYING PREDICTORS OF ADHERENCE: GENPOD relied upon self-reported use of antidepressant medication. A quantitative
+BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES.IDENTIFYING PREDICTORS OF ADHERENCE:
+
+(2)
+  GENPOD relied upon self-reported use of antidepressant medication. A quantitative
 measure of adherence is required for the SMM approach. Therefore, a pragmatic decision
 was made to rescale the six response options using increments of 0.2 to generate an
 adherence score scaled from zero to one, where zero represented total non-adherence and
@@ -284,7 +281,10 @@ through adherence. Therefore, all measures of severity of depressive symptoms (C
 BDI, HADS and SF-12 mental subscale score) were excluded from the list of potential
 predictors of adherence.
 
-BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES.GENERATING ADHERENCE-ADJUSTED ESTIMATES:  xmlns:ns0="http://www.w3.org/1999/xlink">The SMM approach (Fischer et al.
+BODY.METHOD.ADHERENCE-ADJUSTED EFFICACY ESTIMATES.GENERATING ADHERENCE-ADJUSTED ESTIMATES:
+
+(3)
+  The SMM approach (Fischer et al.
 2011) was implemented using an instrumental
 variable (IV) model approach in Stata [ivregress command: two-stage least-squares (2sls)
 approach] for each of the outcomes (BDI, HADS and SF-12 mental and physical subscale
@@ -312,7 +312,8 @@ its 95% confidence interval (CI).  Sensitivity analyses were conducted removing 
 x2 variables one by one to examine the robustness of the findings
 from the SMM IV approach for each of the outcomes.
 
-BODY.RESULTS.TRIAL PARTICIPATION AND FOLLOW-UP: The Consolidated Standards Of Reporting Trials (CONSORT) flowchart and baseline
+BODY.RESULTS.TRIAL PARTICIPATION AND FOLLOW-UP:
+The Consolidated Standards Of Reporting Trials (CONSORT) flowchart and baseline
 comparability of the randomized groups have been published previously (Lewis et
 al.
 2011). In total, 601 participants were randomized
@@ -324,7 +325,8 @@ participants had moderate (n = 305) or severe depression
 completed by 91% (n = 546) of participants (citalopram:
 n = 274 and reboxetine: n = 272).
 
-BODY.RESULTS.ADHERENCE TO, AND DOSE OF, MEDICATION: Of those randomized to citalopram, 90% (n = 246) were still taking their
+BODY.RESULTS.ADHERENCE TO, AND DOSE OF, MEDICATION:
+Of those randomized to citalopram, 90% (n = 246) were still taking their
 medication at the time of the 6-week follow-up, compared with 72%
 (n = 195) of those randomized to reboxetine (difference: 18.4%, 95% CI
 12.0–24.8, p < 0.001). At the 6-week follow-up, 149 (55%) of those
@@ -338,13 +340,85 @@ increased by the GP only for a minority of participants [citalopram:
 n = 55 (20%); reboxetine: n = 13 (5%)] during the
 trial.
 
-BODY.RESULTS.ESTIMATES OF EFFECTIVENESS: Baseline and 6-week follow-up scores on the outcome measures according to allocated
-treatment group, in those who completed the 6-week follow-up
+BODY.RESULTS.ESTIMATES OF EFFECTIVENESS:
+Among the 546 participants who completed the 6-week follow-up, their mean BDI score at
+baseline was 33.6 (s.d. = 9.7). The corresponding figures by trial arm are given
+in Table 1. In an ITT analysis (Table 2), there was only weak evidence to suggest
+that those randomized to reboxetine had a worse outcome. On average, those on reboxetine
+scored one point higher on the BDI, although the 95% CI included no difference between
+groups. The results of the effectiveness analyses for the other mental health outcome
+measures (HADS total and anxiety/depression subscales; SF-12 mental subscale) were
+consistent with this (Table 2). Hence, those
+randomized to receive reboxetine had, on average, a higher score on the HADS (total and
+subscales) and a lower score on the SF-12 mental subscale, indicative of a worse outcome.
+Indeed, for the SF-12 mental health subscale, those randomized to reboxetine had a mean
+score that was, on average, two points lower compared to those randomized to receive
+citalopram. The CI surrounding this estimate excluded the possibility of no difference.
+There was little evidence for any difference in outcome in terms of physical health (SF-12
+physical subscale score) between those randomized to receive reboxetine compared to
+citalopram (Table 2). Table 1.Baseline and 6-week follow-up scores on the outcome measures according to allocated
+treatment group, in those who completed the 6-week follow-upOutcomeTime pointCitalopram
+(n = 274)
+a
+Reboxetine
+(n = 272)Mean
+s.d.
+Mean
+s.d.
+BDIBaseline34.29.333.110.06 weeks18.910.819.611.1HADS TotalBaseline26.16.025.56.46 weeks17.28.318.08.4HADS AnxietyBaseline13.33.413.13.86 weeks9.34.29.74.4HADS DepressionBaseline12.83.812.44.16 weeks7.94.98.35.0SF-12 MentalBaseline23.97.624.37.86 weeks39.211.937.212.4SF-12 PhysicalBaseline47.211.547.411.16 weeks48.210.647.810.2BDI, Beck Depression Inventory; HADS, Hospital Anxiety and Depression Scale;
+SF-12, 12-item Short-Form Health Survey; s.d., standard deviation.an = 273 for SF-12 scores.
+Table 2.Differences in outcomes at 6 weeks from analysis of treatment effectiveness and
+estimates of efficacy from SMM models that account for differential non-adherence to
+allocated treatmentEstimates of effectiveness from
+analyses conducted according to the ITT principleAdherence-adjusted efficacy
+estimatesOutcome
+n
+Adjusted difference in means
+a
+95% CIp value
+n
+Adjusted difference in means
+a
+95% CIp valueBDI5461.19−0.52 to 2.900.17541−0.29−3.04 to 2.460.84HADS Total5461.16−0.16 to 2.470.095431.23−0.71 to 3.170.22HADS Anxiety5460.56−0.09 to 1.210.095430.57−0.43 to 1.570.27HADS Depression5460.60−0.17 to 1.370.135430.62−0.50 to 1.740.28SF-12 Mental545−2.22−4.21 to –0.220.03543−2.53−5.55 to 0.500.10SF-12 Physical545−0.54−1.86 to 0.770.42543−0.61−2.52 to 1.310.53ITT, Intention-to-treat; BDI, Beck Depression Inventory; HADS, Hospital Anxiety
+and Depression Scale; SF-12, 12-item Short-Form Health Survey; CI, confidence
+interval.aAdjusted for centre, baseline severity strata (Clinical Interview
+Schedule – Revised, CIS-R) and baseline score for outcome measure.Difference is reboxetine minus citalopram. A positive difference for BDI and HADS
+(and a negative difference for SF-12 outcomes) indicates that those on reboxetine
+have a worse outcome than those on citalopram.
 
 BODY.RESULTS.EFFECT OF IMPUTING MISSING OUTCOMES AS ‘NON-RECOVERY’ OR USING AN LOCF APPROACH TO
-HANDLING MISSING OUTCOME DATA ON ESTIMATES OF EFFECTIVENESS: Examining the effect of different approaches to handling missing outcome data on
+HANDLING MISSING OUTCOME DATA ON ESTIMATES OF EFFECTIVENESS:
+There was little evidence of a difference in the binary outcome of 'recovery' (BDI
+score < 10 at 6 weeks) using observed data collected (irrespective of adherence to
+allocated medication) for 91% of GENPOD participants at 6 weeks when data were analysed
+using an ITT approach (Table 3). Table 3.Examining the effect of different approaches to handling missing outcome data on
 the difference between treatment groups (estimates of effectiveness) in the presence
-of differential adherence to treatment  Applying the assumption that those who stopped their medication had a poor outcome to the
+of differential adherence to treatmentOutcomeAnalysisCitalopramReboxetineDifference between
+groups OR (95% CI)
+a
+p value
+N
+n (%)
+N
+n (%)'Recovery' (BDI score < 10)ITT on observed data (n = 546)27460 (21.9)27261 (22.4)0.95 (0.62 to 1.44)0.79Using observed outcome data for those who were
+continuing to take their allocated medication at 6 weeks and assuming that
+those who had stopped their allocated medication had not recovered
+(n = 546)27455 (20.1)27244 (16.2)0.70 (0.45 to 1.10)0.12As above and assuming those with missing outcome
+data were also non-responders (n = 601)29855 (18.5)30344.9 (14.5)0.70 (0.45 to 1.09)0.11
+N
+Mean (s.d.)
+N
+Mean (s.d.)Difference in means (95% CI)
+a
+BDI scoreITT on observed data (n = 546)27418.9 (10.8)27219.6 (11.1)1.19 (−0.52 to 2.90)0.17Using observed outcome data for those who were
+continuing to take their allocated medication at 6 weeks and using an LOCF
+approach to carry forward the baseline BDI score for those who had stopped
+their allocated medication (n = 546)27420.2 (11.8)27222.6 (12.0)3.01 (1.18 to 4.85)0.001BDI, Beck Depression Inventory; ITT, intention-to-treat; LOCF, last observation
+carried forward; OR, odds ratio; CI, confidence interval; s.d., standard
+deviation.aAdjusted for centre, baseline severity strata (Clinical Interview
+Schedule – Revised, CIS-R) and baseline BDI score.Difference is reboxetine minus citalopram. An OR < 1 for 'recovery' or a
+positive difference for differences in BDI scores indicates that those on
+reboxetine have a worse outcome compared to those on citalopram.  Applying the assumption that those who stopped their medication had a poor outcome to the
 GENPOD data demonstrated that differential adherence to medication between arms introduced
 bias such that the outcome for those randomized to reboxetine appeared worse [odds ratio
 (OR) for response 0.70, 95% CI 0.45–1.10)]. Additional imputation of a poor outcome for
@@ -354,7 +428,8 @@ randomized to reboxetine was three points higher on the BDI (more depressed) com
 those randomized to citalopram. Analysis of the observed outcome data at 6 weeks provided
 only weak evidence for a difference in outcome between the groups (Table 3).
 
-BODY.RESULTS.ADHERENCE-ADJUSTED EFFICACY ESTIMATES: The analyses identified several predictors of outcome and adherence within the GENPOD
+BODY.RESULTS.ADHERENCE-ADJUSTED EFFICACY ESTIMATES:
+The analyses identified several predictors of outcome and adherence within the GENPOD
 dataset (see the online Appendix). As expected, for all outcomes, the strongest predictor
 of outcome was the baseline measurement. In terms of predictors of adherence, those from a
 non-white ethnic background were less likely to adhere to medication, whereas those who
@@ -370,8 +445,38 @@ mental subscale, although the CI included the possibility of no difference. Howe
 was no evidence of a difference in efficacy between the two treatments based on the other
 outcomes including the BDI.
 
-BODY.RESULTS.SENSITIVITY ANALYSES FOR THE ADHERENCE-ADJUSTED EFFICACY ESTIMATES: Sensitivity analyses around adherence-adjusted instrumental variable (IV) efficacy
-estimates of the mean difference in outcome between treatment groups  There was no evidence to support an interaction between severity of depression (or
+BODY.RESULTS.SENSITIVITY ANALYSES FOR THE ADHERENCE-ADJUSTED EFFICACY ESTIMATES:
+The results of the sensitivity analyses examining the effect of removing predictors of
+adherence from the final SMM IV models for all outcomes are summarized in Table 4. Although the adjusted difference in means
+between treatment groups varied according to the list of predictors of adherence included
+in the SMM model (for some outcomes more than others), the estimates were broadly
+consistent when the CIs were compared. Table 4.Sensitivity analyses around adherence-adjusted instrumental variable (IV) efficacy
+estimates of the mean difference in outcome between treatment groupsOutcome 〈Y〉Method
+n
+Adjusted difference
+a
+ in mean 〈Y〉 score at 6 weeks95% CIp valueBDI'Adherence-adjusted' efficacy estimate541−0.29−3.04 to 2.460.84
+Excluding predictors of adherence from list of x2's one
+by one
+Ethnicity541−0.24−3.03 to 2.540.87Rapid heart beat541−0.17−2.94 to 2.600.90Marital status541−0.77−3.88 to 2.330.62History of depression541−0.46−3.34 to 2.420.76BFI conscientiousness score5410.29−2.59 to 3.160.84HADS Total'Adherence-adjusted' efficacy estimate5431.23−0.71 to 3.170.22
+Excluding predictors of adherence from list of x2's one
+by one
+Ethnicity5431.34−0.64 to 3.310.18Rapid heart beat5431.13−0.82 to 3.080.26Marital status5430.94−1.17 to 3.040.38History of depression5431.32−0.67 to 3.320.19BFI conscientiousness score5431.29−0.76 to 3.340.22HADS Anxiety'Adherence-adjusted' efficacy estimate5430.57−0.43 to 1.570.27
+Excluding predictors of adherence from list of x2's one
+by one
+Ethnicity5430.66−0.35 to 1.680.20Rapid heart beat5430.52−0.48 to 1.520.31Marital status5430.49−0.58 to 1.560.37History of depression5430.57−0.47 to 1.600.28BFI conscientiousness score5430.55−0.50 to 1.600.31HADS Depression'Adherence-adjusted' efficacy estimate5430.62−0.50 to 1.740.28
+Excluding predictors of adherence from list of x2's one
+by one
+Ethnicity5430.63−0.50 to 1.760.28Rapid heart beat5430.56−0.57 to 1.690.33Marital status5430.43−0.77 to 1.630.48History of depression5430.72−0.44 to 1.870.22BFI conscientiousness score5430.64−0.54 to 1.830.29SF-12 Mental'Adherence-adjusted' efficacy estimate543−2.53−5.55 to 0.500.10
+Excluding predictors of adherence from list of x2's one
+by one
+Ethnicity543−2.80−5.89 to 0.290.08Rapid heart beat543−2.29−5.32 to 0.750.14Marital status543−2.85−6.11 to 0.410.09History of depression543−2.97−6.10 to 0.170.06BFI conscientiousness score543−2.01−5.21 to 1.190.22SF-12 Physical'Adherence-adjusted' efficacy estimate543−0.61−2.52 to 1.310.53
+Excluding predictors of adherence from list of x2's one
+by one
+Ethnicity543−0.83−2.80 to 1.130.41Rapid heart beat543−0.65−2.57 to 1.270.51Marital status5430.13−1.95 to 2.210.90History of depression543−0.96−2.97 to 1.050.35BFI conscientiousness score543−0.82−2.84 to 1.200.43BDI, Beck Depression Inventory; HADS, Hospital Anxiety and Depression Scale;
+SF-12, 12-item Short-Form Health Survey; BFI, Big Five Inventory; CI, confidence
+interval.aAdjusted for centre, baseline severity strata (Clinical Interview
+Schedule – Revised, CIS-R) and baseline score for outcome measure.  There was no evidence to support an interaction between severity of depression (or
 genotype) and response to antidepressant in the GENPOD trial (Lewis et al.
 2011; Wiles et al.
 2012). Therefore, excluding severity as a
@@ -380,7 +485,8 @@ interaction between severity of depression and adherence to medication (for test
 equality of coefficients: interaction between severity and adherence to
 citalopram/reboxetine, p = 0.27).
 
-BODY.DISCUSSION: We have demonstrated how to implement the SMM approach described by Fischer et
+BODY.DISCUSSION:
+We have demonstrated how to implement the SMM approach described by Fischer et
 al. (2011) in a standard statistical
 software package to obtain an unbiased estimate of treatment efficacy for a trial comparing
 two active treatments. Analysis was straightforward once suitable covariates for the SMM
@@ -417,7 +523,8 @@ than these and, except for the results for the SF-12 mental subscale, we can the
 exclude the possibility of a clinically important difference between citalopram and
 reboxetine in those who can tolerate the medications.
 
-BODY.DISCUSSION.STRENGTHS AND LIMITATIONS: The SMM approach used depends on finding baseline covariates that predict adherence
+BODY.DISCUSSION.STRENGTHS AND LIMITATIONS:
+The SMM approach used depends on finding baseline covariates that predict adherence
 differently in the two randomized groups but that may be assumed not to modify the causal
 effect of treatment. Bias would occur if the latter assumption failed. In addition, it is
 assumed that the average outcome does not depend on treatment assignment (the 'exclusion
@@ -439,7 +546,8 @@ largest primary care depression trials conducted. Nonetheless, despite its large
 is of note that estimates obtained from models based on instrumental variables methods
 remain imprecise.
 
-BODY.DISCUSSION.COMPARISONS WITH EXISTING LITERATURE FOR COMPARATIVE EFFECTIVENESS OF ANTIDEPRESSANTS: Meta-analyses have suggested that reboxetine may be less effective than other
+BODY.DISCUSSION.COMPARISONS WITH EXISTING LITERATURE FOR COMPARATIVE EFFECTIVENESS OF ANTIDEPRESSANTS:
+Meta-analyses have suggested that reboxetine may be less effective than other
 antidepressants (Cipriani et al.
 2009; Eyding et al.
 2010). However, in effectiveness analyses of data
@@ -456,7 +564,8 @@ to treatment may introduce bias in estimates of effectiveness, such that those o
 reboxetine seem to do worse. It is therefore important to continue to follow-up trial
 participants to collect outcome data even if they stop taking the trial medication.
 
-BODY.DISCUSSION.EXTENSIONS TO THE SMM METHODOLOGY: We have described the SMM approach for estimating efficacy for a singly-measured
+BODY.DISCUSSION.EXTENSIONS TO THE SMM METHODOLOGY:
+We have described the SMM approach for estimating efficacy for a singly-measured
 quantitative outcome. For a repeated-measured quantitative outcome, a structural nested
 mean model could be used (Robins, 1994). For a
 binary outcome, the SMM approach can be used to estimate risk differences, but if interest
@@ -475,7 +584,8 @@ trials comparing two active treatments and also requires adherence to be binary.
 Dichotomizing a continuous adherence measure is usually undesirable (White et al.
 2011).
 
-BODY.DISCUSSION.IMPLICATIONS AND FURTHER RESEARCH: It is common practice in RCTs of pharmacological interventions for participants not to be
+BODY.DISCUSSION.IMPLICATIONS AND FURTHER RESEARCH:
+It is common practice in RCTs of pharmacological interventions for participants not to be
 followed up if they stop taking the trial medication. Such a policy is at odds with
 conducting primary trial analyses according to the principle of ITT, and assumptions that
 are then made regarding missing data frequently bias estimates of effectiveness.  Differential non-adherence between treatment arms presents a particular challenge for
@@ -486,3 +596,6 @@ to take account of non-adherence to treatment when comparing two (or more) activ
 interventions. Such methods will generate an unbiased estimate of the difference in
 treatment efficacy that is of value to the clinician in terms of describing the likely
 outcomes when drugs are both taken, and tolerated, by patients.
+
+BODY.SUPPLEMENTARY MATERIAL:
+Supplementary MaterialSupplementary information supplied by authors.Click here for additional data file.
