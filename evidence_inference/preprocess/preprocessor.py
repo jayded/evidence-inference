@@ -38,11 +38,12 @@ EVIDENCE_END = "Evidence End"
 STUDY_ID_COL = "PMCID"
 VALID_LABEL = "Valid Label"
 VALID_REASONING = "Valid Reasoning"
+USE_PLAIN_TEXT = False
 
 def get_article(article_id):
     xml_str = "PMC{}.nxml".format(article_id)
     xml_path = os.path.join(base_XML_path, xml_str)
-    return article_reader.Article(xml_path)
+    return article_reader.Article(xml_path, use_plain_text = USE_PLAIN_TEXT)
 
 def read_in_articles(article_ids=None):
 
@@ -133,14 +134,16 @@ def read_prompts():
     return prompts_df 
 
 
-def assemble_Xy_for_prompts(training_prompts, inference_vectorizer, lbls_too=False, annotations=None, sections_of_interest=None, include_sentence_span_splits = False): 
+def assemble_Xy_for_prompts(training_prompts, inference_vectorizer, lbls_too=False, annotations=None, sections_of_interest=None, include_sentence_span_splits=False, include_raw_texts=False): 
     Xy = []
     for prompt_id in training_prompts[PROMPT_ID_COL_NAME].values:
         if lbls_too:
             Xy_dict = inference_vectorizer.vectorize(training_prompts, prompt_id, 
-                                include_lbls=True, annotations_df=annotations, sections_of_interest=sections_of_interest, include_sentence_span_splits = include_sentence_span_splits)
+                                include_lbls=True, annotations_df=annotations, sections_of_interest=sections_of_interest, 
+                                include_sentence_span_splits=include_sentence_span_splits, include_raw_text=include_raw_texts)
         else:
-            Xy_dict = inference_vectorizer.vectorize(training_prompts, prompt_id, sections_of_interest=sections_of_interest, include_sentence_span_splits = include_sentence_span_splits)
+            Xy_dict = inference_vectorizer.vectorize(training_prompts, prompt_id, sections_of_interest=sections_of_interest, 
+                                include_sentence_span_splits=include_sentence_span_splits, include_raw_text=include_raw_texts)
         Xy.append(Xy_dict)
     return Xy
 
@@ -172,10 +175,11 @@ def test_document_ids():
             ids_dict[x] = x
         return ids_dict.keys()
 
-def get_train_Xy(train_doc_ids, sections_of_interest=None, vocabulary_file=None, include_sentence_span_splits = False):
+def get_train_Xy(train_doc_ids, sections_of_interest=None, vocabulary_file=None, include_sentence_span_splits=False, include_raw_texts=False):
     """ Loads the relevant documents, builds a vectorizer, and returns a list of training instances"""
     prompts = read_prompts()
     annotations = read_annotations()
+
 
     # filter out prompts for which we do not have annotations for whatever reason
     # this was actually just one case; not sure what was going on there.
@@ -191,12 +195,12 @@ def get_train_Xy(train_doc_ids, sections_of_interest=None, vocabulary_file=None,
     training_prompts = prompts[prompts[STUDY_ID_COL].isin(train_doc_ids)]
 
     training_prompts = pd.DataFrame(training_prompts)
-    train_Xy = assemble_Xy_for_prompts(training_prompts, inference_vectorizer, lbls_too=True, annotations=annotations, include_sentence_span_splits = include_sentence_span_splits)
+    train_Xy = assemble_Xy_for_prompts(training_prompts, inference_vectorizer, lbls_too=True, annotations=annotations, include_sentence_span_splits=include_sentence_span_splits, include_raw_texts=include_raw_texts)
 
     return train_Xy, inference_vectorizer
 
 
-def get_Xy(docids, inference_vectorizer: 'SimpleInferenceVectorizer', sections_of_interest=None, include_sentence_span_splits = False):
+def get_Xy(docids, inference_vectorizer: 'SimpleInferenceVectorizer', sections_of_interest=None, include_sentence_span_splits=False, include_raw_texts=False):
     prompts = read_prompts()
     annotations = read_annotations()
 
@@ -210,7 +214,7 @@ def get_Xy(docids, inference_vectorizer: 'SimpleInferenceVectorizer', sections_o
     prompts = pd.DataFrame(prompts)
 
     prompts = prompts[prompts[STUDY_ID_COL].isin(docids)]
-    Xy = assemble_Xy_for_prompts(prompts, inference_vectorizer, lbls_too=True, annotations=annotations, sections_of_interest=sections_of_interest, include_sentence_span_splits = include_sentence_span_splits)
+    Xy = assemble_Xy_for_prompts(prompts, inference_vectorizer, lbls_too=True, annotations=annotations, sections_of_interest=sections_of_interest, include_sentence_span_splits=include_sentence_span_splits, include_raw_texts=include_raw_texts)
     return Xy
 
 
@@ -238,7 +242,8 @@ class SimpleInferenceVectorizer:
         vectorized = [self.str_to_idx.get(token, unk_idx) for token in tokenized]
         return np.array(vectorized)
 
-    def vectorize(self, prompts_df, prompt_id, include_lbls=False, annotations_df=None, sections_of_interest=None, include_sentence_span_splits = False):
+    def vectorize(self, prompts_df, prompt_id, include_lbls=False, annotations_df=None, sections_of_interest=None, 
+                        include_sentence_span_splits=False, include_raw_text=False):
         """
         Vectorize the prompt specified by the ID.
         """
@@ -278,11 +283,15 @@ class SimpleInferenceVectorizer:
             if len(spans) > 0 and sections_of_interest is None:
                 # split into sentences, find which are evidence, and also encode all.
                 sentence_spans = []
-                if include_sentence_span_splits:
+                if include_raw_text or include_sentence_span_splits:
                     sen = split_into_sentences(article_id, article_text, self.sentence_splits)
-                    tmp = find_span_location(sen, [s[0] for s in spans], [e[1] for e in spans])
-                    for t in tmp:
-                        sentence_spans.append([self.string_to_seq(t[0]), t[1]])
+                    if include_raw_text:
+                        return_dict["all_article_sentences"] = sen 
+
+                    if include_sentence_span_splits:
+                        tmp = find_span_location(sen, [s[0] for s in spans], [e[1] for e in spans])
+                        for t in tmp:
+                            sentence_spans.append([self.string_to_seq(t[0]), t[1]])
                  
                 # encode the evidence spans 
                 evidence_spans = set()
@@ -298,7 +307,7 @@ class SimpleInferenceVectorizer:
                 return_dict['evidence_spans'] = evidence_spans
                 if include_sentence_span_splits:
                     return_dict['token_ev_labels'] = gen_exact_evid_array(sentence_spans, evidence_spans, return_dict, self.idx_to_str)
-                
+        
         return return_dict
 
     def decode(self, v):
