@@ -16,11 +16,12 @@ sys.path.append("../")
 from evidence_inference.preprocess.preprocessor import get_Xy, train_document_ids, test_document_ids, validation_document_ids, get_train_Xy                                                                    
 device = torch.device('cuda')
 
+print("loading train docs...")
 tr_ids = list(train_document_ids()) 
 train_Xy, inference_vectorizer = get_train_Xy(tr_ids, sections_of_interest=None, 
                                  vocabulary_file=None, include_sentence_span_splits=False, 
                                  include_raw_texts=True)
-
+print("done")
 
 val_ids = list(validation_document_ids())
 val_Xy  = get_Xy(val_ids, inference_vectorizer, include_raw_texts=True) 
@@ -30,11 +31,16 @@ def instances_from_article(article_dict, neg_samples=2, max_instances=6):
 
     def filter_empty(snippets):
         return [s for s in snippets if len(s)>1]
-
+    
+   
     evidence_snippets = filter_empty([snippet[1] for snippet in article_dict['y']])
     positive_snippets = evidence_snippets
+    
+    if len(positive_snippets) == 0:
+        print("no evidence snippets in an article!")
+        return ([], [])
 
-    max_pos = max_instances / (neg_samples + 1)
+    max_pos = max(1, max_instances / (neg_samples + 1))
 
     if len(evidence_snippets) > max_pos:
         positive_snippets = random.sample(evidence_snippets, int(max_pos))
@@ -45,9 +51,7 @@ def instances_from_article(article_dict, neg_samples=2, max_instances=6):
     all_snippets = filter_empty([snippet[-1] for snippet in article_dict['all_article_sentences']])
                       
     negative_snippets = random.sample(all_snippets, n_neg)
-
     instances, labels = positive_snippets + negative_snippets, [1]*n_pos + [0]*n_neg
-    
     return (instances, labels)
 
 
@@ -55,15 +59,17 @@ def train(train_Xy, n_epochs=4, batch_size=4): # val_Xy
     tokenizer = RobertaTokenizer.from_pretrained("allenai/biomed_roberta_base") 
     model     = RobertaForSequenceClassification.from_pretrained("allenai/biomed_roberta_base").to(device=device) 
     
-    from transformers import AdamW
-    optimizer = AdamW(model.parameters())
-
+    #from transformers import Adam, AdamW
+    #optimizer = AdamW(model.parameters())
+    optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
     
     best_val = np.inf
+    train_epoch_loss = 0
     for epoch in range(n_epochs):    
         model.train()
         print("on epoch ", epoch)
-        
+        train_epoch_loss = 0
+
         batch_X, batch_y = [], []
         cur_batch_size = 0
 
@@ -78,22 +84,28 @@ def train(train_Xy, n_epochs=4, batch_size=4): # val_Xy
             batch_y.extend(cur_y)
 
             cur_batch_size += len(cur_X)
-
-            if cur_batch_size == batch_size:
-                model.zero_grad()  
+            
+            if cur_batch_size >= batch_size:
+                optimizer.zero_grad()  
                 
-                batch_X_tensor = tokenizer.batch_encode_plus(batch_X, max_length=512, add_special_tokens=True, pad_to_max_length=True) #tokenizer.encode_plus(batch_X[:batch_size], add_special_tokens=True)
-                batch_y_tensor = torch.tensor(batch_y)
+                batch_X_tensor = tokenizer.batch_encode_plus(batch_X[:batch_size], max_length=512, add_special_tokens=True, pad_to_max_length=True) 
+                batch_y_tensor = torch.tensor(batch_y[:batch_size])
+            
                 loss, logits  = model(torch.tensor(batch_X_tensor['input_ids']).to(device=device), 
                                   attention_mask=torch.tensor(batch_X_tensor['attention_mask']).to(device=device), 
-                                  labels=torch.tensor(batch_y).to(device=device))
-                
+                                  labels=batch_y_tensor.to(device=device))
+                train_epoch_loss += loss.cpu().detach().numpy()
+ 
+                #import pdb; pdb.set_trace()
+                #print("batch loss: {}".format(loss))
                 loss.backward()
                 optimizer.step()
 
                 # empty out current batch
                 cur_batch_size = 0
                 batch_X, batch_y = [], []
+        
+        print("total epoch train loss {}".format(train_epoch_loss))
 
         ####
         # eval on val set
@@ -104,8 +116,8 @@ def train(train_Xy, n_epochs=4, batch_size=4): # val_Xy
         val_loss = 0
         for j, article in enumerate(val_Xy):
             val_X, val_y = instances_from_article(article, max_instances=batch_size)
-            val_X_tensor = tokenizer.batch_encode_plus(val_X, add_special_tokens=True, pad_to_max_length=True) #tokenizer.encode_plus(batch_X[:batch_size], add_special_tokens=True)
-            val_y_tensor = torch.tensor(val_y)
+            val_X_tensor = tokenizer.batch_encode_plus(val_X[:batch_size], max_length=512, add_special_tokens=True, pad_to_max_length=True) 
+            val_y_tensor = torch.tensor(val_y[:batch_size])
             
             loss, logits  = model(torch.tensor(val_X_tensor['input_ids']).to(device=device), 
                                   attention_mask=torch.tensor(val_X_tensor['attention_mask']).to(device=device), 
