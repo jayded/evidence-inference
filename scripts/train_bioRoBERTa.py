@@ -63,27 +63,23 @@ def train(train_Xy, n_epochs=4, batch_size=4): # val_Xy
     for epoch in range(n_epochs):    
         model.train()
         print("on epoch ", epoch)
-        # assemble a batch
+        
+        batch_X, batch_y = [], []
+        cur_batch_size = 0
+
         for i, article in enumerate(train_Xy):
-            if (i % 10) == 0: 
+            if (i % 100) == 0: 
                 print ("on article", i)
+           
+            # sample instances from current article
+            cur_X, cur_y = instances_from_article(article, max_instances=batch_size-cur_batch_size)
+                
+            batch_X.extend(cur_X)
+            batch_y.extend(cur_y)
 
-            # assemble a batch
-            batch_X, batch_y = [], []
-            cur_batch_size = 0
-            while cur_batch_size < batch_size:
-                cur_X, cur_y = instances_from_article(article, max_instances=batch_size-cur_batch_size)
-                if len(cur_X) == 0:
-                    print("no positive instances in article {}".format(i))
-                    break
-                batch_X.extend(cur_X)
-                batch_y.extend(cur_y)
+            cur_batch_size += len(cur_X)
 
-                cur_batch_size += len(cur_X)
-
-            if len(batch_X) == 0:
-                pass
-            else:
+            if cur_batch_size == batch_size:
                 model.zero_grad()  
                 
                 batch_X_tensor = tokenizer.batch_encode_plus(batch_X, max_length=512, add_special_tokens=True, pad_to_max_length=True) #tokenizer.encode_plus(batch_X[:batch_size], add_special_tokens=True)
@@ -91,9 +87,13 @@ def train(train_Xy, n_epochs=4, batch_size=4): # val_Xy
                 loss, logits  = model(torch.tensor(batch_X_tensor['input_ids']).to(device=device), 
                                   attention_mask=torch.tensor(batch_X_tensor['attention_mask']).to(device=device), 
                                   labels=torch.tensor(batch_y).to(device=device))
-                #print(loss)
+                
                 loss.backward()
                 optimizer.step()
+
+                # empty out current batch
+                cur_batch_size = 0
+                batch_X, batch_y = [], []
 
         ####
         # eval on val set
