@@ -18,7 +18,7 @@ device = torch.device('cuda')
 
 print("loading train docs...")
 tr_ids = list(train_document_ids()) 
-train_Xy, inference_vectorizer = get_train_Xy(tr_ids, sections_of_interest=None, 
+train_Xy, inference_vectorizer = get_train_Xy(tr_ids[:100], sections_of_interest=None, 
                                  vocabulary_file=None, include_sentence_span_splits=False, 
                                  include_raw_texts=True)
 print("done")
@@ -33,7 +33,7 @@ def instances_from_article(article_dict, neg_samples=2, max_instances=6):
         return [s for s in snippets if len(s)>1]
     
    
-    evidence_snippets = filter_empty([snippet[1] for snippet in article_dict['y']])
+    evidence_snippets = filter_empty([snippet[1].lower() for snippet in article_dict['y']])
     positive_snippets = evidence_snippets
     
     if len(positive_snippets) == 0:
@@ -60,6 +60,7 @@ def train(train_Xy, n_epochs=4, batch_size=4): # val_Xy
     model     = RobertaForSequenceClassification.from_pretrained("allenai/biomed_roberta_base").to(device=device) 
     
     #from transformers import Adam, AdamW
+    from transformers import AdamW
     #optimizer = AdamW(model.parameters())
     optimizer = torch.optim.SGD(model.parameters(), lr=0.01)
     
@@ -127,7 +128,7 @@ def train(train_Xy, n_epochs=4, batch_size=4): # val_Xy
             class_preds = torch.argmax(logits, dim=1).detach().cpu()
             total_correct += (class_preds == val_y_tensor).sum()
             total_preds += len(val_X)
-     
+        #import pdb; pdb.set_trace() 
         val_acc = total_correct / float(total_preds) # note that the baseline depends on neg samples
         print("val loss, acc after epoch {} is: {}, {}".format(epoch, val_loss, val_acc))
         if val_loss < best_val:
