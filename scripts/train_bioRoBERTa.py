@@ -20,7 +20,7 @@ train_Xy, inference_vectorizer = get_train_Xy(tr_ids, sections_of_interest=None,
 
 
 val_ids = list(validation_document_ids())
-val_Xy  = get_Xy(val_ids[:10], inference_vectorizer, include_raw_texts=True) 
+val_Xy  = get_Xy(val_ids, inference_vectorizer, include_raw_texts=True) 
 
 
 def instances_from_article(article_dict, neg_samples=2, max_instances=6):
