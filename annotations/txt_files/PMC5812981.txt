@@ -1,89 +1,94 @@
-Background
+TITLE: 
+Remote Collaborative Depression Care Program for Adolescents in Araucanía Region, Chile: Randomized Controlled Trial
+
+
+
+ABSTRACT.BACKGROUND:
 Despite evidence on efficacious interventions, a great proportion of depressed adolescents do not receive evidence-based treatment and have no access to specialized mental health care. Remote collaborative depression care (RCDC) may help to reduce the gap between needs and specialized mental health services.
 
-Objective
+ABSTRACT.OBJECTIVE:
 The objective of this study was to assess the feasibility, acceptability, and effectiveness of an RCDC intervention for adolescents with major depressive disorder (MDD) living in the Araucanía Region, Chile.
 
-Methods
+ABSTRACT.METHODS:
 A cluster randomized, assessor-blind trial was carried out at 16 primary care centers in the Araucanía Region, Chile. Before randomization, all participating primary care teams were trained in clinical guidelines for the treatment of adolescent depression. Adolescents (N=143; 13-19 years) with MDD were recruited. The intervention group (RCDC, N=65) received a 3-month RCDC treatment that included continuous remote supervision by psychiatrists located in Santiago, Chile’s capital city, through shared electronic health records (SEHR) and phone patient monitoring. The control group (enhanced usual care or EUC; N=78) received EUC by clinicians who were encouraged to follow clinical guidelines. Recruitment and response rates and the use of the SEHR system were registered; patient adherence and satisfaction with the treatment and clinician satisfaction with RCDC were assessed at 12-week follow-up; and depressive symptoms and health-related quality of life (HRQoL) were evaluated at baseline and 12-weeks follow-up.
 
-Results
+ABSTRACT.RESULTS:
 More than 60.3% (143/237) of the original estimated sample size was recruited, and a response rate of 90.9% (130/143) was achieved at 12-week follow-up. A mean (SD) of 3.5 (4.0) messages per patient were written on the SEHR system by primary care teams. A third of the patients showed an optimal adherence to psychopharmacological treatment, and adolescents in the RCDC intervention group were more satisfied with psychological assistance than those in EUC group. Primary care clinicians were satisfied with the RCDC intervention, valuing its usefulness. There were no significant differences in depressive symptoms or HRQoL between groups. Satisfaction with psychological care, in both groups, was related to a significant change in depressive symptomatology at 12-weeks follow-up (beta=−4.3, 95% CI −7.2 to −1.3).
 
-Conclusions
+ABSTRACT.CONCLUSIONS:
 This is the first trial of its kind in Latin America that includes adolescents from vulnerable backgrounds, with an intervention that proved to be feasible and well accepted by both patients and primary care clinicians. Design and implementation issues may explain similar effectiveness across arms. The effectiveness of the intervention seems to be comparable with an already nationwide established treatment program that proved to be highly efficacious under controlled conditions.
 
-Trial Registration
+ABSTRACT.TRIAL REGISTRATION:
 ClinicalTrials.gov: NCT01860443; https://clinicaltrials.gov/ct2/show/NCT01860443 (Archived by WebCite at http://www.webcitation.org/6wafMKlTY)
 
-Introduction
-Adolescent Depression in Primary Care
+BODY.INTRODUCTION:
+BODY.ADOLESCENT DEPRESSION IN PRIMARY CARE:
 At least 8% of adolescents attending primary care centers have probable major depressive disorder (MDD) [1]. Characterized by marked symptoms of low mood and anhedonia [2], adolescent MDD is associated with suicidal ideation [3,4], subsequent alcohol and illicit drug use [5], and poor living standards and worse mental health in adulthood [6,7]. Despite the burden of adolescent depression and the availability of efficacious interventions [8-10], a great proportion of adolescents with MDD do not receive evidence-based treatment or get no treatment at all [11,12].
 Primary care has a major role in the delivery of depression treatment for adolescents [13]. The collaborative care model, defined as the team-driven, population-focused, measurement-guided, and evidence-based provision of care [14], has been regarded as one of the best approaches in integrated behavioral health [15]. Its effectiveness in treating adolescents with MDD has also been demonstrated, achieving significant improvements in depressive symptoms and global functioning [16,17]. However, most evidence comes from trials conducted in the United States [16-20], with multifaceted interventions to provide mental health care to mostly non-Hispanic white and urban adolescents [17-20].
 
-The Chilean Case: the Use of Technologies and Collaborative Care for Depression
+BODY.THE CHILEAN CASE: THE USE OF TECHNOLOGIES AND COLLABORATIVE CARE FOR DEPRESSION:
 Chile, a developing country with a growing income inequality [21], has made substantial efforts during the past decades to improve mental health services, providing one of the first examples of an evidence-based depression intervention being scaled up in resource-constrained settings [22,23]. Yet, primary care providers’ barriers to treating depression [24] coupled with the uneven geographical distribution of mental health resources, which especially affects low-income people living in hard-to-reach areas [25], make the Chilean case worth studying.
 Being a country with an above-average digital connectivity [26], the use of information and communication technologies (ICTs) in Chile may help overcome the inequity of access to mental health resources. According to international evidence, ICTs have made it possible to effectively assist underserved populations through remote collaborative care programs [27,28], obtaining results comparable with face-to-face interventions in the management of depression that have mostly benefited white rural adults [29,30]. No adolescent-specific electronic mental health collaborative care for depression has been tested before.
 This study tested the feasibility, acceptability, and effectiveness of a remote collaborative care program delivered by primary and specialized mental health teams to enhance the management of adolescent MDD in the Araucanía Region, an underserved area of Chile.
 
 
-Methods
-Study Design
+BODY.METHODS:
+BODY.STUDY DESIGN:
 This was an assessor-blind, 2-group, cluster randomized (1:1 ratio) clinical trial, carried out in the Araucanía Region, Chile. Randomization was conducted using computer-generated random numbers.
 
-Setting, Participants, and Eligibility Criteria
+BODY.SETTING, PARTICIPANTS, AND ELIGIBILITY CRITERIA:
 Araucanía Region is the poorest administrative division of Chile (20.7% of households living below the poverty line) and has the highest proportion of ethnic minorities and rural population [31,32]. Compared with the national average, children and adolescents of the region live in precarious material conditions and suffer from the highest suicide rates, with 6.7 deaths due to suicide per 100,000 inhabitants [32]. Temuco, the capital city of Araucanía Region, is located 380 miles south of Santiago, Chile’s capital city.
 This clinical trial was conducted in 16 primary care centers located in the Araucanía Region. These centers were required to have an Internet connection, receive no psychiatric consulting services for children or adolescents, and ensure the recruitment of 15 depressed adolescents over a 13-month period. The health centers entered the study after being authorized by their boards of directors and receiving the informed consent of at least one family physician and one psychologist from each health team.
 Adolescents aged between 13 and 19 years with suspected depression were invited (face-to-face) to participate in the study by their primary care teams; the informed consent of those over 18 years and the informed assent of minors along with their parents’ or primary caregivers’ informed consent were obtained. A child and adolescent psychiatrist in Santiago verified over the telephone that the adolescents could be diagnosed with depression and not psychotic depression, bipolar disorder, comorbidity with substances and or or alcohol dependence, or suicide risk requiring immediate specialized treatment. To do this, the semistructured clinical interview MINI-KID (Mini-International Neuropsychiatric Interview For Children and Adolescents) was used, which enables researchers to make a diagnostic assessment in children and adolescents according to the criteria of International Statistical Classification of Diseases and Related Health Problems, 10th Revision, and Diagnostic and Statistical Manual of Mental Disorders, 4th Edition [33].
 
-Interventions
-Computer-Based Remote Depression Training for Health Teams
+BODY.INTERVENTIONS:
+BODY.COMPUTER-BASED REMOTE DEPRESSION TRAINING FOR HEALTH TEAMS:
 Before the random assignment, all the health teams received a Web-based training to improve their early detection of depression in adolescents and increase their access to timely and effective treatment. The training program was designed by 2 psychiatrists, 1 psychologist, and 1 social worker from Universidad de Chile’s Faculty of Medicine. It was aimed at presenting a comprehensive approach to depression and suicide in adolescence and a critical assessment of the key recommendations issued by the Chilean Ministry of Health to overcome problems usually encountered in clinical practice when treating depression in adolescents.
 This program was delivered over 30 hours, during which teaching activities were conducted using audiovisual material to present clinical cases. In addition, the participating health teams were encouraged to participate actively in discussion forums. The participants’ learning outcomes were assessed with online written worksheets in which they were requested to apply their clinical judgment to tackle the clinical cases presented earlier and a multiple-choice test that considered the material covered in the program.
 
-Remote Collaborative Depression Care for Adolescents
+BODY.REMOTE COLLABORATIVE DEPRESSION CARE FOR ADOLESCENTS:
 A remote collaborative depression care (RCDC) program for adolescents introduced shared electronic health records (SEHR) to improve communication between the clinicians in the Araucanía Region and the team of child and adolescent mental health specialists of Universidad de Chile’s Faculty of Medicine, operating via an Internet platform in a secure virtual environment provided by the faculty. The SEHR functioned as a discussion forum allowing for personalized, confidential, and real-time interaction between the primary care teams and the specialists to assist the former during the diagnostic process and the treatment of the acute phase of the disorder.
 In addition, after each patient’s data was entered into his or her SEHR, a structured phone monitoring system hosted by Universidad de Chile’s Faculty of Medicine was implemented by a psychologist trained in Santiago. Phone calls were done at 1, 2, 3, 6, and 9 weeks post baseline assessment, each lasting for about 5 to 10 min per adolescent and his/her primary caregiver. Contents of this component included monitoring of symptoms and adherence to pharmacological treatment, assessment of side effects of medications, evaluation of the quality of the therapeutic relationship, and agreements on the goals and tasks of the therapy. If patients could not be contacted, several attempts were made on different days of the week and times of the day, with no restrictions imposed on the number of attempts. This made it possible to triangulate the information obtained from the primary care teams, thus providing the specialists with other elements to be included in the online assistance sessions.
 
-Enhanced Usual Care
+BODY.ENHANCED USUAL CARE:
 The clinicians in the Araucanía Region centers that were randomly assigned to the control group were encouraged to follow the recommendations of the Ministry of Health of Chile for the management of adolescent depression and also received the main conclusions of the baseline diagnostic assessment.
 
 
-Assessments
+BODY.ASSESSMENTS:
 The feasibility of the project was assessed in terms of achieving the recruitment targets, the attrition rates at 12 weeks, and the use of SEHR by the primary care teams.
 The acceptability of the intervention was assessed by comparing rates of pharmacological adherence and user satisfaction with the components of the treatment displayed by each group at 12-week follow-up. In addition, data reflecting the satisfaction of the primary care teams with the RCDC were analyzed.
 Outcomes regarding the acceptability of the intervention were assessed as follows: Pharmacological adherence was assessed with a brief structured interview, asking patients whether their physician prescribed medications and whether those medications were taken correctly during the last 4 days and, if not, with the reasons for nonadherence. User satisfaction with treatment was evaluated through a self-reported questionnaire with a 7-point Likert scale, which included 5 items to rate treatment, facilities, medical care, psychological care, and nonprofessional staff treatment. For clinicians in the active group, the use of SEHR was noted and an RCDC satisfaction questionnaire was administered.
 The primary outcome with respect to the effectiveness of the RCDC was assessed with mean Beck Depression Inventory (BDI) [34] scores at 12 weeks after treatment started. The BDI is a self-reported questionnaire for assessing depressive symptoms in people aged 13 years and older [34], which has been previously used in Chile [35]. The secondary outcome was change in health-related quality of life (HRQoL) at 12 weeks measured through the KIDSCREEN-27 questionnaire [36]. The KIDSCREEN-27 questionnaire measures the frequency or intensity of behaviors, feelings, or attitudes of the adolescent about different aspects of his/her everyday life during the previous week [36]. This questionnaire has been validated in Chile [37].
 Patient baseline data and outcomes at 12-week follow-up were evaluated via telephone by a trained consultant at Universidad de Chile’s Faculty of Medicine, who was blinded to treatment allocation.
 
-Statistical Analysis
-Sample Size
+BODY.STATISTICAL ANALYSIS:
+BODY.SAMPLE SIZE:
 On the basis of previous studies [35,38], a sample size of 237 depressed adolescents was needed to detect a difference between groups in terms of an expected reduction in mean Beck scores of 3.2 points across arms at 12 weeks, representing approximately one-third of SD difference. This sample size has a power of 82%, with a one-sided alpha of .05.
 
-Data Analysis
+BODY.DATA ANALYSIS:
 Descriptive analyses for relevant variables were conducted for the total sample and for each group separately to assess the balance across arms after randomization. Fisher exact test and independent samples t test were used to compare differences in patient adherence and treatment satisfaction between groups. Primary and secondary outcomes are described in terms of mean and SD pre- and postintervention. The magnitude of the effect of the intervention was evaluated using regression models, which included a random effect to account for intracluster correlations within primary care centers. Univariate and multivariate models were employed. Multivariate models included the baseline outcome value and variables that were not well balanced after randomization. Furthermore, using the same regression models, we explored the relevance of other health care features on the magnitude of change on the primary outcome. Regression coefficients are presented with their respective 95% CIs. Because missing primary outcome values were less than 7%, a sensitivity analysis was not conducted. All analyses were conducted using R 3.1.1 (R Foundation for Statistical Computing, Vienna, Austria) and its package lme4 for multilevel analysis. This trial has been reported in accordance to the CONSORT-EHEALTH guidelines [39].
 
 
-Ethics
+BODY.ETHICS:
 The study was approved by the Committee of Human Research Ethics of Universidad de Chile’s Faculty of Medicine (Nº 080-2012), the Committee of Scientific Ethics of the North Araucanía Health Service, and the Committee of Scientific Ethics of the South Araucanía Health Service. The study allowed for participants’ voluntary withdrawal with no adverse consequences. The local teams treating the participants, both in the active and in the control groups, were informed of cases in which high suicide risk or any other high-risk situations were detected for them to carry out the necessary actions.
 
 
-Results
-Sample Characteristics
+BODY.RESULTS:
+BODY.SAMPLE CHARACTERISTICS:
 The sample comprised 143 adolescents with MDD. Most of the participants were women (81.1%), aged 15.4 years (SD 1.6), living with both parents (47.6%), and of middle-low socioeconomic status (45.5%). Of the participants, 46.9% reported having had at least one mental health problem in their life, whereas 37.8% reported the same regarding one of their close relatives. Table 1 shows the baseline sociodemographic characteristics and clinical information of the sample, stratified by treatment group (enhanced usual care or EUC or RCDC). Significant differences exist between the groups in terms of socioeconomic status (P=.03).
 
-Feasibility
-Recruitment and Follow-Up
+BODY.FEASIBILITY:
+BODY.RECRUITMENT AND FOLLOW-UP:
 In total, 16 primary care centers participated in the study; one of these withdrew and was replaced. The participating health care centers were able to identify 178 adolescents with suspected depression and managed to recruit 143 eligible individuals, which represents 60.3% of the initially projected sample size. Of the participants, 45.5% received the RCDC intervention, whereas 54.5% received EUC (Figure 1).
 At 12-week follow-up, 5 cases (6.4%) in EUC were lost to follow-up, and there was no lost to follow-up in RCDC (Figure 1).
 
-Use of Shared Electronic Health Records
+BODY.USE OF SHARED ELECTRONIC HEALTH RECORDS:
 The team of child and adolescent mental health specialists wrote on the Internet platform a mean (SD) of 9.9 (4.2) times per patient, ranging from 3 to 28 messages, throughout the study period (12 weeks). The experts helped by providing continuous training for the health staff, general recommendations about actions and strategies to be implemented, and specific case management guidelines. They covered the following areas: assessment of depressive symptoms, medical treatment of depression (pharmacological and nonpharmacological), and psychosocial interventions. Their specific indications covered aspects such as confidentiality and its limits, sexual and reproductive health counseling, and working with family and school support networks.
 Regarding the primary care teams, it was observed that those in the RCDC group wrote a mean (SD) of 3.5 (4.0) messages per patient. In 13 of the cases assigned to the RCDC group, 20% of the adolescents receiving RCDC, the clinicians from primary care teams wrote no messages, whereas in 16.7% of cases they did so only once.
 
 
-Acceptability
-Patient Adherence and Treatment Satisfaction
+BODY.ACCEPTABILITY:
+BODY.PATIENT ADHERENCE AND TREATMENT SATISFACTION:
 In general, nearly one-third of the sample displayed a regular intake of the psychoactive medications prescribed (n=44). No significant differences were observed across groups at 12-week follow-up in terms of adherence to pharmacological treatment (Fisher exact test P value=.98). Satisfaction outcomes reached 6 points on a scale from 1 to 7, with no differences across arms. Satisfaction with psychological care was the only aspect of treatment satisfaction that displayed a significant difference between the groups (Wilcoxon rank-sum test P value=.04), with the RCDC intervention scoring higher (Table 2).
 In addition, patients in the active group received a mean (SD) of 3.8 (1.0) monitoring phone calls lasting 5 to 10 min each. On a scale from 1 (worst) to 7 (best), patients assigned a mean (SD) score of 6.2 (1.2) to the usefulness of these calls and 6.2 (1.2) to how comfortable they felt with the phone monitoring.
 Table 1Baseline characteristics of the sample.
@@ -273,15 +278,15 @@ aEUC: enhanced usual care.
 bCases providing complete data and analyzed.
 cPossible scores ranging from 1 (worst) to 7 (best).
 
-Clinician Satisfaction With Remote Collaborative Depression Care
+BODY.CLINICIAN SATISFACTION WITH REMOTE COLLABORATIVE DEPRESSION CARE:
 The primary care teams in the active group assessed the following aspects of the RCDC intervention: (1) usefulness for clinical work—mean (SD) score 6.3 (1.0), ranging from 3 to 7 on a scale from 1 (worst) to 7 (best), mode 7; (2) usefulness for patients—mean score 6.5 (0.7), range 4 to 7, mode 7; and (3) comfort level of the Internet platform—mean score 6.0 (1), range 4 to 7, mode 7.
 In addition, the main positive aspects, difficulties, and suggestions regarding the RCDC voiced by the primary care clinicians in the active group are summarized in Textbox 1.
 
 
-Effectiveness
-Depressive Symptoms and Health-Related Quality of Life
+BODY.EFFECTIVENESS:
+BODY.DEPRESSIVE SYMPTOMS AND HEALTH-RELATED QUALITY OF LIFE:
 No significant differences were observed across arms at 12-week follow-up in terms of depressive symptomatology or HRQoL before and after adjusting for baseline values and when introducing socioeconomic variables (Table 3).
-Main positive aspects, difficulties, and suggestions regarding the remote collaborative depression care (RCDC) intervention stated by clinicians in the active group.
+BODY.MAIN POSITIVE ASPECTS, DIFFICULTIES, AND SUGGESTIONS REGARDING THE REMOTE COLLABORATIVE DEPRESSION CARE (RCDC) INTERVENTION STATED BY CLINICIANS IN THE ACTIVE GROUP.:
 Positive aspects
 The preintervention training was useful.
 The Internet platform is an innovative resource.
@@ -372,47 +377,47 @@ aBeck Depression Inventory score at 12-week follow-up.
 bEnhanced usual care or remote collaborative depression care.
 cBaseline Beck Depression Inventory score.
 
-Model for Change in Depressive Symptoms at 12-Week Follow-Up
+BODY.MODEL FOR CHANGE IN DEPRESSIVE SYMPTOMS AT 12-WEEK FOLLOW-UP:
 Changes in depressive symptomatology at 12-week follow-up were explored with a regression model that considered the group to which the participants belonged, their baseline depressive symptomatology (according to BDI score), sex, age, ethnicity, rurality, and satisfaction with the psychological care received. Results show that (1) for each extra point in baseline depressive symptomatology (according to BDI scores), a reduction of 0.5 points in depressive symptomatology is expected at 12 weeks, keeping the value of the other variables constant and (2) for each additional point in satisfaction with the psychological care received, a reduction of 4.3 points in depressive symptomatology is expected at 12 weeks, keeping the value of the other variables constant. The interaction between the groups to which participants were randomized and their satisfaction with the care received was not significant (Table 4).
 
 
 
-Discussion
-Principal Findings
+BODY.DISCUSSION:
+BODY.PRINCIPAL FINDINGS:
 This clinical trial, conducted in 16 primary care centers located in vulnerable areas, far from the Chile’s capital city, achieved recruitment rates of 60% of the initially projected sample and high response rates at 12-week follow-up (90.9%). The RCDC intervention significantly surpassed EUC in terms of user satisfaction with psychological treatment. Phone monitoring, a component of the intervention, was well received by the adolescents, and the primary care teams perceived that the intervention was useful and provided them with innovative tools for the comprehensive management of adolescent depression.
 However, over one-third of the clinicians of the primary care teams had little or no participation on the Internet platform, and only one-third of the patients displayed an adequate adherence to the pharmacological treatment. Clinicians who participated in the RCDC group identified some obstacles in primary mental health care that may compromise the integrity of the intervention. Finally, at 12-week follow-up, RCDC for the treatment of adolescent depression did appear to have equivalent effectiveness compared with EUC, achieving comparable levels of depressive symptoms and HRQoL. Overall, more severe cases seemed to benefit more from treatment, as well as those who felt more satisfied with the psychological care received.
 
-Strengths of the Study
+BODY.STRENGTHS OF THE STUDY:
 This is the first report of a cluster randomized trial in a Latin American country that tests the feasibility, acceptability, and effectiveness of an ICT-assisted collaborative depression care intervention for the management of depressed adolescents from vulnerable backgrounds in remote areas lacking specialized mental health services.
 Being able to train primary care teams and remotely implementing a complex intervention involving multiple components (RCDC) in several health care centers in a highly vulnerable area constitutes a major achievement, especially considering that the intervention was well received by the participants, increasing local teams’ trust and fostering a positive perception of the adolescent depression treatment provided.
 Therefore, this study contributes to scientific knowledge in multiple ways: not only does it respond to the marked lack of research equality in the field of depression in vulnerable populations [40], but it also addresses the sore need to generate mental health–related learning opportunities aimed at primary care professionals in Latin America and the Caribbean [41] and helps tackle the limited access to current scientific and technological advances available to health care teams and individuals from remote areas, thus expanding clinicians’ problem-solving toolkit.
 
-Limitations of the Study
+BODY.LIMITATIONS OF THE STUDY:
 However, this study has several design and implementation limitations that need be solved before conducting a larger clinical trial with suitable statistical power to draw conclusive results for the assessment of the effectiveness of the intervention.
-Baseline Characteristics of the Primary Care Clinics Not Assessed
+BODY.BASELINE CHARACTERISTICS OF THE PRIMARY CARE CLINICS NOT ASSESSED:
 As the groups were not matched according to the characteristics of the participating primary care teams, there is a possibility that EUC practices performed better regarding depression management than RCDC practices before the project started. Additionally, the initial training of EUC clinicians might have improved their ability to treat depression. Both the characteristics of the participating health care providers and the robustness of the usual care provided have been identified to play a role in the effects of similar interventions [15,42].
 
-Inadequate Statistical Power
+BODY.INADEQUATE STATISTICAL POWER:
 Only 60% of the initially projected sample was recruited. The most likely explanation of this is the high turnover of clinicians in remote areas and the service pressure in usual practice, which limited the health care teams’ ability to identify mental health problems in the population that they serve. To solve this issue, the researchers tried several strategies, such as expanding the recruitment period from 13 to 22 months, carefully reviewing the processes for detecting depressed adolescents in health care centers to strengthen their comprehensive assessment (eg, in sexual and reproductive health checkups conducted by midwives), establishing contact with nearby schools, and training personnel to detect and refer potentially depressed students.
 
-Integrating Innovations Into Real-World Primary Care Settings
+BODY.INTEGRATING INNOVATIONS INTO REAL-WORLD PRIMARY CARE SETTINGS:
 The use of the SEHR was a highly innovative tool aimed at improving the communication between health teams; however, it was not integrated into the daily routine of the participating physicians, and a limited time scheduled for this activity had to be negotiated with the local authorities. Moreover, the primary care teams were working in a context of high patient demand and regular staff turnover. Thus, registering patient information in the SEHR may have been experienced as burdensome by some of the physicians, partly explaining the low use of this system.
 Over the course of the study, the researchers tried to complement the SEHR with more frequent in-person assistance to strengthen the bond and increase coordination between the local teams and specialists. However, this trial aimed to be pragmatic and to simulate real-life conditions rather than implement a highly complex, multifaceted intervention with high involvement of qualified study personnel, as those conducted in the United States [16,17]. In future implementations, if the integration of the SEHR into the currently working information system is not possible, it will be necessary, at least, to define protected time for using the Internet platform, explore elements that could make it more user-friendly, and possibly incorporate videoconferencing functionalities, depending on resource availability.
 
-Patients’ Preferences and Staff Stability
+BODY.PATIENTS’ PREFERENCES AND STAFF STABILITY:
 The low percentage of patients who displayed satisfactory adherence to the pharmacological treatment prescribed may compromise the integrity of the intervention, although this issue must be contextualized. Studies conducted in other depressed populations in Chile highlight the role of beliefs and attitudes toward medication in treatment adherence[43], and it is plausible that adolescents coming from highly vulnerable areas—as those participating in this study—are specially prone to noncompliance because of a combination of biological, psychological, and social factors.[44]. Moreover, the high turnover of clinicians in remote areas, especially physicians, along with the difficulties of training the incoming health care personnel could have resulted in a level of antidepressant prescription higher than that recommended by physicians without suitable training for managing adolescent depression.
 It is noteworthy that one of the differences between the groups in terms of user satisfaction concerned psychological treatment and that this was a significant predictor for a decrease in depressive symptoms at 12-week follow-up in both groups. This component of both interventions was provided by the most stable personnel in Chilean primary care teams—psychologists. Therefore, psychologists could play a more relevant role in future interventions of this type. However, it is worthwhile to mention that as no other treatment process outcome was assessed in this trial, it is not clear what may have been the cause(s) of these differences favoring the RCDC intervention in terms of satisfaction and why this apparent advantage did not translate into differences in depressive symptoms across groups. As such, future studies of this type must integrate such assessments.
 
-Other Issues
+BODY.OTHER ISSUES:
 This study used a short follow-up period at the end of acute phase of treatment according to national guidelines [45], whereas studies employing longer intervention and follow-up periods have reported that collaborative care for depressed adolescents is effective [16,17,19]. Finally, it is known that depression management in primary care settings is suboptimal [11], and RCDC was further hampered by barriers related to patient (low consultation and adherence rates), provider (lack of time/interest to participate), and system issues (high clinician turnover). Therefore, the RCDC intervention may have lacked intensity and or or duration to cause the desired effect. Finally, it seems the RCDC group had a higher proportion of adolescents from more vulnerable backgrounds, with significant differences in socioeconomic status but also observable differences in terms of ethnicity and rurality. The intervention has not been adapted to treat this vulnerable population, and although evidence shows that school-aged children from minority ethnic groups may be at higher risk for depression [46], collaborative depression care programs have been shown to reduce racial disparities in adults [47].
 
 
-Implications for Practice and Research
+BODY.IMPLICATIONS FOR PRACTICE AND RESEARCH:
 The implementation of this clinical trial in primary care centers in a vulnerable region of Chile was hindered by some structural characteristics of health services in the country. The high turnover level observed in health care teams, particularly involving physicians, prompts the need to develop a continuous distance training system that enables health care professionals who have recently joined a center to manage depressed adolescents. Likewise, the greater stability of psychologists in remote health care teams could make it possible to provide them with more intensive training in effective psychotherapy approaches for treating adolescent depression. Also, given their continuity, future initiatives could explore their role as case managers in charge of conducting a more thorough patient follow-up.
 On the other hand, one of the main complaints received regarding the intervention concerned the user-friendliness of the Internet platform, the lack of time available to input case data and coordinate the teams, and the need to have specialists working in person with the primary care teams. In this respect, many primary care centers have electronic patient records; therefore, if specialists could establish contact using this medium, the intervention would become more user-friendly while also saving the local teams some time.
 Research on collaborative care for the management of depression in adolescents is relatively scarce and limited to the United States. This clinical trial, carried out in a Latin American country, shows that these programs can be implemented in resource-poor settings and with vulnerable populations, reaching adequate acceptability levels among health care teams and patients. However, this study also highlights the difficulties involved in carrying out research in remote areas where the service pressure is high. The low levels of identification of depression conspired against achieving the targeted sample size.
 
-Conclusions
+BODY.CONCLUSIONS:
 It is feasible to implement a remote collaborative program for the management of depression among vulnerable adolescents from areas with poor access to specialized mental health services. The intervention was shown to be acceptable for the participants and showed a promising way to reduce the mental health care gap in remote areas. Before conducting a future clinical trial with enough statistical power to assess the program’s effects on users’22,23].
 
 

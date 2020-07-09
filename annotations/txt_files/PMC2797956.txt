@@ -1,20 +1,25 @@
-OBJECTIVE
+TITLE: 
+Closed-Loop Insulin Delivery Using a Subcutaneous Glucose Sensor and Intraperitoneal Insulin DeliveryFeasibility study testing a new model for the artificial pancreas
+
+
+
+ABSTRACT.OBJECTIVE:
 Attempts to build an artificial pancreas by using subcutaneous insulin delivery from a portable pump guided by an subcutaneous glucose sensor have encountered delays and variability of insulin absorption. We tested closed-loop intraperitoneal insulin infusion from an implanted pump driven by an subcutaneous glucose sensor via a proportional-integral-derivative (PID) algorithm.
 
-RESEARCH DESIGN AND METHODS
+ABSTRACT.RESEARCH DESIGN AND METHODS:
 Two-day closed-loop therapy (except for a 15-min premeal manual bolus) was compared with a 1-day control phase with intraperitoneal open-loop insulin delivery, according to randomized order, in a hospital setting in eight type 1 diabetic patients treated by implanted pumps. The percentage of time spent with blood glucose in the 4.4–6.6 mmol/l range was the primary end point.
 
-RESULTS
+ABSTRACT.RESULTS:
 During the closed-loop phases, the mean ± SEM percentage of time spent with blood glucose in the 4.4–6.6 mmol/l range was significantly higher (39.1 ± 4.5 vs. 27.7 ± 6.2%, P = 0.05), and overall dispersion of blood glucose values was reduced among patients. Better closed-loop glucose control came from the time periods excluding the two early postprandial hours with a higher percentage of time in the 4.4–6.6 mmol/l range (46.3 ± 5.3 vs. 28.6 ± 7.4, P = 0.025) and lower mean blood glucose levels (6.9 ± 0.3 vs. 7.9 ± 0.6 mmol/l, P = 0.036). Time spent with blood glucose <3.3 mmol/l was low and similar for both investigational phases.
 
-CONCLUSIONS
+ABSTRACT.CONCLUSIONS:
 Our results demonstrate the feasibility of intraperitoneal insulin delivery for an artificial β-cell and support the need for further study. Moreover, according to a semiautomated mode, the features of the premeal bolus in terms of timing and amount warrant further research.
 
 In patients with type 1 diabetes, the near-normal glucose control required to prevent long-term complications (1,2) remains difficult to achieve (3). Indeed, the incidence of hypoglycemia increases when glucose control approaches normal glucose levels (4). For this reason the development of an “artificial pancreas” has been a goal for >30 years (5,6).
 An artificial β-cell requires three elements: a continuous insulin delivery device, a continuous glucose monitoring system, and a control algorithm linking insulin delivery to glucose measurements (3,7,8). The recent development of better performing continuous glucose sensors renewed the potential feasibility of closed-loop insulin delivery (9–11). Short-term initiatives in the clinical research setting were reported in recent years but showed some limitations (12–14). Key limiting factors were, first, delays in the modulation of insulin action related to subcutaneous infusion and, second, time lags in glucose detection due to either the placement of the sensors in the interstitial compartment of subcutaneous tissue or the internal structure of implanted intravenous sensors (15). To reduce glucose deviations at mealtimes, a hybrid option of closed-loop insulin delivery includes a manual priming bolus (16).
 Reported benefits of intraperitoneal insulin infusion from implantable pumps include fast insulin action and low basal plasma insulin levels, resulting in tight glucose control and a low incidence of hypoglycemic events (17). The feasibility of automated closed-loop insulin delivery from implantable pumps has been demonstrated in clinical trials performed with the Long-Term Sensor System, which coupled these devices with an intravenous glucose sensor (18).
 Our approach to optimize closed-loop glucose control includes the use of closer to physiological intraperitoneal insulin delivery, subcutaneous glucose sensing, and a proportional-integral-derivative (PID) algorithm with a manual premeal bolus, resulting in a hybrid PID (HyPID) system. The objective of this study was to test the feasibility of such an approach. We investigated patients in the same controlled hospital setting while testing the HyPID system and when following their usual self-management. This approach marks a difference from the previously reported closed-loop trials, which considered home-use periods for comparison with in-clinic closed-loop studies (13,16).
-RESEARCH DESIGN AND METHODS
+BODY.RESEARCH DESIGN AND METHODS:
 Eight patients with type 1 diabetes, treated by an implanted pump using intraperitoneal delivery (model MMT-2007D; Medtronic Diabetes, Northridge, CA) and infusing U-400 regular insulin (Insuplant; sanofi-aventis, Paris, France) for at least 3 months, were enrolled. Inclusion criteria were the following: age 18–70 years, insulin delivery within 15% of expected accuracy for the 60 days preceding the trial, plasma anti-insulin antibody level <30% according to a radioimmunoassay of free and total anti-insulin antibody using a technique adapted from that of Palmer et al. (19), written informed consent, and health insurance coverage by the French Social Security System. Exclusion criteria were pregnancy, breast feeding, plasma creatinine >150 μmol/l, serum alanine aminotransferase and aspartate aminotransferase above twice the highest limit of the normal range, total blood Hb <12 g/dl, any cardiovascular event during the last 6 months, any evolving ischemic or proliferative diabetic retinopathy on eye fundus examination for the previous year, and any known or suspected allergy to glucose sensor components.
 The study protocol was approved by the regional ethics committee Comité de Protection des Personnes Sud Mediterranée IV, Montpellier, France, on 11 September 2007. The study was authorized by Agence Française de Sécurité Sanitaire des Produits de Santé on 29 November 2007 and registered under the reference number 2007-A00696-47 (www.afssaps.sante.fr).
 Subjects were admitted to the hospital for a total of 86 h, which was divided into a preparation phase (14 h), a control (open-loop) phase (24 h), and a closed-loop phase (48 h). The order of the control and closed-loop phases was randomized.
@@ -128,7 +133,7 @@ Time spent with blood glucose (mmol/l)
 Data are arithmetic means ± SEM and 95% CI.
 During the 48-h closed-loop phase, the pump's insulin infusion rate was automatically modulated according to the algorithm. Sensor glucose data and insulin delivery rate were monitored in real time and were patient blinded. Fifteen minutes before meals, a manually programmed insulin bolus, consisting of 30% of the amount the patient would have programmed according to premeal blood glucose levels and meal carbohydrate content, was delivered.
 For safety purposes, CBG tests were also performed every hour from 800 to 2200 and every 2 hours from 2200 to 800. In addition, each time the sensor glucose value decreased to <4.4 mmol/l (80 mg/dl) or increased to >13.2 mmol/l (240 mg/dl) and when patients reported symptoms of suspected hypoglycemia, a CBG test was performed. It should be noted that procedures to respond to hypoglycemia and sustained hyperglycemia were also followed during the control phase, although at home the subject might not have such close monitoring.
-System considerations
+BODY.SYSTEM CONSIDERATIONS:
 The closed-loop system is made up of three components: a subcutaneous glucose sensor, the insulin delivery algorithm (running on a laptop computer), and the intraperitoneal insulin infusion pump. The computer receives sensor data using a radiofrequency protocol and sends commands to the pump using the Bluetooth protocol. A modified personal pump communicator, set up to receive commands from a Bluetooth adapter, was used instead of the personal pump communicator used by the patient. The pump was then set to the minimum allowed basal infusion rate of 0.2 unit/h, with the algorithm delivering discrete 0.2-unit boluses as calculated based on real-time sensor glucose measurements.
 The mathematical algorithm used to calculate the insulin delivery rate is based on a model of the multiphasic insulin response of a β-cell (20). The first version of this algorithm was described in Steil et al. (13). The version used in this study further incorporates the effect of insulin-inhibiting insulin secretion (i.e., insulin feedback) (21). The equations describing the model are
 
@@ -137,26 +142,26 @@ The mathematical algorithm used to calculate the insulin delivery rate is based 
 
  where u(n) is the insulin infusion rate calculated at time step n (which is every 1 min), and the notation (n −1) denotes the previous time step. The algorithm is tuned with the parameters KP, τI, τD, and γ and with α1, α2, and Kcl corresponding to the intraperitoneal insulin absorption kinetics. The term γIP corresponds to the inhibition by plasma insulin concentration on the delivery of insulin. Because the pump can only deliver insulin as single 0.2-unit boluses, the amount actually delivered by the pump (IB) is used to calculate the estimated plasma insulin concentration. The tuning parameters are individualized for each subject as a function of his or her total daily insulin dose. The target glucose level used for the algorithm was 100 mg/dl (5.5 mmol/l).
 
-Laboratory measurements
+BODY.LABORATORY MEASUREMENTS:
 Plasma glucose concentrations were measured by hexokinase assay (Olympus, Rungis, France). CBG measurements were performed using OneTouch Ultra meters and strips (LifeScan, Milpitas, CA). Plasma insulin was measured by a specific insulin assay (bi-insulin immunoradiometric assay; Schering CIS bio international, Gif sur Yvette, France).
 
-Assessment of glucose control
+BODY.ASSESSMENT OF GLUCOSE CONTROL:
 The primary end point was the percentage of time spent with blood glucose in the 4.4–6.6 mmol/l range. All analyses were done by using the laboratory blood glucose measurements unless otherwise noted. Secondary end points included the same index for the early postprandial periods and for the nonpostprandial periods; mean blood glucose for the overall experiment, for the early postprandial periods, and for the nonpostprandial periods; and percentage of time spent with blood glucose <3.3 mmol/l and >10 mmol/l.
 
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 Results are expressed as arithmetic means ± SEM or SD when specified and 95% CIs of differences. Means were compared using the Wilcoxon signed-rank test. The level of significance was set at P < 0.05. Calculations and statistical analysis were performed using SYSTAT 10 (SPSS, Chicago, IL).
 
 
-RESULTS
+BODY.RESULTS:
 Eight patients (seven male and one female) were enrolled. Patient characteristics were as follows (mean ± SD): age 59.8 ± 8.7 years, BMI 26.4 ± 3.4 kg/m2, diabetes duration 31.7 ± 15.1 years, treatment duration by implanted pump 8.5 ± 7.4 years, A1C 6.8 ± 1.0%, and daily insulin requirement 0.60 ± 0.21 units · kg–1 · day–1.
-Sensor accuracy
+BODY.SENSOR ACCURACY:
 Mean and median relative absolute differences (± SD) between paired sensor and laboratory blood glucose values were 15.9 ± 3.8 and 13.9 ± 2.9%, respectively, which are consistent with previous reports (16).
 
-Insulin delivery and algorithm assessment
+BODY.INSULIN DELIVERY AND ALGORITHM ASSESSMENT:
 The correlation coefficient (R2) between the measured and algorithm-estimated plasma-insulin levels was 0.730 ± 0.067. Data for each patient are shown in Fig. 1. In general, although the magnitude of the estimated levels is higher than that of the measured levels, the kinetics observed are well described by the model. The observed difference in the slope of the estimates versus the predictions may be due to specific aspects of intraperitoneal insulin infusion.
 Figure 1Correlations between measured (lab) and algorithm-estimated (model) plasma insulin levels during the closed-loop phases in each of the eight type 1 diabetic patients investigated by the HyPID system.
 
-Glucose control during control and closed-loop periods
+BODY.GLUCOSE CONTROL DURING CONTROL AND CLOSED-LOOP PERIODS:
 The distribution of blood glucose values and the mean blood glucose and plasma insulin levels are presented in Table 1. A significantly higher percentage of time was spent between 4.4 and 6.6 mmol/l during closed-loop versus control phases (39.1 ± 4.5 vs. 27.7 ± 6.2%, P = 0.05), although mean blood glucose shows no significant difference. No carryover phenomenon was detected.
 Tighter control was obtained for closed-loop phases in nonpostprandial periods, in which both mean blood glucose level and percentage of time spent with blood glucose between 4.4 and 6.6 mmol/l are significantly better. In contrast, early postprandial glucose control was similar during closed-loop and control periods. Of note, plasma insulin levels were significantly higher in nonpostprandial periods but significantly lower in early postprandial periods during closed-loop phases.
 In the nighttime period between 2200 and 800, mean blood glucose levels and percentage of time spent between 4.4 and 6.6 mmol/l were similar (Fig. 2A). A trend to better control was observed only from 2200 to 200 during closed-loop phases (6.2 ± 0.4 vs. 7.9 ± 0.9 mmol/l, P = 0.069). Data analysis in early postprandial periods showed similar glucose peak levels and time-to-glucose peak (Fig. 2B). However, for closed-loop phases, plasma insulin peak levels were significantly lower (29.7 ± 2.9 vs. 51.5 ± 8.4 mIU/l, P = 0.017) and the time to the plasma insulin peak was longer (79.9 ± 7.2 vs. 38.3 ± 7.2 min, P = 0.012). These differences were observed similarly with all three main meals (data not shown).
@@ -166,7 +171,7 @@ Figure 3Cumulative distribution of blood glucose values during closed-loop and c
 In terms of safety, 13 glucose deviations <4.4 mmol/l were detected by the patients through suggestive symptoms and/or identified early by the glucose sensors during closed-loop phases, and 3 were detected during control phases. All events occurred in nonpostprandial periods. Of note, after oral glucose administration (10 g on average), a trend for earlier correction of blood glucose was observed during closed-loop phases (82.67 ± 0.81 vs. 70.33 ± 0.19 mg/dl after 20 min).
 
 
-CONCLUSIONS
+BODY.CONCLUSIONS:
 
 The improved glucose control obtained during the closed-loop phases represents a valuable improvement for patients whose glucose was already well controlled as indicated by their initial A1C levels of 6.8 ± 1.0%, because it was achieved with minimal patient interaction with the system. The assessment of closed-loop effectiveness, measured by percentage of time spent in the tight near-normal glucose range, illustrates the usefulness of sensor- and algorithm-driven insulin infusion. Because hyperglycemic excursions have been associated with oxidative stress (22) and hypoglycemic deviations impair quality of life and can promote hypoglycemia unawareness, leading to the occurrence of severe hypoglycemia (23), an important goal for a closed-loop system is to reduce glucose deviations. In addition, reduced interpatient variability of glucose levels also merits notice. This result is valuable in terms of reproducibility and safety of the algorithm.
 The main benefit on glucose control during closed-loop phases was observed in time periods excluding the early postprandial (2-h) periods. Improvement of glucose control during these periods appears to be driven mainly by higher plasma insulin levels obtained by algorithm-driven insulin delivery. The trend to a quicker return to premeal glucose levels in the late postprandial periods, i.e., >2 h after meals, can be highlighted. However, despite the manual delivery of a premeal bolus during closed-loop phases, the early postprandial period remains a challenging situation that also was not solved in previously reported closed-loop experiments (14,15).

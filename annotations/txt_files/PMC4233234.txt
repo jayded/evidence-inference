@@ -1,4 +1,11 @@
-Introduction
+TITLE: 
+β-site amyloid precursor protein-cleaving
+enzyme 1(BACE1) inhibitor treatment induces Aβ5-X peptides through alternative amyloid
+precursor protein cleavage
+
+
+
+ABSTRACT.INTRODUCTION:
 The β-secretase enzyme, β-site amyloid precursor protein-cleaving
 enzyme 1 (BACE1), cleaves amyloid precursor protein (APP) in the first step in
 β-amyloid (Aβ) peptide production. Thus, BACE1 is a key target for candidate
@@ -8,7 +15,7 @@ levels of Aβ1-34 together with increased Aβ5-40, suggesting that these Aβ spe
 may be novel pharmacodynamic biomarkers in clinical trials. We have now examined
 whether the same holds true in humans.
 
-Methods
+ABSTRACT.METHODS:
 In an investigator-blind, placebo-controlled and randomized study,
 healthy subjects (n =18) were randomly assigned
 to receive a single dose of 30 mg of LY2811376 (n =6), 90 mg of LY2811376 (n =6),
@@ -16,13 +23,13 @@ or placebo (n =6). We used hybrid
 immunoaffinity-mass spectrometry (HI-MS) and enzyme-linked immunosorbent assays to
 monitor a variety of Aβ peptides.
 
-Results
+ABSTRACT.RESULTS:
 Here, we demonstrate dose-dependent changes in cerebrospinal fluid
 (CSF) Aβ1-34, Aβ5-40 and Aβ5-X after treatment with the BACE1-inhibitor LY2811376.
 Aβ5-40 and Aβ5-X increased dose-dependently, as reflected by two independent
 methods, while Aβ1-34 dose-dependently decreased.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 Using HI-MS for the first time in a study where subjects have been
 treated with a BACE inhibitor, we confirm that CSF Aβ1-34 may be useful in
 clinical trials on BACE1 inhibitors to monitor target engagement. Since it is less
@@ -32,11 +39,11 @@ measurement techniques, we also show that BACE1 inhibition in humans is associat
 with APP-processing into N-terminally truncated Aβ peptides via a
 BACE1-independent pathway.
 
-Trial registration
+ABSTRACT.TRIAL REGISTRATION:
 ClinicalTrials.gov NCT00838084. Registered: First received: January 23, 2009, Last updated: July
 14, 2009, Last verified: July 2009.
 
-Introduction
+BODY.INTRODUCTION:
 Alzheimer’s disease (AD) is a slowly progressing brain disease
 manifesting several neuropathological characteristics including accumulation of
 extracellular plaques, mainly composed of amyloid-β (Aβ) peptides of various lengths
@@ -67,8 +74,8 @@ Aβ1-34 and Aβ5-40 have potential utility as markers of BACE1 inhibition in cli
 research. Furthermore, the results strongly suggest that Aβ peptides starting at
 amino acid 5 are produced through a non BACE1-dependent pathway in humans.
 
-Methods
-Subjects
+BODY.METHODS:
+BODY.SUBJECTS:
 The study, conducted at PAREXEL International Early Phase Los
 Angeles, CA, USA, from February to June 2009, was previously reported in detail
 [17]. In brief, the study was a
@@ -87,7 +94,7 @@ administration and analyzed by immunoprecipitation in combination with mass
 spectrometry (MS). All CSF samples were collected in polypropylene tubes and
 stored at -80°C.
 
-Hybrid immunoaffinity-mass spectrometry
+BODY.HYBRID IMMUNOAFFINITY-MASS SPECTROMETRY:
 Immunoaffinity capture of Aβ species was combined with
 matrix-assisted laser desorption/ionization time-of-flight (MALDI-TOF) MS for
 analyzing a variety of Aβ peptides in a single analysis as described in detail
@@ -104,7 +111,7 @@ followed by averaging of results for separately determined duplicate samples. In
 the 30-mg group, one sample, six hours post treatment, was omitted from further
 analysis due to blood in the CSF.
 
-Cell experiments
+BODY.CELL EXPERIMENTS:
 SH-SY5Y cells [19]
 obtained from the European Collection of Cell Cultures (ECACC 94030304), stably
 expressing human APP, were maintained in Dulbecco’s modified Eagle’s medium F-12
@@ -114,7 +121,7 @@ L-glutamine and antibiotics. SH-SY5Y cells were treated with the BACE1-inhibitor
 [20], LY2811376, or dimethyl
 sulfoxide (DMSO) and incubated for 20 hours.
 
-Enzyme-linked immunosorbent assay
+BODY.ENZYME-LINKED IMMUNOSORBENT ASSAY:
 For quantification of Aβ5-40 and
 Aβ5-x using ELISA, microtiter plates were coated with
 10 μg/mL 2G3 [21]
@@ -151,7 +158,7 @@ Quantification of CSF sAPPα and sAPPβ was conducted as described
 previously and the results from these analyses have already published
 [17].
 
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 The time series for each treatment were analyzed using Friedman’s
 test (SPSS v13, Chicago, IL, USA). A dose-dependent effect was considered
 significant if P <0.05 and if the P-value decreased with increasing dose. Association
@@ -159,9 +166,9 @@ analyses were performed by Spearman’s rank correlation and the correlation
 coefficient is presented by spearman’s rho (rs).
 
 
-Results
-LY2811376 induces a characteristic Aβ peptide pattern in a human-derived
-neuroblastoma cell line
+BODY.RESULTS:
+BODY.LY2811376 INDUCES A CHARACTERISTIC AΒ PEPTIDE PATTERN IN A HUMAN-DERIVED
+NEUROBLASTOMA CELL LINE:
 As expected, SH-SY5Y cells treated with the BACE1-inhibitor
 LY2811376 or BACE IV secreted less Aβ1-40 and Aβ1-42 to the cell medium while the
 relative levels of Aβ5-40 (relative to the other Aβ peptides detected) increased,
@@ -178,8 +185,8 @@ unidentified peaks. Aβ, β-amyloid; BACE, β-site APP-cleaving enzyme; DMSO,
 dimethyl sulfoide.
 
 
-The BACE1 inhibitor LY2811376 causes a relative reduction in CSF Aβ1-34 and
-an increase in CSF Aβ5-40 in humans as reflected by mass spectrometry
+BODY.THE BACE1 INHIBITOR LY2811376 CAUSES A RELATIVE REDUCTION IN CSF AΒ1-34 AND
+AN INCREASE IN CSF AΒ5-40 IN HUMANS AS REFLECTED BY MASS SPECTROMETRY:
 To evaluate if the BACE1-mediated changes described in exploratory
 Aβ biomarker studies were translatable to humans, the CSF mass spectrometric Aβ
 peptide pattern from untreated subjects was compared to the pattern from subjects
@@ -223,8 +230,8 @@ and n =6 for both graphs. Aβ,
 number; SD, standard deviation.
 
 
-The BACE1-inhibitor LY2811376 causes an absolute increase in both CSF
-Aβ5-40 and Aβ5-X in humans as reflected by ELISA
+BODY.THE BACE1-INHIBITOR LY2811376 CAUSES AN ABSOLUTE INCREASE IN BOTH CSF
+AΒ5-40 AND AΒ5-X IN HUMANS AS REFLECTED BY ELISA:
 The increase in Aβ5-40 detected by mass spectrometry in response to
 treatment with the BACE1 inhibitor LY2811376 was further confirmed by a
 proprietary ELISA. While the placebo concentrations were low, in the range of
@@ -247,7 +254,7 @@ amyloid precursor protein.
 
 
 
-Discussion
+BODY.DISCUSSION:
 In the present study, we show marked effects on CSF Aβ5-40 (which
 increases) and Aβ1-34 (which decreases) in response to BACE1 inhibitor treatment.
 These findings confirm earlier pre-clinical data [9] and suggest that CSF Aβ5-40 and Aβ1-34 may be useful
@@ -315,7 +322,7 @@ we were not able to measure the expected decrease. However, by implementing
 isotopically-labelled Aβ peptides for each peptide of interest, relative small
 changes in response to treatment should be possible to detect with HI-MS.
 
-Conclusions
+BODY.CONCLUSIONS:
 In summary, our results confirm that CSF Aβ1-34 may be useful in
 clinical trials on BACE1 inhibitors to monitor target engagement. By independent
 measurement techniques, we show that BACE1 inhibition in humans is associated with

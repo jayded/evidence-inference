@@ -1,24 +1,29 @@
-Background:
+TITLE: 
+Reduced brain atrophy rates are associated with lower risk of disability progression in patients with relapsing multiple sclerosis treated with cladribine tablets
+
+
+
+ABSTRACT.BACKGROUND::
 Neuroimaging studies have used magnetic resonance imaging-derived methods to assess brain volume loss in multiple sclerosis (MS) as a reliable measure of diffuse tissue damage.
 
-Methods:
+ABSTRACT.METHODS::
 In the CLARITY study (ClinicalTrials.gov NCT00213135), the effect of 2 years’ treatment with cladribine tablets on annualized percentage brain volume change (PBVC/y) was evaluated in patients with relapsing MS (RMS).
 
-Results:
+ABSTRACT.RESULTS::
 Compared with placebo (–0.70% ± 0.79), PBVC/y was reduced in patients treated with cladribine tablets 3.5 mg/kg (–0.56% ± 0.68, p = 0.010) and 5.25 mg/kg (–0.57% ± 0.72, p = 0.019). After adjusting for treatment group, PBVC/y showed a significant correlation with the cumulative probability of disability progression (HR = 0.67, 95% CI = 0.571, 0.787; p < 0.001), with patients with lower PBVC/y showing the highest probability of remaining free from disability progression at 2 years and vice versa.
 
-Conclusions:
+ABSTRACT.CONCLUSIONS::
 Cladribine tablets given annually for 2 years in short-duration courses in patients with RMS in the CLARITY study significantly reduced brain atrophy in comparison with placebo treatment, with residual rates in treated patients being close to the physiological rates.
 
-Introduction
+BODY.INTRODUCTION:
 Multiple sclerosis (MS) is an inflammatory, demyelinating condition that affects the central nervous system and is associated with progressive disability progression. Although the pathological hallmark of MS is represented by the focal demyelinating lesions, there is compelling evidence suggesting that focal demyelinating lesions are only one part of MS pathology and that diffuse tissue damage also occurs throughout the whole central nervous system.1 This is mostly driven by a constant and relentless neurodegeneration leading to the accumulation of brain atrophy.2
 Neuroimaging studies have used magnetic resonance imaging (MRI)-derived methods to assess brain volume loss (BVL) in MS as a reliable measure of diffuse tissue damage.3 They have shown that BVL occurs since the earliest stages of MS, accumulates throughout the course of MS, and appears to be correlated with physical disability and cognitive impairment.3 In addition, some recent studies have shown that BVL can be reduced in patients with relapsing multiple sclerosis (RMS) under specific pharmacological treatments.3
 Against this background, we performed an exploratory analysis on the CLAdRIbine Tablets treating multiple sclerosis orallY (CLARITY) study. This was a phase-3, double-blind, placebo-controlled, multicenter trial in patients with RMS assessing the effects of cladribine tablets given annually over 2 years, with each annual treatment course consisting of 2 treatment weeks.4 We evaluated the effect of cladribine tablets on BVL over 2 years in RMS patients and the association of BVL with confirmed disability progression.
 
-Materials and methods
+BODY.MATERIALS AND METHODS:
 Details of the CLARITY study (ClinicalTrials.gov NCT00213135) have been previously published.4 Briefly, patients with RMS were randomized 1:1:1 to receive cladribine tablets 3.5 or 5.25 mg/kg of body weight or matching placebo for 2 years. MRI scans were obtained at the pre-study evaluation and after 6, 12, and 24 months. For the exploratory analysis performed here, BV measurements were performed on pre-gadolinium T1-weighted MRI scans, which reached adequate quality control procedures, by means of the Structural Image Evaluation using Normalization of Atrophy (SIENA) software.5 Data between months 0 and 6 were excluded from the calculation to avoid any potentially confounding influence of the paradoxical acceleration of BVL following the initiation of an anti-inflammatory therapy, referred to as pseudoatrophy.6 Percentage of brain volume changes (PBVC) between months 6 and 24 was compared among treatment arms by an analysis of variance model. Data were also expressed as annualized PBVC (PBVC/year) and calculated between months 6 and 24. The correlation between rates of PBVC/year and the risk of 3-month confirmed Expanded Disability Status Scale (EDSS)7 progression was analyzed by a Cox proportional hazard model, after adjusting for treatment effect.
 
-Results
+BODY.RESULTS:
 Demographic and clinical details of the 1326 patients with RMS included in the original study have been described previously.4 In this study, 1025 (77.3%) patients could be included in the BV exploratory analysis (cladribine tablets 3.5 mg/kg, n = 336; cladribine tablets 5.25 mg/kg, n = 351; placebo, n = 338). Data of 301 patients were not included in the study due to missing or inadequate acquisition of the pre-gadolinium T1-weighted MRI scans at one or more time-points (see Table 1 for demographic and clinical details of patients included and not included in the analysis).
 Table 1.Baseline demographics and clinical characteristics of patients included and not included in the analysis.
 VariablePatients included in the analysis (n = 1025)Patients not included in the analysis (n = 301)Age (years)
@@ -84,7 +89,7 @@ When the subgroup of patients who presented with gadolinium-enhancing lesions at
 When data from the whole group of patients were annualized, the mean PBVC/year (months 6–24) was also significantly reduced in patients treated with cladribine tablets 3.5 mg/kg (−0.56% ± 0.68%, p = 0.010, n = 336) and 5.25 mg/kg (−0.57% ± 0.72%, p = 0.019, n = 351) compared with patients treated with placebo (−0.70% ± 0.79%, n = 338).
 The risk of disability progression was significantly lower in patients treated with cladribine tablets 3.5 mg/kg (hazard ratio (HR) = 0.63, 95% confidence interval (CI) = 0.438, 0.894; p = 0.010) and 5.25 mg/kg (HR = 0.58, 95% CI = 0.406, 0.833; p = 0.003) than in those treated with placebo. After adjusting for treatment group, PBVC/year showed a significant correlation with the cumulative probability of disability progression in the overall study population (HR = 0.67, 95% CI = 0.571, 0.787; p < 0.001). By sub-dividing patients into PBVC/year tertiles, the tertile with the lowest BVL (PBVC/year > −0.4%) showed the highest rate of patients free from disability progression at 24 months (89%), and the tertile with the greatest BVL (PBVC/year < −1.08%) showed the lowest rate of patients free from disability progression (79%; Figure 1(c)).
 
-Discussion
+BODY.DISCUSSION:
 In the CLARITY study, patients treated with cladribine tablets showed significantly less annualized brain atrophy over 2 years than patients receiving placebo. This is in line with other RMS trials that have also shown significant BV reductions with disease-modifying therapies3 and provides further evidence of the need for treatments that target not only focal inflammation but also the diffuse brain tissue damage and neurodegeneration that occur over the course of MS.
 Since anti-inflammatory drugs used for the treatment of MS have often been associated with a paradoxical acceleration of BVL following the initiation of therapy (i.e. pseudoatrophy),6 we excluded here PBVC data from the first 6 months of the study. Indeed, PBVC data clearly showed a pronounced pseudoatrophy effect after therapy initiation. In line with this, no treatment effect on PBVC was shown in the subgroup of patients who presented with gadolinium-enhancing lesions at baseline, a finding similar to that reported in MS patients treated with other anti-inflammatory agents.8 In this context, it must be stressed that the assumption that pseudoatrophy occurs only during the first months of therapy is not necessarily valid, as the time course of pseudoatrophy is not completely understood.6 Indeed, there is the possibility that the accelerated BVL associated with the suppression of inflammation can continue even beyond 1 year.6 This may explain the relatively small treatment effect found in our study, suggesting that the neuroprotective effect of cladribine, as reflected by slowing of BVL between months 6 and 24, is still being underestimated and that the 2-year placebo-controlled observation period might not be long enough to fully evaluate this effect.
 In this study, we also assessed PBVC/year rates to be able to compare them to previously reported data.9 Both treatment arms of this study (0.56% and 0.57% for 3.5 and 5.25 mg/kg, respectively) were comparable to the PBVC/year rate (0.52%) reported in a recent longitudinal analysis of MRI data which used identical methodology (i.e., SIENA) and provided a 95% specificity in discriminating patients with MS from healthy controls and to have a prognostic value for discriminating patients who would develop disability progression in a long-term follow-up.9

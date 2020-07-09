@@ -1,47 +1,52 @@
-Objectives
+TITLE: 
+Comparison of canal transportation in simulated curved canals prepared with ProTaper Universal and ProTaper Gold systems
+
+
+
+ABSTRACT.OBJECTIVES:
 The purpose of this study was to assess the ability of ProTaper Gold (PTG, Dentsply Maillefer) in maintaining the original profile of root canal anatomy. For that, ProTaper Universal (PTU, Dentsply Maillefer) was used as reference techniques for comparison.
 
-Materials and Methods
+ABSTRACT.MATERIALS AND METHODS:
 Twenty simulated curved canals manufactured in clear resin blocks were randomly assigned to 2 groups (n = 10) according to the system used for canal instrumentation: PTU and PTG groups, upto F2 files (25/0.08). Color stereomicroscopic images from each block were taken exactly at the same position before and after instrumentation. All image processing and data analysis were performed with an open source program (FIJI). Evaluation of canal transportation was obtained for two independent canal regions: straight and curved levels. Student's t test was used with a cut-off for significance set at α = 5%.
 
-Results
+ABSTRACT.RESULTS:
 Instrumentation systems significantly influenced canal transportation (p < 0.0001). A significant interaction between instrumentation system and root canal level (p < 0.0001) was found. PTU and PTG systems produced similar canal transportation at the straight part, while PTG system resulted in lower canal transportation than PTU system at the curved part. Canal transportation was higher at the curved canal portion (p < 0.0001).
 
-Conclusions
+ABSTRACT.CONCLUSIONS:
 PTG system produced overall less canal transportation in the curved portion when compared to PTU system.
 
-Introduction
+BODY.INTRODUCTION:
 The use of nickel-titanium (NiTi) instruments has enhanced the overall shaping quality and the reduction of procedural errors, such as ledges, zips, perforations, and canal transportations.123 In short, NiTi files have raised new perspectives for mechanical canal preparation, such as less debris extrusion, better centering ability, and reduced learning curve.24 ProTaper Universal (PTU, Denstply Maillefer, Ballaigues, Switzerland) is a much studied rotary system made of conventional superelastic NiTi wire with convex triangular cross-sectional design and various percentage tapers over its length that enables active cutting motion and the removal of more dentin coronally.5 Recently, ProTaper Gold (PTG, Denstply Maillefer) was introduced onto the market. This new NiTi rotary system presents the same geometric design of PTU files, but is more flexible due to its development with proprietary advanced metallurgy and more resistance to fatigue.6
 Investigations of the shaping effect of these new NiTi systems are becoming more important to understand how the file design and alloy affect their performance. Simulated curved canals in resin blocks have been traditionally used to evaluate the aspects of the shaping ability, including canal transportation and centering ability of different NiTi systems.78 However, a major limitation of most of proposed evaluation methods is the need of operator intervention, by pre-selecting evaluation points, to obtain the transportation measurements. An interesting root transportation analysis in simulated canals has been recently proposed, where an automatic approach measuring the entire simulated canal without operator intervention was used.9 This innovative method provides much less operator input, and bias reduction by providing results from the whole canal length, not only from pre-selected slices.
 The present study was designed to assess the ability of PTG and PTU in maintaining the original profile of root canal anatomy using simulated resin block canals. The null hypothesis tested was that there are no significant differences in canal transportation among the tested NiTi rotary systems.
 
-Materials and Methods
-Digital image acquisition
+BODY.MATERIALS AND METHODS:
+BODY.DIGITAL IMAGE ACQUISITION:
 Twenty curved root canals simulated in clear resin blocks (Endo Training Blocks ISO 15, Dentsply Maillefer), with 2% taper, 10 mm radius of curvature, 60° angle of curvature and 17 mm length, were randomly assigned to 2 groups according to the instrumentation system (n = 10, PTU and PTG groups). Before any instrumentation procedures, a round silicon base with a rectangular slot was fit to the microscope base of a color stereomicroscope (1005t Opticam stereomicroscope, Opticam, São Paulo, Brazil) coupled to a digital camera (CMOS 10 megapixels, Opticam). The rectangular slot matched the exact dimensions of the simulated canal blocks. Each specimen was then inserted into the slot, and color images were taken and stored in TIFF format. After the instrumentation procedures, all blocks were imaged again following the same protocol.
 Ten resin blocks where no instrumentation was performed were used as a control group to check the reliability and consistency of the repositioning method. In this group, one color stereoscopic image of each block was taken. After that, the block was removed, and replaced back when another image was taken.
 
-Canal instrumentation
+BODY.CANAL INSTRUMENTATION:
 For all groups, a stainless steel 10 and 15 K-file (Dentsply Maillefer) scouted the canal up to the working length (WL), creating an initial and standardized glide path. In PTU group, each simulated curved canal was prepared with PTU instruments used at 300 rpm and torque of 150 - 520 gcm as recommended by the manufacturer. The following sequence was used: SX file (1/2 of the WL), S1 file, S2 file, F1 and F2 files (full WL). In PTG group, PTG instruments were used following the same protocol of PTU as mentioned above.
 All instrumentation procedures were performed by a single operator with experience in rotary and reciprocating motions, and only new instruments were used. Between each preparation step, apical patency was confirmed using a size 10 K-file just beyond the WL, and canals were irrigated with 1.0 mL sterile water using a 30-G side-vented needle (Max-i-Probe, Dentsply Rinn, Elgin, IL, USA) placed to a depth just short of binding. After final irrigation with 1.0 mL sterile water, post instrumentation images were taken as described earlier.
 
-Image processing and analysis
+BODY.IMAGE PROCESSING AND ANALYSIS:
 All image processing, registration, segmentation and extraction of attributes were performed within the FIJI open source software interface or one of its associated plugins.10 Image processing and analysis was based on a methodology previously described.9 Briefly, the images were first converted to 8-bit grayscale followed by registering each pair of images (baseline and after instrumentation) using the 'Rigid Registration' plugin.11 The baseline image was used as the template for the rigid transformation. A composite image from the baseline and instrumented canal after registration can be seen in Figure 1a.
 Each canal (baseline and instrumented) was then segmented from the background using an iterative polygon tracing tool. Each line segment was defined by the user following the geometry of the canal and aided by an automatic segmentation algorithm to appropriately define the edges. After polygon definition, a simple binarization scheme (0 for background, 255 for the defined polygon) was applied (Figure 1b). A skeletonization algorithm was then applied to the segmented images. This algorithm uses binary thinning (symmetrical erosion) for finding the centerlines (skeleton) of objects in the input image.12 An example of the final centerline of each baseline and instrumented canals is depicted in Figure 1c. The XY coordinates of each skeleton were exported to a spreadsheet. The difference between each XY coordinate for the baseline and the instrumented skeleton images were calculated using the formula: xb-xi2+yb-yi22 where xb and yb are the coordinates for the baseline canal and xi and yi are the coordinates for the instrumented canal.
 Transportation measurements were obtained by converting the obtained values to millimeters (mm) with the aid of the microscope magnification scale. Transportation values were then averaged for two independent regions (straight and curved levels, Figure 2).
 
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 Both canals portions generated several deviation values (straight = 26,360 and curved = 33,600), corresponding to each evaluated pixel. Each pixel has been considered as a unit for statistical analysis. Considering the data size, bell-shaped distribution has been assumed, and the t test for paired samples was used, with a cut-off significance level of α = 5%.
 
 
-Results
+BODY.RESULTS:
 No canal transportation was observed in the control group. Instrumentation systems significantly influenced canal transportation (p < 0.0001). Compared to the straight part of the simulated canal, transportation was higher at the curved canal portion (p < 0.0001). A significant interaction between instrumentation system and canal portion (p < 0.0001) indicated different effect patterns. Similar canal transportation was observed in PTU and PTG systems at the straight part, while PTG system resulted in lower transportation than PTU system at the curved part (Table 1).
 
-Discussion
+BODY.DISCUSSION:
 One of the main goals during root canal instrumentation is the achievement of a shape that tapers from apical to coronal, maintaining the original root canal anatomy.13 However, several procedural errors such as canal transportation can occur when shaping curved root canals.14 Therefore, it is important to evaluate the efficiency of instruments designed for root canal preparation. Thus, this study compared the ability of PTU and PTG systems in maintaining the original profile of canal anatomy in simulated curved canals.
 PTG system presented overall less canal transportation in the curved portion when compared to PTU system. Therefore, the null hypothesis was rejected. As PTU and PTG systems feature an identical geometric architecture and operation mode, this result may be solely explained by their different manufacturing processes (metallic alloy), which clearly affect their stress-strain distribution patterns and bending behaviours, making PTG files more flexible and decreasing their tendency to straighten in curved canals.6 Many studies have already shown that instruments that are more flexible produce more centered root canal preparations.2913 The present results are also in accordance with a recent study using micro-computed tomographic imaging that showed less transportation to the PTG when compared to PTU.15 Although its values were much lower than in curved parts, canal transportation in the straight parts of the simulated canals was also detected herein. Overall, this outcome is not unusual.9 As files were used to the full extent of the simulated canals (including the curved portion), they are prompted to rectify, creating wear on the opposite curvature wall, explaining transportation in the straight portion.
 Simulated artificial canals have been already validated as satisfactory model to study the shaping ability of endodontic instruments; it is especially attractive due to the full standardization of the canal anatomy.91617 However, the use of resin blocks have some limitations including the difference in the micro-hardness when compared to root dentin, and the possible side effects created by heat generation during instrumentation which may soften the resin material and binding of instrument cutting blades.18
 The present study used a recently described methodology to study transportation in simulated root canals by comparing registered images before and after instrumentation with different systems.9 This method considerably reduce bias related to a subjective visually-driven or operator-based image superimposition schemes and evaluation of canal transportation, since it is almost not dependent on user input. This also gives information from the whole canal length, not only from selected slices. Although the bidimensional approach stands for a clear limitation of the method, it is important to outline that current 3D-based techniques used to evaluate root canal transportation have not yet provided quantitative volumetric data, resulting in evaluation of limited selected slices and manual selection of center of gravity points.19202122
 
-Conclusions
+BODY.CONCLUSIONS:
 Under the conditions and within the limitations of the current study, it can be concluded that PTG system produced overall less canal transportation in the curved portion than PTU system.
 

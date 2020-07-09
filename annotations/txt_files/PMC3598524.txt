@@ -1,22 +1,27 @@
-Introduction
+TITLE: 
+Evaluation of airway management associated hands-off time during cardiopulmonary resuscitation: a randomised manikin follow-up study
+
+
+
+ABSTRACT.INTRODUCTION:
 Airway management is an important component of cardiopulmonary resuscitation (CPR). Recent guidelines recommend keeping any interruptions of chest compressions as short as possible and not lasting more than 10 seconds. Endotracheal intubation seems to be the ideal method for establishing a secure airway by experienced providers, but emergency medical technicians (EMT) often lack training and practice. For the EMTs supraglottic devices might serve as alternatives.
 
-Methods
+ABSTRACT.METHODS:
 40 EMTs were trained in a 1-hour standardised audio-visual lesson to handle six different airway devices including endotracheal intubation, Combitube, EasyTube, I-Gel, Laryngeal Mask Airway and Laryngeal tube. EMTs performances were evaluated immediately after a brief practical demonstration, as well as after 1 and 3 months without any practice in between, in a randomised order. Hands-off time was pair-wise compared between airway devices using a repeated-measures mixed-effects model.
 
-Results
+ABSTRACT.RESULTS:
 Overall mean hands-off time was significantly (p<0.01) lower for Laryngeal tube (6.1s; confidence interval 5.2-6.9s), Combitube (7.9s; 95% CI 6.9-9.0s), EasyTube (8.8s; CI 7.3-10.3s), LMA (10.2s; CI 8.6-11.7s), and I-Gel (11.9s; CI 10.2-13.7s) compared to endotracheal intubation (39.4s; CI 34.0-44.9s). Hands-off time was within the recommended limit of 10s for Combitube, EasyTube and Laryngeal tube after 1 month and for all supraglottic devices after 3 months without any training, but far beyond recommended limits in all three evaluations for endotracheal intubation.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 Using supraglottic airway devices, EMTs achieved a hands-off time within the recommended time limit of 10s, even after three months without any training or practice. Supraglottic airway devices are recommended tools for EMTs with lack of experience in advanced airway management.
 
-Introduction
+BODY.INTRODUCTION:
 Any delay in initiating chest compressions during cardiopulmonary resuscitation (CPR) reduces coronary and cerebral perfusion. Therefore, early chest compressions and establishment of a secure airway as soon as possible are recommended by the European Resuscitation Council (ERC) and the American Heart Association (AHA) [1,2]. Interruptions of chest compressions during CPR, represented by the so called “hands-off” time, should be kept as short as possible [2,3]. ERC guidelines suggest that skilled clinicians should be able to secure the airway fully without interrupting chest compressions or within a brief pause not exceeding 10 seconds [2]. A minimal hands-off time was shown to result in an up to 3-fold increase of survival of out of hospital cardiopulmonary arrest [4].
 In experienced hands, endotracheal intubation seems to be the optimal method for providing and maintaining a clear and secure airway during CPR [3]. Indeed, endotracheal intubation requires a high level of experience and regular re-training [5,6]. If conventional endotracheal intubation is performed rarely, up to 50% of intubation attempts will fail or will need repeated efforts [7]. Furthermore, repeated and prolonged laryngoscopy attempts are well-known contributors to morbidity and mortality [8]. Due to these facts and other research data, performing endotracheal intubation in the pre-hospital emergency setting has been questioned recently [9-11].
 Results of previous studies showed that supraglottic airway devices are easier to insert compared to endotracheal intubation, even during on-going CPR and in unskilled hands [12-14]. Therefore, ERC guidelines recommend supraglottic devices such as the Laryngeal Mask Airway (LMA) and the Combitube as alternatives to endotracheal intubation, especially in inexperienced hands [2].
 In many countries in Europe, practical experience of Emergency Medical Technicians (EMT) with conventional endotracheal intubation is low [15]. Therefore, we hypothesised that hands-off time for airway management during CPR would be significantly lower using supraglottic airway devices compared to conventional endotracheal intubation, when performed by inexperienced EMT`s and after a period without training.
 
-Methods
+BODY.METHODS:
 Following approval by the local Ethics Committee of the Medical University of Vienna, we recruited 40 active voluntary EMT`s of the Red Cross, regional association Burgenland, Austria without any advanced airway management training. In Austria, EMT`s are only educated in basic airway management skills including mouth-to-mouth and bag-valve ventilation. For advanced airway management, such as endotracheal intubation or placing a supraglottic airway device, further advanced education is required. Results of initial evaluation have already been published [12].
 After having given written consent, all EMT`s participated in an 1-hour standardised audio-visual lecture. The topics covered relevant aspects of anatomy, CPR and different techniques for securing the airway. The lecture was followed by a practical demonstration of insertion, cuff inflation and subsequent ventilation with a bag using each of the following devices:
 1. Laryngoscope guided endotracheal tube 7.5 mm I.D. (Mallinckrodt, Athlone, Ireland), reinforced with a stylet;
@@ -32,12 +37,12 @@ Practical performance was finished after announcement of successful insertion by
 One and three months later, all EMT`s participated in a second and a third evaluation using the identical study setting and equipment without any further theoretical or practical training.
 The primary outcome was to determine the average hands-off time over all three evaluations. Hands-off time was defined as the cumulative duration of CPR discontinuation during airway insertion. Interruptions lasting longer than 1.5 seconds were considered as the beginning of hands-off time. Hands-off time was automatically recorded by the manikin`s computer.
 The secondary outcomes were to determine the average number of intubation attempts, overall success rate (defined as correct placement of the device within a maximum of three attempts), and to record unrecognised misplacement. Data of secondary outcomes were recorded by the investigators.
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 A single CPR session (i.e. single evaluation of one EMT using one device) was used as the unit of analysis. We calculated repeated-measures mixed-effects models for pair-wise comparison between airway device groups (endotracheal intubation compared with each of the other devices) and paired t-test for comparison between different evaluations (first evaluation vs. second and third evaluation) of hands-off time and number of attempts, respectively. Furthermore, we used the chi-square test for analysing the percentage of successful intubations. The correction for multiple testing for all tests was performed according to Sidak [16]. Results are reported as the mean average (95% confidence intervals (CI)). A p-value of less than 0.05 was considered statistically significant. Overall success rate and unrecognised misplacements are reported as the proportion of total number of CPR sessions for each device.
 Based on the results of a previous study, we expected an average difference in hands-off time of 30% with a standard deviation of ± 30% between endotracheal intubation and supraglottic airway devices [12]. To show this difference with an alpha error of 0.05 and a power of 90% we needed to have a minimum of at least 30 participants. In order to take into account any potential loss of participants we included 40 EMT`s in this study. Gpower 3.1.4 (University of Kiel, Germany) was used for power calculation. Stata IC 10 (Stata Corp., College Station, Texas, USA) was used for all other analyses.
 
 
-Results
+BODY.RESULTS:
 This study was conducted between January and April 2011. Forty EMT`s (33 men and 7 women, age 26 ± 5 years) participated in all three evaluations, resulting in a total number of 120 CPR sessions for each device or 720 CPR sessions in total. Three CPR sessions (at first evaluation one Combitube, and at second evaluation one Combitube and one EasyTube) had to be excluded, because of technical problems with the cuffs (destroyed cuffs during previous intubation), resulting in a net of 717 CPR sessions available for analysis.
 The median of overall hands-off time was significantly higher for endotracheal intubation (39.4s; 95% CI 34.0-44.9s) compared to Laryngeal tube (6.1s; 5.2-6.9s), Combitube (7.9s; 6.9-9.0s), LMA (10.2s; 8.6-11.7s), EasyTube (8.8s; 7.3-10.3s), and I-Gel (11.9s; 10.2-13.7s) (Table 1).
 
@@ -208,7 +213,7 @@ The percentage of successful attempts for airway management within 10 seconds si
 Mean number of attempts for conventional endotracheal intubation was 1.9 (95% CI 1.8-2.1), which was significantly higher compared to Combitube (1.1; 1.1-1.2), EasyTube (1.2; 1.1-1.3), Laryngeal tube (1.2; 1.1-1.3), LMA (1.4; 1.3-1.5), and I-Gel (1.6; 1.5-1.8).
 During first evaluation, conventional endotracheal intubation was correctly performed 14 times, representing a success rate of 35%. Success rate increased to 23 (58%) and 28 successful insertions (70%) during second and third evaluation. Unrecognised misplacements occurred in 8 (20%), 7 (18%) and 6 (15%) intubation attempts. All supraglottic airway devices were successfully inserted in all three evaluations by all EMT`s, with the exception of one LMA unrecognised misplacement, and one recognised unsuccessful I-Gel insertion during second evaluation (Table 1).
 
-Discussion
+BODY.DISCUSSION:
 To our knowledge, our study is the first evaluating airway management associated hands-off time during CPR by EMT`s observing current CPR guidelines. Our main finding is that EMT`s successfully performed airway management using supraglottic airway devices within acceptable hands-off time, whereas conventional endotracheal intubation failed - also after several months without any theoretical or practical training.
 The hands-off time required for endotracheal intubation far exceeded current CPR guidelines. Although average hands-off time decreased during the study period, median hands-off time was still significantly beyond the recommended time frame. Only 15% of intubation attempts were within the time frame during the third evaluation. Success rate of conventional endotracheal intubation increased up to 70% during the third evaluation, but 15% of all intubation attempts led to unrecognised misplacement.
 Intubation in the pre-hospital setting is challenging. Therefore, extensive training is required. However, a recent study by Frascone et al. reported a maximum success rate of any 80% by using conventional endotracheal intubation, even in the hands of experienced paramedics [17]. Nicholl et al. reported a failure rate of 65% by experienced paramedics [18]. Furthermore, Sayre et al. described unsuccessful intubation at a rate of 50% and unrecognised oesophageal intubations in 3%, covering 103 pre-hospital conventional endotracheal intubations by EMT`s [19].
@@ -221,9 +226,9 @@ As a limitation, our study was not designed or powered to show differences betwe
 In conclusion, endotracheal intubation in inexperienced hands is dangerous and could lead to fatal complications, like unrecognised misplacement. The success rate after a single training session is unacceptably low and required hands-off time during CPR far above the recommended maximum of 10 seconds.
 In contrast, with a single training session and after a period without any training, the inexperienced EMT`s were able to perform successful airway management with acceptably low hands-off time by using one of the five supraglottic airway devices. If airway management must be performed by inexperienced personnel, EMT`s should not attempt endotracheal intubation and should consider supraglottic airway devices as the appropriate and valuable alternatives.
 
-Competing interest
+BODY.COMPETING INTEREST:
 Michael Frass invented the Combitube and has received royalties from Covidien. None of the other authors has a personal financial interest in this research.
 
-Authors’ contributions
+BODY.AUTHORS’ CONTRIBUTIONS:
 CG contributed to the study design and acquisition of data, made substantial contributions to analysis and interpretation of data, drafted the manuscript, and revised it critically for important intellectual content. SN, PW, AR, HF contributed to aquisitation of data, and revised it critically for important intellectual content. DR and OK performed the statistical analysis and contributed to interpretation of data. MF made substantial contributions to analysis and interpretation of data and revised it critically for important intellectual content. KR contributed to the study design, made substantial contributions to analysis and interpretation of data, drafted the manuscript, and revised it critically for important intellectual content. All authors read and approved the final manuscript.
 

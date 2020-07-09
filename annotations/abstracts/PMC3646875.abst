@@ -1,15 +1,20 @@
-Background
+TITLE: 
+Effects of Guideline-Based Training on the Quality of Formal Ontologies: A Randomized Controlled TrialGuideline-Based Training on Quality of Ontologies
+
+
+
+ABSTRACT.BACKGROUND:
 The importance of ontologies in the biomedical domain is generally recognized. However, their quality is often too poor for large-scale use in critical applications, at least partially due to insufficient training of ontology developers.
 
-Objective
+ABSTRACT.OBJECTIVE:
 To show the efficacy of guideline-based ontology development training on the performance of ontology developers. The hypothesis was that students who received training on top-level ontologies and design patterns perform better than those who only received training in the basic principles of formal ontology engineering.
 
-Methods
+ABSTRACT.METHODS:
 A curriculum was implemented based on a guideline for ontology design. A randomized controlled trial on the efficacy of this curriculum was performed with 24 students from bioinformatics and related fields. After joint training on the fundamentals of ontology development the students were randomly allocated to two groups. During the intervention, each group received training on different topics in ontology development. In the assessment phase, all students were asked to solve modeling problems on topics taught differentially in the intervention phase. Primary outcome was the similarity of the students’ ontology artefacts compared with gold standard ontologies developed by the authors before the experiment; secondary outcome was the intra-group similarity of group members’ ontologies.
 
-Results
+ABSTRACT.RESULTS:
 The experiment showed no significant effect of the guideline-based training on the performance of ontology developers (a) the ontologies developed after specific training were only slightly but not significantly closer to the gold standard ontologies than the ontologies developed without prior specific training; (b) although significant differences for certain ontologies were detected, the intra-group similarity was not consistently influenced in one direction by the differential training.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 Methodologically limited, this study cannot be interpreted as a general failure of a guideline-based approach to ontology development. Further research is needed to increase insight into whether specific development guidelines and practices in ontology design are effective.
 

@@ -1,22 +1,27 @@
-Purpose
+TITLE: 
+Prospective multicenter randomized trial of fast ventricular tachycardia termination by prolonged versus conventional anti-tachyarrhythmia burst pacing in implantable cardioverter-defibrillator patients-Atp DeliVery for pAiNless ICD thErapy (ADVANCE-D) Trial results
+
+
+
+ABSTRACT.PURPOSE:
 The purpose of the trial was to quantify and compare the efficacy of two different sequences of burst anti-tachycardia pacing (ATP) strategies for the termination of fast ventricular tachycardia.
 
-Methods
+ABSTRACT.METHODS:
 The trial was prospective, multicenter, parallel and randomized, enrolling patients with an indication for implantable cardioverter-defibrillator implantation.
 
-Results
+ABSTRACT.RESULTS:
 From February 2004, 925 patients were randomized and followed-up for 12 months. Eight pulses ATP terminated 64% of episodes vs. 70% in the 15-pulse group (p = 0.504). Fifteen pulses proved significantly better in patients without a previous history of heart failure (p = 0.014) and in patients with LVEF ≥ 40% (p = 0.016). No significant differences between groups were observed with regard to syncope/near-syncope occurrence.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 In the general population, 15-pulse ATP is as effective and safe as eight-pulse ATP. The efficacy of ATP on fast ventricular arrhythmias confirmed once more the striking importance of careful device programming in order to reduce painful shocks.
 
-Introduction
+BODY.INTRODUCTION:
 Implantable cardiac defibrillators (ICD) have been proven to be highly effective in reducing mortality in patients at risk of sudden cardiac arrest [1, 2]. However, this benefit entails some morbidities, mainly associated with the pain of shocks, both appropriate and inappropriate. Up to 25% of patients receiving multiple shocks report some anxiety or depression, and find it difficult to get used to living with an ICD [3–5].
 The first review on the pathogenesis of arrhythmia formation, methods of electrical pacing, response of specific tachyarrhythmias to pacing and the clinical application of pacing to terminate and suppress tachyarrhythmias, date back to 1975. Zipes recognized the high potential of electrical pacing, especially in view of a technological development [6].
 Later on, other studies compared shock therapy for ventricular tachycardia with pacing therapy and tried to evaluate different pacing strategies in terms of efficacy and safety [7, 8]. Many of the recent studies that have demonstrated painless effective and safe anti-tachycardia pacing (ATP) for fast ventricular tachycardias (FVTs), have used eight pulses at 88% coupling interval ATP as standard ICD programming to reduce the shocks and morbidity of ICD therapy [9–11].
 ATP is highly effective for FVTs and allows pain-free treatment. However, some challenging questions remain. Regarding optimal ATP programming, the optimal number of beats to use in overdrive pacing to terminate a ventricular tachycardia has not yet been prospectively investigated in spontaneous FVTs. Furthermore, there may be significant differences in the efficacy of ATP sequences between primary and secondary prevention patients or in specific subgroups. In order to address these questions, a randomized, prospective study, called the ADVANCE-D (Atp DeliVery for PAiNless ICD ThErapy) trial, was developed in Europe.
 
-Methods
+BODY.METHODS:
 ADVANCE-D was a prospective, multicenter, randomized, controlled, parallel, single-blind trial designed to compare the efficacy of two different ATP sequences (eight vs. 15 pulses) for the treatment of FVT (320–240 ms) in patients with Class I or IIA indication for ICD implantation. Details of the design have been previously reported [12].
 In brief, following institutional review board acceptance of the protocol and registration of informed consent, a total of 925 patients with standard ICD indications were enrolled from February 2004 to April 2006 in 60 European centers. After randomization 1:1 to either eight or 15 ATP pulses at 88% of the tachycardia cycle length (stratified by center), patients were followed-up for 12 months.
 Patients older than 18 years with standard ICD indications and implanted with a device with ATP delivery capabilities were included in the study; only ICD patients believed unlikely to have a substrate for stable monomorphic ventricular tachycardia (VT) susceptible to ATP (hypertrophic cardiomyopathy, long-QT syndrome, or Brugada syndrome) were excluded.
@@ -30,7 +35,7 @@ Mortality and adverse events were also recorded. All adverse events, mortality a
 The primary endpoint was to quantify and compare the efficacy of two different sequences of Burst ATP strategies for the termination of ventricular tachycardia (with CL of 240 ms-320 ms) from the baseline to 12 months post-randomization in patients treated with eight-pulse ATP at 88% versus patients treated with 15-pulse ATP at 88%.
 Secondary endpoints pre-specified in the protocol were: (1) to estimate ATP efficacy in terminating FVT episodes in patients treated for primary and secondary prevention; (2) to estimate the rates of FVT acceleration and degeneration into VF (acceleration was defined as a decrease in FVT cycle length greater than 10% as recorded by the device); (3) to compare the likelihood of syncopal events associated with FVT (syncope was defined as transient, self-limiting loss of consciousness, usually leading to a fall); (4) to estimate the reduction in the number of shocks delivered for the treatment of spontaneous FVT; (5) to evaluate predictors of ATP success. All the secondary endpoints and sub analysis were pre-specified by protocol.
 New York Heart Association (NYHA) class information was collected at the baseline only for patients with a history of heart failure.
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 Sample size calculation and its amendment are described in the ADVANCE-D design publication [12].
 Continuous data were expressed as mean ± standard deviation, whereas categorical values were expressed as absolute and relative frequencies. Data were analyzed on an intention-to-treat basis. To adjust for multiple episodes per patient, the generalized estimating equations (GEE) method was used in quantification and comparison of therapy delivery, syncope, acceleration, and in episode duration unless otherwise noted [13].
 Mortality rate was determined by Kaplan–Meier estimation and curves were compared by mean of the Log-rank test.
@@ -39,7 +44,7 @@ Summary statistics for episode measures such as CL were adjusted for multiple ep
 Statistical analyses were performed by mean of SPSS 12.0 (SPSS Inc., Chicago, Illinois) and Stata SE9.0 (StataCorp, Texas, USA).
 
 
-Results
+BODY.RESULTS:
 Enrolment began in February 2004 and follow-up was completed by April 2007. We randomized 925 patients, 475 to the eight-pulse group and 450 to the 15-pulse group. Patients with a history of previous myocardial infarction, significant coronary lesions, or previous myocardial revascularization were considered to have coronary artery disease; these represented 74.7% of the patients (691 patients). Five hundred and forty-four patients (58.8%) underwent implantation for secondary prevention. Mean ejection fraction was 33.9 ± 12.1%. Baseline characteristics are reported in Table 1. No patient switched from one assigned ATP burst therapy to the other, or turned off ATP during the study owing to their physician’s decision (except in one patient during a hospitalization event). Mean follow-up was 12 ± 3 months.
 Table 1Clinical characteristics of the study population
 All pts n = 925Group 8 n = 475Group 15 n = 450p valueMale gender, n (%)
@@ -146,17 +151,17 @@ AAD anti arrhythmic drug, CAD coronary artery disease, HF heart failure, LBBB le
 aFisher’s exact test
 bMann-Whitney non parametric test for independent groups
 
-Detection of spontaneous episodes
+BODY.DETECTION OF SPONTANEOUS EPISODES:
 We collected 2,781 tachyarrhythmia episodes with complete electrogram data in 333 patients. Of these, 2,385 were classified as spontaneous episodes by the ERB: 1,646 in 243 patients were true VT/VF, whereas 739 episodes in 145 patients were true supraventricular tachyarrhythmia (SVT).
 For the true VT/VF episodes, 129 (8%) in 38 patients were classified as VF, 467 (28%) in 110 patients were classified as FVT and 1050 (64%) in 160 patients were true VTs. Of the 467 FVT, eight episodes did not receive any ATP treatment (therapies were programmed off during a hospitalization event) and were excluded from the analysis (Fig. 2).
 Fig. 2ERB adjudication of episodes detected by ICD as spontaneous ventricular tachyarrhythmia. Details on the treatments delivered for episodes appropriately and inappropriately detected in the FVT window are reported. Not treated episodes that did not received any treatment. ATP only episodes treated only by ATP. Shock episodes treated with at least one shock
 
 
-Primary endpoint on therapy efficacy
+BODY.PRIMARY ENDPOINT ON THERAPY EFFICACY:
 There was no difference in median FVT CL between eight- and 15-pulse ATP (291 ms for eight pulses versus 290 ms for 15 pulses; p = 0.650).
 The overall ATP efficacy in terminating FVT episodes was 71% when unadjusted and 67% when adjusted (95%CI 60–74%). After adjustment, 64% of episodes were terminated by eight-pulse ATP (95%CI 55–75%) versus 70% (95%CI 60–80%) in the 15-pulse group (p = 0.504).
 
-Secondary endpoints
+BODY.SECONDARY ENDPOINTS:
 Predictors of ATP success in general population:
 
 Univariate and multivariable analyses were performed on baseline clinical variables in order to determine their potential correlation with ATP success in the overall population. The independent significant predictors of ATP success identified were: NYHA functional class deterioration in HF patients (OR 0.52, 95% CI 0.29–0.95; p = 0.033) and the administration of ACE inhibitors (OR 3.33, 95% CI 1.51–7.36; p = 0.003). No other variables were predictive of ATP success.
@@ -231,7 +236,7 @@ Mortality
 During the study, 57 deaths occurred (6.2%): 31 (6.5%) in the eight-pulse arm and 26 (5.8%) in the 15-pulse arm. Seven patients (0.8%) have been subjected to cardiac transplantation, two deaths were classified as sudden, 21 as non-sudden, ten non-cardiac and 17 unknown. No significant difference was found between the two randomization groups in terms of causes of death (all p values > 0.5) or overall mortality (Log-rank = 0.22; p = 0.636).
 
 
-Discussion
+BODY.DISCUSSION:
 The medical literature on the adverse psychological consequences of ICD shocks, whether appropriate or not, is growing.
 The Painfree Rx I and Painfree Rx II studies found painless ATP to be safe and effective in treating monomorphic ventricular arrhythmias, showing a relative shock reduction of 70–92%, depending mainly on cycle length [14, 15]. Painfree Rx II involved 634 patients in 42 US centers; the first therapy in the FVT zone was a single ATP sequence of an eight-pulse burst-pacing train at 88% of the ventricular tachycardia (VT) cycle length (CL). On comparing ATP and shock therapy, no statistically significant differences were found in arrhythmia acceleration, syncope, or mortality. Additionally, after 12 months, the ATP arm showed a significant improvement in five of the eight subscales in the Medical Outcomes Study 36-item short-form General Health Survey (physical functioning, role physical, bodily pain, social functioning, and role emotional), as well as in the two summaries (mental and physical) [15].
 Moreover, recently published studies report that both appropriate and inappropriate shocks are significant predictors of death. In the SCD-HeFT study, the risk of death among patients who received more than one appropriate shock was twice as high as among patients who received a single appropriate shock; furthermore, shocks were much stronger predictors of an adverse outcome in ischemic than in non-ischemic heart failure patients [16]. These results are similar to those obtained the Multicenter Automatic Defibrillator Implantation Trial II (MADIT II), which also showed that the risk of death increased by a factor of 3 after an appropriate ICD shock [17
@@ -243,10 +248,10 @@ On the basis of this evidence, we selected 15-pulse ATP at 88% coupling interval
 The only significant difference in effectiveness was observed in the subgroup of patients without heart failure at the baseline or with an ejection fraction of 40% or higher. This specific subgroup was not included among the pre-specified analysis therefore the result reported should be validated by further randomized studies.
 Overall, ADVANCE-D does not show strong evidence of the superiority of one specific ATP strategy. It does, however, definitively confirm the marked impact of ATP therapy on the majority of fast ventricular arrhythmias in ICD patients.
 
-Conclusion
+BODY.CONCLUSION:
 The results of the Painfree trials regarding the importance of shock reduction have, in recent years, raised a relevant clinical question as to the best programming of ATP therapies. Many hypotheses have emerged from the results of small studies in which different types of burst were investigated. These hypotheses demanded final clarification by means of a prospective, parallel, randomized trial. The ADVANCE-D trial fulfilled these requirements and demonstrated that 15-pulse ATP in the general population of ICD-indicated patients is as effective and safe as eight-pulse ATP. The efficacy of ATP on fast ventricular arrhythmias confirmed once more the striking importance of careful device programming, the first goal of which should be to reduce shocks.
 
-Limitations
+BODY.LIMITATIONS:
 The study was performed using devices provided by a single manufacturer (Medtronic Inc.). The definition of FVT was determined as all the VT episodes with cycle length of 320–240 ms. The choice of the abovementioned window was made arbitrarily although inspired by previously published international trials [14, 15]. The final number of FVT episodes represented only the 28% of the overall number of arrhythmic episodes in 110 patients.
 The pacing algorithm described in our paper was specifically focused on FVT only, although such scenario does not represent daily practice in which the devices are usually programmed using different strategies, with multiple ATP sequences and short-burst pacing, tailored on clinical needs.
 One possible confounding factor in estimating ATP success is the possibility that ATP may appear to successfully treat VT that would have otherwise self-terminated. For the same reason, the shock rate reduction cannot be estimated based on the number of VT episodes terminated by ATP.

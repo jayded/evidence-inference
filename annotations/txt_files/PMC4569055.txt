@@ -1,25 +1,30 @@
-Objective
+TITLE: 
+Evaluating the Impact of Computerized Provider Order Entry on Medical Students Training at Bedside: A Randomized Controlled TrialComputerized Provider Order Entry in Medical Students Training
+
+
+
+ABSTRACT.OBJECTIVE:
 To evaluate the impact of computerized provider order entry (CPOE) at the bedside on medical students training.
 
-Materials and Methods
+ABSTRACT.MATERIALS AND METHODS:
 We conducted a randomized cross-controlled educational trial on medical students during two clerkship rotations in three departments, assessing the impact of the use of CPOE on their ability to place adequate monitoring and therapeutic orders using a written test before and after each rotation. Students’ satisfaction with their practice and the order placement system was surveyed. A multivariate mixed model was used to take individual students and chief resident (CR) effects into account. Factorial analysis was applied on the satisfaction questionnaire to identify dimensions, and scores were compared on these dimensions.
 
-Results
+ABSTRACT.RESULTS:
 Thirty-six students show no better progress (beginning and final test means = 69.87 and 80.98 points out of 176 for the control group, 64.60 and 78.11 for the CPOE group, p = 0.556) during their rotation in either group, even after adjusting for each student and CR, but show a better satisfaction with patient care and greater involvement in the medical team in the CPOE group (p = 0.035*). Both groups have a favorable opinion regarding CPOE as an educational tool, especially because of the order reviewing by the supervisor.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 This is the first randomized controlled trial assessing the performance of CPOE in both the progress in prescriptions ability and satisfaction of the students. The absence of effect on the medical skills must be weighted by the small time scale and low sample size. However, students are more satisfied when using CPOE rather than usual training.
 
-Introduction
+BODY.INTRODUCTION:
 According to the Medical School Objectives Project (MSOP), established in January 1996 by the Association of American Medical Colleges to guide medical education, clinical experience is essential in creating memory connections between pathophysiological knowledge and clinical practice, enabling the student to reason flexibly around a case.[1] Bedside practice is critical during medical training as it creates experience in caregiving, diagnosis and therapeutics, and enhances the acquisition of knowledge.[1,2] This is supported by the finding that repeated written testing and testing with Standardized Patients (SPs) in simulations can enhance long-term retention of knowledge, suggesting that the same occurs with testing with real patients.[3]
 The widespread of Electronic Health Records (EHRs) and particularly of computerized provider order entry (CPOE) tools in University Hospitals has made them available to students during their clerkship rotations. Students have been showing a greater interest and familiarity with them than attending physicians, independently of computer literacy.[4–6] Although CPOE can facilitate medical prescription and reduce serious medication error rates by more than half [7–12], few studies have addressed the impact of CPOE on the students’ medical training and ability to place sound orders, despite the indication that it could be useful, particularly through the immediate feedback about the placed order.[13–18] These trials yielded negative results, yet they provide insights on the possible causes of failure: lack of randomization, of time and investment from the supervisors, focus on a specialty, factors of confusion such as the addition of learning material in both groups, or a method of evaluation which did not capture the beneficial effect of the intervention.
 We hypothesize that in vivo use of CPOE can improve medical students training and ability to formalize orders through deeper involvement in the medical practice, that an early contact with it enhances satisfaction and familiarization, and reduces errors. To assess this we conducted an educational randomized cross-controlled trial on medical students in a University Hospital.
 
-Materials and Methods
+BODY.MATERIALS AND METHODS:
 The Georges Pompidou European Hospital is a 700 beds university hospital located in Paris, France. It is a fully computerized hospital since its opening in 2000. Students are allowed to place orders on real patients during their clerkship rotations, but these orders are systematically reviewed by a senior MD, usually the Chief Residents (CR) before delivery, being blocked by default until approval. Although this system is available in the whole hospital, it is not yet widely used for teaching purposes, as it requires additional supervising work for the CRs to supervise the students and provide feedback.
 We recruited CRs in three departments: Cardiology, Immunology and Internal Medicine, known to provide students good training in placing therapeutic orders. The active and willing participation was a key process in the intervention as it demanded letting the students place their own orders first, dedicating time to review the orders with the students and providing feedback and corrections. Medical students in their last undergraduate year would be included during their clerkship with these CRs in two quarter rotations from January 2012 to June 2012. The randomization was done by CR and students were once and for all assigned to a CR at the beginning of their rotation. Using a cross-over design over these two rotations, CRs were able to be their own controls. The intervention group made use of CPOE at the bedside to place real monitoring and therapeutic orders, and after the patient rounds would discuss the orders with the CR, who would provide corrections and recommendations about the placed orders. As they were actual orders, students needed to specify the drug name, posology, route of administration, hours of delivery and delivery period. The control group didn't use CPOE and bedside teaching was conducted as usual, asking verbally for what the student would do in the current situation. This requires less formalization of the order and vague answers are usually accepted (only the drug class, approximate dosages, etc.)
 Eight willing CRs in the three departments were recruited to participate in the study. 36 medical students in their last undergraduate year were included during their clerkship with these CRs over the two quarters of this study. Details of the distribution of CRs and students can be found in Table 1.
-10.1371/journal.pone.0138094.t001Table 1Cross-over schema and distribution of subjects.
+10.1371/journal.pone.0138094.t001Table 1BODY.CROSS-OVER SCHEMA AND DISTRIBUTION OF SUBJECTS.:
 QuarterInterventionDepartmentCRStudents1
 Control
 Cardio
@@ -67,23 +72,23 @@ We checked for any discrepancy in the ratings (grades above the maximum for exam
 A second more detailed analysis used a mixed model to compare the progress of students between the two groups. The model studied the relationship between the progress and: the intervention state as a fixed effect, the item number, the chief resident and the student as random effects. Model selection was done using ANOVA on log likelihood between the different models, choosing the most parsimonious model. p values for the fixed part were calculated using a type 3 hypotheses F test and likelihood ratio tests for the random part.
 Items scores in the satisfaction questionnaire were normalized between 0 and 1. We proceeded to do an exploratory factor analysis using the minres factorial method. The number of dimensions was determined using parallel analysis and items were attributed to a dimension based on their loading. Scores for each dimension were obtained by adding the normalized scores from the corresponding items. Bivariate analysis was used to compare scores on all the found dimensions between the two groups.
 Statistics were calculated using R version 3.1.1, the lme4 and lmerTest packages for the fitting of linear mixed models[19], and the psych package for psychometric analysis.
-Ethics Statement
+BODY.ETHICS STATEMENT:
 This study was reviewed and approved by IRB #00001072 Comité de Protection des Personnes Ile de France II. All Students signed a written informed consent. The study was approved by the Medical faculty Dean of Paris Descartes University.
 
 
-Results
+BODY.RESULTS:
 36 students in their last undergraduate year were recruited during the two rotations, with a mean age of 24.1 (+/- 0.8) and a 2:1 (female:male) sex ratio. One subject in the second quarter, Cardiology group, has been censored for two reasons. The first one was due to a large inconsistency in grades between examiners. The second one being that this subject was assigned to a CR which didn’t participate in the first quarter. This left us with 35 students total, 18 in the first quarter, 17 in the second one, with the same seven Chief Residents for each quarter.
 ICC(3, k) between the two examiners for each item of each questionnaire was 0.93 before censoring, and 0.94 after. ICC(3, k) between the two examiners for the difference between t1 and t2 for each item of the questionnaire was 0.87.
 The control group scored 69.87 points on the test at the beginning of the rotation, and 80.98 points on the test at the end of the rotation. The case group scored 64.60 points and 78.11 points on the same tests. The highest possible score for these tests was 176. The bivariate analysis shows no statistically significant difference in the progress between the two groups (+11.11 points for the control group, +13.51 points in the case group, p = 0.5562). Overall the students showed a mean progress of +12.35(±11.79) points, significantly different from 0 (4.78e-7). The density plot by group for the overall grade progress between the beginning and the end of the rotation (averaged between the two raters) is shown in Fig 1. Most of the students show a similar progress between the two measures, but one can observe a negative tail for the Control group and a positive tail for the Case group. Fig 2 shows a more detailed representation of the progress (delta in score) of students on individual questionnaire items between the beginning and the end of the rotation. Fig 3 shows the boxplots of the progress (delta in score) for each chief resident (a), intervention group (b) and individual student (c).
-10.1371/journal.pone.0138094.g001Fig 1Density plot of the overall questionnaire progress between the beginning and the end of the rotation, for each group.
+10.1371/journal.pone.0138094.g001Fig 1BODY.DENSITY PLOT OF THE OVERALL QUESTIONNAIRE PROGRESS BETWEEN THE BEGINNING AND THE END OF THE ROTATION, FOR EACH GROUP.:
 Controls are represented with a continuous line, Cases with a dotted line.
-10.1371/journal.pone.0138094.g002Fig 2Scatterplots of the progress of the students on each item of the questionnaire between the beginning and the end of the rotation.
+10.1371/journal.pone.0138094.g002Fig 2BODY.SCATTERPLOTS OF THE PROGRESS OF THE STUDENTS ON EACH ITEM OF THE QUESTIONNAIRE BETWEEN THE BEGINNING AND THE END OF THE ROTATION.:
 Plots are shown with one row for each chief resident, left column for the Control group, and right column for the Case group. Item scores have been normalized. A smoothed estimator is fitted for each subplot.
-10.1371/journal.pone.0138094.g003Fig 3Boxplots of the progress distribution on all questionnaire items for each (a) chief resident, (b) intervention group, (c) student.
+10.1371/journal.pone.0138094.g003Fig 3BODY.BOXPLOTS OF THE PROGRESS DISTRIBUTION ON ALL QUESTIONNAIRE ITEMS FOR EACH (A) CHIEF RESIDENT, (B) INTERVENTION GROUP, (C) STUDENT.:
 The mixed effect model finds a positive yet not statistically significant effect of the Case (vs Control) intervention state, with an estimate of 0.005 (p = 0.82). The random effect associated to the CR has an intercept of 0.0003 (p = 0.60). The random effect associated to individual items of the questionnaire has an intercept of 0.0079 (p = 3.27e-19) and the effect for individual students an intercept of 0.0027 (p = 3e-05).
 Other models including a random slope for the effect associated to CRs or a fixed effect for the department didn’t fit the data significantly better, thus we kept the most parsimonious model.
 The exploratory factor analysis of the satisfaction questionnaires identified 4 dimensions. The first one corresponds to the overall satisfaction with order practice during the rotation, including 14 items: every item from parts II and III, and the first three items of part IV. The second dimension, including 7 items, reflected the students’ opinion about the usefulness of prescribing in their training. The third dimension (8 items) showed students’ agreement with the benefits of CPOE, and the fourth one (6 items) the difficulties they encountered with it. Representative items in decreasing order of loading for each dimension are listed in Table 2.
-10.1371/journal.pone.0138094.t002Table 2Representative items in decreasing order of loading for each of the four dimensions.
+10.1371/journal.pone.0138094.t002Table 2BODY.REPRESENTATIVE ITEMS IN DECREASING ORDER OF LOADING FOR EACH OF THE FOUR DIMENSIONS.:
 
 Overall satisfaction with order practice during the rotation
 
@@ -153,7 +158,7 @@ Difficulties encountered with CPOE
 
 IV_7: Difficulty in finding a free computer terminal
 Scores in the second and third dimensions were normally distributed and compared using Student’s t test. Scores in the first and fourth dimension were not normally distributed and compared using the non-parametric Mann-Whitney U test. They were not different for the second dimension, and were significantly higher for all the other dimensions. Results are shown in Table 3.
-10.1371/journal.pone.0138094.t003Table 3Comparison of dimension scores between the case and control groups.
+10.1371/journal.pone.0138094.t003Table 3BODY.COMPARISON OF DIMENSION SCORES BETWEEN THE CASE AND CONTROL GROUPS.:
 Control groupCase groupp valueDimensionMeanSDMeanSDOverall satisfaction (14 items)
 6.6
 2.8
@@ -179,7 +184,7 @@ Difficulties with CPOE (6 items)
 1.6
 0.019*
 During the first rotation of this trial, 11 students in the Case group placed 1193 orders, ranging from 28 to 201 (mean = 108.5 +/- 53) per student. 36 (3%) of these orders were urgent orders for laboratory tests or imaging examination and were not reviewed at first by the supervisor, and 97 (8%) were cancelled by the students themselves, leaving 1060 orders for review. 781 orders were for laboratory tests (71 +/- 33.5 per student), of which 108 were corrected, 188 for drugs (17.1 +/- 9), with 43 corrected and 102 for imaging examinations (9.3 +/- 8.2), with 18 corrected. Other kinds of orders included nursing (56), clinical monitoring (34), IV drugs (25), and consultations (7). A total of 202 (19%) orders were corrected during the review process, including 49 orders for oral and IV drugs. The average lag between order placement by students and validation/correction by the supervisor was 1h25 +/- 1h01. A semi-quantitative analysis of the 49 drug prescription errors corrected by CRs is presented in Table 4.
-10.1371/journal.pone.0138094.t004Table 4Drug order errors corrected by Chief Residents.
+10.1371/journal.pone.0138094.t004Table 4BODY.DRUG ORDER ERRORS CORRECTED BY CHIEF RESIDENTS.:
 Type of modification by the supervisor of erroneous ordersNumberCancellation
 9
 Modification of dose
@@ -215,7 +220,7 @@ Total
 49
 
 
-Discussion
+BODY.DISCUSSION:
 This study is the first educational randomized control trial with students prescribing on real patients. Overall the students showed progress in prescription skills between the beginning of the rotation, however no differences were observed between the two groups. After adjusting for questionnaire item, CR, and student, the progress was still not significant between the two groups. Although we thought the CR involvement would be crucial to the students’ progress, due to the nature of the intervention, the multivariate model shows that individual items and students baseline levels are more important. The absence of significant effect of CR on the students’ progress could be explained by the fact that the CRs were all voluntary and already particularly involved in students’ education. We can also hypothesize that the use of CPOE as an educational tool doesn’t require new pedagogical skills from the CRs and only a change of practice. If we can’t rule out a lack of power due to a relatively small sample, the small progress in prescription skills could be explained by the small time scale (3 months) and the fact that participating students were in their last year of undergrad, when little progress can be made before the residency. This could be a limitation of our study, since it induces a lack of power to observe a difference of progress between the two groups.
 All the questions from part II and part III of the questionnaire (feeling about the contribution to the patient’s care and satisfaction with the level of commitment they were allowed to) fell expectedly in the same dimension (overall satisfaction with order practice), as their subject is tightly related. Students in the intervention group scored better in this dimension, showing that the use of the actual tools with real patients increased their sense of belonging to the medical team and taking part in patients’ care. Scores for both groups were high in the second dimension (opinion about prescribing), indicating that students see placing orders as an important feature in medical learning, independently of having used paper or computer, albeit nearly reaching statistical significance. It is notable that students who showed a positive opinion about prescribing also wanted to have more of their prescriptions reviewed by a supervisor (correlation coefficients ranging from 0.15 to 0.54 between the corresponding items), showing that not only do they see prescribing as important but also that feedback is essential for the prescribing to be beneficial. The process of reviewing is facilitated by the CPOE as CRs can review the orders in an asynchronous fashion and from different places.
 The third dimension included items regarding to the perceived benefits of CPOE by the students. The intervention group also scored higher in this dimension, although they scored higher in the fourth dimension too (difficulties they encountered with CPOE). As they were the only group to use CPOE it is not surprising that they were more aware of its technical issues. However it is still interesting to see that students being exposed to CPOE showed a better opinion toward it than the other group, showing that it met their expectations. The third dimension also contained items V_1 (“For what percent of newly admitted patients that you picked up have you entered the complete set of admission orders?”) and V_2 (“What percentage of your patients’ total number of follow-up orders would you like to write or enter?”), indicating that students who were able to enter more orders perceived more benefits from the use of CPOE, although no causation link can be inferred. It could be indeed that students seeing CPOE use as beneficial were more likely to be confident enough to place orders. Nonetheless, both these items scored significantly better in the CPOE group: 0.01 (+/-0.03) vs 0.1 (+/-0.2), p = 0.032* (item V_1)), and 0.2 (+/-0.3) vs 0.6 (+/-0.4), p = 0.0051* (item V_2).
@@ -227,24 +232,24 @@ In departments willing to let students make orders, they are able to do so in a 
 In our study, we show that setting up accounts with limited privileges for students in the CPOE system enabled us to try a new method of teaching and to conduct this trial with no modification on the existing infrastructure. It is a proof of concept that this method can be implemented throughout the whole hospital without any real difficulty regarding the hospital management or IT implementation standpoints. Furthermore, it readily allows for a routine monitoring of the quality of prescriptions by the students, and shows that utilization of CPOE by the students can be used to refine teaching practices. This would make possible follow-up studies on order behavior and patient care and see how students (and their CRs) differ in their practice and how this impacts on the transmission of knowledge. These different prospects are examples of how IS/IT (here the CPOE system) can be leveraged to quickly and easily implement, test and roll out new policies hospital-wide with virtually no overhead.
 The acceptance of CPOE and of its benefits seems to be unrelated to typing proficiency or computer literacy. The main concerns are about patient security and confidentiality, and time devoted to computer use. Ease of use, integration in the workflow and mostly training are seen as factors in their acceptance and approval.[5,20] As the opinion about CPOE/EHR follows a declining trend with the medical training[4–6], and with the push for the use of EHR in hospitals and for general practitioners, it is logical to train medical students as early as possible to use these tools. In this course of action, evaluating the (eventually positive) side effects in terms of medical learning had to be done, when concerns about losing relational skills and contact with the patient are starting to appear.[21]
 
-Conclusions
+BODY.CONCLUSIONS:
 We conducted an educational randomized controlled trial with a cross-over design assessing the impact of the use of CPOE at the bedside by medical students on their training, satisfaction with patient care, and involvement in the medical team. In line with the handful of previous trials addressing the same issue, we found no statistically greater improvement in the students’ ability to place adequate monitoring and therapeutic orders in the group using CPOE. We tried to address as much caveats from the previous trials as possible, but our study has got its own shortcomings, statistical power being the main one. However, whereas we confirm that CPOE use does not allow a better acquisition of prescribing skills, it is notable that it improves students’ satisfaction. Not only does it so in regard to the tool used, but also in the larger scope of patient care and feeling like being part of the medical team. Students are also able to place admission and follow-up orders when using the CPOE, thus inherently being a training in the use and master of the computer tool.
 As the future is shaped towards a universal use of CPOE tools in hospitals, and with the evidence that first familiarization with these tools gets harder with professional experience, we recommend the introduction of computerized order entry as soon as possible in medical students training during their clerkship rotations.
 
-Supporting Information
-S1 TableData for the Short open answers questionnaire.
+BODY.SUPPORTING INFORMATION:
+S1 TableBODY.DATA FOR THE SHORT OPEN ANSWERS QUESTIONNAIRE.:
 (CSV)
 Click here for additional data file.
-S2 TableData for the Satisfaction questionnaire.
+S2 TableBODY.DATA FOR THE SATISFACTION QUESTIONNAIRE.:
 (CSV)
 Click here for additional data file.
-S3 TablePrepared data for the short open answers questionnaire.
+S3 TableBODY.PREPARED DATA FOR THE SHORT OPEN ANSWERS QUESTIONNAIRE.:
 (CSV)
 Click here for additional data file.
-S1 TextShort open answers questionnaire, translated from French.
+S1 TextBODY.SHORT OPEN ANSWERS QUESTIONNAIRE, TRANSLATED FROM FRENCH.:
 (DOCX)
 Click here for additional data file.
-S2 TextSatisfaction questionnaire, adapted from Knight et al.
+S2 TextBODY.SATISFACTION QUESTIONNAIRE, ADAPTED FROM KNIGHT ET AL.:
 (DOCX)
 Click here for additional data file.
 

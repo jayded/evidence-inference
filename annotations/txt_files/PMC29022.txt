@@ -1,12 +1,18 @@
-Background:
+TITLE: 
+A new prototype of an electronic jet-ventilator and its humidification
+		  system
+
+
+
+ABSTRACT.BACKGROUND::
 Adequate humidification in long-term jet ventilation is a critical
 				aspect in terms of clinical safety.
 
-Aim:
+ABSTRACT.AIM::
 To assess a prototype of an electronic jet-ventilator and its
 				humidification system.
 
-Methods:
+ABSTRACT.METHODS::
 Forty patients with respiratory insufficiency were randomly
 				allocated to one of four groups. The criterion for inclusion in this study was
 				respiratory insufficiency exhibiting a Murray score above 2. The four groups of
@@ -21,7 +27,7 @@ Forty patients with respiratory insufficiency were randomly
 				standard humidification system. SHFJV and HFPV were used for a period of 100 h
 				(4days).
 
-Results:
+ABSTRACT.RESULTS::
 A significantly low inspiration gas temperature was noted in
 				patients in group B, initially (27.2 ± 2.5°C) and after 2 days
 				(28.0 ± 1.6°C) (P < 0.05). The percentage of relative
@@ -34,13 +40,13 @@ A significantly low inspiration gas temperature was noted in
 				D showed no severe evidence of airway damage, exhibiting adequate values of
 				relative humidity and temperature of the inspired gas.
 
-Conclusion:
+ABSTRACT.CONCLUSION::
 The problems of humidification associated with jet ventilation can
 				be fully prevented by using this new jet-ventilator. These data were sustained
 				by nondeteriorating MIS values at the end of the 4-day study period in groups
 				A, C and D.
 
-Introduction
+BODY.INTRODUCTION:
 High-frequency jet ventilation (HFJV) has proved to be an alternative
 		  to conventional mechanical ventilation (CMV) [1,2,3,4]. The major advantage of HFJV lies in the improvement of the
 		  mucociliary transport system [5], the recruitment of
@@ -73,7 +79,7 @@ The aim of this study was to show that the problems of humidification
 		  associated with SHFJV can be prevented by using the correct humidification
 		  system. Proper methods for showing possible epithelial damage were used.
 
-Material and methods
+BODY.MATERIAL AND METHODS:
 After approval by the institutional Ethics Committee and informed
 		  consent, 40 intensive care unit (ICU) patients (Table 1)
 		  were randomly allocated to one of four groups (A, B, C or D; 10 patients in
@@ -182,7 +188,7 @@ The humidification rate (initially 20 ml/h) was set depending on the
 		  bronchoscopic aspect of the tracheobronchial mucosa; classification above
 		  'simple damage' (ie, MIS above 3) led to an increase in the
 		  humidification rate up to and above 45 ml/h.
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 For demographic data (Table 1) and measured
 			 values of relative humidity and gas temperature a Duncan test was calculted to
 			 determine statistical significance. All values are expressed as mean ±
@@ -313,13 +319,13 @@ PaO2, partial pressure of oxygen; FiO2,
 				pressure.
 
 
-Results
+BODY.RESULTS:
 Prior to random allocation to the four groups, all patients were
 		  conventionally ventilated (CMV using Evita) for 48–72 h. The average number of
 		  ventilation days in each group was 10 days (the duration of mechanical
 		  ventilation before weaning started). The overall period of ventilation was
 		  18 ± 4 days.
-Relative humidity
+BODY.RELATIVE HUMIDITY:
 Initially, the lowest percentage of mean relative humidity (Fig.
 			 2) was seen in patients in group B (69.8 ± 4.1%;
 			 P < 0.05). Patients in group A showed a mean relative humidity of
@@ -333,7 +339,7 @@ After 2 h of ventilation patients in all four groups showed almost
 			 until the end of the 100-h study protocol showed no more significant changes
 			 compared to the values measured after 2 h.
 
-Temperature
+BODY.TEMPERATURE:
 Initially, the lowest temperature measured inside the tube (Fig.
 			 3) was seen in patients in group B (27.2 ± 
 			 2.5°C; P < 0.05). Patients in group A had a mean gas
@@ -355,7 +361,7 @@ After 4 days the values were: patients in group B, 28.0 ±
 			 1.9°C; patients in group A, 33.0 ± 1.7°C; patients in group C,
 			 33.6 ± 2.5°C; patients in group D, 34.3± 1.8°C.
 
-Mucosal injury score
+BODY.MUCOSAL INJURY SCORE:
 During the course of SHFJV, patients in group B showed signs of
 			 epithelial lesions and inflammation of the mucosa in area B within hours
 			 (MIS = 2), deteriorating on the third and fourth day (MIS = 3) (Fig. 4). During bronchoscopy, a tracheobronchial secretion was
@@ -374,7 +380,7 @@ Although one patient in group C died as a result of severe sepsis,
 			 hypothetical influence of the forms of ventilation on temperature and humidity
 			 were checked by pathanalysis. Only group B appeared to show any influence.
 
-Humidification rate of the additional humidification system
+BODY.HUMIDIFICATION RATE OF THE ADDITIONAL HUMIDIFICATION SYSTEM:
 Initially, the humidification rate of the additional humidification
 			 system was set at 20 ml/h saline solution via the jet adapter (Table
 			 3). This was changed depending on the bronchoscopic
@@ -449,7 +455,7 @@ After 4 days
 50
 
 
-Discussion
+BODY.DISCUSSION:
 This study yielded two major findings. Firstly, adequate
 		  humidification without sufficient warming of the inspiration gas does not
 		  prevent epithelial damage or inflammation. Secondly, the amount of

@@ -1,49 +1,54 @@
-Introduction
+TITLE: 
+Goal-directed fluid management based on pulse pressure variation monitoring during high-risk surgery: a pilot randomized controlled trial
+
+
+
+ABSTRACT.INTRODUCTION:
 Several studies have shown that maximizing stroke volume (or increasing it until a plateau is reached) by volume loading during high-risk surgery may improve post-operative outcome. This goal could be achieved simply by minimizing the variation in arterial pulse pressure (ΔPP) induced by mechanical ventilation. We tested this hypothesis in a prospective, randomized, single-centre study. The primary endpoint was the length of postoperative stay in hospital.
 
-Methods
+ABSTRACT.METHODS:
 Thirty-three patients undergoing high-risk surgery were randomized either to a control group (group C, n = 16) or to an intervention group (group I, n = 17). In group I, ΔPP was continuously monitored during surgery by a multiparameter bedside monitor and minimized to 10% or less by volume loading.
 
-Results
+ABSTRACT.RESULTS:
 Both groups were comparable in terms of demographic data, American Society of Anesthesiology score, type, and duration of surgery. During surgery, group I received more fluid than group C (4,618 ± 1,557 versus 1,694 ± 705 ml (mean ± SD), P < 0.0001), and ΔPP decreased from 22 ± 75 to 9 ± 1% (P < 0.05) in group I. The median duration of postoperative stay in hospital (7 versus 17 days, P < 0.01) was lower in group I than in group C. The number of postoperative complications per patient (1.4 ± 2.1 versus 3.9 ± 2.8, P < 0.05), as well as the median duration of mechanical ventilation (1 versus 5 days, P < 0.05) and stay in the intensive care unit (3 versus 9 days, P < 0.01) was also lower in group I.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 Monitoring and minimizing ΔPP by volume loading during high-risk surgery improves postoperative outcome and decreases the length of stay in hospital.
 
-Trial registration
+ABSTRACT.TRIAL REGISTRATION:
 NCT00479011
 
-Introduction
+BODY.INTRODUCTION:
 Several reports [1-4] have shown that monitoring and maximizing stroke volume by volume loading during high-risk surgery decreases the incidence of postoperative complications and the length of stay in the intensive care unit (ICU) and in the hospital. Unfortunately, this strategy has so far required the measurement of stroke volume by a cardiac output monitor as well as a specific training period for the operators [5].
 By increasing pleural pressure, mechanical inspiration induces cyclic variations in cardiac preload that may be turned into cyclic changes in left ventricular stroke volume and arterial pulse pressure (the difference between systolic and diastolic pressure) [6]. The variation in arterial pulse pressure (ΔPP) induced by mechanical ventilation is known to be a very accurate predictor of fluid responsiveness; that is, of the position on the preload/stroke volume relationship (the Frank-Starling curve) [7-11]. In brief, in patients operating on the flat portion of the Frank-Starling curve (and hence insensitive to cyclic changes in preload induced by mechanical ventilation), ΔPP is low, and volume loading does not result in a significant increase in stroke volume [6]. Conversely, in patients operating on the steep portion of the preload/stroke volume relationship (and hence sensitive to cyclic changes in preload induced by mechanical ventilation), ΔPP is high, and volume loading leads to a significant increase in stroke volume [6]. By increasing cardiac preload, volume loading induces a rightward shift on the preload/stroke volume relationship and hence a decrease in ΔPP. Patients who have reached the plateau of the Frank-Starling relationship can be identified as patients in whom ΔPP is low [6,12]. The clinical and intraoperative goal of 'maximizing stroke volume by volume loading' can therefore be achieved simply by minimizing ΔPP [12].
 We performed the present study to investigate whether monitoring and minimizing ΔPP by volume loading during high-risk surgery may improve postoperative outcome.
 
-Materials and methods
-Patients
+BODY.MATERIALS AND METHODS:
+BODY.PATIENTS:
 After approval by the ethical committee of Santa Casa de Misericórdia de Passos (Passos, MG, Brazil) and written informed consent, 33 patients undergoing high-risk surgery were enrolled between 22 September 2005 and 23 January 2006 and randomized to either a control group (group C) or an intervention group (group I). Patients were selected according to a preoperative decision (by the surgeon and the intensivist) that postoperative care would be undertaken in the ICU because of co-morbidities or/and the surgical procedure. Patients less than 18 years old, with cardiac arrhythmias, with a body mass index of more than 40, or undergoing surgery with an open thorax, neurosurgery or emergency surgery, were excluded.
 
-Intraoperative monitoring
+BODY.INTRAOPERATIVE MONITORING:
 Heart rate, arterial pressure (radial arterial line, 20 gauge), pulse oximetry, and capnography (Capnostat Mainstream CO2 sensor, Respironics Inc., Murrysville, PA, USA) were monitored in all patients during the surgical procedure with the use of a multiparameter bedside monitor (DX 2020; Dixtal, São Paulo, SP, Brazil). In patients in group I, the arterial pressure curve was recorded via a specific module (IBPplus; Dixtal), allowing the automatic calculation of ΔPP by the monitor as follows (Figure 1). Each respiratory cycle is identified from the capnogram, systolic and diastolic arterial pressures are measured on a beat-to-beat basis, and pulse pressure is calculated as the difference between systolic and diastolic pressure. Maximum and minimum values for pulse pressure (PPmax and PPmin, respectively) are determined over each respiratory cycle, and ΔPP is calculated as a percentage as described originally [13]:
 Figure 1Automatic calculation of variation in arterial pulse pressure (ΔPP) from the recordings of arterial pressure and capnographic signals on a regular bedside monitor.
 ΔPP = 100 × (PPmax - PPmin)/[(PPmax + PPmin)/2]
 The mean value of ΔPP is automatically calculated over three consecutive floating periods of eight respiratory cycles, and the median value of this triple determination is displayed on the bedside monitor and updated after each new respiratory cycle (Figure 1).
 
-Protocol
+BODY.PROTOCOL:
 Randomization was performed preoperatively by using sealed envelopes. During the surgical procedure, patients were managed in accordance with our institution's standard of care. Group C received fluid intraoperatively at the discretion of the anesthetist, whereas group I received additional hydroxyethylstarch 6% (HES) boluses to minimize and maintain ΔPP ≤ 10%. This ΔPP cutoff value was chosen according to previous reports showing that when ΔPP ≤ 10%, an increase in stroke volume of 10% or more as a result of volume loading is very unlikely [7-11,13]. During the postoperative period, both groups were managed by intensivists (in the ICU), and clinicians (in the wards) not involved in the intraoperative management or in data collection. These individuals were not informed of patient allocation.
 
-Data collection
+BODY.DATA COLLECTION:
 Over the study period all data were collected prospectively and patients were followed up until hospital discharge. Preoperative and intraoperative data collection was undertaken by one of the investigators (VOSP), whereas postoperative data collection was undertaken by another (IPBL), who was not aware of the allocation group. Figure 2 shows the trial profile. Before surgery, the sex, age, weight, height, history of renal failure requiring dialysis or not, cirrhosis, chronic obstructive pulmonary disease, hypertension, peripheral vascular disease, coronary artery disease, other cardiac disease, diabetes mellitus, and cerebrovascular disease were recorded. The body mass index was calculated according to the standard formula (BMI = weight/height2). Serum creatinine concentration, prothrombin time, hemoglobin concentration, and platelet concentration were obtained from routine preoperative biological tests. During the surgical procedure, tidal volume, ventilatory frequency, infused volume of crystalloid solutions, HES, and blood products were recorded. Heart rate, mean arterial pressure, percutaneous arterial oxygen saturation, and hemoglobin concentration were collected both at the beginning and at the end of the surgical procedure. The duration of surgery was also recorded. After the surgical procedure, the following parameters were collected both at admission to the ICU and 24 hours later: mean arterial pressure, heart rate, percutaneous arterial oxygen saturation. During the 24 hours after admission to the ICU, venous lactate concentrations were measured every 6 hours and the mean lactate value was calculated over the first 24-hour period in the ICU. The need for continuous vasoactive (dopamine or/and norepinephrine (noradrenaline)) support was also recorded.
 Figure 2Trial profile.
 Postoperative ICU infections (pneumonia, abdominal, urinary tract, line-related sepsis and wound infections), respiratory complications (pulmonary embolism, acute lung injury, and respiratory support for more than 24 hours exclusive of acute lung injury), cardiovascular complications (arrhythmia, hypotension, acute pulmonary edema, acute myocardial infarction, stroke, and cardiac arrest exclusive of fatal outcome), abdominal complications (Clostridium difficile diarrhea, acute bowel obstruction, upper gastrointestinal bleed, and anastomotic leak), hematologic complications (platelet count less than 100,000/μl or prothrombin time less than 50%), and renal complications (urine output less than 500 ml/day or serum creatinine more than 170 μmol/l or dialysis for acute renal failure) were collected in accordance with criteria used previously by other investigators [3,14,15].
 
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 Data were analysed by comparing patients in group C with those in group I on an intention-to-treat basis. The primary outcome measure was the duration of postoperative stay in hospital. On the basis of our own hospital registry, the mean duration of postoperative stay in hospital in group C was a priori estimated at 16 ± 8 days (mean ± SD). In accordance with previous publications [1,2], we postulated that the mean duration of postoperative stay in hospital in group I could be 35% lower. A sample size of 33 patients in each group was calculated for a 0.05 difference (two-sided) with a power of 80% [16]. An intermediate analysis after the enrolment of the first 33 patients was planned, to readjust the population sample size if necessary. Secondary outcome measures were the number of postoperative complications per patient, as well as the duration of mechanical ventilation and stay in the ICU.
 Results are expressed as mean ± SD, or as median [interquartile ranges] for the duration of mechanical ventilation, stay in the ICU, and stay in hospital. Comparisons between groups C and I were performed with a non-parametric Mann-Whitney U test (quantitative data) or a χ2 test (qualitative data). In group I, the effect of HES administration on ΔPP during surgery was assessed with a non-parametric Wilcoxon rank-sum test. Linear correlations were tested by using the Spearman rank method. A P value less than 0.05 was considered statistically significant.
 
 
-Results
+BODY.RESULTS:
 Over the 4-month (22 September 2005 to 23 January 2006) enrolment study period, 237 patients were admitted to our medico-surgical ICU, 57 of these after a surgical procedure. Among these 57 postoperative patients, 33 patients fulfilled the inclusion criteria and agreed to participate in the study. Sixteen patients were randomly assigned to group C and 17 to group I (Figure 2). Thestudy was stopped after the intermediate analysis (33 patients enrolled) because we observed a significant decrease in the length of stay in hospital (primary endpoint) in group I.
-Before surgery
+BODY.BEFORE SURGERY:
 Before surgery, the groups were comparable in terms of sex ratio, age, weight, height, body mass index, American Society of Anesthesiology (ASA) score, type of surgery, and preoperative biological tests (Table 1). They were also comparable in terms of co-morbidities, except in regard to peripheral vascular disease, where the observed incidence was significantly higher (P = 0.04) in group I.
 Table 1Patients' characteristics before surgery
 Characteristic
@@ -127,7 +132,7 @@ Preoperative biological tests
 301,000 ± 110,000
 ASA, American Society of Anesthesiology physical status; C, control; I, intervention. aSerum creatinine more than 130 μmol/l; bP < 0.05, control group versus intervention group.
 
-During surgery
+BODY.DURING SURGERY:
 The duration of the surgical procedure, as well as respiratory settings (tidal volume and ventilatory frequency) were comparable in both groups (Table 2). During the surgical procedure, the amount of HES and the total amount of fluid (including crystalloid, HES, and blood products) was significantly greater in group I than in group C (Table 2). None of the patients received continuous vasoactive support during surgery. In group I (ΔPP was not measured in group C), ΔPP decreased significantly from 22 ± 7% to 9 ± 1% (mean ± SD; P < 0.0001) over the time frame of the surgical procedure, and was 10% or less at the end of the surgical procedure in all except four patients (range 7 to 11).
 Table 2Type of surgery, physiologic status, and fluid administered during the surgical procedure
 Parameter
@@ -232,7 +237,7 @@ Duration of surgery (hours)
 3.9 ± 2.0
 SpO2, percutaneous arterial oxygen saturation; ΔPP, variation in arterial pulse pressure; FFP, fresh frozen plasma; C, control; I, intervention. aP < 0.05, end of surgery versus start of surgery; bP < 0.0001, control group versus intervention group.
 
-After surgery
+BODY.AFTER SURGERY:
 On admission to the ICU, the mean arterial pressure was significantly greater in group I (Table 3); 24 hours after admission to the ICU, fewer patients required vasoactive support in group I, and blood lactate was lower in this group (Table 3). Postoperative complications are listed in Table 4. The number of patients with postoperative complications is shown in Figure 3. Fewer patients developed complications in group I (7 patients (41%) versus 12 patients (75%), P = 0.049). The number of complications per patient was lower in group I than in group C (1.4 ± 2.1 per patient versus 3.9 ± 2.8 per patient, P = 0.015). The median [interquartile range] duration of mechanical ventilation (1 [1 to 2] versus 5 [1 to 12] days, P < 0.05), stay in the ICU (3 [2 to 4] versus 9 [4.5 to 15.5] days, P < 0.01), and stay in hospital (7 [6 to 8.25] versus 17 [8 to 20] days, P < 0.01) was significantly lower in group I than in group C (Figure 4). Over the study period (until hospital discharge), five patients died (on days 7, 11, 18, 19, and 26) in group C, whereas two patients died (on days 7 and 22) in group I (P = 0.171). In group C, the cause of death was septic shock and ARDS in four cases (pneumonia n = 1, abdominal sepsis n = 2, pneumonia and urosepsis n = 1), and acute pulmonary edema in one case. In group I, the cause of death was unexplained cardiac arrest in one case, and acute respiratory failure in one case (tracheostomy complication). Because death does influence the duration of mechanical ventilation, the duration of stay in the ICU, and the duration of stay in hospital, we also compared these parameters when considering only survivors (n = 26). The median [interquartile range] duration of mechanical ventilation, stay in the ICU, and stay in hospital was 1 [1 to 2] versus 2 [0.25 to 5.5] days (P = 0.29), 3 [2.25 to 4] versus 6 [3.25 to 11.75] days (P = 0.014), and 7 [6 to 8] versus 16 [7.5 to 20.25] days (P = 0.024) in survivors of group I (n = 15) and group C (n = 11), respectively.
 Table 3Hemodynamic and physiologic status on admission to ICU and 24 hours later
 Status
@@ -361,7 +366,7 @@ Figure 3Numbers of patients with postoperative complications in the control and 
 Figure 4Box-and-whiskers representation of the duration (days) of mechanical ventilation (MV), stay in the intensive care unit (ICU), and stay in hospital in the control and intervention groups. The line inside a box denotes the median, the limits of the box denote the 75th centile of the data, and the whiskers represent the 90th centile of the data.
 
 
-Discussion
+BODY.DISCUSSION:
 Our study shows that monitoring and minimizing ΔPP by fluid loading during high-risk surgery decreases the incidence of postoperative complications and also the duration of mechanical ventilation, stay in the ICU, and stay in hospital.
 Hypovolemia can pass undetected before, during, and after major surgery. Aside from the inevitable losses in the intraoperative period mainly due to bleeding, most patients are still starved for a minimum of 6 hours preoperatively to reduce the risk of acid aspiration syndrome. Additionally, patients undergoing abdominal surgery frequently receive bowel preparation, another factor that may induce or worsen hypovolemia [17,18]. In our study population, all patients undergoing bowel surgery (n = 18) received a bowel preparation (2,000 ml of mannitol solution per os) administered over a period of 2–3 hours and started 16 hrs before the surgical procedure, and 2,500 ml of glucose solution intravenously over the same period. Other patients (n = 15) were starved for 12 hours before the surgical procedure and received 1,500 ml of glucose solution intravenously over this period. Classical cardiovascular parameters such as heart rate and arterial pressure are poor indicators of volume status, and these were in the normal range in both groups just before surgery. In contrast, in comparison with values reported previously [7-11], preoperative ΔPP values were quite high (in group I), suggesting that some of our patients were probably hypovolemic at the beginning of the surgical procedure.
 Perioperative hypovolemia leading to poor organ perfusion is thought to be a major factor in determining postoperative morbidity after major surgery. Optimization of circulatory status perioperatively was a concept first promulgated by Shoemaker and colleagues [19]. They found a significant reduction in mortality and stay in hospital in high-risk surgical patients receiving fluid loading with or without dobutamine to increase cardiac output and oxygen delivery to supranormal values. Comparable results from other groups [20-22] using a similar goal-directed approach lends further support to the importance of avoiding hypovolemia and tissue oxygen debt perioperatively.
@@ -373,19 +378,19 @@ The morbidity was high in our patients, with an incidence of postoperative compl
 The small number of patients enrolled in this study is also a limitation. Although patients were randomized, we observed that the groups were not comparable in terms of peripheral vascular disease (the incidence was higher in group I). If this finding could not be an advantage to group I, in which a better outcome was finally reported, it indicates the risk of imbalance between the groups as a result of the small sample size. In this regard, because we did not measure ΔPP in the control group, we cannot definitely exclude the possibility that ΔPP might have been different between groups C and I at the beginning of surgery. Our results therefore merit confirmation on a larger scale, and ideally on a multicentre basis. Such a trial is currently ongoing in several hospitals in São Paulo, Brazil. In contrast, the fact that we observed significant differences between the outcomes of two small groups of patients emphasizes the potential value of using ΔPP to tailor fluid administration during high-risk surgery, and the likelihood of observing similar differences in larger populations of patients.
 Finally, because ΔPP is directly influenced by the magnitude of cyclic changes in pleural pressure induced by mechanical inspiration, it cannot be recommended as a guide to fluid administration in patients who are not mechanically ventilated with regular tidal volume (for example patients undergoing surgery under regional anesthesia) or when chest compliance is abnormally increased (for example during open chest surgery) or decreased (for example in morbidly obese patients) [6]. In this regard, it must be noted that these populations were excluded from the present study, as were patients with cardiac arrhythmia, in whom ΔPP cannot be evaluated [31].
 
-Conclusion
+BODY.CONCLUSION:
 Our study shows that monitoring and minimizing ΔPP by volume loading during high-risk surgery decreases the number of postoperative complications and also the duration of mechanical ventilation, stay in the ICU, and stay in hospital. Thus, ΔPP may serve as a simple tool for improving the outcome of patients undergoing high-risk surgery. Further studies are required to confirm the results of our pilot study on a larger scale, as well as in different settings.
 
-Key messages
+BODY.KEY MESSAGES:
 • Monitoring and minimizing arterial pulse pressure variation (ΔPP) by volume loading during high-risk surgery decreases the duration of stay in hospital.
 • This goal-directed strategy is also useful in decreasing the number of postoperative complications, as well as the duration of mechanical ventilation and stay in the ICU.
 
-Abbreviations
+BODY.ABBREVIATIONS:
 ASA = American Society of Anesthesiology; ΔPP = variation in arterial pulse pressure; HES = hydroxyethylstarch; ICU = intensive care unit.
 
-Competing interests
+BODY.COMPETING INTERESTS:
 The named authors declare that they have no conflict of interest. Dixtal had no role in the study design, data collection, data analysis, data interpretation, or writing of the report.
 
-Authors' contributions
+BODY.AUTHORS' CONTRIBUTIONS:
 FM, MRL, and JOCA participated in the trial design. VOSP and IPBL obtained the data. MRL, FM, and MAO participated in the data analysis and interpretation of the results. FM and MRL were involved in the statistical analysis and wrote the paper. All authors read and approved the final manuscript.
 

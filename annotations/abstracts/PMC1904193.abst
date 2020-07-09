@@ -1,12 +1,17 @@
-Background
+TITLE: 
+Utilization of the PICO framework to improve searching PubMed for clinical questions
+
+
+
+ABSTRACT.BACKGROUND:
 Supporting 21st century health care and the practice of evidence-based medicine (EBM) requires ubiquitous access to clinical information and to knowledge-based resources to answer clinical questions. Many questions go unanswered, however, due to lack of skills in formulating questions, crafting effective search strategies, and accessing databases to identify best levels of evidence.
 
-Methods
+ABSTRACT.METHODS:
 This randomized trial was designed as a pilot study to measure the relevancy of search results using three different interfaces for the PubMed search system. Two of the search interfaces utilized a specific framework called PICO, which was designed to focus clinical questions and to prompt for publication type or type of question asked. The third interface was the standard PubMed interface readily available on the Web. Study subjects were recruited from interns and residents on an inpatient general medicine rotation at an academic medical center in the US. Thirty-one subjects were randomized to one of the three interfaces, given 3 clinical questions, and asked to search PubMed for a set of relevant articles that would provide an answer for each question. The success of the search results was determined by a precision score, which compared the number of relevant or gold standard articles retrieved in a result set to the total number of articles retrieved in that set.
 
-Results
+ABSTRACT.RESULTS:
 Participants using the PICO templates (Protocol A or Protocol B) had higher precision scores for each question than the participants who used Protocol C, the standard PubMed Web interface. (Question 1: A = 35%, B = 28%, C = 20%; Question 2: A = 5%, B = 6%, C = 4%; Question 3: A = 1%, B = 0%, C = 0%) 95% confidence intervals were calculated for the precision for each question using a lower boundary of zero. However, the 95% confidence limits were overlapping, suggesting no statistical difference between the groups.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 Due to the small number of searches for each arm, this pilot study could not demonstrate a statistically significant difference between the search protocols. However there was a trend towards higher precision that needs to be investigated in a larger study to determine if PICO can improve the relevancy of search results.
 

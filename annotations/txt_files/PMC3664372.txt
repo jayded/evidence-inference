@@ -1,51 +1,56 @@
-Objective
+TITLE: 
+CHADS2 and CHA2DS2-VASc score to assess risk of stroke and death in patients paced for sick sinus syndrome
+
+
+
+ABSTRACT.OBJECTIVE:
 The risk of stroke in patients with atrial fibrillation (AF) can be assessed by use of the CHADS2 and the CHA2DS2-VASc score system. We hypothesised that these risk scores and their individual components could also be applied to patients paced for sick sinus syndrome (SSS) to evaluate risk of stroke and death.
 
-Design
+ABSTRACT.DESIGN:
 Prospective cohort study.
 
-Settings
+ABSTRACT.SETTINGS:
 All Danish pacemaker centres and selected centres in the UK and Canada.
 
-Patients
+ABSTRACT.PATIENTS:
 Risk factors were recorded prior to pacemaker implantation in 1415 patients with SSS participating in the Danish Multicenter Randomized Trial on Single Lead Atrial Pacing versus Dual Chamber Pacing in Sick Sinus Syndrome (Danpace) trial. Development of stroke was assessed at follow-up visits and by evaluation of patient charts. Mortality was assessed from the civil registration system.
 
-Interventions
+ABSTRACT.INTERVENTIONS:
 Patients were randomised to AAIR (N=707) or DDDR pacing (N=708).
 
-Main outcome measures
+ABSTRACT.MAIN OUTCOME MEASURES:
 Stroke and death during follow-up.
 
-Results
+ABSTRACT.RESULTS:
 Mean follow-up was 4.3±2.5 years. In the AAIR group 6.9% patients developed stroke versus 6.1% in the DDDR group (NS). There was a significant association between CHADS2 score and the development of stroke (HR 1.41; 95% CI 1.22 to 1.64, p<0.001). CHA2DS2-VASc score was also significantly associated with stroke (HR 1.25; CI 1.12 to 1.40, p<0.001). CHADS2 score (HR 1.46; CI 1.36 to 1.56, p<0.001) and CHA2DS2-VASc score (HR 1.39; CI 1.31 to 1.46, p<0.001) were associated with mortality. Results were still significant after adjusting for AF and anticoagulation therapy.
 
-Conclusions
+ABSTRACT.CONCLUSIONS:
 CHADS2 and CHA2DS2-VASc score are associated with increased risk of stroke and death in patients paced for SSS irrespective of the presence of AF.
 
-Introduction
+BODY.INTRODUCTION:
 Stroke is one of the dominating causes of death and consumes a substantial part of the healthcare costs in the industrialised world. The predominant part (80%) of strokes is ischaemic including cases secondary to cardiac embolisms due to atrial fibrillation (AF).1
 The risk of stroke in AF patients can be quantified by various scoring systems. The most commonly used scheme for stratifying risk of stroke is the CHADS2 (Congestive heart failure, Hypertension, Age≥75 years, Diabetes mellitus, previous Stroke/transient ischaemic attack (TIA) (double weight)) score which has a range 0–6. In low-risk patients recent guidelines have recommended use of the extended CHA2DS2-VASc (Vascular disease, Age 65–74 years, (female) Sex category) score which supplements the CHADS2 score by two additional items and an alternative scoring of age with doubled weight to age ≥75 years (range 0–9).2
 Patients with sick sinus syndrome (SSS) and bradycardia are treated with cardiac pacing. Recently, the Danish Multicenter Randomized Trial on Single Lead Atrial Pacing versus the Dual Chamber Pacing in Sick Sinus Syndrome (the DANPACE trial) comparing AAIR and DDDR pacing in patients with SSS found no difference in mortality or occurrence of stroke between the two groups.3
 Thromboembolic events occur with a higher rate in patients with SSS and AF is common in this patient population.3–6 Patients with SSS therefore may share the same risk factors for stroke as patients with known AF. Although the CHADS2 and CHA2DS2-VASc score systems were constructed to address stroke risk in AF patients these score systems may be useful in other groups of cardiac patients. We therefore hypothesised that for patients with SSS treated with pacemaker therapy, the risk of stroke and the risk of death could be assessed by applying the CHADS2 and CHA2DS2-VASc score.
 
-Methods
-Study design
+BODY.METHODS:
+BODY.STUDY DESIGN:
 The DANPACE trial has previously been described in detail.3 In brief, the trial randomly assigned 1415 patients with SSS to AAIR pacing or DDDR pacing. The criteria for inclusion were: symptomatic bradycardia; documented sinoatrial block or sinus-arrest with pauses >2 s or sinus bradycardia <40 bpm for more than 1 min while awake; PR interval ≥0.22 s if aged 18–70 years or PR interval ≥0.26 s if aged ≥70 years; and QRS width <0.12 s.
 The main exclusion criteria were: atrioventricular block; bundle branch block; long-standing persistent AF (>12 months) or permanent AF; AF with ventricular rate <40 bpm for ≥1 min or pauses >3 s; a positive test for carotid sinus hypersensitivity, planned cardiac surgery; or a life expectancy shorter than 1 year. Documented paroxysmal AF was not an exclusion criterion. Enrolment began in March 1999 and was terminated in June 2008.
 The trial was conducted in accordance with the Helsinki Declaration and approved by the regional Ethics Committee and the Danish Data Protection Agency. The study was registered in Clinical Trial Gov (NCT00236158). All patients gave written informed consent before inclusion.
 
-Patient follow-up
+BODY.PATIENT FOLLOW-UP:
 Patients were clinically evaluated and pacemaker check was done after 3 months and then once every year after implantation until September 2009. In case of suspected thromboembolic events (stroke or TIA), supplementary information on hospital admissions, diagnosis of the event and degree of disability was collected from hospital files and general practitioners. Once every month, new deaths were identified by checking the study database against the Danish Civil Registration System.
 
-Definition of stroke
+BODY.DEFINITION OF STROKE:
 Stroke was recorded in the study Case Report Form (CRF) using clinical evaluations. Stroke was defined as: sudden development of focal neurological symptoms lasting more than 24 h. Decision on diagnostic CT or MRI scans was left to the discretion of the physician treating the patient, typically general practitioners, specialists in internal medicine or neurologists. Stroke endpoints were evaluated by an independent endpoint committee.
 
-Statistical analysis
+BODY.STATISTICAL ANALYSIS:
 The hypotheses of the current study were established prior to data analysis. Time to first stroke and time to death were analysed using Cox proportional hazards regression. Following the lines from the primary DANPACE publication a univariate analysis of each prespecified variable was performed. Furthermore, multivariate analysis including all significant univariate variables was performed. When oral anticoagulation (OAC) treatment was used as a time-dependant covariate, the latest known value for a given patient (OAC or no OAC) at a given time (as opposed to the baseline value) was used in the Cox calculations to find the model coefficients. C statistics was calculated using Harrels's C of concordance. Relative risk was expressed as HR with 95% CI. Statistical tests were two-tailed, and p<0.05 was considered statistically significant. Statistical analysis was performed using Stata V.11 (StataCorp. 2009, College Station, Texas, USA) and BMDP release V.8.1 (Statistical Solutions Ltd, Ireland).
 
 
-Results
-Population
+BODY.RESULTS:
+BODY.POPULATION:
 A total of 1415 patients were included in the analysis. Of these, 708 patients were randomised to the DDDR group. Baseline characteristics of patients are presented in table 1. Of the 1415 patients randomised in the DANPACE study 1392 patients were followed up at a total of 7496 follow-up visits. Mean follow-up time until stroke or censoring was 4.3 years (SD 2.5 years), that is, 6075 patient-years of follow-up. Mean follow-up time until death, or end of study was 5.4 years (SD 2.6 years) which comprises 7643 patient-years of follow-up. At the time of randomisation, 623 of the patients had a history of AF and 197 received OAC.
 Table 1Baseline clinical characteristics of the patients
 Clinical characteristicsAAIR pacing (n=707)DDDR pacing (n=708)p-ValueFemale gender, n (%)
@@ -140,12 +145,12 @@ NYHA functional class, n (%)
 The data were not complete for LVEF reduced (n=1127), NYHA functional class (n=1410).
 LVEF, left ventricular ejection fraction; NYHA, New York Heart Association; TIA, transient ischaemic attack.
 
-Stroke
+BODY.STROKE:
 In the analysis of CRF data immediately at study end a total of 86 strokes were reported in 73 patients. After final evaluation by the endpoint committee with review of patient charts a total of 102 strokes in 92 patients were identified and these 92 patients were analysed as end points in the present report. Forty-nine were in the AAI group and 43 in the DDD group (NS). Eighty-two strokes (80.4%) were verified by MRI or CT-imaging, 19 strokes were diagnosed clinically and for 1 stroke verification mode was unknown. Of those verified by imaging 72 were infarcts, 9 were bleedings and 1 was other.
 Data from univariate analysis of the total cohort of 1415 patients showed that age as a continuous variable was associated with an increased risk of stroke (HR 1.05 per one-year increase; 95% CI 1.02 to 1.07, p<0.001). Similarly, when the cohort was dichotomised by the median value an increased risk of stroke was seen in patients older than 75 years (HR 2.05; 95% CI 1.35 to 3.12, p<0.001). Previous stroke (HR 2.28; 95% CI 1.27 to 4.11, p=0.01) and previous TIA (HR 2.18; 95% CI 1.06 to 4.51, p=0.04) were also associated with increased risk of stroke. AF, OAC or aspirin treatment at baseline were not associated with development of stroke in the univariate analysis (NS).
 In a multivariate analysis where only baseline variables were included age as a continuous variable (HR 1.04; 95% CI 1.02 to 1.07, p<0.001) and previous stroke/TIA (HR 2.27; 95% CI 1.38 to 3.74, p=0.001) were associated with increased risk of stroke. Similarly, if the model included baseline variables and the time-dependent variable ‘OAC treatment’ an association with risk of stroke was seen with increasing age (HR 1.039; 95% CI 1.017 to 1.062, p<0.001) and previous stroke or TIA (HR 2.38; 95% CI 1.44 to 3.93, p<0.001). In this analysis ongoing OAC was associated with reduced risk of stroke (HR 0.46; 95% CI 0.24 to 0.90, p=0.02).
 
-CHADS2, CHA2DS2-VASc and stroke
+BODY.CHADS:2, CHA2DS2-VASc and stroke
 Figure 1 shows cumulative stroke rate (%) during follow-up stratified by CHADS2 and CHA2DS2-VASc scores and stratified according to age and previous stroke/TIA/arterial embolism.
 Figure 1Cumulative stroke rate (%) during follow-up stratified according to (a) CHADS2 score, (b) age (A) and previous stroke/TIA (S2) from the CHADS2 score, (c) CHA2DS2-VASc score and (d) age (A2+A) and previous stroke/TIA/arterial embolism (S2) from the CHA2DS2-VASc score.
 Applying the CHADS2 score (range 0–6) a significant association between score and risk of stroke was seen (figure 2). Among the five components in the CHADS2 score, only age and previous stroke/TIA significantly affected risk of a stroke. To address any confounding factors from patients with AF, we performed a sensitivity analysis excluding all patients with a history of AF at the time of enrolment (n=621). Forty-nine of these ‘AF-free’ patients had a stroke during follow up. The CHADS2 score was still significantly associated with risk of stroke and a univariate analysis of the CHADS2 variables in the AF-free cohort (n=794) still demonstrated age and previous stroke/TIA to be the only variables significantly associated with risk of stroke (figure 2). Of the 92 patients with stroke, 10 patients received OAC at baseline. A sensitivity analysis excluding patients receiving OAC at baseline (n=197) did not change the results (please see online supplementary table S2).
@@ -154,12 +159,12 @@ Applying the CHA2DS2-VASc score (range from 0 to 9) a significant association be
 Figure 3HRs for CHA2DS2-VASc score and its association with stroke for all patients and patients without a history of atrial fibrillation (AF) at baseline (AF-free patients). C, NYHA class at baseline >1; H, medical treatment for hypertension; A2, age≥75; D, diabetes; S2, previous stroke, TIA or arterial embolism; V, vascular disease; A, age 65–75; Sc, (female) sex category; A2S2A, A2, S2 and A combined (A2+S2+A); *Patients with unknown NYHA or LVEF at baseline counts as 0. **For the sum of A2 and A. ***S2 takes the values 0 and 2. HR corresponds to an increase in S2 by 1.
 The C statistics for predicting stroke with the CHADS2 and CHA2DS2-VASc scores were 0.62 (95% CI 0.56 to 0.68) and 0.60 (95% CI 0.54 to 0.66), respectively (see online supplementary table S1).
 
-AF, OAC and stroke
+BODY.AF, OAC AND STROKE:
 All 621 patients who had a history of paroxysmal AF had sinus rhythm at the time of randomisation. During the study 255 previously AF-free patients had either mode switch (as a surrogate measurement for AF, only DDDR patients) or ECG-verified AF at follow-up visits. Among patients treated with DDDR pacing AF burden (percentage of time with mode-switch; ie, a measure of time in AF) was evaluated in 650 patients. A total of 442 patients had mode switch during follow-up. Of these, only 246 had a history of AF at baseline. Of the 650 patients, 42 had stroke. Interestingly, among the 608 non-stroke patients mean percentage of time in mode switch was significantly lower than in the 42 stroke patients (mean 7.5±0.7% vs 10.8±3.6%, p=0.03).
 Antithrombotic treatment was used according to guidelines. At baseline 197 patients were treated with OAC and at study end a total of 345 patients were treated with OAC. In univariate analysis with time-dependent variables, patients treated with OAC had a reduced risk of stroke (HR 0.47; 95% CI 0.24 to 0.91, p=0.02).
 To exclude any confounding factors of AF and OAC we performed a multivariate analysis containing the most significant variables of the CHADS2 and CHA2DS2-VASc scores (age and previous stroke/TIA), presence of AF (new and old) and anticoagulation (new and old); the latter variables as time-dependent variables. Mode switch and/or ECG with AF in patients without known AF at baseline were counted as ‘new’ AF. Age (continuous) (HR 1.04; 95% CI 1.02 to 1.60, p<0.001) and previous stroke/TIA (HR 2.41; 95% CI 1.47 to 4.01, p<0.001) were still significantly associated with increased risk of stroke, while OAC was negatively associated with stroke (HR 0.41; 95% CI 0.20 to 0.80, p=0.01). AF (new or old) was not associated with risk of stroke (p=0.12).
 
-Mortality
+BODY.MORTALITY:
 In the AAIR group 209 patients (29.6%) died versus 193 (27.3%) patients in the DDDR group (unadjusted HR 1.06; 95% CI 0.88 to 1.29, p=0.53). The CHADS2 score (HR 1.46; 95% CI 1.36 to 1.56, p<0.001) and the CHA2DS2-VASc score (HR 1.39; 95% CI 1.31 to 1.46, p<0.001) were associated with mortality.
 When analysing the individual components of the CHADS2 score in a multivariate model age ≥75 years (HR 4.48; 95% CI 3.33 to 6.01, p<0.001), congestive heart failure (HR 2.80; 95% CI 1.88 to 4.17, p<0.001) and diabetes (HR 1.88; 95% CI 1.42 to 1.49, p<0.001) were independent factors associated with mortality. In the model there was also significant interaction between age and congestive heart failure (HR 0.52; 95% CI 0.33 to 0.83, p=0.006). Hypertension and previous stroke/TIA were not independently associated with mortality.
 When analysing the individual components of the CHA2DS2-VASc score in a multivariate model, age (age≥65+age≥75 years) (HR 2.79; 95% CI 2.25 to 3.46, p<0.001), congestive heart failure (HR 2.99; 95% CI 1.61 to 5.56, p=0.001), diabetes (HR 1.81; 95% CI 1.36 to 2.40, p<0.001) and arteriosclerotic heart disease (HR 1.29; 95% CI 1.05 to 1.59, p=0.015) showed independent association with mortality. Hypertension, gender and previous stroke were not independently associated with mortality.
@@ -167,31 +172,31 @@ We also performed sensitivity analysis with regard to mortality first excluding 
 The C statistics for predicting death with the CHADS2 and CHA2DS2-VASc scores were 0.66 (95% CI 0.63 to 0.69) and 0.67 (95% CI 0.64 to 0.70), respectively (see online supplementary table S1).
 
 
-Discussion
+BODY.DISCUSSION:
 The present study is the first to evaluate the prognostic impact of the CHADS2 and the CHA2DS2-VASc score systems to assess risk of stroke and mortality in a large cohort of patients with SSS. Results are based on more than 6000 patient-years of follow-up. The main findings of our study were that the CHADS2 and CHA2DS2-VASc scores could be used to assess risk of new stroke and death in this population of patients paced for SSS irrespective of the presence of AF. Age and prior stroke/TIA were the most significant components of the CHADS2 and the CHA2DS2-VASc scores associated with future stroke.
-CHADS2, CHA2DS2-VASc and stroke
+BODY.CHADS:2, CHA2DS2-VASc and stroke
 The CHADS2 and the CHA2DS2-VASc scores were originally constructed to evaluate risk of stroke in patients with AF with the purpose of clarifying the possible need of antithrombotic therapy.7
 8
 We found that the association between the CHADS2 and CHA2DS2-VASc scores and stroke was still significant when analysing only the patients without a history of AF at baseline in our cohort. The significance of the CHADS2 and CHA2DS2-VASc scores in a non-AF population has not been well established. In a recent study of patients with acute coronary syndrome, Poçi et al9 also found that the CHADS2 score could be used to identify non-AF patients at high risk of subsequent stroke. A retrospective study of patients screened for ischaemic heart disease (343 with AF and 2945 without) demonstrated that the CHADS22 score.10
 The reason for the CHADS2 and the CHA2DS2-VASc scores being able to predict stroke risk in a non-AF population is unclear. It is well known that SSS and AF often coexist. Our results indicate that patients with SSS share many of the same risk factors as AF patients. It may be that these risk factors predict increased risk of stroke, preceded or not preceded by AF. The risk factors contained in the CHADS2 and CHA2DS2-VASc scores may in future studies prove to be associated with stroke in other patient groups and in the general population. Nonetheless, these results suggest that OAC should be considered in patients paced for SSS, irrespective of the presence of AF. This however, needs further investigation, ideally in a randomised trial testing the possible net benefits of OAC versus no OAC in SSS patients without AF (and without other indications for OAC treatment) and with a CHADS2 or CHA2DS2-VASc score of ≥1.2
 
-AF, OAC and stroke
+BODY.AF, OAC AND STROKE:
 The number of strokes reported in the present study with more than 6.000 patient-years of follow-up is comparable with the observation of 90 strokes in 5664 patient-years of follow-up reported in The Mode Selection Trial (MOST) in SSS patients.6 Similar numbers were reported in small-sized studies of SSS patients.4
 5
 In our study a rather large proportion (44%) of the patients had a history of AF at baseline and at the end of the study 62% of the total cohort had either AF at baseline or ‘new’ AF documented by ECG or mode switch. However, this number is most likely underestimated since it was not possible to detect mode switch in the AAIR-paced group of patients.
 It is well established that AF increases the risk of stroke.11 However, excluding these patients from our analyses did not change the results. A possible explanation could be that all AF patients in the present study were appropriately anticoagulated and therefore had a reduced risk of stroke compared with other AF-populations. The method used for AF detection during follow-up in the present study was relatively non-sensitive, recording an ECG once per year. This may also explain why we could not confirm a recent report by Healey et al,12 indicating that short episodes of AF detected by the pacemaker also increases the risk of stroke. However, we did find a higher ‘mode-switch burden’ among the DDDR-paced patients who developed a stroke during follow-up, supporting the association between AF and stroke.
 OAC is known to reduce the risk of stroke in AF patients significantly.13 The number of OAC-treated patients increased from 14% to 24% during the course of the trial and the use of OAC was associated with a markedly lower risk of stroke. Nonetheless, excluding patients receiving OAC at baseline did not change the association between the CHADS2 and CHA2DS2-VASc scores and stroke, nor did adjusting for OAC in the multivariate analysis. This finding may be explained by appropriate anticoagulation of patients with AF at high risk of stroke.
 
-CHADS2, CHA2DS2-VASc and mortality
+BODY.CHADS:2, CHA2DS2-VASc and mortality
 The CHADS2 and CHA2DS2-VASc scores were not primarily designed to predict mortality. Nevertheless, in recent years a few studies have tested the scores’ ability to predict death in AF and non-AF populations. Poçi et al9 found that the CHADS2 score could predict subsequent death in AF and non-AF patients hospitalised for acute coronary syndrome as well as did Crandall et al10 in 3288 AF and non-AF patients undergoing coronary angiography for suspicion of coronary artery disease. A substudy from the RE-LY (Randomized Evaluation of Long-term anticoagulant therapY) trial also found that mortality rates increased with increasing CHADS2 score in 18 112 patients with AF receiving OAC.14 Our results confirm this association in a population of patients paced for SSS, even when excluding patients with AF or patients receiving OAC.
 
 
-Limitations
+BODY.LIMITATIONS:
 Since follow-up in the trial was performed after 3 months and then only once a year (eg, ECG recording and registration of medication status) the number of ‘new AF’ patients in the AAIR group could be underestimated. Likewise, the sensitivity of the analysis of OAC as a time-dependant variable may also be slightly limited. Since OAC treatment strategies for AF patients have changed since the course of this trial (1999 to 2008) favouring more anticoagulation,2 this could also have influenced the number of OAC-treated patients and number of strokes in the AF group. Finally, we have no data on time spent within therapeutic range for the patients receiving OAC.
 
-Conclusion
+BODY.CONCLUSION:
 This study indicates that the risk of stroke and death in patients with SSS treated with pacemaker can be evaluated by using either the CHADS2 score or the CHA2DS2-VASc score irrespective of the presence of AF. The score components age and previous stroke/TIA seem to contain the most important information about the risk of future stroke in this population.
 
-Supplementary Material
-Web appendix
+BODY.SUPPLEMENTARY MATERIAL:
+BODY.WEB APPENDIX:
 

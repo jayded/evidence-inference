@@ -1,12 +1,17 @@
-Background
+TITLE: 
+Empirical comparison of four baseline covariate adjustment methods in analysis of continuous outcomes in randomized controlled trials
+
+
+
+ABSTRACT.BACKGROUND:
 Although seemingly straightforward, the statistical comparison of a continuous variable in a randomized controlled trial that has both a pre- and posttreatment score presents an interesting challenge for trialists. We present here empirical application of four statistical methods (posttreatment scores with analysis of variance, analysis of covariance, change in scores, and percent change in scores), using data from a randomized controlled trial of postoperative pain in patients following total joint arthroplasty (the Morphine COnsumption in Joint Replacement Patients, With and Without GaBapentin Treatment, a RandomIzed ControlLEd Study [MOBILE] trials).
 
-Methods
+ABSTRACT.METHODS:
 Analysis of covariance (ANCOVA) was used to adjust for baseline measures and to provide an unbiased estimate of the mean group difference of the 1-year postoperative knee flexion scores in knee arthroplasty patients. Robustness tests were done by comparing ANCOVA with three comparative methods: the posttreatment scores, change in scores, and percentage change from baseline.
 
-Results
+ABSTRACT.RESULTS:
 All four methods showed similar direction of effect; however, ANCOVA (−3.9; 95% confidence interval [CI]: −9.5, 1.6; P=0.15) and the posttreatment score (−4.3; 95% CI: −9.8, 1.2; P=0.12) method provided the highest precision of estimate compared with the change score (−3.0; 95% CI: −9.9, 3.8; P=0.38) and percent change (−0.019; 95% CI: −0.087, 0.050; P=0.58).
 
-Conclusion
+ABSTRACT.CONCLUSION:
 ANCOVA, through both simulation and empirical studies, provides the best statistical estimation for analyzing continuous outcomes requiring covariate adjustment. Our empirical findings support the use of ANCOVA as an optimal method in both design and analysis of trials with a continuous primary outcome.
 

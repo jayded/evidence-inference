@@ -1,19 +1,25 @@
-Objective:
+TITLE: 
+Cisapride decreases gastric content aspiration in mechanically
+		  ventilated patients
+
+
+
+ABSTRACT.OBJECTIVE::
 To determine the effect of the prokinetic agent cisapride in the
 				prevention of aspiration of gastric contents.
 
-Design:
+ABSTRACT.DESIGN::
 A prospective randomized two-period crossover study.
 
-Setting:
+ABSTRACT.SETTING::
 Fourteen-bed polyvalent intensive care unit in a University
 				Hospital.
 
-Patients:
+ABSTRACT.PATIENTS::
 Eighteen intubated, mechanically ventilated patients who were
 				seated in a semirecumbent position were studied.
 
-Method:
+ABSTRACT.METHOD::
 Tc-99 m sulfur colloid (80 megabecquerels) was administered via
 				nasogastric tube on 2 consecutive days. Patients randomly received cisapride
 				(10 mg, via nasogastric tube) one day and a placebo the other. Bronchial
@@ -22,7 +28,7 @@ Tc-99 m sulfur colloid (80 megabecquerels) was administered via
 				bronchial fluid using a gamma counter and expressed as counts per min (cpm)
 				after correction for decay.
 
-Results:
+ABSTRACT.RESULTS::
 Sixteen out of 18 (88%) patients had increased radioactivity in
 				bronchial secretions. The radioactivity increased over time both with and
 				without cisapride, although it was lower in patients receiving cisapride than
@@ -31,7 +37,7 @@ Sixteen out of 18 (88%) patients had increased radioactivity in
 				patients received a placebo: 7540 ± 5330 and 21965 ± 16080 cpm,
 				respectively (P <0.05).
 
-Conclusion:
+ABSTRACT.CONCLUSION::
 Our results suggest that aspiration of gastric contents exists
 				even in patients who are kept in a semirecumbent position. Moreover, cisapride
 				decreases the amount of gastric contents aspiration in intubated and
@@ -40,7 +46,7 @@ Our results suggest that aspiration of gastric contents exists
 				semirecumbent position, did not completely prevent gastric content
 				aspiration.
 
-Introduction
+BODY.INTRODUCTION:
 The aspiration of gastric contents induces or exacerbates
 		  bronchoconstriction and it is the most commonly recognized pathogenic factor
 		  for the development of pneumonia, especially in ventilator-associated pneumonia
@@ -251,8 +257,8 @@ M, male; F, female; S, survival; D, death; ICH, intracerebral
 				COPD, chronic obstructive pulmonary disease; MV, days of mechanical
 				ventilation.
 
-Materials and methods
-Patients
+BODY.MATERIALS AND METHODS:
+BODY.PATIENTS:
 Eighteen mechanically ventilated patients (15 men and three women,
 			 mean age 52.33 ± 17.90 years) were included in this study. The protocol was
 			 approved by the Medical Ethics Committee of The University Hospital of Ioannina
@@ -263,7 +269,7 @@ Eighteen mechanically ventilated patients (15 men and three women,
 			 and the underlying clinical conditions of these patients are summarized in
 			 Table 1.
 
-Protocol
+BODY.PROTOCOL:
 All patients had a 5 mm diameter nasogastric tube in place for
 			 enteral nutritional support and received sucralfate 2 g twice daily for stress
 			 ulcer prophylaxis. The position of the nasogas-tric tube was radiographically
@@ -299,7 +305,7 @@ All patients were intubated and mechanically ventilated with an
 			 gastric content was performed just before the administration of the
 			 isotope.
 
-Measurements
+BODY.MEASUREMENTS:
 The activity of Tc99m was measured, using a gamma counter (Gamma
 			 Counting system, Crystal TM II, 5400 Series, Packard Instrumental Company), in
 			 a standard amount (1 ml) of bronchial secretions. The amount of radioactivity is
@@ -314,7 +320,7 @@ During the procedure, monitoring was performed with a two-lead
 			 electrocardiogram (ECG) and a 12-lead ECG was performed before and soon after
 			 the end of every procedure.
 
-Statistics
+BODY.STATISTICS:
 The differences between groups were tested for significance by
 			 analysis of variance (ANOVA) test for repeated measures. Results are expressed
 			 as mean± SD. A P value less than 0.05 was considered
@@ -326,7 +332,7 @@ Figure 2The cumulative radioactivity of bronchial secretions with and
 				without cisapride.
 
 
-Results
+BODY.RESULTS:
 Sixteen out of 18 patients (88%) demonstrated an increased
 		  radioactivity in bronchial secretions and it increased over time both in
 		  patients receiving cisapride or placebo. When patients received cisapride, the
@@ -358,7 +364,7 @@ There was no difference in the blood radioactivity before and 5 h after
 No side effects of cisapride were observed during this study. No
 		  cardiac arrhythmia or QT interval prolongation was noted.
 
-Discussion
+BODY.DISCUSSION:
 This study demonstrates that cisapride significantly reduced the
 		  pulmonary aspiration of gastric contents in mechanically ventilated patients
 		  although the conventional protective methods, such as semirecumbent position
@@ -417,7 +423,7 @@ Oral cisapride usually has few side effects. Nevertheless, cardiac
 		  medications and, possibly for this reason, no side effects were noted during
 		  the period of cisapride administration.
 
-Conclusion
+BODY.CONCLUSION:
 In summary, our results suggest that cisapride decreases the risk of
 		  aspiration of gastric contents in intubated and mechanically ventilated
 		  patients who are kept in a semirecumbent position. Conventional protective

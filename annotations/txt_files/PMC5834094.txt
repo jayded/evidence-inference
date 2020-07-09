@@ -1,25 +1,30 @@
-Abstract
-Aims
+TITLE: 
+Simultaneous display of multiple three-dimensional electrophysiological datasets (dot mapping)
+
+
+
+ABSTRACT.ABSTRACT:
+ABSTRACT.AIMS:
 Complex ablation procedures are supported by accurate representation of an increasing variety of electrophysiological and imaging data within electroanatomic mapping systems (EMS). This study aims to develop a novel method for representing multiple complementary datasets on a single cardiac chamber model. Validation of the system and its application to both atrial and ventricular arrhythmias is examined.
 
-Methods and results
+ABSTRACT.METHODS AND RESULTS:
 Dot mapping was conceived to display multiple datasets by utilizing quantitative surface shading to represent one dataset and finely spaced dots to represent others. Dot positions are randomized within triangular (surface meshes) or tetrahedral (volumetric meshes) simplices making the approach directly transferrable to contemporary EMS. Test data representing uniform electrical activation (n = 10) and focal scarring (n = 10) were used to test dot mapping data perception accuracy. User experience of dot mapping with atrial and ventricular clinical data is evaluated. Dot mapping ensured constant screen dot density for regions of uniform dataset values, regardless of user manipulation of the cardiac chamber. Perception accuracy of dot mapping was equivalent to colour mapping for both propagation direction (1.5 ± 1.8 vs. 4.8 ± 5.3°, P = 0.24) and focal source localization (1.1 ± 0.7 vs. 1.4 ± 0.5 mm, P = 0.88). User acceptance testing revealed equivalent diagnostic accuracy and display fidelity when compared with colour mapping.
 
-Conclusion
+ABSTRACT.CONCLUSION:
 Dot mapping provides the unique ability to display multiple datasets from multiple sources on a single cardiac chamber model. The visual combination of multiple datasets may facilitate interpretation of complex electrophysiological and imaging data.
 
-What's new?
+BODY.WHAT'S NEW?:
 
 This study develops a novel technology capable of displaying multiple parameters simultaneously on a single cardiac chamber model.
 A combination of colour and monochrome dots allows multiple datasets to be overlaid.
 Examples of both atrial and ventricular datasets are presented for surface and volumetric cardiac chamber models.
 
 
-Introduction
+BODY.INTRODUCTION:
 Substrate-based ablation strategies underpin the treatment of multiple atrial and ventricular arrhythmias. In identifying arrhythmia substrates, a variety of physiological parameters are proposed, for example late or decrement evoked potentials in ventricular tachycardia (VT)1,2 and complex fractionated electrograms (CFE) or low-voltage areas (LVAs) in atrial fibrillation (AF).3,4 In certain situations, combinations of datasets become especially valuable, for example bipolar voltage combined with local activation time in macro-re-entrant atrial tachycardia and VT mapping. Furthermore, emerging technologies such as non-invasive body surface mapping5 and contact rotor mapping6 may provide new physiological information describing the arrhythmia substrate. In addition to these electrical parameters, pre-procedural assessment with atrial and ventricular imaging aims to identify areas of scar,7 fibrosis,8 or adiposity,9 which may be crucial to arrhythmogenesis. Despite this array of complimentary clinical datasets, no contemporary electroanatomic mapping technology is widely available to statically display more than one dataset on a single cardiac chamber model. We therefore aimed to devise a method to represent multiple scalar datasets within a single spatial domain whilst minimizing (1) loss of fidelity in the original datasets and (2) operator-dependent manual segmentation or threshold selection of either dataset. This study demonstrates the application of this system to data representation for both atrial and ventricular arrhythmias.
 
-Methods
-Dot mapping
+BODY.METHODS:
+BODY.DOT MAPPING:
 Dot mapping displays multiple datasets on a single cardiac chamber model by representing one dataset with chamber surface shading (colour map), and further datasets by closely spaced dots (dot map) drawn within the same spatial domain. For surface models, dots are drawn over the underlying coloured surface (Figure 1A), and for volumetric models, dots are distributed throughout the volume being represented (Figure 1B). Dots are related to the dataset in two ways: (i) the location of the dots represents the location of the dataset being represented, and (ii) the density of the dots is proportional to the underlying dataset values. Examples of datasets that might be represented with dot mapping include late gadolinium signal intensity from cardiac magnetic resonance (CMR) imaging or bipolar voltage from electroanatomic mapping. Importantly, since only a fraction of available screen space is used to represent the dataset with dots, it remains possible to ‘see through’ the dots in order to continue to perceive the dataset represented by surface colour shading.
 
 Figure 1Dot mapping algorithm. (A) The dot mapping algorithm as applied to 3D surface shells. (B) The dot mapping algorithm as applied to 3D volumetric models. (C and D) Dot mapping algorithm performance for different values of q (see text for details). Distance (cm) represents the distance in the displayed scene between the surface of the cardiac chamber model and the user's viewpoint.
@@ -39,18 +44,18 @@ This new element weight is then used as the mean and variance of the Poisson dis
 (8)N=qA
 If the required number of dots (xi, Equation 2) for a simplex, i, is greater than ni, then the number of dots for that simplex is limited to ni. The constant q is chosen such that ‘dot density’ curves remain flat within expected operational zoom, brightness, and contrast levels.
 
-Dot perception
+BODY.DOT PERCEPTION:
 To test perception of dual datasets with dot mapping, the following tests were performed: (i) Orientation of the axis of maximal gradient of a scalar field across a two-dimensional (2D) circular geometry (diameter 2 cm) was varied, and the perceived angle of maximal gradient was recorded for colour maps alone, dot maps alone, and combined dot mapping. (ii) Correct localization of the region of the highest scalar field value within a 2D square domain (edge length 2 cm) was determined with colour maps alone, dot maps alone, and combined dot mapping. Example datasets for both experiments are given in Supplementary material online, Figure S1.
 
-Clinical data collection and pre-processing
-Atrial cases
+BODY.CLINICAL DATA COLLECTION AND PRE-PROCESSING:
+BODY.ATRIAL CASES:
 Two patients requiring atrial instrumentation were studied. One patient had previously undergone catheter ablation for persistent AF using a stepwise approach incorporating wide-area pulmonary vein encirclement and linear ablation at the mitral isthmus (Case 1). The other patient had previously undergone surgical correction of right and left ventricular outflow tract obstruction obstruction requiring right and left atriotomies. As part of the clinical procedures, a three-dimensional (3D) geometry of the left atrium was created using the Carto 3 mapping system (Biosense Webster, Diamond Bar, CA, USA). High-density, pre-ablation, peak-to-peak, bipolar voltage and activation maps were constructed using points acquired with the ablation catheter to give coverage of the entire chamber of interest. Case 1 underwent CMR imaging 3 weeks prior to ablation, including 3D, balanced, steady-state, free precession (b-SSFP) and 3D late gadolinium enhancement (LGE) imaging. CMR images were processed according to previously described methods.7 After semi-automatic segmentation of the atrial blood pool, the LGE images were registered to the b-SSFP images, and a 3D ‘shell’ of the LA was created with LGE data calculated by maximum intensity projection normal to the shell. CMR LGE data were registered to the endocardial electroanatomic mapping (EAM) geometry using landmark registration followed by an iterative closest point algorithm,10 which computes an optimal affine-based registration for fusion of the two surfaces.
 
-Ventricular cases
+BODY.VENTRICULAR CASES:
 
 
 
-User experience
+BODY.USER EXPERIENCE:
 User experience of dot mapping was assessed in three domains (diagnostic accuracy, dataset fidelity, and ease of use) and compared with traditional display techniques. Each domain was assessed using two atrial paired datasets (electrogram voltage vs. local activation time—see Supplementary material online, Figure S2). Users (n = 15) reviewed the paired datasets with and without dot mapping for 1 min and, after each 1 min period, the three domains were assessed using a 4-point Likert scale (Table 1).
 Table 1User experience assessment scale
 DomainLikert itemsDiagnostic accuracy
@@ -74,15 +79,15 @@ The system allows rapid assessment of the combined datasets.
 Users rated each Likert item using the 4-point scale: 0, strongly disagree; 1, disagree; 2, agree; 3, strongly agree.
 
 
-Statistics
+BODY.STATISTICS:
 Data analysis was performed using GraphPad Prism version 6.0c (GraphPad Software, San Diego, CA). Continuous variables are expressed as mean ± standard deviation. Groups were compared using the one-way analysis of variance (ANOVA) with Tukey's multiple comparisons test used to identify differences between groups. Likert score results are presented as median scores, and differences were assessed with the Wilcoxon two-sample signed rank test.
 
 
-Results
-Dot mapping algorithm performance
+BODY.RESULTS:
+BODY.DOT MAPPING ALGORITHM PERFORMANCE:
 Dot mapping ensures that the screen dot density (that is, the number of dots per unit screen area) remains constant for each simplex, or region of simplices with uniform signal intensity, regardless of the zoom level of the scene. In Figure 1C, a flat ‘screen dot density’ curve is demonstrated for a region of uniform signal intensity on a 2D test case regardless of zoom level. To improve computational efficiency, the number of dots drawn per unit area can be reduced by adjusting q (Equation 8) to q < ∞. In doing so, the operational zoom level within which screen dot density is constant is reduced (Figure 1D). The dot mapping algorithm allows the ‘brightness’ and ‘contrast’ of the dot map to be adjusted, for example, to avoid areas of saturation at high dataset values or limit the dot density at low dataset values.
 
-Dataset perception
+BODY.DATASET PERCEPTION:
 There was no difference between operator perception accuracy of the orientation of the axis of maximal gradient of a scalar field represented with colour mapping and dot mapping in isolation. In the presence of a second dataset, dot mapping was less accurate than colour mapping, but the absolute error increase was less than 5° (Table 2). There was no difference in the localization of a region of high scalar values (e.g. a region of scar) represented with colour mapping or dot mapping either in isolation or in the presence of a second dataset. Finally, the addition of a region of scar represented by dots had no effect on propagation perception accuracy of the underlying isochronal colour map (1.5 ± 1.8° vs. 2.2 ± 2.1°, P = 0.45).
 Table 2Data perception accuracy
 Single datasetsCombined datasetsColourDotsPColourDotsPMaximal gradient direction accuracy (°)
@@ -102,54 +107,54 @@ Source localization accuracy (mm)
 Maximal gradient direction accuracy (degrees) and source localization accuracy (mm) were assessed for colour mapping vs. dot mapping in isolation (‘single datasets’) and colour mapping vs. dot mapping in the presence of a second dataset (i.e. dots or colour, ‘combined datasets’). *, P < 0.05.
 
 
-Clinical cases
-Right atrial electrogram voltage with local activation time
+BODY.CLINICAL CASES:
+BODY.RIGHT ATRIAL ELECTROGRAM VOLTAGE WITH LOCAL ACTIVATION TIME:
 
 Figure 2A–C shows an example of dot mapping representing electroanatomic mapping data. In (A), a traditional isochronal activation map created by point-by-point mapping of the right atrium is shown. The activation pattern is consistent with typical right atrial flutter. In (B), a voltage map is shown with a threshold of 0.5 mV applied, revealing a lateral scar (purple) consistent with the previous atriotomy. In (C), the combined display of voltage and activation data alerts the operator to a possible second circuit involving the region of scar in the lateral right atrium. Entrainment in this case confirmed that this was in fact the primary tachycardia circuit.
 
 Figure 2Dot mapping atrial cases. (A and B) Right atrial maps showing local activation time and bipolar electrogram voltage, respectively. (C) Combined dot map showing local activation time (colour isochrones) and bipolar voltage (dots). (D and E) Post-ablation left atrial maps showing bipolar electrogram voltage and CMR LGE signal intensity, respectively. (F) Combined dot map showing bipolar electrogram voltage (colour) and CMR LGE signal intensity (dots).
 
-Left atrial electrogram voltage and CMR late gadolinium enhancement
+BODY.LEFT ATRIAL ELECTROGRAM VOLTAGE AND CMR LATE GADOLINIUM ENHANCEMENT:
 Dot mapping can be used to combine datasets from multiple modalities. In Figure 2D–F, a left atrial chamber model from a patient with post-ablation atrial tachycardia is shown. In (D), the EAM bipolar voltage map created in sinus rhythm demonstrated clearly delineated zones of low voltage around the pulmonary veins. In (E), the LGE shell shows enhancement (green) indicative of post-ablation atrial scar. The combination of both datasets in (F) using dot mapping allows the qualitative relationship between scar and voltage to be perceived. In particular, the density of the scar can be perceived with dot density reflecting the underlying signal intensity, i.e. the greater the dot density, the higher the LGE signal intensity.
 
-Ventricular endocardial and epicardial voltage maps
+BODY.VENTRICULAR ENDOCARDIAL AND EPICARDIAL VOLTAGE MAPS:
 In the atrial cases, above the dot map is drawn a small distance above the shell surface. Extending this approach can allow the dot map to be drawn some distance from the surface of the underlying colour map allowing the technique to be applied to ventricular endocardial and epicardial mapping. In Figure 3C, combined endocardial and epicardial voltage maps are shown using dot mapping. Compared with the individual colour shells, dot mapping (C) allows continued perception of the endocardial voltage map even when it is overlaid with the epicardial map. Furthermore, by manipulating the orientation of the dot map, it becomes possible to perceive the relationship between endocardial scar and epicardial scar (see Supplementary material online, Video S1).
 
 Figure 3Dot mapping ventricular cases. (A and B) Left ventricular bipolar electrogram voltage maps for endocardial and epicardial shells, respectively. (C) Combined left ventricular bipolar electrogram voltage maps showing endocardial voltage (colour) and epicardial voltage (dots). (D) CMR LGE showing scar in the mid to basal inferolateral wall. (E) Combined dot map showing bipolar electrogram voltage (colour) and CMR LGE (dots).
 
-Ventricular voltage mapping and late gadolinium enhancement cardiac magnetic resonance
+BODY.VENTRICULAR VOLTAGE MAPPING AND LATE GADOLINIUM ENHANCEMENT CARDIAC MAGNETIC RESONANCE:
 Dot mapping accepts volumetric datasets in addition to surface shells. In Figure 3D and E, the same case as above is displayed using dot mapping to display a combination of endocardial voltage and LGE CMR. The pre-ablation CMR scan in this patient identified a 75% thickness subendocardial scar in the mid to basal inferolateral wall (white arrows, D). By representing the CMR data with volumetric dot mapping, it becomes possible to perceive the relationship between the ischaemic scar and endocardial low-voltage regions.
 
 
-User experience
+BODY.USER EXPERIENCE:
 With 5 items in each domain, the maximum score per domain is 25. Dot mapping outperformed colour mapping in the ‘dataset co-registration’ domain (median score 24.5 vs. 10, P < 0.05). ‘Diagnostic accuracy’ (17 vs. 21) and ‘display fidelity’ (18 vs. 20) scored similarly, indicating that dot mapping faithfully represents the input datasets and is non-inferior to the separate display of the individual datasets.
 
 
-Discussion
+BODY.DISCUSSION:
 The main findings of this study are as follows. (i) Dot mapping is a new technique that can display at least two independent datasets within a common spatial domain whilst minimizing loss of fidelity of either dataset. (ii) Dot mapping can be applied to electrophysiological and imaging datasets in both the atrium and the ventricle. (iii) Dot mapping can facilitate the clinical interpretation of a second dataset in the context of a first dataset.
-Motivation
+BODY.MOTIVATION:
 Three developments over the past two decades promoted the design of the dot mapping system. Firstly, the quantity of data available to support clinical diagnoses of arrhythmia mechanisms in electrophysiology procedures is increasing. In early ablation procedures, activation times at a limited number of electrodes were used to diagnose the arrhythmia and demonstrate successful application of radiofrequency (RF) energy,11 but in modern procedures, mapping may be achieved using catheters with tens of electrodes recording hundreds of data points. The corresponding increase in the quantity of clinical data has led to techniques to summarize this data, reducing the number of dimensions involved and facilitating its display on 3D representations of a cardiac chamber. Secondly, with greater geometrical position and electrical accuracy of mapping systems, the opportunity has arisen to interpret electrograms in an increasing number of ways, including amplitude (voltage), timing (local activation time), complexity (fractionation), and under an increasing number of conditions (e.g. sinus rhythm, during tachyarrhythmia, and during pacing manoeuvres). Finally, an increased understanding of arrhythmia mechanisms requires that combinations of these parameters are considered simultaneously (e.g. voltage or imaging-derived scar and local activation time) in order to reach a clinical diagnosis.
 
-Relevance to prior work
+BODY.RELEVANCE TO PRIOR WORK:
 A limited number of techniques have previously been used to facilitate the co-display of more than one dataset across a spatial domain. Some of these are specific to electrophysiological procedures, whilst some are not. They include surface transparency, linked scenes, and ripple mapping.12 All of these have disadvantages for the co-display of scalar fields in electrophysiology. The use of surface transparency does allow simultaneous colouring of a shell to represent two datasets, but combinations of colours result in confusion for interpretation, and in practice, this technique limits the number of colours that can be used in one or both datasets. Displaying linked scenes, with two copies of the same geometry coloured differently and either side by side or toggled on user selection, relies on greater geometrical perception by the operator. Finally, in ripple mapping, neither of these limitations applies, but the system specifically represents electrogram voltage over time along with one other dataset and requires the display to be played as a moving scene, the spatial perception of which requires habituation to interpret the data.
 Considering the requirement for multiple dataset display in electrophysiological procedures and the aforementioned limitations of the existing techniques, this study developed a system that could display at least two independent scalar fields across the surface of a single cardiac chamber shell. One dataset is represented using a colour field, whilst the second dataset is represented using finely spaced dots of uniform colour. In doing so, perception of the datasets depends on the entirely different visual inputs of colour or quantity. The fact that dots are displayed as single pixels with a limited maximum density ensures that the underlying colour data set can still be perceived.
 
-Clinical applications
+BODY.CLINICAL APPLICATIONS:
 This paper presents a proof-of-concept study of a methodology for overlaying multiple datasets in electroanatomic mapping platforms, which should undergo further clinical evaluation. Potential applications of dot mapping include representation of both electrogram- and imaging-derived datasets, in particular where combinations of these datasets could yield additional clinically relevant diagnostic information. As a research tool, dot mapping could allow pre-procedural measurements, for example, from electrocardiographic13 or CMR imaging14 to be directly compared with intra-procedural measurements, for example electrogram complexity or voltage.7 As a clinical tool, dot mapping could facilitate co-representation of datasets in both atrial and ventricular ablation procedures. A particular strength of dot mapping may be the interpretation of activation maps in scar-related atrial tachycardia.15 During AF ablation procedures, both LVAs3 and regions of signal complexity16 have been used as targets for substrate modification. By representing the intersection of LVAs and regions of signal complexity, dot mapping may reveal atrial regions of particular importance to arrhythmogenesis. Finally, advanced imaging techniques may soon aid identification of atrial or ventricular regions (e.g. the critical isthmus in VT) crucial to arrhythmogenesis.17 Dot mapping would allow this information to be available to the operator without hindering intra-procedural collection or display of electroanatomical mapping data in the usual way.
 
-Limitations
+BODY.LIMITATIONS:
 Perception of datasets using dot mapping relies on the proximity between finely spaced dots. In order to correctly perceive this relationship, the viewing position should be normal to the region of interest. Since complex chamber geometries are viewed in electroanatomic mapping platforms, the perception of dot mapping is likely to require additional map manipulation compared with colour mapping.
 
 
-Conclusions
+BODY.CONCLUSIONS:
 This study has developed a new technology that facilitates the display and clinical interpretation of multiple electrophysiological datasets. We have demonstrated the use of the system with both atrial and ventricular data using both surface and volumetric chamber models. Future work should assess intra-procedural use of dot mapping in the management of complex arrhythmias.
 
-Funding
+BODY.FUNDING:
 This work was supported by the National Institute for Health Research (NIHR) Biomedical Research Centre at Guy's and St Thomas’ NHS Foundation Trust and King's College London, and the British Heart Foundation (PG/13/37/30280). The views expressed here are those of the authors and not necessarily those of the NHS, the NIHR, or the Department of Health.
 
 Conflicts of interest: The work presented in this manuscript is subject to a patent application: International Patent Application No. PCT/GB2014/050603 with publication number WO 2014/132080. Method and System for Overlaying Data or Images. Williams and Linton; King's College London.
 
-Supplementary Material
+BODY.SUPPLEMENTARY MATERIAL:
 Supplementary Figure S1Click here for additional data file.
 Supplementary Figure S2Click here for additional data file.
 Supplementary Video S1Click here for additional data file.

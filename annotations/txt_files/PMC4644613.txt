@@ -1,28 +1,33 @@
-Background:
+TITLE: 
+Antidepressant Effect of Combined Ketamine and Electroconvulsive Therapy on Patients With Major Depressive Disorder: A Randomized Trial
+
+
+
+ABSTRACT.BACKGROUND::
 One of the shortcomings of the available treatments for major depressive disorder (MDD) is the time delay between starting the treatment and achieving an antidepressant response.
 
-Objectives:
+ABSTRACT.OBJECTIVES::
 We aimed to determine the effect of Ketamine as a synergistic antidepressant and anesthetic agent on MDD in electroconvulsive therapy (ECT).
 
-Patients and Methods:
+ABSTRACT.PATIENTS AND METHODS::
 Twenty-two patients with MDD received Ketamine and Propofol as anesthetic agents compared with 20 patients as the control group who received Propofol in a double-blind randomized clinical trial. The Hamilton rating scale for depression was used to determine the changes in symptoms severity during ECT and a 2-week follow-up.
 
-Results:
+ABSTRACT.RESULTS::
 Both groups showed a reduction in depression severity, but there was no significant difference between the groups in the recovery process (P = 0.92). However, the cognitive performance recovery time in the Ketamine group was lower than that in the control group (P = 0.042).
 
-Conclusions:
+ABSTRACT.CONCLUSIONS::
 This study could not show the effect of Ketamine on depression recovery in a 2-week follow-up period. Nevertheless, Ketamine may provide a better cognitive performance in patients under ECT.
 
-1. Background
+BODY.1. BACKGROUND:
 One of the shortcomings of the available treatments for major depressive disorder (MDD) is the time delay between commencing the treatment and achieving an antidepressant response. Most of the approved drugs for such treatment need at least 2 to 4 weeks for the onset of their effects, and sometimes the peak of drug efficacy is achieved after 6 - 8 weeks (1).
 The fast effectiveness and the short period between the onset of action and the relief of symptoms are the major advantages of electroconvulsive therapy (ECT) compared with common antidepressant drugs; however, similar to drugs, the time delay between the start of ECT and its effect is still a weak point of this treatment modality (2, 3). Despite the relative superiority of ECT to drugs in the treatment of MDD, the patients’ suffering caused by the symptoms and the possibility of harmful behaviors in the period between the start of treatment and the response to it still remains one of the major challenges in the treatment of depression.
 Ketamine is a non-competitive inhibitor of the N-methyl-D-aspartic acid (NMDA) receptors. It is sometimes used for induction of anesthesia in ECT because it neither raises the convulsive threshold nor impairs cognition (4). Furthermore, there are some evidences showing the elevated mood in patients receiving Ketamine (5-7). Hence it seems that the induction of anesthesia by Ketamine, which has mood enhancing effects, during ECT, may expedite the process of MDD recovery.
 Recent studies suggest the probability of the synergic effects of ECT and Ketamine in accelerating the recovery of patients, but controversial results make performing more research in this field mandatory (8). Some reports show that Ketamine during ECT can have neuroprotective effects and reduce its cognitive side effects to some extent (7, 9), while other studies report effects to the contrary. Additionally, according to the results of some other investigations, Ketamine itself may cause cognitive impairments (10). It, therefore, seems that more studies are needed to illuminate the effect of Ketamine on patients’ cognitive conditions after ECT.
 
-2. Objectives
+BODY.2. OBJECTIVES:
 The present report evaluates the role of Ketamine in accelerating antidepressant effects and its cognitive effect after ECT.
 
-3. Patients and Methods
+BODY.3. PATIENTS AND METHODS:
 This double-blind randomized clinical trial study recruited MDD patients who received ECT in Qods Hospital, Sanandaj, West of Iran, between July 2010 and June 2012. The inclusion criteria were comprised of age between 18 and 65 years, normal IQ, suffering from MDD according to the diagnostic and statistical manual of mental disorders, 4th edition, text revision (DSM-IV-TR) criteria, and having a score of 20 or higher in the Hamilton rating scale for depression (HRSD). The HRSD scores, vital signs, and duration of reorientation were collected by an author who was blind to group assignment. The patients were also blind to the received medication and only the anesthesiologist responsible for the induction of anesthesia knew which patient received which drug.
 The exclusion criteria consisted of substance or drug dependence for up to at least 3 months before the study, any contraindication for receiving ECT, cognitive impairment, epilepsy, receiving ECT in the previous 3 months, and anesthesiology class > II according to the American society of anesthesiologists (ASA) physical status classification system. All the included patients provided a written informed consent.
 This study was approved by the ethics committee of Kurdistan university of medical sciences and was registered in the Iranian registry of clinical trials (IRCT.ir#IRCT138811022935N2). As the study was done under close observation in the hospital, no changes were made in the type and doses of the already prescribed drugs. The number of ECT sessions was determined by the physician.
@@ -31,7 +36,7 @@ The HRSD scores were obtained one day before ECT onset, the day after the third 
 At time 0, the intervention group received 0.3 mg/kg of Ketamine Hydrochloride (manufactured by ROTEXMEDICA, Germany) intravenously (IV) which was diluted with 5 mL of saline; and in the control group, Ketamine was replaced with 5 mL of Normal Saline. After 30 seconds, both groups received 0.5 mg of Atropine IV. Thirty seconds later, after the loss of eyelid reflex, anesthesia was induced with 1 mg/kg of Propofol 1% IV (manufactured by Fresenius Kabi, Austria GmbH). Muscle relaxation was achieved by the administration of 0.5 mg/kg of Succinylcholine IV. Before Succinylcholine administration, a manometer cuff was fastened to one of the legs and blown up to 30 mL higher than systolic pressure and was retained until the end of seizure. Propofol complementary doses were administered if needed. Then, in all the patients, lung ventilation with 100% oxygen was performed by mask. The anesthesiologist was the only person aware of the administered drugs.
 After complete relaxation, electric stimulation was performed using an ECT apparatus (IEC 601-1 Type BF Class 1, IRAN) with bifrontotemporal electrode placement. For the first session, the patients received 30% to 50% of maximum output stimulus. The blood pressure and heart rate of the patients were also evaluated 5 minutes after the motor seizures were ended.
 To assess the patients’ cognitive performance recovery time, 10 questions relating to orientation were asked at 5-minute intervals, after terminating the motor seizures (Box 1). The minimum cognitive performance recovery time was considered when the patient was able to answer all the 10 questions correctly. Similar assessments have been performed to measure the patients’ cognitive performance recovery time in previous studies (7, 11).
-Box 1.Assessment of the Patients’ Cognitive Performance Recovery Time
+Box 1.BODY.ASSESSMENT OF THE PATIENTS’ COGNITIVE PERFORMANCE RECOVERY TIME:
 Questions for Evaluating the Patients’ Cognitive Performance Recovery Time
 1
 
@@ -74,10 +79,10 @@ What is the name of your doctor?
 Whom did you bring here?
 The data were entered into STATA (v.12) software. Repeated measurement was used to compare the trend of the HRSD, blood pressure, heart rate, seizure duration, and cognitive performance recovery time at different time points. The within-subject contrasts test was employed to assess the interaction effects between group and time. The sphericity assumption was assessed with the Mauchly test. The average of the P values after adjusting the degree of freedom through the Greenhouse-Geisser and Huynh-Feldt was reported for some of the variables for which sphericity assumption was rejected.
 
-4. Results
+BODY.4. RESULTS:
 In the control group, one patient was excluded because of consent withdrawal for ECT and one more patient was excluded because of early discharge from the hospital. Finally, of the 42 patients whose data were analyzed at the end of the study, 22 patients were in the intervention group (27.3% men and 72.7% women) and 20 patients (35% men and 65% women) were in the control group (Figure 1). The two groups had no significant difference in sex distribution (P= 0.74, χ2 = 0.29, df = 1), education level (P = 0.72, χ2 = 1.5, df = 3), and mean age (P = 0.82, t = 0.23, df = 40) (Table 1).
-Figure 1.Consort Diagram, Showing the Recruitment and Progress of the Trial Participants
-Table 1.Demographic Characteristics of the Patients in the Ketamine and Control Groups a
+Figure 1.BODY.CONSORT DIAGRAM, SHOWING THE RECRUITMENT AND PROGRESS OF THE TRIAL PARTICIPANTS:
+Table 1.BODY.DEMOGRAPHIC CHARACTERISTICS OF THE PATIENTS IN THE KETAMINE AND CONTROL GROUPS :a
 VariableKetamine GroupControl GroupP Value
 Gender
 
@@ -124,7 +129,7 @@ a Data are presented as No. (%) or mean ± standard deviation.
 b Fisher exact test.
 c Independent ttest.
 There was no significant difference in the motor seizure duration between the two groups (P = 0.395, df = 5, F = 1.04) (Table 2).
-Table 2.Comparison of the Intervention Outcomes and Side Effects Between the Ketamine and Control Groups a,b
+Table 2.BODY.COMPARISON OF THE INTERVENTION OUTCOMES AND SIDE EFFECTS BETWEEN THE KETAMINE AND CONTROL GROUPS :a,b
 GroupsT1T2T3T4T5T6d.fFP Value
 Motor Seizure Duration, s 
 c
@@ -293,15 +298,15 @@ b Data are presented as mean ± standard deviation.
 c T: ECT session.
 d T: time of follow-up.
 The mean cognitive performance recovery time in the intervention group was lower than control group (P = 0.042, df = 5, F = 2.36) (Figure 2 and Table 2).
-Figure 2.Comparison of the Mean Cognitive Performance Recovery Time
-(Minute) Between the Ketamine and Control Groups
+Figure 2.BODY.COMPARISON OF THE MEAN COGNITIVE PERFORMANCE RECOVERY TIME
+(MINUTE) BETWEEN THE KETAMINE AND CONTROL GROUPS:
 T, ECT Session.
 A comparison of the HRSD scores showed similar changes between the groups. There were no significant differences between the groups in terms of the rate and speed of the recovery process (P = 0.82, df = 3, F = 0.31) (Figure 3, Table 2).
-Figure 3.Comparison of the Mean Hamilton Score Variation Between the Ketamine and Control Groups During the Treatment
+Figure 3.BODY.COMPARISON OF THE MEAN HAMILTON SCORE VARIATION BETWEEN THE KETAMINE AND CONTROL GROUPS DURING THE TREATMENT:
 T1, one day before ECT onset; T2, A day after the third session; T3, A day after the last session; T4, Two weeks after the last session.
 The results of this study did not show any significant difference in cardiac side effects between the patients in both groups before and after ECT (Table 2). Other plausible side effects of Ketamine such as postictal agitation, hallucination, or derealization were not seen in the participants of either group.
 
-5. Discussion
+BODY.5. DISCUSSION:
 In this study, we assessed the efficacy of Ketamine on the rate of recovery from MDD by adding it to one of the routine methods of anesthesia induction in ECT. We could not find significant differences in the symptom recovery, seizure duration, and blood pressure alterations between the two groups. However, the cognitive performance recovery time in the Ketamine group was better than in the control group.
 In the current study, the evaluation of cognitive performance recovery time in both groups revealed that the patients who received Ketamine were able to answer the cognitive ability questions faster than the control group. In Mc Daniel and colleagues’ study, the Ketamine-administered patients for ECT showed less memory impairment than the Etomidate-administered patients.The authors suggested the antagonistic effect of Ketamine on the NMDA receptors as a protective agent against the side effects of ECT on the cognitive abilities of patients (9). Krystal and colleagues also reported a reduction in cognitive disabilities caused by ECT after the Ketamine usage (7). In contrast, in a report by Loo and colleagues, administering Ketamine with Thiopentone did not affect the neuropsychological side effects of ECT in the treated patients. The Ketamine dose was 0.5 mg/kg in that study, and the patients underwent ultrabrief pulse-width right unilateral ECT (8). As unipolar ECT has normally fewer side effects, one of the probable reasons for the lack of efficacy of Ketamine on cognition in their study could be the different ECT modality. In addition, evidence has also shown that the Ketamine effect on glutamate transportation via the NMDA receptors is dose-dependent and is shaped like an inverted U (14-16), which can be a possible explanation for the variations in different reports.
 In our study, although in 5 out of 6 sessions of ECT, the motor seizure in the Ketamine-administered patients was more than that in the control patients, the difference was not significant. In both groups, the minimum seizure duration was more than 25 seconds. Our finding is in line with that reported by Kayhan and colleagues, who stated that their groups had no difference in motor seizure duration, but the quality of seizure was better in the Ketamine group. In that study, the Ketamine dose was 0.5 mg/Kg and the authors also succeeded in recording the seizure time by electroencephalography (EEG) (13). On the other hand, Krystal and colleagues showed that increasing the Ketamine dose (0.7 to 2.8 mg/kg) could promote the seizure duration significantly compared with the administration of Methohexitone only (7). It seems that the difference in results stems from the Ketamine dose or mixing it with other drugs and the methods of seizure recording. As we could not record the seizures using EEG, we can make no claims regarding the quality of seizure.
