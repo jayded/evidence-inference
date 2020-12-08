@@ -97,7 +97,7 @@ class Annotation:
                           prompt_id=self.prompt_id,
                           tokenized_sentences=self.tokenized_sentences,
                           i=tuple(handle_str(self.i)),
-                          c=tuple(handle_str(self.c)),
+                          c=None,
                           o=tuple(handle_str(self.o)),
                           evidence_texts=tuple(handle_str(s) for s in set(map(str.lower, filter(lambda x: isinstance(x, str), self.evidence_texts)))),
                           evidence_spans=self.evidence_spans,
@@ -114,12 +114,13 @@ def get_identifier_sampler(params: dict) -> Callable[[Annotation], List[Tuple[to
         neg = []
         for tokens, sent in zip(ann.tokenized_sentences, ann.doc.sentences):
             i = torch.IntTensor(ann.i)
-            c = torch.IntTensor(ann.c)
             o = torch.IntTensor(ann.o)
-            if sent.labels is not None and sent.labels['evidence'] == 1:
-                pos.append((tokens, (i, c, o), 1))
+            if ann.significance_class == 'evidence mismatch':
+                neg.append((tokens, (i, o), 0))
+            elif sent.labels is not None and sent.labels['evidence'] == 1:
+                pos.append((tokens, (i, o), 1))
             else:
-                neg.append((tokens, (i, c, o), 0))
+                neg.append((tokens, (i, o), 0))
         samples = random.sample(neg, k=min(len(neg), int(ratio * len(pos)))) + pos
         random.shuffle(samples)
         return samples
@@ -134,12 +135,13 @@ def get_length_identifier_sampler(params: dict) -> Callable[[Annotation], List[T
         neg = []
         for tokens, sent in zip(ann.tokenized_sentences, ann.doc.sentences):
             i = torch.IntTensor(ann.i)
-            c = torch.IntTensor(ann.c)
             o = torch.IntTensor(ann.o)
-            if sent.labels is not None and sent.labels['evidence'] == 1:
-                pos.append((tokens, (i, c, o), 1))
+            if ann.significance_class == 'evidence mismatch':
+                neg.append((tokens, (i, o), 0))
+            elif sent.labels is not None and sent.labels['evidence'] == 1:
+                pos.append((tokens, (i, o), 1))
             else:
-                neg.append((tokens, (i, c, o), 0))
+                neg.append((tokens, (i, o), 0))
         #samples = random.sample(neg, k=min(len(neg), int(ratio * len(pos)))) + pos
         #random.shuffle(samples)
         #return samples
@@ -160,13 +162,14 @@ def identifier_everything_sampler(ann: Annotation) -> List[Tuple[torch.IntTensor
     ret = []
     for tokens, sent in zip(ann.tokenized_sentences, ann.doc.sentences):
         i = torch.IntTensor(ann.i)
-        c = torch.IntTensor(ann.c)
         o = torch.IntTensor(ann.o)
-        if sent.labels is not None and sent.labels['evidence'] == 1:
+        if ann.significance_class == 'evidence mismatch':
+            neg.append((tokens, (i, o), 0))
+        elif sent.labels is not None and sent.labels['evidence'] == 1:
             cls = 1
         else:
             cls = 0
-        ret.append((tokens, (i, c, o), cls))
+        ret.append((tokens, (i, o), cls))
     return ret
 
 
@@ -177,10 +180,9 @@ def get_classifier_oracle_sampler(params: dict) -> Callable[[Annotation], List[T
         pos = []
         for tokens, sent in zip(ann.tokenized_sentences, ann.doc.sentences):
             i = torch.IntTensor(ann.i)
-            c = torch.IntTensor(ann.c)
             o = torch.IntTensor(ann.o)
             if sent.labels is not None and sent.labels['evidence'] == 1:
-                pos.append((tokens, (i, c, o), ann.significance_class))
+                pos.append((tokens, (i, o), ann.significance_class))
         if len(pos) == 0:
             return pos
         return random.sample(pos, k=1)
@@ -203,10 +205,9 @@ def get_classifier_sampler(params: dict) -> Callable[[Annotation], List[Tuple[to
         ret = []
         for tokens, sent in zip(ann.tokenized_sentences, ann.doc.sentences):
             i = torch.IntTensor(ann.i)
-            c = torch.IntTensor(ann.c)
             o = torch.IntTensor(ann.o)
             if sent.labels is not None and sent.labels['evidence'] == 1:
-                ret.append((tokens, (i, c, o), ann.significance_class))
+                ret.append((tokens, (i, o), ann.significance_class))
         random.shuffle(ret)
         return ret 
     return classification_sampler
@@ -215,17 +216,16 @@ def classifier_everything_sampler(ann: Annotation) -> List[Tuple[torch.IntTensor
     ret = []
     for tokens, sent in zip(ann.tokenized_sentences, ann.doc.sentences):
         i = torch.IntTensor(ann.i)
-        c = torch.IntTensor(ann.c)
         o = torch.IntTensor(ann.o)
-        ret.append((tokens, (i, c, o), ann.significance_class))
+        ret.append((tokens, (i, o), ann.significance_class))
     return ret 
 
 def mask_sampler(sampler: Callable[[Annotation], List[Tuple[torch.IntTensor, Tuple[torch.IntTensor, torch.IntTensor, torch.IntTensor], int]]],
                  fields_to_mask: Set[str]) -> Callable[[Annotation], List[Tuple[torch.IntTensor, Tuple[torch.IntTensor, torch.IntTensor, torch.IntTensor], int]]]:
     fields_to_tuple_pos = {
         'i': 0,
-        'c': 1,
-        'o': 2,
+        #'c': 1,
+        'o': 1,
     }
     fields_to_mask = {fields_to_tuple_pos[f] for f in fields_to_mask}
     pad = torch.IntTensor([0])
@@ -260,7 +260,7 @@ def make_preds_batch(classifier: nn.Module,
     sentences, icos, targets = zip(*filter(lambda x: x, batch_elements))
     targets = torch.tensor(targets, dtype=torch.long)
     sep = torch.tensor([sep_token_id], dtype=torch.int)
-    queries = [torch.cat([i, sep, c, sep, o]).to(dtype=torch.long) for (i,c,o) in icos]
+    queries = [torch.cat([i, sep, o]).to(dtype=torch.long) for (i,o) in icos]
     sentences = [torch.tensor(s, dtype=torch.long) for s in sentences]
     preds = classifier(queries, sentences)
     targets = targets.to(device=preds.device)
@@ -336,10 +336,10 @@ class DecodeInstance:
             cls = self.classification_class
         elif class_type == 'unconditioned_classifier':
             cls = self.classification_class
-            ico = (torch.IntTensor([0]), torch.IntTensor([0]), torch.IntTensor([0]))
+            ico = (torch.IntTensor([0]), torch.IntTensor([0]))
         elif class_type == 'unconditioned_identifier':
             cls = self.identifier_class
-            ico = (torch.IntTensor([0]), torch.IntTensor([0]), torch.IntTensor([0]))
+            ico = (torch.IntTensor([0]), torch.IntTensor([0]))
         elif class_type == 'ico_only':
             cls = self.classification_class
             sent = (0,)
@@ -370,7 +370,7 @@ def oracle_decoding_instances(data: List[Annotation]) -> List[DecodeInstance]:
                                                    prompt_id=ann.prompt_id,
                                                    idx=-1 * ev_id,
                                                    sentence=ev_text,
-                                                   ico=(torch.IntTensor(ann.i), torch.IntTensor(ann.c), torch.IntTensor(ann.o)),
+                                                   ico=(torch.IntTensor(ann.i), torch.IntTensor(ann.o)),
                                                    identifier_class=1,
                                                    classification_class=ann.significance_class))
     return oracle_instances
@@ -658,7 +658,7 @@ def decode(evidence_identifier: nn.Module,
             return ' '.join(detokenizer[x.item() if isinstance(x, torch.Tensor) else x] for x in sent)
         def view(id_predictions, unid_soft_predictions, id_truths, cls_predictions, cls_truths, ann, best, p=False):
             out = []
-            out.append(f'ico: {detok(ann.i)} vs. {detok(ann.c)} for {detok(ann.o)}')
+            out.append(f'ico: {detok(ann.i)} vs. for {detok(ann.o)}')
             if unid_soft_predictions is None:
                 unid_soft_predictions = [torch.tensor([0.0, 0.0]) for _ in id_predictions]
             for idx, (idp, uidp, idt, clsp, clst, sent) in enumerate(zip(id_predictions, unid_soft_predictions, id_truths, cls_predictions, cls_truths, ann.tokenized_sentences)):
@@ -831,7 +831,7 @@ def train_module(model: nn.Module,
             sentences, queries, targets = zip(*filter(lambda x: x, batch_elements))
             hard_train_truths.extend(targets)
             #sentences = [s.to(device=device) for s in sentences]
-            queries = [torch.cat([i, sep, c, sep, o]).to(dtype=torch.long) for (i,c,o) in queries]
+            queries = [torch.cat([i, sep, o]).to(dtype=torch.long) for (i,o) in queries]
             preds = model(queries, sentences)
             hard_train_preds.extend([x.cpu().item() for x in torch.argmax(preds, dim=-1)])
             targets = torch.tensor(targets, dtype=torch.long, device=device)
@@ -1099,8 +1099,8 @@ def main():
                                                                                                              val,
                                                                                                              params['evidence_identifier'],
                                                                                                              tokenizer.sep_token_id,
-                                                                                                             mask_sampler(get_identifier_sampler(params), {'i', 'c', 'o'}),
-                                                                                                             mask_sampler(identifier_everything_sampler, {'i', 'c', 'o'}),
+                                                                                                             mask_sampler(get_identifier_sampler(params), {'i', 'o'}),
+                                                                                                             mask_sampler(identifier_everything_sampler, {'i', 'o'}),
                                                                                                              detokenizer=de_interner)
         unconditioned_evidence_identifier = unconditioned_evidence_identifier.cpu()
         unconditioned_evidence_classifier, unconditioned_evidence_classifier_training_results = train_module(unconditioned_evidence_classifier.cuda(),
@@ -1110,8 +1110,8 @@ def main():
                                                                                                              val,
                                                                                                              params['evidence_classifier'],
                                                                                                              tokenizer.sep_token_id,
-                                                                                                             mask_sampler(get_classifier_sampler(params), {'i', 'c', 'o'}),
-                                                                                                             mask_sampler(get_classifier_oracle_sampler(params), {'i', 'c', 'o'}),
+                                                                                                             mask_sampler(get_classifier_sampler(params), {'i', 'o'}),
+                                                                                                             mask_sampler(get_classifier_oracle_sampler(params), {'i', 'o'}),
                                                                                                              detokenizer=de_interner)
         unconditioned_evidence_classifier = unconditioned_evidence_classifier.cpu()
     for t, d in [('val', val), ('test', test)]:
@@ -1176,8 +1176,8 @@ def main():
                                                                                                                            val,
                                                                                                                            params['evidence_classifier'],
                                                                                                                            tokenizer.sep_token_id,
-                                                                                                                           mask_sampler(oracle_sampler, {'i', 'c', 'o'}),
-                                                                                                                           mask_sampler(oracle_sampler, {'i', 'c', 'o'}),
+                                                                                                                           mask_sampler(oracle_sampler, {'i', 'o'}),
+                                                                                                                           mask_sampler(oracle_sampler, {'i', 'o'}),
                                                                                                                            detokenizer=de_interner)
         for n, t in [('val', val), ('test', test)]:
             logging.info(f'Decoding on {n}')
