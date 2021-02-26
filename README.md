@@ -31,6 +31,7 @@ Eric Lehman, Jay DeYoung, Regina Barzilay, and Byron C. Wallace. 2019. Inferring
 ### Bibtex Citation
 When citing this project, please use the following bibtex citation:
 
+For the current dataset:
 <pre>
 @inproceedings{deyoung-etal-2020-evidence,
     title = "Evidence Inference 2.0: More Data, Better Models",
@@ -47,6 +48,24 @@ When citing this project, please use the following bibtex citation:
     url = "https://www.aclweb.org/anthology/2020.bionlp-1.13",
     pages = "123--132",
     abstract = "How do we most effectively treat a disease or condition? Ideally, we could consult a database of evidence gleaned from clinical trials to answer such questions. Unfortunately, no such database exists; clinical trial results are instead disseminated primarily via lengthy natural language articles. Perusing all such articles would be prohibitively time-consuming for healthcare practitioners; they instead tend to depend on manually compiled \textit{systematic reviews} of medical literature to inform care. NLP may speed this process up, and eventually facilitate immediate consult of published evidence. The \textit{Evidence Inference} dataset was recently released to facilitate research toward this end. This task entails inferring the comparative performance of two treatments, with respect to a given outcome, from a particular article (describing a clinical trial) and identifying supporting evidence. For instance: Does this article report that \textit{chemotherapy} performed better than \textit{surgery} for \textit{five-year survival rates} of operable cancers? In this paper, we collect additional annotations to expand the Evidence Inference dataset by 25{\%}, provide stronger baseline models, systematically inspect the errors that these make, and probe dataset quality. We also release an \textit{abstract only} (as opposed to full-texts) version of the task for rapid model prototyping. The updated corpus, documentation, and code for new baselines and evaluations are available at \url{http://evidence-inference.ebm-nlp.com/}.",
+}
+</pre>
+
+For the original:
+<pre>
+@inproceedings{lehman-etal-2019-inferring,
+    title = "Inferring Which Medical Treatments Work from Reports of Clinical Trials",
+    author = "Lehman, Eric  and
+      DeYoung, Jay  and
+      Barzilay, Regina  and
+      Wallace, Byron C.",
+    booktitle = "Proceedings of the 2019 Conference of the North {A}merican Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)",
+    month = jun,
+    year = "2019",
+    address = "Minneapolis, Minnesota",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/N19-1371",
+    pages = "3705--3717",
 }
 </pre>
 
