@@ -184,25 +184,6 @@ def read_prompts():
     prompts_df = prompts_df[prompts_df.apply(lambda row: all(map(lambda x: type(x) == str and x is not None and bool(x.strip()), [row['Comparator'], row['Intervention'], row['Outcome']])), axis=1)]
     return prompts_df 
 
-def read_annotations_prompts_documents(article_ids=None, sections_of_interest=None):
-    # this exists because Jay doesn't want anything to do with the inference vectorizer stuff, or really the rest of the codepaths here
-    # TODO add annotator information to this
-    annotation = namedtuple('prompt_id article_id article intervention comparator outcome significance text span')
-    anno_df = read_annotations()
-    prompts_df = read_prompts()
-    articles = dict()
-    if article_ids is None:
-        article_ids = set(anno_df[STUDY_ID_COL].unique())
-    else:
-        article_ids = set(anno_df[STUDY_ID_COL].unique()) & article_ids
-
-    for article_id in article_ids:
-        articles[article_id] = get_article(article_id)
-    
-    for prompt_id, pmcid, outcome, intervention, comparator in prompts_df:
-        annotations_for_prompt = annotations_df[annotations_df[PROMPT_ID_COL_NAME] == prompt_id]
-        labels = annotations_for_prompt[[LBL_COL_NAME,EVIDENCE_COL_NAME]].values
-
 def assemble_Xy_for_prompts(training_prompts, inference_vectorizer, lbls_too=False, annotations=None, sections_of_interest=None, include_sentence_span_splits=False, include_raw_texts=False): 
     Xy = []
     for prompt_id in training_prompts[PROMPT_ID_COL_NAME].values:
