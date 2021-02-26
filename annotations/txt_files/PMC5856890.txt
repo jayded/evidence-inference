@@ -1,0 +1,609 @@
+TITLE: 
+Adjusted Indirect Comparison Using Propensity Score Matching of Osimertinib to Platinum-Based Doublet Chemotherapy in Patients with EGFRm T790M NSCLC Who Have Progressed after EGFR-TKI
+
+
+
+ABSTRACT.BACKGROUND AND OBJECTIVE:
+An adjusted indirect comparison was conducted to assess efficacy outcomes, particularly overall survival (OS), of osimertinib versus platinum-based doublet chemotherapy in patients with epidermal growth factor receptor-mutated (EGFRm) T790M mutation-positive non-small-cell lung cancer (NSCLC) who had progressed following an EGFR tyrosine kinase inhibitor (TKI). Analysis of treatment effect from two separate trials had the potential to more accurately estimate the magnitude of OS benefit due to absence of confounding due to treatment switching from the control arm to the osimertinib arm of the ongoing randomized control trial, AURA3.
+
+ABSTRACT.METHODS:
+Two non-randomized individual datasets were compared: pooled patients from the AURA extension and AURA2 trials (osimertinib 80 mg, n = 405, with a confirmed T790M mutation using tissue samples), and patients from the control arm of the IMPRESS study (platinum-based doublet chemotherapy, n = 61, with a confirmed T790M mutation using plasma circulating tumour DNA [ctDNA]). A propensity score-based approach was used to account for differences in baseline demographics and disease characteristics.
+
+ABSTRACT.RESULTS:
+After adjustment for baseline differences between the two groups, osimertinib demonstrated a statistically significant improvement in progression-free survival (PFS) versus platinum-based doublet chemotherapy (hazard ratio [HR] = 0.278, 95% confidence interval [CI] 0.188–0.409, p < 0.0001; median PFS 10.9 vs. 5.3 months). Improvements were also observed for objective response rate (ORR) and disease control rate (DCR) (ORR: 64.3 vs. 33.3%; odds ratio [OR] = 5.31, 95% CI 2.47–11.40, p < 0.001; DCR: 92.1 vs. 75.0%; OR = 4.72, 95% CI 1.92–11.58, p < 0.001). Similar results were obtained for patients who received osimertinib as second-line treatment only. A statistically significant improvement in OS was observed for the osimertinib group (HR = 0.412, 95% CI 0.273–0.622, p < 0.0001). Median OS for osimertinib was not reached.
+
+ABSTRACT.CONCLUSIONS:
+In this indirect comparison, osimertinib showed a statistically significant improvement in efficacy outcomes versus platinum-based doublet chemotherapy in patients with EGFRm T790M NSCLC who had progressed after EGFR-TKI therapy.
+
+ABSTRACT.ELECTRONIC SUPPLEMENTARY MATERIAL:
+The online version of this article (10.1007/s40261-017-0611-3) contains supplementary material, which is available to authorized users.
+
+BODY.KEY POINTS:
+
+In this adjusted indirect comparison, which assessed efficacy outcomes of osimertinib versus platinum-based doublet chemotherapy in patients with EGFRm T790M NSCLC who had progressed after EGFR-TKI therapy, osimertinib showed a statistically significant improvement in PFS, ORR and DCR compared with platinum-based doublet chemotherapy.
+Our analysis has demonstrated outcomes consistent with randomized data from the phase III AURA3 trial (NCT02151981).
+
+
+
+BODY.INTRODUCTION:
+The majority of epidermal growth factor receptor-mutated (EGFRm) patients with locally advanced or metastatic non-small-cell lung cancer (NSCLC) treated with an EGFR tyrosine kinase inhibitor (TKI) ultimately develop acquired resistance and generally progress within 1 year [1–3]. The median survival of patients after the emergence of acquired resistance is generally less than 2 years [4].
+One of the main pathways for development of drug resistance to first- and second-generation EGFR-TKIs is the emergence of a second point mutation resulting in substitution of threonine with methionine at amino acid position 790 at exon 20 (T790M) [5–7]. The T790M point mutation is found in approximately 50–60% of all patients at the time of acquired resistance to EGFR-TKI therapy [4, 8]. Prior to development of osimertinib, there were no approved therapies that specifically targeted the acquired T790M mutation. Instead, therapeutic options for patients progressing with EGFR T790M mutation-positive NSCLC were limited to platinum-based doublet chemotherapy, salvage chemotherapy (approved for use after failure of platinum-based doublet chemotherapy), investigational agents and combinations, EGFR-TKI re-challenge, and best supportive care—all of which are associated with limited efficacy [9–18].
+Osimertinib is an oral, potent, selective, irreversible EGFR-TKI, active against both EGFRm (TKI sensitivity-conferring mutations) and T790M mutation-positive (TKI resistance-conferring mutation) forms of EGFR [19]. Early approvals of osimertinib (80 mg once daily) in North America, Europe and Asia have been based on evidence from two phase II single-arm trials, the extension phase of the AURA trial (NCT01802632) and AURA2 (NCT02094261) [19–22]. More recently, randomized data from the confirmatory AURA3 study (NCT02151981) have become available and demonstrated a significant improvement in progression-free survival (PFS) for osimertinib compared with platinum-based therapy plus pemetrexed in patients with EGFR T790M mutation-positive NSCLC [23, 24].
+In addition to randomized efficacy data, adjusted indirect comparisons using patient-level data can be used to determine valid estimates of treatment effect. These analyses have the utility to provide additional evidence for reimbursement assessments to support launches based only on single-arm trials; to provide validation and supportive evidence for comparative endpoints in preparation for when randomized controlled trials do become available; and to support those studies where long-term comparative efficacy data may never be available due to the ability of patients to switch to the trial treatment (a growing trend in oncology). This is applicable to osimertinib given that switching treatment is allowed in the AURA3 trial; therefore, the overall survival (OS) hazard ratio (HR) from an adjusted indirect comparison would be important.
+To perform an adjusted indirect comparison, we used the control arm (platinum-based doublet chemotherapy and placebo) of the IMPRESS study (NCT01544179), which included a subgroup of patients with the T790M mutation (as identified by plasma-circulating tumour DNA [ctDNA]) and disease progression following response to EGFR-TKI [25]. These patients have similar demographic and disease characteristics to those in the AURA extension and AURA2 trials of osimertinib and represent a valid comparator to demonstrate differences in efficacy outcomes for osimertinib versus platinum-based doublet chemotherapy. Using these populations, we report on a non-randomized, adjusted comparison of efficacy outcomes of osimertinib versus platinum-based doublet chemotherapy for treatment of patients with EGFR T790M mutation-positive advanced NSCLC who have progressed following EGFR-TKI.
+
+BODY.METHODS:
+BODY.STUDY DESIGNS:
+The efficacy of osimertinib relative to platinum-based doublet chemotherapy was assessed using an adjusted indirect comparison of two datasets comprising patients with a confirmed T790M mutation by tissue from the AURA trials and patients with a confirmed T790M mutation by plasma from the placebo-chemotherapy arm of the phase III randomized IMPRESS trial. The study designs of the AURA and IMPRESS trials have been previously reported and are summarized in Table 1 [19, 25]. AURA2 was almost identical in design to the AURA extension trial with the studies prospectively planned to provide replication of data (Table 1). Given the similar trial designs, patients from the AURA extension and AURA2 studies were pooled to increase the precision of the estimate of the primary efficacy endpoint.Table 1Summary of study designs of the AURA extension, AURA2 and IMPRESS trials [19, 25]
+CharacteristicsAURA extensionAURA2IMPRESSClinical trial identifier
+NCT01802632
+NCT02094261
+NCT01544179
+Study type
+Phase II, open-label, single-arm, multicentre
+Phase II, open-label, single-arm
+Phase III randomized, double-blind, placebo-controlled, parallel, multicentre study
+T790M central testing
+Performed prospectively; central result (cobas® EGFR mutation test), mandatory to determine eligibility
+Performed prospectively; central result (cobas® EGFR mutation test), mandatory to determine eligibility
+Performed retrospectively; central result (BEAMing plasma assay) as exploratory objective
+Primary efficacy objective
+ORR based on RECIST v1.1 assessed by BICR
+ORR based on RECIST v1.1 assessed by BICR
+PFS for continuing gefitinib plus platinum-based doublet chemotherapy vs. platinum-based doublet chemotherapy alone
+Secondary efficacy objectives
+DCR, DoR, time to first documentation of objective response, best change from baseline in size of TL, PFS and OS
+DCR, DoR, time to first documentation of objective response, best change from baseline in size of TL, PFS and OS
+OS, ORR and DCR for continuing gefitinib plus platinum-based doublet chemotherapy vs. platinum-based doublet chemotherapy alone
+Dosing and patient cohorts
+Osimertinib 80 mg tablet taken once dailySecond-line patients (pre-treated with one EGFR-TKI and no other treatment regimens), n = 61≥ Third-line patients (pre-treated with at least one EGFR-TKI and one other prior line of therapy), n = 140
+Osimertinib 80 mg tablet taken once dailySecond-line patients (pre-treated with one EGFR-TKI and no other treatment regimen), n = 68≥ Third-line patients (pre-treated with at least one EGFR-TKI and one platinum-based doublet chemotherapy regimen), n = 142
+Control arm received standard pemetrexed plus cisplastin chemotherapy (maximum six cycles, intravenously on Day 1 of each cycle)a
+
+Study period
+First dose of first patient: 14 May 2014; first dose of last patient: 21 October 2014
+First dose of first patient: 13 June 2014; first dose of last patient: 27 October 2014
+First patient enrolled: 29 March 2012; last patient enrolled: 9 December 2013
+Data cut-off
+1 November 2016b
+
+1 November 2016b
+
+16 November 2015
+Assessment of tumour progression (RECIST v1.1)c
+
+Screening, − 28 days to date of first dose (day 0) and every 6 weeks (± 7 days) until disease progression
+Screening, − 28 days to date of first dose (day 0) and every 6 weeks (± 7 days) until disease progression
+Screening, − 4 weeks to date of randomizationd and every 6 weeks (± 7 days) until disease progression
+Treatment exposure at data cut-off, median (range)
+15.2 months (0.1–29.7)
+16.9 months (0.03–28.7)
+5.5 months (0.4–27.6) for the platinum-based doublet chemotherapy arm (control arm)
+
+BICR blinded independent central review, DCR disease control rate, DoR duration of response, EGFR epidermal growth factor receptor, NC non-calculable, ORR objective response rate, OS overall survival, PFS progression-free survival, RECIST response evaluation criteria in solid tumours, TKI tyrosine kinase inhibitor, TL tumour lesion
+
+aA subgroup of patients in the control arm with a confirmed T790M mutation has been used as a comparator with the AURA extension and AURA2 patients; these patients received standard pemetrexed (500 mg/m2) plus cisplastin (75 mg/m2) chemotherapy (maximum six cycles, intravenously on Day 1 of each cycle)
+
+bPFS and OS analyses were based on the 1 November 2016 data cut-off (DCO) from the AURA extension and AURA2 studies; ORR and DCR analyses were based on the 1 November 2015 DCO from the AURA extension and AURA2 studies
+
+cThe mean time difference between most recent progression to start of treatment for pooled data of AURA extension and AURA2 was 78.20 days and was 17.05 days for the T790M mutation-positive subgroup of the chemotherapy arm of IMPRESS (Supplementary Table 1)
+
+dBaseline assessments had to be performed no more than 4 weeks before the start of treatment, and ideally as close as possible to the start of study treatment. Follow-up assessments were performed every 6 weeks after randomization (within a window of ± 7 days of the scheduled date) until objective disease progression as defined by RECIST. At screening, eligibility was decided as quickly as possible to shorten the time from documented radiological progression to start of pemetrexed in combination with cisplatin and randomized study treatment. From Day − 28 to Day 0 was preferred. Following progression, but before randomization, continuation of gefitinib was encouraged. However, if a patient stopped taking gefitinib treatment, the maximum allowed time off treatment prior to randomization was 4 weeks. All other screening assessments had to be completed within the specified 28 days
+
+
+
+BODY.POPULATION:
+Summaries and analyses of endpoints are based on the T790M mutation-positive patients from the pooled AURA extension and AURA2 trials and the control arm of the IMPRESS trial. In AURA extension and AURA2, T790M mutation testing was performed centrally on tumour tissue using the cobas® EGFR mutation test (Roche Molecular Systems Inc). Tumour biopsies were taken after confirmation of disease progression on the most recent treatment regimen [19]. In IMPRESS, biomarker research was performed for EGFR mutations, including T790M mutation status, using ctDNA [26]. For patients in the pooled AURA population, 405/411 treated with osimertinib 80 mg had a confirmed T790M mutation and were included in the analysis (Table 1). For patients in the pooled AURA population who were in the second-line treatment setting, 127/129 had a confirmed T790M mutation. For patients in the chemotherapy arm of the IMPRESS study, 61/132 patients had a confirmed T790M mutation by ctDNA.
+As discussed in the statistical methods below, prior to analysis of endpoints, differences between baseline (i.e. pre-randomization), demographic and disease characteristics were accounted for by cohort balancing to provide the dataset for analysis of efficacy.
+
+BODY.EFFICACY ENDPOINTS:
+Primary analysis endpoints were PFS, objective response rate (ORR, defined as the number [%] of patients with measurable disease with at least one confirmed visit response of complete response [CR] or partial response [PR]), disease control rate (DCR, defined as the percentage of patients who have a best objective response of CR, PR or stable disease) and OS. PFS, DCR and ORR are reported based on independent central review (ICR) of radiological data. Analyses were also performed on PFS, ORR, DCR and OS for second-line patients only. PFS was defined as the time from first dose in the AURA extension and AURA2 studies and time from randomization in the IMPRESS study to the date of objective disease progression or death (by any cause in the absence of progression), regardless of whether the patient withdrew from randomized therapy or received another anti-cancer therapy prior to progression.
+
+BODY.STATISTICAL METHODS:
+BODY.COHORT BALANCING:
+Differences between baseline (i.e. pre-randomization), demographic and disease characteristics in the AURA and IMPRESS trials (see Supplementary Table 1) were accounted for by a three-step process of adjustment, referred to as cohort balancing (Fig. 1) [27]. The resulting adjustment is assumed to be a proxy for randomization and enables a robust comparison between osimertinib and platinum-based doublet chemotherapy using individual patient data from the AURA and IMPRESS studies, respectively.Fig. 1Process for cohort balancing of the osimertinib and platinum-based doublet chemotherapy groups
+
+
+The first step compared baseline demographic and disease characteristics with inclusion of those variables with a p value < 0.2 into estimation of propensity scores (PS) (Fig. 1). The second step involved estimation of PS. The PS for an individual is the probability of being treated with osimertinib/platinum-based doublet chemotherapy conditional on the individual’s baseline variables. PS for each patient was estimated using logistic regression modelling (Fig. 1). The overlap between cohorts on estimated PS was assessed and only patients within the PS distributions of both treatment groups were included in the final analyses; a process termed ‘trimming’ [28]. The overlap was identified as all values between the minimum of the PS in patients treated with osimertinib and the maximum of the PS in patients treated with platinum-based doublet chemotherapy. In the final step, PS was incorporated as a covariate for analysis of the treatment comparison of osimertinib versus platinum-based doublet chemotherapy for each endpoint to adjust for remaining differences between groups (Fig. 1).
+
+BODY.ANALYSIS OF TREATMENT EFFECTS:
+All analyses were performed using the dataset produced by cohort balancing as described above. Summaries and analyses for ORR and DCR were based on the evaluable-for-response subset, defined as all patients who received at least one dose of treatment and had measurable disease at baseline according to the ICR or baseline imaging data. Analysis of ORR and DCR for osimertinib relative to platinum-based doublet chemotherapy was performed using a logistic regression model containing treatment as a factor and the propensity score as a covariate. PFS and OS were analysed using a Cox proportional hazards model with treatment as a factor and the estimated PS as a covariate. Kaplan–Meier PFS and OS curves for osimertinib and platinum-based doublet chemotherapy were generated.
+Differences in baseline variables were compared by statistical tests. For categorical variables, p values were based on the Chi-square test or Fisher’s exact test. For categorical variables with more than two levels, an overall p value was calculated (instead of calculating p values for each level of the variable).
+The effect of trimming (i.e. removal of patients for which the value of the calculated PS was not within the overlapping region between the two study groups) was evaluated for the endpoints PFS, ORR, DCR and OS. Sensitivity analyses were performed on the T790M+adj untrimmed set to evaluate the effect of removing subjects to produce the trimmed dataset.
+
+
+
+BODY.RESULTS:
+The results used to identify the variables for inclusion in the PS model are provided in Table 2. A full list of variables assessed for inclusion is provided in Supplementary Table 1. Twenty-two initial variables were identified, including a larger mean tumour size in the AURA trials (Supplementary Table 1). Variables with p < 0.2 were included in the PS model. Following cohort balancing, 288/405 patients were retained in the osimertinib group and 53/61 patients were retained in the platinum-based doublet chemotherapy group; of these, 92 and 53 patients, respectively, received osimertinib or platinum-based doublet chemotherapy as second-line therapy. Baseline demographics and disease characteristics for these populations are shown in Table 3.Table 2Baseline demographic and disease characteristics used for generation of the regression model for estimation of propensity scores
+VariableOsimertinibPlatinum-based doublet chemotherapyStd diff
+p valuea
+Total number (%) of patients
+405 (100.0)
+61 (100.0)
+
+
+Age cont (N)
+405
+61
+0.613
+<0.0001
+ Mean, SD
+62.19 (10.73)
+55.77 (10.20)
+
+
+ Median
+63.00
+55.00
+
+
+ Min, max
+35.00, 89.00
+38.00, 79.00
+
+
+Region, n (%)
+
+
+
+<0.0001
+ Asia
+209 (51.6)
+48 (78.7)
+− 0.593
+
+ Rest of world
+196 (48.4)
+13 (21.3)
+0.593
+
+Ethnicity, n (%)
+
+
+
+0.0016
+ Asian
+240 (59.3)
+49 (80.3)
+− 0.471
+
+ Other
+165 (40.7)
+12 (19.7)
+0.471
+
+Baseline target lesion size imputed (N)
+405
+61
+0.335
+0.1381
+ Mean, SD
+60.43 (38.31)
+49.66 (24.44)
+
+
+ Median
+52.00
+54.00
+
+
+ Min, max
+10.40, 229.40
+12.70, 121.80
+
+
+Smoking pack year history [0 = never, 1 = ever with pack years < 30, 2 = ever with pack years ≥ 30], n (%)
+
+
+
+0.0966
+ 0
+290 (71.6)
+40 (65.6)
+0.130
+
+ 1
+83 (20.5)
+11 (18.0)
+0.062
+
+ 2
+32 (7.9)
+10 (16.4)
+− 0.262
+
+Site of disease at baseline
+ Respiratory, n (%)
+280 (69.1)
+19 (31.1)
+0.821
+<0.0001
+ Hepatic (including gall bladder), n (%)
+119 (29.4)
+10 (16.4)
+0.313
+0.0345
+ Pericardial effusion, n (%)
+15 (3.7)
+8 (13.1)
+− 0.344
+0.0016
+Prior radiotherapy, n (%)
+198 (48.9)
+17 (27.9)
+0.443
+0.0021
+TNM classification—distant metastases, n (%)
+307 (75.8)
+56 (91.8)
+− 0.445
+0.0050
+TNM classification—regional lymph nodes N3, n (%)
+103 (25.4)
+27 (44.3)
+− 0.403
+0.0022
+
+Std diff standardised mean difference refers to the mean divided by the standard deviation used to measure effect size for selection of variables
+
+aFor categorical variables, p values were based on the Chi-square test or Fisher’s exact test (50% or more of the cells have expected counts of less than 5). For continuous variables, p values were based on the t test, or on the Wilcoxon rank-sum test if normality assumption was violated (Shapiro–Wilk test)
+
+Table 3Baseline demographics and disease characteristics for total patients and those patients receiving second-line treatment only with osimertinib or platinum-based doublet chemotherapy following cohort balancing
+VariableTotal trimmed datasetTrimmed dataset receiving second-line treatment onlyOsimertinib, n = 288Platinum-based doublet chemotherapy, n = 53
+p valuea
+Osimertinib, n = 92Platinum-based doublet chemotherapy, n = 53
+p valuea
+Sex, n (%)
+
+
+0.5341
+
+
+0.7210
+ Male
+96 (33.3)
+30 (37.7)
+
+32 (34.8)
+20 (37.7)
+
+ Female
+192 (66.7)
+33 (62.3)
+
+60 (65.2)
+33 (62.3)
+
+Age, years
+
+
+0.0156
+
+
+0.0082
+ Mean, SD
+60.6 (10.7)
+56.7 (10.3)
+
+61.8 (11.3)
+56.7 (10.3)
+
+ Median
+60.5
+56.0
+
+60.0
+56.0
+
+ Range
+35.0–89.0
+38.0–79.0
+
+36.0–89.0
+38.0–79.0
+
+Region, n (%)
+
+
+0.0018
+
+
+<0.0001
+ Asia
+175 (60.8)
+40 (75.5)
+
+48 (52.2)
+40 (75.5)
+
+ Europe
+48 (16.7)
+13 (24.5)
+
+14 (15.2)
+13 (24.5)
+
+ North America
+60 (20.8)
+0 (0.0)
+
+27 (29.3)
+0 (0.0)
+
+ Rest of the world
+5 (1.7)
+0 (0.0)
+
+3 (3.3)
+0 (0.0)
+
+Ethnicity, n (%)
+
+
+0.4513
+
+
+0.1380
+ Asian
+193 (67.0)
+40 (75.5)
+
+55 (59.8)
+40 (75.5)
+
+ Non-Asian
+94 (32.6)
+13 (24.5)
+
+36 (39.1)
+13 (24.5)
+
+ Not applicable
+1 (0.3)
+0 (0.0)
+
+1 (1.1)
+0 (0.0)
+
+Time, from recent progression to start of treatment, days
+
+
+<0.0001
+
+
+<0.0001
+ Mean (SD)
+74.1 (58.2)
+16.9 (6.6)
+
+75.7 (61.2)
+16.9 (6.6)
+
+Number of previous EGFR-TKIs, including re-challenge, n (%)
+
+
+<0.0001
+
+
+
+ 1
+169 (58.7)
+53 (100.0)
+
+92 (100.0)
+53 (100.0)
+
+ 2
+66 (22.9)
+0 (0.0)
+
+0 (0.0)
+0 (0.0)
+
+ 3
+33 (11.5)
+0 (0.0)
+
+0 (0.0)
+0 (0.0)
+
+ 4
+12 (4.2)
+0 (0.0)
+
+0 (0.0)
+0 (0.0)
+
+ 5
+4 (1.4)
+0 (0.0)
+
+0 (0.0)
+0 (0.0)
+
+ > 5
+4 (1.4)
+0 (0.0)
+
+0 (0.0)
+0 (0.0)
+
+Previous platinum-based doublet therapy, n (%)
+182 (63.2)
+0 (0.0)
+<0.0001
+0 (0.0)
+0 (0.0)
+
+Previous platinum-based doublet plus bevacizumab therapy, n (%)
+37 (12.8)
+0 (0.0)
+0.0057
+0 (0.0)
+0 (0.0)
+
+Baseline target lesion size, mm
+
+
+0.8882
+
+
+0.6568
+ Mean (SD)
+51.5 (28.1)
+50.0 (23.0)
+
+50.9 (28.6)
+50.0 (23.0)
+
+Site of disease at baseline, n (%)
+
+
+
+
+
+
+ Brain/central nervous system
+99 (34.4)
+17 (32.1)
+0.7454
+22 (23.9)
+17 (32.1)
+0.2858
+ Pleural effusion
+105 (36.5)
+20 (37.7)
+0.8592
+35 (38.0)
+20 (37.7)
+0.9707
+ Respiratory
+174 (60.4)
+19 (35.8)
+0.0009
+47 (51.1)
+19 (35.8)
+0.0760
+ Hepatic (including gall bladder)
+62 (21.5)
+10 (18.9)
+0.6628
+17 (18.5)
+10 (18.9)
+0.9537
+ Skin/soft tissue
+12 (4.2)
+2 (3.8)
+0.8946
+2 (2.2)
+2 (3.8)
+0.6233
+ Bone and locomotor
+128 (44.4)
+27 (50.9)
+0.3825
+38 (41.3)
+27 (50.9)
+0.2610
+ Lymph nodes
+137 (47.6)
+26 (49.1)
+0.8421
+40 (43.5)
+26 (49.1)
+0.5160
+ Pericardial effusion
+13 (4.5)
+4 (7.5)
+0.3511
+3 (3.3)
+4 (7.5)
+0.2591
+ Other
+63 (21.9)
+10 (18.9)
+0.6238
+18 (19.6)
+10 (18.9)
+0.9184
+
+EGFR-TKI epidermal growth factor receptor-tyrosine kinase inhibitor, SD standard deviation
+
+aFor categorical variables, p values were based on the Chi-square test or Fisher’s exact test (50% or more of the cells have expected counts of less than 5). For continuous variables, p values were based on t test, or on the Wilcoxon rank-sum test if normality assumption was violated (Shapiro–Wilk test)
+
+
+Patients in the osimertinib group were older relative to the platinum-based doublet chemotherapy group (mean age 60.6 vs. 56.7 years, p = 0.0156) (Table 3). The mean time from recent progression to start of treatment was longer for the osimertinib group compared with the platinum-based doublet chemotherapy group (74.1 vs. 16.9 days, p < 0.001), reflecting the difference in trial design whereby patients in the IMPRESS study were randomized within 4 weeks of disease progression following first-line treatment. Significantly more patients received previous platinum-based doublet chemotherapy and previous platinum-based doublet chemotherapy plus bevacizumab therapy in the osimertinib group compared with the platinum-based doublet chemotherapy group due to the differences in design of the IMPRESS and AURA trials. Similar differences in age and mean time from recent progression to start of treatment were observed for patients who received osimertinib or platinum-based doublet chemotherapy as second-line treatment (Table 3).
+BODY.PROGRESSION-FREE SURVIVAL:
+Median PFS of osimertinib and platinum-based doublet chemotherapy was 10.9 and 5.3 months, respectively (HR 0.278, 95% CI 0.188–0.409, p < 0.0001) (Fig. 2a).Fig. 2Kaplan–Meier plot of progression-free survival by independent central review a for all patients following cohort balancing: n = 288 receiving osimertinib; n = 53 receiving platinum-based doublet chemotherapy; b for subset of patients receiving osimertinib (n = 92) or platinum-based doublet chemotherapy (n = 53) as a second-line treatment
+
+
+A statistically significant improvement in median PFS was also observed for the osimertinib group compared with the platinum-based doublet chemotherapy group for the subset of patients treated with osimertinib (n = 92) or platinum-based doublet chemotherapy (n = 53) as second-line treatment (HR 0.251, 95% CI 0.155–0.405, p < 0.0001; median 9.7 vs. 5.3 months) (Fig. 2b).
+
+BODY.PFS SENSITIVITY ANALYSIS: UNTRIMMED DATA SET:
+Use of the untrimmed data set and the PS as a covariate for all patients with T790M+ status demonstrated a statistically significant improvement for the osimertinib group relative to the platinum-based doublet chemotherapy group of 10.9 months and 5.3 months, respectively (HR 0.283, 95% CI 0.194–0.412, p < 0.0001). Similarly, using the untrimmed dataset and PS as a covariate for T790M+ patients receiving second-line treatment demonstrated a statistically significant improvement for the osimertinib group relative to the platinum-based doublet chemotherapy group of 9.8 months and 5.3 months respectively (HR 0.250, 95% CI 0.157–0.397, p < 0.0001). These results are consistent with those produced using the trimmed data set.
+The improvement for osimertinib was similar to the unadjusted comparison with the platinum-based doublet chemotherapy group (HR 0.28, 95% CI 0.19–0.41, p < 0.001).
+
+BODY.OBJECTIVE RESPONSE RATE AND DISEASE CONTROL RATE:
+ORR and DCR were assessed in the evaluable-for-response subset (n = 277 osimertinib; n = 48 platinum-based doublet chemotherapy). The ORR was 64.3% (178/277) in the osimertinib treatment group compared with 33.3% (16/48) in the platinum-based doublet chemotherapy group (OR 5.31, 95% CI 2.47–11.40, p < 0.001). The DCR also demonstrated a statistically significant improvement in the osimertinib treatment group compared with the platinum-based doublet chemotherapy group; 92.1 versus 75.0%, respectively (OR 4.72, 95% CI 1.92–11.58, p < 0.001).
+For patients treated with osimertinib or platinum-based doublet chemotherapy as second-line treatment (n = 89 osimertinib; n = 48 platinum-based doublet chemotherapy), a statistically significant improvement in ORR and DCR was also observed for the osimertinib group compared with the platinum-based doublet chemotherapy group (ORR: 67.4 vs. 33.3%, OR 5.63, 95% CI 2.32–13.67, p < 0.001; DCR: 93.3 vs. 75.0%, OR 5.73, 95% CI 1.84–17.88, p = 0.003).
+
+BODY.OVERALL SURVIVAL:
+At the data cut-off for OS (pooled AURA dataset: 1 November 2016; platinum-based doublet chemotherapy group: 16 November 2015), median OS time for the osimertinib group was not calculable for the pooled AURA dataset and the median OS time for the platinum-based doublet chemotherapy group was 14.1 months. The HR for OS for osimertinib relative to platinum-based doublet chemotherapy was 0.412 (95% CI 0.273–0.622, p = 0.0001) (Fig. 3a).Fig. 3Kaplan–Meier plot of overall survival by independent central review a for all patients following cohort balancing: n = 288 receiving osimertinib; n = 53 receiving platinum-based doublet chemotherapy, b for subset of patients receiving osimertinib (n = 92) or platinum-based doublet chemotherapy (n = 53) as a second-line treatment
+
+
+For patients who received osimertinib or platinum-based doublet chemotherapy as second-line treatment, at the data cut-off for OS, median OS time for the osimertinib group was 26.5 months and the median OS time for the platinum-based doublet chemotherapy group was 14.1 months. The HR for OS for osimertinib relative to platinum-based doublet chemotherapy was 0.459 (95% CI 0.279–0.754, p = 0.0025) (Fig. 3b).
+
+BODY.OVERALL SURVIVAL: CENSORED AT LONGEST FOLLOW-UP FOR OSIMERTINIB:
+To account for potential differences in follow-up time between the AURA extension/AURA2 and IMPRESS studies, a sensitivity analysis was conducted, in which patients in the IMPRESS study were censored at the point of longest follow-up in the AURA extension/AURA2 studies. The median OS time for the osimertinib group was not calculable, which was consistent with the pooled analysis for AURA extension and AURA2 data. Median OS time for the platinum-based doublet chemotherapy group was 14.1 months. The HR for OS for osimertinib relative to platinum-based doublet chemotherapy was 0.413 (95% CI 0.273–0.623, p = 0.0001) (Fig. 4).Fig. 4Kaplan-Meier plot of overall survival censored at point on longest follow-up for osimertinib (T790M+adj set) for all patients following cohort balancing: n = 288 receiving osimertinib; n = 53 receiving platinum-based doublet chemotherapy
+
+
+
+
+BODY.DISCUSSION:
+Prior to the approval of osimertinib, approaches to address patients with EGFR T790M mutation-positive NSCLC, the most common cause of acquired drug resistance in EGFRm NSCLC, have been limited by a lack of efficacy and dose-limiting toxicity [9–18, 29–35]. Osimertinib recently received regulatory approvals in North America, Europe and Asia as the first indicated treatment for patients with metastatic EGFR T790M mutation-positive NSCLC [20, 21, 36, 37]. Approval was based on evidence from the AURA extension and AURA2 phase II single-arm trials [19]. Prior to publication of randomized, comparative control data for osimertinib, across different endpoints, from the AURA3 trial, we performed an adjusted indirect comparison of osimertinib with platinum-based doublet chemotherapy.
+The approach allows the comparison of treatment results with platinum-based doublet chemotherapy when only single-arm trial results are available, thereby offering a bridging methodology until phase III confirmatory trial data are available. The approach continues to have utility when phase III trial data are available, as patients switching to trial treatment is becoming more frequent in randomized oncology trials, resulting in confounding of post-switch endpoints, such as OS. Confounding makes determination of OS impact more challenging. It is anticipated that AURA3 may not provide a true measure of OS benefit due to a high proportion (60%) of patients switching to osimertinib from the comparator treatment [24]. Therefore, data from these types of indirect comparison studies may provide the best available survival estimate. Additionally, they may help inform appropriate statistical methods that can adjust for the impact of treatment switching.
+Our study used PS analyses to adjust for imbalances in demographics and clinical characteristics. It should be noted that although PS can balance observed baseline covariates between exposure groups, it cannot balance unmeasured characteristics and confounders. Hence, as with all observational studies, and unlike blinded randomized controlled trials, PS analyses have the limitation that unobserved differences between the two groups will more likely confound analysis of efficacy. However, the large effect size observed in our study suggests that a comparative benefit would remain despite the possibility of unmeasured confounders. In addition, approaches using the PS do not overcome initial selection bias. For example, time from recent (radiological) disease progression to start of treatment differed between the IMPRESS and AURA trials. Whereas all patients in the platinum-based doublet chemotherapy group started treatment within 29 days of previous documented disease progression, only 25/405 patients in the osimertinib group started treatment within this period. This variable was excluded from the list of candidate variables as adjustment was not feasible. However, non-inclusion of this variable seems acceptable as the delayed start of treatment for osimertinib is most likely a disadvantage for the osimertinib group (i.e. results from analysis of efficacy would be a conservative estimate of the benefit of osimertinib).
+Sensitivity analyses using the untrimmed dataset and PS as a covariate for patients with T790M+ status produced results consistent with those produced using both the trimmed data set and the unadjusted platinum-based doublet chemotherapy group.
+T790M mutation was determined using different methodologies in the two studies: tissue biopsy in AURA and plasma ctDNA in IMPRESS. Tissue biopsy was not available for IMPRESS for comparison. Of the different testing methodologies, tissue biopsy is regarded as the gold standard. In a retrospective assessment of plasma genotyping in patients with advanced NSCLC who were treated with osimertinib, similar efficacy outcomes were reported in patients with T790M-positive plasma samples (ORR, 63%; median PFS, 9.7 months) compared with patients with T790M-positive tumour samples (ORR, 62%; median PFS, 9.7 months) [38]. These data suggest that the use of plasma versus tissue testing is unlikely to impact on the efficacy outcomes with platinum-based doublet chemotherapy, which is an untargeted treatment, and further suggest that a positive plasma test is a reliable way to select patients for osimertinib treatment [38]. In addition, there is greater than 90% concordance across two platforms (cobas® and BEAMing) used for T790M mutation detection [39].
+Taking the limitations highlighted above into consideration, the findings of this indirect comparison demonstrated a statistically significant and clinically meaningful improvement in PFS, ORR and DCR for osimertinib relative to platinum-based doublet chemotherapy. The median PFS for osimertinib and for platinum-based doublet chemotherapy reported in our study (10.9 and 5.3 months, respectively) were consistent with previously reported PFS for osimertinib-treated EGFR T790M mutation-positive patients in the AURA extension trial (9.6 months) [19] and the control arm of the IMPRESS trial (5.4 months) [25].
+This indirect comparison reported a statistically significant OS benefit in favour of the osimertinib group. However, as data for OS were immature for the osimertinib group, median OS for osimertinib had not been reached at the time of the data cut-off. It should be noted that the AURA trials are both ongoing open-label studies; the OS data used in this analysis were from the most recent data cut-off (AURA extension and AURA2, 1 November 2016) and further updates may be anticipated.
+Randomized data from the phase III AURA3 trial, which evaluated osimertinib compared with platinum-based therapy plus pemetrexed in patients with EGFR T790M mutation-positive NSCLC, have now been published [23, 24]. Consistent with the findings from our indirect comparison, in AURA3, osimertinib treatment led to significant improvements in PFS (HR 0.30, 95% CI 0.23–0.41, p < 0.001; median PFS 10.1 vs. 4.4 months) and ORR (71 vs. 31%; OR 5.39, 95% CI 3.47–8.48, p < 0.001) when compared with platinum-based therapy plus pemetrexed (Table 4) [23, 24].Table 4Summary of results of outcomes from indirect analysis and comparison with results from AURA3 randomized control trial
+ORRa
+DCRa
+PFSb
+OSb
+Indirect comparison, 2L and ≥ 3L
+64.3 vs. 33.3%; OR = 5.31, 95% CI 2.47–11.40, p < 0.001
+92.1 vs. 75.0%; OR = 4.72, 95% CI 1.92–11.58, p < 0.001
+Median 10.9 vs. 5.3 months; HR = 0.278, 95% CI 0.188–0.409, p < 0.0001
+Median NC vs. 14.1 months; HR = 0.412, 95% CI 0.273–0.622, p < 0.0001
+Indirect comparison, 2L only
+67.4 vs. 33.3%; OR = 5.63, 95% CI 2.32–13.67, p < 0.001
+93.3 vs. 75.0%; OR = 5.73, 95% CI 1.84–17.88, p = 0.003
+Median 9.7 vs. 5.3 months; HR = 0.251, 95% CI 0.155–0.405, p < 0.0001
+Median 26.5 vs. 14.1 months; HR = 0.459, 95% CI 0.279–0.754, p = 0.0025)
+AURA3 [24]
+71 vs. 31%; OR = 5.39, 95% CI 3.47–8.48, p < 0.001
+93% vs. 74%; OR = 4.76, 95% CI 2.64–8.84, p < 0.001
+Median, 10.1 vs. 4.4 months; HR = 0.30, 95% CI 0.23–0.41, p < 0.001
+Data for the OS analysis were not complete at the time of this report
+
+DCR disease control rate, HR hazard ratio, NC not calculable, OR odds ratio, ORR objective response rate, OS overall survival, PFS progression-free survival
+
+aThe OR analysis was performed using logistic regression model with treatment as a factor and PS as a covariate. OR > 1 favours osimertinib. % stated for osimertinib versus chemotherapy
+
+bAnalysis of PFS was performed using a Cox proportional hazards model with treatment as a factor and PS as a covariate. HR < 1 favours osimertinib. Median stated for osimertinib versus chemotherapy
+
+
+The absence of adjustment for differences due to confounding of unmeasured patient characteristics is a limitation of any indirect comparison. However, the acceptable level of consistency of the results of the indirect comparison and AURA3 provide evidence that the indirect approach is valid, particularly for estimation of OS where analysis of the RCT is heavily confounded due to treatment switching from the chemotherapy arm to osimertinib [24].
+
+BODY.CONCLUSIONS:
+23, 24]. In addition, the analysis of OS bridges the available evidence for the improved survival with osimertinib from AURA3, which is heavily confounded due to treatment switching.
+
+BODY.ELECTRONIC SUPPLEMENTARY MATERIAL:
+Below is the link to the electronic supplementary material.
+Supplementary material 1 (DOCX 48 kb)
+
+
+
+

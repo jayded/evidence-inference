@@ -1,0 +1,15 @@
+TITLE: 
+Simultaneous display of multiple three-dimensional electrophysiological datasets (dot mapping)
+
+
+
+ABSTRACT.ABSTRACT:
+ABSTRACT.AIMS:
+Complex ablation procedures are supported by accurate representation of an increasing variety of electrophysiological and imaging data within electroanatomic mapping systems (EMS). This study aims to develop a novel method for representing multiple complementary datasets on a single cardiac chamber model. Validation of the system and its application to both atrial and ventricular arrhythmias is examined.
+
+ABSTRACT.METHODS AND RESULTS:
+Dot mapping was conceived to display multiple datasets by utilizing quantitative surface shading to represent one dataset and finely spaced dots to represent others. Dot positions are randomized within triangular (surface meshes) or tetrahedral (volumetric meshes) simplices making the approach directly transferrable to contemporary EMS. Test data representing uniform electrical activation (n = 10) and focal scarring (n = 10) were used to test dot mapping data perception accuracy. User experience of dot mapping with atrial and ventricular clinical data is evaluated. Dot mapping ensured constant screen dot density for regions of uniform dataset values, regardless of user manipulation of the cardiac chamber. Perception accuracy of dot mapping was equivalent to colour mapping for both propagation direction (1.5 ± 1.8 vs. 4.8 ± 5.3°, P = 0.24) and focal source localization (1.1 ± 0.7 vs. 1.4 ± 0.5 mm, P = 0.88). User acceptance testing revealed equivalent diagnostic accuracy and display fidelity when compared with colour mapping.
+
+ABSTRACT.CONCLUSION:
+Dot mapping provides the unique ability to display multiple datasets from multiple sources on a single cardiac chamber model. The visual combination of multiple datasets may facilitate interpretation of complex electrophysiological and imaging data.
+

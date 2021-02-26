@@ -26,39 +26,177 @@ from evidence_inference.models.utils import PaddedSequence
 from evidence_inference.models.attention_distributions import TokenAttention, evaluate_model_attention_distribution
 
 
+def encoder_constructor(encoder_type, vocab_size, embeddings, h_size=None, query_dims=None, use_attention=False, condition_attention=False, tokenwise_attention=False):
+    assert embeddings is not None, "Embeddings must be defined!"
+    if encoder_type == "CBoW":
+        encoder = CBoWEncoder(vocab_size=vocab_size,
+                              embeddings=embeddings,
+                              use_attention=use_attention,
+                              condition_attention=condition_attention,
+                              tokenwise_attention=tokenwise_attention,
+                              query_dims=query_dims)
+        size = embeddings.embedding_dim
+    elif encoder_type == "GRU" or encoder_type == 'biGRU':
+        assert h_size is not None, "Hidden size must not be None for a GRUEncoder"
+        bidirectional = encoder_type == 'biGRU'
+        encoder = GRUEncoder(vocab_size=vocab_size,
+                             hidden_size=h_size,
+                             embeddings=embeddings,
+                             bidirectional=bidirectional,
+                             use_attention=use_attention,
+                             condition_attention=condition_attention,
+                             tokenwise_attention=tokenwise_attention,
+                             query_dims=query_dims)
+        size = h_size
+    elif encoder_type == 'LSTM' or encoder_type == 'biLSTM':
+        assert h_size is not None, "Hidden size must not be None for an LSTMEncoder"
+        bidirectional = ICO_encoder == 'biLSTM'
+        encoder = LSTMEncoder(vocab_size=vocab_size,
+                              hidden_size=h_size,
+                              embeddings=embeddings,
+                              bidirectional=bidirectional,
+                              use_attention=use_attention,
+                              condition_attention=condition_attention,
+                              tokenwise_attention=tokenwise_attention,
+                              query_dims=query_dims)
+        size = 2 * h_size
+    else:
+        raise ValueError("No such encoder: {}".format(encoder_type))
+    return size, encoder
+
+
 class CBoWEncoder(nn.Module):
     """Bag of words encoder for Intervention (also Comparator, Outcome) token sequences.
 
     Note that ordering information is discarded here, and our words are represented by continuous vectors.
     """
 
-    def __init__(self, vocab_size, embeddings: nn.Embedding=None, embedding_dim=200, use_attention=False, condition_attention=False, tokenwise_attention=False, query_dims=None):
+    def __init__(self, vocab_size, embeddings: nn.Embedding=None, embedding_dim=None, use_attention=False, condition_attention=False, tokenwise_attention=False, query_dims=None):
         super(CBoWEncoder, self).__init__()
 
         self.vocab_size = vocab_size
 
         if embeddings is None:
+            assert embedding_dim is not None, "If no embeddings are defined, we must at least define the input dimension!"
             self.embedding = nn.Embedding(vocab_size, embedding_dim)
         else:
             self.embedding = embeddings
             self.embedding_dim = embeddings.embedding_dim
 
         self.use_attention = use_attention
+        self.condition_attention = condition_attention
+        self.query_dims = query_dims
         if self.use_attention:
             self.attention_mechanism = TokenAttention(self.embedding_dim, self.query_dims, condition_attention, tokenwise_attention)
 
     def forward(self, word_inputs: PaddedSequence, query_v_for_attention: torch.Tensor=None, normalize_attention_distribution=True):
         if isinstance(word_inputs, PaddedSequence):
             embedded = self.embedding(word_inputs.data)
+            as_padded = PaddedSequence(embedded, word_inputs.batch_sizes, word_inputs.batch_first)
         else:
             raise ValueError("Got an unexpected type {} for word_inputs {}".format(type(word_inputs), word_inputs))
         if self.use_attention:
-            a = self.attention_mechanism(word_inputs, embedded, query_v_for_attention, normalize=normalize_attention_distribution)
-            output = torch.sum(a * embedded, dim=1)
-            return None, output, a
+            a = self.attention_mechanism(as_padded, query_v_for_attention, normalize=normalize_attention_distribution)
+            output = torch.sum(a * embedded * as_padded.mask().unsqueeze(2).cuda(), dim=1)
+            return embedded, output, a
         else:
             output = torch.sum(embedded, dim=1) / word_inputs.batch_sizes.unsqueeze(-1).to(torch.float)
-            return output
+            return embedded, output, None
+
+
+class LSTMEncoder(nn.Module):
+    """ LSTM encoder for Intervention (also Comparator, Outcome) token sequences.
+
+    Also contains attention mechanisms for use with this particular encoder
+    """
+
+    def __init__(self,
+                 vocab_size,
+                 n_layers=1,
+                 hidden_size=32,
+                 embeddings: nn.Embedding=None,
+                 use_attention=False,
+                 condition_attention=False,
+                 tokenwise_attention=False,
+                 query_dims=None,
+                 bidirectional=False):
+        """ Prepares a GRU encoder for the Intervention, Comparator, or outcome token sequences.
+
+        Either initializes embedding layer from existing embeddings or creates a random one of size vocab X hidden_size.
+
+        When using attention we either:
+        * condition on a hidden unit from the encoder and some query vector of size query_dims, which passes a linear
+          combination of the two through a non-linearity (Tanh) and then compresses this to a final number
+        * or we use a linear function from the output of the encoder.
+
+        In both cases, we use a softmax over the possible outputs to impose a final attention distribution.
+        """
+        super(LSTMEncoder, self).__init__()
+        if condition_attention and not use_attention:
+            raise ValueError("Cannot condition attention when there is no attention mechanism! Try setting "
+                             "use_attention to true or condition_attention to false, ")
+        if tokenwise_attention and not use_attention:
+            raise ValueError("Cannot have element-wise attention when there is no attention mechanism! Try setting "
+                             "use_attention to true or condition_attention to false, ")
+
+        self.vocab_size = vocab_size
+        self.n_layers = n_layers
+        self.use_attention = use_attention
+        self.condition_attention = condition_attention
+        self.tokenwise_attention = tokenwise_attention
+        self.query_dims = query_dims
+        self.bidirectional = bidirectional
+        if self.bidirectional:
+            self.hidden_size = hidden_size // 2
+        else:
+            self.hidden_size = hidden_size
+
+        if embeddings is None:
+            self.embedding = nn.Embedding(self.vocab_size, self.hidden_size)
+            self.lstm = nn.LSTM(input_size=self.hidden_size, hidden_size=self.hidden_size, num_layers=self.n_layers, batch_first=True, bidirectional=self.bidirectional)
+        else:
+            self.embedding = embeddings
+            self.lstm = nn.LSTM(input_size=embeddings.embedding_dim, hidden_size=self.hidden_size, num_layers=self.n_layers, batch_first=True, bidirectional=self.bidirectional)
+
+        if self.use_attention:
+            encoding_size = self.hidden_size + int(self.bidirectional) * self.hidden_size
+            self.attention_mechanism = TokenAttention(encoding_size, self.query_dims, condition_attention, tokenwise_attention)
+
+    def forward(self, word_inputs: PaddedSequence, init_hidden=None, query_v_for_attention: torch.Tensor=None, normalize_attention_distribution=True) -> (torch.Tensor, torch.Tensor):
+        if isinstance(word_inputs, PaddedSequence):
+            embedded = self.embedding(word_inputs.data)
+            as_padded = word_inputs.pack_other(embedded)
+            output, (hidden, cell) = self.lstm(as_padded, init_hidden)
+            hidden = torch.cat([hidden, cell], dim=2)
+            output = PaddedSequence.from_packed_sequence(output, batch_first=True)
+        else:
+            raise ValueError("Unknown input type {} for word_inputs: {}, try a PaddedSequence or a Tensor".format(type(word_inputs), word_inputs))
+
+        if bool(torch.any(output.data != output.data)):
+            import pdb; pdb.set_trace()
+        if bool(torch.any(hidden != hidden)):
+            import pdb; pdb.set_trace()
+        if bool(torch.any(cell != cell)):
+            import pdb; pdb.set_trace()
+
+        # concatenate the hidden representations
+        if self.bidirectional:
+            if self.n_layers > 1:
+                raise ValueError("Implement me!")
+            hidden = torch.cat([hidden[0], hidden[1]], dim=1)
+
+        if self.use_attention:
+            # note that these hidden_input_states are masked to zeros (when appropriate) already when this is called.
+            hidden_input_states = output
+            a = self.attention_mechanism(hidden_input_states, query_v_for_attention, normalize=normalize_attention_distribution)
+
+            # note this is an element-wise multiplication, so each of the hidden states is weighted by the attention vector
+            weighted_hidden = torch.sum(a * output.data, dim=1)
+            weighted_hidden = weighted_hidden.squeeze(0)  # dim 0 has been collapsed!
+            return output, weighted_hidden, a
+
+        hidden = hidden.squeeze(0)
+        return output, hidden, None
 
 
 class GRUEncoder(nn.Module):
@@ -133,12 +271,13 @@ class GRUEncoder(nn.Module):
 
             # note this is an element-wise multiplication, so each of the hidden states is weighted by the attention vector
             weighted_hidden = torch.sum(a * output.data, dim=1)
+            weighted_hidden = weighted_hidden.squeeze(0)  # dim 0 has been collapsed
             return output, weighted_hidden, a
 
-        return output, hidden
+        hidden = hidden.squeeze(0)
+        return output, hidden, None
 
-
-class InferenceNet(nn.Module):
+class ConfiguredInferenceNet(nn.Module):
     """ Predicts the relative (statistical) benefits of a pair of medical interventions with respect to an outcome.
 
     The input to the model is:
@@ -159,137 +298,41 @@ class InferenceNet(nn.Module):
     * passing the encoded result through a linear layer and then a softmax
     """
 
-    def __init__(self, vectorizer, h_size=32,
-                 init_embeddings=None,
-                 init_wvs_path="embeddings/PubMed-w2v.bin",
-                 weight_tying=False,
-                 ICO_encoder="CBoW",
-                 article_encoder="GRU",
-                 attention_over_article_tokens=True,
-                 condition_attention=True,
-                 tokenwise_attention=False,
-                 tune_embeddings=False,
-                 h_dropout_rate=0.2):
-        super(InferenceNet, self).__init__()
-        if condition_attention and not attention_over_article_tokens:
-            raise ValueError("Must have attention in order to have conditional attention!")
-
+    def __init__(self,
+                 vectorizer,
+                 article_encoder,
+                 intervention_encoder,
+                 comparator_encoder,
+                 outcome_encoder,
+                 cls_layer):
+        super(ConfiguredInferenceNet, self).__init__()
         self.vectorizer = vectorizer
-        vocab_size = len(self.vectorizer.idx_to_str)
-        
-        if init_embeddings is None:
-            print("loading pre-trained embeddings...")
-            init_embedding_weights = InferenceNet.init_word_vectors(init_wvs_path, vectorizer)
-            print("done.")
-        else:
-            print("Using provided embeddings")
-            init_embedding_weights = init_embeddings
-
-        self.ICO_encoder = ICO_encoder
-
-        # this is the size of the concatenated <abstract, I, C, O> representations,
-        # which will depend on the encoder variant being used.
-        self.ICO_dims = None
-
-        if ICO_encoder == "CBoW":
-            self.intervention_encoder = CBoWEncoder(vocab_size=vocab_size, embeddings=init_embedding_weights)
-            self.comparator_encoder = CBoWEncoder(vocab_size=vocab_size, embeddings=init_embedding_weights)
-            self.outcome_encoder = CBoWEncoder(vocab_size=vocab_size, embeddings=init_embedding_weights)
-            if article_encoder == 'CBoW':
-                self.ICO_dims = init_embedding_weights.embedding_dim * 3
-                MLP_input_size = self.ICO_dims + init_embedding_weights.embedding_dim
-                if h_size:
-                    print("Warning: ignoring the hidden size as the article encoder is CBoW and emits a fixed output")
-            elif article_encoder == 'GRU' or article_encoder == 'biGRU':
-                self.ICO_dims = init_embedding_weights.embedding_dim * 3
-                MLP_input_size = self.ICO_dims + h_size
-            else:
-                raise ValueError("Unknown article_encoder type {}".format(article_encoder))
-        elif ICO_encoder == "GRU" or ICO_encoder == 'biGRU':
-            bidirectional = ICO_encoder == 'biGRU'
-            # then use an RNN encoder for I, C, O elements.
-            self.intervention_encoder = GRUEncoder(vocab_size=vocab_size, hidden_size=h_size,
-                                                   embeddings=init_embedding_weights, bidirectional=bidirectional)
-            self.comparator_encoder = GRUEncoder(vocab_size=vocab_size, hidden_size=h_size,
-                                                 embeddings=init_embedding_weights, bidirectional=bidirectional)
-            self.outcome_encoder = GRUEncoder(vocab_size=vocab_size, hidden_size=h_size,
-                                              embeddings=init_embedding_weights, bidirectional=bidirectional)
-            self.ICO_dims = h_size * 3 
-            if article_encoder == 'CBoW':
-                # note that the CBoW encoder ignores the h_size here
-                MLP_input_size = self.ICO_dims + init_embedding_weights.embedding_dim
-            elif article_encoder == 'GRU' or article_encoder == 'biGRU':
-                MLP_input_size = self.ICO_dims + h_size  # the input to the MLP is the concatentation of the ICO hidden states and the article hidden states.
-            else:
-                raise ValueError("Unknown article_encoder type {}".format(article_encoder))
-        else:
-            raise ValueError("No such encoder: {}".format(ICO_encoder))
-
-        self.article_encoder_type = article_encoder
-        if article_encoder == 'GRU' or article_encoder == 'biGRU':
-            bidirectional = article_encoder == 'biGRU'
-            self.article_encoder = GRUEncoder(vocab_size=vocab_size, hidden_size=h_size,
-                                              embeddings=init_embedding_weights,
-                                              use_attention=attention_over_article_tokens,
-                                              condition_attention=condition_attention,
-                                              tokenwise_attention=tokenwise_attention,
-                                              query_dims=self.ICO_dims,
-                                              bidirectional=bidirectional)
-        elif article_encoder == 'CBoW':
-            self.article_encoder = CBoWEncoder(vocab_size=vocab_size,
-                                               embeddings=init_embedding_weights,
-                                               use_attention=attention_over_article_tokens,
-                                               condition_attention=condition_attention,
-                                               tokenwise_attention=tokenwise_attention,
-                                               query_dims=self.ICO_dims)
-        else:
-            raise ValueError("Unknown article encoder type: {}".format(article_encoder))
-
-        if not tune_embeddings:
-            print("freezing word embedding layer!")
-            for layer in (
-                    self.article_encoder, self.intervention_encoder, self.comparator_encoder, self.outcome_encoder):
-                # note: we are relying on the fact that all encoders will have a
-                # "embedding" layer (nn.Embedding). 
-                layer.embedding.requires_grad = False
-                layer.embedding.weight.requires_grad = False
-
-        # weight tying (optional)
-        # note that this is not meaningful (or, rather, does nothing) when embeddings are
-        # frozen.
-        # TODO note that weights are currently tied because all the ICOEncoders use the same underlying objects.
-        if weight_tying:
-            print("tying word embedding layers")
-            self.intervention_encoder.embedding.weight = self.comparator_encoder.embedding.weight = \
-                self.outcome_encoder.embedding.weight = self.article_encoder.embedding.weight
+        self.article_encoder = article_encoder
+        self.intervention_encoder = intervention_encoder
+        self.comparator_encoder = comparator_encoder
+        self.outcome_encoder = outcome_encoder
+        self.cls_layer = cls_layer
         self.batch_first = True
 
-        self.MLP_hidden = nn.Linear(MLP_input_size, 16)
-        self.out = nn.Linear(16, 3)
-        self.dropout = nn.Dropout(p=h_dropout_rate)
-
     def _encode(self, I_tokens, C_tokens, O_tokens):
-        if self.ICO_encoder == "CBoW":
-            # simpler case of a CBoW encoder.
-            I_v = self.intervention_encoder(I_tokens)
-            C_v = self.comparator_encoder(C_tokens)
-            O_v = self.outcome_encoder(O_tokens)
-        elif self.ICO_encoder == 'GRU' or self.ICO_encoder == 'biGRU':
-            # then we have an RNN encoder. Hidden layers are automatically initialized
-            _, I_v = self.intervention_encoder(I_tokens)
-            _, C_v = self.comparator_encoder(C_tokens)
-            _, O_v = self.outcome_encoder(O_tokens)
-        else:
-            raise ValueError("No such encoder: {}".format(self.ICO_encoder))
+        _, I_v, _ = self.intervention_encoder(I_tokens)
+        _, C_v, _ = self.comparator_encoder(C_tokens)
+        _, O_v, _ = self.outcome_encoder(O_tokens)
         return I_v, C_v, O_v
 
-    def forward(self, article_tokens: PaddedSequence, I_tokens: PaddedSequence, C_tokens: PaddedSequence, O_tokens: PaddedSequence,
-                batch_size, debug_attn=False, verbose_attn=False):
+    def forward(self,
+                article_tokens: PaddedSequence,
+                I_tokens: PaddedSequence,
+                C_tokens: PaddedSequence,
+                O_tokens: PaddedSequence,
+                batch_size: int,
+                debug_attn: bool=False,
+                verbose_attn: bool=False):
         if isinstance(article_tokens, PaddedSequence):
             assert all([isinstance(x, PaddedSequence) for x in [I_tokens, C_tokens, O_tokens]])
-        elif isinstance(article_tokens, torch.Tensor):
-            # TODO test this codepath
-            assert all([isinstance(x, torch.Tensor) for x in [I_tokens, C_tokens, O_tokens]]) and all([x.shape[0] == 1 for x in [article_tokens, I_tokens, C_tokens, O_tokens]])
+        #elif isinstance(article_tokens, torch.Tensor):
+        #    # TODO test this codepath
+        #    assert all([isinstance(x, torch.Tensor) for x in [I_tokens, C_tokens, O_tokens]]) and all([x.shape[0] == 1 for x in [article_tokens, I_tokens, C_tokens, O_tokens]])
         else:
             raise ValueError("Got an unexpected type for our input tensor: {}".format(type(article_tokens)))
 
@@ -299,61 +342,54 @@ class InferenceNet(nn.Module):
         # the output of each of these should be of shape (batch x word_embedding_size)
         I_v, C_v, O_v = self._encode(I_tokens, C_tokens, O_tokens)
 
-        if self.article_encoder.use_attention:
+        query_v = None
+        if self.article_encoder.condition_attention:
+            query_v = torch.cat([I_v, C_v, O_v], dim=1)
 
-            query_v = None
-            if self.article_encoder.condition_attention:
-                query_v = torch.cat([I_v, C_v, O_v], dim=1)
-
-            _, a_v, attn_weights = self.article_encoder(article_tokens, query_v_for_attention=query_v)
-
-            # @TODO return to debugging/inspecting attention
-            if verbose_attn:
-                attn_weights = attn_weights.data.cpu().numpy()
-                for i in range(batch_size):
-                    attn_weights_slice = attn_weights[i][:article_tokens.batch_sizes[i].item()].squeeze()
-                    sorted_idx = np.argsort(attn_weights_slice)
-                    # hack
-                    if sorted_idx.size == 1:
-                        continue
-                    length = len(attn_weights_slice)
-                    top_words = [self.vectorizer.idx_to_str[article_tokens.data[i][idx]] for idx in sorted_idx[max(-20, -1 * length):]]
-                    top_words.reverse()
-                    top_words_weights = [attn_weights_slice[idx] for idx in sorted_idx[max(-20, -1 * length):]]
-                    top_words_weights.reverse()
-                    bottom_words = [self.vectorizer.idx_to_str[article_tokens.data[i][idx]] for idx in sorted_idx[:min(20, length)]]
-                    bottom_words.reverse()
-                    bottom_words_weights = [attn_weights_slice[idx] for idx in sorted_idx[:min(20, length)]]
-                    bottom_words_weights.reverse()
-
-                    def tokens_to_str(tokens):
-                        return ", ".join([self.vectorizer.idx_to_str[x.item()] for x in tokens])
-                    print("I, C, O frame:",
-                          tokens_to_str(I_tokens.data[i][:I_tokens.batch_sizes[i]]), ";",
-                          tokens_to_str(C_tokens.data[i][:C_tokens.batch_sizes[i]]), ":",
-                          tokens_to_str(O_tokens.data[i][:O_tokens.batch_sizes[i]]))
-                    print("top words:", ", ".join(top_words))
-                    print("weights:", ", ".join(str(x) for x in top_words_weights))
-                    print("bottom words:", ", ".join(bottom_words))
-                    print("weights:", ", ".join(str(x) for x in bottom_words_weights))
-
-        else:
-            if self.article_encoder_type == 'CBoW':
-                # TODO implement attention for the CBoW model
-                a_v = self.article_encoder(article_tokens)
-            elif self.article_encoder_type == 'GRU' or self.article_encoder_type == 'biGRU':
-                _, a_v = self.article_encoder(article_tokens)
-            else:
-                raise ValueError("Unknown article encoder type {}".format(self.article_encoder_type))
-
-        # TODO document this
-        if len(a_v.size()) == 3:
-            a_v = a_v.squeeze(0)
+        _, a_v, attn_weights = self.article_encoder(article_tokens, query_v_for_attention=query_v)
+        if self.article_encoder.use_attention and verbose_attn:
+            self._print_attention_diagnostic(article_tokens, I_tokens, C_tokens, O_tokens, batch_size, attn_weights) 
         h = torch.cat([a_v, I_v, C_v, O_v], dim=1)
-        h = self.dropout(h)
-        raw_out = self.out(self.MLP_hidden(h))
+        raw_out = self.cls_layer(h)
 
         return F.softmax(raw_out, dim=1)
+
+    def _print_attention_diagnostic(self,
+                                    article_tokens: PaddedSequence,
+                                    I_tokens: PaddedSequence,
+                                    C_tokens: PaddedSequence,
+                                    O_tokens: PaddedSequence,
+                                    batch_size: int,
+                                    attn_weights: torch.Tensor):
+        # @TODO return to debugging/inspecting attention
+        attn_weights = attn_weights.data.cpu().numpy()
+        for i in range(batch_size):
+            attn_weights_slice = attn_weights[i][:article_tokens.batch_sizes[i].item()].squeeze()
+            sorted_idx = np.argsort(attn_weights_slice)
+            # hack
+            if sorted_idx.size == 1:
+                continue
+            length = len(attn_weights_slice)
+            top_words = [self.vectorizer.idx_to_str[article_tokens.data[i][idx]] for idx in sorted_idx[max(-20, -1 * length):]]
+            top_words.reverse()
+            top_words_weights = [attn_weights_slice[idx] for idx in sorted_idx[max(-20, -1 * length):]]
+            top_words_weights.reverse()
+            bottom_words = [self.vectorizer.idx_to_str[article_tokens.data[i][idx]] for idx in sorted_idx[:min(20, length)]]
+            bottom_words.reverse()
+            bottom_words_weights = [attn_weights_slice[idx] for idx in sorted_idx[:min(20, length)]]
+            bottom_words_weights.reverse()
+
+            def tokens_to_str(tokens):
+                return ", ".join([self.vectorizer.idx_to_str[x.item()] for x in tokens])
+            print("I, C, O frame:",
+                  tokens_to_str(I_tokens.data[i][:I_tokens.batch_sizes[i]]), ";",
+                  tokens_to_str(C_tokens.data[i][:C_tokens.batch_sizes[i]]), ":",
+                  tokens_to_str(O_tokens.data[i][:O_tokens.batch_sizes[i]]))
+            print("top words:", ", ".join(top_words))
+            print("weights:", ", ".join(str(x) for x in top_words_weights))
+            print("bottom words:", ", ".join(bottom_words))
+            print("weights:", ", ".join(str(x) for x in bottom_words_weights))
+
 
     @classmethod
     def init_word_vectors(cls, path_to_wvs, vectorizer, use_cuda=USE_CUDA) -> nn.Embedding:
@@ -377,6 +413,62 @@ class InferenceNet(nn.Module):
         if use_cuda:
             embedding = embedding.cuda()
         return embedding
+
+class InferenceNet(ConfiguredInferenceNet):
+
+    def __init__(self, vectorizer,
+                 h_size=32,
+                 init_embeddings=None,
+                 init_wvs_path="embeddings/PubMed-w2v.bin",
+                 weight_tying=True,
+                 ICO_encoder="CBoW",
+                 article_encoder="GRU",
+                 attention_over_article_tokens=True,
+                 condition_attention=True,
+                 tokenwise_attention=False,
+                 tune_embeddings=False,
+                 h_dropout_rate=0.2):
+
+        assert weight_tying, "All encoders use the same embedding layer"
+        if condition_attention and not attention_over_article_tokens:
+            raise ValueError("Must have attention in order to have conditional attention!")
+        if init_embeddings is None:
+            print("loading pre-trained embeddings...")
+            init_embedding_weights = InferenceNet.init_word_vectors(init_wvs_path, vectorizer)
+            print("done.")
+        else:
+            print("Using provided embeddings")
+            init_embedding_weights = init_embeddings
+        if not tune_embeddings:
+            init_embedding_weights.requires_grad = False
+
+        vocab_size = len(vectorizer.idx_to_str)
+        ico_h_size = None if ICO_encoder is 'CBoW' else h_size
+        i_size, i_encoder = encoder_constructor(ICO_encoder, vocab_size, init_embedding_weights, h_size=ico_h_size)
+        c_size, c_encoder = encoder_constructor(ICO_encoder, vocab_size, init_embedding_weights, h_size=ico_h_size)
+        o_size, o_encoder = encoder_constructor(ICO_encoder, vocab_size, init_embedding_weights, h_size=ico_h_size)
+
+        ICO_dims = i_size + c_size + o_size
+        a_size, article_encoder = encoder_constructor(article_encoder,
+                                                      vocab_size,
+                                                      init_embedding_weights,
+                                                      h_size=h_size,
+                                                      query_dims=ICO_dims,
+                                                      use_attention=attention_over_article_tokens,
+                                                      condition_attention=condition_attention,
+                                                      tokenwise_attention=tokenwise_attention)
+        self.batch_first = True
+        MLP_input_size = ICO_dims + a_size
+
+        cls_layer = nn.Sequential(nn.Dropout(p=h_dropout_rate),
+                                  nn.Linear(MLP_input_size, 16),
+                                  nn.Linear(16, 3))
+        super(InferenceNet, self).__init__(vectorizer,
+                                           article_encoder,
+                                           i_encoder,
+                                           c_encoder,
+                                           o_encoder,
+                                           cls_layer)
 
 
 def _get_y_vec(y_dict, as_vec=True, majority_lbl=True) -> torch.LongTensor:

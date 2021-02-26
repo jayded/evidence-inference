@@ -77,7 +77,7 @@ UserID,PromptID,PMCID,Valid Label,Valid Reasoning,Label,Annotations,Label Code,I
 2,9,3298351,True,True,significantly increased,"However, in layer compression, faster healing dynamics and a higher percentage of healed area than in the case of using stockings were observed. The observed differences were statistically significant.",1,True,18045,18248
 3,9,3298351,True,True,significantly increased,greater dynamics of healing was observed in patients treated with the four-layer Profore system �?? the average loss of area during the whole 12-week observation period was 0.63 cm2/per week.,1,True,12123,12321
 0,10,3298351,True,True,significantly increased,"However, in layer compression, faster healing dynamics and a higher percentage of healed area than in the case of using stockings were observed.",1,True,18045,18191
-1,10,3298351,False,False,no significant difference,"Table I
+1,10,3298351,False,False,no significant difference,"Table I
 Comparable characteristics of patients treated with Maxis compression stockings and ProGuide two-layer and Profore four-layer compression systems",0,False,12204,12357
 1,10,3298351,False,False,no significant difference,Ulceration area [cm2] (x � SD)	4.7 �4.18	5.3 �3.93	6.0 �3.98	p > 0.05,0,False,12635,12704
 1,10,3298351,False,False,no significant difference,"In the group of patients who used Maxis compression stockings complete healing was achieved in 8 (53.3%) ulcerations, in the groups of patients treated with layer compression systems, complete healing was achieved in 10 (62.5%) ulcerations treated with the two-layer compression system and 9 (60%) ulcerations treated with the four-layer compression system. The differences were statistically significant (p > 0.05).",0,False,14462,14878
@@ -221,9 +221,9 @@ Comparable characteristics of patients treated with Maxis compression stockings 
 3,44,2674549,True,True,significantly increased,"The numbers of serious adverse events and serious infections per patient-year were greater in group 4 than in groups 1, 2 or 3;",1,False,23100,23227
 3,44,2674549,True,True,significantly increased,"<td align=""left"" colspan=""1"" rowspan=""1"">Serious adverse events</td><td align=""char"" colspan=""1"" rowspan=""1"">5 (3.7%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.09 (0.03 to 0.21)</td><td align=""char"" colspan=""1"" rowspan=""1"">8 (6.0%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.11 (0.06 to 0.19)</td><td align=""char"" colspan=""1"" rowspan=""1"">9 (4.2%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.08 (0.04 to 0.14)</td><td align=""char"" colspan=""1"" rowspan=""1"">13 (12.4%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.18 (0.10 to 0.30)</td>",1,False,15284,15835
 0,45,2674549,True,True,significantly increased,"The numbers of serious adverse events and serious infections per patient-year were greater in group 4 than in groups 1, 2 or 3; however, the 95% CI were wide and overlapping.",1,True,23099,23275
-1,45,2674549,False,False,no significant difference,"During the placebo-controlled portion of the study (to week 16), serious adverse events occurred in 2.3%, 3.8%, 5.6% and 9.0% of patients and serious infections occurred in 0.8%, 0.8%, 2.2% and 5.6%, respectively.
-
-
+1,45,2674549,False,False,no significant difference,"During the placebo-controlled portion of the study (to week 16), serious adverse events occurred in 2.3%, 3.8%, 5.6% and 9.0% of patients and serious infections occurred in 0.8%, 0.8%, 2.2% and 5.6%, respectively.
+
+
 Conclusion:",0,False,1560,1797
 2,45,2674549,False,False,no significant difference,"The numbers of serious adverse events and serious infections per patient-year were greater in group 4 than in groups 1, 2 or 3; however, the 95% CI were wide and overlapping.",0,False,23099,23275
 3,45,2674549,True,True,significantly increased,"<td align=""left"" colspan=""1"" rowspan=""1"">Serious adverse events</td><td align=""char"" colspan=""1"" rowspan=""1"">5 (3.7%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.09 (0.03 to 0.21)</td><td align=""char"" colspan=""1"" rowspan=""1"">8 (6.0%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.11 (0.06 to 0.19)</td><td align=""char"" colspan=""1"" rowspan=""1"">9 (4.2%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.08 (0.04 to 0.14)</td><td align=""char"" colspan=""1"" rowspan=""1"">13 (12.4%)</td><td align=""char"" colspan=""1"" rowspan=""1"">0.18 (0.10 to 0.30)</td>",1,False,15284,15835
@@ -264,16 +264,16 @@ Conclusion:",0,False,1560,1797
 0,54,524504,True,True,significantly increased,"However, uterine tachysystole (p < 0.05)) and meconium stained amniotic fluid (p > 0.05) occurred more often in the misoprostol group as did abnormal heart rate tracing (22.5% vs.12%, p > 0.05)",1,False,11229,11424
 1,54,524504,True,True,significantly increased,"However, uterine tachysystole (p < 0.05)) and meconium stained amniotic fluid (p > 0.05) occurred more often in the misoprostol group as did abnormal heart rate tracing (22.5% vs.12%, p > 0.05) (Table 1).",1,True,11229,11434
 2,54,524504,True,True,significantly increased,"However, uterine tachysystole (p < 0.05)) and meconium stained amniotic fluid (p > 0.05) occurred more often in the misoprostol group as did abnormal heart rate tracing (22.5% vs.12%, p > 0.05) (Table 1).",1,True,11229,11432
-2,54,524504,True,True,significantly increased,"Table 1
-
+2,54,524504,True,True,significantly increased,"Table 1
+
 Obstetrical Outcomes",1,True,11434,11465
 2,54,524504,True,True,significantly increased,Misoprostol n = 80 (%)	Dinoprostone n = 83 (%)	Statistical significance,1,True,11465,11537
 2,54,524504,True,True,significantly increased,Uterine Tachysystole	10 (12.6%)	3 (3.6%)	p < 0.05,1,True,12032,12082
 3,54,524504,True,True,significantly increased,uterine tachysystole (p < 0.05)) and meconium stained amniotic fluid (p > 0.05) occurred more often in the misoprostol group,1,True,11238,11364
 0,55,524504,True,True,no significant difference,Uterine Hyperstimulation 2 (2.5%) 1 (1.2%) NS,0,False,12082,12129
 1,55,524504,True,True,no significant difference,Uterine Hyperstimulation	2 (2.5%)	1 (1.2%)	NS,0,False,12082,12129
-2,55,524504,True,True,no significant difference,"Table 1
-
+2,55,524504,True,True,no significant difference,"Table 1
+
 Obstetrical Outcomes",0,False,11434,11465
 2,55,524504,True,True,no significant difference,Misoprostol n = 80 (%)	Dinoprostone n = 83 (%)	Statistical significance,0,False,11465,11537
 2,55,524504,True,True,no significant difference,Uterine Hyperstimulation	2 (2.5%)	1 (1.2%)	NS,0,False,12079,12124
@@ -286,8 +286,8 @@ Obstetrical Outcomes",0,False,11434,11465
 3,56,524504,True,True,no significant difference,"<td colspan=""6""><hr></td>",0,False,205,242
 0,57,524504,True,True,no significant difference,Perinatal death 0 1(1.2%) NS,0,True,14203,14233
 1,57,524504,True,True,no significant difference,Perinatal death	0	1(1.2%)	NS,0,False,14203,14233
-2,57,524504,True,True,no significant difference,"Table 3
-
+2,57,524504,True,True,no significant difference,"Table 3
+
 Neonatal Outcomes",0,False,14058,14086
 2,57,524504,True,True,no significant difference,Misoprostol n = 80 (%)	Dinoprostone n = 83 (%)	Statistical significance,0,False,11465,11537
 2,57,524504,True,True,no significant difference,Perinatal death	0	1(1.2%)	NS,0,False,14200,14228
@@ -296,33 +296,33 @@ Neonatal Outcomes",0,False,14058,14086
 1,58,524504,True,True,no significant difference,"More neonates in the misoprostol group had first minute Apgar scores lower than 7 (12.6% vs. 6.1%, p > 0.05), or needed neonatal resuscitation (11.4% vs. 9.9%, p > 0.05) but none of the babies had birth asphyxia",0,True,13423,13635
 1,58,524504,True,True,no significant difference,Neonatal resuscitation	9 (11.3%)	9 (10.8%)	NS,0,True,14229,14274
 2,58,524504,True,True,no significant difference,"More neonates in the misoprostol group had first minute Apgar scores lower than 7 (12.6% vs. 6.1%, p > 0.05), or needed neonatal resuscitation (11.4% vs. 9.9%, p > 0.05) but none of the babies had birth asphyxia [23].",0,True,13422,13638
-2,58,524504,True,True,no significant difference,"Table 3
-
+2,58,524504,True,True,no significant difference,"Table 3
+
 Neonatal Outcomes",0,True,14058,14086
 2,58,524504,True,True,no significant difference,Misoprostol n = 80 (%)	Dinoprostone n = 83 (%)	Statistical significance,0,True,11465,11537
 2,58,524504,True,True,no significant difference,Neonatal resuscitation	9 (11.3%)	9 (10.8%)	NS,0,True,14229,14274
 3,58,524504,True,True,no significant difference,Neonatal resuscitation	9 (11.3%)	9 (10.8%),0,True,14232,14274
 0,59,524504,True,True,no significant difference,Cord blood pH (arterial)1 7.28 ± 0.05 7.27 ± 0.05 NS,0,True,14427,14478
 1,59,524504,True,True,no significant difference,The mean cord pH and the base deficit were comparable in the two groups.,0,True,13640,13714
-2,59,524504,True,True,no significant difference,"Table 3
-
+2,59,524504,True,True,no significant difference,"Table 3
+
 Neonatal Outcomes",0,True,14058,14086
 2,59,524504,True,True,no significant difference,Misoprostol n = 80 (%)	Dinoprostone n = 83 (%)	Statistical significance,0,True,11465,11537
 2,59,524504,True,True,no significant difference,Cord blood pH (arterial)1	7.28 � 0.05	7.27 � 0.05	NS,0,True,14425,14478
 3,59,524504,True,True,no significant difference,Cord blood pH (arterial)1	7.28 ± 0.05	7.27 ± 0.05	NS,0,True,14427,14478
 0,60,524504,True,True,no significant difference,Hyperbilirubinemia 2 9 (11.3%) 5 (6.0%) NS,0,True,14607,14648
 1,60,524504,True,True,no significant difference,Hyperbilirubinemia 2	9 (11.3%)	5 (6.0%)	NS,0,True,14607,14648
-2,60,524504,True,True,no significant difference,"Table 3
-
-Neonatal Outcomes
+2,60,524504,True,True,no significant difference,"Table 3
+
+Neonatal Outcomes
 Hyperbilirubinemia",0,True,14048,14100
 2,60,524504,True,True,no significant difference,Misoprostol n = 80 (%)	Dinoprostone n = 83 (%)	Statistical significance,0,True,11465,11537
 2,60,524504,True,True,no significant difference,9 (11.3%)	5 (6.0%)	NS,0,True,14627,14647
 3,60,524504,True,True,no significant difference,Hyperbilirubinemia 2	9 (11.3%)	5 (6.0%)	NS,0,True,14607,14648
 0,61,524504,True,True,no significant difference,Birth trauma 3 0 2 (2.5%) NS,0,True,14651,14678
 1,61,524504,True,True,no significant difference,Birth trauma 3	0	2 (2.5%)	NS,0,True,14651,14678
-2,61,524504,True,True,no significant difference,"Table 3
-
+2,61,524504,True,True,no significant difference,"Table 3
+
 Neonatal Outcomes",0,True,14058,14086
 2,61,524504,True,True,no significant difference,Misoprostol n = 80 (%)	Dinoprostone n = 83 (%)	Statistical significance,0,True,11465,11537
 2,61,524504,True,True,no significant difference,Birth trauma 3	0	2 (2.5%)	NS,0,True,14648,14677
@@ -343,8 +343,8 @@ Neonatal Outcomes",0,True,14058,14086
 1,65,1764008,True,True,no significant difference,Oxytocin augmentation After initiation of Analgesia	197(100)	192(96)	NS,0,True,9736,9807
 1,65,1764008,True,True,no significant difference,"Administration of epidural analgesia with 1% lidocaine do not prolong the active-first or second stages of labor significantly, and do not increase the incidence of oxytocin augmentation",0,True,9038,9224
 2,65,1764008,True,True,no significant difference,"Administration of epidural analgesia with 1% lidocaine do not prolong the active-first or second stages of labor significantly, and do not increase the incidence of oxytocin augmentation(Table 2).",0,True,9038,9234
-2,65,1764008,True,True,no significant difference,"Table 2
-
+2,65,1764008,True,True,no significant difference,"Table 2
+
 Progress of labor",0,True,9528,9568
 2,65,1764008,True,True,no significant difference,Labor progress	Epidural N = 197	Meperidine N = 198	P value,0,True,9568,9627
 2,65,1764008,True,True,no significant difference,Oxytocin augmentation After initiation of Analgesia	197(100)	192(96)	NS,0,True,9736,9807

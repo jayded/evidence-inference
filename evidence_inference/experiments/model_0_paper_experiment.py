@@ -260,6 +260,12 @@ def get_data(sections_of_interest=None, mode='experiment', include_sentence_span
         val_Xy = preprocessor.get_Xy(list(preprocessor.validation_document_ids())[:5], inference_vectorizer, sections_of_interest=sections_of_interest, include_sentence_span_splits = include_sentence_span_splits)
         test_Xy = preprocessor.get_Xy(list(preprocessor.validation_document_ids())[5:10], inference_vectorizer, sections_of_interest, include_sentence_span_splits = include_sentence_span_splits)
         return train_Xy, val_Xy, test_Xy, inference_vectorizer
+    elif 'ablate' in mode:
+        _, real_mode, percent = mode.split('_')
+        percent = float(percent)
+        train_Xy, val_Xy, test_Xy, inference_vectorizer = get_data(sections_of_interest, real_mode, include_sentence_span_splits)
+        train_Xy = train_Xy[:int(len(train_Xy) * percent)]
+        return train_Xy, val_Xy, test_Xy, inference_vectorizer
     else:
         raise ValueError('implement me!')
 
@@ -332,7 +338,7 @@ def run(real_train_Xy, real_val_Xy, real_test_Xy, inference_vectorizer, mangle_m
     return best_model, val_metrics, attn_metrics, final_test_preds
 
 
-Config = namedtuple('Config', ['article_sections', 'ico_encoder', 'article_encoder', 'attn', 'cond_attn', 'tokenwise_attention', 'batch_size', 'attn_batch_size', 'epochs', 'attn_epochs', 'data_config', 'pretrain_attention', 'tune_embeddings', 'no_pretrained_word_embeddings', 'attention_acceptance'])
+Config = namedtuple('Config', ['article_sections', 'ico_encoder', 'article_encoder', 'attn', 'cond_attn', 'tokenwise_attention', 'batch_size', 'attn_batch_size', 'epochs', 'attn_epochs', 'data_config', 'mode', 'pretrain_attention', 'tune_embeddings', 'no_pretrained_word_embeddings', 'attention_acceptance'])
 
 
 def generate_paper_results(configurations, mode='experiment', save_dir=None, determinize=False):
@@ -438,6 +444,7 @@ def main():
                     epochs=args.epochs,
                     attn_epochs=args.attn_epochs,
                     data_config=args.data_config,
+                    mode=args.mode,
                     pretrain_attention=args.pretrain_attention,
                     tune_embeddings=args.tune_embeddings,
                     no_pretrained_word_embeddings=args.no_pretrained_word_embeddings,

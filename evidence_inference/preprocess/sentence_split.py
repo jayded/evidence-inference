@@ -7,7 +7,7 @@ Created on Mon Nov 19 12:20:27 2018
 from __future__ import unicode_literals, print_function
 import spacy
 
-nlp = spacy.load('en')
+nlp = spacy.load('en_core_sci_sm')
 
 def gen_first_n_second_n(first_n, first_n_val, second_n, second_n_val):
     """ 

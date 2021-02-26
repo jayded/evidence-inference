@@ -1,0 +1,740 @@
+TITLE: 
+Prospectively validated predictions of shock and organ failure in individual septic surgical patients: the Systemic Mediator Associated Response Test
+
+
+
+ABSTRACT.INTRODUCTION::
+Clinically useful predictions of end-organ function and failure in severe sepsis may be possible through analyzing the interactions among demographics, physiologic parameters, standard laboratory tests, and circulating markers of inflammation. The present study evaluated the ability of such a methodology, the Systemic Mediator Associated Response Test (SMART), to predict the clinical course of septic surgery patients from a database of medical and surgical patients with severe sepsis and/or septic shock.
+
+ABSTRACT.PATIENTS AND METHODS::
+Three hundred and three patients entered into the placebo arm of a multi-institutional sepsis study were randomly assigned to a model-building cohort (n = 200; 119 surgical) or to a predictive cohort (n = 103; 55 surgical). Using baseline and baseline plus serial measurements of physiologic data, standard laboratory tests, and plasma levels of IL-6, IL-8, and granulocyte colony-stimulating factor (GCSF), multivariate models were developed that predicted the presence or absence of pulmonary edema on chest radiography, and respiratory, renal, coagulation, hepatobiliary, or central nervous system dysfunction and shock in individual patients. Twenty-eight-day survival was predicted also in baseline plus serial data models. These models were validated prospectively by inserting baseline raw data from the 55 surgical patients in the predictive cohort into the models built on the comprehensive training cohort, and calculating the area under the curve (AUC) of predicted versus observed receiver operator characteristic (ROC) plots.
+
+ABSTRACT.RESULTS::
+SMART predictions of physiologic, respiratory, metabolic, hepatic, renal, and hematologic function indicators were validated prospectively, frequently at clinically useful levels of accuracy. ROC AUC values above 0.700 were achieved in 30 out of 49 (61%) of SMART baseline models in predicting shock and organ failure up to 7 days in advance, and in 30 out of 54 (56%) of baseline plus serial data models.
+
+ABSTRACT.CONCLUSION::
+SMART multivariate models accurately predict pathophysiology, shock, and organ failure in individual septic surgical patients. These prognostications may facilitate early treatment of end-organ dysfunction in surgical sepsis.
+
+BODY.INTRODUCTION:
+Conventional outcomes research in surgical sepsis has focused on scoring systems that predict grouped risk of mortality, utilization of resources, and, sometimes, the development of broadly defined multiple organ failure conditions. For example, the Sepsis Score [1], the Multiple Organ System Dysfunction Score [2], and the Sepsis-related Organ Failure Assessment [3] were attempts to predict group percentage of risk of death among septic patients. In the general adult intensive care unit population, the Mortality Probability Model II score [4], the Simplified Acute Physiology Score II [5], and the Acute Physiology and Chronic Health Evaluation (APACHE) III score [6] are the best known predictive engines. For trauma patients, the Injury Severity Score, the Trauma and Injury Severity Score, and A Severity Characterization of Trauma, among others, also predict mortality risk [7,8,9,10,11]. Others have related the duration of systemic inflammatory conditions to organ dysfunction, duration of hospital stay, and mortality [12].
+In septic surgical patients, increased circulating cytokines, prostaglandins, complement, and other inflammatory response mediators have been associated with poor outcome and the development of acute end-organ dysfunction [13,14,15]. However, conventional scoring systems have nevertheless grouped patients with disparate pathophysiologies together on the basis of similar probabilities of dying. Ultimately, then, these methods forecast only grouped percentage risks of hospital death, and possibly consumption of health care resources [13]. The clinically important pathophysiologic events that actually define the risk of mortality in the first place are not predicted. As a result, conventional prognostication does not facilitate timely and therapeutic intervention, and therefore does not improve survival.
+Management of severely septic surgical patients could be optimized by identifying and monitoring the onset and resolution of organ dysfunction, shock, and other systemic inflammatory conditions subclinically in individual patients. Considering the many inflammatory response mediators that have been associated with the development of shock, organ failure, and death, it seems logical that changes in circulating concentrations of such substances may be related prognostically to clinical events that lie biologically and temporally downstream from the original septic insult. We hypothesized that clinical manifestations of sepsis and its sequelae could be predicted through analyzing interactions between patient data and plasma inflammatory response mediators measured when sepsis was first diagnosed, and clinical events that occurred days later. This concept was tested retrospectively in a previous study [16], and has been developed methodologically as the SMART. Circulating eicosanoids and cytokines have been predicted also [17]. Building on the results of these pilot projects, the objective of the present study was to further develop, and validate prospectively, SMART multivariate models that predict clinically important dysfunction of vital organs, in advance, in individual surgical patients with severe sepsis and septic shock.
+
+BODY.PATIENTS AND METHODS:
+Data from 303 patients with severe sepsis and septic shock who were enroled in the placebo arm of a phase III clinical trial [13] was tabulated. The clinical characteristics of these patients, including demographics, organ dysfunction, and types of infection, among other data, were described completely in the parent paper [18]. These patients then were assigned by a randomization program to a model-building training cohort (n = 200; 119 surgical) or a prospective validation, predictive cohort (n = 103; 55 surgical). Demographics, including sex, race, age, and comorbidities, were recorded at baseline for each patient. At baseline and on days 1 through 7, 14, 21, and 28, the physiologic parameters and hospital laboratory tests listed in Table 1 were recorded in all patients surviving at those observation points. In addition, at baseline and on days 1, 2, 3, and 4, plasma concentrations of IL-6, IL-8, and GCSF were measured by enzyme-linked immunosorbent assay (ELISA), using commercially available kits and standard ELISA laboratory methodology.
+Using SAS software [19], data from the training cohort were analyzed by stepwise logistic regression. Multivariate models were developed that predicted the presence or absence of adult respiratory distress syndrome (ARDS), renal insufficiency, hepatobiliary dysfunction, and disseminated intravascular coagulation (DIC), all of which were defined according to established diagnostic criteria in the literature for these entities. These definitions are listed in Table 2. Also recorded were the number of lung quadrants on chest radiography that were affected by pulmonary edema (0-4), and 28-day survival.
+Independent variables for each model were limited to 10 [20] and all-ways elimination was utilized in the model-building process [21]. Glasgow Coma Scale score less than 11 was chosen as the threshold for cerebral dysfunction because of the automatic absence of an appropriate verbal response for endotracheally intubated patients who otherwise might have intact cerebral function. The SMART multiple regression models derived for these dichotomous dependent variables then were validated prospectively by entering raw data from the 55 predictive cohort patients into the training cohort logistic regression formulae. Discrimination (the ability of the models to separate patients with and without the predicted dichotomous dependent variable) was assessed by calculating the AUC of ROC statistics [22]. Calibration (the degree of correspondence between predictions and observed results) was assessed using the Hosmer-Lemeshow goodness-of-fit test [23].
+Stepwise multivariate logistic regression models that predicted dichotomous dependent variables 24 h after baseline used only baseline data. For predictions beyond 24 h, SMART modeling was carried out in two ways for each variable at each time point: from baseline data only; and from serial data, where baseline independent variable measures and/or subsequent determinations up to 24 h before the time being prognosticated were incorporated into the multiple regression and/or multivariate stepwise logistic regression modeling. For both baseline and baseline plus serial data approaches, a separate, unique predictive model was generated for each dependent variable, at each observation point (days 1-7, 14, 21, and 28).
+
+BODY.RESULTS:
+Prospectively validated SMART predictions from baseline data of the dichotomous dependent variables chest radiography score, ARDS, DIC, hepatobiliary failure, renal insufficiency, shock, and cerebral dysfunction are shown in Table 3. Ninety different predictive models were attempted; data were sufficient for building 65 successfully. Training cohort model failures are represented by blank spaces in the tables. SMART baseline models were validated at clinically useful levels of accuracy, with 30 out of 49 (61%) predicted versus observed ROC AUC determinations up to 7 days after baseline exceeding 0.700. For predictions of pulmonary edema score, ARDS, hepatobiliary failure, and renal insufficiency, SMART baseline models at 14, 21, and 28 days achieved prospective ROC AUCs exceeding 0.700 in 10 out of 12 (83%). Baseline modeling was not successful in generating predictions for mechanical ventilation or survival.
+Prospectively validated SMART predictions of shock, organ failure, and 28-day survival from baseline plus serial input of independent variables are listed in Table 4. Eighty-one models were attempted; 74 were successfully validated. ROC AUCs above 0.700 were achieved for 30 out of 54 (56%) of SMART models for days 2-7, and 15 out of 27 (56%) of predictions for days 14, 21, and 28. Survival was predicted from baseline plus serial and dependent variables with varying accuracy. From day 5 onward, the need for mechanical ventilation was predicted with five out of six ROC AUC determinations exceeding 0.800.
+In 37 out of 63 (59%) predictive points at which both SMART baseline and baseline plus serial data models were validated prospectively, the ROC AUC of the baseline plus serial prognostication was higher than baseline alone.
+Hosmer-Lemeshow goodness-of-fit test results for SMART predictions of shock and organ failure from baseline data only are listed in Table 5. Goodness-of-fit statistics were not significant for the four-point dichotomous dependent variable chest radiography score. In the remainder of the baseline models for ARDS, DIC, hepatobiliary failure, renal failure, shock, and cerebral dysfunction, outcomes predicted by the models corresponded to the actual observed results with a probability of P < 0.05 in 60 out of 40 of these equations (67%). Correspondence was not uniform, but rather ranged from statistically significant results in nine out of 10 models predicting cerebral dysfunction and eight of 10 models predicting hepatobiliary failure, to only three out of 10 models that predicted DIC and four models that predicted shock.
+Calibration analysis for SMART models developed from baseline plus serial data are shown in Table 6. Again, predictive versus observed results for chest radiography score did not correspond significantly. Similarly, Hosmer-Lemeshow goodness-of-fit statistics were significant for only two models that predicted presence or absence of mechanical ventilation (days 14 and 21), and for two for DIC (days 5 and 21). The Hosmer-Lemeshow test was significant in six out of 10 models which predicted hepatobiliary failure, renal failure, shock, and cerebral dysfunction. None of the models predicting survival status achieved significant goodness-of-fit statistics from baseline plus serial data.
+IL-6, IL-8, and/or GCSF were weighted independent variables that contributed to predictive accuracy in 52 out of 70 (74%) of baseline SMART models, and in 51 out of 81 (63%) of baseline plus serial data predictions.
+The equations developed to predict each dependent variable are available from the author for research and independent confirmation.
+
+BODY.DISCUSSION:
+The results of the present study demonstrate that, using data from a diverse population of septic patients, SMART predicts shock, organ dysfunction, mechanical ventilation, and 28-day survival in advance, in individual surgical patients with severe sepsis and septic shock. Multiple logistic regression models, both from baseline independent variables and from baseline plus serial data, that predicted shock, chest radiography score, DIC, ARDS, cerebral dysfunction, and liver and renal failure in surgical sepsis were validated prospectively. In addition, baseline plus serial models predicted 28-day survival and the need for mechanical ventilation. The importance of measuring inflammatory response mediators to this kind of prognostication was demonstrated by the inclusion of IL-6 and/or IL-8 and/or GCSF as weighed predictors in the development of 74% of baseline SMART models and in building 63% of baseline plus serial data formulae. The possible advantage of serial SMART models was suggested by higher serial ROC AUC determinations in 59% of baseline versus baseline plus serial comparisons.
+A review of the literature indicates that such a prospectively validated method for predicting end-organ dysfunction in individual septic surgical patients, based on a mixed specialty septic database, has not previously been reported, and is a significant finding of the present study.
+The SMART models in this study are applicable to individual septic surgical patients, and they frequently performed at clinically useful levels of accuracy. Other injury or illness severity scoring systems [1,2,3,4,5,6,7,8,9,10,11] have generally predicted only grouped risk of intensive care unit or hospital mortality. Some authors have correlated measurements of circulating inflammatory mediators with broad groupings of multiple organ failure [24]. Even when serial physiologic assessments [25] or Bayesian analysis [26] were included, prognostication was still limited to relative risk of mortality, and therefore was not applicable to individual patients. Similarly, attempts at predicting multiple organ dysfunction [24], ventilator dependence [27], or duration of stay and hospital costs [28] have limited clinical value. In contrast, the prospectively validated SMART models presented here predicted important clinical end-points accurately in individual patients, with high levels of prognostic accuracy in most cases.
+The SMART prognostic modeling approach differs from conventional surgical scoring systems in several ways. Although traditional outcomes research methods use clinically obvious information to predict mortality probability, SMART analyzes relationships between pathophysiology and standard laboratory tests, as well as circulating inflammatory response mediators and downstream pathophysiology, to predict clinical events that determine the course of each patient. Mortality risk assessments [1,2,3,4,5,6,7] group patients together who have similar mortality risks, but who also may vary widely in their mechanisms of disease; SMART predicts major clinical changes that may affect survival, on the basis of results from patients with similar illnesses. Conventional models assess relative risk of death, while assuming, statistically at least, that contributing factors remain constant and that outcome is not altered by treatment. SMART predicts conditions that may not yet be evident externally, and that therefore might improve outcomes by facilitating early intervention and timely modification of the host inflammatory response. It may be possible for SMART to facilitate improved outcomes in the intensive care unit by directing clinicians toward effective early intervention in impending life-threatening conditions, and by identifying objectively those septic surgical patients who are about to manifest ARDS, DIC, liver or renal failure, or shock.
+In this study, circulating levels of inflammatory response mediators were prominent as significant independent variables that contributed to the predictive power of SMART models. Plasma IL-6 and/or IL-8 and/or GCSF were involved in most of the models here. One might speculate from these results that SMART models for septic surgical patients could be optimized further by measuring additional inflammatory response mediators that have also been associated with sepsis, shock, and organ failure. Therefore, if such mediators (eg IL-1β [29], IL-2 [30], tumor necrosis factor-α [29], intercellular adhesion molecule and other adhesion molecules [31], leukotrienes and prostaglandins [29], and activated complement [29]) were all included simultaneously as independent variables in SMART models, along with IL-6, IL-8, and GCSF as measured in the present study, then it might be that clinically useful predictive accuracy could be achieved consistently for many more dependent variables than was possible with the present database. Although immunoassays for these potential independent variables at present require separate ELISA determinations, as SMART databases grow the technology for programmable automated immunoanalyzers will become more readily available, and CD-based bedside analyzers are under development. Thus, the next level of SMART prognostication may become a practical reality.
+Whether incorporating serial measurements of inflammatory response mediators and physiologic data into SMART models improves predictive accuracy in septic surgical patients is not clear from the present data. Predictions that are based on serial input were validated prospectively at higher ROC AUC values than were baseline prognostications in 59% of the points at which they could be compared directly. On the other hand, more baseline SMART models than baseline plus serial data equations were validated at ROC AUC determinations above 0.700. Adequate answers to the baseline versus baseline plus serial data SMART debate, then, will require detailed analysis of more expanded databases than were available here.
+The requirement for mechanical ventilation in septic surgical patients proved difficult to predict in this study. From baseline data, SMART models were generated with only modest success for days 6 and 14. In contrast, models derived from baseline plus serial input were validated with respectable ROC AUC determinations for days 5 through 28. The question of whether more comprehensive measurements of inflammatory response mediators associated with ventilatory dysfunction could yield useful prognostications based on baseline data is not clear from the present results. Also unanswered is the speculation that the excellent prediction by baseline plus serial models at 5 days and beyond may simply represent continued ventilator dependence of already compromised patients.
+Clinical shock was also a difficult independent variable to predict consistently. Predicted versus observed ROC AUC determinations above 0.700 were achieved in only five out of 19 models for septic shock. One might speculate that the multiple factors that contribute to septic hypotension made it difficult to find strong prognostic interactions with either baseline data or baseline plus serial input. That many key inflammatory mediators associated with systemic vasodilatation in sepsis, such as prostacyclin [32] and nitric oxide [33], were not measured also may have influenced the suboptimal results.
+It is important to note that the predictions for septic surgical patients presented in here were validated prospectively on SMART models built from a mixed medical/ surgical/gynecologic sepsis training cohort. This contrasts with previous reports that suggested prognostic incompatibility of such mixed databases with surgical outcomes. For example, Cerra et al [34] reported that the APACHE II score did not accurately predict mortality risk in trauma patients. Determining whether prognostic models based strictly on surgical patients may be superior to the present results will require direct performance comparisons of SMART surgical and mixed sepsis databases.
+Although predicting 28-day survival was not the primary focus of the present study, it was predicted with moderate success using baseline plus serial data SMART models. Not surprisingly, possibly reflecting a more defined mortality/survival population later during the course of severe sepsis/septic shock, predictions of survival were most accurate from serial data at 21 and 28 days. A similar phenomenon has been reported for the APACHE III [25].
+Although the ability of the models presented here to discriminate between patients with or without ARDS, DIC, hepatobiliary failure, renal insufficiency, shock, or cerebral dysfunction was fairly consistent, Hosmer-Lemeshow statistics indicated that calibration (the degree of correspondence between the outcomes predicted by the present models and the actual outcomes) was somewhat more variable. Hosmer-Lemeshow goodness-of-fit statistics were statistically significant in the majority of models that predicted ARDS, hepatobiliary failure, renal insufficiency, and cerebral dysfunction, but were significant in less than half of the models that predicted DIC or shock. Calibration was not achieved at significant levels for chest radiography score. These findings are another indication of the need to further develop the SMART approach to prognostication in larger studied populations before this concept can become a worthwhile adjunct to clinical judgment.
+The present study prospectively validated multiple logistic regression models from a population of septic surgical, medical, and gynecologic patients that predicted shock, pulmonary edema, mechanical ventilation, ARDS, DIC, and hepatobiliary, renal, and cerebral dysfunction in septic surgical patients, up to 28 days in advance. Models were confirmed prospectively also that predicted the occurrence of shock and organ system dysfunction. These prognostications are applicable to individual patients, and frequently at clinically useful levels of accuracy. Plasma cytokine concentrations contributed significantly as weighted independent variables to many quantitative models, and to most predictions of dichotomous dependent variables.
+Table 1Independent variables in trauma and surgical patients with severe sepsis
+Age
+Renal failure
+Sex
+Comorbidities (alcohol abuse, cirrhosis; HIV; dialysis; neutropenia;
+Race
+COPD; solid tumor; hematologic malignancy; chronic renal failure)
+Albumin
+Admitting service (surgery, medicine)
+Alkaline phosphatase
+A-aDO2
+Alanine aminotransferase
+Base deficit
+Aspartate aminotransferase
+pH
+Blood urea nitrogen
+PaO2
+Calcium
+SaO2
+Cholesterol
+FiO2
+Creatinine
+Fluids in
+γ-glutamyl transferase
+Fluids out
+Glucose
+PaO2/FiO2 ratio
+Hematocrit
+Chloride
+Hemoglobin
+Eosinophils
+Mean corpuscular hemoglobin
+Lymphocytes
+Mean corpuscular hemoglobin concentration
+Mononuclear cells
+Mean corpuscular volume
+Metamyelocyte
+Phosphorous
+Segmental neutrophils
+Platelet count
+Band neutrophils
+Potassium
+Basophils
+Total protein
+Granulocytes (% granulocytes, % lymphocytes)
+Prothrombin time
+Eosinophils
+Partial thromboplastin time
+Lactic acid
+Red blood cells
+PCWP
+Sodium
+Cardiac index
+Total bilirubin
+Systemic vascular resistance
+Triglycerides
+PEEP
+Uric acid
+Pressure support
+White blood cells
+Respiratory rate
+IL-6
+Mechanical ventilation
+IL-8
+Trauma
+GCSF
+Systolic blood pressure
+Electrocardiography (PR interval, QT interval)
+Diastolic blood pressure
+DIC
+Heart rate
+Glascow Coma Scale score
+Mean arterial pressure
+Hepatobiliary baseline
+Temperature
+Shock
+Height
+ARDS
+Weight
+A-aDO2, alveolar-arterial oxygen difference; COPD, chronic obstructive pulmonary disease; FIO2, fractional inspired oxygen; PaO2, arterial oxygen tension; PCWP, pulmonary capillary wedge pressure; PEEP, positive end-expiratory pressure; SaO2, arterial oxygen saturation.
+Table 2Clinical definitions for organ failure and shock
+Clinical entity
+Definition
+Shock
+Systolic blood pressure ≤ 90 mmHg or mean
+
+≤ 70 mmHg, or need for vasopressors
+Renal
+Serum creatine ≥ 2.0 mg/dl, the need for dialysis, or
+dysfunction
+increase in serum creatine ≥ 20 mg/dl above
+
+pre-existing normal
+Hepatic
+
+dysfunction
+≥ 25 mg/dl; alanine aminotransferase or aspartate
+
+aminotransferase ≥ 2 times normal; and prothrombin
+
+time ≥ 1.5 times normal
+DIC
+Two or more of the following: prothrombin or partial
+
+thromboplastin time ≥ 1.2 times normal; platelet count
+
+≤ 100 000 mm5; and fibrin split products or D-dimer
+
+> 0.5 mg/l
+ARDS
+Lung injury score ≥ 7 [20]
+Cerebral
+Glasgow Coma Scale score < 11
+dysfunction
+
+Table 3SMART: prediction of shock and organ failure in severely septic surgical patients from baseline data only
+
+Day
+
+
+Independent variable
+1
+2
+3
+4
+5
+6
+7
+14
+21
+28
+Chest radiography score*
+0.874
+0.802
+0.798
+0.761
+0.820
+0.625
+0.686
+0.598
+0.786
+1.000
+ARDS
+0.776
+0.829
+0.523
+0.687
+0.698
+0.856
+0.755
+0.867
+0.966
+-
+DIC
+0.833
+0.857
+0.851
+0.821
+0.823
+0.808
+0.817
+0.323
+-
+-
+Hepatobiliary failure
+0.788
+0.796
+0.631
+0.954
+0.832
+0.856
+0.778
+0.733
+0.724
+0.921
+Renal insufficiency
+0.845
+0.779
+0.913
+0.879
+0.827
+0.650
+0.696
+0.703
+0.740
+0.809
+Shock
+0.756
+0.567
+0.479
+0.627
+-
+0.760
+0.564
+0.500
+0.438
+-
+GCS score < 11
+0.725
+0.563
+0.602
+0.591
+0.649
+0.526
+0.564
+0.360
+0.460
+0.482
+Values are AUC ROC determinations. *Chest radiography score = 0-4 quadrants pulmonary edema. Organ failure and shock definitions were from Fisher et al [18]. -, training cohort model failure; GCS, Glascow Coma Scale.
+Table 4SMART: prediction of shock and organ failure and survival in severe sepsis from baseline plus serial data
+
+Day
+
+
+Independent variable
+1
+2
+3
+4
+5
+6
+7
+14
+21
+28
+Chest radiography score*
+-
+0.847
+0.902
+0.807
+0.859
+0.629
+0.709
+0.467
+0.794
+1.000
+Mechanical ventilation
+-
+-
+-
+-
+0.857
+1.000
+0.905
+0.697
+0.827
+0.913
+ARDS
+-
+0.782
+0.586
+0.583
+0.808
+0.884
+0.759
+0.861
+1.000
+4.000
+DIC
+-
+0.857
+0.923
+0.919
+0.620
+0.914
+0.466
+-
+0.450
+-
+Hepatobiliary failure
+-
+0.778
+0.679
+0.940
+0.888
+0.890
+0.843
+0.856
+0.947
+0.938
+Renal insufficiency
+-
+0.858
+0.805
+0.983
+0.892
+0.699
+0.857
+0.921
+0.865
+0.646
+Shock
+-
+0.471
+0.193
+0.817
+0.452
+0.532
+0.474
+0.500
+0.352
+-
+Survival Status
+-
+0.740
+0.625
+0.586
+0.620
+0.620
+0.541
+0.695
+0.919
+0.874
+GCS score < 11
+-
+0.667
+0.760
+0.576
+0.617
+0.604
+0.708
+0.500
+0.873
+-
+Values are AUC ROC determinations. *Chest radiography score = 0-4 quadrants pulmonary edema. Organ failure and shock definitions were from Fisher et al [18]. -, training cohort model failure; GCS, Glascow Coma Scale.
+Table 5SMART: Hosmer-Lemeshow goodness-of-fit test results for prediction of shock and organ failure and survival in severe sepsis from baseline data only
+
+Day
+
+
+Independent variable
+1
+2
+3
+4
+5
+6
+7
+14
+21
+28
+Chest radiography score* -
+
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ARDS
+24.702
+0.9667
+100.87
+61.879
+35.996
+11.435
+102.25
+18.64
+4.524
+3.3114
+
+(0.0009)
+(NS)
+(0.0001)
+(0.001)
+(0.0001)
+(0.2470)
+(0.0001)
+(0.0061)
+(0.807)
+(NS)
+DIC
+7.4046
+4.581
+4.0234
+4.3578
+13.231
+9.4627
+31.293
+617.34
+9.247
+-
+
+(0.3880)
+(0.8692)
+(0.8550)
+(0.8235)
+(0.0667)
+(0.221)
+(0.0001)
+(0.0001)
+(NS)
+
+Hepatobiliary failure
+14.349
+5032
+15.346
+2.8502
+22.643
+18.508
+16.223
+242.39
+24.656
+7.3931
+
+(0.0453)
+(0.0001)
+(0.0318)
+(0.9434)
+(0.0121)
+(0.0177)
+(0.0232)
+(0.0001)
+(0.0009)
+(0.4949)
+Renal insufficiency
+67.172
+200.8
+22.777
+18.597
+26.06
+131.14
+37.378
+12.759
+25.071
+15.32
+
+(0.0001)
+(0.0001)
+(0.0037)
+(0.0172)
+(0.0005)
+(0.0001)
+(0.0001)
+(NS)
+(0.0007)
+(0.0532)
+Shock
+12.115
+10.962
+10.233
+20.961
+0.0443
+2.2016
+22.485
+119.08
+15.938
+0.0009
+
+(0.1461)
+(0.2783)
+(0.2491)
+(0.0073)
+(NS)
+(NS)
+(0.0075)
+(0.0001)
+(0.0433)
+(NS)
+GCS score < 11
+405.35
+67.866
+65.427
+22.233
+83.405
+46.674
+21.497
+21.66
+137.24
+12.087
+
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0059)
+(0.010)
+(0.0001)
+(0.0977)
+Values are Hosmer-Lemeshow goodness-of-fit test statistics (P values). *Chest radiography score = 0-4 quadrants pulmonary edema. Organ failure and shock definitions were from Fisher et al [18]. GCS Glascow Coma Scale; NS, not significant.
+Table 6SMART: Hosmer-Lemeshow goodness-of-fit test results for prediction of shock and organ failure and survival in severe sepsis from baseline plus serial data
+
+Day
+
+
+Independent variable
+1
+2
+3
+4
+5
+6
+7
+14
+21
+28
+Chest radiography score*
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Mechanical ventilation
+-
+-
+-
+3.5003
+11.159
+3.5366
+4.7716
+16.473
+14.65
+3.8411
+
+
+
+
+(NS)
+(0.0836)
+(0.1706)
+(0.6878)
+(0.0001)
+(0.048)
+(0.8712)
+ARDS
+-
+50.182
+5.1079
+229.18
+6.7868
+7.4788
+162.02
+20.147
+13.294
+5.5629
+
+
+(0.0001)
+(NS)
+(0.0001)
+(0.079)
+(0.2788)
+(0.0001)
+(0.0026)
+(0.0099)
+(0.5916)
+DIC
+-
+6.061
+2.513
+2.1413
+179.27
+4.8029
+2.4973
+8.0683
+245.38
+-
+
+
+(0.7338)
+(0.4261)
+(0.9764)
+(0.0001)
+(0.6840)
+(NS)
+(NS)
+(0.0001)
+
+Hepatobiliary failure
+-
+4969
+42.872
+11.154
+19.672
+25.623
+40.83
+23.322
+3.1979
+9.207
+
+
+(0.0001)
+(0.0001)
+(0.1321)
+(0.201)
+(0.0003)
+(0.0001)
+(0.0015)
+(0.959)
+(0.3251)
+Renal insufficiency
+-
+0.8232
+3297.6
+1.4857
+20.514
+2172
+14.25
+20.981
+12.247
+8.1239
+
+
+(NS)
+(0.0001)
+(0.9604)
+(0.0086)
+(0.0001)
+(0.0759)
+(0.0072)
+(0.0927)
+(0.0044)
+Shock
+-
+14.611
+89.307
+11.089
+20.737
+74.51
+38.134
+62.76
+14.042
+-
+
+
+(0.0413)
+(0.0001)
+(0.1348)
+(0.0020)
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0001)
+
+Survival status
+-
+10.315
+15.226
+8.8376
+13.146
+13.146
+11.177
+13.851
+5.54
+7.3106
+
+
+(0.2436)
+(0.0849)
+(0.2645)
+(0.0686)
+(0.0686)
+(0.2688)
+(0.5835)
+(0.5944)
+(0.5835)
+GCS score < 11
+-
+1064.3
+105.34
+729.5
+5418
+33.064
+16.397
+16.07
+4.2473
+0.8312
+
+
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0001)
+(0.0217)
+(0.0654)
+(0.9355)
+(NS)
+Values are Hosmer-Lemeshow goodness-of-fit test statistics (P values). *Chest radiography score = 0-4 quadrants pulmonary edema. Organ failure and shock definitions were from Fisher et al [18]. GCS Glascow Coma Scale; NS, not significant.
+

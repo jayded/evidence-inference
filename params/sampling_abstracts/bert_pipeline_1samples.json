@@ -1,0 +1,28 @@
+{
+    "train_data": "annotations/splits/train_article_ids.txt",
+    "val_data": "annotations/splits/validation_article_ids.txt",
+    "test_data": "annotations/splits/validation_article_ids.txt",
+    "bert_vocab": "allenai/biomed_roberta_base",
+    "bert_dir": "allenai/biomed_roberta_base",
+    "max_length": 512,
+    "use_abstracts": 1,
+    "evidence_identifier": {
+        "use_half_precision": 0,
+        "batch_size": 10,
+        "epochs": 10,
+        "patience": 10,
+        "max_grad_norm": 1.0,
+        "lr": 2e-5,
+        "sampling_ratio": 1.0
+    },
+    "evidence_classifier": {
+        "use_half_precision": 0,
+        "batch_size": 10,
+        "epochs": 10,
+        "patience": 10,
+        "max_grad_norm": 1.0,
+        "lr": 2e-5,
+        "classes": ["significantly decreased", "no significant difference", "significantly increased"]
+    }
+}
+

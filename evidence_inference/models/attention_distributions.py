@@ -73,12 +73,12 @@ class TokenAttention(nn.Module):
         else:
             attention_inputs = hidden_input_states.data
         raw_word_scores = self.token_attention_F(attention_inputs)
-        raw_word_scores = raw_word_scores * hidden_input_states.mask(USE_CUDA).unsqueeze(-1)
+        raw_word_scores = raw_word_scores * hidden_input_states.mask(on=1.0, off=0.0, size=raw_word_scores.size(), device=raw_word_scores.device)
         # TODO this should probably become a logsumexp depending on condition
         a = self.attn_sm(raw_word_scores)
 
         # since we need to handle masking, we have to kill any support out of the softmax
-        masked_attention = a * hidden_input_states.mask(USE_CUDA).unsqueeze(-1)
+        masked_attention = a * hidden_input_states.mask(on=1.0, off=0.0, size=a.size(), device=a.device)
         if normalize:
             # divide by the batch length here so we reduce the variance of the input to the next layer. this is only necessary for the tokenwise attention because its sum isn't constrained
             # a = masked_attention / word_inputs.batch_sizes.unsqueeze(-1).unsqueeze(-1).float()

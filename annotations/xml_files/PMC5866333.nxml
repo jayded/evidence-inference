@@ -1,0 +1,954 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD v1.0 20120330//EN" "JATS-archivearticle1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML" article-type="research-article"><?properties open_access?><front><journal-meta><journal-id journal-id-type="nlm-ta">J Am Heart Assoc</journal-id><journal-id journal-id-type="iso-abbrev">J Am Heart Assoc</journal-id><journal-id journal-id-type="doi">10.1002/(ISSN)2047-9980</journal-id><journal-id journal-id-type="publisher-id">JAH3</journal-id><journal-id journal-id-type="hwp">ahaoa</journal-id><journal-title-group><journal-title>Journal of the American Heart Association: Cardiovascular and Cerebrovascular Disease</journal-title></journal-title-group><issn pub-type="epub">2047-9980</issn><publisher><publisher-name>John Wiley and Sons Inc.</publisher-name><publisher-loc>Hoboken</publisher-loc></publisher></journal-meta><article-meta><article-id pub-id-type="pmid">29478970</article-id><article-id pub-id-type="pmc">5866333</article-id><article-id pub-id-type="doi">10.1161/JAHA.117.008000</article-id><article-id pub-id-type="publisher-id">JAH32916</article-id><article-categories><subj-group subj-group-type="overline"><subject>Original Research</subject></subj-group><subj-group subj-group-type="heading"><subject>Original Research</subject><subj-group subj-group-type="heading"><subject>Vascular Medicine</subject></subj-group></subj-group></article-categories><title-group><article-title>Dipeptidyl Peptidase&#x02010;4 Inhibition Potentiates Stimulated Growth Hormone Secretion and Vasodilation in Women</article-title><alt-title alt-title-type="left-running-head">Wilson et&#x000a0;al</alt-title></title-group><contrib-group><contrib id="jah32916-cr-0001" contrib-type="author"><name><surname>Wilson</surname><given-names>Jessica R.</given-names></name><degrees>MD, MSCI</degrees><xref ref-type="aff" rid="jah32916-aff-0001">
+<sup>1</sup>
+</xref></contrib><contrib id="jah32916-cr-0002" contrib-type="author" corresp="yes"><name><surname>Brown</surname><given-names>Nancy J.</given-names></name><degrees>MD</degrees><address><email>nancy.j.brown@vanderbilt.edu</email></address><xref ref-type="aff" rid="jah32916-aff-0002">
+<sup>2</sup>
+</xref></contrib><contrib id="jah32916-cr-0003" contrib-type="author"><name><surname>Nian</surname><given-names>Hui</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32916-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32916-cr-0004" contrib-type="author"><name><surname>Yu</surname><given-names>Chang</given-names></name><degrees>PhD</degrees><xref ref-type="aff" rid="jah32916-aff-0003">
+<sup>3</sup>
+</xref></contrib><contrib id="jah32916-cr-0005" contrib-type="author"><name><surname>Bidlingmaier</surname><given-names>Martin</given-names></name><degrees>MD</degrees><xref ref-type="aff" rid="jah32916-aff-0004">
+<sup>4</sup>
+</xref></contrib><contrib id="jah32916-cr-0006" contrib-type="author"><name><surname>Devin</surname><given-names>Jessica K.</given-names></name><degrees>MD, MSCI</degrees><xref ref-type="aff" rid="jah32916-aff-0001">
+<sup>1</sup>
+</xref></contrib></contrib-group><aff id="jah32916-aff-0001">
+<label><sup>1</sup></label>
+<named-content content-type="organisation-division">Division of Diabetes, Endocrinology, and Metabolism</named-content>
+<institution>Vanderbilt University Medical Center</institution>
+<named-content content-type="city">Nashville</named-content>
+<named-content content-type="country-part">TN</named-content>
+</aff><aff id="jah32916-aff-0002">
+<label><sup>2</sup></label>
+<named-content content-type="organisation-division">Division of Clinical Pharmacology</named-content>
+<institution>Vanderbilt University Medical Center</institution>
+<named-content content-type="city">Nashville</named-content>
+<named-content content-type="country-part">TN</named-content>
+</aff><aff id="jah32916-aff-0003">
+<label><sup>3</sup></label>
+<named-content content-type="organisation-division">Department of Biostatistics</named-content>
+<institution>Vanderbilt University Medical Center</institution>
+<named-content content-type="city">Nashville</named-content>
+<named-content content-type="country-part">TN</named-content>
+</aff><aff id="jah32916-aff-0004">
+<label><sup>4</sup></label>
+<named-content content-type="organisation-division">Endocrine Laboratory</named-content>
+<named-content content-type="organisation-division">Medizinische Klinik und Poliklinik IV</named-content>
+<institution>Klinikum der Universit&#x000e4;t M&#x000fc;nchen</institution>
+<named-content content-type="city">Munich</named-content>
+<country country="DE">Germany</country>
+</aff><author-notes><corresp id="correspondenceTo"><label>*</label><bold>Correspondence to:</bold> Nancy J. Brown, MD, 1161 21st Avenue South D&#x02010;3100, Medical Center North, Nashville, TN 37232, USA. E&#x02010;mail: <email>nancy.j.brown@vanderbilt.edu</email></corresp></author-notes><pub-date pub-type="epub"><day>25</day><month>2</month><year>2018</year></pub-date><pub-date pub-type="collection"><day>06</day><month>3</month><year>2018</year></pub-date><volume>7</volume><issue>5</issue><issue-id pub-id-type="doi">10.1002/jah3.2018.7.issue-5</issue-id><elocation-id>e008000</elocation-id><history><date date-type="received"><day>20</day><month>11</month><year>2017</year></date><date date-type="accepted"><day>13</day><month>12</month><year>2017</year></date></history><permissions><!--<copyright-statement content-type="issue-copyright"> Copyright &#x000a9; 2018 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley Blackwell <copyright-statement>--><copyright-statement content-type="article-copyright">&#x000a9; 2018 The Authors. Published on behalf of the American Heart Association, Inc., by Wiley.</copyright-statement><license license-type="creativeCommonsBy-nc-nd"><license-p>This is an open access article under the terms of the <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution&#x02010;NonCommercial&#x02010;NoDerivs</ext-link> License, which permits use and distribution in any medium, provided the original work is properly cited, the use is non&#x02010;commercial and no modifications or adaptations are made.</license-p></license></permissions><self-uri content-type="pdf" xlink:type="simple" xlink:href="file:JAH3-7-e008000.pdf"/><abstract id="jah32916-abs-0001"><sec id="jah32916-sec-0001"><title>Background</title><p>Diminished growth hormone (<styled-content style="fixed-case">GH</styled-content>) is associated with impaired endothelial function and fibrinolysis. <styled-content style="fixed-case">GH</styled-content>&#x02010;releasing hormone is the primary stimulus for <styled-content style="fixed-case">GH</styled-content> secretion and a substrate of dipeptidyl peptidase&#x02010;4. We tested the hypothesis that dipeptidyl peptidase&#x02010;4 inhibition with sitagliptin increases stimulated <styled-content style="fixed-case">GH</styled-content> secretion, vasodilation, and tissue plasminogen activator (<styled-content style="fixed-case">tPA</styled-content>) activity.</p></sec><sec id="jah32916-sec-0002"><title>Methods and Results</title><p>Healthy adults participated in a 2&#x02010;part double&#x02010;blind, randomized, placebo&#x02010;controlled, crossover study. First, 39 patients (29 women) received sitagliptin or placebo on each of 2&#x000a0;days separated by a washout. One hour after study drug, blood was sampled and then arginine (30&#x000a0;g IV) was given to stimulate <styled-content style="fixed-case">GH</styled-content>. Vasodilation was assessed by plethysmography and blood sampled for 150&#x000a0;minutes. Following a washout, 19 of the original 29 women received sitagliptin alone versus sitagliptin plus antagonist to delineate <styled-content style="fixed-case">GH</styled-content> receptor (<styled-content style="fixed-case">GHR</styled-content>)&#x02013; (n=5), nitric oxide&#x02013; (n=7), or glucagon&#x02010;like peptide&#x02010;1 receptor&#x02013; (n=7) dependent effects. Sitagliptin enhanced stimulated <styled-content style="fixed-case">GH</styled-content> secretion (<italic>P</italic>&#x0003c;0.01 versus placebo, for 30&#x000a0;minutes) and free insulin&#x02013;like growth factor&#x02010;1 (<italic>P</italic>&#x0003c;0.001 versus placebo, after adjustment for baseline) in women. Vasodilation and <styled-content style="fixed-case">tPA</styled-content> increased in all patients, but sitagliptin enhanced vasodilation (<italic>P</italic>=0.01 versus placebo) and increased <styled-content style="fixed-case">tPA</styled-content> (<italic>P</italic>&#x0003c;0.001) in women only. <styled-content style="fixed-case">GHR</styled-content> blockade decreased free insulin&#x02013;like growth factor&#x02010;1 (<italic>P</italic>=0.04 versus sitagliptin alone) and increased stimulated <styled-content style="fixed-case">GH</styled-content> (<italic>P</italic>&#x0003c;0.01), but decreased vascular resistance (<italic>P</italic>=0.01) such that nadir vascular resistance correlated inversely with <styled-content style="fixed-case">GH</styled-content> (<italic>r</italic>
+<sub>s</sub>=&#x02212;0.90, <italic>P</italic>&#x0003c;0.001). <styled-content style="fixed-case">GHR</styled-content> blockade suppressed <styled-content style="fixed-case">tPA</styled-content>. Neither nitric oxide nor glucagon&#x02010;like peptide&#x02010;1 receptor blockade affected vasodilation or <styled-content style="fixed-case">tPA</styled-content>.</p></sec><sec id="jah32916-sec-0003"><title>Conclusions</title><p>Sitagliptin enhances stimulated <styled-content style="fixed-case">GH</styled-content>, vasodilation, and fibrinolysis in women. During sitagliptin, increases in free insulin&#x02013;like growth factor&#x02010;1 and <styled-content style="fixed-case">tPA</styled-content> occur via the <styled-content style="fixed-case">GHR</styled-content>, whereas vasodilation correlates with <styled-content style="fixed-case">GH</styled-content> but occurs through a <styled-content style="fixed-case">GHR</styled-content>&#x02010;independent mechanism.</p></sec><sec id="jah32916-sec-0004"><title>Clinical Trial Registration</title><p>
+<styled-content style="fixed-case">URL</styled-content>: <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">http://www.clinicaltrials.gov</ext-link>. Unique identifier: <styled-content style="fixed-case">NCT</styled-content>01701973.</p></sec></abstract><kwd-group kwd-group-type="author-generated"><kwd id="jah32916-kwd-0001">dipeptidyl peptidase&#x02010;4</kwd><kwd id="jah32916-kwd-0002">growth hormone</kwd><kwd id="jah32916-kwd-0003">insulin&#x02010;like growth factor&#x02010;1</kwd><kwd id="jah32916-kwd-0004">tissue&#x02010;type plasminogen activator</kwd><kwd id="jah32916-kwd-0005">vasodilation</kwd></kwd-group><kwd-group kwd-group-type="subject-categories"><title>Subject Categories</title><kwd>Endothelium/Vascular Type/Nitric Oxide</kwd><kwd>Physiology</kwd><kwd>Translational Studies</kwd><kwd>Vascular Biology</kwd></kwd-group><funding-group><award-group><funding-source>National Institutes of Health National Center for Advancing Translational Sciences</funding-source><award-id>UL1 TR000445&#x02010;06</award-id></award-group><award-group><funding-source>National Institutes of Health</funding-source><award-id>DK059637</award-id><award-id>DK020593</award-id></award-group><award-group><funding-source>National Heart, Lung, and Blood Institute/National Institutes of Health</funding-source><award-id>K23HL11962</award-id></award-group><award-group><funding-source>American Heart Association</funding-source><award-id>17SFRN33520017</award-id></award-group><award-group><funding-source>National Institute of General Medical Sciences/National Institutes of Health</funding-source><award-id>T32GM007569</award-id></award-group><award-group><funding-source>National Institute of Diabetes and Digestive and Kidney Diseases/National Institutes of Health</funding-source><award-id>T32DK007061</award-id></award-group></funding-group><counts><fig-count count="6"/><table-count count="3"/><page-count count="18"/><word-count count="7828"/></counts><custom-meta-group><custom-meta><meta-name>source-schema-version-number</meta-name><meta-value>2.0</meta-value></custom-meta><custom-meta><meta-name>component-id</meta-name><meta-value>jah32916</meta-value></custom-meta><custom-meta><meta-name>cover-date</meta-name><meta-value>06 March 2018</meta-value></custom-meta><custom-meta><meta-name>details-of-publishers-convertor</meta-name><meta-value>Converter:WILEY_ML3GV2_TO_NLMPMC version:version=5.3.2.2 mode:remove_FC converted:06.03.2018</meta-value></custom-meta></custom-meta-group></article-meta><notes><p content-type="self-citation">
+<mixed-citation publication-type="journal" id="jah32916-cit-1001">(<source>J Am Heart Assoc</source>. <year>2018</year>;<volume>7</volume>:<elocation-id>e008000</elocation-id> DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.117.008000">10.1161/JAHA.117.008000</ext-link>.)<pub-id pub-id-type="pmid">29478970</pub-id></mixed-citation>
+</p></notes></front><body><p>
+<boxed-text position="anchor" content-type="box" id="jah32916-blkfxd-0001" orientation="portrait"><sec id="jah32916-sec-0006"><title>Clinical Perspective</title><sec id="jah32916-sec-0007"><title>What Is New?</title><p>
+<list list-type="bullet" id="jah32916-list-0001"><list-item><p>Dipeptidyl peptidase&#x02010;4 inhibition with the antidiabetic drug sitagliptin increases growth hormone (GH) secretion, vasodilation, and tissue plasminogen activator activity levels in women.</p></list-item><list-item><p>During sitagliptin, increases in free insulin&#x02013;like growth factor&#x02010;1 and tissue plasminogen activator activity occur through the GH receptor, whereas vasodilation correlates with GH but occurs independently of the GH receptor.</p></list-item></list>
+</p></sec><sec id="jah32916-sec-0008"><title>What Are the Clinical Implications?</title><p>
+<list list-type="bullet" id="jah32916-list-0002"><list-item><p>These are the first data that suggest an off&#x02010;target effect of the antidiabetic drug sitagliptin on endogenous GH secretion.</p></list-item><list-item><p>Our findings suggest that one mechanism by which sitagliptin affects the vasculature is by enhancing GH secretion.</p></list-item><list-item><p>Dipeptidyl peptidase&#x02010;4 inhibition may be a novel pharmacologic mechanism to enhance endogenous GH and insulin&#x02010;like growth factor&#x02010;1 secretion and thereby mitigate cardiovascular risk in patients with attenuated GH secretion.</p></list-item></list>
+</p></sec></sec></boxed-text>
+</p><sec id="jah32916-sec-0009"><title>Introduction</title><p>The growth hormone (GH) insulin&#x02010;like growth factor&#x02010;1 (IGF&#x02010;1) axis regulates vascular function and fibrinolytic capacity in adults. GH is secreted in a pulsatile fashion from the pituitary gland and acts directly or indirectly through IGF&#x02010;1, which is secreted by the liver in response to hepatic GH receptor (GHR) activation. GH and IGF&#x02010;1 receptors are ubiquitously present on human endothelial cells and the myocardium.<xref rid="jah32916-bib-0001" ref-type="ref">1</xref>, <xref rid="jah32916-bib-0002" ref-type="ref">2</xref> In healthy patients, acute systemic and intra&#x02010;arterial GH infusion increases GH without affecting IGF&#x02010;1, and increases endothelium&#x02010;dependent vasodilator function.<xref rid="jah32916-bib-0003" ref-type="ref">3</xref>, <xref rid="jah32916-bib-0004" ref-type="ref">4</xref> Patients with GH deficiency demonstrate altered fibrinolytic balance, characterized by elevated plasminogen activator inhibitor&#x02010;1 (PAI&#x02010;1) antigen levels and lower tissue plasminogen&#x000a0;activator (tPA) activity,<xref rid="jah32916-bib-0005" ref-type="ref">5</xref> which resolves with GH replacement therapy.<xref rid="jah32916-bib-0006" ref-type="ref">6</xref> IGF&#x02010;1 also exerts many favorable endothelial effects via the IGF&#x02010;1 receptor, including enhanced endothelium&#x02010;dependent vasodilation, anti&#x02010;inflammatory effects, and maintenance of vascular integrity via activated endothelial progenitor cells.<xref rid="jah32916-bib-0002" ref-type="ref">2</xref>, <xref rid="jah32916-bib-0007" ref-type="ref">7</xref> Thus, the vascular effects of GH may be mediated by either direct effects of GH or indirect effects of increased IGF&#x02010;1.</p><p>Adults with low GH or IGF&#x02010;1 levels have elevated cardiovascular risk. Patients who have attenuated GH secretion include those with abdominal obesity, physiologic aging, HIV infection, polycystic ovarian syndrome, and pituitary and hypothalamic disease.<xref rid="jah32916-bib-0008" ref-type="ref">8</xref>, <xref rid="jah32916-bib-0009" ref-type="ref">9</xref>, <xref rid="jah32916-bib-0010" ref-type="ref">10</xref> In cardiovascular epidemiology studies, individuals in the lowest IGF&#x02010;1 quartile have a higher risk of ischemic heart disease,<xref rid="jah32916-bib-0011" ref-type="ref">11</xref> heart failure,<xref rid="jah32916-bib-0012" ref-type="ref">12</xref> and all&#x02010;cause mortality.<xref rid="jah32916-bib-0013" ref-type="ref">13</xref> Similarly, overweight and obese adults demonstrate a decreased response to GH secretagogues, which correlates with the presence of cardiovascular risk markers.<xref rid="jah32916-bib-0014" ref-type="ref">14</xref> For this reason, pharmacologic interventions designed to increase GH and IGF&#x02010;1 in deficient populations have been developed in the past 2 decades in hopes of mitigating cardiovascular risk. Recombinant GH therapy was the first such therapy approved to increase GH and IGF&#x02010;1 levels in deficient patients; however, exogenous GH is not restrained by physiologic negative feedback by IGF&#x02010;1, does not restore pulsatile secretion, and is limited by the side effect of hyperglycemia.</p><p>An alternative and previously unexplored method to enhance GH and downstream IGF&#x02010;1 secretion in humans is to inhibit the degradation of endogenous GH&#x02010;releasing hormone (GHRH) by dipeptidyl peptidase&#x02010;4 (DPP4). GHRH is the primary stimulus for pituitary GH secretion and determines GH pulsatility. Endogenous GHRH has a half&#x02010;life of &#x02248;6&#x000a0;minutes in humans as it is degraded and inactivated by DPP4.<xref rid="jah32916-bib-0015" ref-type="ref">15</xref> Sitagliptin was the first DPP4 inhibitor approved by the US Food and Drug Administration in 2006 for the management of hyperglycemia in patients with type 2 diabetes mellitus. Sitagliptin decreases the degradation of the incretin hormone, glucagon&#x02010;like peptide&#x02010;1 (GLP&#x02010;1), and thereby improves postprandial hyperglycemia in patients with diabetes mellitus in a glucose&#x02010;dependent manner.</p><p>In this study, we tested the hypothesis that inhibition of DPP4 activity by sitagliptin would enhance stimulated GH secretion and thereby increase vasodilation and plasma tPA activity in healthy young men and women. To further elucidate the mechanism by which stimulating the GH&#x02013;IGF&#x02010;1 axis influences vascular function and fibrinolysis, we then investigated the contribution of nitric oxide, GHR activation, and GLP&#x02010;1 receptor activation to the vascular changes observed with stimulated GH secretion during DPP4 inhibition.</p></sec><sec id="jah32916-sec-0010"><title>Methods</title><p>Anonymized data and analytic methods will be made publicly available (NCT01701973 at <ext-link ext-link-type="uri" xlink:href="http://www.clinicaltrials.gov">www.clinicaltrials.gov</ext-link>).</p><sec id="jah32916-sec-0011"><title>Study Protocol</title><p>Healthy, lean (body mass index &#x02264;25&#x000a0;kg/m<sup>2</sup>), nonsmoking adults, aged 18 to 40&#x000a0;years, participated in a 2&#x02010;part double&#x02010;blind, randomized, placebo&#x02010;controlled, crossover study. (See Table&#x000a0;<xref rid="jah32916-tbl-0001" ref-type="table-wrap">1</xref> for patient characteristics.) The study adhered to the principles of the Declaration of Helsinki and Title 45, US Code of Federal Regulations, Part 46, Protection of Human Subjects, and was approved by the Vanderbilt University Medical Center's institutional review board. All patients provided written informed consent before initiation of study procedures. Patients with a history of chronic illness, including diabetes mellitus, hypertension, cardiovascular disease, and chronic renal or hepatic insufficiency, were excluded. Medication use other than a multivitamin was prohibited at the time of study; oral contraceptive use was not permitted in women. Pregnancy was excluded in women of child&#x02010;bearing age by serum pregnancy testing.</p><table-wrap id="jah32916-tbl-0001" xml:lang="en" orientation="portrait" position="float"><label>Table 1</label><caption><p>Patient Characteristics</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Parameter</th><th align="left" valign="top" rowspan="1" colspan="1">N=39</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Age, y</td><td align="left" rowspan="1" colspan="1">25&#x000b1;5</td></tr><tr><td align="left" colspan="2" rowspan="1">Race, No. (%)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;White</td><td align="left" rowspan="1" colspan="1">31 (80)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;Black</td><td align="left" rowspan="1" colspan="1">2 (5)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;Hispanic</td><td align="left" rowspan="1" colspan="1">4 (10)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;Asian</td><td align="left" rowspan="1" colspan="1">2 (5)</td></tr><tr><td align="left" colspan="2" rowspan="1">Sex, No. (%)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;Women</td><td align="left" rowspan="1" colspan="1">29 (74)</td></tr><tr><td align="left" rowspan="1" colspan="1">&#x000a0;Men</td><td align="left" rowspan="1" colspan="1">10 (26)</td></tr><tr><td align="left" rowspan="1" colspan="1">Weight, kg</td><td align="left" rowspan="1" colspan="1">65.4&#x000b1;9.3</td></tr><tr><td align="left" rowspan="1" colspan="1">Body mass index, kg/m<sup>2</sup>
+</td><td align="left" rowspan="1" colspan="1">22.9&#x000b1;1.8</td></tr></tbody></table><table-wrap-foot><fn id="jah32916-note-0002"><p>Values are expressed as mean&#x000b1;SD unless otherwise indicated.</p></fn></table-wrap-foot></table-wrap><p>In the first half of the study (Figure&#x000a0;<xref rid="jah32916-sup-0001" ref-type="supplementary-material">S1</xref>A), 39 patients underwent 2 study days separated by a washout period to determine the effect of DPP4 inhibition on stimulated GH secretion. Patients were assigned to treatment order (sitagliptin or matching placebo) using a block randomization algorithm. On each study day, patients reported to the Vanderbilt Clinical Research Center in the morning after an overnight fast. All patients were studied in the supine position in a temperature&#x02010;controlled room. Participants were given oral study drug (sitagliptin or matching placebo), and a peripheral intravenous line was placed in the antecubital fossa of their nondominant arm. Sitagliptin dose was 200&#x000a0;mg in the first 14 patients (7 women) to achieve &#x0003e;80% inhibition of DPP4 activity within 1&#x000a0;hour. We changed to sitagliptin 100&#x000a0;mg daily for 4&#x000a0;days in the remaining 25 patients to achieve steady&#x02010;state dosing and to be consistent with the current Food and Drug Administration&#x02013;approved dose. Study days were separated by a 1&#x02010;week washout for the first 14 participants and a 2&#x02010;week washout in the remaining 25 participants. Vasodilation was assessed via strain&#x02010;gauge plethysmography (Data <xref rid="jah32916-sup-0001" ref-type="supplementary-material">S1</xref>) and venous blood samples were obtained 60&#x000a0;minutes following study drug. Patients then received arginine (30&#x000a0;g) intravenously over 30&#x000a0;minutes to stimulate endogenous GH secretion in a GHRH&#x02010;dependent manner, as previously described.<xref rid="jah32916-bib-0016" ref-type="ref">16</xref> Vasodilation was assessed and venous blood samples were obtained for 150&#x000a0;minutes after completion of arginine infusion. On the second study day, the protocol was repeated using the opposite study drug (sitagliptin or matching placebo). Blood pressure and heart rate were monitored throughout each study day.</p><p>Following at least an 8&#x02010;week washout period, 19 of the 29 women from the first half of the study participated in 2 additional study visits designed to elucidate the mechanism by which sitagliptin potentiated vasodilation and tPA release (Figure&#x000a0;<xref rid="jah32916-sup-0001" ref-type="supplementary-material">S1</xref>B). We studied women only based on the results of the first part of the study. Each patient's sitagliptin dose and washout period was the same as in the first half of the protocol. Patients were divided into 3 subgroups. In the first subgroup, 5 women were randomized to a single double&#x02010;blinded subcutaneous injection of saline vehicle or pegvisomant 80&#x000a0;mg (Pfizer Inc) administered 72&#x000a0;hours before the study day to block the GHR. This dose of pegvisomant produces peak drug levels 72&#x000a0;hours following administration with a reduction in free IGF&#x02010;1 indicative of efficient GHR blockade.<xref rid="jah32916-bib-0017" ref-type="ref">17</xref> In the second subgroup, 7 women were randomized to either double&#x02010;blinded saline vehicle infusion or the nitric oxide synthase inhibitor, <sc>l</sc>&#x02010;N&#x02010;monomethylarginine (LNMMA [acetate]; Clinalfa; Bachem Americas, Inc), administered as a 3&#x02010;mg/kg 15&#x02010;minute intravenous infusion preceding arginine followed by an additional 6&#x000a0;mg/kg infused over 120&#x000a0;minutes. This dose demonstrates peak hemodynamic effects 20&#x000a0;minutes after the start of the infusion and does not affect arginine&#x02010;stimulated GH secretion.<xref rid="jah32916-bib-0018" ref-type="ref">18</xref>, <xref rid="jah32916-bib-0019" ref-type="ref">19</xref> In the third subgroup, 7 women were randomized to either double&#x02010;blinded saline vehicle infusion or Exendin 9&#x02010;39 (Exendin 9&#x02010;39 Acetate; Clinalfa; Bachem Americas, Inc), administered as an intravenous bolus infusion of 7500&#x000a0;pmol/kg over 1&#x000a0;minute preceding arginine followed by a continuous infusion of 750&#x000a0;pmol/kg per minute for 150&#x000a0;minutes, to block the GLP&#x02010;1 receptor.<xref rid="jah32916-bib-0020" ref-type="ref">20</xref>
+</p></sec><sec id="jah32916-sec-0012"><title>Laboratory Analyses</title><p>All samples were obtained after the first 3&#x000a0;mL of blood were discarded. Blood samples were collected on ice, centrifuged immediately, and plasma&#x02010;stored at &#x02212;80&#x000b0;C in prespecified aliquots until time of assay. Venous DPP4 antigen concentration was determined by ELISA (eBioscience). Venous DPP4 activity was assayed by incubating 20&#x000a0;&#x003bc;L of serum sample in 80&#x000a0;&#x003bc;L assay buffer (0.1&#x000a0;mol/L Tris at a pH of 8.0; Bachem) for 30&#x000a0;minutes at 37&#x000b0;C with colorimetric substrate (2&#x000a0;mmol/L L&#x02010;glycyl&#x02010;L&#x02010;prolyl p&#x02010;nitroanilide hydrochloride [Sigma Aldrich]) for a total reaction volume of 200&#x000a0;&#x003bc;L, as previously described.<xref rid="jah32916-bib-0021" ref-type="ref">21</xref> The enzyme activity was assessed by measuring the increase in specific absorbance at 405&#x000a0;nm at 0, 15, and 30&#x000a0;minutes and was expressed as nmol/mL per minute. GH levels were determined using the Access Ultrasensitive hGH Assay (Beckman Coulter), while GH levels after pegvisomant administration were analyzed using the IDS&#x02010;iSYS hGH assay; both assays were calibrated against National Institute for Biological Standards and Control World Health Organization International Standard 98/574. Free IGF&#x02010;1 was determined using a commercially available ELISA (R&#x00026;D systems). IGF&#x02010;1 was analyzed by Luminex assay (EMD Millipore), which is calibrated against the National Institute for Biological Standards and Control World Health Organization International Standard 02/254. tPA activity and PAI&#x02010;1 antigen levels were measured in blood collected in acidified citrate anticoagulant (TriniLIZE Stabilyte tubes, Tcoag; Bray Co). tPA activity was analyzed using a biofunctional immunosorbent assay calibrated against National Institute for Biological Standards and Control World Health Organization International Standard 86/670 (TriniLIZE tPA Activity, Tcoag, Co) in the first 14 patients. Following discontinuation of this assay, the remaining samples were analyzed using an ELISA calibrated against National Institute for Biological Standards and Control World Health Organization International Standard 98/714 (Oxford Biomedical Research). Samples from each patient were assayed using the same method. PAI&#x02010;1 antigen was analyzed using a TintElize PAI&#x02010;1 antigen assay (Tcoag, Co). Plasma cGMP was determined using a competitive enzyme immunoassay (GE Healthcare Bio&#x02010;Sciences Corp). Samples for analysis of active GLP&#x02010;1 were collected in aprotinin and analyzed using the MILLEPLEX MAP Human Metabolic Hormone Magnetic Bead Panel&#x000a0;(EMD Millipore Corporation). Insulin and estradiol were analyzed by double&#x02010;antibody radioimmunoassay. Bedside blood glucose was determined by YSI bedside glucose analyzer (YSI Life Sciences).</p></sec><sec id="jah32916-sec-0013"><title>Statistical Analysis</title><p>Data are presented as mean&#x000b1;SD, unless otherwise noted. We tested for carryover effect using the <italic>t</italic> test approach proposed by Jones and Kenward.<xref rid="jah32916-bib-0022" ref-type="ref">22</xref> Wilcoxon signed&#x02010;rank test was used to compare baseline variables between treatment conditions as well as GH levels (untransformed) between treatment conditions at each time point. Wilcoxon rank&#x02010;sum test was used to compare percent DPP4 inhibition before GH stimulation, peak GH during placebo, and peak GH during sitagliptin between men and women. Percent DPP4 inhibition was determined by the equation: [1&#x02212;(DPP4 activity during sitagliptin/DPP4 activity during placebo)]&#x000d7;100. Spearman correlation was used to evaluate the association between continuous variables. Mixed effect models were used to analyze the data with a random subject effect and with fixed effects of treatment (sitagliptin versus placebo or sitagliptin+antagonist versus sitagliptin+placebo), time, and treatment&#x000d7;time interaction. The baseline measurement was also included in each model. Interaction terms were removed from the final model when the <italic>P</italic> value from the corresponding overall test for interaction was &#x0003e;0.2. Results from mixed effect models are presented as the mean difference between treatments with 95% confidence interval. The end points GLP&#x02010;1, insulin, and GH were log transformed to satisfy model assumptions. Statistical analyses were performed using IBM SPSS software version 23.0, GraphPad Prism 5 and R 2.15.0 (<ext-link ext-link-type="uri" xlink:href="http://www.r-project.org">www.r-project.org</ext-link>). Sample size calculations are included in Data <xref rid="jah32916-sup-0001" ref-type="supplementary-material">S1</xref>.</p></sec></sec><sec id="jah32916-sec-0014"><title>Results</title><sec id="jah32916-sec-0015"><title>Effect of Sitagliptin on DPP4 Activity and GLP&#x02010;1</title><p>Sitagliptin significantly decreased DPP4 activity (<italic>P</italic>&#x0003c;0.001 versus placebo) and increased GLP&#x02010;1 levels both at baseline and throughout stimulated GH secretion (<italic>P</italic>&#x0003c;0.0001 versus placebo) (Table&#x000a0;<xref rid="jah32916-tbl-0002" ref-type="table-wrap">2</xref>). Sitagliptin did not affect insulin levels (<italic>P</italic>=0.45 versus placebo) or blood glucose levels (<italic>P</italic>=0.58 versus placebo) during stimulated GH secretion or at baseline (Table&#x000a0;<xref rid="jah32916-tbl-0002" ref-type="table-wrap">2</xref>). Sitagliptin (200&#x000a0;mg) reduced DPP4 activity similarly in men and women (percent DPP4 inhibition 78&#x000b1;13% in 7 women versus 80&#x000b1;6% in 7 men, <italic>P</italic>&#x0003e;0.999). Safety data are summarized in Data <xref rid="jah32916-sup-0001" ref-type="supplementary-material">S1</xref>.</p><table-wrap id="jah32916-tbl-0002" xml:lang="en" orientation="portrait" position="float"><label>Table 2</label><caption><p>Initial Biochemical Parameters Before GH Stimulation</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Variable</th><th align="left" valign="top" rowspan="1" colspan="1">Placebo</th><th align="left" valign="top" rowspan="1" colspan="1">Sitagliptin</th><th align="left" valign="top" rowspan="1" colspan="1">N<xref ref-type="fn" rid="jah32916-note-0004">a</xref>
+</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">DPP4 activity, nmol/mL per minute</td><td align="left" rowspan="1" colspan="1">25.4&#x000b1;6.5 (24.8, 9.7)</td><td align="left" rowspan="1" colspan="1">8.1&#x000b1;4.5 (7.0, 5.6)</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">DPP4 antigen, ng/mL</td><td align="left" rowspan="1" colspan="1">458.1&#x000b1;158.1 (458.4, 191.7)</td><td align="left" rowspan="1" colspan="1">431.2&#x000b1;149.4 (423.8, 250.7)</td><td align="left" rowspan="1" colspan="1">38</td><td align="left" rowspan="1" colspan="1">0.22</td></tr><tr><td align="left" rowspan="1" colspan="1">Blood glucose, mg/dL</td><td align="left" rowspan="1" colspan="1">86.6&#x000b1;5.8 (86.0, 8.4)</td><td align="left" rowspan="1" colspan="1">85.4&#x000b1;7.8 (85.1, 7.9)</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">0.24</td></tr><tr><td align="left" rowspan="1" colspan="1">Insulin, &#x003bc;U/mL</td><td align="left" rowspan="1" colspan="1">6.8&#x000b1;3.2 (6.6, 4.1)</td><td align="left" rowspan="1" colspan="1">7.3&#x000b1;4.0 (7.0, 6.0)</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">0.30</td></tr><tr><td align="left" rowspan="1" colspan="1">GLP&#x02010;1, pg/mL</td><td align="left" rowspan="1" colspan="1">2.7&#x000b1;2.8 (2.0, 0.8)</td><td align="left" rowspan="1" colspan="1">19.1&#x000b1;12.5 (19.1, 16.6)</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">&#x0003c;0.001</td></tr><tr><td align="left" rowspan="1" colspan="1">Estradiol, pg/mL<xref ref-type="fn" rid="jah32916-note-0005">b</xref>
+</td><td align="left" rowspan="1" colspan="1">252.9&#x000b1;256.6 (177.6, 145.7)</td><td align="left" rowspan="1" colspan="1">250.9&#x000b1;173.9 (238.4, 195.8)</td><td align="left" rowspan="1" colspan="1">29</td><td align="left" rowspan="1" colspan="1">0.67</td></tr><tr><td align="left" rowspan="1" colspan="1">tPA activity, IU/mL</td><td align="left" rowspan="1" colspan="1">0.19&#x000b1;0.18 (0.14, 0.18)</td><td align="left" rowspan="1" colspan="1">0.24&#x000b1;0.26 (0.14, 0.31)</td><td align="left" rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1">0.13</td></tr><tr><td align="left" rowspan="1" colspan="1">PAI&#x02010;1 antigen, ng/mL</td><td align="left" rowspan="1" colspan="1">4.4&#x000b1;4.1 (3.0, 4.6)</td><td align="left" rowspan="1" colspan="1">3.5&#x000b1;2.7 (2.9, 4.0)</td><td align="left" rowspan="1" colspan="1">36</td><td align="left" rowspan="1" colspan="1">0.26</td></tr><tr><td align="left" rowspan="1" colspan="1">Total IGF&#x02010;1, ng/mL</td><td align="left" rowspan="1" colspan="1">108.3&#x000b1;30.4 (102.3, 46.6)</td><td align="left" rowspan="1" colspan="1">104.6&#x000b1;30.5 (106.8, 38.6)</td><td align="left" rowspan="1" colspan="1">39</td><td align="left" rowspan="1" colspan="1">0.11</td></tr><tr><td align="left" rowspan="1" colspan="1">Free IGF&#x02010;1, ng/mL</td><td align="left" rowspan="1" colspan="1">0.65&#x000b1;0.31 (0.61, 0.45)</td><td align="left" rowspan="1" colspan="1">0.65&#x000b1;0.24 (0.66, 0.39)</td><td align="left" rowspan="1" colspan="1">37</td><td align="left" rowspan="1" colspan="1">0.67</td></tr></tbody></table><table-wrap-foot><fn id="jah32916-note-0003"><p>Results are presented as mean&#x000b1;SD (median, interquartile range). DPP4 indicates dipeptidyl peptidase&#x02010;4; GLP&#x02010;1, glucagon&#x02010;like peptide&#x02010;1; IGF&#x02010;1, insulin&#x02010;like growth factor&#x02010;1; PAI&#x02010;1, plasminogen activator inhibitor&#x02010;1; tPA, tissue plasminogen activator.</p></fn><fn id="jah32916-note-0004"><label>a</label><p>Results were analyzed in patients with data available on both days.</p></fn><fn id="jah32916-note-0005"><label>b</label><p>Analyzed in women only.</p></fn></table-wrap-foot></table-wrap></sec><sec id="jah32916-sec-0016"><title>Effect of Sitagliptin on Stimulated GH Secretion and Free IGF&#x02010;1</title><p>Arginine infusion stimulated GH secretion to a greater extent in women (n=29) than in men (n=10), as previously described,<xref rid="jah32916-bib-0023" ref-type="ref">23</xref> during both placebo (peak GH 9.8&#x000b1;5.0&#x000a0;ng/mL women versus 5.7&#x000b1;3.2&#x000a0;ng/mL men, <italic>P</italic>=0.02) and sitagliptin (11.6&#x000b1;5.7&#x000a0;ng/mL women versus 5.1&#x000b1;4.6&#x000a0;ng/mL men, <italic>P</italic>&#x0003c;0.01). Sitagliptin significantly enhanced GH secretion following arginine infusion in women (<italic>P</italic>=0.01 versus placebo at arginine completion, <italic>P</italic>=0.02 versus placebo 15&#x000a0;minutes after arginine, and <italic>P</italic>=0.09 versus placebo 30&#x000a0;minutes after arginine) but not men (<italic>P</italic>=0.49 versus placebo at arginine completion, <italic>P</italic>=0.77 versus placebo 15&#x000a0;minutes after arginine, and <italic>P</italic>=0.70 versus placebo 30&#x000a0;minutes after arginine) (Figure&#x000a0;<xref rid="jah32916-fig-0001" ref-type="fig">1</xref>A). The effect of treatment on ln(GH), as determined by linear model, was significant in women for 30&#x000a0;minutes following arginine (<italic>P</italic>&#x0003c;0.01 versus placebo, after adjustment for baseline GH). Similarly, sitagliptin increased free IGF&#x02010;1 levels during stimulated GH secretion in women (<italic>P</italic>&#x0003c;0.001 versus placebo, after adjustment for baseline free IGF&#x02010;1) but not in men (<italic>P</italic>=0.39 versus placebo, after adjustment for baseline free IGF&#x02010;1). Figure&#x000a0;<xref rid="jah32916-fig-0001" ref-type="fig">1</xref>B shows change in free IGF&#x02010;1 from baseline to 90&#x000a0;minutes after arginine. Sitagliptin also shortened the time to peak GH in women (<italic>P</italic>&#x0003c;0.01 versus placebo) but not men (<italic>P</italic>=0.62 versus placebo) (Figure&#x000a0;<xref rid="jah32916-fig-0001" ref-type="fig">1</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="jah32916-fig-0001" orientation="portrait" position="float"><label>Figure 1</label><caption><p>Dipeptidyl peptidase&#x02010;4 (<styled-content style="fixed-case">DPP</styled-content>4) inhibition with sitagliptin enhances early stimulated growth hormone (<styled-content style="fixed-case">GH</styled-content>) secretion (A) and free insulin&#x02013;like growth factor&#x02010;1 (<styled-content style="fixed-case">IGF</styled-content>&#x02010;1) levels (B) and shortens the time to peak <styled-content style="fixed-case">GH</styled-content> (C) in women (n=29) but not men (n=10). Change in free <styled-content style="fixed-case">IGF</styled-content>&#x02010;1 levels from baseline to 90&#x000a0;minutes following arginine. (Free <styled-content style="fixed-case">IGF</styled-content>&#x02010;1 data available in 28 women and 9 men.) Data are presented as mean&#x000b1;<styled-content style="fixed-case">SEM</styled-content>. *<italic>P</italic>&#x02264;0.05; <sup>&#x02020;</sup>
+<italic>P</italic>&#x0003c;0.10 vs placebo at same time point by Wilcoxon signed&#x02010;rank test. The effect of treatment on free <styled-content style="fixed-case">IGF</styled-content>&#x02010;1, in the linear model, was significant in women (<italic>P</italic>&#x0003c;0.001 vs placebo, after adjustment for baseline free <styled-content style="fixed-case">IGF</styled-content>&#x02010;1). The effect of treatment on ln(<styled-content style="fixed-case">GH</styled-content>), in the linear model, was significant in women for 30&#x000a0;minutes following arginine (<italic>P</italic>&#x0003c;0.01 vs placebo, after adjustment for baseline <styled-content style="fixed-case">GH</styled-content>).</p></caption><graphic id="nlm-graphic-1" xlink:href="JAH3-7-e008000-g001"/></fig></sec><sec id="jah32916-sec-0017"><title>Effect of Sitagliptin on Vasodilation and cGMP Levels During Stimulated GH Secretion</title><p>DPP4 inhibition did not significantly affect blood pressure, pulse rate, or vasodilation before arginine infusion, as compared with placebo (Table&#x000a0;<xref rid="jah32916-tbl-0003" ref-type="table-wrap">3</xref>). Vasodilator response is presented as the change in both forearm blood flow (FBF) and forearm vascular resistance (FVR) following arginine infusion. FBF increased (<italic>P</italic>&#x0003c;0.001 effect of time) and FVR decreased (<italic>P</italic>&#x0003c;0.001 effect of time) following stimulated GH secretion. Sitagliptin enhanced the increase in FBF (<italic>P</italic>=0.01 versus placebo) and decrease in FVR (<italic>P</italic>=0.003 versus placebo) in women only (Figure&#x000a0;<xref rid="jah32916-fig-0002" ref-type="fig">2</xref>). Sitagliptin also increased pulse rate (<italic>P</italic>=0.03 versus placebo) following stimulated GH secretion in women. Sitagliptin increased cGMP levels during stimulated GH secretion in both women (increase of 98.57&#x000a0;fmol [95% confidence interval, 33.18&#x02013;163.96], <italic>P</italic>=0.003 versus placebo) and men (increase of 116.39&#x000a0;fmol [95% confidence interval, 43.33&#x02013;189.33], <italic>P</italic>=0.002 versus placebo).</p><table-wrap id="jah32916-tbl-0003" xml:lang="en" orientation="portrait" position="float"><label>Table 3</label><caption><p>Initial Hemodynamic Parameters Before GH Stimulation</p></caption><table frame="hsides" rules="groups"><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><col style="border-right:solid 1px #000000" span="1"/><thead valign="top"><tr style="border-bottom:solid 1px #000000"><th align="left" valign="top" rowspan="1" colspan="1">Variable</th><th align="left" valign="top" rowspan="1" colspan="1">Placebo</th><th align="left" valign="top" rowspan="1" colspan="1">Sitagliptin</th><th align="left" valign="top" rowspan="1" colspan="1">
+<italic>P</italic> Value</th></tr></thead><tbody><tr><td align="left" rowspan="1" colspan="1">Systolic BP, mm&#x000a0;Hg</td><td align="left" rowspan="1" colspan="1">108.8&#x000b1;10.8 (110.0, 18.0)</td><td align="left" rowspan="1" colspan="1">109.9&#x000b1;10.7 (108.0, 12.0)</td><td align="left" rowspan="1" colspan="1">0.40</td></tr><tr><td align="left" rowspan="1" colspan="1">Diastolic BP, mm&#x000a0;Hg</td><td align="left" rowspan="1" colspan="1">65.6&#x000b1;6.4 (65.0, 9.0)</td><td align="left" rowspan="1" colspan="1">65.6&#x000b1;6.5 (66.0, 6.0)</td><td align="left" rowspan="1" colspan="1">0.97</td></tr><tr><td align="left" rowspan="1" colspan="1">Mean arterial pressure, mm&#x000a0;Hg</td><td align="left" rowspan="1" colspan="1">82.9&#x000b1;6.2 (84.0, 10.0)</td><td align="left" rowspan="1" colspan="1">83.2&#x000b1;5.9 (83.0, 6.0)</td><td align="left" rowspan="1" colspan="1">0.59</td></tr><tr><td align="left" rowspan="1" colspan="1">Pulse rate, beats per min</td><td align="left" rowspan="1" colspan="1">58.3&#x000b1;8.3 (57.0, 13.0)</td><td align="left" rowspan="1" colspan="1">59.3&#x000b1;8.1 (60.0, 11.0)</td><td align="left" rowspan="1" colspan="1">0.29</td></tr><tr><td align="left" rowspan="1" colspan="1">FVR, mm Hg/(mL/min/100mL)</td><td align="left" rowspan="1" colspan="1">36.9&#x000b1;11.4 (36.2, 19.4)</td><td align="left" rowspan="1" colspan="1">37.4&#x000b1;10.2 (35.6, 12.3)</td><td align="left" rowspan="1" colspan="1">0.58</td></tr><tr><td align="left" rowspan="1" colspan="1">FBF, mL/min per 100&#x000a0;mL</td><td align="left" rowspan="1" colspan="1">2.5&#x000b1;0.9 (2.2, 1.3)</td><td align="left" rowspan="1" colspan="1">2.4&#x000b1;0.6 (2.4, 0.8)</td><td align="left" rowspan="1" colspan="1">0.65</td></tr></tbody></table><table-wrap-foot><fn id="jah32916-note-0006"><p>BP indicates blood pressure; FBF, forearm blood flow; FVR, forearm vascular resistance; GH, growth hormone. Results are presented as mean&#x000b1;SD (median, interquartile range).</p></fn></table-wrap-foot></table-wrap><fig fig-type="Figure" xml:lang="en" id="jah32916-fig-0002" orientation="portrait" position="float"><label>Figure 2</label><caption><p>Dipeptidyl peptidase&#x02010;4 inhibition with sitagliptin enhances vasodilation during arginine (Arg) stimulated growth hormone secretion in women (n=29) but not men (n=10). The overall effect of treatment, as determined by linear model, was significant in women (<italic>P</italic>=0.013 effect of treatment on percent change [&#x02206;] in forearm blood flow and <italic>P</italic>=0.003 effect of treatment on percent change in forearm vascular resistance). Data are presented as mean&#x000b1;<styled-content style="fixed-case">SEM</styled-content>. *<italic>P</italic>&#x0003c;0.05 vs placebo at specified time point in the linear model.</p></caption><graphic id="nlm-graphic-3" xlink:href="JAH3-7-e008000-g002"/></fig></sec><sec id="jah32916-sec-0018"><title>Effect of Sitagliptin on tPA Activity During Stimulated GH Secretion</title><p>tPA activity increased following stimulated GH secretion (<italic>P</italic>&#x0003c;0.001). Acute inhibition of DPP4 activity with 200&#x000a0;mg of sitagliptin increased tPA activity levels in women (<italic>P</italic>&#x0003c;0.001 versus placebo, n=7) but decreased tPA activity in men (<italic>P</italic>=0.02 versus placebo, n=7) (Figure&#x000a0;<xref rid="jah32916-fig-0003" ref-type="fig">3</xref>). This effect of DPP4 inhibition on tPA activity levels was not observed following 100&#x000a0;mg of sitagliptin. PAI&#x02010;1 antigen levels during stimulated GH secretion were unaffected by sitagliptin in men and women (<italic>P</italic>=0.33 versus placebo).</p><fig fig-type="Figure" xml:lang="en" id="jah32916-fig-0003" orientation="portrait" position="float"><label>Figure 3</label><caption><p>Dipeptidyl peptidase&#x02010;4 inhibition with 200&#x000a0;mg sitagliptin increases tissue plasminogen activator (<styled-content style="fixed-case">tPA</styled-content>) activity levels in women (n=7 women) but decreases <styled-content style="fixed-case">tPA</styled-content> activity levels in men relative to baseline (n=7 men) during arginine stimulated growth hormone secretion. The overall effect of treatment on <styled-content style="fixed-case">tPA</styled-content> activity, as determined by linear model, was significant after adjustment for baseline <styled-content style="fixed-case">tPA</styled-content> activity (<italic>P</italic>&#x0003c;0.001 effect of treatment in women and <italic>P</italic>=0.02 effect of treatment in men). There was no effect of 100&#x000a0;mg daily of sitagliptin on <styled-content style="fixed-case">tPA</styled-content> activity. Data are presented as mean&#x000b1;<styled-content style="fixed-case">SEM</styled-content>. *<italic>P</italic>&#x0003c;0.05 vs placebo at specified time point in linear model after adjustment for baseline <styled-content style="fixed-case">tPA</styled-content>.</p></caption><graphic id="nlm-graphic-5" xlink:href="JAH3-7-e008000-g003"/></fig></sec><sec id="jah32916-sec-0019"><title>Effect of GHR Blockade on Vasodilation and tPA Activity During Stimulated GH Secretion in Women</title><p>Pegvisomant significantly decreased free IGF&#x02010;1 during sitagliptin (<italic>P</italic>=0.04 versus sitagliptin alone, n=5) and increased GH levels (<italic>P</italic>&#x0003c;0.01 versus sitagliptin alone), consistent with effective GHR blockade (Figure&#x000a0;<xref rid="jah32916-fig-0004" ref-type="fig">4</xref>A). The addition of GHR blockade significantly increased vasodilation (<italic>P</italic>&#x0003c;0.01 versus sitagliptin alone for change in FVR) throughout stimulated GH secretion. Moreover, at the nadir in vascular resistance, GH levels correlated inversely with vascular resistance (<italic>r</italic>
+<sub>s</sub>=&#x02212;0.90, <italic>P</italic>&#x0003c;0.001) (Figure&#x000a0;<xref rid="jah32916-fig-0004" ref-type="fig">4</xref>B). Pegvisomant suppressed tPA activity before (0.24&#x000b1;0.12 after sitagliptin alone versus 0.10&#x000b1;0.08&#x000a0;IU/mL after addition of pegvisomant, <italic>P</italic>=0.04) and during stimulated GH secretion (<italic>P</italic>&#x0003c;0.001 versus sitagliptin alone) (Figure&#x000a0;<xref rid="jah32916-fig-0004" ref-type="fig">4</xref>C).</p><fig fig-type="Figure" xml:lang="en" id="jah32916-fig-0004" orientation="portrait" position="float"><label>Figure 4</label><caption><p>The addition of growth hormone (<styled-content style="fixed-case">GH</styled-content>) receptor blockade (pegvisomant 80&#x000a0;mg administered SC 72&#x000a0;hours prior) to sitagliptin increases <styled-content style="fixed-case">GH</styled-content> levels as a result of reduced negative feedback (n=5 women) (A) and decreases free insulin&#x02013;like growth factor&#x02010;1 (IGF&#x02010;1) (B). The addition of <styled-content style="fixed-case">GH</styled-content> receptor blockade to sitagliptin further decreases forearm vascular resistance (<styled-content style="fixed-case">FVR</styled-content>) during stimulated <styled-content style="fixed-case">GH</styled-content> secretion (C). At the nadir in vascular resistance (arrow), a significant correlation between vascular resistance and <styled-content style="fixed-case">GH</styled-content> levels was found (D). Pegvisomant decreases tissue plasminogen activator (<styled-content style="fixed-case">tPA</styled-content>) activity levels before and throughout arginine (Arg)&#x02010;stimulated <styled-content style="fixed-case">GH</styled-content> secretion (E). Data are presented as mean&#x000b1;<styled-content style="fixed-case">SEM</styled-content>. *<italic>P</italic>&#x02264;0.05 vs placebo at specified time point in the linear model. Linear model&#x02013;based <italic>P</italic> values are: <italic>P</italic>&#x0003c;0.01 effect of treatment on <styled-content style="fixed-case">GH</styled-content>,<italic> P</italic>&#x0003c;0.01 effect of treatment on <styled-content style="fixed-case">FVR</styled-content> percent change (&#x02206;), and <italic>P</italic>&#x0003c;0.001 effect of treatment on <styled-content style="fixed-case">tPA</styled-content> activity.</p></caption><graphic id="nlm-graphic-7" xlink:href="JAH3-7-e008000-g004"/></fig></sec><sec id="jah32916-sec-0020"><title>Effect of NO Synthase Inhibition on Vasodilation and tPA Activity During Stimulated GH Secretion in Women</title><p>LNMMA significantly decreased cGMP levels during sitagliptin and stimulated GH secretion (decrease of 432.39&#x000a0;fmol [95% confidence interval, &#x02212;792.77 to &#x02212;72.02], <italic>P</italic>=0.02 versus sitagliptin alone, n=7). LNMMA did not affect the vasodilator response to stimulated GH secretion during sitagliptin (<italic>P</italic>=0.43 versus sitagliptin alone for change in FBF and <italic>P</italic>=0.94 versus sitagliptin alone for change in FVR) (Figure&#x000a0;<xref rid="jah32916-fig-0005" ref-type="fig">5</xref>A). The addition of LNMMA to sitagliptin also had no effect on tPA activity (<italic>P</italic>=0.64 versus sitagliptin alone) (data not shown).</p><fig fig-type="Figure" xml:lang="en" id="jah32916-fig-0005" orientation="portrait" position="float"><label>Figure 5</label><caption><p>
+<sc>l</sc>&#x02010;N&#x02010;monomethylarginine (<styled-content style="fixed-case">LNMMA</styled-content>) did not affect the vasodilator response to arginine (Arg)&#x02010;stimulated growth hormone (<styled-content style="fixed-case">GH</styled-content>) secretion during sitagliptin (A) (n=7 women). Glucagon&#x02010;like peptidase&#x02010;1 (<styled-content style="fixed-case">GLP</styled-content>&#x02010;1) receptor blockade (Exendin 9&#x02010;39) did not affect the vasodilator response to stimulated <styled-content style="fixed-case">GH</styled-content> secretion during sitagliptin (B) (n=7 women). Data are presented as mean&#x000b1;<styled-content style="fixed-case">SEM</styled-content>. *<italic>P</italic>&#x0003c;0.05 vs placebo at specified time point in the linear model. The linear model&#x02013;based <italic>P</italic> values for overall effect of treatment were not significant.</p></caption><graphic id="nlm-graphic-9" xlink:href="JAH3-7-e008000-g005"/></fig></sec><sec id="jah32916-sec-0021"><title>Effect of GLP&#x02010;1 Receptor Blockade on Vasodilation and tPA Activity During Stimulated GH Secretion in Women</title><p>GLP&#x02010;1 receptor blockade with Exendin 9&#x02010;39 increased fasting GLP&#x02010;1 (<italic>P</italic>&#x0003c;0.01), glucagon (<italic>P</italic>=0.09), and blood glucose levels (<italic>P</italic>&#x0003c;0.001), as previously described.<xref rid="jah32916-bib-0020" ref-type="ref">20</xref>, <xref rid="jah32916-bib-0024" ref-type="ref">24</xref>, <xref rid="jah32916-bib-0025" ref-type="ref">25</xref> Exendin 9&#x02010;39 briefly caused vasoconstriction immediately after arginine infusion (<italic>P</italic>=0.02 versus sitagliptin alone for FBF and <italic>P</italic>=0.02 versus sitagliptin alone for FVR at 60&#x000a0;minutes, n=7) (Figure&#x000a0;<xref rid="jah32916-fig-0005" ref-type="fig">5</xref>B). Following stimulated GH secretion, FBF increased (<italic>P</italic>&#x0003c;0.001 effect of time) and FVR decreased (<italic>P</italic>&#x0003c;0.001 effect of time). The addition of Exendin 9&#x02010;39 to sitagliptin did not prevent vasodilation following stimulated GH secretion (<italic>P</italic>=0.88 versus sitagliptin alone for change in FBF and <italic>P</italic>=0.57 versus sitagliptin alone for change in FVR). The addition of Exendin 9&#x02010;39 to sitagliptin also had no effect on tPA activity (<italic>P</italic>=0.58 versus sitagliptin alone) (data not shown).</p></sec><sec id="jah32916-sec-0022"><title>Reproducibility of Stimulated GH Secretion During DPP4 Inhibition</title><p>The reproducibility of the effect of DPP4 inhibition on stimulated GH secretion was assessed by comparing GH levels during sitagliptin alone with GH levels obtained during sitagliptin plus saline vehicle infusion in the 19 women who completed both crossover studies (Figure&#x000a0;<xref rid="jah32916-fig-0006" ref-type="fig">6</xref>). There was a significant correlation between stimulated GH secretion following sitagliptin and stimulated GH secretion following sitagliptin plus saline infusion (peak GH response: <italic>r</italic>
+<sub>s</sub>=0.65, <italic>P</italic>=0.003; GH 30&#x000a0;minutes after arginine: <italic>r</italic>
+<sub>s</sub>=0.51, <italic>P</italic>=0.02).</p><fig fig-type="Figure" xml:lang="en" id="jah32916-fig-0006" orientation="portrait" position="float"><label>Figure 6</label><caption><p>The increase in arginine (Arg)&#x02010;stimulated growth hormone (<styled-content style="fixed-case">GH</styled-content>) secretion during dipeptidyl peptidase&#x02010;4 inhibition with sitagliptin is reproducible (n=19 women). Data are presented as mean&#x000b1;<styled-content style="fixed-case">SEM</styled-content> unless otherwise noted. There was a significant correlation between stimulated <styled-content style="fixed-case">GH</styled-content> secretion following sitagliptin and stimulated <styled-content style="fixed-case">GH</styled-content> secretion following sitagliptin plus saline infusion (peak <styled-content style="fixed-case">GH</styled-content> response: <italic>r</italic>
+<sub>s</sub>=0.65, <italic>P</italic>=0.003; <styled-content style="fixed-case">GH</styled-content> 30&#x000a0;minutes after arginine: <italic>r</italic>
+<sub>s</sub>=0.51, <italic>P</italic>=0.02).</p></caption><graphic id="nlm-graphic-11" xlink:href="JAH3-7-e008000-g006"/></fig></sec></sec><sec id="jah32916-sec-0023"><title>Discussion</title><p>This study tested the hypothesis that DPP4 inhibition potentiates arginine&#x02010;stimulated GH secretion in humans. We found that sitagliptin significantly enhanced stimulated GH secretion and shortened the time to peak GH in healthy women but not men. Similarly, sitagliptin increased free IGF&#x02010;1 levels in women. Forearm vasodilation after peak GH was potentiated by sitagliptin only in women. GHR blockade further increased vasodilation during DPP4 inhibition in association with increased GH levels. The latter indicates that GH induces endothelium&#x02010;independent vasodilation through a GHR&#x02010;independent mechanism.</p><p>Our study is the first to define an off&#x02010;target effect of the antidiabetic medication sitagliptin on GH and the first study of the effect of DPP4 inhibition on the GH axis to include women. An understanding of the effect of DPP4 inhibition on GH can only be achieved by studying humans because of significant interspecies variation in the neuroregulation of GH secretion.<xref rid="jah32916-bib-0026" ref-type="ref">26</xref> Bergman et&#x000a0;al<xref rid="jah32916-bib-0027" ref-type="ref">27</xref> examined the effect of 10&#x02010;day treatment with sitagliptin, in doses ranging from 25&#x000a0;mg daily to 300&#x000a0;mg twice daily, on IGF&#x02010;1 levels in 8 healthy young men. Although IGF&#x02010;1 increased in nearly every treatment group after 10&#x000a0;days, the change was not statistically significant. Schopman et&#x000a0;al<xref rid="jah32916-bib-0028" ref-type="ref">28</xref> reported that sitagliptin decreased GH levels after insulin&#x02010;induced hypoglycemia in insulin&#x02010;dependent men with diabetes mellitus and attributed this to an inhibitory effect of GLP&#x02010;1 stimulation. GLP&#x02010;1 is unlikely to contribute to enhanced GH secretion in women in the present study, as GLP&#x02010;1 receptor blockade did not influence GH secretion.</p><p>We found an effect of sitagliptin in women but not in men, consistent with the mechanism of known sexual dimorphism in GH secretion. The observation that sitagliptin affects GH secretion in women only may be explained by work of others, which demonstrates that GHRH drives GH pulsatility in women and that interpulse GH secretion in women is more GHRH dependent and less susceptible to feedback inhibition by free IGF&#x02010;1.<xref rid="jah32916-bib-0029" ref-type="ref">29</xref>, <xref rid="jah32916-bib-0030" ref-type="ref">30</xref>, <xref rid="jah32916-bib-0031" ref-type="ref">31</xref> We also observed that arginine did not stimulate GH secretion as effectively in men. This dose of arginine may have been insufficient for us to detect a significant effect of sitagliptin on stimulated GH secretion in men. Given these known differences in GH secretion between men and women, a separate adequately powered study is needed to investigate what effect sitagliptin has on GH secretion in men.</p><p>Our study is unique in that it investigates for the first time in humans the specific contribution of GHR activation and IGF&#x02010;1 to the vasodilation observed after an increase in GH. The vasodilator effects of GH and IGF&#x02010;1 in humans are well described. Napoli et&#x000a0;al<xref rid="jah32916-bib-0004" ref-type="ref">4</xref> demonstrated that intra&#x02010;arterial GH resulting in a 10&#x02010;fold increase in GH levels in the human forearm with no effect on IGF&#x02010;1 doubles forearm blood flow several hours later. IGF&#x02010;1 causes relaxation in harvested human internal mammary artery that is unaffected by removal of the endothelium and NO inhibition but abolished by potassium chloride, suggesting that IGF&#x02010;1&#x02013;induced vasorelaxation in humans involves the potassium channels in vascular smooth muscle cells.<xref rid="jah32916-bib-0032" ref-type="ref">32</xref> We are not aware of any studies evaluating the effect of IGF&#x02010;1 on the vasculature in the human forearm.</p><p>We found that GHR blockade paradoxically increased vasodilation following arginine&#x02010;stimulated GH release in sitagliptin&#x02010;treated women, even though IGF&#x02010;1 concentrations were decreased. Increased vasodilation correlated with GH concentrations, which were increased as a result of loss of feedback inhibition, consistent with a GHR&#x02010; and IGF&#x02010;1&#x02013;independent vasodilator effect of GH. Consistent with this mechanism, chronic pegvisomant therapy in patients with acromegaly improves flow&#x02010;mediated dilation.<xref rid="jah32916-bib-0033" ref-type="ref">33</xref> GH treatment in hypophysectomized rats upregulates vascular smooth muscle ATP&#x02010;sensitive potassium channel mRNA,<xref rid="jah32916-bib-0034" ref-type="ref">34</xref> which could lead to depolarization and vasorelaxation. Lastly, adults with primary GH resistance, characterized by elevated GH but defective GHR signaling and IGF&#x02010;1 deficiency, demonstrate normal conduit artery vascular function.<xref rid="jah32916-bib-0035" ref-type="ref">35</xref>
+</p><p>Late vasodilation after arginine is believed to be mediated by GH, as octreotide infusion blocks arginine&#x02010;stimulated GH secretion and prevents vasodilation.<xref rid="jah32916-bib-0036" ref-type="ref">36</xref> GH has also been reported to cause vasodilation via NO&#x02010;dependent mechanisms. Prior studies indicate that coinfusion of LNMMA decreases the vasodilator response to GH.<xref rid="jah32916-bib-0004" ref-type="ref">4</xref> Li et&#x000a0;al<xref rid="jah32916-bib-0003" ref-type="ref">3</xref> corroborated these findings using an acute systemic GH infusion and further demonstrated that GH increases phosphorylation and activity of endothelial NO synthase in human aortic endothelial cells in&#x000a0;vitro. Others have found that chronic GH therapy, which also increases IGF&#x02010;1 levels, increases markers of NO bioavailability, decreases peripheral resistance, and improves conduit artery vascular function.<xref rid="jah32916-bib-0037" ref-type="ref">37</xref>, <xref rid="jah32916-bib-0038" ref-type="ref">38</xref> Our results do not support a contribution by NO to enhanced vasodilation following arginine&#x02010;stimulated GH secretion during DPP4 inhibition, as vasodilation was not blocked by LNMMA and thus was NO synthase independent.</p><p>Sitagliptin also increases levels of intact GLP&#x02010;1 and insulin, and intact GLP&#x02010;1 has previously been reported to enhance the vasodilator response to intra&#x02010;arterial insulin in adults with metabolic syndrome.<xref rid="jah32916-bib-0039" ref-type="ref">39</xref> It is unlikely that increased insulin and GLP&#x02010;1 receptor activation contributed to the enhanced vasodilation during sitagliptin. Insulin levels were identical across study days and the mechanism of vasodilation was NO synthase independent. While sitagliptin increased fasting GLP&#x02010;1 levels, the addition of GLP&#x02010;1 receptor blockade did not prevent vasodilation. Furthermore, our group previously demonstrated that intra&#x02010;arterial infusion of GLP&#x02010;1 in the setting of sitagliptin has no effect on vasodilation in the forearm of healthy adults.<xref rid="jah32916-bib-0040" ref-type="ref">40</xref> Ban et&#x000a0;al<xref rid="jah32916-bib-0041" ref-type="ref">41</xref> demonstrated that GLP&#x02010;1 (9&#x02010;36) increases endothelium&#x02010;dependent vasodilation in mice lacking a GLP&#x02010;1 receptor. A GLP&#x02010;1 receptor&#x02010;independent mechanism involving GLP&#x02010;1 (9&#x02010;36) is unlikely to explain the observed vasodilation in this study as sitagliptin prevents the formation of GLP&#x02010;1 (9&#x02010;36). It is also possible that the enhanced vasodilation which followed GHR blockade was mediated in part by peripheral GHRH or GH activation of the prolactin receptor. Prolactin and GHRH receptor antagonists are not presently available for use in humans.</p><p>We observed an increase in tPA activity during stimulated GH secretion that was potentiated by sitagliptin in women. We previously demonstrated that adults with GH deficiency have decreased tPA activity, along with a defective fibrinolytic response to venous occlusion.<xref rid="jah32916-bib-0005" ref-type="ref">5</xref> Miljic et&#x000a0;al<xref rid="jah32916-bib-0006" ref-type="ref">6</xref> also reported an improvement in stimulated endothelial tPA release following venous occlusion after 1&#x000a0;year of GH replacement aimed to normalize IGF&#x02010;1 in GH&#x02010;deficient adults. We demonstrated that GH mediates tPA activity levels through the GHR in women, as the addition of GHR blockade suppressed tPA activity before and during stimulated GH secretion. Muller et&#x000a0;al<xref rid="jah32916-bib-0042" ref-type="ref">42</xref> found no effect of pegvisomant on tPA activity in men, whereas we detected a decrease in tPA activity.</p><sec id="jah32916-sec-0024"><title>Study Limitations and Strengths</title><p>Our findings are limited by a few study design considerations. We studied healthy, lean individuals to avoid medications and diseases that may affect stimulated GH secretion, endothelial function, and fibrinolysis. We studied patients who fasted, while sitagliptin exerts its incretin&#x02010;specific effects in the postprandial state. Because sitagliptin may influence GH secretion by lowering postprandial blood sugar and free fatty acids, sitagliptin could have a greater effect on GH secretion in the postprandial state. We administered sitagliptin for a limited duration to decrease the likelihood of an increase in IGF&#x02010;1 influencing GH secretion through feedback inhibition. The effect of chronic sitagliptin on GH secretion may be less pronounced. Measurement of plasma GHRH levels was not performed, given the several 1000&#x02010;fold dilution of pituitary&#x02010;portal GHRH and the inability of assays to distinguish between pituitary and peripheral GHRH. We used arginine as a stimulus for endogenous GH secretion. Other currently available GH secretagogues, insulin and glucagon, may be unsafe to administer during sitagliptin and would cause hormonal changes that would confound results. While arginine&#x02010;stimulated GH secretion is unaffected by phase of the menstrual cycle,<xref rid="jah32916-bib-0043" ref-type="ref">43</xref> vasodilation is highest during the late follicular phase when estradiol levels are highest.<xref rid="jah32916-bib-0044" ref-type="ref">44</xref> We were limited in our ability to coordinate all assessments to the same phase of the menstrual cycle in our participants; however, we did not observe a difference in estradiol levels across study treatments. Similar to other researchers, we found low intraindividual variability in the GH response to arginine.<xref rid="jah32916-bib-0045" ref-type="ref">45</xref> In fact, a strength of our study is the highly reproducible stimulated GH secretion profile during sitagliptin in women. We were not able to confirm complete blockade of the GHR. The resulting increased GH levels may have been sufficient to stimulate an incompletely blocked GHR albeit to a lesser degree. Our study is also limited by our inability to define the mechanism by which increased GH causes sex&#x02010;specific vasodilation. Further study using glibenclamide in an appropriate study population may elucidate a contribution by the vascular smooth muscle ATP&#x02010;sensitive potassium channel. Lastly, our limited sample size in the second half of the study limits our conclusions on the impact of NO synthase inhibition and GLP&#x02010;1 receptor blockade.</p></sec></sec><sec id="jah32916-sec-0025"><title>Conclusions</title><p>In this study, we tested a previously unexplored method to enhance endogenous pulsatile GH secretion in humans using the oral antidiabetic DPP4 inhibitor sitagliptin. Our data are the first to support an off&#x02010;target effect of DPP4 inhibition on GH secretion in women. This is clinically relevant for 2 reasons. First, the cardiovascular effects of DPP4 inhibition and how these differ from the effects of GLP&#x02010;1 analogues is an active area of investigation. Our findings suggest that DPP4 inhibition influences vasodilation by influencing GH secretion in women. Second, while current strategies to increase GH cause hyperglycemia, oral DPP4 inhibitor therapy offers an attractive, novel mechanism to enhance endogenous GH secretion while also improving glucose metabolism. It was previously well established that increases in GH and IGF&#x02010;1 improve fibrinolytic capacity, vasodilator function, and lower inflammation. Medications that potentiate GH secretion may thus prevent atherosclerosis through these mechanisms. Last, an enhanced understanding of the specific effects of GH, GHR activation, and IGF&#x02010;1 on cardiovascular risk and how they are modified by sex is critical to how we incorporate somatotropic medications in the management algorithms for patients with impaired GH secretion and elevated cardiovascular risk.</p></sec><sec id="jah32916-sec-0027"><title>Sources of Funding</title><p>This research was supported by Vanderbilt Clinical and Translational Science Awards (CTSA) grant UL1 TR000445&#x02010;06 from the National Institutes of Health National Center for Advancing Translational Sciences. The Vanderbilt Hormone Assay and Analytical Services Core is supported by National Institutes of Health grants DK059637 and DK020593. Devin was supported by K23HL11962 National Heart, Lung, and Blood Institute/National Institutes of Health, Brown by R01HL125426 from National Heart, Lung, and Blood Institute/National Institutes of Health and 17SFRN33520017 from the American Heart Association, and Wilson by T32GM007569 from National Institute of General Medical Sciences/National Institutes of Health and T32DK007061 from National Institute of Diabetes and Digestive and Kidney Diseases/National Institutes of Health.</p></sec><sec id="jah32916-sec-0028"><title>Disclosures</title><p>None.</p></sec><sec sec-type="supplementary-material"><title>Supporting information</title><supplementary-material content-type="local-data" id="jah32916-sup-0001"><caption><p>
+<bold>Data S1.</bold> Supplemental methods.</p><p>
+<bold>Figure&#x000a0;S1.</bold> Patients participated in a 2&#x02010;part double&#x02010;blind, randomized, placebo&#x02010;controlled, crossover study.</p></caption><media xlink:href="JAH3-7-e008000-s001.pdf"><caption><p>Click here for additional data file.</p></caption></media></supplementary-material></sec></body><back><ack id="jah32916-sec-0026"><title>Acknowledgments</title><p>We thank Stacy Gilbert, RN, and Patricia Wright, RN, for their recruitment of volunteers and nursing assistance. We thank Anthony Dematteo, Zuofei Wang, and Aaron Falck for their technical assistance. We thank Drs Kevin Niswender, Italo Biaggioni, Andrea Utz, and David D'Alessio for their expertise and service on the Data and Safety Monitoring Committee.</p></ack><ref-list content-type="cited-references" id="jah32916-bibl-0001"><title>References</title><ref id="jah32916-bib-0001"><label>1</label><mixed-citation publication-type="journal" id="jah32916-cit-0001">
+<string-name>
+<surname>Waters</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Barnard</surname>
+<given-names>RT</given-names>
+</string-name>, <string-name>
+<surname>Lobie</surname>
+<given-names>PE</given-names>
+</string-name>, <string-name>
+<surname>Lim</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Hamlin</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Spencer</surname>
+<given-names>SA</given-names>
+</string-name>, <string-name>
+<surname>Hammonds</surname>
+<given-names>RG</given-names>
+</string-name>, <string-name>
+<surname>Leung</surname>
+<given-names>DW</given-names>
+</string-name>, <string-name>
+<surname>Wood</surname>
+<given-names>WI</given-names>
+</string-name>. <article-title>Growth hormone receptors&#x02014;their structure, location and role</article-title>. <source>Acta Paediatr Scand Suppl</source>. <year>1990</year>;<volume>366</volume>:<fpage>60</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">2206008</pub-id></mixed-citation></ref><ref id="jah32916-bib-0002"><label>2</label><mixed-citation publication-type="journal" id="jah32916-cit-0002">
+<string-name>
+<surname>Wickman</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Jonsdottir</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Bergstrom</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Hedin</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>GH and IGF&#x02010;I regulate the expression of endothelial nitric oxide synthase (eNOS) in cardiovascular tissues of hypophysectomized female rats</article-title>. <source>Eur J Endocrinol</source>. <year>2002</year>;<volume>147</volume>:<fpage>523</fpage>&#x02013;<lpage>533</lpage>.<pub-id pub-id-type="pmid">12370116</pub-id></mixed-citation></ref><ref id="jah32916-bib-0003"><label>3</label><mixed-citation publication-type="journal" id="jah32916-cit-0003">
+<string-name>
+<surname>Li</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Del Rincon</surname>
+<given-names>JP</given-names>
+</string-name>, <string-name>
+<surname>Jahn</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Wu</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Gaylinn</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Thorner</surname>
+<given-names>MO</given-names>
+</string-name>, <string-name>
+<surname>Liu</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Growth hormone exerts acute vascular effects independent of systemic or muscle insulin&#x02010;like growth factor I</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2008</year>;<volume>93</volume>:<fpage>1379</fpage>&#x02013;<lpage>1385</lpage>.<pub-id pub-id-type="pmid">18182451</pub-id></mixed-citation></ref><ref id="jah32916-bib-0004"><label>4</label><mixed-citation publication-type="journal" id="jah32916-cit-0004">
+<string-name>
+<surname>Napoli</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Guardasole</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Angelini</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>D'Amico</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Zarra</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Matarazzo</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Sacca</surname>
+<given-names>L</given-names>
+</string-name>. <article-title>Acute effects of growth hormone on vascular function in human subjects</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2003</year>;<volume>88</volume>:<fpage>2817</fpage>&#x02013;<lpage>2820</lpage>.<pub-id pub-id-type="pmid">12788893</pub-id></mixed-citation></ref><ref id="jah32916-bib-0005"><label>5</label><mixed-citation publication-type="journal" id="jah32916-cit-0005">
+<string-name>
+<surname>Devin</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Blevins</surname>
+<given-names>LS</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Verity</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Bloodworth</surname>
+<given-names>JR</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Covington</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Vaughan</surname>
+<given-names>DE</given-names>
+</string-name>. <article-title>Markedly impaired fibrinolytic balance contributes to cardiovascular risk in adults with growth hormone deficiency</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2007</year>;<volume>92</volume>:<fpage>3633</fpage>&#x02013;<lpage>3639</lpage>.<pub-id pub-id-type="pmid">17579195</pub-id></mixed-citation></ref><ref id="jah32916-bib-0006"><label>6</label><mixed-citation publication-type="journal" id="jah32916-cit-0006">
+<string-name>
+<surname>Miljic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Miljic</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Doknic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Pekic</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Stojanovic</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Cvijovic</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Micic</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Popovic</surname>
+<given-names>V</given-names>
+</string-name>. <article-title>Growth hormone replacement normalizes impaired fibrinolysis: new insights into endothelial dysfunction in patients with hypopituitarism and growth hormone deficiency</article-title>. <source>Growth Horm IGF Res</source>. <year>2013</year>;<volume>23</volume>:<fpage>243</fpage>&#x02013;<lpage>248</lpage>.<pub-id pub-id-type="pmid">24041757</pub-id></mixed-citation></ref><ref id="jah32916-bib-0007"><label>7</label><mixed-citation publication-type="journal" id="jah32916-cit-0007">
+<string-name>
+<surname>Devin</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Vaughan</surname>
+<given-names>DE</given-names>
+</string-name>, <string-name>
+<surname>Blevins</surname>
+<given-names>LS</given-names>
+<suffix>Jr</suffix>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>Q</given-names>
+</string-name>, <string-name>
+<surname>Covington</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Verity</surname>
+<given-names>DK</given-names>
+</string-name>, <string-name>
+<surname>Young</surname>
+<given-names>PP</given-names>
+</string-name>. <article-title>Low&#x02010;dose growth hormone administration mobilizes endothelial progenitor cells in healthy adults</article-title>. <source>Growth Horm IGF Res</source>. <year>2008</year>;<volume>18</volume>:<fpage>253</fpage>&#x02013;<lpage>263</lpage>.<pub-id pub-id-type="pmid">18166495</pub-id></mixed-citation></ref><ref id="jah32916-bib-0008"><label>8</label><mixed-citation publication-type="journal" id="jah32916-cit-0008">
+<string-name>
+<surname>Stanley</surname>
+<given-names>TL</given-names>
+</string-name>, <string-name>
+<surname>Grinspoon</surname>
+<given-names>SK</given-names>
+</string-name>. <article-title>GH/GHRH axis in HIV lipodystrophy</article-title>. <source>Pituitary</source>. <year>2009</year>;<volume>12</volume>:<fpage>143</fpage>&#x02013;<lpage>152</lpage>.<pub-id pub-id-type="pmid">18270841</pub-id></mixed-citation></ref><ref id="jah32916-bib-0009"><label>9</label><mixed-citation publication-type="journal" id="jah32916-cit-0009">
+<string-name>
+<surname>Piaditis</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Kounadi</surname>
+<given-names>TG</given-names>
+</string-name>, <string-name>
+<surname>Rangou</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Trovas</surname>
+<given-names>GP</given-names>
+</string-name>, <string-name>
+<surname>Kaklas</surname>
+<given-names>NA</given-names>
+</string-name>, <string-name>
+<surname>Tzonou</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Chlouverakis</surname>
+<given-names>CS</given-names>
+</string-name>. <article-title>Dysfunction of the growth hormone/insulin&#x02010;like growth factor&#x02010;I axis in women with polycystic ovarian syndrome</article-title>. <source>Clin Endocrinol (Oxf)</source>. <year>1995</year>;<volume>42</volume>:<fpage>635</fpage>&#x02013;<lpage>640</lpage>.<pub-id pub-id-type="pmid">7634505</pub-id></mixed-citation></ref><ref id="jah32916-bib-0010"><label>10</label><mixed-citation publication-type="journal" id="jah32916-cit-0010">
+<string-name>
+<surname>Cordido</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Garcia&#x02010;Buela</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sangiao&#x02010;Alvarellos</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Martinez</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Vidal</surname>
+<given-names>O</given-names>
+</string-name>. <article-title>The decreased growth hormone response to growth hormone releasing hormone in obesity is associated to cardiometabolic risk factors</article-title>. <source>Mediators Inflamm</source>. <year>2010</year>;<volume>2010</volume>:<fpage>434562</fpage>.<pub-id pub-id-type="pmid">20150954</pub-id></mixed-citation></ref><ref id="jah32916-bib-0011"><label>11</label><mixed-citation publication-type="journal" id="jah32916-cit-0011">
+<string-name>
+<surname>Juul</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Scheike</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Davidsen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Gyllenborg</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Jorgensen</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Low serum insulin&#x02010;like growth factor I is associated with increased risk of ischemic heart disease: a population&#x02010;based case&#x02010;control study</article-title>. <source>Circulation</source>. <year>2002</year>;<volume>106</volume>:<fpage>939</fpage>&#x02013;<lpage>944</lpage>.<pub-id pub-id-type="pmid">12186797</pub-id></mixed-citation></ref><ref id="jah32916-bib-0012"><label>12</label><mixed-citation publication-type="journal" id="jah32916-cit-0012">
+<string-name>
+<surname>Vasan</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Sullivan</surname>
+<given-names>LM</given-names>
+</string-name>, <string-name>
+<surname>D'Agostino</surname>
+<given-names>RB</given-names>
+</string-name>, <string-name>
+<surname>Roubenoff</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Harris</surname>
+<given-names>T</given-names>
+</string-name>, <string-name>
+<surname>Sawyer</surname>
+<given-names>DB</given-names>
+</string-name>, <string-name>
+<surname>Levy</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Wilson</surname>
+<given-names>PW</given-names>
+</string-name>. <article-title>Serum insulin&#x02010;like growth factor I and risk for heart failure in elderly individuals without a previous myocardial infarction: the Framingham Heart Study</article-title>. <source>Ann Intern Med</source>. <year>2003</year>;<volume>139</volume>:<fpage>642</fpage>&#x02013;<lpage>648</lpage>.<pub-id pub-id-type="pmid">14568852</pub-id></mixed-citation></ref><ref id="jah32916-bib-0013"><label>13</label><mixed-citation publication-type="journal" id="jah32916-cit-0013">
+<string-name>
+<surname>Bourron</surname>
+<given-names>O</given-names>
+</string-name>, <string-name>
+<surname>Le</surname>
+<given-names>BY</given-names>
+</string-name>, <string-name>
+<surname>Berard</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Kotti</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Brunel</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Ritz</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Leclercq</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Tabone</surname>
+<given-names>X</given-names>
+</string-name>, <string-name>
+<surname>Drouet</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Mulak</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Danchin</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Simon</surname>
+<given-names>T</given-names>
+</string-name>. <article-title>Impact of age&#x02010;adjusted insulin&#x02010;like growth factor 1 on major cardiovascular events after acute myocardial infarction: results from the fast&#x02010;MI registry</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2015</year>;<volume>100</volume>:<fpage>1879</fpage>&#x02013;<lpage>1886</lpage>.<pub-id pub-id-type="pmid">25699636</pub-id></mixed-citation></ref><ref id="jah32916-bib-0014"><label>14</label><mixed-citation publication-type="journal" id="jah32916-cit-0014">
+<string-name>
+<surname>Utz</surname>
+<given-names>AL</given-names>
+</string-name>, <string-name>
+<surname>Yamamoto</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hemphill</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Miller</surname>
+<given-names>KK</given-names>
+</string-name>. <article-title>Growth hormone deficiency by growth hormone releasing hormone&#x02010;arginine testing criteria predicts increased cardiovascular risk markers in normal young overweight and obese women</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2008</year>;<volume>93</volume>:<fpage>2507</fpage>&#x02013;<lpage>2514</lpage>.<pub-id pub-id-type="pmid">18445664</pub-id></mixed-citation></ref><ref id="jah32916-bib-0015"><label>15</label><mixed-citation publication-type="journal" id="jah32916-cit-0015">
+<string-name>
+<surname>Frohman</surname>
+<given-names>LA</given-names>
+</string-name>, <string-name>
+<surname>Downs</surname>
+<given-names>TR</given-names>
+</string-name>, <string-name>
+<surname>Williams</surname>
+<given-names>TC</given-names>
+</string-name>, <string-name>
+<surname>Heimer</surname>
+<given-names>EP</given-names>
+</string-name>, <string-name>
+<surname>Pan</surname>
+<given-names>YC</given-names>
+</string-name>, <string-name>
+<surname>Felix</surname>
+<given-names>AM</given-names>
+</string-name>. <article-title>Rapid enzymatic degradation of growth hormone&#x02010;releasing hormone by plasma in&#x000a0;vitro and in&#x000a0;vivo to a biologically inactive product cleaved at the NH2 terminus</article-title>. <source>J Clin Invest</source>. <year>1986</year>;<volume>78</volume>:<fpage>906</fpage>&#x02013;<lpage>913</lpage>.<pub-id pub-id-type="pmid">3093533</pub-id></mixed-citation></ref><ref id="jah32916-bib-0016"><label>16</label><mixed-citation publication-type="journal" id="jah32916-cit-0016">
+<string-name>
+<surname>Merimee</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Lillicrap</surname>
+<given-names>DA</given-names>
+</string-name>, <string-name>
+<surname>Rabinowitz</surname>
+<given-names>D</given-names>
+</string-name>. <article-title>Effect of arginine on serum&#x02010;levels of human growth&#x02010;hormone</article-title>. <source>Lancet</source>. <year>1965</year>;<volume>2</volume>:<fpage>668</fpage>&#x02013;<lpage>670</lpage>.<pub-id pub-id-type="pmid">4158217</pub-id></mixed-citation></ref><ref id="jah32916-bib-0017"><label>17</label><mixed-citation publication-type="journal" id="jah32916-cit-0017">
+<string-name>
+<surname>Muller</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>van der Lely</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Insights from growth hormone receptor blockade</article-title>. <source>Curr Opin Investig Drugs</source>. <year>2004</year>;<volume>5</volume>:<fpage>1072</fpage>&#x02013;<lpage>1079</lpage>.</mixed-citation></ref><ref id="jah32916-bib-0018"><label>18</label><mixed-citation publication-type="journal" id="jah32916-cit-0018">
+<string-name>
+<surname>Hjorth</surname>
+<given-names>LL</given-names>
+</string-name>, <string-name>
+<surname>Klingenberg</surname>
+<given-names>IH</given-names>
+</string-name>, <string-name>
+<surname>Olesen</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>A dose&#x02010;response study of nitric oxide synthase inhibition in different vascular beds in man</article-title>. <source>Eur J Clin Pharmacol</source>. <year>2003</year>;<volume>59</volume>:<fpage>499</fpage>&#x02013;<lpage>505</lpage>.<pub-id pub-id-type="pmid">13680036</pub-id></mixed-citation></ref><ref id="jah32916-bib-0019"><label>19</label><mixed-citation publication-type="journal" id="jah32916-cit-0019">
+<string-name>
+<surname>Spahr</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>PY</given-names>
+</string-name>, <string-name>
+<surname>Giostra</surname>
+<given-names>E</given-names>
+</string-name>, <string-name>
+<surname>Niederberger</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Lang</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Capponi</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Hadengue</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Acute effects of nitric oxide synthase inhibition on systemic, hepatic, and renal hemodynamics in patients with cirrhosis and ascites</article-title>. <source>J Investig Med</source>. <year>2002</year>;<volume>50</volume>:<fpage>116</fpage>&#x02013;<lpage>124</lpage>.</mixed-citation></ref><ref id="jah32916-bib-0020"><label>20</label><mixed-citation publication-type="journal" id="jah32916-cit-0020">
+<string-name>
+<surname>Salehi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Vahl</surname>
+<given-names>TP</given-names>
+</string-name>, <string-name>
+<surname>D'Alessio</surname>
+<given-names>DA</given-names>
+</string-name>. <article-title>Regulation of islet hormone release and gastric emptying by endogenous glucagon&#x02010;like peptide 1 after glucose ingestion</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2008</year>;<volume>93</volume>:<fpage>4909</fpage>&#x02013;<lpage>4916</lpage>.<pub-id pub-id-type="pmid">18827000</pub-id></mixed-citation></ref><ref id="jah32916-bib-0021"><label>21</label><mixed-citation publication-type="journal" id="jah32916-cit-0021">
+<string-name>
+<surname>Lefebvre</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Murphey</surname>
+<given-names>LJ</given-names>
+</string-name>, <string-name>
+<surname>Hartert</surname>
+<given-names>TV</given-names>
+</string-name>, <string-name>
+<surname>Jiao</surname>
+<given-names>SR</given-names>
+</string-name>, <string-name>
+<surname>Simmons</surname>
+<given-names>WH</given-names>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Dipeptidyl peptidase IV activity in patients with ACE&#x02010;inhibitor&#x02010;associated angioedema</article-title>. <source>Hypertension</source>. <year>2002</year>;<volume>39</volume>:<fpage>460</fpage>&#x02013;<lpage>464</lpage>.<pub-id pub-id-type="pmid">11882590</pub-id></mixed-citation></ref><ref id="jah32916-bib-0022"><label>22</label><mixed-citation publication-type="book" id="jah32916-cit-0022">
+<string-name>
+<surname>Jones</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Kenward</surname>
+<given-names>MG</given-names>
+</string-name>. <source>Design and Analysis of Crossover Trials</source>. <publisher-loc>Boca Raton, FL</publisher-loc>: <publisher-name>CRC Press LLC</publisher-name>; <year>2003</year>.</mixed-citation></ref><ref id="jah32916-bib-0023"><label>23</label><mixed-citation publication-type="journal" id="jah32916-cit-0023">
+<string-name>
+<surname>Merimee</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Rabinowtitz</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Fineberg</surname>
+<given-names>SE</given-names>
+</string-name>. <article-title>Arginine&#x02010;initiated release of human growth hormone. Factors modifying the response in normal man</article-title>. <source>N Engl J Med</source>. <year>1969</year>;<volume>280</volume>:<fpage>1434</fpage>&#x02013;<lpage>1438</lpage>.<pub-id pub-id-type="pmid">5786514</pub-id></mixed-citation></ref><ref id="jah32916-bib-0024"><label>24</label><mixed-citation publication-type="journal" id="jah32916-cit-0024">
+<string-name>
+<surname>Schirra</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Sturm</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Leicht</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Arnold</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Goke</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Katschinski</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Exendin(9&#x02010;39)amide is an antagonist of glucagon&#x02010;like peptide&#x02010;1(7&#x02010;36)amide in humans</article-title>. <source>J Clin Invest</source>. <year>1998</year>;<volume>101</volume>:<fpage>1421</fpage>&#x02013;<lpage>1430</lpage>.<pub-id pub-id-type="pmid">9525985</pub-id></mixed-citation></ref><ref id="jah32916-bib-0025"><label>25</label><mixed-citation publication-type="journal" id="jah32916-cit-0025">
+<string-name>
+<surname>Edwards</surname>
+<given-names>CM</given-names>
+</string-name>, <string-name>
+<surname>Todd</surname>
+<given-names>JF</given-names>
+</string-name>, <string-name>
+<surname>Mahmoudi</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>Z</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>RM</given-names>
+</string-name>, <string-name>
+<surname>Ghatei</surname>
+<given-names>MA</given-names>
+</string-name>, <string-name>
+<surname>Bloom</surname>
+<given-names>SR</given-names>
+</string-name>. <article-title>Glucagon&#x02010;like peptide 1 has a physiological role in the control of postprandial glucose in humans: studies with the antagonist exendin 9&#x02010;39</article-title>. <source>Diabetes</source>. <year>1999</year>;<volume>48</volume>:<fpage>86</fpage>&#x02013;<lpage>93</lpage>.<pub-id pub-id-type="pmid">9892226</pub-id></mixed-citation></ref><ref id="jah32916-bib-0026"><label>26</label><mixed-citation publication-type="journal" id="jah32916-cit-0026">
+<string-name>
+<surname>Giustina</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Veldhuis</surname>
+<given-names>JD</given-names>
+</string-name>. <article-title>Pathophysiology of the neuroregulation of growth hormone secretion in experimental animals and the human</article-title>. <source>Endocr Rev</source>. <year>1998</year>;<volume>19</volume>:<fpage>717</fpage>&#x02013;<lpage>797</lpage>.<pub-id pub-id-type="pmid">9861545</pub-id></mixed-citation></ref><ref id="jah32916-bib-0027"><label>27</label><mixed-citation publication-type="journal" id="jah32916-cit-0027">
+<string-name>
+<surname>Bergman</surname>
+<given-names>AJ</given-names>
+</string-name>, <string-name>
+<surname>Stevens</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Zhou</surname>
+<given-names>Y</given-names>
+</string-name>, <string-name>
+<surname>Yi</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Laethem</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>De</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Snyder</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Hilliard</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Tanaka</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Zeng</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Tanen</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Wang</surname>
+<given-names>AQ</given-names>
+</string-name>, <string-name>
+<surname>Chen</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Winchell</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Davies</surname>
+<given-names>MJ</given-names>
+</string-name>, <string-name>
+<surname>Ramael</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Wagner</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Herman</surname>
+<given-names>GA</given-names>
+</string-name>. <article-title>Pharmacokinetic and pharmacodynamic properties of multiple oral doses of sitagliptin, a dipeptidyl peptidase&#x02010;IV inhibitor: a double&#x02010;blind, randomized, placebo&#x02010;controlled study in healthy male volunteers</article-title>. <source>Clin Ther</source>. <year>2006</year>;<volume>28</volume>:<fpage>55</fpage>&#x02013;<lpage>72</lpage>.<pub-id pub-id-type="pmid">16490580</pub-id></mixed-citation></ref><ref id="jah32916-bib-0028"><label>28</label><mixed-citation publication-type="journal" id="jah32916-cit-0028">
+<string-name>
+<surname>Schopman</surname>
+<given-names>JE</given-names>
+</string-name>, <string-name>
+<surname>Hoekstra</surname>
+<given-names>JB</given-names>
+</string-name>, <string-name>
+<surname>Frier</surname>
+<given-names>BM</given-names>
+</string-name>, <string-name>
+<surname>Ackermans</surname>
+<given-names>MT</given-names>
+</string-name>, <string-name>
+<surname>de Sonnaville</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Stades</surname>
+<given-names>AM</given-names>
+</string-name>, <string-name>
+<surname>Zwertbroek</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Hartmann</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Holst</surname>
+<given-names>JJ</given-names>
+</string-name>, <string-name>
+<surname>Knop</surname>
+<given-names>FK</given-names>
+</string-name>, <string-name>
+<surname>Holleman</surname>
+<given-names>F</given-names>
+</string-name>. <article-title>Effects of sitagliptin on counter&#x02010;regulatory and incretin hormones during acute hypoglycaemia in patients with type 1 diabetes: a randomized double&#x02010;blind placebo&#x02010;controlled crossover study</article-title>. <source>Diabetes Obes Metab</source>. <year>2015</year>;<volume>17</volume>:<fpage>546</fpage>&#x02013;<lpage>553</lpage>.<pub-id pub-id-type="pmid">25694217</pub-id></mixed-citation></ref><ref id="jah32916-bib-0029"><label>29</label><mixed-citation publication-type="journal" id="jah32916-cit-0029">
+<string-name>
+<surname>Jaffe</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>Ocampo&#x02010;Lim</surname>
+<given-names>B</given-names>
+</string-name>, <string-name>
+<surname>Guo</surname>
+<given-names>W</given-names>
+</string-name>, <string-name>
+<surname>Krueger</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Sugahara</surname>
+<given-names>I</given-names>
+</string-name>, <string-name>
+<surname>DeMott&#x02010;Friberg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Bermann</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Barkan</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>Regulatory mechanisms of growth hormone secretion are sexually dimorphic</article-title>. <source>J Clin Invest</source>. <year>1998</year>;<volume>102</volume>:<fpage>153</fpage>&#x02013;<lpage>164</lpage>.<pub-id pub-id-type="pmid">9649569</pub-id></mixed-citation></ref><ref id="jah32916-bib-0030"><label>30</label><mixed-citation publication-type="journal" id="jah32916-cit-0030">
+<string-name>
+<surname>Jessup</surname>
+<given-names>SK</given-names>
+</string-name>, <string-name>
+<surname>Dimaraki</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name>
+<surname>Symons</surname>
+<given-names>KV</given-names>
+</string-name>, <string-name>
+<surname>Barkan</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>Sexual dimorphism of growth hormone (GH) regulation in humans: endogenous GH&#x02010;releasing hormone maintains basal GH in women but not in men</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2003</year>;<volume>88</volume>:<fpage>4776</fpage>&#x02013;<lpage>4780</lpage>.<pub-id pub-id-type="pmid">14557454</pub-id></mixed-citation></ref><ref id="jah32916-bib-0031"><label>31</label><mixed-citation publication-type="journal" id="jah32916-cit-0031">
+<string-name>
+<surname>Dimaraki</surname>
+<given-names>EV</given-names>
+</string-name>, <string-name>
+<surname>Jaffe</surname>
+<given-names>CA</given-names>
+</string-name>, <string-name>
+<surname>DeMott&#x02010;Friberg</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Russell&#x02010;Aulet</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Bowers</surname>
+<given-names>CY</given-names>
+</string-name>, <string-name>
+<surname>Marbach</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Barkan</surname>
+<given-names>AL</given-names>
+</string-name>. <article-title>Generation of growth hormone pulsatility in women: evidence against somatostatin withdrawal as pulse initiator</article-title>. <source>Am J Physiol Endocrinol Metab</source>. <year>2001</year>;<volume>280</volume>:<fpage>E489</fpage>&#x02013;<lpage>E495</lpage>.<pub-id pub-id-type="pmid">11171604</pub-id></mixed-citation></ref><ref id="jah32916-bib-0032"><label>32</label><mixed-citation publication-type="journal" id="jah32916-cit-0032">
+<string-name>
+<surname>Izhar</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Hasdai</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Richardson</surname>
+<given-names>DM</given-names>
+</string-name>, <string-name>
+<surname>Cohen</surname>
+<given-names>P</given-names>
+</string-name>, <string-name>
+<surname>Lerman</surname>
+<given-names>A</given-names>
+</string-name>. <article-title>Insulin and insulin&#x02010;like growth factor&#x02010;I cause vasorelaxation in human vessels in&#x000a0;vitro</article-title>. <source>Coron Artery Dis</source>. <year>2000</year>;<volume>11</volume>:<fpage>69</fpage>&#x02013;<lpage>76</lpage>.<pub-id pub-id-type="pmid">10715809</pub-id></mixed-citation></ref><ref id="jah32916-bib-0033"><label>33</label><mixed-citation publication-type="journal" id="jah32916-cit-0033">
+<string-name>
+<surname>De Martino</surname>
+<given-names>MC</given-names>
+</string-name>, <string-name>
+<surname>Auriemma</surname>
+<given-names>RS</given-names>
+</string-name>, <string-name>
+<surname>Brevetti</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Vitale</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Schiano</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Galdiero</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Grasso</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>Lombardi</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Colao</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Pivonello</surname>
+<given-names>R</given-names>
+</string-name>. <article-title>The treatment with growth hormone receptor antagonist in acromegaly: effect on vascular structure and function in patients resistant to somatostatin analogues</article-title>. <source>J Endocrinol Invest</source>. <year>2010</year>;<volume>33</volume>:<fpage>663</fpage>&#x02013;<lpage>670</lpage>.<pub-id pub-id-type="pmid">20595800</pub-id></mixed-citation></ref><ref id="jah32916-bib-0034"><label>34</label><mixed-citation publication-type="journal" id="jah32916-cit-0034">
+<string-name>
+<surname>Tivesten</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Barlind</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Caidahl</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Klintland</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Cittadini</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Ohlsson</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Isgaard</surname>
+<given-names>J</given-names>
+</string-name>. <article-title>Growth hormone&#x02010;induced blood pressure decrease is associated with increased mRNA levels of the vascular smooth muscle KATP channel</article-title>. <source>J Endocrinol</source>. <year>2004</year>;<volume>183</volume>:<fpage>195</fpage>&#x02013;<lpage>202</lpage>.<pub-id pub-id-type="pmid">15525587</pub-id></mixed-citation></ref><ref id="jah32916-bib-0035"><label>35</label><mixed-citation publication-type="journal" id="jah32916-cit-0035">
+<string-name>
+<surname>Shechter</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Ginsberg</surname>
+<given-names>S</given-names>
+</string-name>, <string-name>
+<surname>Scheinowitz</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Feinberg</surname>
+<given-names>MS</given-names>
+</string-name>, <string-name>
+<surname>Laron</surname>
+<given-names>Z</given-names>
+</string-name>. <article-title>Obese adults with primary growth hormone resistance (Laron Syndrome) have normal endothelial function</article-title>. <source>Growth Horm IGF Res</source>. <year>2007</year>;<volume>17</volume>:<fpage>165</fpage>&#x02013;<lpage>170</lpage>.<pub-id pub-id-type="pmid">17320443</pub-id></mixed-citation></ref><ref id="jah32916-bib-0036"><label>36</label><mixed-citation publication-type="journal" id="jah32916-cit-0036">
+<string-name>
+<surname>Bode&#x02010;Boger</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Boger</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Loffler</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Tsikas</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Brabant</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Frolich</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>L&#x02010;arginine stimulates NO&#x02010;dependent vasodilation in healthy humans&#x02014;effect of somatostatin pretreatment</article-title>. <source>J Investig Med</source>. <year>1999</year>;<volume>47</volume>:<fpage>43</fpage>&#x02013;<lpage>50</lpage>.</mixed-citation></ref><ref id="jah32916-bib-0037"><label>37</label><mixed-citation publication-type="journal" id="jah32916-cit-0037">
+<string-name>
+<surname>Boger</surname>
+<given-names>RH</given-names>
+</string-name>, <string-name>
+<surname>Skamira</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Bode&#x02010;Boger</surname>
+<given-names>SM</given-names>
+</string-name>, <string-name>
+<surname>Brabant</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>von zur Muhlen</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Frolich</surname>
+<given-names>JC</given-names>
+</string-name>. <article-title>Nitric oxide may mediate the hemodynamic effects of recombinant growth hormone in patients with acquired growth hormone deficiency. A double&#x02010;blind, placebo&#x02010;controlled study</article-title>. <source>J Clin Invest</source>. <year>1996</year>;<volume>98</volume>:<fpage>2706</fpage>&#x02013;<lpage>2713</lpage>.<pub-id pub-id-type="pmid">8981915</pub-id></mixed-citation></ref><ref id="jah32916-bib-0038"><label>38</label><mixed-citation publication-type="journal" id="jah32916-cit-0038">
+<string-name>
+<surname>Abdu</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Elhadd</surname>
+<given-names>TA</given-names>
+</string-name>, <string-name>
+<surname>Buch</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Barton</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Neary</surname>
+<given-names>R</given-names>
+</string-name>, <string-name>
+<surname>Clayton</surname>
+<given-names>RN</given-names>
+</string-name>. <article-title>Recombinant GH replacement in hypopituitary adults improves endothelial cell function and reduces calculated absolute and relative coronary risk</article-title>. <source>Clin Endocrinol (Oxf)</source>. <year>2004</year>;<volume>61</volume>:<fpage>387</fpage>&#x02013;<lpage>393</lpage>.<pub-id pub-id-type="pmid">15355457</pub-id></mixed-citation></ref><ref id="jah32916-bib-0039"><label>39</label><mixed-citation publication-type="journal" id="jah32916-cit-0039">
+<string-name>
+<surname>Tesauro</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Schinzari</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Adamo</surname>
+<given-names>A</given-names>
+</string-name>, <string-name>
+<surname>Rovella</surname>
+<given-names>V</given-names>
+</string-name>, <string-name>
+<surname>Martini</surname>
+<given-names>F</given-names>
+</string-name>, <string-name>
+<surname>Mores</surname>
+<given-names>N</given-names>
+</string-name>, <string-name>
+<surname>Barini</surname>
+<given-names>A</given-names>
+</string-name>,&#x000a0;<string-name>
+<surname>Pitocco</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Ghirlanda</surname>
+<given-names>G</given-names>
+</string-name>, <string-name>
+<surname>Lauro</surname>
+<given-names>D</given-names>
+</string-name>, <string-name>
+<surname>Campia</surname>
+<given-names>U</given-names>
+</string-name>, <string-name>
+<surname>Cardillo</surname>
+<given-names>C</given-names>
+</string-name>. <article-title>Effects of GLP&#x02010;1&#x000a0;on forearm vasodilator function and glucose disposal during hyperinsulinemia in the metabolic syndrome</article-title>. <source>Diabetes Care</source>. <year>2013</year>;<volume>36</volume>:<fpage>683</fpage>&#x02013;<lpage>689</lpage>.<pub-id pub-id-type="pmid">23069838</pub-id></mixed-citation></ref><ref id="jah32916-bib-0040"><label>40</label><mixed-citation publication-type="journal" id="jah32916-cit-0040">
+<string-name>
+<surname>Devin</surname>
+<given-names>JK</given-names>
+</string-name>, <string-name>
+<surname>Pretorius</surname>
+<given-names>M</given-names>
+</string-name>, <string-name>
+<surname>Nian</surname>
+<given-names>H</given-names>
+</string-name>, <string-name>
+<surname>Yu</surname>
+<given-names>C</given-names>
+</string-name>, <string-name>
+<surname>Billings</surname>
+<given-names>FT</given-names>
+<suffix>IV</suffix>
+</string-name>, <string-name>
+<surname>Brown</surname>
+<given-names>NJ</given-names>
+</string-name>. <article-title>Dipeptidyl peptidase&#x02010;4 inhibition and the vascular effects of glucagon like peptide&#x02010;1 (GLP&#x02010;1) and brain natriuretic peptide (BNP) in the human forearm</article-title>. <source>J Am Heart Assoc</source>. <year>2014</year>;<volume>3</volume>:<fpage>e001075</fpage> DOI: <ext-link ext-link-type="doi" xlink:href="10.1161/JAHA.114.001075">10.1161/JAHA.114.001075</ext-link>.<pub-id pub-id-type="pmid">25158865</pub-id></mixed-citation></ref><ref id="jah32916-bib-0041"><label>41</label><mixed-citation publication-type="journal" id="jah32916-cit-0041">
+<string-name>
+<surname>Ban</surname>
+<given-names>K</given-names>
+</string-name>, <string-name>
+<surname>Noyan&#x02010;Ashraf</surname>
+<given-names>MH</given-names>
+</string-name>, <string-name>
+<surname>Hoefer</surname>
+<given-names>J</given-names>
+</string-name>, <string-name>
+<surname>Bolz</surname>
+<given-names>SS</given-names>
+</string-name>, <string-name>
+<surname>Drucker</surname>
+<given-names>DJ</given-names>
+</string-name>, <string-name>
+<surname>Husain</surname>
+<given-names>M</given-names>
+</string-name>. <article-title>Cardioprotective and vasodilatory actions of glucagon&#x02010;like peptide 1 receptor are mediated through both glucagon&#x02010;like peptide 1 receptor&#x02010;dependent and &#x02010;independent pathways</article-title>. <source>Circulation</source>. <year>2008</year>;<volume>117</volume>:<fpage>2340</fpage>&#x02013;<lpage>2350</lpage>.<pub-id pub-id-type="pmid">18427132</pub-id></mixed-citation></ref><ref id="jah32916-bib-0042"><label>42</label><mixed-citation publication-type="journal" id="jah32916-cit-0042">
+<string-name>
+<surname>Muller</surname>
+<given-names>AF</given-names>
+</string-name>, <string-name>
+<surname>Leebeek</surname>
+<given-names>FW</given-names>
+</string-name>, <string-name>
+<surname>Janssen</surname>
+<given-names>JA</given-names>
+</string-name>, <string-name>
+<surname>Lamberts</surname>
+<given-names>SW</given-names>
+</string-name>, <string-name>
+<surname>Hofland</surname>
+<given-names>L</given-names>
+</string-name>, <string-name>
+<surname>van der Lely</surname>
+<given-names>AJ</given-names>
+</string-name>. <article-title>Acute effect of pegvisomant on cardiovascular risk markers in healthy men: implications for the pathogenesis of atherosclerosis in GH deficiency</article-title>. <source>J Clin Endocrinol Metab</source>. <year>2001</year>;<volume>86</volume>:<fpage>5165</fpage>&#x02013;<lpage>5171</lpage>.<pub-id pub-id-type="pmid">11701672</pub-id></mixed-citation></ref><ref id="jah32916-bib-0043"><label>43</label><mixed-citation publication-type="journal" id="jah32916-cit-0043">
+<string-name>
+<surname>Merimee</surname>
+<given-names>TJ</given-names>
+</string-name>, <string-name>
+<surname>Fineberg</surname>
+<given-names>SE</given-names>
+</string-name>, <string-name>
+<surname>Tyson</surname>
+<given-names>JE</given-names>
+</string-name>. <article-title>Fluctuations of human growth hormone secretion during menstrual cycle: response to arginine</article-title>. <source>Metabolism</source>. <year>1969</year>;<volume>18</volume>:<fpage>606</fpage>&#x02013;<lpage>608</lpage>.<pub-id pub-id-type="pmid">5788263</pub-id></mixed-citation></ref><ref id="jah32916-bib-0044"><label>44</label><mixed-citation publication-type="journal" id="jah32916-cit-0044">
+<string-name>
+<surname>Adkisson</surname>
+<given-names>EJ</given-names>
+</string-name>, <string-name>
+<surname>Casey</surname>
+<given-names>DP</given-names>
+</string-name>, <string-name>
+<surname>Beck</surname>
+<given-names>DT</given-names>
+</string-name>, <string-name>
+<surname>Gurovich</surname>
+<given-names>AN</given-names>
+</string-name>, <string-name>
+<surname>Martin</surname>
+<given-names>JS</given-names>
+</string-name>, <string-name>
+<surname>Braith</surname>
+<given-names>RW</given-names>
+</string-name>. <article-title>Central, peripheral and resistance arterial reactivity: fluctuates during the phases of the menstrual cycle</article-title>. <source>Exp Biol Med (Maywood)</source>. <year>2010</year>;<volume>235</volume>:<fpage>111</fpage>&#x02013;<lpage>118</lpage>.<pub-id pub-id-type="pmid">20404025</pub-id></mixed-citation></ref><ref id="jah32916-bib-0045"><label>45</label><mixed-citation publication-type="journal" id="jah32916-cit-0045">
+<string-name>
+<surname>Fideleff</surname>
+<given-names>HL</given-names>
+</string-name>, <string-name>
+<surname>Frigeri</surname>
+<given-names>AE</given-names>
+</string-name>, <string-name>
+<surname>Sobrado</surname>
+<given-names>PG</given-names>
+</string-name>, <string-name>
+<surname>Llano</surname>
+<given-names>MN</given-names>
+</string-name>, <string-name>
+<surname>Ruibal</surname>
+<given-names>GF</given-names>
+</string-name>, <string-name>
+<surname>Boquete</surname>
+<given-names>HR</given-names>
+</string-name>. <article-title>Reproducibility and variability of the arginine test in normal adults. Comparison between sexes</article-title>. <source>Medicina (B Aires)</source>. <year>1999</year>;<volume>59</volume>:<fpage>249</fpage>&#x02013;<lpage>253</lpage>.<pub-id pub-id-type="pmid">10451563</pub-id></mixed-citation></ref></ref-list></back></article>
